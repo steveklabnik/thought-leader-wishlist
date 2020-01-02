@@ -1,0 +1,17 @@
+// Steelfeather Repeater (PvE)
+//notes: We're looking for ways to keep increased DPS for longer, with Osmosis thrown in for high-end PvE w/Match Game. For a PvE roll, barrel, first-column and masterwork perks are gravy
+dimwishlist:item=1251729046&perks=2779035018,4082225868
+dimwishlist:item=1251729046&perks=2779035018,2458213969
+dimwishlist:item=1251729046&perks=2779035018,1774574192
+dimwishlist:item=1251729046&perks=1820235745,4082225868
+dimwishlist:item=1251729046&perks=1820235745,2458213969
+dimwishlist:item=1251729046&perks=1820235745,1774574192
+
+// Steelfeather Repeater (PvP)
+//notes: Range is super low on the Steelfeather. We can get Recoil to 100 with Arrowhead and a Counterbalance mod to slightly compensate, and run Void to get bonus Stability with Elemental Capacitor.
+dimwishlist:item=1251729046&perks=839105230,1561002382,3511092054,150943607#notes:(PvP) Arrowhead + HCR + Elemental Capacitor + Range MW
+dimwishlist:item=1251729046&perks=839105230,1561002382,3511092054,150943604#notes:(PvP) Arrowhead + HCR + Elemental Capacitor + Range MW
+dimwishlist:item=1251729046&perks=839105230,1561002382,3511092054,150943605#notes:(PvP) Arrowhead + HCR + Elemental Capacitor + Range MW
+dimwishlist:item=1251729046&perks=839105230,1885400500,3511092054,150943607#notes:(PvP) Arrowhead + Ricochet + Elemental Capacitor + Range MW
+dimwishlist:item=1251729046&perks=839105230,1885400500,3511092054,150943604#notes:(PvP) Arrowhead + Ricochet + Elemental Capacitor + Range MW
+dimwishlist:item=1251729046&perks=839105230,1885400500,3511092054,150943605#notes:(PvP) Arrowhead + Ricochet + Elemental Capacitor + Range MW
