@@ -15,3 +15,9 @@ dimwishlist:item=1251729046&perks=839105230,1561002382,3511092054,150943605#note
 dimwishlist:item=1251729046&perks=839105230,1885400500,3511092054,150943607#notes:(PvP) Arrowhead + Ricochet + Elemental Capacitor + Range MW
 dimwishlist:item=1251729046&perks=839105230,1885400500,3511092054,150943604#notes:(PvP) Arrowhead + Ricochet + Elemental Capacitor + Range MW
 dimwishlist:item=1251729046&perks=839105230,1885400500,3511092054,150943605#notes:(PvP) Arrowhead + Ricochet + Elemental Capacitor + Range MW
+
+// Breachlight (PvE)
+// 1289997971
+
+// Breachlight (PvP)
+// 1289997971
