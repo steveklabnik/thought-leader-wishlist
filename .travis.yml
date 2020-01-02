@@ -1,0 +1,13 @@
+dist: xenial
+language: ruby
+after_success:
+- git config --global user.email "travis@travis-ci.org"
+- git config --global user.name "Travis CI"
+- git config credential.helper "store --file=.git/wishlist_credentials"
+- echo "https://${GH_TOKEN}:@github.com" > .git/wishlist_credentials
+- git remote add origin https://github.com/rslifka/wishlist.git > /dev/null 2>&1
+- git checkout master
+- git add wishlist.txt
+- git commit -m "Publishing latest version of wishlist (build no. ${TRAVIS_BUILD_NUMBER}) [skip ci]"
+- git push
+- echo "Done!"
