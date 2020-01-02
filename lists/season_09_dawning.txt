@@ -19,3 +19,29 @@ dimwishlist:item=1251729046&perks=839105230,1561002382,3511092054,150943605#note
 dimwishlist:item=1251729046&perks=839105230,1885400500,3511092054,150943607#notes:(PvP) Arrowhead + Ricochet + Elemental Capacitor + Range MW
 dimwishlist:item=1251729046&perks=839105230,1885400500,3511092054,150943604#notes:(PvP) Arrowhead + Ricochet + Elemental Capacitor + Range MW
 dimwishlist:item=1251729046&perks=839105230,1885400500,3511092054,150943605#notes:(PvP) Arrowhead + Ricochet + Elemental Capacitor + Range MW
+
+// Breachlight (PvE)
+//     Some neat PvE combos here from Ehroar's video https://www.youtube.com/watch?v=TrYRPglvMHY
+//     demoing a general purpose great roll along with two specialized rolls for Warlocks.
+dimwishlist:item=1289997971&perks=1168162263,2458213969#notes:(PvE) Outlaw + Multikill Clip [General purpose shredding]
+dimwishlist:item=1289997971&perks=3523296417,3425386926#notes:(PvE) Demolitionist + Rampage [Bottom-tree Warlock shredding; Devour up constantly w/grenade refresh]
+dimwishlist:item=1289997971&perks=3523296417,3425386926#notes:(PvE) Demolitionist + Osmosis [Bottom-tree Warlock shredding; consuming grenade procs devous + Osmosis]
+
+// Breachlight (PvP)
+//     Like Spare Rations, pretty much any roll of Breachlight is going to do
+//     well in the Crucible. In general we're shooting for more Range and
+//     Stability to secure the initial kill. That means some combination of the
+//     following: (Hammer-forged, Smallbore) + Accurized Rounds + Threat Detector +
+//     (Quickdraw, Rampage) + (Range, Stability Masterworks)
+dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,706527188,150943607
+dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,706527188,150943607
+dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,3425386926,150943607
+dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,3425386926,150943607
+dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,706527188,150943604
+dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,706527188,150943604
+dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,3425386926,150943604
+dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,3425386926,150943604
+dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,706527188,150943605
+dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,706527188,150943605
+dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,3425386926,150943605
+dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,3425386926,150943605
