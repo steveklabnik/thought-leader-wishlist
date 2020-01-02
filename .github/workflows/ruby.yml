@@ -14,3 +14,13 @@ jobs:
         gem install bundler
         bundle install --jobs 4 --retry 3
         bundle exec rake
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add wishlist.txt
+        git commit -m "Publishing latest wishlist"
+    - name: GitHub Push
+      uses: ad-m/github-push-action@v0.5.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
