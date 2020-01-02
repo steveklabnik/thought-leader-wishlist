@@ -1,5 +1,7 @@
 # Wishlist
-I tend to play a bit off-meta (well, a lot if you ask my fireteam) so my goal with these lists is to help me decide what rolls of weapons (even if they aren't "the meta") would be solid to use in both PvE and PvP. I'll strive to include as much color in the notes of each weapon as I can.
+I tend to play a bit off-meta (well, a lot if you ask my fireteam!) so my goal with these lists is to help me decide what rolls of weapons (even if they aren't "the meta") would be solid to use in both PvE and PvP. I'll strive to include as much color in the notes of each weapon as I can.
+
+The latest version of the wishlist is surprisingly named `wishlist.txt` found [here](https://raw.githubusercontent.com/rslifka/wishlist/master/wishlist.txt).
 
 **Note that no exotics or ritual/pinnacle weapons are included.**
 * Exotics there are so few of, you can find a million video reviews of them and they don't drop with random rolls.
