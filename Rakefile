@@ -1,3 +1,5 @@
+require 'date'
+
 task :default => ["combine_wishlists"]
 
 desc "Concat everything under ./lists"
