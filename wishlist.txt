@@ -1,4 +1,4 @@
-// Wishlist generated  2 Jan 2020 00:00:00
+// Wishlist generated  3 Jan 2020 02:49:52
 // Up-to-date version: https://github.com/rslifka/wishlist
 
 // Steelfeather Repeater (PvE)
