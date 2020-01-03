@@ -21,7 +21,10 @@ dimwishlist:item=1251729046&perks=839105230,1561002382,3511092054,150943603
 dimwishlist:item=1251729046&perks=839105230,1885400500,3511092054,150943603
 
 // Breachlight (PvE)
-//notes:Some neat PvE combos here from Ehroar's video https://www.youtube.com/watch?v=TrYRPglvMHY demoing a general purpose great roll along with two specialized rolls for Warlocks. As with most other PvE rolls, scopes and masterworks, etc. are more flexible and don't materially change the roll.
+// Some neat PvE combos here from Ehroar's video https://www.youtube.com/watch?v=TrYRPglvMHY
+// demoing a general purpose great roll along with two specialized rolls for
+// Warlocks. As with most other PvE rolls, scopes and masterworks, etc. are
+// more flexible and don't materially change the roll.
 dimwishlist:item=1289997971&perks=1168162263,2458213969#notes:(PvE) Outlaw + Multikill Clip [General purpose shredding]
 dimwishlist:item=1289997971&perks=3523296417,3425386926#notes:(PvE) Demolitionist + Rampage [Bottom-tree Warlock shredding; Devour up constantly w/grenade refresh]
 dimwishlist:item=1289997971&perks=3523296417,3425386926#notes:(PvE) Demolitionist + Osmosis [Bottom-tree Warlock shredding; consuming grenade procs devous + Osmosis]
