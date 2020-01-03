@@ -1,4 +1,4 @@
-name: Ruby
+name: Combine wishlists and commit to master
 on: [push]
 jobs:
   build:
