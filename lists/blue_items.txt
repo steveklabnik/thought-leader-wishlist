@@ -1,0 +1,43 @@
+// Kinetic
+dimwishlist:item=-2351747816#notes:Cuboid ARu 
+dimwishlist:item=-4157959958#notes:Aachen-LR2  
+dimwishlist:item=-1457394910#notes:Botheration Mk.28 
+dimwishlist:item=-2351747819#notes:Ros Lysis II 
+dimwishlist:item=-711899773#notes:Roderic-C 
+dimwishlist:item=-1457394911#notes:Badlands Mk.24 
+dimwishlist:item=-2591586261#notes:Azimuth DSu 
+dimwishlist:item=-1678957656#notes:Bayesian MSu 
+dimwishlist:item=-2591586263#notes:Ballyhoo Mk.27 
+dimwishlist:item=-3906357377#notes:Trax Lysis II 
+dimwishlist:item=-1678957657#notes:Psi Cirrus II 
+dimwishlist:item=-3383958218#notes:Philippis-B 
+dimwishlist:item=-3906357379#notes:Armillary PSu 
+
+// Energy
+dimwishlist:item=-2591586262#notes:Lamia HC2 
+dimwishlist:item=-3441197115#notes:Parsec TSu 
+dimwishlist:item=-4157959956#notes:Tongeren-LR3 
+dimwishlist:item=-1457394908#notes:Fussed Dark Mk.21 
+dimwishlist:item=-3383958216#notes:Harmony-21 
+dimwishlist:item=-4157959959#notes:Damietta-LR2 
+dimwishlist:item=-711899772#notes:Vinegaroon-2si 
+dimwishlist:item=-1678957658#notes:Agrona PR2 
+dimwishlist:item=-2351747817#notes:Refrain-23 
+dimwishlist:item=-3383958217#notes:Furina-2mg 
+dimwishlist:item=-711899774#notes:Requiem SI2 
+dimwishlist:item=-1678957659#notes:Encore-25 
+dimwishlist:item=-2351747818#notes:Sand Wasp-3au 
+dimwishlist:item=-3441197112#notes:Nox Cordis II 
+dimwishlist:item=-3906357376#notes:Madrugada SR2 
+dimwishlist:item=-711899775#notes:Dissonance-34 
+dimwishlist:item=-2591586260#notes:Allegro-34 
+dimwishlist:item=-3441197113#notes:Nox Lumen II 
+dimwishlist:item=-3906357378#notes:Black Tiger-2sr 
+
+// Power
+dimwishlist:item=-3493948734#notes:Stampede Mk.32 
+dimwishlist:item=-1877183764#notes:Reginar-B 
+dimwishlist:item=-3493948735#notes:Plemusa-B 
+dimwishlist:item=-1877183765#notes:Cup-Bearer SA/2 
+dimwishlist:item=-2891976012#notes:Future Imperfect 
+dimwishlist:item=-2891976013#notes:Rest for the Wicked 
