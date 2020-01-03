@@ -1,7 +1,8 @@
-// Wishlist generated  3 Jan 2020 04:52:07
+// Wishlist generated  3 Jan 2020 05:47:53
 // Up-to-date version: https://github.com/rslifka/wishlist
 
 // Steelfeather Repeater (PvE)
+// https://www.light.gg/db/items/1251729046/steelfeather-repeater/
 //notes:We're looking for ways to keep increased DPS for longer, with Osmosis thrown in for high-end PvE w/Match Game. For a PvE roll, barrel, first-column and masterwork perks are gravy. We're looking for: (Feeding Frenzy, Subsistence) + (Swashbuckler, Multikill Clip, Osmosis)
 dimwishlist:item=1251729046&perks=2779035018,4082225868
 dimwishlist:item=1251729046&perks=1820235745,4082225868
@@ -11,6 +12,7 @@ dimwishlist:item=1251729046&perks=2779035018,1774574192
 dimwishlist:item=1251729046&perks=1820235745,1774574192
 
 // Steelfeather Repeater (PvP)
+// https://www.light.gg/db/items/1251729046/steelfeather-repeater/
 //notes:Range is super low on the Steelfeather. We can get Recoil to 100 with Arrowhead and a Counterbalance mod to slightly compensate, and run Void to get bonus Stability with Elemental Capacitor. We're looking for: Arrowhead Brake + (HCR, Ricochet) + Elemental Capacitor + Range MW
 dimwishlist:item=1251729046&perks=839105230,1561002382,3511092054,150943607
 dimwishlist:item=1251729046&perks=839105230,1885400500,3511092054,150943607
@@ -24,6 +26,7 @@ dimwishlist:item=1251729046&perks=839105230,1561002382,3511092054,150943603
 dimwishlist:item=1251729046&perks=839105230,1885400500,3511092054,150943603
 
 // Breachlight (PvE)
+// https://www.light.gg/db/items/1289997971/breachlight/
 // Some neat PvE combos here from Ehroar's video https://www.youtube.com/watch?v=TrYRPglvMHY
 // demoing a general purpose great roll along with two specialized rolls for
 // Warlocks. As with most other PvE rolls, scopes and masterworks, etc. are
@@ -33,7 +36,8 @@ dimwishlist:item=1289997971&perks=3523296417,3425386926#notes:(PvE) Demolitionis
 dimwishlist:item=1289997971&perks=3523296417,3425386926#notes:(PvE) Demolitionist + Osmosis [Bottom-tree Warlock shredding; consuming grenade procs devous + Osmosis]
 
 // Breachlight (PvP)
-//notes:Like Spare Rations, pretty much any roll of Breachlight is going to do well in the Crucible. With sidearms (and well, all weapons in general) I opt for perks to secure the initial kill in PvP. We're looking for (Hammer-forged, Smallbore) + Accurized Rounds + Threat Detector + Quickdraw + Range Masterwork
+// https://www.light.gg/db/items/1289997971/breachlight/
+//notes:Pretty much any roll of Breachlight is going to do well in the Crucible. With sidearms (and well, all weapons in general) I opt for perks to secure the initial kill in PvP. We're looking for (Hammer-forged, Smallbore) + Accurized Rounds + Threat Detector + Quickdraw + Range Masterwork
 dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,706527188,150943607
 dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,706527188,150943607
 dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,706527188,150943604
@@ -44,3 +48,48 @@ dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,706527188,150
 dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,706527188,150943602
 dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,706527188,150943603
 dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,706527188,150943603
+
+// Patron of Lost Causes (PvE)
+// https://www.light.gg/db/items/2723241847/patron-of-lost-causes/
+//notes:CoolGuy goes ham on PoLC - https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s. For PvE, it's the only scout (as of now) that can roll Vorpal and Osmosis. Not a super high priority for PvE and not a terribly hard set of perks to farm.
+dimwishlist:item=2723241847&perks=247725512,1774574192
+dimwishlist:item=2723241847&perks=247725512,1546637391
+
+// Patron of Lost Causes (PvP)
+// https://www.light.gg/db/items/2723241847/patron-of-lost-causes/
+//notes:CoolGuy goes ham on PoLC - https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s. I'm on controller so these rolls are all about maxing our stability. Fortunately we have a pretty broad set of useful rolls as we're looking for (Smallbore, Corkscrew, Chambered, Polygonal, Fluted) + (Tactical Mag, Steady Rounds, Flared Magwell) + Rapid Hit + (Explosive Rounds, Elemental Capacitor)
+dimwishlist:item=2723241847&perks=1482024992,106909392,247725512,3038247973
+dimwishlist:item=2723241847&perks=4090651448,106909392,247725512,3038247973
+dimwishlist:item=2723241847&perks=3661387068,106909392,247725512,3038247973
+dimwishlist:item=2723241847&perks=1392496348,106909392,247725512,3038247973
+dimwishlist:item=2723241847&perks=1840239774,106909392,247725512,3038247973
+dimwishlist:item=2723241847&perks=1482024992,3177308360,247725512,3038247973
+dimwishlist:item=2723241847&perks=4090651448,3177308360,247725512,3038247973
+dimwishlist:item=2723241847&perks=3661387068,3177308360,247725512,3038247973
+dimwishlist:item=2723241847&perks=1392496348,3177308360,247725512,3038247973
+dimwishlist:item=2723241847&perks=1840239774,3177308360,247725512,3038247973
+dimwishlist:item=2723241847&perks=1482024992,3230963543,247725512,3038247973
+dimwishlist:item=2723241847&perks=4090651448,3230963543,247725512,3038247973
+dimwishlist:item=2723241847&perks=3661387068,3230963543,247725512,3038247973
+dimwishlist:item=2723241847&perks=1392496348,3230963543,247725512,3038247973
+dimwishlist:item=2723241847&perks=1840239774,3230963543,247725512,3038247973
+dimwishlist:item=2723241847&perks=1482024992,106909392,247725512,3511092054
+dimwishlist:item=2723241847&perks=4090651448,106909392,247725512,3511092054
+dimwishlist:item=2723241847&perks=3661387068,106909392,247725512,3511092054
+dimwishlist:item=2723241847&perks=1392496348,106909392,247725512,3511092054
+dimwishlist:item=2723241847&perks=1840239774,106909392,247725512,3511092054
+dimwishlist:item=2723241847&perks=1482024992,3177308360,247725512,3511092054
+dimwishlist:item=2723241847&perks=4090651448,3177308360,247725512,3511092054
+dimwishlist:item=2723241847&perks=3661387068,3177308360,247725512,3511092054
+dimwishlist:item=2723241847&perks=1392496348,3177308360,247725512,3511092054
+dimwishlist:item=2723241847&perks=1840239774,3177308360,247725512,3511092054
+dimwishlist:item=2723241847&perks=1482024992,3230963543,247725512,3511092054
+dimwishlist:item=2723241847&perks=4090651448,3230963543,247725512,3511092054
+dimwishlist:item=2723241847&perks=3661387068,3230963543,247725512,3511092054
+dimwishlist:item=2723241847&perks=1392496348,3230963543,247725512,3511092054
+dimwishlist:item=2723241847&perks=1840239774,3230963543,247725512,3511092054
+
+// Line in the Sand (PvE)
+// https://www.light.gg/db/items/946443267/line-in-the-sand/
+//notes:I only suggest this for completeness (legendary arc LFR in the power slot). It's not that great. Make it your lowest priority farm. Thank you Ehroar! https://www.youtube.com/watch?v=AqI4PumNVC0. We're looking for Rapid Hit + Firing Line.
+dimwishlist:item=946443267&perks=247725512,1771339417
