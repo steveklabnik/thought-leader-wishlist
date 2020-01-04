@@ -1,6 +1,49 @@
-// Wishlist generated  3 Jan 2020 05:47:53
+// Wishlist generated  4 Jan 2020 17:11:29
 // Up-to-date version: https://github.com/rslifka/wishlist
 
+// Kinetic
+dimwishlist:item=-2351747816#notes:Cuboid ARu 
+dimwishlist:item=-4157959958#notes:Aachen-LR2  
+dimwishlist:item=-1457394910#notes:Botheration Mk.28 
+dimwishlist:item=-2351747819#notes:Ros Lysis II 
+dimwishlist:item=-711899773#notes:Roderic-C 
+dimwishlist:item=-1457394911#notes:Badlands Mk.24 
+dimwishlist:item=-2591586261#notes:Azimuth DSu 
+dimwishlist:item=-1678957656#notes:Bayesian MSu 
+dimwishlist:item=-2591586263#notes:Ballyhoo Mk.27 
+dimwishlist:item=-3906357377#notes:Trax Lysis II 
+dimwishlist:item=-1678957657#notes:Psi Cirrus II 
+dimwishlist:item=-3383958218#notes:Philippis-B 
+dimwishlist:item=-3906357379#notes:Armillary PSu 
+
+// Energy
+dimwishlist:item=-2591586262#notes:Lamia HC2 
+dimwishlist:item=-3441197115#notes:Parsec TSu 
+dimwishlist:item=-4157959956#notes:Tongeren-LR3 
+dimwishlist:item=-1457394908#notes:Fussed Dark Mk.21 
+dimwishlist:item=-3383958216#notes:Harmony-21 
+dimwishlist:item=-4157959959#notes:Damietta-LR2 
+dimwishlist:item=-711899772#notes:Vinegaroon-2si 
+dimwishlist:item=-1678957658#notes:Agrona PR2 
+dimwishlist:item=-2351747817#notes:Refrain-23 
+dimwishlist:item=-3383958217#notes:Furina-2mg 
+dimwishlist:item=-711899774#notes:Requiem SI2 
+dimwishlist:item=-1678957659#notes:Encore-25 
+dimwishlist:item=-2351747818#notes:Sand Wasp-3au 
+dimwishlist:item=-3441197112#notes:Nox Cordis II 
+dimwishlist:item=-3906357376#notes:Madrugada SR2 
+dimwishlist:item=-711899775#notes:Dissonance-34 
+dimwishlist:item=-2591586260#notes:Allegro-34 
+dimwishlist:item=-3441197113#notes:Nox Lumen II 
+dimwishlist:item=-3906357378#notes:Black Tiger-2sr 
+
+// Power
+dimwishlist:item=-3493948734#notes:Stampede Mk.32 
+dimwishlist:item=-1877183764#notes:Reginar-B 
+dimwishlist:item=-3493948735#notes:Plemusa-B 
+dimwishlist:item=-1877183765#notes:Cup-Bearer SA/2 
+dimwishlist:item=-2891976012#notes:Future Imperfect 
+dimwishlist:item=-2891976013#notes:Rest for the Wicked 
 // Steelfeather Repeater (PvE)
 // https://www.light.gg/db/items/1251729046/steelfeather-repeater/
 //notes:We're looking for ways to keep increased DPS for longer, with Osmosis thrown in for high-end PvE w/Match Game. For a PvE roll, barrel, first-column and masterwork perks are gravy. We're looking for: (Feeding Frenzy, Subsistence) + (Swashbuckler, Multikill Clip, Osmosis)
@@ -93,3 +136,69 @@ dimwishlist:item=2723241847&perks=1840239774,3230963543,247725512,3511092054
 // https://www.light.gg/db/items/946443267/line-in-the-sand/
 //notes:I only suggest this for completeness (legendary arc LFR in the power slot). It's not that great. Make it your lowest priority farm. Thank you Ehroar! https://www.youtube.com/watch?v=AqI4PumNVC0. We're looking for Rapid Hit + Firing Line.
 dimwishlist:item=946443267&perks=247725512,1771339417
+
+// Martyr's Retribution (PvE)
+// https://www.light.gg/db/items/3850168899/martyrs-retribution/
+//notes:This is one of my favourite weapons in all of Destiny! Pretty much any roll is fine but if you want to push your roll criteria, here we go. We're looking for (Countermass, Smart Drift Control, Quick Launch, Hard Launch) + (Auto Loading Holster, Threat Detector) + Demolistionist + (Any Masterwork). Threat Detector might seem odd, but it increases reload speed and because this GL doesn't do any impact damage, it will have great reload up close.
+dimwishlist:item=385016889&perks=3809316345,3300816228,3523296417
+dimwishlist:item=385016889&perks=3798852852,3300816228,3523296417
+dimwishlist:item=385016889&perks=3525010810,3300816228,3523296417
+dimwishlist:item=385016889&perks=981914802,3300816228,3523296417
+dimwishlist:item=385016889&perks=3809316345,4071163871,3523296417
+dimwishlist:item=385016889&perks=3798852852,4071163871,3523296417
+dimwishlist:item=385016889&perks=3525010810,4071163871,3523296417
+dimwishlist:item=385016889&perks=981914802,4071163871,3523296417
+
+// Martyr's Retribution (PvP)
+// https://www.light.gg/db/items/3850168899/martyrs-retribution/
+//notes:This is for use from range, and Blast Radius doesn't do anything on Wave Frame launchers - simple wishlist here :) We're looking for (Smart Drift Control, Quick Launch) + Auto Loading Holster + Elemental Capacitor + (Reload, Handling MW). Why not Demolistionist? You're not going to get final blows with this so much in PvP and with ALH, it will always be loaded. I'd rather have better handling or reload with Elemental Capacitor always-on.
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224747,4283235143
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224747,4283235143
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224744,4283235143
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224744,4283235143
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224745,4283235143
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224745,4283235143
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224750,4283235143
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224750,4283235143
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224751,4283235143
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224751,4283235143
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224747,4283235140
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224747,4283235140
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224744,4283235140
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224744,4283235140
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224745,4283235140
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224745,4283235140
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224750,4283235140
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224750,4283235140
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224751,4283235140
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224751,4283235140
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224747,4283235141
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224747,4283235141
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224744,4283235141
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224744,4283235141
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224745,4283235141
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224745,4283235141
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224750,4283235141
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224750,4283235141
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224751,4283235141
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224751,4283235141
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224747,4283235138
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224747,4283235138
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224744,4283235138
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224744,4283235138
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224745,4283235138
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224745,4283235138
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224750,4283235138
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224750,4283235138
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224751,4283235138
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224751,4283235138
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224747,4283235139
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224747,4283235139
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224744,4283235139
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224744,4283235139
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224745,4283235139
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224745,4283235139
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224750,4283235139
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224750,4283235139
+dimwishlist:item=3850168899&perks=3798852852,3300816228,518224751,4283235139
+dimwishlist:item=3850168899&perks=3525010810,3300816228,518224751,4283235139
