@@ -12,6 +12,7 @@ dimwishlist:item=-3906357377#notes:Trax Lysis II
 dimwishlist:item=-1678957657#notes:Psi Cirrus II 
 dimwishlist:item=-3383958218#notes:Philippis-B 
 dimwishlist:item=-3906357379#notes:Armillary PSu 
+dimwishlist:item=-3383958219#notes:Protostar CSu
 
 // Energy
 dimwishlist:item=-2591586262#notes:Lamia HC2 
