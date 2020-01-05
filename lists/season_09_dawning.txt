@@ -93,7 +93,7 @@ dimwishlist:item=946443267&perks=247725512,1771339417
 
 // Martyr's Retribution (PvE)
 // https://www.light.gg/db/items/3850168899/martyrs-retribution/
-//notes:This is one of my favourite weapons in all of Destiny! Pretty much any roll is fine but if you want to push your roll criteria, here we go. We're looking for (Countermass, Smart Drift Control, Quick Launch, Hard Launch) + (Auto Loading Holster, Threat Detector) + Demolistionist + (Any Masterwork). Threat Detector might seem odd, but it increases reload speed and because this GL doesn't do any impact damage, it will have great reload up close.
+//notes:This is one of my favourite weapons in all of Destiny! Pretty much any roll is fine but if you want to push your roll criteria, here we go. We're looking for (Countermass, Smart Drift Control, Quick Launch, Hard Launch) + (Auto Loading Holster, Threat Detector) + demolitionist + (Any Masterwork). Threat Detector might seem odd, but it increases reload speed and because this GL doesn't do any impact damage, it will have great reload up close.
 dimwishlist:item=385016889&perks=3809316345,3300816228,3523296417
 dimwishlist:item=385016889&perks=3798852852,3300816228,3523296417
 dimwishlist:item=385016889&perks=3525010810,3300816228,3523296417
@@ -105,7 +105,7 @@ dimwishlist:item=385016889&perks=981914802,4071163871,3523296417
 
 // Martyr's Retribution (PvP)
 // https://www.light.gg/db/items/3850168899/martyrs-retribution/
-//notes:This is for use from range, and Blast Radius doesn't do anything on Wave Frame launchers - simple wishlist here :) We're looking for (Smart Drift Control, Quick Launch) + Auto Loading Holster + Elemental Capacitor + (Reload, Handling MW). Why not Demolistionist? You're not going to get final blows with this so much in PvP and with ALH, it will always be loaded. I'd rather have better handling or reload with Elemental Capacitor always-on.
+//notes:This is for use from range, and Blast Radius doesn't do anything on Wave Frame launchers - simple wishlist here :) We're looking for (Smart Drift Control, Quick Launch) + Auto Loading Holster + Elemental Capacitor + (Reload, Handling MW). Why not demolitionist? You're not going to get final blows with this so much in PvP and with ALH, it will always be loaded. I'd rather have better handling or reload with Elemental Capacitor always-on.
 dimwishlist:item=3850168899&perks=3798852852,3300816228,518224747,4283235143
 dimwishlist:item=3850168899&perks=3525010810,3300816228,518224747,4283235143
 dimwishlist:item=3850168899&perks=3798852852,3300816228,518224744,4283235143
@@ -156,3 +156,22 @@ dimwishlist:item=3850168899&perks=3798852852,3300816228,518224750,4283235139
 dimwishlist:item=3850168899&perks=3525010810,3300816228,518224750,4283235139
 dimwishlist:item=3850168899&perks=3798852852,3300816228,518224751,4283235139
 dimwishlist:item=3850168899&perks=3525010810,3300816228,518224751,4283235139
+
+// Gallant Charge (PvE)
+// https://www.light.gg/db/items/1706206669/gallant-charge/
+//notes:Fusions don't totally shine in PvE but with Demolitionist this could be interesting. Add in Swashbuckler for an instant x5 on melee kills (over Rampage) and you have an interesting one to consider. Barrels, magazines and masterworks don't matter too much here.
+dimwishlist:item=1706206669&perks=3523296417,4082225868
+
+// Gallant Charge (PvP)
+// https://www.light.gg/db/items/1706206669/gallant-charge/
+//notes:Gallant Charge is to Stability as Erentil is to Range. If you want great range, farm an Erentil from Menagerie. I want something different so these rolls are all about maximizing stability wherever possible. We're looking for (Extended Barrel, Chambered Compensator) + Particle Repeater + Demolitionist + Tap the Trigger + Stability MW.
+dimwishlist:item=1706206669&perks=1467527085,3868766766,3523296417,1890422124,1590375901
+dimwishlist:item=1706206669&perks=3661387068,3868766766,3523296417,1890422124,1590375901
+dimwishlist:item=1706206669&perks=1467527085,3868766766,3523296417,1890422124,1590375902
+dimwishlist:item=1706206669&perks=3661387068,3868766766,3523296417,1890422124,1590375902
+dimwishlist:item=1706206669&perks=1467527085,3868766766,3523296417,1890422124,1590375903
+dimwishlist:item=1706206669&perks=3661387068,3868766766,3523296417,1890422124,1590375903
+dimwishlist:item=1706206669&perks=1467527085,3868766766,3523296417,1890422124,1590375896
+dimwishlist:item=1706206669&perks=3661387068,3868766766,3523296417,1890422124,1590375896
+dimwishlist:item=1706206669&perks=1467527085,3868766766,3523296417,1890422124,1590375897
+dimwishlist:item=1706206669&perks=3661387068,3868766766,3523296417,1890422124,1590375897
