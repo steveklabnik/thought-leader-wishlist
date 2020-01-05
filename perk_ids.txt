@@ -6,6 +6,7 @@ Arrowhead Brake - 839105230
 Chambered - 3661387068
 Corkscrew - 4090651448
 Countermass - 3809316345
+Extended Barrel - 1467527085
 Fluted - 1840239774
 Hammer-forged - 3250034553
 Hard Launch - 981914802
@@ -19,6 +20,7 @@ Magazines
 Accurized Rounds - 3142289711
 Flared Magwell - 3230963543
 High-Caliber Rounds - 1561002382
+Particle Repeater - 3868766766
 Ricochet Rounds - 1885400500
 Steady Rounds - 3177308360
 Tactical Mag - 106909392
@@ -40,6 +42,7 @@ Rampage - 3425386926
 Rapid Hit - 247725512
 Subsistence - 1820235745
 Swashbuckler - 4082225868
+Tap the Trigger - 1890422124
 Threat Detector - 4071163871
 Vorpal - 1546637391
 
