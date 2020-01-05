@@ -33,6 +33,7 @@ Elemental Capacitor - 3511092054
 Explosive Rounds - 3038247973
 Feeding Frenzy - 2779035018
 Firing Line - 1771339417
+Firmly Planted - 280464955
 Full Auto - 4267945040
 Multikill Clip - 1820235745
 Osmosis - 1774574192
@@ -40,6 +41,7 @@ Outlaw - 1168162263
 Quickdraw - 706527188
 Rampage - 3425386926
 Rapid Hit - 247725512
+Slideways - 2039302152
 Subsistence - 1820235745
 Swashbuckler - 4082225868
 Tap the Trigger - 1890422124
