@@ -17,16 +17,20 @@ desc "Extract notes on thought process for all weapons"
 task :thought_process do
   File.open('thought_process.md', 'w') do |thoughts|
     thoughts.puts("From wishlist generated around #{DateTime.now.strftime("%e %b %Y %H:%M:%S")}")
+    thoughts.puts('')
     thoughts.puts('An up-to-date version can be found [here](https://github.com/rslifka/wishlist)')
 
     wishlist = File.read('wishlist.txt')
+    item_name = ''
+    lightgg_link = ''
     wishlist.each_line do |line|
       line.match(/\/\/item:(.*),lightgg:(.*)/) do |m|
-        thoughts.puts "## #{m[1]}"
-        thoughts.puts "[View on light.gg](#{m[2]})"
+        item_name = m[1]
+        lightgg_link = m[2]
       end
       line.match(/\/\/notes:(.*)/) do |m|
-        thoughts.puts m[1]
+        thoughts.puts "## #{item_name}"
+        thoughts.puts "#{m[1]} ([view item on light.gg](#{lightgg_link}))"
       end
     end
   end
