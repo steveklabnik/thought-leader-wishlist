@@ -1,4 +1,4 @@
-// Wishlist generated around  5 Jan 2020 01:05:04
+// Wishlist generated around  5 Jan 2020 13:34:07
 // Up-to-date version: https://github.com/rslifka/wishlist
 
 // Kinetic
@@ -15,6 +15,7 @@ dimwishlist:item=-3906357377#notes:Trax Lysis II
 dimwishlist:item=-1678957657#notes:Psi Cirrus II 
 dimwishlist:item=-3383958218#notes:Philippis-B 
 dimwishlist:item=-3906357379#notes:Armillary PSu 
+dimwishlist:item=-3383958219#notes:Protostar CSu
 
 // Energy
 dimwishlist:item=-2591586262#notes:Lamia HC2 
@@ -55,17 +56,27 @@ dimwishlist:item=1251729046&perks=2779035018,1774574192
 dimwishlist:item=1251729046&perks=1820235745,1774574192
 
 //item:Steelfeather Repeater (PvP),lightgg:https://www.light.gg/db/items/1251729046/steelfeather-repeater/
-//notes:Range is super low on the Steelfeather. We can get Recoil to 100 with Arrowhead and a Counterbalance mod to slightly compensate, and run Void to get bonus Stability with Elemental Capacitor. We're looking for: Arrowhead Brake + (HCR, Ricochet) + Elemental Capacitor + Range MW
-dimwishlist:item=1251729046&perks=839105230,1561002382,3511092054,150943607
-dimwishlist:item=1251729046&perks=839105230,1885400500,3511092054,150943607
-dimwishlist:item=1251729046&perks=839105230,1561002382,3511092054,150943604
-dimwishlist:item=1251729046&perks=839105230,1885400500,3511092054,150943604
-dimwishlist:item=1251729046&perks=839105230,1561002382,3511092054,150943605
-dimwishlist:item=1251729046&perks=839105230,1885400500,3511092054,150943605
-dimwishlist:item=1251729046&perks=839105230,1561002382,3511092054,150943602
-dimwishlist:item=1251729046&perks=839105230,1885400500,3511092054,150943602
-dimwishlist:item=1251729046&perks=839105230,1561002382,3511092054,150943603
-dimwishlist:item=1251729046&perks=839105230,1885400500,3511092054,150943603
+//notes:We're going for straight-up recoil and insane stability here. We can get Recoil to 100 with Arrowhead and a Counterbalance mod. We're looking for: Arrowhead Brake + (HCR, Ricochet) + (Firmly Planted, Slideways) + Elemental Capacitor + Stability MW
+dimwishlist:item=1251729046&perks=839105230,1561002382,280464955,3511092054,1590375901
+dimwishlist:item=1251729046&perks=839105230,1885400500,280464955,3511092054,1590375901
+dimwishlist:item=1251729046&perks=839105230,1561002382,2039302152,3511092054,1590375901
+dimwishlist:item=1251729046&perks=839105230,1885400500,2039302152,3511092054,1590375901
+dimwishlist:item=1251729046&perks=839105230,1561002382,280464955,3511092054,1590375902
+dimwishlist:item=1251729046&perks=839105230,1885400500,280464955,3511092054,1590375902
+dimwishlist:item=1251729046&perks=839105230,1561002382,2039302152,3511092054,1590375902
+dimwishlist:item=1251729046&perks=839105230,1885400500,2039302152,3511092054,1590375902
+dimwishlist:item=1251729046&perks=839105230,1561002382,280464955,3511092054,1590375903
+dimwishlist:item=1251729046&perks=839105230,1885400500,280464955,3511092054,1590375903
+dimwishlist:item=1251729046&perks=839105230,1561002382,2039302152,3511092054,1590375903
+dimwishlist:item=1251729046&perks=839105230,1885400500,2039302152,3511092054,1590375903
+dimwishlist:item=1251729046&perks=839105230,1561002382,280464955,3511092054,1590375896
+dimwishlist:item=1251729046&perks=839105230,1885400500,280464955,3511092054,1590375896
+dimwishlist:item=1251729046&perks=839105230,1561002382,2039302152,3511092054,1590375896
+dimwishlist:item=1251729046&perks=839105230,1885400500,2039302152,3511092054,1590375896
+dimwishlist:item=1251729046&perks=839105230,1561002382,280464955,3511092054,1590375897
+dimwishlist:item=1251729046&perks=839105230,1885400500,280464955,3511092054,1590375897
+dimwishlist:item=1251729046&perks=839105230,1561002382,2039302152,3511092054,1590375897
+dimwishlist:item=1251729046&perks=839105230,1885400500,2039302152,3511092054,1590375897
 
 //item:Breachlight (PvE),lightgg:https://www.light.gg/db/items/1289997971/breachlight/
 //notes:Some neat PvE combos here from Ehroar's video https://www.youtube.com/watch?v=TrYRPglvMHY demoing a general purpose great roll along with two specialized rolls for Warlocks. As with most other PvE rolls, scopes and masterworks, etc. are more flexible and don't materially change the roll.
