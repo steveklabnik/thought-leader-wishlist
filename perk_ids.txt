@@ -35,6 +35,7 @@ Feeding Frenzy - 2779035018
 Firing Line - 1771339417
 Firmly Planted - 280464955
 Full Auto - 4267945040
+Moving Target - 588594999
 Multikill Clip - 1820235745
 Osmosis - 1774574192
 Outlaw - 1168162263
@@ -47,6 +48,7 @@ Swashbuckler - 4082225868
 Tap the Trigger - 1890422124
 Threat Detector - 4071163871
 Vorpal - 1546637391
+Zen Moment - 2387244414
 
 Masterworks
 ------------------------------------------
