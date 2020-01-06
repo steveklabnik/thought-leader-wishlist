@@ -1,4 +1,4 @@
-From wishlist generated around  5 Jan 2020 13:34:07
+From wishlist generated around  6 Jan 2020 04:16:52
 
 An up-to-date version can be found [here](https://github.com/rslifka/wishlist)
 ## Steelfeather Repeater (PvE)
@@ -23,3 +23,7 @@ This is for use from range, and Blast Radius doesn't do anything on Wave Frame l
 Fusions don't totally shine in PvE but with Demolitionist this could be interesting. Add in Swashbuckler for an instant x5 on melee kills (over Rampage) and you have an interesting one to consider. Barrels, magazines and masterworks don't matter too much here. ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
 ## Gallant Charge (PvP)
 Gallant Charge is to Stability as Erentil is to Range. If you want great range, farm an Erentil from Menagerie. I want something different so these rolls are all about maximizing stability wherever possible. We're looking for (Extended Barrel, Chambered Compensator) + Particle Repeater + Demolitionist + Tap the Trigger + Stability MW. ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
+## Infinite Paths 8 (PvE)
+CoolGuy dropping serious knowledge here https://www.youtube.com/watch?v=-ZnUT63RgnE. "Great for mid and low-tier adds." We're going for either Demo+Dragon (don't forget a dragonfly spec!) or Grave Robber + Swashbuckler. ([view item on light.gg](https://www.light.gg/db/items/3233390913/infinite-paths-8/))
+## Infinite Paths 8 (PvP)
+CoolGuy dropping serious knowledge here https://www.youtube.com/watch?v=-ZnUT63RgnE. "Currently they're the only frame I wouldn't take in to 5500 Comp. Use Rapid-fire frame." If you want some rolls, here's what I put together from the video: Arrowhead Brake + Steady Rounds + Moving Target + (Zen Moment, Swashbuckler) + Stability MW ([view item on light.gg](https://www.light.gg/db/items/3233390913/infinite-paths-8/))

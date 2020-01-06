@@ -1,4 +1,4 @@
-// Wishlist generated around  5 Jan 2020 13:34:07
+// Wishlist generated around  6 Jan 2020 04:16:52
 // Up-to-date version: https://github.com/rslifka/wishlist
 
 // Kinetic
@@ -219,4 +219,22 @@ dimwishlist:item=1706206669&perks=1467527085,3868766766,3523296417,1890422124,15
 dimwishlist:item=1706206669&perks=3661387068,3868766766,3523296417,1890422124,1590375896
 dimwishlist:item=1706206669&perks=1467527085,3868766766,3523296417,1890422124,1590375897
 dimwishlist:item=1706206669&perks=3661387068,3868766766,3523296417,1890422124,1590375897
+
+//item:Infinite Paths 8 (PvE),lightgg:https://www.light.gg/db/items/3233390913/infinite-paths-8/
+//notes:CoolGuy dropping serious knowledge here https://www.youtube.com/watch?v=-ZnUT63RgnE. "Great for mid and low-tier adds." We're going for either Demo+Dragon (don't forget a dragonfly spec!) or Grave Robber + Swashbuckler.
+dimwishlist:item=3233390913&perks=3523296417,2848615171
+dimwishlist:item=3233390913&perks=1631667848,4082225868
+
+//item:Infinite Paths 8 (PvP),lightgg:https://www.light.gg/db/items/3233390913/infinite-paths-8/
+//notes:CoolGuy dropping serious knowledge here https://www.youtube.com/watch?v=-ZnUT63RgnE. "Currently they're the only frame I wouldn't take in to 5500 Comp. Use Rapid-fire frame." If you want some rolls, here's what I put together from the video: Arrowhead Brake + Steady Rounds + Moving Target + (Zen Moment, Swashbuckler) + Stability MW
+dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,2387244414,1590375901
+dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,4082225868,1590375901
+dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,2387244414,1590375902
+dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,4082225868,1590375902
+dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,2387244414,1590375903
+dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,4082225868,1590375903
+dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,2387244414,1590375896
+dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,4082225868,1590375896
+dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,2387244414,1590375897
+dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,4082225868,1590375897
 
