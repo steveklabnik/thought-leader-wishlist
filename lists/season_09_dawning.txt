@@ -189,3 +189,19 @@ dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,2387244414,1590
 dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,4082225868,1590375896
 dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,2387244414,1590375897
 dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,4082225868,1590375897
+
+//item:Traveler's Judgement 5 (PvE),lightgg:https://www.light.gg/db/items/4149758318/travelers-judgment-5/
+//notes:CoolGuy brings the heat again! https://www.youtube.com/watch?v=J4HGIAZQdY4. We're looking for (Rapid Hit, Feeding Frenzy) + (Disruption Break, Dragonfly). Watch the video to see why Disruption Break is recommended :)
+dimwishlist:item=4149758318&perks=247725512,1683379515
+dimwishlist:item=4149758318&perks=2779035018,1683379515
+dimwishlist:item=4149758318&perks=247725512,2848615171
+dimwishlist:item=4149758318&perks=2779035018,2848615171
+
+//item:Traveler's Judgement 5 (PvP),lightgg:https://www.light.gg/db/items/4149758318/travelers-judgment-5/
+//notes:CoolGuy brings the heat again! https://www.youtube.com/watch?v=J4HGIAZQdY4. We're looking for (HCR, Armor-Piercing, Richochet) + Rapid-Hit + Tap the Trigger
+dimwishlist:item=4149758318&perks=1561002382,247725512,1890422124
+dimwishlist:item=4149758318&perks=1885400500,247725512,1890422124
+dimwishlist:item=4149758318&perks=1968497646,247725512,1890422124
+dimwishlist:item=4149758318&perks=1561002382,247725512,1683379515
+dimwishlist:item=4149758318&perks=1885400500,247725512,1683379515
+dimwishlist:item=4149758318&perks=1968497646,247725512,1683379515
