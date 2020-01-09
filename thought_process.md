@@ -1,4 +1,4 @@
-From wishlist generated around  6 Jan 2020 04:16:52
+From wishlist generated around  9 Jan 2020 05:29:39
 
 An up-to-date version can be found [here](https://github.com/rslifka/wishlist)
 ## Steelfeather Repeater (PvE)
@@ -27,3 +27,7 @@ Gallant Charge is to Stability as Erentil is to Range. If you want great range, 
 CoolGuy dropping serious knowledge here https://www.youtube.com/watch?v=-ZnUT63RgnE. "Great for mid and low-tier adds." We're going for either Demo+Dragon (don't forget a dragonfly spec!) or Grave Robber + Swashbuckler. ([view item on light.gg](https://www.light.gg/db/items/3233390913/infinite-paths-8/))
 ## Infinite Paths 8 (PvP)
 CoolGuy dropping serious knowledge here https://www.youtube.com/watch?v=-ZnUT63RgnE. "Currently they're the only frame I wouldn't take in to 5500 Comp. Use Rapid-fire frame." If you want some rolls, here's what I put together from the video: Arrowhead Brake + Steady Rounds + Moving Target + (Zen Moment, Swashbuckler) + Stability MW ([view item on light.gg](https://www.light.gg/db/items/3233390913/infinite-paths-8/))
+## Traveler's Judgement 5 (PvE)
+CoolGuy brings the heat again! https://www.youtube.com/watch?v=J4HGIAZQdY4. We're looking for (Rapid Hit, Feeding Frenzy) + (Disruption Break, Dragonfly). Watch the video to see why Disruption Break is recommended :) ([view item on light.gg](https://www.light.gg/db/items/4149758318/travelers-judgment-5/))
+## Traveler's Judgement 5 (PvP)
+CoolGuy brings the heat again! https://www.youtube.com/watch?v=J4HGIAZQdY4. We're looking for (HCR, Armor-Piercing, Richochet) + Rapid-Hit + Tap the Trigger ([view item on light.gg](https://www.light.gg/db/items/4149758318/travelers-judgment-5/))
