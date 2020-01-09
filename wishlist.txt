@@ -1,4 +1,4 @@
-// Wishlist generated around  9 Jan 2020 05:29:39
+// Wishlist generated around  9 Jan 2020 20:14:40
 // Up-to-date version: https://github.com/rslifka/wishlist
 
 // Kinetic
@@ -77,6 +77,13 @@ dimwishlist:item=1251729046&perks=839105230,1561002382,280464955,3511092054,1590
 dimwishlist:item=1251729046&perks=839105230,1885400500,280464955,3511092054,1590375897
 dimwishlist:item=1251729046&perks=839105230,1561002382,2039302152,3511092054,1590375897
 dimwishlist:item=1251729046&perks=839105230,1885400500,2039302152,3511092054,1590375897
+
+//item:Steelfeather Repeater (Garbo),lightgg:https://www.light.gg/db/items/1251729046/steelfeather-repeater/
+//notes:Given how farmable these are, anything with Firmly Planted, Slideways, Grave Robber or Ambitious Assassin in the third slot isn't worth keeping.
+dimwishlist:item=-1251729046&perks=2010801679
+dimwishlist:item=-1251729046&perks=280464955
+dimwishlist:item=-1251729046&perks=1631667848
+dimwishlist:item=-1251729046&perks=2039302152
 
 //item:Breachlight (PvE),lightgg:https://www.light.gg/db/items/1289997971/breachlight/
 //notes:Some neat PvE combos here from Ehroar's video https://www.youtube.com/watch?v=TrYRPglvMHY demoing a general purpose great roll along with two specialized rolls for Warlocks. As with most other PvE rolls, scopes and masterworks, etc. are more flexible and don't materially change the roll.
