@@ -18,6 +18,7 @@ Smart Drift Control - 3798852852
 Magazines
 ------------------------------------------
 Accurized Rounds - 3142289711
+Armor-Piercing Rounds - 1968497646
 Flared Magwell - 3230963543
 High-Caliber Rounds - 1561002382
 Particle Repeater - 3868766766
@@ -27,6 +28,7 @@ Tactical Mag - 106909392
 
 Perks
 ------------------------------------------
+Ambitious Assassin - 2010801679
 Auto-Loading Holster - 3300816228
 Demolitionist - 3523296417
 Disruption Break - 1683379515
@@ -37,6 +39,7 @@ Feeding Frenzy - 2779035018
 Firing Line - 1771339417
 Firmly Planted - 280464955
 Full Auto - 4267945040
+Grave Robber - 1631667848
 Moving Target - 588594999
 Multikill Clip - 1820235745
 Osmosis - 1774574192
