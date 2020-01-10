@@ -212,3 +212,10 @@ dimwishlist:item=4149758318&perks=1968497646,247725512,1890422124
 dimwishlist:item=4149758318&perks=1561002382,247725512,1683379515
 dimwishlist:item=4149758318&perks=1885400500,247725512,1683379515
 dimwishlist:item=4149758318&perks=1968497646,247725512,1683379515
+
+//item:Traveler's Judgement 5 (Garbo),lightgg:https://www.light.gg/db/items/4149758318/travelers-judgment-5/
+//notes:Given how farmable these are, anything with Firmly Planted, Auto-Loading Holster, Hip-fire Grip or Field Prep we can pass on. For single-shot sidearms, you can make the case for hip-fire but not on these multi-burst IMHO.
+dimwishlist:item=-4149758318&perks=280464955
+dimwishlist:item=-4149758318&perks=3300816228
+dimwishlist:item=-4149758318&perks=1866048759
+dimwishlist:item=-4149758318&perks=2869569095
