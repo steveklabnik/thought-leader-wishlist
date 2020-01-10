@@ -1,4 +1,4 @@
-From wishlist generated around  9 Jan 2020 20:14:40
+From wishlist generated around 10 Jan 2020 04:33:52
 
 An up-to-date version can be found [here](https://github.com/rslifka/wishlist)
 ## Steelfeather Repeater (PvE)
@@ -33,3 +33,5 @@ CoolGuy dropping serious knowledge here https://www.youtube.com/watch?v=-ZnUT63R
 CoolGuy brings the heat again! https://www.youtube.com/watch?v=J4HGIAZQdY4. We're looking for (Rapid Hit, Feeding Frenzy) + (Disruption Break, Dragonfly). Watch the video to see why Disruption Break is recommended :) ([view item on light.gg](https://www.light.gg/db/items/4149758318/travelers-judgment-5/))
 ## Traveler's Judgement 5 (PvP)
 CoolGuy brings the heat again! https://www.youtube.com/watch?v=J4HGIAZQdY4. We're looking for (HCR, Armor-Piercing, Richochet) + Rapid-Hit + Tap the Trigger ([view item on light.gg](https://www.light.gg/db/items/4149758318/travelers-judgment-5/))
+## Traveler's Judgement 5 (Garbo)
+Given how farmable these are, anything with Firmly Planted, Auto-Loading Holster, Hip-fire Grip or Field Prep we can pass on. For single-shot sidearms, you can make the case for hip-fire but not on these multi-burst IMHO. ([view item on light.gg](https://www.light.gg/db/items/4149758318/travelers-judgment-5/))
