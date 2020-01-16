@@ -29,8 +29,12 @@ task :thought_process do
         lightgg_link = m[2]
       end
       line.match(/\/\/notes:(.*)/) do |m|
+        markdown = line.gsub(
+          /(https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9]+\.[^\s]{2,}|www\.[a-zA-Z0-9]+\.[^\s]{2,})/,
+          '[\1](\1)'
+        )
         thoughts.puts "## #{item_name}"
-        thoughts.puts "#{m[1]} ([view item on light.gg](#{lightgg_link}))"
+        thoughts.puts "#{markdown} ([view item on light.gg](#{lightgg_link}))"
       end
     end
   end
