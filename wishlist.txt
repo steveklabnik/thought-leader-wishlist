@@ -1,4 +1,4 @@
-// Wishlist generated around 16 Jan 2020 13:58:34
+// Wishlist generated around 16 Jan 2020 14:05:28
 // Up-to-date version: https://github.com/rslifka/wishlist
 
 // Kinetic
@@ -92,8 +92,7 @@ dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,706527188,150
 
 //item:Patron of Lost Causes (PvE),lightgg:https://www.light.gg/db/items/2723241847/patron-of-lost-causes/
 //notes:CoolGuy goes ham on PoLC - https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s. For PvE, it's the only scout (as of now) that can roll Vorpal and Osmosis. Not a super high priority for PvE and not a terribly hard set of perks to farm.
-dimwishlist:item=2723241847&perks=247725512,1774574192
-dimwishlist:item=2723241847&perks=247725512,1546637391
+dimwishlist:item=2723241847&perks=247725512,1774574192,1546637391
 
 //item:Patron of Lost Causes (PvP),lightgg:https://www.light.gg/db/items/2723241847/patron-of-lost-causes/
 //notes:CoolGuy goes ham on PoLC - https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s. I'm on controller so these rolls are all about maxing our stability. Fortunately we have a pretty broad set of useful rolls as we're looking for (Smallbore, Corkscrew, Chambered, Polygonal, Fluted) + (Tactical Mag, Steady Rounds, Flared Magwell) + Rapid Hit + (Explosive Rounds, Elemental Capacitor)
@@ -127,6 +126,10 @@ dimwishlist:item=2723241847&perks=4090651448,3230963543,247725512,3511092054
 dimwishlist:item=2723241847&perks=3661387068,3230963543,247725512,3511092054
 dimwishlist:item=2723241847&perks=1392496348,3230963543,247725512,3511092054
 dimwishlist:item=2723241847&perks=1840239774,3230963543,247725512,3511092054
+
+//item:Patron of Lost Causes (Garbo),lightgg:https://www.light.gg/db/items/2723241847/patron-of-lost-causes/
+//notes:Anything without Rapid Hit :)
+dimwishlist:item=-2723241847
 
 //item:Line in the Sand (PvE),lightgg:https://www.light.gg/db/items/946443267/line-in-the-sand/
 //notes:I only suggest this for completeness (legendary arc LFR in the power slot). It's not that great. Make it your lowest priority farm. Thank you Ehroar! https://www.youtube.com/watch?v=AqI4PumNVC0. We're looking for Rapid Hit + Firing Line.
