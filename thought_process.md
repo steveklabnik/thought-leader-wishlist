@@ -1,4 +1,4 @@
-From wishlist generated around 16 Jan 2020 03:41:14
+From wishlist generated around 16 Jan 2020 03:45:28
 
 An up-to-date version can be found [here](https://github.com/rslifka/wishlist)
 ## Steelfeather Repeater (PvP)
