@@ -18,9 +18,9 @@ dimwishlist:item=1251729046&perks=2779035018,4082225868,1546637391
 
 //item:Steelfeather Repeater (Garbo),lightgg:https://www.light.gg/db/items/1251729046/steelfeather-repeater/
 //notes:Given how farmable these are, anything with Slideways, Grave Robber or Ambitious Assassin in the third slot isn't worth keeping.
-dimwishlist:item=1251729046&perks=2039302152
-dimwishlist:item=1251729046&perks=1631667848
-dimwishlist:item=1251729046&perks=2010801679
+dimwishlist:item=-1251729046&perks=2039302152
+dimwishlist:item=-1251729046&perks=1631667848
+dimwishlist:item=-1251729046&perks=2010801679
 
 //item:Breachlight (PvE),lightgg:https://www.light.gg/db/items/1289997971/breachlight/
 //notes:Some neat PvE combos here from Ehroar's video https://www.youtube.com/watch?v=TrYRPglvMHY demoing a general purpose great roll along with two specialized rolls for Warlocks. As with most other PvE rolls, scopes and masterworks, etc. are more flexible and don't materially change the roll.
