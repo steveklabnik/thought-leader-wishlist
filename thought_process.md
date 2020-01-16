@@ -1,4 +1,4 @@
-From wishlist generated around 16 Jan 2020 14:05:28
+From wishlist generated around 16 Jan 2020 14:16:31
 
 An up-to-date version can be found [here](https://github.com/rslifka/wishlist)
 ## Steelfeather Repeater (PvP)
@@ -14,7 +14,7 @@ Pretty much any roll of Breachlight is going to do well in the Crucible and hone
 ## Patron of Lost Causes (PvE)
 CoolGuy goes ham on PoLC - https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s. For PvE, it's the only scout (as of now) that can roll Vorpal and Osmosis. Not a super high priority for PvE and not a terribly hard set of perks to farm. ([view item on light.gg](https://www.light.gg/db/items/2723241847/patron-of-lost-causes/))
 ## Patron of Lost Causes (PvP)
-CoolGuy goes ham on PoLC - https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s. I'm on controller so these rolls are all about maxing our stability. Fortunately we have a pretty broad set of useful rolls as we're looking for (Smallbore, Corkscrew, Chambered, Polygonal, Fluted) + (Tactical Mag, Steady Rounds, Flared Magwell) + Rapid Hit + (Explosive Rounds, Elemental Capacitor) ([view item on light.gg](https://www.light.gg/db/items/2723241847/patron-of-lost-causes/))
+CoolGuy goes ham on PoLC - https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s. I'm on controller so these rolls are all about maxing our stability. Fortunately we have a pretty broad set of useful rolls as we're looking for (Smallbore, Corkscrew, Chambered, Polygonal, Fluted) + (Tactical Mag, Steady Rounds, Flared Magwell) + Rapid Hit + (Explosive Rounds, Elemental Capacitor) + Stability MW ([view item on light.gg](https://www.light.gg/db/items/2723241847/patron-of-lost-causes/))
 ## Patron of Lost Causes (Garbo)
 Anything without Rapid Hit :) ([view item on light.gg](https://www.light.gg/db/items/2723241847/patron-of-lost-causes/))
 ## Line in the Sand (PvE)
