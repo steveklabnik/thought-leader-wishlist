@@ -1,10 +1,10 @@
-From wishlist generated around 16 Jan 2020 03:45:28
+From wishlist generated around 16 Jan 2020 03:50:54
 
 An up-to-date version can be found [here](https://github.com/rslifka/wishlist)
 ## Steelfeather Repeater (PvP)
 We're going for straight-up recoil and insane stability here. We can get Recoil to 100 with Arrowhead and a Counterbalance mod. We're looking for: Arrowhead Brake + (HCR, Ricochet) + Firmly Planted + Elemental Capacitor + Stability MW ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
 ## Steelfeather Repeater (PvE)
-We're looking for ways to keep increased DPS for longer, with Osmosis thrown in for high-end PvE w/Match Game. For a PvE roll, barrel, first-column and masterwork perks are gravy. We're looking for: Feeding Frenzy + (Swashbuckler, Osmosis) ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
+We're looking for ways to keep increased DPS for longer, with Osmosis thrown in for high-end PvE w/Match Game and since we can roll two perks, why not Vorpal? For a PvE roll, barrel, first-column and masterwork perks are gravy. We're looking for: Feeding Frenzy + (Swashbuckler + Vorpal, Osmosis + Vorpal) ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
 ## Steelfeather Repeater (Garbo)
 Given how farmable these are, anything with Slideways, Grave Robber or Ambitious Assassin in the third slot isn't worth keeping. ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
 ## Breachlight (PvE)
