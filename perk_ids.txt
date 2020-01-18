@@ -8,6 +8,7 @@ Corkscrew - 4090651448
 Countermass - 3809316345
 Extended Barrel - 1467527085
 Fluted - 1840239774
+Full-Bore - 202670084
 Hammer-forged - 3250034553
 Hard Launch - 981914802
 Polygonal - 1392496348
@@ -18,7 +19,10 @@ Smart Drift Control - 3798852852
 Magazines
 ------------------------------------------
 Accurized Rounds - 3142289711
+Appended Mag - 1087426260
 Armor-Piercing Rounds - 1968497646
+Drop Mag - 4134353779
+Extended Mag - 2420895100
 Flared Magwell - 3230963543
 High-Caliber Rounds - 1561002382
 Particle Repeater - 3868766766
