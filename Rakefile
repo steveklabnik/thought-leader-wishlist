@@ -29,7 +29,7 @@ task :thought_process do
         lightgg_link = m[2]
       end
       line.match(/\/\/notes:(.*)/) do |m|
-        markdown = line.gsub(
+        markdown = m[1].gsub(
           /(https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9]+\.[^\s]{2,}|www\.[a-zA-Z0-9]+\.[^\s]{2,})/,
           '[\1](\1)'
         )
