@@ -162,6 +162,10 @@ dimwishlist:item=1289997971&perks=3250034553,3142289711,706527188,150943603
 dimwishlist:item=1289997971&perks=1482024992,3142289711,706527188,150943603
 dimwishlist:item=1289997971&perks=1467527085,3142289711,706527188,150943603
  
+//item:Breachlight (PvE),lightgg:https://www.light.gg/db/items/1289997971/breachlight/
+//notes:Any roll that isn't one of our solid PvE or PvP rolls.
+dimwishlist:item=-1289997971
+
 //item:Patron of Lost Causes (PvE),lightgg:https://www.light.gg/db/items/2723241847/patron-of-lost-causes/
 //notes:CoolGuy goes ham on PoLC - https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s . For PvE, it's the only scout (as of now) that can roll Vorpal and Osmosis. Not a super high priority for PvE and not a terribly hard set of perks to farm.
 dimwishlist:item=2723241847&perks=247725512,1774574192,1546637391
