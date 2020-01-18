@@ -1,4 +1,4 @@
-// Wishlist generated around 16 Jan 2020 14:16:31
+// Wishlist generated around 18 Jan 2020 17:04:56
 // Up-to-date version: https://github.com/rslifka/wishlist
 
 // Kinetic
@@ -65,37 +65,157 @@ dimwishlist:item=1251729046&perks=2779035018,1774574192,1546637391
 dimwishlist:item=1251729046&perks=2779035018,4082225868,1546637391
 
 //item:Steelfeather Repeater (Garbo),lightgg:https://www.light.gg/db/items/1251729046/steelfeather-repeater/
-//notes:Given how farmable these are, anything with Subsistence, Slideways, Grave Robber or Ambitious Assassin in the third slot isn't worth keeping.
-dimwishlist:item=-1251729046&perks=2039302152
-dimwishlist:item=-1251729046&perks=1631667848
-dimwishlist:item=-1251729046&perks=2010801679
-dimwishlist:item=-1251729046&perks=1820235745
+//notes:Any roll that isn't one of our solid PvE or PvP rolls.
+dimwishlist:item=-1251729046
 
 //item:Breachlight (PvE),lightgg:https://www.light.gg/db/items/1289997971/breachlight/
-//notes:Some neat PvE combos here from Ehroar's video https://www.youtube.com/watch?v=TrYRPglvMHY demoing a general purpose great roll along with two specialized rolls for Warlocks. As with most other PvE rolls, scopes and masterworks, etc. are more flexible and don't materially change the roll.
-dimwishlist:item=1289997971&perks=1168162263,2458213969#notes:(PvE) Outlaw + Multikill Clip [General purpose shredding]
-dimwishlist:item=1289997971&perks=3523296417,3425386926#notes:(PvE) Demolitionist + Rampage [Bottom-tree Warlock shredding; Devour up constantly w/grenade refresh]
-dimwishlist:item=1289997971&perks=3523296417,3425386926#notes:(PvE) Demolitionist + Osmosis [Bottom-tree Warlock shredding; consuming grenade procs devous + Osmosis]
+//notes:Some neat PvE combos here from Ehroar's video https://www.youtube.com/watch?v=TrYRPglvMHY and general PvE wisdom from CoolGuy https://www.youtube.com/watch?v=GXwdAQGOfeY . I kind of love Breachlight so I'm going to lay down a bunch of possibilities here, contained in the wishlist.txt file.
+//notes:Outlaw + Multikill Clip + (Drop Mag, Flared Magwell, Tactical Mag) + Stability MW
+dimwishlist:item=1289997971&perks=4134353779,1168162263,1820235745,1590375901
+dimwishlist:item=1289997971&perks=3230963543,1168162263,1820235745,1590375901
+dimwishlist:item=1289997971&perks=106909392,1168162263,1820235745,1590375901
+dimwishlist:item=1289997971&perks=4134353779,1168162263,1820235745,1590375902
+dimwishlist:item=1289997971&perks=3230963543,1168162263,1820235745,1590375902
+dimwishlist:item=1289997971&perks=106909392,1168162263,1820235745,1590375902
+dimwishlist:item=1289997971&perks=4134353779,1168162263,1820235745,1590375903
+dimwishlist:item=1289997971&perks=3230963543,1168162263,1820235745,1590375903
+dimwishlist:item=1289997971&perks=106909392,1168162263,1820235745,1590375903
+dimwishlist:item=1289997971&perks=4134353779,1168162263,1820235745,1590375896
+dimwishlist:item=1289997971&perks=3230963543,1168162263,1820235745,1590375896
+dimwishlist:item=1289997971&perks=106909392,1168162263,1820235745,1590375896
+dimwishlist:item=1289997971&perks=4134353779,1168162263,1820235745,1590375897
+dimwishlist:item=1289997971&perks=3230963543,1168162263,1820235745,1590375897
+dimwishlist:item=1289997971&perks=106909392,1168162263,1820235745,1590375897
+#notes:Outlaw + Rampage + (Appended Mag, Drop Mag, Extended Mag) + Stability MW
+dimwishlist:item=1289997971&perks=1087426260,1168162263,3425386926,1590375901
+dimwishlist:item=1289997971&perks=4134353779,1168162263,3425386926,1590375901
+dimwishlist:item=1289997971&perks=2420895100,1168162263,3425386926,1590375901
+dimwishlist:item=1289997971&perks=1087426260,1168162263,3425386926,1590375902
+dimwishlist:item=1289997971&perks=4134353779,1168162263,3425386926,1590375902
+dimwishlist:item=1289997971&perks=2420895100,1168162263,3425386926,1590375902
+dimwishlist:item=1289997971&perks=1087426260,1168162263,3425386926,1590375903
+dimwishlist:item=1289997971&perks=4134353779,1168162263,3425386926,1590375903
+dimwishlist:item=1289997971&perks=2420895100,1168162263,3425386926,1590375903
+dimwishlist:item=1289997971&perks=1087426260,1168162263,3425386926,1590375896
+dimwishlist:item=1289997971&perks=4134353779,1168162263,3425386926,1590375896
+dimwishlist:item=1289997971&perks=2420895100,1168162263,3425386926,1590375896
+dimwishlist:item=1289997971&perks=1087426260,1168162263,3425386926,1590375897
+dimwishlist:item=1289997971&perks=4134353779,1168162263,3425386926,1590375897
+dimwishlist:item=1289997971&perks=2420895100,1168162263,3425386926,1590375897
+#notes:Demolitionist + Multikill Clip + (Drop Mag, Flared Magwell, Tactical Mag) + Reload MW
+dimwishlist:item=1289997971&perks=3523296417,1820235745,4134353779,4283235143
+dimwishlist:item=1289997971&perks=3523296417,1820235745,3230963543,4283235143
+dimwishlist:item=1289997971&perks=3523296417,1820235745,106909392,4283235143
+dimwishlist:item=1289997971&perks=3523296417,1820235745,4134353779,4283235140
+dimwishlist:item=1289997971&perks=3523296417,1820235745,3230963543,4283235140
+dimwishlist:item=1289997971&perks=3523296417,1820235745,106909392,4283235140
+dimwishlist:item=1289997971&perks=3523296417,1820235745,4134353779,4283235141
+dimwishlist:item=1289997971&perks=3523296417,1820235745,3230963543,4283235141
+dimwishlist:item=1289997971&perks=3523296417,1820235745,106909392,4283235141
+dimwishlist:item=1289997971&perks=3523296417,1820235745,4134353779,4283235138
+dimwishlist:item=1289997971&perks=3523296417,1820235745,3230963543,4283235138
+dimwishlist:item=1289997971&perks=3523296417,1820235745,106909392,4283235138
+dimwishlist:item=1289997971&perks=3523296417,1820235745,4134353779,4283235139
+dimwishlist:item=1289997971&perks=3523296417,1820235745,3230963543,4283235139
+dimwishlist:item=1289997971&perks=3523296417,1820235745,106909392,4283235139
+#notes:Demolitionist + Osmosis + (Drop Mag, Flared Magwell, Tactical Mag) + Reload MW
+dimwishlist:item=1289997971&perks=3523296417,1774574192,4134353779,4283235143
+dimwishlist:item=1289997971&perks=3523296417,1774574192,3230963543,4283235143
+dimwishlist:item=1289997971&perks=3523296417,1774574192,106909392,4283235143
+dimwishlist:item=1289997971&perks=3523296417,1774574192,4134353779,4283235140
+dimwishlist:item=1289997971&perks=3523296417,1774574192,3230963543,4283235140
+dimwishlist:item=1289997971&perks=3523296417,1774574192,106909392,4283235140
+dimwishlist:item=1289997971&perks=3523296417,1774574192,4134353779,4283235141
+dimwishlist:item=1289997971&perks=3523296417,1774574192,3230963543,4283235141
+dimwishlist:item=1289997971&perks=3523296417,1774574192,106909392,4283235141
+dimwishlist:item=1289997971&perks=3523296417,1774574192,4134353779,4283235138
+dimwishlist:item=1289997971&perks=3523296417,1774574192,3230963543,4283235138
+dimwishlist:item=1289997971&perks=3523296417,1774574192,106909392,4283235138
+dimwishlist:item=1289997971&perks=3523296417,1774574192,4134353779,4283235139
+dimwishlist:item=1289997971&perks=3523296417,1774574192,3230963543,4283235139
+dimwishlist:item=1289997971&perks=3523296417,1774574192,106909392,4283235139
+#notes:Demolitionist + Vorpal + (Drop Mag, Flared Magwell, Tactical Mag) + Reload MW
+dimwishlist:item=1289997971&perks=3523296417,1546637391,4134353779,4283235143
+dimwishlist:item=1289997971&perks=3523296417,1546637391,3230963543,4283235143
+dimwishlist:item=1289997971&perks=3523296417,1546637391,106909392,4283235143
+dimwishlist:item=1289997971&perks=3523296417,1546637391,4134353779,4283235140
+dimwishlist:item=1289997971&perks=3523296417,1546637391,3230963543,4283235140
+dimwishlist:item=1289997971&perks=3523296417,1546637391,106909392,4283235140
+dimwishlist:item=1289997971&perks=3523296417,1546637391,4134353779,4283235141
+dimwishlist:item=1289997971&perks=3523296417,1546637391,3230963543,4283235141
+dimwishlist:item=1289997971&perks=3523296417,1546637391,106909392,4283235141
+dimwishlist:item=1289997971&perks=3523296417,1546637391,4134353779,4283235138
+dimwishlist:item=1289997971&perks=3523296417,1546637391,3230963543,4283235138
+dimwishlist:item=1289997971&perks=3523296417,1546637391,106909392,4283235138
+dimwishlist:item=1289997971&perks=3523296417,1546637391,4134353779,4283235139
+dimwishlist:item=1289997971&perks=3523296417,1546637391,3230963543,4283235139
+dimwishlist:item=1289997971&perks=3523296417,1546637391,106909392,4283235139
+#notes:Demolitionist + Rampage + (Appended Mag, Drop Mag, Extended Mag) + Reload MW
+dimwishlist:item=1289997971&perks=3523296417,3425386926,1087426260,4283235143
+dimwishlist:item=1289997971&perks=3523296417,3425386926,4134353779,4283235143
+dimwishlist:item=1289997971&perks=3523296417,3425386926,2420895100,4283235143
+dimwishlist:item=1289997971&perks=3523296417,3425386926,1087426260,4283235140
+dimwishlist:item=1289997971&perks=3523296417,3425386926,4134353779,4283235140
+dimwishlist:item=1289997971&perks=3523296417,3425386926,2420895100,4283235140
+dimwishlist:item=1289997971&perks=3523296417,3425386926,1087426260,4283235141
+dimwishlist:item=1289997971&perks=3523296417,3425386926,4134353779,4283235141
+dimwishlist:item=1289997971&perks=3523296417,3425386926,2420895100,4283235141
+dimwishlist:item=1289997971&perks=3523296417,3425386926,1087426260,4283235138
+dimwishlist:item=1289997971&perks=3523296417,3425386926,4134353779,4283235138
+dimwishlist:item=1289997971&perks=3523296417,3425386926,2420895100,4283235138
+dimwishlist:item=1289997971&perks=3523296417,3425386926,1087426260,4283235139
+dimwishlist:item=1289997971&perks=3523296417,3425386926,4134353779,4283235139
+dimwishlist:item=1289997971&perks=3523296417,3425386926,2420895100,4283235139
 
 //item:Breachlight (PvP),lightgg:https://www.light.gg/db/items/1289997971/breachlight/
-//notes:Pretty much any roll of Breachlight is going to do well in the Crucible and honestly, Smuggler's Word with Tap-the-Trigger is arguably better. With sidearms (and well, all weapons in general) I opt for perks to secure the initial kill in PvP. We're looking for (Hammer-forged, Smallbore) + Accurized Rounds + Threat Detector + Quickdraw + Range Masterwork
-dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,706527188,150943607
-dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,706527188,150943607
-dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,706527188,150943604
-dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,706527188,150943604
-dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,706527188,150943605
-dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,706527188,150943605
-dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,706527188,150943602
-dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,706527188,150943602
-dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,706527188,150943603
-dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,706527188,150943603
-
+//notes:CoolGuy's video here is both PvE and PvP but focuses intensely on PvP - https://www.youtube.com/watch?v=GXwdAQGOfeY . "I would try other rolls while I was reviewing this and I kept coming back to Vorpal." "Landing shots more important than accuracy; shouldn't be worried about straight precision. More important to get the recoil straight up and down than it is to add stability because you have to control the stability after every burst anyway." Here's what I decided after watching the video: (Full Bore, Hammer-Forged, Smallbore, Extended Barrel) + Accurized Rounds + (*anything*) + (Vorpal, Quickdraw) + Range MW
+dimwishlist:item=1289997971&perks=202670084,3142289711,1546637391,150943607
+dimwishlist:item=1289997971&perks=3250034553,3142289711,1546637391,150943607
+dimwishlist:item=1289997971&perks=1482024992,3142289711,1546637391,150943607
+dimwishlist:item=1289997971&perks=1467527085,3142289711,1546637391,150943607
+dimwishlist:item=1289997971&perks=202670084,3142289711,706527188,150943607
+dimwishlist:item=1289997971&perks=3250034553,3142289711,706527188,150943607
+dimwishlist:item=1289997971&perks=1482024992,3142289711,706527188,150943607
+dimwishlist:item=1289997971&perks=1467527085,3142289711,706527188,150943607
+dimwishlist:item=1289997971&perks=202670084,3142289711,1546637391,150943604
+dimwishlist:item=1289997971&perks=3250034553,3142289711,1546637391,150943604
+dimwishlist:item=1289997971&perks=1482024992,3142289711,1546637391,150943604
+dimwishlist:item=1289997971&perks=1467527085,3142289711,1546637391,150943604
+dimwishlist:item=1289997971&perks=202670084,3142289711,706527188,150943604
+dimwishlist:item=1289997971&perks=3250034553,3142289711,706527188,150943604
+dimwishlist:item=1289997971&perks=1482024992,3142289711,706527188,150943604
+dimwishlist:item=1289997971&perks=1467527085,3142289711,706527188,150943604
+dimwishlist:item=1289997971&perks=202670084,3142289711,1546637391,150943605
+dimwishlist:item=1289997971&perks=3250034553,3142289711,1546637391,150943605
+dimwishlist:item=1289997971&perks=1482024992,3142289711,1546637391,150943605
+dimwishlist:item=1289997971&perks=1467527085,3142289711,1546637391,150943605
+dimwishlist:item=1289997971&perks=202670084,3142289711,706527188,150943605
+dimwishlist:item=1289997971&perks=3250034553,3142289711,706527188,150943605
+dimwishlist:item=1289997971&perks=1482024992,3142289711,706527188,150943605
+dimwishlist:item=1289997971&perks=1467527085,3142289711,706527188,150943605
+dimwishlist:item=1289997971&perks=202670084,3142289711,1546637391,150943602
+dimwishlist:item=1289997971&perks=3250034553,3142289711,1546637391,150943602
+dimwishlist:item=1289997971&perks=1482024992,3142289711,1546637391,150943602
+dimwishlist:item=1289997971&perks=1467527085,3142289711,1546637391,150943602
+dimwishlist:item=1289997971&perks=202670084,3142289711,706527188,150943602
+dimwishlist:item=1289997971&perks=3250034553,3142289711,706527188,150943602
+dimwishlist:item=1289997971&perks=1482024992,3142289711,706527188,150943602
+dimwishlist:item=1289997971&perks=1467527085,3142289711,706527188,150943602
+dimwishlist:item=1289997971&perks=202670084,3142289711,1546637391,150943603
+dimwishlist:item=1289997971&perks=3250034553,3142289711,1546637391,150943603
+dimwishlist:item=1289997971&perks=1482024992,3142289711,1546637391,150943603
+dimwishlist:item=1289997971&perks=1467527085,3142289711,1546637391,150943603
+dimwishlist:item=1289997971&perks=202670084,3142289711,706527188,150943603
+dimwishlist:item=1289997971&perks=3250034553,3142289711,706527188,150943603
+dimwishlist:item=1289997971&perks=1482024992,3142289711,706527188,150943603
+dimwishlist:item=1289997971&perks=1467527085,3142289711,706527188,150943603
+ 
 //item:Patron of Lost Causes (PvE),lightgg:https://www.light.gg/db/items/2723241847/patron-of-lost-causes/
-//notes:CoolGuy goes ham on PoLC - https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s. For PvE, it's the only scout (as of now) that can roll Vorpal and Osmosis. Not a super high priority for PvE and not a terribly hard set of perks to farm.
+//notes:CoolGuy goes ham on PoLC - https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s . For PvE, it's the only scout (as of now) that can roll Vorpal and Osmosis. Not a super high priority for PvE and not a terribly hard set of perks to farm.
 dimwishlist:item=2723241847&perks=247725512,1774574192,1546637391
 
 //item:Patron of Lost Causes (PvP),lightgg:https://www.light.gg/db/items/2723241847/patron-of-lost-causes/
-//notes:CoolGuy goes ham on PoLC - https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s. I'm on controller so these rolls are all about maxing our stability. Fortunately we have a pretty broad set of useful rolls as we're looking for (Smallbore, Corkscrew, Chambered, Polygonal, Fluted) + (Tactical Mag, Steady Rounds, Flared Magwell) + Rapid Hit + (Explosive Rounds, Elemental Capacitor) + Stability MW
+//notes:CoolGuy goes ham on PoLC - https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s . I'm on controller so these rolls are all about maxing our stability. Fortunately we have a pretty broad set of useful rolls as we're looking for (Smallbore, Corkscrew, Chambered, Polygonal, Fluted) + (Tactical Mag, Steady Rounds, Flared Magwell) + Rapid Hit + (Explosive Rounds, Elemental Capacitor) + Stability MW
 dimwishlist:item=2723241847&perks=1482024992,106909392,247725512,3511092054,1590375901
 dimwishlist:item=2723241847&perks=4090651448,106909392,247725512,3511092054,1590375901
 dimwishlist:item=2723241847&perks=3661387068,106909392,247725512,3511092054,1590375901
@@ -248,12 +368,16 @@ dimwishlist:item=2723241847&perks=1392496348,3230963543,247725512,3038247973,159
 dimwishlist:item=2723241847&perks=1840239774,3230963543,247725512,3038247973,1590375897
 
 //item:Patron of Lost Causes (Garbo),lightgg:https://www.light.gg/db/items/2723241847/patron-of-lost-causes/
-//notes:Anything without Rapid Hit :)
+//notes:Any roll that isn't one of our solid PvE or PvP rolls.
 dimwishlist:item=-2723241847
 
 //item:Line in the Sand (PvE),lightgg:https://www.light.gg/db/items/946443267/line-in-the-sand/
-//notes:I only suggest this for completeness (legendary arc LFR in the power slot). It's not that great. Make it your lowest priority farm. Thank you Ehroar! https://www.youtube.com/watch?v=AqI4PumNVC0. We're looking for Rapid Hit + Firing Line.
+//notes:I only suggest this for completeness (legendary arc LFR in the power slot). It's not that great. Make it your lowest priority farm. Thank you Ehroar! https://www.youtube.com/watch?v=AqI4PumNVC0 . We're looking for Rapid Hit + Firing Line.
 dimwishlist:item=946443267&perks=247725512,1771339417
+
+//item:Line in the Sand (PvE),lightgg:https://www.light.gg/db/items/946443267/line-in-the-sand/
+//notes:Any roll that isn't one of our solid PvE or PvP rolls.
+dimwishlist:item=-946443267
 
 //item:Martyr's Retribution (PvE),lightgg:https://www.light.gg/db/items/3850168899/martyrs-retribution/
 //notes:This is one of my favourite weapons in all of Destiny! Pretty much any roll is fine but if you want to push your roll criteria, here we go. We're looking for (Countermass, Smart Drift Control, Quick Launch, Hard Launch) + (Auto Loading Holster, Threat Detector) + demolitionist + (Any Masterwork). Threat Detector might seem odd, but it increases reload speed and because this GL doesn't do any impact damage, it will have great reload up close.
@@ -319,6 +443,10 @@ dimwishlist:item=3850168899&perks=3525010810,3300816228,518224750,4283235139
 dimwishlist:item=3850168899&perks=3798852852,3300816228,518224751,4283235139
 dimwishlist:item=3850168899&perks=3525010810,3300816228,518224751,4283235139
 
+//item:Martyr's Retribution (PvP),lightgg:https://www.light.gg/db/items/3850168899/martyrs-retribution/
+//notes:Any roll that isn't one of our solid PvE or PvP rolls.
+dimwishlist:item=-3850168899
+
 //item:Gallant Charge (PvE),lightgg:https://www.light.gg/db/items/1706206669/gallant-charge/
 //notes:Fusions don't totally shine in PvE but with Demolitionist this could be interesting. Add in Swashbuckler for an instant x5 on melee kills (over Rampage) and you have an interesting one to consider. Barrels, magazines and masterworks don't matter too much here.
 dimwishlist:item=1706206669&perks=3523296417,4082225868
@@ -336,13 +464,17 @@ dimwishlist:item=1706206669&perks=3661387068,3868766766,3523296417,1890422124,15
 dimwishlist:item=1706206669&perks=1467527085,3868766766,3523296417,1890422124,1590375897
 dimwishlist:item=1706206669&perks=3661387068,3868766766,3523296417,1890422124,1590375897
 
+//item:Gallant Charge (PvP),lightgg:https://www.light.gg/db/items/1706206669/gallant-charge/
+//notes:Any roll that isn't one of our solid PvE or PvP rolls.
+dimwishlist:item=-1706206669
+
 //item:Infinite Paths 8 (PvE),lightgg:https://www.light.gg/db/items/3233390913/infinite-paths-8/
-//notes:CoolGuy dropping serious knowledge here https://www.youtube.com/watch?v=-ZnUT63RgnE. "Great for mid and low-tier adds." We're going for either Demo+Dragon (don't forget a dragonfly spec!) or Grave Robber + Swashbuckler.
+//notes:CoolGuy dropping serious knowledge here https://www.youtube.com/watch?v=-ZnUT63RgnE . "Great for mid and low-tier adds." We're going for either Demo+Dragon (don't forget a dragonfly spec!) or Grave Robber + Swashbuckler.
 dimwishlist:item=3233390913&perks=3523296417,2848615171
 dimwishlist:item=3233390913&perks=1631667848,4082225868
 
 //item:Infinite Paths 8 (PvP),lightgg:https://www.light.gg/db/items/3233390913/infinite-paths-8/
-//notes:CoolGuy dropping serious knowledge here https://www.youtube.com/watch?v=-ZnUT63RgnE. "Currently they're the only frame I wouldn't take in to 5500 Comp. Use Rapid-fire frame." If you want some rolls, here's what I put together from the video: Arrowhead Brake + Steady Rounds + Moving Target + (Zen Moment, Swashbuckler) + Stability MW
+//notes:CoolGuy dropping serious knowledge here https://www.youtube.com/watch?v=-ZnUT63RgnE . "Currently they're the only frame I wouldn't take in to 5500 Comp. Use Rapid-fire frame." If you want some rolls, here's what I put together from the video: Arrowhead Brake + Steady Rounds + Moving Target + (Zen Moment, Swashbuckler) + Stability MW
 dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,2387244414,1590375901
 dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,4082225868,1590375901
 dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,2387244414,1590375902
@@ -354,15 +486,19 @@ dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,4082225868,1590
 dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,2387244414,1590375897
 dimwishlist:item=3233390913&perks=839105230,3177308360,588594999,4082225868,1590375897
 
+//item:Infinite Paths 8 (Garbo),lightgg:https://www.light.gg/db/items/3233390913/infinite-paths-8/
+//notes:Any roll that isn't one of our solid PvE or PvP rolls.
+dimwishlist:item=-3233390913
+
 //item:Traveler's Judgement 5 (PvE),lightgg:https://www.light.gg/db/items/4149758318/travelers-judgment-5/
-//notes:CoolGuy brings the heat again! https://www.youtube.com/watch?v=J4HGIAZQdY4. We're looking for (Rapid Hit, Feeding Frenzy) + (Disruption Break, Dragonfly). Watch the video to see why Disruption Break is recommended :)
+//notes:CoolGuy brings the heat again! https://www.youtube.com/watch?v=J4HGIAZQdY4 . We're looking for (Rapid Hit, Feeding Frenzy) + (Disruption Break, Dragonfly). Watch the video to see why Disruption Break is recommended :)
 dimwishlist:item=4149758318&perks=247725512,1683379515
 dimwishlist:item=4149758318&perks=2779035018,1683379515
 dimwishlist:item=4149758318&perks=247725512,2848615171
 dimwishlist:item=4149758318&perks=2779035018,2848615171
 
 //item:Traveler's Judgement 5 (PvP),lightgg:https://www.light.gg/db/items/4149758318/travelers-judgment-5/
-//notes:CoolGuy brings the heat again! https://www.youtube.com/watch?v=J4HGIAZQdY4. We're looking for (HCR, Armor-Piercing, Richochet) + Rapid-Hit + Tap the Trigger
+//notes:CoolGuy brings the heat again! https://www.youtube.com/watch?v=J4HGIAZQdY4 . We're looking for (HCR, Armor-Piercing, Richochet) + Rapid-Hit + Tap the Trigger
 dimwishlist:item=4149758318&perks=1561002382,247725512,1890422124
 dimwishlist:item=4149758318&perks=1885400500,247725512,1890422124
 dimwishlist:item=4149758318&perks=1968497646,247725512,1890422124
@@ -371,9 +507,6 @@ dimwishlist:item=4149758318&perks=1885400500,247725512,1683379515
 dimwishlist:item=4149758318&perks=1968497646,247725512,1683379515
 
 //item:Traveler's Judgement 5 (Garbo),lightgg:https://www.light.gg/db/items/4149758318/travelers-judgment-5/
-//notes:Given how farmable these are, anything with Firmly Planted, Auto-Loading Holster, Hip-fire Grip or Field Prep we can pass on. For single-shot sidearms, you can make the case for hip-fire but not on these multi-burst IMHO.
-dimwishlist:item=-4149758318&perks=280464955
-dimwishlist:item=-4149758318&perks=3300816228
-dimwishlist:item=-4149758318&perks=1866048759
-dimwishlist:item=-4149758318&perks=2869569095
+//notes:Any roll that isn't one of our solid PvE or PvP rolls.
+dimwishlist:item=-4149758318
 
