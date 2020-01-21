@@ -1,4 +1,4 @@
-From wishlist generated around 21 Jan 2020 01:30:10
+From wishlist generated around 21 Jan 2020 01:38:47
 
 An up-to-date version can be found [here](https://github.com/rslifka/wishlist)
 ## Steelfeather Repeater (PvP)
@@ -36,9 +36,9 @@ I only suggest this for completeness (legendary arc LFR in the power slot). It's
 ## Line in the Sand (PvE)
 Any roll that isn't one of our solid PvE or PvP rolls. ([view item on light.gg](https://www.light.gg/db/items/946443267/line-in-the-sand/))
 ## Martyr's Retribution (PvE)
-This is one of my favourite weapons in all of Destiny! Pretty much any roll is fine but if you want to push your roll criteria, here we go. We're looking for (Quick Launch, Hard Launch) + (Auto Loading Holster, Threat Detector) + (Demolitionist, Lead from Gold) + (Reload MW). Threat Detector might seem odd, but it increases reload speed and because this GL doesn't do any impact damage, it will have great reload up close. ([view item on light.gg](https://www.light.gg/db/items/3850168899/martyrs-retribution/))
+This is one of my favourite weapons in all of Destiny! Pretty much any roll is fine but if you want to push your roll criteria, here we go. We're looking for (Quick Launch, Hard Launch) + (Auto Loading Holster, Threat Detector) + (Demolitionist, Lead from Gold) + (Reload, Velocity MW). Threat Detector might seem odd, but it increases reload speed and because this GL doesn't do any impact damage, it will have great reload up close. ([view item on light.gg](https://www.light.gg/db/items/3850168899/martyrs-retribution/))
 ## Martyr's Retribution (PvP)
-This is for use from range, and Blast Radius doesn't do anything on Wave Frame launchers - simple wishlist here :) We're looking for (Hard Launch, Quick Launch) + Auto Loading Holster + Elemental Capacitor + (Reload, Handling MW). Why not demolitionist? You're not going to get final blows with this so much in PvP and with ALH, it will always be loaded. I'd rather have better handling or reload with Elemental Capacitor always-on. ([view item on light.gg](https://www.light.gg/db/items/3850168899/martyrs-retribution/))
+This is for use from range, and Blast Radius doesn't do anything on Wave Frame launchers - simple wishlist here :) We're looking for (Hard Launch, Quick Launch) + Auto Loading Holster + Elemental Capacitor + (Reload, Handling, Velocity MW). Why not demolitionist? You're not going to get final blows with this so much in PvP and with ALH, it will always be loaded. I'd rather have better handling or reload with Elemental Capacitor always-on. ([view item on light.gg](https://www.light.gg/db/items/3850168899/martyrs-retribution/))
 ## Martyr's Retribution (PvP)
 Any roll that isn't one of our solid PvE or PvP rolls. ([view item on light.gg](https://www.light.gg/db/items/3850168899/martyrs-retribution/))
 ## Gallant Charge (PvE)
