@@ -1,4 +1,4 @@
-// Wishlist generated around 21 Jan 2020 01:38:47
+// Wishlist generated around 24 Jan 2020 18:47:52
 // Up-to-date version: https://github.com/rslifka/wishlist
 
 // Kinetic
@@ -70,7 +70,7 @@ dimwishlist:item=-1251729046
 
 //item:Breachlight (PvE),lightgg:https://www.light.gg/db/items/1289997971/breachlight/
 //notes:Some neat PvE combos here from Ehroar's video https://www.youtube.com/watch?v=TrYRPglvMHY and general PvE wisdom from CoolGuy https://www.youtube.com/watch?v=GXwdAQGOfeY . I kind of love Breachlight so I'm going to lay down a bunch of possibilities here, contained in the wishlist.txt file.
-//notes:Outlaw + Multikill Clip + (Drop Mag, Flared Magwell, Tactical Mag) + Stability MW
+//notes:[PvE] Outlaw + Multikill Clip + (Drop Mag, Flared Magwell, Tactical Mag) + Stability MW
 dimwishlist:item=1289997971&perks=4134353779,1168162263,1820235745,1590375901
 dimwishlist:item=1289997971&perks=3230963543,1168162263,1820235745,1590375901
 dimwishlist:item=1289997971&perks=106909392,1168162263,1820235745,1590375901
@@ -86,7 +86,7 @@ dimwishlist:item=1289997971&perks=106909392,1168162263,1820235745,1590375896
 dimwishlist:item=1289997971&perks=4134353779,1168162263,1820235745,1590375897
 dimwishlist:item=1289997971&perks=3230963543,1168162263,1820235745,1590375897
 dimwishlist:item=1289997971&perks=106909392,1168162263,1820235745,1590375897
-//notes:Outlaw + Rampage + (Appended Mag, Drop Mag, Extended Mag) + Stability MW
+//notes:[PvE] Outlaw + Rampage + (Appended Mag, Drop Mag, Extended Mag) + Stability MW
 dimwishlist:item=1289997971&perks=1087426260,1168162263,3425386926,1590375901
 dimwishlist:item=1289997971&perks=4134353779,1168162263,3425386926,1590375901
 dimwishlist:item=1289997971&perks=2420895100,1168162263,3425386926,1590375901
@@ -102,7 +102,7 @@ dimwishlist:item=1289997971&perks=2420895100,1168162263,3425386926,1590375896
 dimwishlist:item=1289997971&perks=1087426260,1168162263,3425386926,1590375897
 dimwishlist:item=1289997971&perks=4134353779,1168162263,3425386926,1590375897
 dimwishlist:item=1289997971&perks=2420895100,1168162263,3425386926,1590375897
-//notes:Demolitionist + Multikill Clip + (Drop Mag, Flared Magwell, Tactical Mag) + Reload MW
+//notes:[PvE] Demolitionist + Multikill Clip + (Drop Mag, Flared Magwell, Tactical Mag) + Reload MW
 dimwishlist:item=1289997971&perks=3523296417,1820235745,4134353779,4283235143
 dimwishlist:item=1289997971&perks=3523296417,1820235745,3230963543,4283235143
 dimwishlist:item=1289997971&perks=3523296417,1820235745,106909392,4283235143
@@ -118,7 +118,7 @@ dimwishlist:item=1289997971&perks=3523296417,1820235745,106909392,4283235138
 dimwishlist:item=1289997971&perks=3523296417,1820235745,4134353779,4283235139
 dimwishlist:item=1289997971&perks=3523296417,1820235745,3230963543,4283235139
 dimwishlist:item=1289997971&perks=3523296417,1820235745,106909392,4283235139
-//notes:Demolitionist + Osmosis + (Drop Mag, Flared Magwell, Tactical Mag) + Reload MW
+//notes:[PvE] Demolitionist + Osmosis + (Drop Mag, Flared Magwell, Tactical Mag) + Reload MW
 dimwishlist:item=1289997971&perks=3523296417,1774574192,4134353779,4283235143
 dimwishlist:item=1289997971&perks=3523296417,1774574192,3230963543,4283235143
 dimwishlist:item=1289997971&perks=3523296417,1774574192,106909392,4283235143
@@ -134,7 +134,7 @@ dimwishlist:item=1289997971&perks=3523296417,1774574192,106909392,4283235138
 dimwishlist:item=1289997971&perks=3523296417,1774574192,4134353779,4283235139
 dimwishlist:item=1289997971&perks=3523296417,1774574192,3230963543,4283235139
 dimwishlist:item=1289997971&perks=3523296417,1774574192,106909392,4283235139
-//notes:Demolitionist + Vorpal + (Drop Mag, Flared Magwell, Tactical Mag) + Reload MW
+//notes:[PvE] Demolitionist + Vorpal + (Drop Mag, Flared Magwell, Tactical Mag) + Reload MW
 dimwishlist:item=1289997971&perks=3523296417,1546637391,4134353779,4283235143
 dimwishlist:item=1289997971&perks=3523296417,1546637391,3230963543,4283235143
 dimwishlist:item=1289997971&perks=3523296417,1546637391,106909392,4283235143
@@ -150,7 +150,7 @@ dimwishlist:item=1289997971&perks=3523296417,1546637391,106909392,4283235138
 dimwishlist:item=1289997971&perks=3523296417,1546637391,4134353779,4283235139
 dimwishlist:item=1289997971&perks=3523296417,1546637391,3230963543,4283235139
 dimwishlist:item=1289997971&perks=3523296417,1546637391,106909392,4283235139
-//notes:Demolitionist + Rampage + (Appended Mag, Drop Mag, Extended Mag) + Reload MW
+//notes:[PvE] Demolitionist + Rampage + (Appended Mag, Drop Mag, Extended Mag) + Reload MW
 dimwishlist:item=1289997971&perks=3523296417,3425386926,1087426260,4283235143
 dimwishlist:item=1289997971&perks=3523296417,3425386926,4134353779,4283235143
 dimwishlist:item=1289997971&perks=3523296417,3425386926,2420895100,4283235143
@@ -508,17 +508,22 @@ dimwishlist:item=-3850168899
 dimwishlist:item=1706206669&perks=3523296417,4082225868
 
 //item:Gallant Charge (PvP),lightgg:https://www.light.gg/db/items/1706206669/gallant-charge/
-//notes:Gallant Charge is to Stability as Erentil is to Range. If you want great range, farm an Erentil from Menagerie. I want something different so these rolls are all about maximizing stability wherever possible. We're looking for (Extended Barrel, Chambered Compensator) + Particle Repeater + Demolitionist + Tap the Trigger + Stability MW.
-dimwishlist:item=1706206669&perks=1467527085,3868766766,3523296417,1890422124,1590375901
-dimwishlist:item=1706206669&perks=3661387068,3868766766,3523296417,1890422124,1590375901
-dimwishlist:item=1706206669&perks=1467527085,3868766766,3523296417,1890422124,1590375902
-dimwishlist:item=1706206669&perks=3661387068,3868766766,3523296417,1890422124,1590375902
-dimwishlist:item=1706206669&perks=1467527085,3868766766,3523296417,1890422124,1590375903
-dimwishlist:item=1706206669&perks=3661387068,3868766766,3523296417,1890422124,1590375903
-dimwishlist:item=1706206669&perks=1467527085,3868766766,3523296417,1890422124,1590375896
-dimwishlist:item=1706206669&perks=3661387068,3868766766,3523296417,1890422124,1590375896
-dimwishlist:item=1706206669&perks=1467527085,3868766766,3523296417,1890422124,1590375897
-dimwishlist:item=1706206669&perks=3661387068,3868766766,3523296417,1890422124,1590375897
+//notes:Gallant Charge is to Stability as Erentil is to Range. If you want great range, farm an Erentil from Menagerie. I want something different so these rolls are all about maximizing stability wherever possible. We're looking for (Smallbore, Polygonal Rifling, Chambered Compensator) + Particle Repeater + (Anything) + Tap the Trigger + Stability MW.
+dimwishlist:item=1706206669&perks=1392496348,3868766766,1890422124,1590375901
+dimwishlist:item=1706206669&perks=1482024992,3868766766,1890422124,1590375901
+dimwishlist:item=1706206669&perks=3661387068,3868766766,1890422124,1590375901
+dimwishlist:item=1706206669&perks=1392496348,3868766766,1890422124,1590375902
+dimwishlist:item=1706206669&perks=1482024992,3868766766,1890422124,1590375902
+dimwishlist:item=1706206669&perks=3661387068,3868766766,1890422124,1590375902
+dimwishlist:item=1706206669&perks=1392496348,3868766766,1890422124,1590375903
+dimwishlist:item=1706206669&perks=1482024992,3868766766,1890422124,1590375903
+dimwishlist:item=1706206669&perks=3661387068,3868766766,1890422124,1590375903
+dimwishlist:item=1706206669&perks=1392496348,3868766766,1890422124,1590375896
+dimwishlist:item=1706206669&perks=1482024992,3868766766,1890422124,1590375896
+dimwishlist:item=1706206669&perks=3661387068,3868766766,1890422124,1590375896
+dimwishlist:item=1706206669&perks=1392496348,3868766766,1890422124,1590375897
+dimwishlist:item=1706206669&perks=1482024992,3868766766,1890422124,1590375897
+dimwishlist:item=1706206669&perks=3661387068,3868766766,1890422124,1590375897
 
 //item:Gallant Charge (PvP),lightgg:https://www.light.gg/db/items/1706206669/gallant-charge/
 //notes:Any roll that isn't one of our solid PvE or PvP rolls.
