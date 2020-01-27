@@ -1,4 +1,4 @@
-From wishlist generated around `27 Jan 2020 16:51:54`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at `27 Jan 2020 17:22:58`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -20,36 +20,37 @@ We're looking for ways to keep increased DPS for longer, with Osmosis thrown in 
 | **Super Picky + Vorpal Bonus** | (Chambered, Corkscrew, Fluted, Polygonal, Smallbore) + (Ricochet, Flared Mag, Light Mag) + Feeding Frenzy + (Swashbuckler AND Vorpal) |
 | **Super Picky** | (Chambered, Corkscrew, Fluted, Polygonal, Smallbore) + (Ricochet, Flared Mag, Light Mag) + Feeding Frenzy + Swashbuckler |
 | **Baseline** | Feeding Frenzy + Swashbuckler |
-## Breachlight (PvE)
-Some neat PvE combos here from Ehroar's video [https://www.youtube.com/watch?v=TrYRPglvMHY](https://www.youtube.com/watch?v=TrYRPglvMHY) and general PvE wisdom from CoolGuy [https://www.youtube.com/watch?v=GXwdAQGOfeY](https://www.youtube.com/watch?v=GXwdAQGOfeY) . I kind of love Breachlight so I'm going to lay down a bunch of possibilities here, contained in the wishlist.txt file. ([view item on light.gg](https://www.light.gg/db/items/1289997971/breachlight/))
-
-| Roll | Description |
-| :--- | :---        |
 ## Breachlight (PvP)
-CoolGuy's video here is both PvE and PvP but focuses intensely on PvP - [https://www.youtube.com/watch?v=GXwdAQGOfeY](https://www.youtube.com/watch?v=GXwdAQGOfeY) . "I would try other rolls while I was reviewing this and I kept coming back to Vorpal." "Landing shots more important than accuracy; shouldn't be worried about straight precision. More important to get the recoil straight up and down than it is to add stability because you have to control the stability after every burst anyway." Here's what I decided after watching the video: (Full Bore, Hammer-Forged, Smallbore, Extended Barrel) + Accurized Rounds + (*anything*) + (Vorpal, Quickdraw) + Range MW ([view item on light.gg](https://www.light.gg/db/items/1289997971/breachlight/))
+CoolGuy's video here is both PvE and PvP but focuses intensely on PvP - [https://www.youtube.com/watch?v=GXwdAQGOfeY](https://www.youtube.com/watch?v=GXwdAQGOfeY) . "I would try other rolls while I was reviewing this and I kept coming back to Vorpal." "Landing shots more important than accuracy; shouldn't be worried about straight precision. More important to get the recoil straight up and down than it is to add stability because you have to control the stability after every burst anyway." I have to agree - Vorpal is pretty amazing in PvP and I did wish I had it several times. Without Vorpal or Quickdraw, it's just another two-burst sidearm, which is great but you don't need a wishlist for that :) ([view item on light.gg](https://www.light.gg/db/items/1289997971/breachlight/))
 
 | Roll | Description |
 | :--- | :---        |
-## Breachlight (Garbo)
-Any roll that isn't one of our solid PvE or PvP rolls. ([view item on light.gg](https://www.light.gg/db/items/1289997971/breachlight/))
+| **Super Picky** | (Full Bore, Hammer-Forged, Smallbore, Extended Barrel) + Accurized Rounds + (*anything*) + (Vorpal, Quickdraw) + Range MW |
+## Breachlight (PvE)
+Some neat PvE combos here from Ehroar's video [https://www.youtube.com/watch?v=TrYRPglvMHY](https://www.youtube.com/watch?v=TrYRPglvMHY) and general PvE wisdom from CoolGuy [https://www.youtube.com/watch?v=GXwdAQGOfeY](https://www.youtube.com/watch?v=GXwdAQGOfeY) . I kind of love Breachlight so I'm going to lay down a bunch of possibilities here. The ordering of these rolls is by the final perk columns since they're the most important. Otherwise it's just another Smuggler's Word! ([view item on light.gg](https://www.light.gg/db/items/1289997971/breachlight/))
 
 | Roll | Description |
 | :--- | :---        |
+| **Outlaw DPS 1** | Outlaw + Multikill Clip + (Drop Mag, Flared Magwell, Tactical Mag) + Stability MW |
+| **Outlaw DPS2** | Outlaw + Rampage + (Appended Mag, Drop Mag, Extended Mag) + Stability MW |
+| **Demo DPS 1** | Demolitionist + Multikill Clip + (Drop Mag, Flared Magwell, Tactical Mag) + Reload MW |
+| **Demo DPS 2** | Demolitionist + Osmosis + (Drop Mag, Flared Magwell, Tactical Mag) + Reload MW |
+| **Demo DPS 3** | Demolitionist + Vorpal + (Drop Mag, Flared Magwell, Tactical Mag) + Reload MW |
+| **Demo DPS 4** | Demolitionist + Rampage + (Appended Mag, Drop Mag, Extended Mag) + Reload MW |
+## Patron of Lost Causes (PvP)
+CoolGuy goes ham on PoLC - [https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s](https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s) . I'm on controller so these rolls are all about maxing our stability. Fortunately we have a pretty broad set of useful rolls as we're looking for. Randy's has Rapid-Hit + Kill Clip, so this is a pretty low priority farm (and also why it's so specific). ([view item on light.gg](https://www.light.gg/db/items/2723241847/patron-of-lost-causes/))
+
+| Roll | Description |
+| :--- | :---        |
+| **Super Picky** |  (Smallbore, Corkscrew, Chambered, Polygonal, Fluted) + (Tactical Mag, Steady Rounds, Flared Magwell) + Rapid Hit + (Explosive Rounds, Elemental Capacitor, Vorpal) + Stability MW |
+| **Super Picky Minus Stability MW** |  (Smallbore, Corkscrew, Chambered, Polygonal, Fluted) + (Tactical Mag, Steady Rounds, Flared Magwell) + Rapid Hit + (Explosive Rounds, Elemental Capacitor, Vorpal) |
+| **Super Picky Minus Barrels** |  (Smallbore, Corkscrew, Chambered, Polygonal, Fluted) + (anything) + Rapid Hit + (Explosive Rounds, Elemental Capacitor, Vorpal) + Stability MW |
 ## Patron of Lost Causes (PvE)
 CoolGuy goes ham on PoLC - [https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s](https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s) . For PvE, it's the only scout (as of now) that can roll Vorpal and Osmosis. Not a super high priority for PvE and not a terribly hard set of perks to farm. ([view item on light.gg](https://www.light.gg/db/items/2723241847/patron-of-lost-causes/))
 
 | Roll | Description |
 | :--- | :---        |
-## Patron of Lost Causes (PvP)
-CoolGuy goes ham on PoLC - [https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s](https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s) . I'm on controller so these rolls are all about maxing our stability. Fortunately we have a pretty broad set of useful rolls as we're looking for (Smallbore, Corkscrew, Chambered, Polygonal, Fluted) + (Tactical Mag, Steady Rounds, Flared Magwell) + Rapid Hit + (Explosive Rounds, Elemental Capacitor) + Stability MW ([view item on light.gg](https://www.light.gg/db/items/2723241847/patron-of-lost-causes/))
-
-| Roll | Description |
-| :--- | :---        |
-## Patron of Lost Causes (Garbo)
-Any roll that isn't one of our solid PvE or PvP rolls. ([view item on light.gg](https://www.light.gg/db/items/2723241847/patron-of-lost-causes/))
-
-| Roll | Description |
-| :--- | :---        |
+| **Utility** | Rapid Hit + (Osmosis, Vorpal) |
 ## Line in the Sand (PvE)
 I only suggest this for completeness (Arc LFR in the power slot). It's not that great. Make it your lowest priority farm. Thank you Ehroar! [https://www.youtube.com/watch?v=AqI4PumNVC0](https://www.youtube.com/watch?v=AqI4PumNVC0) . We're looking for Rapid Hit + Firing Line. ([view item on light.gg](https://www.light.gg/db/items/946443267/line-in-the-sand/))
 
