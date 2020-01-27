@@ -1,89 +1,129 @@
-From wishlist generated around 27 Jan 2020 05:14:28
+From wishlist generated around `27 Jan 2020 16:51:54`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
-An up-to-date version can be found [here](https://github.com/rslifka/wishlist)
+These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
+
+This also means that, if your PvP and PvE rolls are similar (they usually aren't) that there's a chance a match is flagged and commented as a PvP roll in the DIM "Notes" section, when it could do double-duty. That's just how the wishlist feature currently works, so use your own discretion.
 ## Steelfeather Repeater (PvP)
-[PvP] We're going for straight-up recoil and massive stability here. We can get Recoil to 100 with Arrowhead and a Counterbalance mod so the rest is about stability.  With a huge mag, 100 recoil and a lot of stability with Vorpal, this should be able to shut down some supers! ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
-## Steelfeather Repeater (PvP)
-[PvP - "Super Picky"] Arrowhead Brake + (HCR, Ricochet, Flared) + (Firmly Planted, Slideways) + (Elemental Capacitor, Vorpal) + Stability MW ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
-## Steelfeather Repeater (PvP)
-[PvP - "Super Picky (Minus Mag Perks)"] Arrowhead Brake + (Anything) + (Firmly Planted, Slideways) + (Elemental Capacitor, Vorpal) + Stability MW ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
-## Steelfeather Repeater (PvP)
-[PvP - "Super Picky (Minus Stability MW)"] Arrowhead Brake + (HCR, Ricochet, Flared) + (Firmly Planted, Slideways) + (Elemental Capacitor, Vorpal) ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
+We're going for straight-up recoil and massive stability here. We can get Recoil to 100 with Arrowhead and a Counterbalance mod so the rest is about stability.  With a huge mag, 100 recoil and a lot of stability with Vorpal, this should be able to shut down some supers! ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
+
+| Roll | Description |
+| :--- | :---        |
+| **Super Picky** | Arrowhead Brake + (HCR, Ricochet, Flared) + (Firmly Planted, Slideways) + (Elemental Capacitor, Vorpal) + Stability MW |
+| **Super Picky (Minus Mag Perks)** | Arrowhead Brake + (Anything) + (Firmly Planted, Slideways) + (Elemental Capacitor, Vorpal) + Stability MW |
+| **Super Picky (Minus Stability MW)** | Arrowhead Brake + (HCR, Ricochet, Flared) + (Firmly Planted, Slideways) + (Elemental Capacitor, Vorpal) |
 ## Steelfeather Repeater (PvE)
-[PvE] We're looking for ways to keep increased DPS for longer, with Osmosis thrown in for high-end PvE w/Match Game and while I'm not super impressed with Vorpal on this weapon, why not in case it doesn't come back? All of the available masterworks are fine; none required for a great roll here. Here we go! ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
-## Steelfeather Repeater (PvE)
-[PvE - "DPS + Osmosis Bonus"] (Chambered, Corkscrew, Fluted, Polygonal, Smallbore) + (Ricochet, Flared Mag, Light Mag) + Feeding Frenzy + (Swashbuckler AND Osmosis) ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
-## Steelfeather Repeater (PvE)
-[PvE - "DPS + Vorpal Bonus"] (Chambered, Corkscrew, Fluted, Polygonal, Smallbore) + (Ricochet, Flared Mag, Light Mag) + Feeding Frenzy + (Swashbuckler AND Vorpal) ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
-## Steelfeather Repeater (PvE)
-[PvE - "DPS Picky"] (Chambered, Corkscrew, Fluted, Polygonal, Smallbore) + (Ricochet, Flared Mag, Light Mag) + Feeding Frenzy + Swashbuckler ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
-## Steelfeather Repeater (PvE)
-[PvE - "DPS Baseline"] Feeding Frenzy + Swashbuckler ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
-## Steelfeather Repeater (Garbo)
-Any roll that isn't one of our solid PvE or PvP rolls. ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
+We're looking for ways to keep increased DPS for longer, with Osmosis thrown in for high-end PvE w/Match Game and while I'm not super impressed with Vorpal on this weapon, why not in case it doesn't come back? I don't have a roll that just features Osmosis or Vorpal in case you want those for specific purposes, but you don't need a wishlist file to tell you to look for one perk ;) All of the available masterworks are fine; none required for a great roll here. Here we go! ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
+
+| Roll | Description |
+| :--- | :---        |
+| **Super Picky + Osmosis Bonus** | (Chambered, Corkscrew, Fluted, Polygonal, Smallbore) + (Ricochet, Flared Mag, Light Mag) + Feeding Frenzy + (Swashbuckler AND Osmosis) |
+| **Super Picky + Vorpal Bonus** | (Chambered, Corkscrew, Fluted, Polygonal, Smallbore) + (Ricochet, Flared Mag, Light Mag) + Feeding Frenzy + (Swashbuckler AND Vorpal) |
+| **Super Picky** | (Chambered, Corkscrew, Fluted, Polygonal, Smallbore) + (Ricochet, Flared Mag, Light Mag) + Feeding Frenzy + Swashbuckler |
+| **Baseline** | Feeding Frenzy + Swashbuckler |
 ## Breachlight (PvE)
 Some neat PvE combos here from Ehroar's video [https://www.youtube.com/watch?v=TrYRPglvMHY](https://www.youtube.com/watch?v=TrYRPglvMHY) and general PvE wisdom from CoolGuy [https://www.youtube.com/watch?v=GXwdAQGOfeY](https://www.youtube.com/watch?v=GXwdAQGOfeY) . I kind of love Breachlight so I'm going to lay down a bunch of possibilities here, contained in the wishlist.txt file. ([view item on light.gg](https://www.light.gg/db/items/1289997971/breachlight/))
-## Breachlight (PvE)
-[PvE] Outlaw + Multikill Clip + (Drop Mag, Flared Magwell, Tactical Mag) + Stability MW ([view item on light.gg](https://www.light.gg/db/items/1289997971/breachlight/))
-## Breachlight (PvE)
-[PvE] Outlaw + Rampage + (Appended Mag, Drop Mag, Extended Mag) + Stability MW ([view item on light.gg](https://www.light.gg/db/items/1289997971/breachlight/))
-## Breachlight (PvE)
-[PvE] Demolitionist + Multikill Clip + (Drop Mag, Flared Magwell, Tactical Mag) + Reload MW ([view item on light.gg](https://www.light.gg/db/items/1289997971/breachlight/))
-## Breachlight (PvE)
-[PvE] Demolitionist + Osmosis + (Drop Mag, Flared Magwell, Tactical Mag) + Reload MW ([view item on light.gg](https://www.light.gg/db/items/1289997971/breachlight/))
-## Breachlight (PvE)
-[PvE] Demolitionist + Vorpal + (Drop Mag, Flared Magwell, Tactical Mag) + Reload MW ([view item on light.gg](https://www.light.gg/db/items/1289997971/breachlight/))
-## Breachlight (PvE)
-[PvE] Demolitionist + Rampage + (Appended Mag, Drop Mag, Extended Mag) + Reload MW ([view item on light.gg](https://www.light.gg/db/items/1289997971/breachlight/))
+
+| Roll | Description |
+| :--- | :---        |
 ## Breachlight (PvP)
 CoolGuy's video here is both PvE and PvP but focuses intensely on PvP - [https://www.youtube.com/watch?v=GXwdAQGOfeY](https://www.youtube.com/watch?v=GXwdAQGOfeY) . "I would try other rolls while I was reviewing this and I kept coming back to Vorpal." "Landing shots more important than accuracy; shouldn't be worried about straight precision. More important to get the recoil straight up and down than it is to add stability because you have to control the stability after every burst anyway." Here's what I decided after watching the video: (Full Bore, Hammer-Forged, Smallbore, Extended Barrel) + Accurized Rounds + (*anything*) + (Vorpal, Quickdraw) + Range MW ([view item on light.gg](https://www.light.gg/db/items/1289997971/breachlight/))
+
+| Roll | Description |
+| :--- | :---        |
 ## Breachlight (Garbo)
 Any roll that isn't one of our solid PvE or PvP rolls. ([view item on light.gg](https://www.light.gg/db/items/1289997971/breachlight/))
+
+| Roll | Description |
+| :--- | :---        |
 ## Patron of Lost Causes (PvE)
 CoolGuy goes ham on PoLC - [https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s](https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s) . For PvE, it's the only scout (as of now) that can roll Vorpal and Osmosis. Not a super high priority for PvE and not a terribly hard set of perks to farm. ([view item on light.gg](https://www.light.gg/db/items/2723241847/patron-of-lost-causes/))
+
+| Roll | Description |
+| :--- | :---        |
 ## Patron of Lost Causes (PvP)
 CoolGuy goes ham on PoLC - [https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s](https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s) . I'm on controller so these rolls are all about maxing our stability. Fortunately we have a pretty broad set of useful rolls as we're looking for (Smallbore, Corkscrew, Chambered, Polygonal, Fluted) + (Tactical Mag, Steady Rounds, Flared Magwell) + Rapid Hit + (Explosive Rounds, Elemental Capacitor) + Stability MW ([view item on light.gg](https://www.light.gg/db/items/2723241847/patron-of-lost-causes/))
+
+| Roll | Description |
+| :--- | :---        |
 ## Patron of Lost Causes (Garbo)
 Any roll that isn't one of our solid PvE or PvP rolls. ([view item on light.gg](https://www.light.gg/db/items/2723241847/patron-of-lost-causes/))
+
+| Roll | Description |
+| :--- | :---        |
 ## Line in the Sand (PvE)
 I only suggest this for completeness (Arc LFR in the power slot). It's not that great. Make it your lowest priority farm. Thank you Ehroar! [https://www.youtube.com/watch?v=AqI4PumNVC0](https://www.youtube.com/watch?v=AqI4PumNVC0) . We're looking for Rapid Hit + Firing Line. ([view item on light.gg](https://www.light.gg/db/items/946443267/line-in-the-sand/))
+
+| Roll | Description |
+| :--- | :---        |
 ## Line in the Sand (Garbo)
 Any roll that isn't one of our solid PvE or PvP rolls. This one is a little over-reaching, but as it stands there's not a lot of reason to farm this. ([view item on light.gg](https://www.light.gg/db/items/946443267/line-in-the-sand/))
+
+| Roll | Description |
+| :--- | :---        |
 ## Martyr's Retribution (PvE)
 This is one of my favourite weapons in all of Destiny! Pretty much any roll is fine but if you want to push your roll criteria, here we go. We're looking for (Quick Launch, Hard Launch) + (Auto Loading Holster, Threat Detector) + (Demolitionist, Lead from Gold) + (Reload, Velocity MW). Threat Detector might seem odd, but it increases reload speed and because this GL doesn't do any impact damage, it will have great reload up close. ([view item on light.gg](https://www.light.gg/db/items/3850168899/martyrs-retribution/))
+
+| Roll | Description |
+| :--- | :---        |
 ## Martyr's Retribution (PvP)
 This is for use from range, and Blast Radius doesn't do anything on Wave Frame launchers - simple wishlist here :) We're looking for (Hard Launch, Quick Launch) + Auto Loading Holster + Elemental Capacitor + (Reload, Handling, Velocity MW). Why not demolitionist? You're not going to get final blows with this so much in PvP and with ALH, it will always be loaded. I'd rather have better handling or reload with Elemental Capacitor always-on. ([view item on light.gg](https://www.light.gg/db/items/3850168899/martyrs-retribution/))
+
+| Roll | Description |
+| :--- | :---        |
 ## Martyr's Retribution (Garbo)
 Any roll that isn't one of our solid PvE or PvP rolls. ([view item on light.gg](https://www.light.gg/db/items/3850168899/martyrs-retribution/))
+
+| Roll | Description |
+| :--- | :---        |
 ## Gallant Charge (PvE)
-Fusions don't totally shine in PvE. This can roll Swashbuckler, so let's at least bank that and see what we can do to keep it up longer. ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
-## Gallant Charge (PvE)
-[PvE - "DPS Super Picky"] (Fluted Barrel, Corkscrew, Arrowhead) + (Accelerated Coils, Enhanced Battery) + (Demolitionist, Auto-Loading Holster) + Swashbuckler + (Charge Time MW, Reload MW) ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
-## Gallant Charge (PvE)
-[PvE - "DPS Picky"] (Accelerated Coils, Enhanced Battery) + (Demolitionist, Auto-Loading Holster) + Swashbuckler ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
-## Gallant Charge (PvE)
-[PvE - "DPS Baseline"] (Demolitionist, Auto-Loading Holster) + Swashbuckler ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
+CoolGuy has a terrific PvE and PvP review of the Gallant - [https://www.youtube.com/watch?v=q6BPg-W8z9g](https://www.youtube.com/watch?v=q6BPg-W8z9g)  ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
+
+| Roll | Description |
+| :--- | :---        |
+| **DPS Super Picky** | (Fluted Barrel, Corkscrew, Arrowhead) + (Accelerated Coils, Enhanced Battery) + (Demolitionist, Auto-Loading Holster) + Swashbuckler + (Charge Time MW, Reload MW) |
+| **DPS Picky** | (Accelerated Coils, Enhanced Battery) + (Demolitionist, Auto-Loading Holster) + Swashbuckler |
+| **DPS Baseline** | (Demolitionist, Auto-Loading Holster) + Swashbuckler |
 ## Gallant Charge (PvP)
 Gallant Charge is to Stability as Erentil is to Range. If you want great range, farm an Erentil from Menagerie. I want something different so these rolls are all about maximizing stability wherever possible. If you can't stock up on the stability rolls, it's still a solid fusion, but it won't outdo your Erentil by any means. ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
-## Gallant Charge (PvP)
-[PvP - "Super Picky"] (Smallbore, Polygonal Rifling, Chambered Compensator) + Particle Repeater + (Anything) + Tap the Trigger + Stability MW ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
-## Gallant Charge (PvP)
-[PvP - "Super Picky (Minus Barrels)"] (Anything) + Particle Repeater + (Anything) + Tap the Trigger + Stability MW ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
-## Gallant Charge (PvP)
-[PvP - "Super Picky (Minus Particle Repeater)"] (Smallbore, Polygonal Rifling, Chambered Compensator) + (Anything) + (Anything) + Tap the Trigger + Stability MW ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
-## Gallant Charge (PvP)
-[PvP - "Super Picky (Minus Stability MW)"] (Smallbore, Polygonal Rifling, Chambered Compensator) + Particle Repeater + (Anything) + Tap the Trigger ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
+
+| Roll | Description |
+| :--- | :---        |
+| **Super Picky** | (Smallbore, Polygonal Rifling, Chambered Compensator) + Particle Repeater + (Anything) + Tap the Trigger + Stability MW |
+| **Super Picky (Minus Barrels)** | (Anything) + Particle Repeater + (Anything) + Tap the Trigger + Stability MW |
+| **Super Picky (Minus Particle Repeater)** | (Smallbore, Polygonal Rifling, Chambered Compensator) + (Anything) + (Anything) + Tap the Trigger + Stability MW |
+| **Super Picky (Minus Stability MW)** | (Smallbore, Polygonal Rifling, Chambered Compensator) + Particle Repeater + (Anything) + Tap the Trigger |
 ## Gallant Charge (Garbo)
 Any roll that isn't one of our solid PvE or PvP rolls. ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
+
+| Roll | Description |
+| :--- | :---        |
 ## Infinite Paths 8 (PvE)
 CoolGuy dropping serious knowledge here [https://www.youtube.com/watch?v=-ZnUT63RgnE](https://www.youtube.com/watch?v=-ZnUT63RgnE) . "Great for mid and low-tier adds." We're going for either Demo+Dragon (don't forget a dragonfly spec!) or Grave Robber + Swashbuckler. ([view item on light.gg](https://www.light.gg/db/items/3233390913/infinite-paths-8/))
+
+| Roll | Description |
+| :--- | :---        |
 ## Infinite Paths 8 (PvP)
 CoolGuy dropping serious knowledge here [https://www.youtube.com/watch?v=-ZnUT63RgnE](https://www.youtube.com/watch?v=-ZnUT63RgnE) . "Currently they're the only frame I wouldn't take in to 5500 Comp. Use Rapid-fire frame." If you want some rolls, here's what I put together from the video: Arrowhead Brake + Steady Rounds + Moving Target + (Zen Moment, Swashbuckler) + Stability MW ([view item on light.gg](https://www.light.gg/db/items/3233390913/infinite-paths-8/))
+
+| Roll | Description |
+| :--- | :---        |
 ## Infinite Paths 8 (Garbo)
 Any roll that isn't one of our solid PvE or PvP rolls. ([view item on light.gg](https://www.light.gg/db/items/3233390913/infinite-paths-8/))
+
+| Roll | Description |
+| :--- | :---        |
 ## Traveler's Judgement 5 (PvE)
 CoolGuy brings the heat again! [https://www.youtube.com/watch?v=J4HGIAZQdY4](https://www.youtube.com/watch?v=J4HGIAZQdY4) . We're looking for (Rapid Hit, Feeding Frenzy) + (Disruption Break, Dragonfly). Watch the video to see why Disruption Break is recommended :) ([view item on light.gg](https://www.light.gg/db/items/4149758318/travelers-judgment-5/))
+
+| Roll | Description |
+| :--- | :---        |
 ## Traveler's Judgement 5 (PvP)
 CoolGuy brings the heat again! [https://www.youtube.com/watch?v=J4HGIAZQdY4](https://www.youtube.com/watch?v=J4HGIAZQdY4) . We're looking for (HCR, Armor-Piercing, Richochet) + Rapid-Hit + Tap the Trigger ([view item on light.gg](https://www.light.gg/db/items/4149758318/travelers-judgment-5/))
+
+| Roll | Description |
+| :--- | :---        |
 ## Traveler's Judgement 5 (Garbo)
 Any roll that isn't one of our solid PvE or PvP rolls. ([view item on light.gg](https://www.light.gg/db/items/4149758318/travelers-judgment-5/))
+
+| Roll | Description |
+| :--- | :---        |
