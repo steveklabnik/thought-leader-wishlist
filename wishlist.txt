@@ -1,4 +1,4 @@
-// Wishlist generated around 27 Jan 2020 01:23:09
+// Wishlist generated around 27 Jan 2020 01:39:32
 // Up-to-date version: https://github.com/rslifka/wishlist
 
 // Kinetic
@@ -47,7 +47,8 @@ dimwishlist:item=-2891976012#notes:Future Imperfect
 dimwishlist:item=-2891976013#notes:Rest for the Wicked 
 
 //item:Steelfeather Repeater (PvP),lightgg:https://www.light.gg/db/items/1251729046/steelfeather-repeater/
-//notes:[PvP] We're going for straight-up recoil and massive stability here. We can get Recoil to 100 with Arrowhead and a Counterbalance mod so the rest is about stability: Arrowhead Brake + (HCR, Ricochet, Flared) + (Firmly Planted, Slideways) + (Elemental Capacitor, Vorpal) + Stability MW. With a huge mag, 100 recoil and a lot of stability, this should be able to shut down some supers.
+//notes:[PvP] We're going for straight-up recoil and massive stability here. We can get Recoil to 100 with Arrowhead and a Counterbalance mod so the rest is about stability.  With a huge mag, 100 recoil and a lot of stability with Vorpal, this should be able to shut down some supers!
+//notes:[PvP - "Super Picky"] Arrowhead Brake + (HCR, Ricochet, Flared) + (Firmly Planted, Slideways) + (Elemental Capacitor, Vorpal) + Stability MW
 dimwishlist:item=1251729046&perks=839105230,1561002382,280464955,3511092054,1590375901
 dimwishlist:item=1251729046&perks=839105230,3230963543,280464955,3511092054,1590375901
 dimwishlist:item=1251729046&perks=839105230,1885400500,280464955,3511092054,1590375901
@@ -108,6 +109,40 @@ dimwishlist:item=1251729046&perks=839105230,1885400500,280464955,1546637391,1590
 dimwishlist:item=1251729046&perks=839105230,1561002382,2039302152,1546637391,1590375897
 dimwishlist:item=1251729046&perks=839105230,3230963543,2039302152,1546637391,1590375897
 dimwishlist:item=1251729046&perks=839105230,1885400500,2039302152,1546637391,1590375897
+//notes:[PvP - "Super Picky (Minus Mag Perks)"] Arrowhead Brake + (Anything) + (Firmly Planted, Slideways) + (Elemental Capacitor, Vorpal) + Stability MW
+dimwishlist:item=1251729046&perks=839105230,280464955,3511092054,1590375901
+dimwishlist:item=1251729046&perks=839105230,2039302152,3511092054,1590375901
+dimwishlist:item=1251729046&perks=839105230,280464955,1546637391,1590375901
+dimwishlist:item=1251729046&perks=839105230,2039302152,1546637391,1590375901
+dimwishlist:item=1251729046&perks=839105230,280464955,3511092054,1590375902
+dimwishlist:item=1251729046&perks=839105230,2039302152,3511092054,1590375902
+dimwishlist:item=1251729046&perks=839105230,280464955,1546637391,1590375902
+dimwishlist:item=1251729046&perks=839105230,2039302152,1546637391,1590375902
+dimwishlist:item=1251729046&perks=839105230,280464955,3511092054,1590375903
+dimwishlist:item=1251729046&perks=839105230,2039302152,3511092054,1590375903
+dimwishlist:item=1251729046&perks=839105230,280464955,1546637391,1590375903
+dimwishlist:item=1251729046&perks=839105230,2039302152,1546637391,1590375903
+dimwishlist:item=1251729046&perks=839105230,280464955,3511092054,1590375896
+dimwishlist:item=1251729046&perks=839105230,2039302152,3511092054,1590375896
+dimwishlist:item=1251729046&perks=839105230,280464955,1546637391,1590375896
+dimwishlist:item=1251729046&perks=839105230,2039302152,1546637391,1590375896
+dimwishlist:item=1251729046&perks=839105230,280464955,3511092054,1590375897
+dimwishlist:item=1251729046&perks=839105230,2039302152,3511092054,1590375897
+dimwishlist:item=1251729046&perks=839105230,280464955,1546637391,1590375897
+dimwishlist:item=1251729046&perks=839105230,2039302152,1546637391,1590375897
+//notes:[PvP - "Super Picky (Minus Stability MW)"] Arrowhead Brake + (HCR, Ricochet, Flared) + (Firmly Planted, Slideways) + (Elemental Capacitor, Vorpal)
+dimwishlist:item=1251729046&perks=839105230,1561002382,280464955,3511092054
+dimwishlist:item=1251729046&perks=839105230,1885400500,280464955,3511092054
+dimwishlist:item=1251729046&perks=839105230,3230963543,280464955,3511092054
+dimwishlist:item=1251729046&perks=839105230,1561002382,2039302152,3511092054
+dimwishlist:item=1251729046&perks=839105230,1885400500,2039302152,3511092054
+dimwishlist:item=1251729046&perks=839105230,3230963543,2039302152,3511092054
+dimwishlist:item=1251729046&perks=839105230,1561002382,280464955,1546637391
+dimwishlist:item=1251729046&perks=839105230,1885400500,280464955,1546637391
+dimwishlist:item=1251729046&perks=839105230,3230963543,280464955,1546637391
+dimwishlist:item=1251729046&perks=839105230,1561002382,2039302152,1546637391
+dimwishlist:item=1251729046&perks=839105230,1885400500,2039302152,1546637391
+dimwishlist:item=1251729046&perks=839105230,3230963543,2039302152,1546637391
 
 //item:Steelfeather Repeater (PvE),lightgg:https://www.light.gg/db/items/1251729046/steelfeather-repeater/
 //notes:[PvE] We're looking for ways to keep increased DPS for longer, with Osmosis thrown in for high-end PvE w/Match Game and while I'm not super impressed with Vorpal on this weapon, why not in case it doesn't come back? All of the available masterworks are fine; none required for a great roll here. Here we go!

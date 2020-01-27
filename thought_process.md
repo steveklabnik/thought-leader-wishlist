@@ -1,8 +1,14 @@
-From wishlist generated around 27 Jan 2020 01:23:09
+From wishlist generated around 27 Jan 2020 01:39:32
 
 An up-to-date version can be found [here](https://github.com/rslifka/wishlist)
 ## Steelfeather Repeater (PvP)
-[PvP] We're going for straight-up recoil and massive stability here. We can get Recoil to 100 with Arrowhead and a Counterbalance mod so the rest is about stability: Arrowhead Brake + (HCR, Ricochet, Flared) + (Firmly Planted, Slideways) + (Elemental Capacitor, Vorpal) + Stability MW. With a huge mag, 100 recoil and a lot of stability, this should be able to shut down some supers. ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
+[PvP] We're going for straight-up recoil and massive stability here. We can get Recoil to 100 with Arrowhead and a Counterbalance mod so the rest is about stability.  With a huge mag, 100 recoil and a lot of stability with Vorpal, this should be able to shut down some supers! ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
+## Steelfeather Repeater (PvP)
+[PvP - "Super Picky"] Arrowhead Brake + (HCR, Ricochet, Flared) + (Firmly Planted, Slideways) + (Elemental Capacitor, Vorpal) + Stability MW ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
+## Steelfeather Repeater (PvP)
+[PvP - "Super Picky (Minus Mag Perks)"] Arrowhead Brake + (Anything) + (Firmly Planted, Slideways) + (Elemental Capacitor, Vorpal) + Stability MW ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
+## Steelfeather Repeater (PvP)
+[PvP - "Super Picky (Minus Stability MW)"] Arrowhead Brake + (HCR, Ricochet, Flared) + (Firmly Planted, Slideways) + (Elemental Capacitor, Vorpal) ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
 ## Steelfeather Repeater (PvE)
 [PvE] We're looking for ways to keep increased DPS for longer, with Osmosis thrown in for high-end PvE w/Match Game and while I'm not super impressed with Vorpal on this weapon, why not in case it doesn't come back? All of the available masterworks are fine; none required for a great roll here. Here we go! ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
 ## Steelfeather Repeater (PvE)
