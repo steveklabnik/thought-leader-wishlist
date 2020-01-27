@@ -1,4 +1,4 @@
-From wishlist generated around 27 Jan 2020 01:39:32
+From wishlist generated around 27 Jan 2020 05:14:28
 
 An up-to-date version can be found [here](https://github.com/rslifka/wishlist)
 ## Steelfeather Repeater (PvP)
@@ -58,7 +58,7 @@ Any roll that isn't one of our solid PvE or PvP rolls. ([view item on light.gg](
 ## Gallant Charge (PvE)
 Fusions don't totally shine in PvE. This can roll Swashbuckler, so let's at least bank that and see what we can do to keep it up longer. ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
 ## Gallant Charge (PvE)
-[PvE - "DPS Super Picky"] (Fluted Barrel, Corkscrew, Arrowhead) + (Accelerated Coils, Enhanced Battery) + (Demolitionist, Auto-Loading Holster) + Swashbuckler + Charge Time MW ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
+[PvE - "DPS Super Picky"] (Fluted Barrel, Corkscrew, Arrowhead) + (Accelerated Coils, Enhanced Battery) + (Demolitionist, Auto-Loading Holster) + Swashbuckler + (Charge Time MW, Reload MW) ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
 ## Gallant Charge (PvE)
 [PvE - "DPS Picky"] (Accelerated Coils, Enhanced Battery) + (Demolitionist, Auto-Loading Holster) + Swashbuckler ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
 ## Gallant Charge (PvE)
