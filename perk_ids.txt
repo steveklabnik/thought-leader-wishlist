@@ -25,6 +25,7 @@ Drop Mag - 4134353779
 Extended Mag - 2420895100
 Flared Magwell - 3230963543
 High-Caliber Rounds - 1561002382
+Light Mag - 679225683
 Particle Repeater - 3868766766
 Ricochet Rounds - 1885400500
 Steady Rounds - 3177308360
