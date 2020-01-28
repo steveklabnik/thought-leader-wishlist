@@ -1,4 +1,4 @@
-This file was auto-generated at `28 Jan 2020 03:53:09`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at `28 Jan 2020 13:37:21`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -56,8 +56,8 @@ I only suggest this for completeness (Arc LFR in the power slot). It's not that 
 
 | Roll | Description |
 | :--- | :---        |
-## Line in the Sand (Garbo)
-Any roll that isn't one of our solid PvE or PvP rolls. This one is a little over-reaching, but as it stands there's not a lot of reason to farm this. ([view item on light.gg](https://www.light.gg/db/items/946443267/line-in-the-sand/))
+## Martyr's Retribution (PvP)
+This is for use from range, and Blast Radius doesn't do anything on Wave Frame launchers - simple wishlist here :) We're looking for (Hard Launch, Quick Launch) + Auto Loading Holster + Elemental Capacitor + (Reload, Handling, Velocity MW). Why not demolitionist? You're not going to get final blows with this so much in PvP and with ALH, it will always be loaded. I'd rather have better handling or reload with Elemental Capacitor always-on. ([view item on light.gg](https://www.light.gg/db/items/3850168899/martyrs-retribution/))
 
 | Roll | Description |
 | :--- | :---        |
@@ -66,16 +66,15 @@ This is one of my favourite weapons in all of Destiny! Pretty much any roll is f
 
 | Roll | Description |
 | :--- | :---        |
-## Martyr's Retribution (PvP)
-This is for use from range, and Blast Radius doesn't do anything on Wave Frame launchers - simple wishlist here :) We're looking for (Hard Launch, Quick Launch) + Auto Loading Holster + Elemental Capacitor + (Reload, Handling, Velocity MW). Why not demolitionist? You're not going to get final blows with this so much in PvP and with ALH, it will always be loaded. I'd rather have better handling or reload with Elemental Capacitor always-on. ([view item on light.gg](https://www.light.gg/db/items/3850168899/martyrs-retribution/))
+## Gallant Charge (PvP)
+Fallout has an interesting, pro-Stability take on the Gallant - [https://www.youtube.com/watch?v=pVVLwg1pVs4](https://www.youtube.com/watch?v=pVVLwg1pVs4) ; "This might be THE fusion rifle for controller players". Its bolt grouping isn't as tight, but you can get Recoil to 100 (with a Counterbalance mod). Go for Stability! With respect to the magazine, I prefer the unaltered charge time. ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
 
 | Roll | Description |
 | :--- | :---        |
-## Martyr's Retribution (Garbo)
-Any roll that isn't one of our solid PvE or PvP rolls. ([view item on light.gg](https://www.light.gg/db/items/3850168899/martyrs-retribution/))
-
-| Roll | Description |
-| :--- | :---        |
+| **Super Picky** | (Extended Barrel, Chambered Compensator, Arrowhead Brake) + (Particle Repeater, Projection Fuse) + (Any) + Tap the Trigger + (Range, Stability MW) |
+| **Super Picky (Minus Barrels)** | (Any) + (Particle Repeater, Projection Fuse) + (Any) + Tap the Trigger + (Range, Stability MW) |
+| **Super Picky (Minus Magazines)** | (Extended Barrel, Chambered Compensator, Arrowhead Brake) + (Any) + (Any) + Tap the Trigger + (Range, Stability MW) |
+| **Super Picky (Minus Masterworks)** | (Extended Barrel, Chambered Compensator, Arrowhead Brake) + (Particle Repeater, Projection Fuse) + (Any) + Tap the Trigger |
 ## Gallant Charge (PvE)
 CoolGuy has a terrific PvE review of the Gallant - [https://www.youtube.com/watch?v=q6BPg-W8z9g](https://www.youtube.com/watch?v=q6BPg-W8z9g) . It has a PvP perspective but it's not as strong as Fallout's below (IMHO, on this particular weapon). ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
 
@@ -95,17 +94,8 @@ CoolGuy has a terrific PvE review of the Gallant - [https://www.youtube.com/watc
 | **Super Picky 3 (Minus Masterworks)** | (Extended Barrel, Fullbore, Hammer-Forged, Smallbore) + (Projection Fuse) + (Grave Robber) + (Swashbuckler) |
 | **Baseline 1** | (Any) + (Any) + (Demolitionist, Auto-Loading Holster) + (Swashbuckler, Multikill Clip) |
 | **Baseline 2** | (Any) + (Any) + (Grave Robber) + (Swashbuckler) |
-## Gallant Charge (PvP)
-Fallout has an interesting, pro-Stability take on the Gallant - [https://www.youtube.com/watch?v=pVVLwg1pVs4](https://www.youtube.com/watch?v=pVVLwg1pVs4) ; "This might be THE fusion rifle for controller players". Its bolt grouping isn't as tight, but you can get Recoil to 100 (with a Counterbalance mod). Go for Stability! With respect to the magazine, I prefer the unaltered charge time. ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
-
-| Roll | Description |
-| :--- | :---        |
-| **Super Picky** | (Extended Barrel, Chambered Compensator, Arrowhead Brake) + (Particle Repeater, Projection Fuse) + (Any) + Tap the Trigger + (Range, Stability MW) |
-| **Super Picky (Minus Barrels)** | (Any) + (Particle Repeater, Projection Fuse) + (Any) + Tap the Trigger + (Range, Stability MW) |
-| **Super Picky (Minus Magazines)** | (Extended Barrel, Chambered Compensator, Arrowhead Brake) + (Any) + (Any) + Tap the Trigger + (Range, Stability MW) |
-| **Super Picky (Minus Masterworks)** | (Extended Barrel, Chambered Compensator, Arrowhead Brake) + (Particle Repeater, Projection Fuse) + (Any) + Tap the Trigger |
-## Gallant Charge (Garbo)
-Any roll that isn't one of our solid PvE or PvP rolls. ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
+## Infinite Paths 8 (PvP)
+CoolGuy dropping serious knowledge here [https://www.youtube.com/watch?v=-ZnUT63RgnE](https://www.youtube.com/watch?v=-ZnUT63RgnE) . "Currently they're the only frame I wouldn't take in to 5500 Comp. Use Rapid-fire frame." If you want some rolls, here's what I put together from the video: Arrowhead Brake + Steady Rounds + Moving Target + (Zen Moment, Swashbuckler) + Stability MW ([view item on light.gg](https://www.light.gg/db/items/3233390913/infinite-paths-8/))
 
 | Roll | Description |
 | :--- | :---        |
@@ -114,28 +104,13 @@ CoolGuy dropping serious knowledge here [https://www.youtube.com/watch?v=-ZnUT63
 
 | Roll | Description |
 | :--- | :---        |
-## Infinite Paths 8 (PvP)
-CoolGuy dropping serious knowledge here [https://www.youtube.com/watch?v=-ZnUT63RgnE](https://www.youtube.com/watch?v=-ZnUT63RgnE) . "Currently they're the only frame I wouldn't take in to 5500 Comp. Use Rapid-fire frame." If you want some rolls, here's what I put together from the video: Arrowhead Brake + Steady Rounds + Moving Target + (Zen Moment, Swashbuckler) + Stability MW ([view item on light.gg](https://www.light.gg/db/items/3233390913/infinite-paths-8/))
-
-| Roll | Description |
-| :--- | :---        |
-## Infinite Paths 8 (Garbo)
-Any roll that isn't one of our solid PvE or PvP rolls. ([view item on light.gg](https://www.light.gg/db/items/3233390913/infinite-paths-8/))
-
-| Roll | Description |
-| :--- | :---        |
-## Traveler's Judgement 5 (PvE)
-CoolGuy brings the heat again! [https://www.youtube.com/watch?v=J4HGIAZQdY4](https://www.youtube.com/watch?v=J4HGIAZQdY4) . We're looking for (Rapid Hit, Feeding Frenzy) + (Disruption Break, Dragonfly). Watch the video to see why Disruption Break is recommended :) ([view item on light.gg](https://www.light.gg/db/items/4149758318/travelers-judgment-5/))
-
-| Roll | Description |
-| :--- | :---        |
 ## Traveler's Judgement 5 (PvP)
 CoolGuy brings the heat again! [https://www.youtube.com/watch?v=J4HGIAZQdY4](https://www.youtube.com/watch?v=J4HGIAZQdY4) . We're looking for (HCR, Armor-Piercing, Richochet) + Rapid-Hit + Tap the Trigger ([view item on light.gg](https://www.light.gg/db/items/4149758318/travelers-judgment-5/))
 
 | Roll | Description |
 | :--- | :---        |
-## Traveler's Judgement 5 (Garbo)
-Any roll that isn't one of our solid PvE or PvP rolls. ([view item on light.gg](https://www.light.gg/db/items/4149758318/travelers-judgment-5/))
+## Traveler's Judgement 5 (PvE)
+CoolGuy brings the heat again! [https://www.youtube.com/watch?v=J4HGIAZQdY4](https://www.youtube.com/watch?v=J4HGIAZQdY4) . We're looking for (Rapid Hit, Feeding Frenzy) + (Disruption Break, Dragonfly). Watch the video to see why Disruption Break is recommended :) ([view item on light.gg](https://www.light.gg/db/items/4149758318/travelers-judgment-5/))
 
 | Roll | Description |
 | :--- | :---        |
