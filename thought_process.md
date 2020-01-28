@@ -1,4 +1,4 @@
-This file was auto-generated at `27 Jan 2020 17:22:58`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at `28 Jan 2020 03:07:25`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -81,18 +81,18 @@ CoolGuy has a terrific PvE and PvP review of the Gallant - [https://www.youtube.
 
 | Roll | Description |
 | :--- | :---        |
-| **DPS Super Picky** | (Fluted Barrel, Corkscrew, Arrowhead) + (Accelerated Coils, Enhanced Battery) + (Demolitionist, Auto-Loading Holster) + Swashbuckler + (Charge Time MW, Reload MW) |
+| **Super Picky** | (Fluted Barrel, Corkscrew, Arrowhead) + (Accelerated Coils, Enhanced Battery) + (Demolitionist, Auto-Loading Holster) + Swashbuckler + (Charge Time MW, Reload MW) |
 | **DPS Picky** | (Accelerated Coils, Enhanced Battery) + (Demolitionist, Auto-Loading Holster) + Swashbuckler |
 | **DPS Baseline** | (Demolitionist, Auto-Loading Holster) + Swashbuckler |
 ## Gallant Charge (PvP)
-Gallant Charge is to Stability as Erentil is to Range. If you want great range, farm an Erentil from Menagerie. I want something different so these rolls are all about maximizing stability wherever possible. If you can't stock up on the stability rolls, it's still a solid fusion, but it won't outdo your Erentil by any means. ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
+Fallout has an interesting, pro-Stability take on the Gallant - [https://www.youtube.com/watch?v=pVVLwg1pVs4](https://www.youtube.com/watch?v=pVVLwg1pVs4) ; "This might be THE fusion rifle for controller players". Its bolt grouping isn't as tight, but you can get Recoil to 100 (with a Counterbalance mod). Go for Stability! With respect to the magazine, I prefer the unaltered charge time. ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
 
 | Roll | Description |
 | :--- | :---        |
-| **Super Picky** | (Smallbore, Polygonal Rifling, Chambered Compensator) + Particle Repeater + (Anything) + Tap the Trigger + Stability MW |
-| **Super Picky (Minus Barrels)** | (Anything) + Particle Repeater + (Anything) + Tap the Trigger + Stability MW |
-| **Super Picky (Minus Particle Repeater)** | (Smallbore, Polygonal Rifling, Chambered Compensator) + (Anything) + (Anything) + Tap the Trigger + Stability MW |
-| **Super Picky (Minus Stability MW)** | (Smallbore, Polygonal Rifling, Chambered Compensator) + Particle Repeater + (Anything) + Tap the Trigger |
+| **Super Picky** | (Extended Barrel, Chambered Compensator, Arrowhead Brake) + (Particle Repeater, Projection Fuse) + (Anything) + Tap the Trigger + (Range, Stability MW) |
+| **Super Picky (Minus Barrels)** | (Anything) + (Particle Repeater, Projection Fuse) + (Anything) + Tap the Trigger + (Range, Stability MW) |
+| **Super Picky (Minus Magazines)** | (Extended Barrel, Chambered Compensator, Arrowhead Brake) + (Anything) + (Anything) + Tap the Trigger + (Range, Stability MW) |
+| **Super Picky (Minus Masterworks)** | (Extended Barrel, Chambered Compensator, Arrowhead Brake) + (Particle Repeater, Projection Fuse) + (Anything) + Tap the Trigger |
 ## Gallant Charge (Garbo)
 Any roll that isn't one of our solid PvE or PvP rolls. ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
 
