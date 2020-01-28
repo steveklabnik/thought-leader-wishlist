@@ -29,6 +29,7 @@ Flared Magwell - 3230963543
 High-Caliber Rounds - 1561002382
 Light Mag - 679225683
 Particle Repeater - 3868766766
+Projection Fuse - 2969185026
 Ricochet Rounds - 1885400500
 Steady Rounds - 3177308360
 Tactical Mag - 106909392
