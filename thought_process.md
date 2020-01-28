@@ -1,4 +1,4 @@
-This file was auto-generated at `28 Jan 2020 03:47:33`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at `28 Jan 2020 03:53:09`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -9,7 +9,7 @@ We're going for straight-up recoil and massive stability here. We can get Recoil
 | Roll | Description |
 | :--- | :---        |
 | **Super Picky** | Arrowhead Brake + (HCR, Ricochet, Flared) + (Firmly Planted, Slideways) + (Elemental Capacitor, Vorpal) + Stability MW |
-| **Super Picky (Minus Mag Perks)** | Arrowhead Brake + (*) + (Firmly Planted, Slideways) + (Elemental Capacitor, Vorpal) + Stability MW |
+| **Super Picky (Minus Mag Perks)** | Arrowhead Brake + (Any) + (Firmly Planted, Slideways) + (Elemental Capacitor, Vorpal) + Stability MW |
 | **Super Picky (Minus Stability MW)** | Arrowhead Brake + (HCR, Ricochet, Flared) + (Firmly Planted, Slideways) + (Elemental Capacitor, Vorpal) |
 ## Steelfeather Repeater (PvE)
 We're looking for ways to keep increased DPS for longer, with Osmosis thrown in for high-end PvE w/Match Game and while I'm not super impressed with Vorpal on this weapon, why not in case it doesn't come back? I don't have a roll that just features Osmosis or Vorpal in case you want those for specific purposes, but you don't need a wishlist file to tell you to look for one perk ;) All of the available masterworks are fine; none required for a great roll here. Here we go! ([view item on light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/))
@@ -44,7 +44,7 @@ CoolGuy goes ham on PoLC - [https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s](
 | :--- | :---        |
 | **Super Picky** |  (Smallbore, Corkscrew, Chambered, Polygonal, Fluted) + (Tactical Mag, Steady Rounds, Flared Magwell) + Rapid Hit + (Explosive Rounds, Elemental Capacitor, Vorpal) + Stability MW |
 | **Super Picky Minus Stability MW** |  (Smallbore, Corkscrew, Chambered, Polygonal, Fluted) + (Tactical Mag, Steady Rounds, Flared Magwell) + Rapid Hit + (Explosive Rounds, Elemental Capacitor, Vorpal) |
-| **Super Picky Minus Barrels** |  (Smallbore, Corkscrew, Chambered, Polygonal, Fluted) + (*) + Rapid Hit + (Explosive Rounds, Elemental Capacitor, Vorpal) + Stability MW |
+| **Super Picky Minus Barrels** |  (Smallbore, Corkscrew, Chambered, Polygonal, Fluted) + (Any) + Rapid Hit + (Explosive Rounds, Elemental Capacitor, Vorpal) + Stability MW |
 ## Patron of Lost Causes (PvE)
 CoolGuy goes ham on PoLC - [https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s](https://www.youtube.com/watch?v=GTcp4JQD1fI&t=824s) . For PvE, it's the only scout (as of now) that can roll Vorpal and Osmosis. Not a super high priority for PvE and not a terribly hard set of perks to farm. ([view item on light.gg](https://www.light.gg/db/items/2723241847/patron-of-lost-causes/))
 
@@ -82,28 +82,28 @@ CoolGuy has a terrific PvE review of the Gallant - [https://www.youtube.com/watc
 | Roll | Description |
 | :--- | :---        |
 | **Super Picky 1** | (Extended Barrel, Fullbore, Hammer-Forged, Smallbore) + (Projection Fuse) + (Demolitionist) + (Swashbuckler, Multikill Clip) + Range MW |
-| **Super Picky 1 (Minus Barrels)** | (*) + (Projection Fuse) + (Demolitionist) + (Swashbuckler, Multikill Clip) + Range MW |
-| **Super Picky 1 (Minus Magazines)** | (Extended Barrel, Fullbore, Hammer-Forged, Smallbore) + (*) + (Demolitionist) + (Swashbuckler, Multikill Clip) + Range MW |
+| **Super Picky 1 (Minus Barrels)** | (Any) + (Projection Fuse) + (Demolitionist) + (Swashbuckler, Multikill Clip) + Range MW |
+| **Super Picky 1 (Minus Magazines)** | (Extended Barrel, Fullbore, Hammer-Forged, Smallbore) + (Any) + (Demolitionist) + (Swashbuckler, Multikill Clip) + Range MW |
 | **Super Picky 1 (Minus Masterworks)** | (Extended Barrel, Fullbore, Hammer-Forged, Smallbore) + (Projection Fuse) + (Demolitionist) + (Swashbuckler, Multikill Clip) |
 | **Super Picky 2** | (Extended Barrel, Fullbore, Hammer-Forged, Smallbore) + (Projection Fuse, Ionized Battery) + (Auto-Loading Holster) + (Swashbuckler, Multikill Clip) + Range MW |
-| **Super Picky 2 (Minus Barrels)** | (*) + (Projection Fuse, Ionized Battery) + (Auto-Loading Holster) + (Swashbuckler, Multikill Clip) + Range MW |
-| **Super Picky 2 (Minus Magazines)** | (Extended Barrel, Fullbore, Hammer-Forged, Smallbore) + (*) + (Auto-Loading Holster) + (Swashbuckler, Multikill Clip) + Range MW |
+| **Super Picky 2 (Minus Barrels)** | (Any) + (Projection Fuse, Ionized Battery) + (Auto-Loading Holster) + (Swashbuckler, Multikill Clip) + Range MW |
+| **Super Picky 2 (Minus Magazines)** | (Extended Barrel, Fullbore, Hammer-Forged, Smallbore) + (Any) + (Auto-Loading Holster) + (Swashbuckler, Multikill Clip) + Range MW |
 | **Super Picky 2 (Minus Masterworks)** | (Extended Barrel, Fullbore, Hammer-Forged, Smallbore) + (Projection Fuse, Ionized Battery) + (Auto-Loading Holster) + (Swashbuckler, Multikill Clip) |
 | **Super Picky 3** | (Extended Barrel, Fullbore, Hammer-Forged, Smallbore) + (Projection Fuse) + (Grave Robber) + (Swashbuckler) + Range MW |
-| **Super Picky 3 (Minus Barrels)** | (*) + (Projection Fuse) + (Grave Robber) + (Swashbuckler) + Range MW |
-| **Super Picky 3 (Minus Magazines)** | (Extended Barrel, Fullbore, Hammer-Forged, Smallbore) + (*) + (Grave Robber) + (Swashbuckler) + Range MW |
+| **Super Picky 3 (Minus Barrels)** | (Any) + (Projection Fuse) + (Grave Robber) + (Swashbuckler) + Range MW |
+| **Super Picky 3 (Minus Magazines)** | (Extended Barrel, Fullbore, Hammer-Forged, Smallbore) + (Any) + (Grave Robber) + (Swashbuckler) + Range MW |
 | **Super Picky 3 (Minus Masterworks)** | (Extended Barrel, Fullbore, Hammer-Forged, Smallbore) + (Projection Fuse) + (Grave Robber) + (Swashbuckler) |
-| **Baseline 1** | (*) + (*) + (Demolitionist, Auto-Loading Holster) + (Swashbuckler, Multikill Clip) |
-| **Baseline 2** | (*) + (*) + (Grave Robber) + (Swashbuckler) |
+| **Baseline 1** | (Any) + (Any) + (Demolitionist, Auto-Loading Holster) + (Swashbuckler, Multikill Clip) |
+| **Baseline 2** | (Any) + (Any) + (Grave Robber) + (Swashbuckler) |
 ## Gallant Charge (PvP)
 Fallout has an interesting, pro-Stability take on the Gallant - [https://www.youtube.com/watch?v=pVVLwg1pVs4](https://www.youtube.com/watch?v=pVVLwg1pVs4) ; "This might be THE fusion rifle for controller players". Its bolt grouping isn't as tight, but you can get Recoil to 100 (with a Counterbalance mod). Go for Stability! With respect to the magazine, I prefer the unaltered charge time. ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
 
 | Roll | Description |
 | :--- | :---        |
-| **Super Picky** | (Extended Barrel, Chambered Compensator, Arrowhead Brake) + (Particle Repeater, Projection Fuse) + (*) + Tap the Trigger + (Range, Stability MW) |
-| **Super Picky (Minus Barrels)** | (*) + (Particle Repeater, Projection Fuse) + (*) + Tap the Trigger + (Range, Stability MW) |
-| **Super Picky (Minus Magazines)** | (Extended Barrel, Chambered Compensator, Arrowhead Brake) + (*) + (*) + Tap the Trigger + (Range, Stability MW) |
-| **Super Picky (Minus Masterworks)** | (Extended Barrel, Chambered Compensator, Arrowhead Brake) + (Particle Repeater, Projection Fuse) + (*) + Tap the Trigger |
+| **Super Picky** | (Extended Barrel, Chambered Compensator, Arrowhead Brake) + (Particle Repeater, Projection Fuse) + (Any) + Tap the Trigger + (Range, Stability MW) |
+| **Super Picky (Minus Barrels)** | (Any) + (Particle Repeater, Projection Fuse) + (Any) + Tap the Trigger + (Range, Stability MW) |
+| **Super Picky (Minus Magazines)** | (Extended Barrel, Chambered Compensator, Arrowhead Brake) + (Any) + (Any) + Tap the Trigger + (Range, Stability MW) |
+| **Super Picky (Minus Masterworks)** | (Extended Barrel, Chambered Compensator, Arrowhead Brake) + (Particle Repeater, Projection Fuse) + (Any) + Tap the Trigger |
 ## Gallant Charge (Garbo)
 Any roll that isn't one of our solid PvE or PvP rolls. ([view item on light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/))
 
