@@ -1,0 +1,28 @@
+- 
+  name: Traveler's Judgement 5 (PvP)
+  item_id: 4149758318
+  lightgg: https://www.light.gg/db/items/4149758318/travelers-judgment-5/
+  summary: >
+    CoolGuy [brings the heat](https://www.youtube.com/watch?v=J4HGIAZQdY4)!
+  rolls:
+    - 
+      name: PvP - "Baseline"
+      barrels: []
+      magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
+      perks1: [Rapid Hit]
+      perks2: [Tap the Trigger]
+      masterworks: []
+- 
+  name: Traveler's Judgement 5 (PvE)
+  item_id: 4149758318
+  lightgg: https://www.light.gg/db/items/4149758318/travelers-judgment-5/
+  summary: >
+    CoolGuy [brings the heat](https://www.youtube.com/watch?v=J4HGIAZQdY4)!
+  rolls:
+    - 
+      name: PvE - "Baseline"
+      barrels: []
+      magazines: []
+      perks1: [Rapid Hit, Feeding Frenzy]
+      perks2: [Disruption Break, Dragonfly]
+      masterworks: []
