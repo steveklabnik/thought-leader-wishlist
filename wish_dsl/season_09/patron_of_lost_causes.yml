@@ -1,0 +1,48 @@
+- 
+  name: Patron of Lost Causes (PvP)
+  item_id: 2723241847
+  lightgg: https://www.light.gg/db/items/2723241847/patron-of-lost-causes/
+  summary: >
+    CoolGuy [goes ham](https://www.youtube.com/watch?v=GTcp4JQD1fI) on PoLC. I'm
+    on controller so these rolls are all about maxing our stability. Fortunately
+    we have a pretty broad set of useful rolls as we're looking for. Randy's has
+    Rapid-Hit + Kill Clip, so this is a pretty low priority farm (and also why it's
+    so specific).
+  rolls:
+    - 
+      name: PvP - "Super Picky"
+      barrels: [Smallbore, Corkscrew Rifling, Chambered Compensator, Polygonal Rifling, Fluted Barrel]
+      magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
+      perks1: [Rapid Hit]
+      perks2: [Explosive Rounds, Elemental Capacitor, Vorpal]
+      masterworks: [Stability MW]
+    - 
+      name: PvP - "Super Picky (Minus Stability MW)"
+      barrels: [Smallbore, Corkscrew Rifling, Chambered Compensator, Polygonal Rifling, Fluted Barrel]
+      magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
+      perks1: [Rapid Hit]
+      perks2: [Explosive Rounds, Elemental Capacitor, Vorpal]
+      masterworks: []
+    - 
+      name: PvP - "Super Picky (Minus Barrels)"
+      barrels: []
+      magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
+      perks1: [Rapid Hit]
+      perks2: [Explosive Rounds, Elemental Capacitor, Vorpal]
+      masterworks: [Stability MW]            
+- 
+  name: Patron of Lost Causes (PvE)
+  item_id: 2723241847
+  lightgg: https://www.light.gg/db/items/2723241847/patron-of-lost-causes/
+  summary: >
+    CoolGuy [goes ham](https://www.youtube.com/watch?v=GTcp4JQD1fI) on PoLC. For
+    PvE, it's the only scout (as of now) that can roll Vorpal and Osmosis. Not a
+    super high priority for PvE and not a terribly hard set of perks to farm.
+  rolls:
+    - 
+      name: PvE - "Utility"
+      barrels: []
+      magazines: []
+      perks1: [Rapid Hit]
+      perks2: [Osmosis, Vorpal]
+      masterworks: []
