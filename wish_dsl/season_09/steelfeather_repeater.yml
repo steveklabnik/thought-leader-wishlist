@@ -3,31 +3,40 @@
   item_id: 1251729046
   lightgg: https://www.light.gg/db/items/1251729046/steelfeather-repeater/
   summary: >
-    We're going for straight-up recoil and massive stability here. We can get
-    Recoil to 100 with Arrowhead and a Counterbalance mod so the rest is about
-    stability. With a huge mag, 100 recoil and a lot of stability with
-    Vorpal, this should be able to shut down some supers!
+    CoolGuy does a [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI)
+    of Steelfeather and it doesn't have super high marks for PvP. The base
+    Stability at `38` is abysmal, so for a decent PvP roll we're looking to
+    correct that. If we fix Recoil, it mitigates such low Stability. A base
+    Recoil of `57` means we're not going to be able to bring it under control
+    unless we use Arrowhead Brake with a Counterbalance mod. From there on out,
+    we're going for as much Stability as we can. Without Stability and Recoil
+    mitigation, there's not a lot of reason to use this weapon, hence the small
+    number of PvP rolls. If you want to see firsthand why Firmly Planted is so
+    amazing, [check out this timestamp](https://youtu.be/anp5VBGfhmI?t=214) for
+    PvE testing and [this timestamp](https://www.youtube.com/watch?v=anp5VBGfhmI&feature=youtu.be&t=689)
+    for PvP. "I feel it's a decent weapon. I personally don't crown it anything
+    beyond it's a fun AR to have in your rotation."
   rolls:
     - 
       name: PvP - "Super Picky"
       barrels: [Arrowhead Brake]
-      magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell]
-      perks1: [Firmly Planted, Slideways]
-      perks2: [Elemental Capacitor, Vorpal]
+      magazines: [Ricochet Rounds, Flared Magwell, Light Mag]
+      perks1: [Firmly Planted]
+      perks2: [Elemental Capacitor]
       masterworks: [Stability MW]
     -
       name: PvP - "Super Picky (Minus Magazines)"
       barrels: [Arrowhead Brake]
       magazines: []
-      perks1: [Firmly Planted, Slideways]
-      perks2: [Elemental Capacitor, Vorpal]
+      perks1: [Firmly Planted]
+      perks2: [Elemental Capacitor]
       masterworks: [Stability MW]
     -
       name: PvP - "Super Picky (Minus Stability MW)"
       barrels: [Arrowhead Brake]
-      magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell]
-      perks1: [Firmly Planted, Slideways]
-      perks2: [Elemental Capacitor, Vorpal]
+      magazines: [Ricochet Rounds, Flared Magwell, Light Mag]
+      perks1: [Firmly Planted]
+      perks2: [Elemental Capacitor]
       masterworks: []
 
 - 
@@ -35,25 +44,62 @@
   item_id: 1251729046
   lightgg: https://www.light.gg/db/items/1251729046/steelfeather-repeater/
   summary: >
-    We're looking for ways to keep increased DPS for longer, with Osmosis thrown
-    in for high-end PvE w/Match Game and while I'm not super impressed with
-    Vorpal on this weapon, why not in case it doesn't come back? I don't have a
-    roll that just features Osmosis or Vorpal in case you want those for specific
-    purposes, but you don't need a wishlist file to tell you to look for one perk ;)
-    All of the available masterworks are fine; none required for a great roll.
-    Here we go!
+    There are two long form Steelfeather reviews kicking around. CoolGuy does a
+    [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI) of the
+    weapon overall with PvE and PvP thoughts. [Aztecross](https://www.youtube.com/watch?v=zdhugEZT1C4)
+    has one as well and per usual, has a bit more excited yelling :) Interestingly
+    they both compare it to a "higher range SMG". They also both comment on its
+    applicability (or lack of) to anything beyond slaying red-bar enemies. In
+    Sundial for example, it runs out of steam. Oddly enough, Breachlight performs
+    better in that role; go figure. "I feel it's a decent weapon. I personally
+    don't crown it anything beyond it's a fun AR to have in your rotation."
   rolls:
     -
-      name: PvE - "Picky"
-      barrels: [Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Smallbore]
-      magazines: [Ricochet Rounds, Flared Magwell, Light Mag]
-      perks1: [Feeding Frenzy]
+      name: (PvE) Super Picky
+      barrels: [Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore]
+      magazines: [Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
+      perks1: [Feeding Frenzy, Subsistence]
+      perks2: [Swashbuckler, Multikill Clip]
+      masterworks: [Stability MW]
+    -
+      name: (PvE) Super Picky (Minus MW)
+      barrels: [Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore]
+      magazines: [Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
+      perks1: [Feeding Frenzy, Subsistence]
+      perks2: [Swashbuckler, Multikill Clip]
+      masterworks: []
+    -
+      name: (PvE) Punchy Pinky 👊
+      barrels: [Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore]
+      magazines: [Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
+      perks1: [Grave Robber]
       perks2: [Swashbuckler]
       masterworks: []
     -
-      name: PvE - "Baseline"
+      name: (PvE) Punchy Baseline 👊
       barrels: []
       magazines: []
-      perks1: [Feeding Frenzy]
+      perks1: [Grave Robber]
       perks2: [Swashbuckler]
+      masterworks: []
+    -
+      name: (PvE) Shieldbreaker
+      barrels: []
+      magazines: [Armor-Piercing Rounds]
+      perks1: []
+      perks2: [Osmosis]
+      masterworks: []
+    -
+      name: (PvE) Baseline
+      barrels: []
+      magazines: []
+      perks1: [Feeding Frenzy, Subsistence]
+      perks2: [Swashbuckler, Multikill Clip]
+      masterworks: []
+    -
+      name: (PvE) Utility/Future-Proofing
+      barrels: []
+      magazines: []
+      perks1: [Feeding Frenzy, Subsistence]
+      perks2: [Vorpal, Osmosis]
       masterworks: []
