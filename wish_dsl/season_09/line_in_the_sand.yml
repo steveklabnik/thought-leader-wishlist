@@ -1,0 +1,16 @@
+- 
+  name: Line in the Sand (PvE)
+  item_id: 946443267
+  lightgg: https://www.light.gg/db/items/946443267/line-in-the-sand/
+  summary: >
+    I only suggest this for completeness as it's the only Arc LFR in the power
+    slot). Make it your lowest priority farm. Check our [Ehroar's video](https://www.youtube.com/watch?v=AqI4PumNVC0) for more.
+    We're looking for Rapid Hit + Firing Line.
+  rolls:
+    - 
+      name: PvE - "Baseline"
+      barrels: []
+      magazines: []
+      perks1: [Rapid Hit]
+      perks2: [Firing Line]
+      masterworks: []

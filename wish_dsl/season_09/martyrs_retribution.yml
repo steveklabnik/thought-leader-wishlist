@@ -1,0 +1,35 @@
+- 
+  name: Martyr's Retribution (PvP)
+  item_id: 3850168899
+  lightgg: https://www.light.gg/db/items/3850168899/martyrs-retribution/
+  summary: >
+    This is for use from range, and Blast Radius doesn't do anything on Wave
+    Frame launchers - simple wishlist here :) Why not demolitionist? You're not
+    going to get final blows with this so much in PvP and with ALH, it will
+    always be loaded. I'd rather have better handling or reload with Elemental
+    Capacitor always-on.
+  rolls:
+    - 
+      name: PvP - "Super Picky"
+      barrels: [Hard Launch, Quick Launch]
+      magazines: []
+      perks1: [Auto-Loading Holster]
+      perks2: [Elemental Capacitor]
+      masterworks: [Reload MW, Handling MW, Velocity MW]
+- 
+  name: Martyr's Retribution (PvE)
+  item_id: 3850168899
+  lightgg: https://www.light.gg/db/items/3850168899/martyrs-retribution/
+  summary: >
+    This is one of my favourite weapons in all of Destiny! Pretty much any roll
+    is fine but if you want to push your roll criteria, here we go. Threat
+    Detector might seem odd, but it increases reload speed and because this GL
+    doesn't do any impact damage, it will have great reload up close.
+  rolls:
+    - 
+      name: PvE - "Utility"
+      barrels: [Quick Launch, Hard Launch]
+      magazines: []
+      perks1: [Auto-Loading Holster, Threat Detector]
+      perks2: [Demolitionist, Lead from Gold]
+      masterworks: [Reload MW, Velocity MW]
