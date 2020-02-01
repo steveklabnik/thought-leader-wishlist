@@ -1,0 +1,39 @@
+- 
+  name: Infinite Paths 8 (PvP)
+  item_id: 3233390913
+  lightgg: https://www.light.gg/db/items/3233390913/infinite-paths-8/
+  summary: >
+    CoolGuy [dropping serious knowledge](https://www.youtube.com/watch?v=-ZnUT63RgnE)
+    here. "Currently they're the only frame I wouldn't take in to 5500 Comp. Use
+    Rapid-fire frame." Here's what I put together from the video.
+  rolls:
+    - 
+      name: PvP - "Picky"
+      barrels: [Arrowhead Brake]
+      magazines: [Steady Rounds]
+      perks1: [Moving Target]
+      perks2: [Zen Moment, Swashbuckler]
+      masterworks: [Stability MW]
+
+- 
+  name: Infinite Paths 8 (PvP)
+  item_id: 3233390913
+  lightgg: https://www.light.gg/db/items/3233390913/infinite-paths-8/
+  summary: >
+    CoolGuy [dropping serious knowledge](https://www.youtube.com/watch?v=-ZnUT63RgnE)
+    here. "Great for mid and low-tier adds."
+  rolls:
+    - 
+      name: PvE - "Baseline". Don't forget Dragonfly Spec!
+      barrels: []
+      magazines: []
+      perks1: [Demolitionist]
+      perks2: [Dragonfly]
+      masterworks: []
+    - 
+      name: PvE - "Baseline"
+      barrels: []
+      magazines: []
+      perks1: [Grave Robber]
+      perks2: [Swashbuckler]
+      masterworks: []
