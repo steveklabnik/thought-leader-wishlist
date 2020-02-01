@@ -1,0 +1,74 @@
+- 
+  name: Breachlight (PvP)
+  item_id: 1289997971
+  lightgg: https://www.light.gg/db/items/1289997971/breachlight/
+  summary: >
+    CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE
+    and PvP but focuses intensely on PvP. Some choice cuts: "I would try other rolls
+    while I was reviewing this and I kept coming back to Vorpal." "Landing shots is
+    more important than accuracy; shouldn't be worried about straight precision.
+    More important to get the recoil straight up and down than it is to add stability
+    because you have to control the stability after every burst anyway." I have to
+    agree - Vorpal is pretty amazing in PvP and I did wish I had it several times.
+    Without Vorpal or Quickdraw, it's just another two-burst sidearm, which is great
+    but you don't need a wishlist for that :)
+  rolls:
+    - 
+      name: PvP - "Super Picky"
+      barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Extended Barrel]
+      magazines: [Accurized Rounds]
+      perks1: []
+      perks2: [Vorpal, Quickdraw]
+      masterworks: [Range MW]
+- 
+  name: Breachlight (PvE)
+  item_id: 1289997971
+  lightgg: https://www.light.gg/db/items/1289997971/breachlight/
+  summary: >
+    Some neat PvE combos here from [Ehroar's video](https://www.youtube.com/watch?v=TrYRPglvMHY)
+    and general [PvE wisdom](https://www.youtube.com/watch?v=GXwdAQGOfeY) from
+    CoolGuy. I kind of love Breachlight so I'm going to lay down a bunch of possibilities
+    here.
+  rolls:
+    - 
+      name: Outlaw DPS Roll 1
+      barrels: []
+      magazines: [Drop Mag, Flared Magwell, Tactical Mag]
+      perks1: [Outlaw]
+      perks2: [Multikill Clip]
+      masterworks: [Stability MW]
+    - 
+      name: Outlaw DPS Roll 2
+      barrels: []
+      magazines: [Appended Mag, Drop Mag, Extended Mag]
+      perks1: [Outlaw]
+      perks2: [Rampage]
+      masterworks: [Stability MW]
+    - 
+      name: Demo DPS Roll 1
+      barrels: []
+      magazines: [Drop Mag, Flared Magwell, Tactical Mag]
+      perks1: [Demolitionist]
+      perks2: [Multikill Clip]
+      masterworks: [Reload MW]
+    - 
+      name: Demo DPS Roll 2
+      barrels: []
+      magazines: [Drop Mag, Flared Magwell, Tactical Mag]
+      perks1: [Demolitionist]
+      perks2: [Osmosis]
+      masterworks: [Reload MW]
+    - 
+      name: Demo DPS Roll 3
+      barrels: []
+      magazines: [Drop Mag, Flared Magwell, Tactical Mag]
+      perks1: [Demolitionist]
+      perks2: [Vorpal]
+      masterworks: [Reload MW]
+    - 
+      name: Demo DPS Roll 4
+      barrels: []
+      magazines: [Appended Mag, Drop Mag, Extended Mag]
+      perks1: [Demolitionist]
+      perks2: [Rampage]
+      masterworks: [Reload MW]
