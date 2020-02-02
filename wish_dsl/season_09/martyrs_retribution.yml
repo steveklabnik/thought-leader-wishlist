@@ -3,33 +3,63 @@
   item_id: 3850168899
   lightgg: https://www.light.gg/db/items/3850168899/martyrs-retribution/
   summary: >
-    This is for use from range, and Blast Radius doesn't do anything on Wave
-    Frame launchers - simple wishlist here :) Why not demolitionist? You're not
-    going to get final blows with this so much in PvP and with ALH, it will
-    always be loaded. I'd rather have better handling or reload with Elemental
-    Capacitor always-on.
+    I absolutely love this new "Wave Frame" (i.e. Thermite Jr.) archetype!
+    Our roll choices below might seem a little odd, but here we go. For PvP I want
+    this always ready, loaded and moving quickly. That means I'm looking for
+    velocity, reload and handling wherever I can get it. The base Velocity is `76`
+    and since the second column perks are fixed, that's a flat `+9` so we're at `84`.
+    That seems more than good enough, so lets focus on reload + handling.
+    There's only one roll here because it's not that hard to farm.
   rolls:
     - 
-      name: PvP - "Super Picky"
-      barrels: [Hard Launch, Quick Launch]
+      name: (PvP) Super Picky
+      desc: >
+        Threat Detector has such a long proc range that I'm going to put it on
+        par with Auto-Loading Holster here. We can choose (or not choose) to use
+        the reload and handling boosts on Elemental Capacitor, paired with the
+        masterworks. Don't forget a `Quick Access Sling` mod!
+      barrels: [Countermass, Quick Launch, Smart Drift Control]
       magazines: []
-      perks1: [Auto-Loading Holster]
+      perks1: [Threat Detector, Auto-Loading Holster]
       perks2: [Elemental Capacitor]
-      masterworks: [Reload MW, Handling MW, Velocity MW]
+      masterworks: [Reload MW, Handling MW]
+    - 
+      name: (PvP) Picky
+      desc: >
+        Same as above, minus Elemental Capacitor which is the hardest to get out
+        of the other perks.
+      barrels: [Countermass, Quick Launch, Smart Drift Control]
+      magazines: []
+      perks1: [Threat Detector, Auto-Loading Holster]
+      perks2: []
+      masterworks: [Reload MW, Handling MW]
 - 
   name: Martyr's Retribution (PvE)
   item_id: 3850168899
   lightgg: https://www.light.gg/db/items/3850168899/martyrs-retribution/
   summary: >
     This is one of my favourite weapons in all of Destiny! Pretty much any roll
-    is fine but if you want to push your roll criteria, here we go. Threat
-    Detector might seem odd, but it increases reload speed and because this GL
-    doesn't do any impact damage, it will have great reload up close.
+    is fine but if you want to push your roll criteria, here we go.
   rolls:
     - 
-      name: PvE - "Utility"
-      barrels: [Quick Launch, Hard Launch]
+      name: (PvE) The Instant Reloader
+      desc: >
+        We're doing everything we can to reload as quickly as possible with this
+        roll. How do we keep one in the chamber constantly?
+      barrels: [Countermass, Quick Launch, Smart Drift Control]
       magazines: []
-      perks1: [Auto-Loading Holster, Threat Detector]
-      perks2: [Demolitionist, Lead from Gold]
-      masterworks: [Reload MW, Velocity MW]
+      perks1: [Auto-Loading Holster, Threat Detector, Field Prep]
+      perks2: [Demolitionist]
+      masterworks: [Reload MW]
+    - 
+      name: (PvE) Shieldbreaker
+      desc: >
+        Martyr's absolutely shreds shields and a shieldsplosion roll like this
+        will be super fun. Those hopefully chained kills should keep your grenade
+        rolling from Demolitionist and upon activating it will reload your weapon
+        and so on...
+      barrels: [Countermass, Quick Launch, Smart Drift Control]
+      magazines: []
+      perks1: [Genesis]
+      perks2: [Demolitionist]
+      masterworks: [Reload MW, Handling MW]
