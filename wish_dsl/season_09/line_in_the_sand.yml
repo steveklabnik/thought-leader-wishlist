@@ -12,8 +12,7 @@
   rolls:
     - 
       name: (PvE) Super Picky
-      desc: <
-        The full suite of perks to maximize DPS with LitS.
+      desc: The full suite of perks to maximize DPS with LitS.
       barrels: []
       magazines: [Accelerated Coils]
       perks1: [Rapid Hit]
@@ -21,8 +20,7 @@
       masterworks: [Charge MW]
     - 
       name: (PvE) Baseline
-      desc: <
-        Really, any roll with these two perks is Good Enough(tm).
+      desc: Really, any roll with these two perks is Good Enough(tm).
       barrels: []
       magazines: []
       perks1: [Rapid Hit]
