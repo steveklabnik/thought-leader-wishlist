@@ -1,4 +1,4 @@
-This file was auto-generated at ` 2 Feb 2020 04:56:49`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at ` 2 Feb 2020 06:27:40`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -26,22 +26,28 @@ CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE 
 | **(PvP) Baseline** | You've got basically a 50% chance of getting this roll :) Yes it would be awesome to have +20 range from Accurized and a Range MW but it's still a great weapon. |
 |  | (Full Bore `or` Hammer-Forged Rifling `or` Smallbore `or` Extended Barrel) `and` (Any magazine) `and` (Any perk) `and` (Vorpal `or` Quickdraw) `and` (Any masterwork) |
 ## Breachlight (PvE)
-Some neat PvE combos here from [Ehroar's video](https://www.youtube.com/watch?v=TrYRPglvMHY) and general [PvE wisdom](https://www.youtube.com/watch?v=GXwdAQGOfeY) from CoolGuy. I kind of love Breachlight so I'm going to lay down a bunch of possibilities here.
+Ehroar focuses on Breachlight - ["This Sidearm Might Just Be The New Recluse"](https://www.youtube.com/watch?v=TrYRPglvMHY) "I truly believe this weapon is better than Recluse and I believe it will be the new meta for PvE." He mentions three amazing rolls (well four kinda) that I'll capture below.
 
 | Roll | Details |
 | :--- | :---        |
-| **Outlaw DPS Roll 1** | PLACEHOLDER/TODO |
-|  | (Any barrel) `and` (Drop Mag `or` Flared Magwell `or` Tactical Mag) `and` (Outlaw) `and` (Multikill Clip) `and` (Stability MW) |
-| **Outlaw DPS Roll 2** | PLACEHOLDER/TODO |
-|  | (Any barrel) `and` (Appended Mag `or` Drop Mag `or` Extended Mag) `and` (Outlaw) `and` (Rampage) `and` (Stability MW) |
-| **Demo DPS Roll 1** | PLACEHOLDER/TODO |
-|  | (Any barrel) `and` (Drop Mag `or` Flared Magwell `or` Tactical Mag) `and` (Demolitionist) `and` (Multikill Clip) `and` (Reload MW) |
-| **Demo DPS Roll 2** | PLACEHOLDER/TODO |
-|  | (Any barrel) `and` (Drop Mag `or` Flared Magwell `or` Tactical Mag) `and` (Demolitionist) `and` (Osmosis) `and` (Reload MW) |
-| **Demo DPS Roll 3** | PLACEHOLDER/TODO |
-|  | (Any barrel) `and` (Drop Mag `or` Flared Magwell `or` Tactical Mag) `and` (Demolitionist) `and` (Vorpal) `and` (Reload MW) |
-| **Demo DPS Roll 4** | PLACEHOLDER/TODO |
-|  | (Any barrel) `and` (Appended Mag `or` Drop Mag `or` Extended Mag) `and` (Demolitionist) `and` (Rampage) `and` (Reload MW) |
+| **Picky Gunslinger** | Ehroar: "Great for basic add clear. Once you get MKC going you can shred Majors and Ultras." We're going for max range with some extra perks and a Masterwork, but those are just icing on this shredding cake. |
+|  | (Any barrel) `and` (Accurized Rounds) `and` (Outlaw) `and` (Multikill Clip) `and` (Range MW) |
+| **Basic Gunslinger** | Same as above, minus the magazine and masterwork. |
+|  | (Any barrel) `and` (Any magazine) `and` (Outlaw) `and` (Multikill Clip) `and` (Any masterwork) |
+| **Picky Never-Reloading Devour-lock** | With Devour on, you'll have your grenade constantly and since throwing your grenade reloads the weapon, you can keep `Rampage x 3` up for a long time. |
+|  | (Any barrel) `and` (Accurized Rounds) `and` (Demolitionist) `and` (Rampage `or` Multikill Clip) `and` (Range MW) |
+| **Picky Never-Reloading Devour-lock (Minus Magazines)** | Same as above, minus Accurized Rounds since it's so much harder to get than Range MW. |
+|  | (Any barrel) `and` (Any magazine) `and` (Demolitionist) `and` (Rampage `or` Multikill Clip) `and` (Range MW) |
+| **Picky Never-Reloading Devour-lock (Minus Masterwork)** | Same as above, minus the Range MW |
+|  | (Any barrel) `and` (Accurized Rounds) `and` (Demolitionist) `and` (Rampage `or` Multikill Clip) `and` (Any masterwork) |
+| **Picky Rarely-Reloading Bezerker** | With Drop Mag and a Reload MW, you'll be able to keep Rampage up. You could also do this with |
+|  | (Any barrel) `and` (Drop Mag) `and` (Demolitionist) `and` (Rampage `or` Multikill Clip) `and` (Range MW) |
+| **Basic Rarely-Reloading Bezerker** | Same as above, minus the Masterwork |
+|  | (Any barrel) `and` (Drop Mag) `and` (Demolitionist) `and` (Rampage `or` Multikill Clip) `and` (Any masterwork) |
+| **Picky Master of the Void** | Pair with Devour-lock and Nezarac's sin and you'll be flush with health, grenades and ability energy. |
+|  | (Any barrel) `and` (Accurized Rounds) `and` (Demolitionist) `and` (Osmosis) `and` (Range MW) |
+| **Basic Master of the Void** | Same as above with just the core perks. |
+|  | (Any barrel) `and` (Any magazine) `and` (Demolitionist) `and` (Osmosis) `and` (Any masterwork) |
 ## Traveler's Judgement 5 (PvP)
 CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZQdY4)! Paraphrased: There isn't a bad sight and it has little to no recoil. It can roll with Disruption Break which works in PvP (Slif: ?!). Rapid Hit and Tap the Trigger being available is a rare combo. Worth your time to farm a few of these. Keep in mind they don't benefit from from the S92 benefit of an additional perk in the last slot, so it can be a bit painful.
 
@@ -71,20 +77,22 @@ These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=
 | **(PvE) Baseline** | Don't forget to throw a Dragonfly Spec mod on here. |
 |  | (Any barrel) `and` (Any magazine) `and` (Rapid Hit `or` Feeding Frenzy) `and` (Dragonfly `or` Disruption Break) `and` (Any masterwork) |
 ## Infinite Paths 8 (PvP)
-CoolGuy [dropping serious knowledge](https://www.youtube.com/watch?v=-ZnUT63RgnE) here. "Currently they're the only frame I wouldn't take in to 5500 Comp. Use Rapid-fire frame." Here's what I put together from the video.
+CoolGuy reviews IP8 for both PvP and PvE, which is where these rolls originate. He discusses the State of the Union with respect to these frames [timestamped here](https://www.youtube.com/watch?v=-ZnUT63RgnE&feature=youtu.be&t=1023) and it makes for super interesting listening. TL;DR - Of all the Pulse Rifle frames, the lightweights require you to be the most precise yet reward you with the second slowest TTK.
 
 | Roll | Details |
 | :--- | :---        |
-| **PvP - "Picky"** | PLACEHOLDER/TODO |
-|  | (Arrowhead Brake) `and` (Steady Rounds) `and` (Moving Target) `and` (Zen Moment `or` Swashbuckler) `and` (Stability MW) |
+| **(PvP) Picky** | This roll focuses on addressing recoil and stability. Because it needs so much help, there isn't much room left for neat damage perks :) |
+|  | (Chambered Compensator) `and` (Accurized Rounds) `and` (Moving Target) `and` (Zen Moment) `and` (Stability MW) |
+| **(PvP) Long-Distance Melee'r** | Useful for those subclasses with ranged melees. This is a fringe roll, one that I wouldn't throw away but not one that I'm racing to collect. |
+|  | (Chambered Compensator) `and` (Accurized Rounds) `and` (Moving Target) `and` (Swashbuckler) `and` (Stability MW) |
 ## Infinite Paths 8 (PvP)
-CoolGuy [dropping serious knowledge](https://www.youtube.com/watch?v=-ZnUT63RgnE) here. "Great for mid and low-tier adds."
+Here we're featuring a few rolls from the CoolGuy [video](https://www.youtube.com/watch?v=-ZnUT63RgnE) mentioned above. I would put these pretty low on my list but if you're a fan of the aesthetic of the Osiris weapons, why not grab a few of these while they're still available?
 
 | Roll | Details |
 | :--- | :---        |
-| **PvE - "Baseline". Don't forget Dragonfly Spec!** | PLACEHOLDER/TODO |
+| **(PvE) Explosive Dragon** | This is the only weapon in the game that has this perk combo available! Each enemy that dies to Dragonfly (don't forget Dragonfly Spec!) will count as an additional kill for Demolitionist. It does work. Probably not your best Energy weapon but a fun one for shredding red bars. I would collect it and store it. |
 |  | (Any barrel) `and` (Any magazine) `and` (Demolitionist) `and` (Dragonfly) `and` (Any masterwork) |
-| **PvE - "Baseline"** | PLACEHOLDER/TODO |
+| **(PvE) Punchy 👊** | Classic punching. Not sure why you'd be punching enemies with your Pulse Rifle equipped but I'm not the boss of you. 👊PUNCH AWAY!👊 |
 |  | (Any barrel) `and` (Any magazine) `and` (Grave Robber) `and` (Swashbuckler) `and` (Any masterwork) |
 ## Steelfeather Repeater (PvP)
 CoolGuy does a [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI) of Steelfeather and it doesn't have super high marks for PvP. The base Stability at `38` is abysmal, so for a decent PvP roll we're looking to correct that. If we fix Recoil, it mitigates such low Stability. A base Recoil of `57` means we're not going to be able to bring it under control unless we use Arrowhead Brake with a Counterbalance mod. From there on out, we're going for as much Stability as we can. Without Stability and Recoil mitigation, there's not a lot of reason to use this weapon, hence the small number of PvP rolls. If you want to see firsthand why Firmly Planted is so amazing, [check out this timestamp](https://youtu.be/anp5VBGfhmI?t=214) for PvE testing and [this timestamp](https://www.youtube.com/watch?v=anp5VBGfhmI&feature=youtu.be&t=689) for PvP. "I feel it's a decent weapon. I personally don't crown it anything beyond it's a fun AR to have in your rotation."
