@@ -14,12 +14,48 @@
     but you don't need a wishlist for that :)
   rolls:
     - 
-      name: PvP - "Super Picky"
+      name: (PvP) Slif's Super Picky
+      desc: >
+        This is my personal perfect PVP roll. Threat Detector has a far longer
+        range than you'd think (beyond damage falloff) and Vorpal shreds through
+        supers. The rest of this roll is all about maxing out the range.
       barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Extended Barrel]
       magazines: [Accurized Rounds]
-      perks1: []
+      perks1: [Threat Detector]
+      perks2: [Vorpal]
+      masterworks: [Range MW]
+    - 
+      name: (PvP) Super Picky
+      desc: >
+        Any roll in this set would give you an A+ PvP roll. Without Vorpal or
+        Quickdraw in the final column, you're better off using a Smuggler's Word
+        with Tap the Trigger.
+      barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Extended Barrel]
+      magazines: [Accurized Rounds]
+      perks1: [Threat Detector, Demolitionist, Outlaw]
       perks2: [Vorpal, Quickdraw]
       masterworks: [Range MW]
+    - 
+      name: (PvP) Super Picky (Minus MW and Accurized)
+      desc: >
+        Same as before, minus the Range MW and Accurized Rounds since you have
+        only a 25% to get each of them. This is still an amazing roll.
+      barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Extended Barrel]
+      magazines: []
+      perks1: [Threat Detector, Demolitionist, Outlaw]
+      perks2: [Vorpal, Quickdraw]
+      masterworks: []
+    - 
+      name: (PvP) Baseline
+      desc: >
+        You've got basically a 50% chance of getting this roll :) Yes it would
+        be awesome to have +20 range from Accurized and a Range MW but it's still
+        a great weapon.
+      barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Extended Barrel]
+      magazines: []
+      perks1: []
+      perks2: [Vorpal, Quickdraw]
+      masterworks: []
 - 
   name: Breachlight (PvE)
   item_id: 1289997971
