@@ -1,5 +1,5 @@
-// Wishlist generated at  2 Feb 2020 07:13:24
-// Most recent version: https://github.com/rslifka/wishlist
+title: SlifSF's Wishlist (via https://github.com/rslifka/wishlist); Generated  2 Feb 2020 20:49:23
+description: https://github.com/rslifka/wishlist/blob/master/thought_process.md
 //notes:(PvE) Super Picky
 dimwishlist:item=946443267&perks=689005463,247725512,1771339417,3353797898
 dimwishlist:item=946443267&perks=689005463,247725512,1771339417,3353797897
@@ -2908,3 +2908,12 @@ dimwishlist:item=3850168899&perks=3798852852,3096702027,3523296417,518224744
 dimwishlist:item=3850168899&perks=3798852852,3096702027,3523296417,518224745
 dimwishlist:item=3850168899&perks=3798852852,3096702027,3523296417,518224750
 dimwishlist:item=3850168899&perks=3798852852,3096702027,3523296417,518224751
+//notes:This roll did not match any roll in our wishlist. It could still be an amazing roll for you!
+dimwishlist:item=-946443267
+dimwishlist:item=-1289997971
+dimwishlist:item=-4149758318
+dimwishlist:item=-3233390913
+dimwishlist:item=-1251729046
+dimwishlist:item=-1706206669
+dimwishlist:item=-2723241847
+dimwishlist:item=-3850168899
