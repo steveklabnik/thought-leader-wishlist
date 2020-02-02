@@ -1,4 +1,4 @@
-This file was auto-generated at ` 2 Feb 2020 03:46:03`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at ` 2 Feb 2020 04:39:34`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -121,46 +121,42 @@ Fallout has an interesting, [pro-Stability take](https://www.youtube.com/watch?v
 
 | Roll | Details |
 | :--- | :---        |
-| **PvP - "Super Picky"** | PLACEHOLDER/TODO |
+| **(PvP) Super Picky Stability** | Bringing all of our stability and range tools to bear here. We want to first "fix" the recoil by getting it as close to ending in a `5` as we can. Then we go for Stability! |
+|  | (Extended Barrel `or` Chambered Compensator `or` Arrowhead Brake) `and` (Particle Repeater) `and` (Any perk) `and` (Tap the Trigger) `and` (Stability MW) |
+| **(PvP) Super Picky Stability (Minus Magazines)** | Same as above, minus the magazines. |
+|  | (Extended Barrel `or` Chambered Compensator `or` Arrowhead Brake) `and` (Any magazine) `and` (Any perk) `and` (Tap the Trigger) `and` (Stability MW) |
+| **(PvP) Super Picky Stability (Minus Masterworks)** | Same as above, minus the masterworks. |
+|  | (Extended Barrel `or` Chambered Compensator `or` Arrowhead Brake) `and` (Particle Repeater) `and` (Any perk) `and` (Tap the Trigger) `and` (Any masterwork) |
+| **(PvP) Picky Range / Stability Mix** | The next few rolls feature both Stability and Range alternatives in three of the slots. |
 |  | (Extended Barrel `or` Chambered Compensator `or` Arrowhead Brake) `and` (Particle Repeater `or` Projection Fuse) `and` (Any perk) `and` (Tap the Trigger) `and` (Range MW `or` Stability MW) |
-| **PvP - "Super Picky (Minus Barrels)"** | PLACEHOLDER/TODO |
-|  | (Any barrel) `and` (Particle Repeater `or` Projection Fuse) `and` (Any perk) `and` (Tap the Trigger) `and` (Range MW `or` Stability MW) |
-| **PvP - "Super Picky (Minus Mags)"** | PLACEHOLDER/TODO |
+| **(PvP) Picky Range / Stability Mix (Minus Magazines)** | Same as above, minus the magazines. |
 |  | (Extended Barrel `or` Chambered Compensator `or` Arrowhead Brake) `and` (Any magazine) `and` (Any perk) `and` (Tap the Trigger) `and` (Range MW `or` Stability MW) |
-| **PvP - "Super Picky (Minus Masterworks)"** | PLACEHOLDER/TODO |
+| **(PvP) Picky Range / Stability Mix (Minus Masterworks)** | Same as above, minus the masterworks. |
 |  | (Extended Barrel `or` Chambered Compensator `or` Arrowhead Brake) `and` (Particle Repeater `or` Projection Fuse) `and` (Any perk) `and` (Tap the Trigger) `and` (Any masterwork) |
 ## Gallant Charge (PvE)
 CoolGuy has a [terrific PvE review](https://www.youtube.com/watch?v=q6BPg-W8z9g) of the Gallant. It has a PvP perspective but that part isn't as strong as Fallout's (IMHO, on this particular weapon).
 
 | Roll | Details |
 | :--- | :---        |
-| **PvE - "Super Picky 1"** | PLACEHOLDER/TODO |
-|  | (Extended Barrel `or` Full Bore `or` Hammer-Forged Rifling `or` Smallbore) `and` (Projection Fuse) `and` (Demolitionist) `and` (Swashbuckler `or` Multikill Clip) `and` (Range MW) |
-| **PvE - "Super Picky 1 (Minus Barrels)"** | PLACEHOLDER/TODO |
-|  | (Any barrel) `and` (Projection Fuse) `and` (Demolitionist) `and` (Swashbuckler `or` Multikill Clip) `and` (Range MW) |
-| **PvE - "Super Picky 1 (Minus Magazines)"** | PLACEHOLDER/TODO |
-|  | (Extended Barrel `or` Full Bore `or` Hammer-Forged Rifling `or` Smallbore) `and` (Any magazine) `and` (Demolitionist) `and` (Swashbuckler `or` Multikill Clip) `and` (Range MW) |
-| **PvE - "Super Picky 1 (Minus Masterworks)"** | PLACEHOLDER/TODO |
-|  | (Extended Barrel `or` Full Bore `or` Hammer-Forged Rifling `or` Smallbore) `and` (Projection Fuse) `and` (Demolitionist) `and` (Swashbuckler `or` Multikill Clip) `and` (Any masterwork) |
-| **PvE - "Super Picky 2"** | PLACEHOLDER/TODO |
-|  | (Extended Barrel `or` Full Bore `or` Hammer-Forged Rifling `or` Smallbore) `and` (Projection Fuse `or` Ionized Battery) `and` (Auto-Loading Holster) `and` (Swashbuckler `or` Multikill Clip) `and` (Range MW) |
-| **PvE - "Super Picky 2 (Minus Barrels)"** | PLACEHOLDER/TODO |
-|  | (Any barrel) `and` (Projection Fuse `or` Ionized Battery) `and` (Auto-Loading Holster) `and` (Swashbuckler `or` Multikill Clip) `and` (Range MW) |
-| **PvE - "Super Picky 2 (Minus Magazines)"** | PLACEHOLDER/TODO |
-|  | (Extended Barrel `or` Full Bore `or` Hammer-Forged Rifling `or` Smallbore) `and` (Any magazine) `and` (Auto-Loading Holster) `and` (Swashbuckler `or` Multikill Clip) `and` (Range MW) |
-| **PvE - "Super Picky 2 (Minus Masterworks)"** | PLACEHOLDER/TODO |
-|  | (Extended Barrel `or` Full Bore `or` Hammer-Forged Rifling `or` Smallbore) `and` (Projection Fuse `or` Ionized Battery) `and` (Auto-Loading Holster) `and` (Swashbuckler `or` Multikill Clip) `and` (Any masterwork) |
-| **PvE - "Super Picky 3"** | PLACEHOLDER/TODO |
-|  | (Extended Barrel `or` Full Bore `or` Hammer-Forged Rifling `or` Smallbore) `and` (Projection Fuse) `and` (Grave Robber) `and` (Swashbuckler) `and` (Range MW) |
-| **PvE - "Super Picky 3 (Minus Barrels)"** | PLACEHOLDER/TODO |
-|  | (Any barrel) `and` (Projection Fuse) `and` (Grave Robber) `and` (Swashbuckler) `and` (Range MW) |
-| **PvE - "Super Picky 3 (Minus Magazines)"** | PLACEHOLDER/TODO |
-|  | (Extended Barrel `or` Full Bore `or` Hammer-Forged Rifling `or` Smallbore) `and` (Any magazine) `and` (Grave Robber) `and` (Swashbuckler) `and` (Range MW) |
-| **PvE - "Super Picky 3 (Minus Masterworks)"** | PLACEHOLDER/TODO |
-|  | (Extended Barrel `or` Full Bore `or` Hammer-Forged Rifling `or` Smallbore) `and` (Projection Fuse) `and` (Grave Robber) `and` (Swashbuckler) `and` (Any masterwork) |
-| **PvE - "Baseline 1"** | PLACEHOLDER/TODO |
+| **(PvE) Sustained DPS** | How can we maximize damage uptime and bolt hits while minimizing falloff? |
+|  | (Extended Barrel `or` Full Bore `or` Hammer-Forged Rifling `or` Smallbore) `and` (Projection Fuse `or` Ionized Battery) `and` (Demolitionist `or` Auto-Loading Holster) `and` (Swashbuckler `or` Multikill Clip) `and` (Range MW `or` Stability MW) |
+| **(PvE) Sustained DPS (Minus Barrels)** | Same as above, minus the barrels. |
+|  | (Any barrel) `and` (Projection Fuse `or` Ionized Battery) `and` (Demolitionist `or` Auto-Loading Holster) `and` (Swashbuckler `or` Multikill Clip) `and` (Range MW `or` Stability MW) |
+| **(PvE) Sustained DPS (Minus Magazines)** | Same as above, minus the magazines. |
+|  | (Extended Barrel `or` Full Bore `or` Hammer-Forged Rifling `or` Smallbore) `and` (Any magazine) `and` (Demolitionist `or` Auto-Loading Holster) `and` (Swashbuckler `or` Multikill Clip) `and` (Range MW `or` Stability MW) |
+| **(PvE) Sustained DPS (Minus Masterworks)"** | Same as above, minus the masterworks. |
+|  | (Extended Barrel `or` Full Bore `or` Hammer-Forged Rifling `or` Smallbore) `and` (Projection Fuse `or` Ionized Battery) `and` (Demolitionist `or` Auto-Loading Holster) `and` (Swashbuckler `or` Multikill Clip) `and` (Any masterwork) |
+| **(PvE) Punchy Picky 👊** | Time to punch and keep this thing constantly reloaded. |
+|  | (Arrowhead Brake `or` Corkscrew Rifling `or` Fluted Barrel) `and` (Ionized Battery) `and` (Grave Robber) `and` (Swashbuckler) `and` (Handling MW) |
+| **(PvE) Punchy Picky 👊 (Minus Barrels)"** | Same as above, minus the barrels. |
+|  | (Any barrel) `and` (Ionized Battery) `and` (Grave Robber) `and` (Swashbuckler) `and` (Handling MW) |
+| **(PvE) Punchy Picky 👊 (Minus Magazines)"** | Same as above, minus the magazines. |
+|  | (Arrowhead Brake `or` Corkscrew Rifling `or` Fluted Barrel) `and` (Any magazine) `and` (Grave Robber) `and` (Swashbuckler) `and` (Handling MW) |
+| **(PvE) Punchy Picky 👊 (Minus Masterworks)"** | Same as above, minus the masterworks. |
+|  | (Arrowhead Brake `or` Corkscrew Rifling `or` Fluted Barrel) `and` (Ionized Battery) `and` (Grave Robber) `and` (Swashbuckler) `and` (Any masterwork) |
+| **(PvE) Baseline** | At a minimum, these combos will serve you well. |
 |  | (Any barrel) `and` (Any magazine) `and` (Demolitionist `or` Auto-Loading Holster) `and` (Swashbuckler `or` Multikill Clip) `and` (Any masterwork) |
-| **PvE - "Baseline 2"** | PLACEHOLDER/TODO |
+| **(PvE) Punchy Baseline 👊** | If you want to punch something, here's your packing list. |
 |  | (Any barrel) `and` (Any magazine) `and` (Grave Robber) `and` (Swashbuckler) `and` (Any masterwork) |
 ## Patron of Lost Causes (PvP)
 CoolGuy absolutely loves his Patron, and has a great [video review of it](https://www.youtube.com/watch?v=GTcp4JQD1fI). I'm on controller so these rolls are all about maxing our stability. Fortunately we have a pretty broad set of useful rolls. Randy's is in the same slot and has Rapid-Hit + Kill Clip already, so I'm not losing too much sleep about getting a perfect roll here.
@@ -185,16 +181,20 @@ This is the only Scout Rifle that can roll Vorpal or Osmosis. This isn't a high 
 | **(PvE) Utility** | PLACEHOLDER/TODO |
 |  | (Any barrel) `and` (Any magazine) `and` (Rapid Hit) `and` (Osmosis `or` Vorpal) `and` (Any masterwork) |
 ## Martyr's Retribution (PvP)
-This is for use from range, and Blast Radius doesn't do anything on Wave Frame launchers - simple wishlist here :) Why not demolitionist? You're not going to get final blows with this so much in PvP and with ALH, it will always be loaded. I'd rather have better handling or reload with Elemental Capacitor always-on.
+I absolutely love this new "Wave Frame" (i.e. Thermite Jr.) archetype! Our roll choices below might seem a little odd, but here we go. For PvP I want this always ready, loaded and moving quickly. That means I'm looking for velocity, reload and handling wherever I can get it. The base Velocity is `76` and since the second column perks are fixed, that's a flat `+9` so we're at `84`. That seems more than good enough, so lets focus on reload + handling. There's only one roll here because it's not that hard to farm.
 
 | Roll | Details |
 | :--- | :---        |
-| **PvP - "Super Picky"** | PLACEHOLDER/TODO |
-|  | (Hard Launch `or` Quick Launch) `and` (Any magazine) `and` (Auto-Loading Holster) `and` (Elemental Capacitor) `and` (Reload MW `or` Handling MW `or` Velocity MW) |
+| **(PvP) Super Picky** | Threat Detector has such a long proc range that I'm going to put it on par with Auto-Loading Holster here. We can choose (or not choose) to use the reload and handling boosts on Elemental Capacitor, paired with the masterworks. Don't forget a `Quick Access Sling` mod! |
+|  | (Countermass `or` Quick Launch `or` Smart Drift Control) `and` (Any magazine) `and` (Threat Detector `or` Auto-Loading Holster) `and` (Elemental Capacitor) `and` (Reload MW `or` Handling MW) |
+| **(PvP) Picky** | Same as above, minus Elemental Capacitor which is the hardest to get out of the other perks. |
+|  | (Countermass `or` Quick Launch `or` Smart Drift Control) `and` (Any magazine) `and` (Threat Detector `or` Auto-Loading Holster) `and` (Any perk) `and` (Reload MW `or` Handling MW) |
 ## Martyr's Retribution (PvE)
-This is one of my favourite weapons in all of Destiny! Pretty much any roll is fine but if you want to push your roll criteria, here we go. Threat Detector might seem odd, but it increases reload speed and because this GL doesn't do any impact damage, it will have great reload up close.
+This is one of my favourite weapons in all of Destiny! Pretty much any roll is fine but if you want to push your roll criteria, here we go.
 
 | Roll | Details |
 | :--- | :---        |
-| **PvE - "Utility"** | PLACEHOLDER/TODO |
-|  | (Quick Launch `or` Hard Launch) `and` (Any magazine) `and` (Auto-Loading Holster `or` Threat Detector) `and` (Demolitionist `or` Lead from Gold) `and` (Reload MW `or` Velocity MW) |
+| **(PvE) The Instant Reloader** | We're doing everything we can to reload as quickly as possible with this roll. How do we keep one in the chamber constantly? |
+|  | (Countermass `or` Quick Launch `or` Smart Drift Control) `and` (Any magazine) `and` (Auto-Loading Holster `or` Threat Detector `or` Field Prep) `and` (Demolitionist) `and` (Reload MW) |
+| **(PvE) Shieldbreaker** | Martyr's absolutely shreds shields and a shieldsplosion roll like this will be super fun. Those hopefully chained kills should keep your grenade rolling from Demolitionist and upon activating it will reload your weapon and so on... |
+|  | (Countermass `or` Quick Launch `or` Smart Drift Control) `and` (Any magazine) `and` (Genesis) `and` (Demolitionist) `and` (Reload MW `or` Handling MW) |
