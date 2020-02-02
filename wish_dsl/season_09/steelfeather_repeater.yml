@@ -18,21 +18,21 @@
     beyond it's a fun AR to have in your rotation."
   rolls:
     - 
-      name: PvP - "Super Picky"
+      name: (PvP) Super Picky
       barrels: [Arrowhead Brake]
       magazines: [Ricochet Rounds, Flared Magwell, Light Mag]
       perks1: [Firmly Planted]
       perks2: [Elemental Capacitor]
       masterworks: [Stability MW]
     -
-      name: PvP - "Super Picky (Minus Magazines)"
+      name: (PvP) Super Picky (Minus Magazines)
       barrels: [Arrowhead Brake]
       magazines: []
       perks1: [Firmly Planted]
       perks2: [Elemental Capacitor]
       masterworks: [Stability MW]
     -
-      name: PvP - "Super Picky (Minus Stability MW)"
+      name: (PvP) Super Picky (Minus Stability MW)
       barrels: [Arrowhead Brake]
       magazines: [Ricochet Rounds, Flared Magwell, Light Mag]
       perks1: [Firmly Planted]
@@ -69,7 +69,7 @@
       perks2: [Swashbuckler, Multikill Clip]
       masterworks: []
     -
-      name: (PvE) Punchy Pinky 👊
+      name: (PvE) Punchy Picky 👊
       barrels: [Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore]
       magazines: [Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
       perks1: [Grave Robber]
