@@ -61,50 +61,99 @@
   item_id: 1289997971
   lightgg: https://www.light.gg/db/items/1289997971/breachlight/
   summary: >
-    Some neat PvE combos here from [Ehroar's video](https://www.youtube.com/watch?v=TrYRPglvMHY)
-    and general [PvE wisdom](https://www.youtube.com/watch?v=GXwdAQGOfeY) from
-    CoolGuy. I kind of love Breachlight so I'm going to lay down a bunch of possibilities
-    here.
+    Ehroar focuses on Breachlight - ["This Sidearm Might Just Be The New Recluse"](https://www.youtube.com/watch?v=TrYRPglvMHY)
+    "I truly believe this weapon is better than Recluse and I believe it will be
+    the new meta for PvE." He mentions three amazing rolls (well four kinda)
+    that I'll capture below.
   rolls:
-    - 
-      name: Outlaw DPS Roll 1
+    # My three god rolls:
+    # - "Outlaw + MKC with as much range as humanly possible. Great for basic add clear. Once you get MKC going you can shred Majors and Ultras"
+    # - "Demo + Rampage with max range or Drop Mag if you're not on Warlock. If you're on Warlock with Devour, you never have to reload."
+    # - "Demo + MKC and Drop Mag if you're not playing Devour-lock"
+    # - "Demo + Osmosis with as much range as you can get. With a lock, pair with Devour and Nezarac's sin."
+    -
+      name: Picky Gunslinger
+      desc: >
+        Ehroar: "Great for basic add clear. Once you get MKC going you can
+        shred Majors and Ultras." We're going for max range with some extra
+        perks and a Masterwork, but those are just icing on this shredding
+        cake.
       barrels: []
-      magazines: [Drop Mag, Flared Magwell, Tactical Mag]
+      magazines: [Accurized Rounds]
       perks1: [Outlaw]
       perks2: [Multikill Clip]
-      masterworks: [Stability MW]
-    - 
-      name: Outlaw DPS Roll 2
+      masterworks: [Range MW]
+    -
+      name: Basic Gunslinger
+      desc: Same as above, minus the magazine and masterwork.
       barrels: []
-      magazines: [Appended Mag, Drop Mag, Extended Mag]
+      magazines: []
       perks1: [Outlaw]
-      perks2: [Rampage]
-      masterworks: [Stability MW]
+      perks2: [Multikill Clip]
+      masterworks: []
     - 
-      name: Demo DPS Roll 1
+      name: Picky Never-Reloading Devour-lock
+      desc: >
+        With Devour on, you'll have your grenade constantly and since throwing
+        your grenade reloads the weapon, you can keep `Rampage x 3` up for a
+        long time.
       barrels: []
-      magazines: [Drop Mag, Flared Magwell, Tactical Mag]
+      magazines: [Accurized Rounds]
       perks1: [Demolitionist]
-      perks2: [Multikill Clip]
-      masterworks: [Reload MW]
-    - 
-      name: Demo DPS Roll 2
+      perks2: [Rampage, Multikill Clip]
+      masterworks: [Range MW]
+    -
+      name: Picky Never-Reloading Devour-lock (Minus Magazines)
+      desc: >
+        Same as above, minus Accurized Rounds since it's so much harder to get
+        than Range MW.
       barrels: []
-      magazines: [Drop Mag, Flared Magwell, Tactical Mag]
+      magazines: []
+      perks1: [Demolitionist]
+      perks2: [Rampage, Multikill Clip]
+      masterworks: [Range MW]
+    -
+      name: Picky Never-Reloading Devour-lock (Minus Masterwork)
+      desc: Same as above, minus the Range MW
+      barrels: []
+      magazines: [Accurized Rounds]
+      perks1: [Demolitionist]
+      perks2: [Rampage, Multikill Clip]
+      masterworks: []
+    - 
+      name: Picky Rarely-Reloading Bezerker
+      desc: >
+        With Drop Mag and a Reload MW, you'll be able to keep Rampage up. You
+        could also do this with 
+      barrels: []
+      magazines: [Drop Mag]
+      perks1: [Demolitionist]
+      perks2: [Rampage, Multikill Clip]
+      masterworks: [Range MW]
+    - 
+      name: Basic Rarely-Reloading Bezerker
+      desc: Same as above, minus the Masterwork 
+      barrels: []
+      magazines: [Drop Mag]
+      perks1: [Demolitionist]
+      perks2: [Rampage, Multikill Clip]
+      masterworks: []
+    - 
+      name: Picky Master of the Void
+      desc: >
+        Pair with Devour-lock and Nezarac's sin and you'll be flush with health,
+        grenades and ability energy.
+      barrels: []
+      magazines: [Accurized Rounds]
       perks1: [Demolitionist]
       perks2: [Osmosis]
-      masterworks: [Reload MW]
+      masterworks: [Range MW]
     - 
-      name: Demo DPS Roll 3
+      name: Basic Master of the Void
+      desc: Same as above with just the core perks.
       barrels: []
-      magazines: [Drop Mag, Flared Magwell, Tactical Mag]
+      magazines: []
       perks1: [Demolitionist]
-      perks2: [Vorpal]
-      masterworks: [Reload MW]
-    - 
-      name: Demo DPS Roll 4
-      barrels: []
-      magazines: [Appended Mag, Drop Mag, Extended Mag]
-      perks1: [Demolitionist]
-      perks2: [Rampage]
-      masterworks: [Reload MW]
+      perks2: [Osmosis]
+      masterworks: []
+      
