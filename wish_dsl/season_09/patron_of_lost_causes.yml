@@ -64,6 +64,7 @@
   rolls:
     - 
       name: (PvE) Utility
+      desc: Future-proofing
       barrels: []
       magazines: []
       perks1: [Rapid Hit]
