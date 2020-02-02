@@ -10,33 +10,58 @@
     prefer the unaltered charge time.
   rolls:
     - 
-      name: PvP - "Super Picky"
+      name: (PvP) Super Picky Stability
+      desc: >
+        Bringing all of our stability and range tools to bear here. We want to
+        first "fix" the recoil by getting it as close to ending in a `5` as we
+        can. Then we go for Stability!
+      barrels: [Extended Barrel, Chambered Compensator, Arrowhead Brake]
+      magazines: [Particle Repeater]
+      perks1: []
+      perks2: [Tap the Trigger]
+      masterworks: [Stability MW]
+    - 
+      name: (PvP) Super Picky Stability (Minus Magazines)
+      desc: Same as above, minus the magazines.
+      barrels: [Extended Barrel, Chambered Compensator, Arrowhead Brake]
+      magazines: []
+      perks1: []
+      perks2: [Tap the Trigger]
+      masterworks: [Stability MW]
+    - 
+      name: (PvP) Super Picky Stability (Minus Masterworks)
+      desc: Same as above, minus the masterworks.
+      barrels: [Extended Barrel, Chambered Compensator, Arrowhead Brake]
+      magazines: [Particle Repeater]
+      perks1: []
+      perks2: [Tap the Trigger]
+      masterworks: []        
+    - 
+      name: (PvP) Picky Range / Stability Mix
+      desc: >
+        The next few rolls feature both Stability and Range alternatives in
+        three of the slots.
       barrels: [Extended Barrel, Chambered Compensator, Arrowhead Brake]
       magazines: [Particle Repeater, Projection Fuse]
       perks1: []
       perks2: [Tap the Trigger]
       masterworks: [Range MW, Stability MW]
     - 
-      name: PvP - "Super Picky (Minus Barrels)"
-      barrels: []
-      magazines: [Particle Repeater, Projection Fuse]
-      perks1: []
-      perks2: [Tap the Trigger]
-      masterworks: [Range MW, Stability MW]
-    - 
-      name: PvP - "Super Picky (Minus Mags)"
+      name: (PvP) Picky Range / Stability Mix (Minus Magazines)
+      desc: Same as above, minus the magazines.
       barrels: [Extended Barrel, Chambered Compensator, Arrowhead Brake]
       magazines: []
       perks1: []
       perks2: [Tap the Trigger]
       masterworks: [Range MW, Stability MW]
     - 
-      name: PvP - "Super Picky (Minus Masterworks)"
+      name: (PvP) Picky Range / Stability Mix (Minus Masterworks)
+      desc: Same as above, minus the masterworks.
       barrels: [Extended Barrel, Chambered Compensator, Arrowhead Brake]
       magazines: [Particle Repeater, Projection Fuse]
       perks1: []
       perks2: [Tap the Trigger]
-      masterworks: []                  
+      masterworks: []            
 - 
   name: Gallant Charge (PvE)
   item_id: 1706206669
@@ -47,98 +72,80 @@
     on this particular weapon).
   rolls:
     - 
-      name: PvE - "Super Picky 1"
+      name: (PvE) Sustained DPS
+      desc: How can we maximize damage uptime and bolt hits while minimizing falloff?
       barrels: [Extended Barrel, Full Bore, Hammer-Forged Rifling, Smallbore]
-      magazines: [Projection Fuse]
-      perks1: [Demolitionist]
+      magazines: [Projection Fuse, Ionized Battery]
+      perks1: [Demolitionist, Auto-Loading Holster]
       perks2: [Swashbuckler, Multikill Clip]
-      masterworks: [Range MW]  
+      masterworks: [Range MW, Stability MW]  
     - 
-      name: PvE - "Super Picky 1 (Minus Barrels)"
+      name: (PvE) Sustained DPS (Minus Barrels)
+      desc: Same as above, minus the barrels.
       barrels: []
-      magazines: [Projection Fuse]
-      perks1: [Demolitionist]
+      magazines: [Projection Fuse, Ionized Battery]
+      perks1: [Demolitionist, Auto-Loading Holster]
       perks2: [Swashbuckler, Multikill Clip]
-      masterworks: [Range MW]      
+      masterworks: [Range MW, Stability MW]  
     - 
-      name: PvE - "Super Picky 1 (Minus Magazines)"
+      name: (PvE) Sustained DPS (Minus Magazines)
+      desc: Same as above, minus the magazines.
       barrels: [Extended Barrel, Full Bore, Hammer-Forged Rifling, Smallbore]
       magazines: []
-      perks1: [Demolitionist]
+      perks1: [Demolitionist, Auto-Loading Holster]
       perks2: [Swashbuckler, Multikill Clip]
-      masterworks: [Range MW]                      
+      masterworks: [Range MW, Stability MW]                   
     - 
-      name: PvE - "Super Picky 1 (Minus Masterworks)"
-      barrels: [Extended Barrel, Full Bore, Hammer-Forged Rifling, Smallbore]
-      magazines: [Projection Fuse]
-      perks1: [Demolitionist]
-      perks2: [Swashbuckler, Multikill Clip]
-      masterworks: []            
-    - 
-      name: PvE - "Super Picky 2"
+      name: (PvE) Sustained DPS (Minus Masterworks)"
+      desc: Same as above, minus the masterworks.
       barrels: [Extended Barrel, Full Bore, Hammer-Forged Rifling, Smallbore]
       magazines: [Projection Fuse, Ionized Battery]
-      perks1: [Auto-Loading Holster]
+      perks1: [Demolitionist, Auto-Loading Holster]
       perks2: [Swashbuckler, Multikill Clip]
-      masterworks: [Range MW]      
+      masterworks: []         
     - 
-      name: PvE - "Super Picky 2 (Minus Barrels)"
-      barrels: []
-      magazines: [Projection Fuse, Ionized Battery]
-      perks1: [Auto-Loading Holster]
-      perks2: [Swashbuckler, Multikill Clip]
-      masterworks: [Range MW]      
-    - 
-      name: PvE - "Super Picky 2 (Minus Magazines)"
-      barrels: [Extended Barrel, Full Bore, Hammer-Forged Rifling, Smallbore]
-      magazines: []
-      perks1: [Auto-Loading Holster]
-      perks2: [Swashbuckler, Multikill Clip]
-      masterworks: [Range MW]      
-    - 
-      name: PvE - "Super Picky 2 (Minus Masterworks)"
-      barrels: [Extended Barrel, Full Bore, Hammer-Forged Rifling, Smallbore]
-      magazines: [Projection Fuse, Ionized Battery]
-      perks1: [Auto-Loading Holster]
-      perks2: [Swashbuckler, Multikill Clip]
-      masterworks: []                        
-    - 
-      name: PvE - "Super Picky 3"
-      barrels: [Extended Barrel, Full Bore, Hammer-Forged Rifling, Smallbore]
-      magazines: [Projection Fuse]
+      name: (PvE) Punchy Picky 👊
+      desc: Time to punch and keep this thing constantly reloaded.
+      barrels: [Arrowhead Brake, Corkscrew Rifling, Fluted Barrel]
+      magazines: [Ionized Battery]
       perks1: [Grave Robber]
       perks2: [Swashbuckler]
-      masterworks: [Range MW]       
+      masterworks: [Handling MW]       
     - 
-      name: PvE - "Super Picky 3 (Minus Barrels)"
+      name: (PvE) Punchy Picky 👊 (Minus Barrels)"
+      desc: Same as above, minus the barrels.
       barrels: []
-      magazines: [Projection Fuse]
+      magazines: [Ionized Battery]
       perks1: [Grave Robber]
       perks2: [Swashbuckler]
-      masterworks: [Range MW]  
+      masterworks: [Handling MW]       
     - 
-      name: PvE - "Super Picky 3 (Minus Magazines)"
-      barrels: [Extended Barrel, Full Bore, Hammer-Forged Rifling, Smallbore]
+      name: (PvE) Punchy Picky 👊 (Minus Magazines)"
+      desc: Same as above, minus the magazines.
+      barrels: [Arrowhead Brake, Corkscrew Rifling, Fluted Barrel]
       magazines: []
       perks1: [Grave Robber]
       perks2: [Swashbuckler]
-      masterworks: [Range MW]  
+      masterworks: [Handling MW]       
     - 
-      name: PvE - "Super Picky 3 (Minus Masterworks)"
-      barrels: [Extended Barrel, Full Bore, Hammer-Forged Rifling, Smallbore]
-      magazines: [Projection Fuse]
+      name: (PvE) Punchy Picky 👊 (Minus Masterworks)"
+      desc: Same as above, minus the masterworks.
+      barrels: [Arrowhead Brake, Corkscrew Rifling, Fluted Barrel]
+      magazines: [Ionized Battery]
       perks1: [Grave Robber]
       perks2: [Swashbuckler]
-      masterworks: []                    
+      masterworks: []       
     - 
-      name: PvE - "Baseline 1"
+      name: (PvE) Baseline
+      desc: At a minimum, these combos will serve you well.
       barrels: []
       magazines: []
       perks1: [Demolitionist, Auto-Loading Holster]
       perks2: [Swashbuckler, Multikill Clip]
       masterworks: []             
     - 
-      name: PvE - "Baseline 2"
+      name: (PvE) Punchy Baseline 👊
+      desc: If you want to punch something, here's your packing list.
       barrels: []
       magazines: []
       perks1: [Grave Robber]
