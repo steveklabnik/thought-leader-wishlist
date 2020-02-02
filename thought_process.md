@@ -1,4 +1,4 @@
-This file was auto-generated at ` 2 Feb 2020 01:21:02`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at ` 2 Feb 2020 02:53:37`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -41,19 +41,37 @@ Some neat PvE combos here from [Ehroar's video](https://www.youtube.com/watch?v=
 | **Demo DPS Roll 4** | PLACEHOLDER/TODO |
 |  | (Any barrel) `and` (Appended Mag `or` Drop Mag `or` Extended Mag) `and` (Demolitionist) `and` (Rampage) `and` (Reload MW) |
 ## Traveler's Judgement 5 (PvP)
-CoolGuy [brings the heat](https://www.youtube.com/watch?v=J4HGIAZQdY4)!
+CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZQdY4)! Paraphrased: There isn't a bad sight and it has little to no recoil. It can roll with Disruption Break which works in PvP (Slif: ?!). Rapid Hit and Tap the Trigger being available is a rare combo. Worth your time to farm a few of these. Keep in mind they don't benefit from from the S92 benefit of an additional perk in the last slot, so it can be a bit painful.
 
 | Roll | Details |
 | :--- | :---        |
-| **PvP - "Baseline"** | PLACEHOLDER/TODO |
+| **(PvP) Picky Tapping** | Rapid Hit makes it incredibly stable and Tap procs on every other burst. Going for max range after that. |
+|  | (Any barrel) `and` (High-Caliber Rounds `or` Ricochet Rounds `or` Armor-Piercing Rounds) `and` (Rapid Hit) `and` (Tap the Trigger) `and` (Range MW) |
+| **(PvP) Picky Tapping (Minus MW)** | Same as above, minus the Range MW. |
 |  | (Any barrel) `and` (High-Caliber Rounds `or` Ricochet Rounds `or` Armor-Piercing Rounds) `and` (Rapid Hit) `and` (Tap the Trigger) `and` (Any masterwork) |
+| **(PvP) Picky Tapping (Minus magazines)** | Same as above, minus the magazines. |
+|  | (Any barrel) `and` (Any magazine) `and` (Rapid Hit) `and` (Tap the Trigger) `and` (Range MW) |
+| **(PvP) Baseline Tapping** | Just the facts. |
+|  | (Any barrel) `and` (Any magazine) `and` (Rapid Hit) `and` (Tap the Trigger) `and` (Any masterwork) |
+| **(PvP) Picky Shieldbreaker** | Disruption Break works in PvP apparently!? Same set of rolls as above, but pairing with Disruption Break instead of Tap the Trigger. |
+|  | (Any barrel) `and` (High-Caliber Rounds `or` Ricochet Rounds `or` Armor-Piercing Rounds) `and` (Rapid Hit) `and` (Disruption Break) `and` (Range MW) |
+| **(PvP) Picky Shieldbreaker (Minus MW)** | Same as above, minus the Range MW. |
+|  | (Any barrel) `and` (High-Caliber Rounds `or` Ricochet Rounds `or` Armor-Piercing Rounds) `and` (Rapid Hit) `and` (Disruption Break) `and` (Any masterwork) |
+| **(PvP) Picky Shieldbreaker (Minus magazines)** | Same as above, minus the magazines. |
+|  | (Any barrel) `and` (Any magazine) `and` (Rapid Hit) `and` (Disruption Break) `and` (Range MW) |
+| **(PvP) Baseline Shieldbreaker** | Just the facts. |
+|  | (Any barrel) `and` (Any magazine) `and` (Rapid Hit) `and` (Disruption Break) `and` (Any masterwork) |
 ## Traveler's Judgement 5 (PvE)
 CoolGuy [brings the heat](https://www.youtube.com/watch?v=J4HGIAZQdY4)!
 
 | Roll | Details |
 | :--- | :---        |
-| **PvE - "Baseline"** | PLACEHOLDER/TODO |
-|  | (Any barrel) `and` (Any magazine) `and` (Rapid Hit `or` Feeding Frenzy) `and` (Disruption Break `or` Dragonfly) `and` (Any masterwork) |
+| **(PvE) Baseline** | Don't forget to throw a Dragonfly Spec mod on here. |
+|  | (Any barrel) `and` (Any magazine) `and` (Rapid Hit `or` Feeding Frenzy) `and` (Dragonfly) `and` (Any masterwork) |
+| **(PvE) Picky Shieldbreaker** | Don't Sleep on Disruption Break! CoolGuy makes a great point: we might see a "season of the sidearm" where artifact perks can be applied to sidearm. That could mean breaking Barriers with Disruption Break, and not many weapons can roll with that perk! |
+|  | (Any barrel) `and` (Armor-Piercing Rounds) `and` (Rapid Hit `or` Feeding Frenzy) `and` (Disruption Break) `and` (Any masterwork) |
+| **(PvE) Picky Shieldbreaker (Minus APR)** | Same as above; still terrific w/out APR. |
+|  | (Any barrel) `and` (Any magazine) `and` (Rapid Hit `or` Feeding Frenzy) `and` (Disruption Break) `and` (Any masterwork) |
 ## Infinite Paths 8 (PvP)
 CoolGuy [dropping serious knowledge](https://www.youtube.com/watch?v=-ZnUT63RgnE) here. "Currently they're the only frame I wouldn't take in to 5500 Comp. Use Rapid-fire frame." Here's what I put together from the video.
 
