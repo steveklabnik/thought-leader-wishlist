@@ -1,4 +1,4 @@
-This file was auto-generated at ` 2 Feb 2020 06:48:21`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at ` 2 Feb 2020 06:53:25`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -186,7 +186,7 @@ This is the only Scout Rifle that can roll Vorpal or Osmosis. This isn't a high 
 
 | Roll | Details |
 | :--- | :---        |
-| **(PvE) Utility** | PLACEHOLDER/TODO |
+| **(PvE) Utility** | Future-proofing |
 |  | (Any barrel) `and` (Any magazine) `and` (Rapid Hit) `and` (Osmosis `or` Vorpal) `and` (Any masterwork) |
 ## Martyr's Retribution (PvP)
 I absolutely love this new "Wave Frame" (i.e. Thermite Jr.) archetype! Our roll choices below might seem a little odd, but here we go. For PvP I want this always ready, loaded and moving quickly. That means I'm looking for velocity, reload and handling wherever I can get it. The base Velocity is `76` and since the second column perks are fixed, that's a flat `+9` so we're at `84`. That seems more than good enough, so lets focus on reload + handling. There's only one roll here because it's not that hard to farm.
