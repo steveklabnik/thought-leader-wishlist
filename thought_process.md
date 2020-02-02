@@ -1,4 +1,4 @@
-This file was auto-generated at ` 2 Feb 2020 06:31:24`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at ` 2 Feb 2020 06:48:21`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -99,30 +99,30 @@ CoolGuy does a [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI)
 
 | Roll | Details |
 | :--- | :---        |
-| **(PvP) Super Picky** | PLACEHOLDER/TODO |
-|  | (Arrowhead Brake) `and` (Ricochet Rounds `or` Flared Magwell `or` Light Mag) `and` (Firmly Planted) `and` (Elemental Capacitor) `and` (Stability MW) |
-| **(PvP) Super Picky (Minus Magazines)** | PLACEHOLDER/TODO |
-|  | (Arrowhead Brake) `and` (Any magazine) `and` (Firmly Planted) `and` (Elemental Capacitor) `and` (Stability MW) |
-| **(PvP) Super Picky (Minus Stability MW)** | PLACEHOLDER/TODO |
+| **(PvP) Super Picky** | We're looking to max stability after maxing recoil, as much as we can. The roll is built around `Arrowhead Brake` and `Firmly Planted`. Other sources of stability are terrific of course, but without those two, we don't have enough control to matter. |
+|  | (Arrowhead Brake) `and` (Ricochet Rounds `or` Flared Magwell `or` Light Mag) `and` (Firmly Planted) `and` (Elemental Capacitor) `and` (Stability MW `or` Range MW) |
+| **(PvP) Super Picky (Minus Magazine and Perks)** | Same as above, minus mags and perks. |
+|  | (Arrowhead Brake) `and` (Any magazine) `and` (Firmly Planted) `and` (Any perk) `and` (Stability MW `or` Range MW) |
+| **(PvP) Super Picky (Minus Stability MW)** | Same as above, minus masterworks. |
 |  | (Arrowhead Brake) `and` (Ricochet Rounds `or` Flared Magwell `or` Light Mag) `and` (Firmly Planted) `and` (Elemental Capacitor) `and` (Any masterwork) |
 ## Steelfeather Repeater (PvE)
 There are two long form Steelfeather reviews kicking around. CoolGuy does a [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI) of the weapon overall with PvE and PvP thoughts. [Aztecross](https://www.youtube.com/watch?v=zdhugEZT1C4) has one as well and per usual, has a bit more excited yelling :) Interestingly they both compare it to a "higher range SMG". They also both comment on its applicability (or lack of) to anything beyond slaying red-bar enemies. In Sundial for example, it runs out of steam. Oddly enough, Breachlight performs better in that role; go figure. "I feel it's a decent weapon. I personally don't crown it anything beyond it's a fun AR to have in your rotation."
 
 | Roll | Details |
 | :--- | :---        |
-| **(PvE) Super Picky** | PLACEHOLDER/TODO |
-|  | (Chambered Compensator `or` Corkscrew Rifling `or` Fluted Barrel `or` Polygonal Rifling `or` Hammer-Forged Rifling `or` Smallbore) `and` (Ricochet Rounds `or` Armor-Piercing Rounds `or` Flared Magwell `or` Light Mag) `and` (Feeding Frenzy `or` Subsistence) `and` (Swashbuckler `or` Multikill Clip) `and` (Stability MW) |
-| **(PvE) Super Picky (Minus MW)** | PLACEHOLDER/TODO |
+| **(PvE) Super Picky** | How can we keep DPS up as long as possible while preserving as much Range and Stability as possible? |
+|  | (Chambered Compensator `or` Corkscrew Rifling `or` Fluted Barrel `or` Polygonal Rifling `or` Hammer-Forged Rifling `or` Smallbore) `and` (Ricochet Rounds `or` Armor-Piercing Rounds `or` Flared Magwell `or` Light Mag) `and` (Feeding Frenzy `or` Subsistence) `and` (Swashbuckler `or` Multikill Clip) `and` (Stability MW `or` Range MW) |
+| **(PvE) Super Picky (Minus MW)** | Same as above, minus the Masterworks |
 |  | (Chambered Compensator `or` Corkscrew Rifling `or` Fluted Barrel `or` Polygonal Rifling `or` Hammer-Forged Rifling `or` Smallbore) `and` (Ricochet Rounds `or` Armor-Piercing Rounds `or` Flared Magwell `or` Light Mag) `and` (Feeding Frenzy `or` Subsistence) `and` (Swashbuckler `or` Multikill Clip) `and` (Any masterwork) |
-| **(PvE) Punchy Picky 👊** | PLACEHOLDER/TODO |
+| **(PvE) Punchy Picky 👊** | Classic punchy punchy build |
 |  | (Chambered Compensator `or` Corkscrew Rifling `or` Fluted Barrel `or` Polygonal Rifling `or` Hammer-Forged Rifling `or` Smallbore) `and` (Ricochet Rounds `or` Armor-Piercing Rounds `or` Flared Magwell `or` Light Mag) `and` (Grave Robber) `and` (Swashbuckler) `and` (Any masterwork) |
-| **(PvE) Punchy Baseline 👊** | PLACEHOLDER/TODO |
+| **(PvE) Punchy Baseline 👊** | If you're punching things, this is your minimum loadout. |
 |  | (Any barrel) `and` (Any magazine) `and` (Grave Robber) `and` (Swashbuckler) `and` (Any masterwork) |
-| **(PvE) Shieldbreaker** | PLACEHOLDER/TODO |
+| **(PvE) Shieldbreaker** | With artifacts all over the map, it's possible we get another Barrier mod that applies to Auto Rifles. This could be a fun one to bank. |
 |  | (Any barrel) `and` (Armor-Piercing Rounds) `and` (Any perk) `and` (Osmosis) `and` (Any masterwork) |
-| **(PvE) Baseline** | PLACEHOLDER/TODO |
+| **(PvE) Baseline** | Solid pairing if you're jonesing for an AR that can do work. |
 |  | (Any barrel) `and` (Any magazine) `and` (Feeding Frenzy `or` Subsistence) `and` (Swashbuckler `or` Multikill Clip) `and` (Any masterwork) |
-| **(PvE) Utility/Future-Proofing** | PLACEHOLDER/TODO |
+| **(PvE) Utility/Future-Proofing** | Not one that we're terribly looking for; maybe hold on to it for another season or twos worth of sandbox updates? |
 |  | (Any barrel) `and` (Any magazine) `and` (Feeding Frenzy `or` Subsistence) `and` (Vorpal `or` Osmosis) `and` (Any masterwork) |
 ## Gallant Charge (PvP)
 Fallout has an interesting, [pro-Stability take](https://www.youtube.com/watch?v=pVVLwg1pVs4) on the Gallant. "This might be THE fusion rifle for controller players". It's bolt grouping isn't as tight, but you can get Recoil to 100 (with a Counterbalance mod). Go for Stability! With respect to the magazine, I prefer the unaltered charge time.
