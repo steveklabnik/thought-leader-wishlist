@@ -1,14 +1,16 @@
-This file was auto-generated at ` 2 Feb 2020 02:53:37`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at ` 2 Feb 2020 03:46:03`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
 This also means that, if your PvP and PvE rolls are similar (they usually aren't) that there's a chance a match is flagged and commented as a PvP roll in the DIM "Notes" section, when it could do double-duty. That's just how the wishlist feature currently works, so use your own discretion.
 ## Line in the Sand (PvE)
-I only suggest this for completeness as it's the only Arc LFR in the power slot). Make it your lowest priority farm. Check our [Ehroar's video](https://www.youtube.com/watch?v=AqI4PumNVC0) for more. We're looking for Rapid Hit + Firing Line.
+Datto posted some in-depth comparisons between LitS and other DPS weapons [earlier in Season 9](https://www.youtube.com/watch?v=ltzDK0NWMgM). As we approach the final third of Season 9, it's still not a great DPS choice, but it "can compete with the likes of Sole Survivor" but who knows what will happen in the future? Since it's so easy to farm and S92 gives you an extra perk in the final slot, why not hang on to these?
 
 | Roll | Details |
 | :--- | :---        |
-| **PvE - "Baseline"** | PLACEHOLDER/TODO |
+| **(PvE) Super Picky** | < The full suite of perks to maximize DPS with LitS. |
+|  | (Any barrel) `and` (Accelerated Coils) `and` (Rapid Hit) `and` (Firing Line) `and` (Charge MW) |
+| **(PvE) Baseline** | < Really, any roll with these two perks is Good Enough(tm). |
 |  | (Any barrel) `and` (Any magazine) `and` (Rapid Hit) `and` (Firing Line) `and` (Any masterwork) |
 ## Breachlight (PvP)
 CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE and PvP but focuses intensely on PvP. Some choice cuts: "I would try other rolls while I was reviewing this and I kept coming back to Vorpal." "Landing shots is more important than accuracy; shouldn't be worried about straight precision. More important to get the recoil straight up and down than it is to add stability because you have to control the stability after every burst anyway." I have to agree - Vorpal is pretty amazing in PvP and I did wish I had it several times. Without Vorpal or Quickdraw, it's just another two-burst sidearm, which is great but you don't need a wishlist for that :)
@@ -57,21 +59,17 @@ CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZ
 |  | (Any barrel) `and` (High-Caliber Rounds `or` Ricochet Rounds `or` Armor-Piercing Rounds) `and` (Rapid Hit) `and` (Disruption Break) `and` (Range MW) |
 | **(PvP) Picky Shieldbreaker (Minus MW)** | Same as above, minus the Range MW. |
 |  | (Any barrel) `and` (High-Caliber Rounds `or` Ricochet Rounds `or` Armor-Piercing Rounds) `and` (Rapid Hit) `and` (Disruption Break) `and` (Any masterwork) |
-| **(PvP) Picky Shieldbreaker (Minus magazines)** | Same as above, minus the magazines. |
-|  | (Any barrel) `and` (Any magazine) `and` (Rapid Hit) `and` (Disruption Break) `and` (Range MW) |
 | **(PvP) Baseline Shieldbreaker** | Just the facts. |
 |  | (Any barrel) `and` (Any magazine) `and` (Rapid Hit) `and` (Disruption Break) `and` (Any masterwork) |
 ## Traveler's Judgement 5 (PvE)
-CoolGuy [brings the heat](https://www.youtube.com/watch?v=J4HGIAZQdY4)!
+These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=J4HGIAZQdY4) above. Shieldbreaker, who knew?
 
 | Roll | Details |
 | :--- | :---        |
-| **(PvE) Baseline** | Don't forget to throw a Dragonfly Spec mod on here. |
-|  | (Any barrel) `and` (Any magazine) `and` (Rapid Hit `or` Feeding Frenzy) `and` (Dragonfly) `and` (Any masterwork) |
 | **(PvE) Picky Shieldbreaker** | Don't Sleep on Disruption Break! CoolGuy makes a great point: we might see a "season of the sidearm" where artifact perks can be applied to sidearm. That could mean breaking Barriers with Disruption Break, and not many weapons can roll with that perk! |
 |  | (Any barrel) `and` (Armor-Piercing Rounds) `and` (Rapid Hit `or` Feeding Frenzy) `and` (Disruption Break) `and` (Any masterwork) |
-| **(PvE) Picky Shieldbreaker (Minus APR)** | Same as above; still terrific w/out APR. |
-|  | (Any barrel) `and` (Any magazine) `and` (Rapid Hit `or` Feeding Frenzy) `and` (Disruption Break) `and` (Any masterwork) |
+| **(PvE) Baseline** | Don't forget to throw a Dragonfly Spec mod on here. |
+|  | (Any barrel) `and` (Any magazine) `and` (Rapid Hit `or` Feeding Frenzy) `and` (Dragonfly `or` Disruption Break) `and` (Any masterwork) |
 ## Infinite Paths 8 (PvP)
 CoolGuy [dropping serious knowledge](https://www.youtube.com/watch?v=-ZnUT63RgnE) here. "Currently they're the only frame I wouldn't take in to 5500 Comp. Use Rapid-fire frame." Here's what I put together from the video.
 
@@ -165,22 +163,26 @@ CoolGuy has a [terrific PvE review](https://www.youtube.com/watch?v=q6BPg-W8z9g)
 | **PvE - "Baseline 2"** | PLACEHOLDER/TODO |
 |  | (Any barrel) `and` (Any magazine) `and` (Grave Robber) `and` (Swashbuckler) `and` (Any masterwork) |
 ## Patron of Lost Causes (PvP)
-CoolGuy [goes ham](https://www.youtube.com/watch?v=GTcp4JQD1fI) on PoLC. I'm on controller so these rolls are all about maxing our stability. Fortunately we have a pretty broad set of useful rolls as we're looking for. Randy's has Rapid-Hit + Kill Clip, so this is a pretty low priority farm (and also why it's so specific).
+CoolGuy absolutely loves his Patron, and has a great [video review of it](https://www.youtube.com/watch?v=GTcp4JQD1fI). I'm on controller so these rolls are all about maxing our stability. Fortunately we have a pretty broad set of useful rolls. Randy's is in the same slot and has Rapid-Hit + Kill Clip already, so I'm not losing too much sleep about getting a perfect roll here.
 
 | Roll | Details |
 | :--- | :---        |
-| **PvP - "Super Picky"** | PLACEHOLDER/TODO |
+| **(PvP) Super Picky** | This is all about stability. Yes, Explosive Rounds and Vorpal don't increase stability but they would make this already great roll even better. |
 |  | (Smallbore `or` Corkscrew Rifling `or` Chambered Compensator `or` Polygonal Rifling `or` Fluted Barrel) `and` (Tactical Mag `or` Steady Rounds `or` Flared Magwell) `and` (Rapid Hit) `and` (Explosive Rounds `or` Elemental Capacitor `or` Vorpal) `and` (Stability MW) |
-| **PvP - "Super Picky (Minus Stability MW)"** | PLACEHOLDER/TODO |
-|  | (Smallbore `or` Corkscrew Rifling `or` Chambered Compensator `or` Polygonal Rifling `or` Fluted Barrel) `and` (Tactical Mag `or` Steady Rounds `or` Flared Magwell) `and` (Rapid Hit) `and` (Explosive Rounds `or` Elemental Capacitor `or` Vorpal) `and` (Any masterwork) |
-| **PvP - "Super Picky (Minus Barrels)"** | PLACEHOLDER/TODO |
+| **(PvP) Super Picky (Minus Barrels)** | Same as above, minus the barrels |
 |  | (Any barrel) `and` (Tactical Mag `or` Steady Rounds `or` Flared Magwell) `and` (Rapid Hit) `and` (Explosive Rounds `or` Elemental Capacitor `or` Vorpal) `and` (Stability MW) |
+| **(PvP) Super Picky (Minus Magazines)** | Same as above, minus the magazines |
+|  | (Smallbore `or` Corkscrew Rifling `or` Chambered Compensator `or` Polygonal Rifling `or` Fluted Barrel) `and` (Any magazine) `and` (Rapid Hit) `and` (Explosive Rounds `or` Elemental Capacitor `or` Vorpal) `and` (Stability MW) |
+| **(PvP) Super Picky (Minus Perks)** | Same as above, minus the perks |
+|  | (Smallbore `or` Corkscrew Rifling `or` Chambered Compensator `or` Polygonal Rifling `or` Fluted Barrel) `and` (Tactical Mag `or` Steady Rounds `or` Flared Magwell) `and` (Rapid Hit) `and` (Any perk) `and` (Stability MW) |
+| **(PvP) Super Picky (Minus Stability MW)** | Same as above, minus the masterwork |
+|  | (Smallbore `or` Corkscrew Rifling `or` Chambered Compensator `or` Polygonal Rifling `or` Fluted Barrel) `and` (Tactical Mag `or` Steady Rounds `or` Flared Magwell) `and` (Rapid Hit) `and` (Explosive Rounds `or` Elemental Capacitor `or` Vorpal) `and` (Any masterwork) |
 ## Patron of Lost Causes (PvE)
-CoolGuy [goes ham](https://www.youtube.com/watch?v=GTcp4JQD1fI) on PoLC. For PvE, it's the only scout (as of now) that can roll Vorpal and Osmosis. Not a super high priority for PvE and not a terribly hard set of perks to farm.
+This is the only Scout Rifle that can roll Vorpal or Osmosis. This isn't a high priority roll for you to go after and it's also pretty much the core components of the PvP rolls we have down already. With the S92 double-perk bonus, you should be able to get one of these pretty promptly :)
 
 | Roll | Details |
 | :--- | :---        |
-| **PvE - "Utility"** | PLACEHOLDER/TODO |
+| **(PvE) Utility** | PLACEHOLDER/TODO |
 |  | (Any barrel) `and` (Any magazine) `and` (Rapid Hit) `and` (Osmosis `or` Vorpal) `and` (Any masterwork) |
 ## Martyr's Retribution (PvP)
 This is for use from range, and Blast Radius doesn't do anything on Wave Frame launchers - simple wishlist here :) Why not demolitionist? You're not going to get final blows with this so much in PvP and with ALH, it will always be loaded. I'd rather have better handling or reload with Elemental Capacitor always-on.
