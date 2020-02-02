@@ -1,4 +1,4 @@
-This file was auto-generated at ` 2 Feb 2020 06:27:40`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at ` 2 Feb 2020 06:31:24`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -30,23 +30,23 @@ Ehroar focuses on Breachlight - ["This Sidearm Might Just Be The New Recluse"](h
 
 | Roll | Details |
 | :--- | :---        |
-| **Picky Gunslinger** | Ehroar: "Great for basic add clear. Once you get MKC going you can shred Majors and Ultras." We're going for max range with some extra perks and a Masterwork, but those are just icing on this shredding cake. |
+| **(PvE) Picky Gunslinger** | Ehroar: "Great for basic add clear. Once you get MKC going you can shred Majors and Ultras." We're going for max range with some extra perks and a Masterwork, but those are just icing on this shredding cake. |
 |  | (Any barrel) `and` (Accurized Rounds) `and` (Outlaw) `and` (Multikill Clip) `and` (Range MW) |
-| **Basic Gunslinger** | Same as above, minus the magazine and masterwork. |
+| **(PvE) Basic Gunslinger** | Same as above, minus the magazine and masterwork. |
 |  | (Any barrel) `and` (Any magazine) `and` (Outlaw) `and` (Multikill Clip) `and` (Any masterwork) |
-| **Picky Never-Reloading Devour-lock** | With Devour on, you'll have your grenade constantly and since throwing your grenade reloads the weapon, you can keep `Rampage x 3` up for a long time. |
+| **(PvE) Picky Never-Reloading Devour-lock** | With Devour on, you'll have your grenade constantly and since throwing your grenade reloads the weapon, you can keep `Rampage x 3` up for a long time. |
 |  | (Any barrel) `and` (Accurized Rounds) `and` (Demolitionist) `and` (Rampage `or` Multikill Clip) `and` (Range MW) |
-| **Picky Never-Reloading Devour-lock (Minus Magazines)** | Same as above, minus Accurized Rounds since it's so much harder to get than Range MW. |
+| **(PvE) Picky Never-Reloading Devour-lock (Minus Magazines)** | Same as above, minus Accurized Rounds since it's so much harder to get than Range MW. |
 |  | (Any barrel) `and` (Any magazine) `and` (Demolitionist) `and` (Rampage `or` Multikill Clip) `and` (Range MW) |
-| **Picky Never-Reloading Devour-lock (Minus Masterwork)** | Same as above, minus the Range MW |
+| **(PvE) Picky Never-Reloading Devour-lock (Minus Masterwork)** | Same as above, minus the Range MW |
 |  | (Any barrel) `and` (Accurized Rounds) `and` (Demolitionist) `and` (Rampage `or` Multikill Clip) `and` (Any masterwork) |
-| **Picky Rarely-Reloading Bezerker** | With Drop Mag and a Reload MW, you'll be able to keep Rampage up. You could also do this with |
+| **(PvE) Picky Rarely-Reloading Bezerker** | With Drop Mag and a Reload MW, you'll be able to keep Rampage up. You could also do this with |
 |  | (Any barrel) `and` (Drop Mag) `and` (Demolitionist) `and` (Rampage `or` Multikill Clip) `and` (Range MW) |
-| **Basic Rarely-Reloading Bezerker** | Same as above, minus the Masterwork |
+| **(PvE) Basic Rarely-Reloading Bezerker** | Same as above, minus the Masterwork |
 |  | (Any barrel) `and` (Drop Mag) `and` (Demolitionist) `and` (Rampage `or` Multikill Clip) `and` (Any masterwork) |
-| **Picky Master of the Void** | Pair with Devour-lock and Nezarac's sin and you'll be flush with health, grenades and ability energy. |
+| **(PvE) Picky Master of the Void** | Pair with Devour-lock and Nezarac's sin and you'll be flush with health, grenades and ability energy. |
 |  | (Any barrel) `and` (Accurized Rounds) `and` (Demolitionist) `and` (Osmosis) `and` (Range MW) |
-| **Basic Master of the Void** | Same as above with just the core perks. |
+| **(PvE) Basic Master of the Void** | Same as above with just the core perks. |
 |  | (Any barrel) `and` (Any magazine) `and` (Demolitionist) `and` (Osmosis) `and` (Any masterwork) |
 ## Traveler's Judgement 5 (PvP)
 CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZQdY4)! Paraphrased: There isn't a bad sight and it has little to no recoil. It can roll with Disruption Break which works in PvP (Slif: ?!). Rapid Hit and Tap the Trigger being available is a rare combo. Worth your time to farm a few of these. Keep in mind they don't benefit from from the S92 benefit of an additional perk in the last slot, so it can be a bit painful.
