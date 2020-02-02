@@ -1,4 +1,4 @@
-This file was auto-generated at ` 2 Feb 2020 04:39:34`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at ` 2 Feb 2020 04:41:12`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -8,9 +8,9 @@ Datto posted some in-depth comparisons between LitS and other DPS weapons [earli
 
 | Roll | Details |
 | :--- | :---        |
-| **(PvE) Super Picky** | < The full suite of perks to maximize DPS with LitS. |
+| **(PvE) Super Picky** | The full suite of perks to maximize DPS with LitS. |
 |  | (Any barrel) `and` (Accelerated Coils) `and` (Rapid Hit) `and` (Firing Line) `and` (Charge MW) |
-| **(PvE) Baseline** | < Really, any roll with these two perks is Good Enough(tm). |
+| **(PvE) Baseline** | Really, any roll with these two perks is Good Enough(tm). |
 |  | (Any barrel) `and` (Any magazine) `and` (Rapid Hit) `and` (Firing Line) `and` (Any masterwork) |
 ## Breachlight (PvP)
 CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE and PvP but focuses intensely on PvP. Some choice cuts: "I would try other rolls while I was reviewing this and I kept coming back to Vorpal." "Landing shots is more important than accuracy; shouldn't be worried about straight precision. More important to get the recoil straight up and down than it is to add stability because you have to control the stability after every burst anyway." I have to agree - Vorpal is pretty amazing in PvP and I did wish I had it several times. Without Vorpal or Quickdraw, it's just another two-burst sidearm, which is great but you don't need a wishlist for that :)
