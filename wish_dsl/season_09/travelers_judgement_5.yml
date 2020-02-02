@@ -67,15 +67,6 @@
       perks2: [Disruption Break]
       masterworks: []
     - 
-      name: (PvP) Picky Shieldbreaker (Minus magazines)
-      desc: >
-        Same as above, minus the magazines.
-      barrels: []
-      magazines: []
-      perks1: [Rapid Hit]
-      perks2: [Disruption Break]
-      masterworks: [Range MW]
-    - 
       name: (PvP) Baseline Shieldbreaker
       desc: >
         Just the facts.
@@ -90,17 +81,9 @@
   item_id: 4149758318
   lightgg: https://www.light.gg/db/items/4149758318/travelers-judgment-5/
   summary: >
-    CoolGuy [brings the heat](https://www.youtube.com/watch?v=J4HGIAZQdY4)!
+    These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=J4HGIAZQdY4)
+    above. Shieldbreaker, who knew?
   rolls:
-    - 
-      name: (PvE) Baseline
-      desc: >
-        Don't forget to throw a Dragonfly Spec mod on here.
-      barrels: []
-      magazines: []
-      perks1: [Rapid Hit, Feeding Frenzy]
-      perks2: [Dragonfly]
-      masterworks: []
     - 
       name: (PvE) Picky Shieldbreaker
       desc: >
@@ -113,12 +96,12 @@
       perks1: [Rapid Hit, Feeding Frenzy]
       perks2: [Disruption Break]
       masterworks: []
-    -
-      name: (PvE) Picky Shieldbreaker (Minus APR)
+    - 
+      name: (PvE) Baseline
       desc: >
-        Same as above; still terrific w/out APR.
+        Don't forget to throw a Dragonfly Spec mod on here.
       barrels: []
       magazines: []
       perks1: [Rapid Hit, Feeding Frenzy]
-      perks2: [Disruption Break]
+      perks2: [Dragonfly, Disruption Break]
       masterworks: []
