@@ -4,7 +4,7 @@ require 'yaml'
 desc "Format notes from our roll data"
 task :generate_thoughts do
   weapon_roll_groups = []
-  Dir['wish_dsl/**/*.yml'].each do |roll_file|
+  Dir['wish_dsl/**/*.yml'].sort.each do |roll_file|
     weapon_roll_groups += YAML.load_file(roll_file)
   end
 
