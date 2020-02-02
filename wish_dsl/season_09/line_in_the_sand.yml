@@ -3,14 +3,28 @@
   item_id: 946443267
   lightgg: https://www.light.gg/db/items/946443267/line-in-the-sand/
   summary: >
-    I only suggest this for completeness as it's the only Arc LFR in the power
-    slot). Make it your lowest priority farm. Check our [Ehroar's video](https://www.youtube.com/watch?v=AqI4PumNVC0) for more.
-    We're looking for Rapid Hit + Firing Line.
+    Datto posted some in-depth comparisons between LitS and other DPS weapons
+    [earlier in Season 9](https://www.youtube.com/watch?v=ltzDK0NWMgM). As we
+    approach the final third of Season 9, it's still not a great DPS choice,
+    but it "can compete with the likes of Sole Survivor" but who knows what
+    will happen in the future? Since it's so easy to farm and S92 gives you
+    an extra perk in the final slot, why not hang on to these?
   rolls:
     - 
-      name: PvE - "Baseline"
+      name: (PvE) Super Picky
+      desc: <
+        The full suite of perks to maximize DPS with LitS.
+      barrels: []
+      magazines: [Accelerated Coils]
+      perks1: [Rapid Hit]
+      perks2: [Firing Line]
+      masterworks: [Charge MW]
+    - 
+      name: (PvE) Baseline
+      desc: <
+        Really, any roll with these two perks is Good Enough(tm).
       barrels: []
       magazines: []
       perks1: [Rapid Hit]
       perks2: [Firing Line]
-      masterworks: []
+      masterworks: []   
