@@ -1,4 +1,5 @@
 require 'date'
+require 'set'
 require 'yaml'
 
 PERK_MAP = YAML.load_file('perk_ids.yml')
@@ -10,9 +11,15 @@ task :generate_wishlist do
   end
   
   File.open('wishlist.txt', 'w') do |wishlist|
-    wishlist.puts("// Wishlist generated at #{DateTime.now.strftime("%e %b %Y %H:%M:%S")}")
-    wishlist.puts('// Most recent version: https://github.com/rslifka/wishlist')
+    wishlist.puts("title: SlifSF's Wishlist (via https://github.com/rslifka/wishlist); Generated #{DateTime.now.strftime("%e %b %Y %H:%M:%S")}")
+    wishlist.puts("description: https://github.com/rslifka/wishlist/blob/master/thought_process.md")
+
+    # We'll generate our "Trash" list from here, once all the registered rolls
+    # are written to the wishlist
+    item_ids = Set.new
+
     weapon_roll_groups.each do |g|
+      item_ids.add(g['item_id'])
       g['rolls'].each do |r|
         wishlist.puts("//notes:#{r['name']}")
         perk_ids = []
@@ -21,6 +28,11 @@ task :generate_wishlist do
         end
         write_roll(wishlist, g['item_id'], perk_ids, [], 0)
       end
+    end
+
+    wishlist.puts('//notes:This roll did not match any roll in our wishlist. It could still be an amazing roll for you!')
+    item_ids.each do |item_id|
+      wishlist.puts("dimwishlist:item=-#{item_id}")
     end
   end
 end
