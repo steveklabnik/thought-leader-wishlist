@@ -72,7 +72,7 @@
     # - "Demo + MKC and Drop Mag if you're not playing Devour-lock"
     # - "Demo + Osmosis with as much range as you can get. With a lock, pair with Devour and Nezarac's sin."
     -
-      name: Picky Gunslinger
+      name: (PvE) Picky Gunslinger
       desc: >
         Ehroar: "Great for basic add clear. Once you get MKC going you can
         shred Majors and Ultras." We're going for max range with some extra
@@ -84,7 +84,7 @@
       perks2: [Multikill Clip]
       masterworks: [Range MW]
     -
-      name: Basic Gunslinger
+      name: (PvE) Basic Gunslinger
       desc: Same as above, minus the magazine and masterwork.
       barrels: []
       magazines: []
@@ -92,7 +92,7 @@
       perks2: [Multikill Clip]
       masterworks: []
     - 
-      name: Picky Never-Reloading Devour-lock
+      name: (PvE) Picky Never-Reloading Devour-lock
       desc: >
         With Devour on, you'll have your grenade constantly and since throwing
         your grenade reloads the weapon, you can keep `Rampage x 3` up for a
@@ -103,7 +103,7 @@
       perks2: [Rampage, Multikill Clip]
       masterworks: [Range MW]
     -
-      name: Picky Never-Reloading Devour-lock (Minus Magazines)
+      name: (PvE) Picky Never-Reloading Devour-lock (Minus Magazines)
       desc: >
         Same as above, minus Accurized Rounds since it's so much harder to get
         than Range MW.
@@ -113,7 +113,7 @@
       perks2: [Rampage, Multikill Clip]
       masterworks: [Range MW]
     -
-      name: Picky Never-Reloading Devour-lock (Minus Masterwork)
+      name: (PvE) Picky Never-Reloading Devour-lock (Minus Masterwork)
       desc: Same as above, minus the Range MW
       barrels: []
       magazines: [Accurized Rounds]
@@ -121,7 +121,7 @@
       perks2: [Rampage, Multikill Clip]
       masterworks: []
     - 
-      name: Picky Rarely-Reloading Bezerker
+      name: (PvE) Picky Rarely-Reloading Bezerker
       desc: >
         With Drop Mag and a Reload MW, you'll be able to keep Rampage up. You
         could also do this with 
@@ -131,7 +131,7 @@
       perks2: [Rampage, Multikill Clip]
       masterworks: [Range MW]
     - 
-      name: Basic Rarely-Reloading Bezerker
+      name: (PvE) Basic Rarely-Reloading Bezerker
       desc: Same as above, minus the Masterwork 
       barrels: []
       magazines: [Drop Mag]
@@ -139,7 +139,7 @@
       perks2: [Rampage, Multikill Clip]
       masterworks: []
     - 
-      name: Picky Master of the Void
+      name: (PvE) Picky Master of the Void
       desc: >
         Pair with Devour-lock and Nezarac's sin and you'll be flush with health,
         grenades and ability energy.
@@ -149,7 +149,7 @@
       perks2: [Osmosis]
       masterworks: [Range MW]
     - 
-      name: Basic Master of the Void
+      name: (PvE) Basic Master of the Void
       desc: Same as above with just the core perks.
       barrels: []
       magazines: []
