@@ -17,27 +17,23 @@ These rolls are applied in order for each weapon, so the ordering is important. 
 This also means that, if your PvP and PvE rolls are similar (they usually aren't) that there's a chance a match is flagged and commented as a PvP roll in the DIM "Notes" section, when it could do double-duty. That's just how the wishlist feature currently works, so use your own discretion.
 PREAMBLE
     TRAITS = [
-      {:key => 'barrels', :fallback => '(Any barrel)'},
-      {:key => 'magazines', :fallback => '(Any magazine)'},
-      {:key => 'perks1', :fallback => '(Any perk)'},
-      {:key => 'perks2', :fallback => '(Any perk)'},
-      {:key => 'masterworks', :fallback => '(Any masterwork)'},
+      {:key => 'barrels',     :label => 'Barrels :', :fallback => '(Any barrel)'},
+      {:key => 'magazines',   :label => 'Mags    :', :fallback => '(Any magazine)'},
+      {:key => 'perks1',      :label => 'Perks 1 :', :fallback => '(Any perk)'},
+      {:key => 'perks2',      :label => 'Perks 2 :', :fallback => '(Any perk)'},
+      {:key => 'masterworks', :label => 'MWorks  :', :fallback => '(Any masterwork)'},
     ]
     weapon_roll_groups.each do |g|
       thoughts.puts("## #{g['name']}")
       thoughts.puts(g['summary'])
-      thoughts.puts # Required for the following table to render properly
-      thoughts.puts("| Roll | Details |")
-      thoughts.puts("| :--- | :---        |")
+
       g['rolls'].each do |r|
-        # Until we have a chance to go back and update all the rolls
-        r['desc'] = 'PLACEHOLDER/TODO' unless r['desc']
-        perk_descriptions = []
+        thoughts.puts("* **#{r['name']}**: #{r['desc'].strip}")
+        thoughts.puts('  ```')
         TRAITS.each do |t|
-          perk_descriptions << (r[t[:key]].empty? ? t[:fallback] : '(' + r[t[:key]].join(' `or` ') + ')')  
+          thoughts.puts("  #{t[:label]} #{(r[t[:key]].empty? ? t[:fallback] : r[t[:key]].join(', '))}")
         end
-        thoughts.puts("| **#{r['name']}** | #{r['desc'].strip} |")
-        thoughts.puts("|  | #{perk_descriptions.join(' `and` ')} |")
+        thoughts.puts('  ```')
       end
     end
   end
