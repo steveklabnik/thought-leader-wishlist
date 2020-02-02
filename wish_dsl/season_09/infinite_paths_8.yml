@@ -3,16 +3,32 @@
   item_id: 3233390913
   lightgg: https://www.light.gg/db/items/3233390913/infinite-paths-8/
   summary: >
-    CoolGuy [dropping serious knowledge](https://www.youtube.com/watch?v=-ZnUT63RgnE)
-    here. "Currently they're the only frame I wouldn't take in to 5500 Comp. Use
-    Rapid-fire frame." Here's what I put together from the video.
+    CoolGuy reviews IP8 for both PvP and PvE, which is where these rolls
+    originate. He discusses the State of the Union with respect to these frames
+    [timestamped here](https://www.youtube.com/watch?v=-ZnUT63RgnE&feature=youtu.be&t=1023)
+    and it makes for super interesting listening. TL;DR - Of all the Pulse
+    Rifle frames, the lightweights require you to be the most precise yet reward
+    you with the second slowest TTK.
   rolls:
     - 
-      name: PvP - "Picky"
-      barrels: [Arrowhead Brake]
-      magazines: [Steady Rounds]
+      name: (PvP) Picky
+      desc: >
+        This roll focuses on addressing recoil and stability. Because it needs
+        so much help, there isn't much room left for neat damage perks :)
+      barrels: [Chambered Compensator]
+      magazines: [Accurized Rounds]
       perks1: [Moving Target]
-      perks2: [Zen Moment, Swashbuckler]
+      perks2: [Zen Moment]
+      masterworks: [Stability MW]
+    - 
+      name: (PvP) Long-Distance Melee'r
+      desc: >
+        Useful for those subclasses with ranged melees. This is a fringe roll,
+        one that I wouldn't throw away but not one that I'm racing to collect.
+      barrels: [Chambered Compensator]
+      magazines: [Accurized Rounds]
+      perks1: [Moving Target]
+      perks2: [Swashbuckler]
       masterworks: [Stability MW]
 
 - 
@@ -20,18 +36,29 @@
   item_id: 3233390913
   lightgg: https://www.light.gg/db/items/3233390913/infinite-paths-8/
   summary: >
-    CoolGuy [dropping serious knowledge](https://www.youtube.com/watch?v=-ZnUT63RgnE)
-    here. "Great for mid and low-tier adds."
+    Here we're featuring a few rolls from the CoolGuy [video](https://www.youtube.com/watch?v=-ZnUT63RgnE)
+    mentioned above. I would put these pretty low on my list but if you're a
+    fan of the aesthetic of the Osiris weapons, why not grab a few of these
+    while they're still available?
   rolls:
     - 
-      name: PvE - "Baseline". Don't forget Dragonfly Spec!
+      name: (PvE) Explosive Dragon
+      desc: >
+        This is the only weapon in the game that has this perk combo available!
+        Each enemy that dies to Dragonfly (don't forget Dragonfly Spec!) will
+        count as an additional kill for Demolitionist. It does work. Probably
+        not your best Energy weapon but a fun one for shredding red bars. I
+        would collect it and store it.
       barrels: []
       magazines: []
       perks1: [Demolitionist]
       perks2: [Dragonfly]
       masterworks: []
     - 
-      name: PvE - "Baseline"
+      name: (PvE) Punchy 👊
+      desc: >
+        Classic punching. Not sure why you'd be punching enemies with your
+        Pulse Rifle equipped but I'm not the boss of you. 👊PUNCH AWAY!👊
       barrels: []
       magazines: []
       perks1: [Grave Robber]
