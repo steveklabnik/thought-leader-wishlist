@@ -7,37 +7,52 @@
     Paraphrased: There isn't a bad sight and it has little to no recoil. It can
     roll with Disruption Break which works in PvP (Slif: ?!). Rapid Hit and Tap
     the Trigger being available is a rare combo. Worth your time to farm a few
-    of these. Keep in mind they don't benefit from from the S92 benefit of an
-    additional perk in the last slot, so it can be a bit painful.
+    of these. Keep in mind they don't benefit from from the Season Pass L92 
+    additional perk in the last slot, so it can be a bit painful. Recently,
+    True Vanguard [released a video](https://www.youtube.com/watch?v=9QXBw6NFi08)
+    and that reminded me to get a little more specific on the picky rolls. I've
+    included all but the worst two sights that majorly ding Stability and
+    Handling.
   rolls:
     - 
-      name: (PvP) Picky Tapping
+      name: (PvP) Super Pickiest of Tappers
       desc: >
-        Rapid Hit makes it incredibly stable and Tap procs on every other burst.
-        Going for max range after that.
-      barrels: []
+        Rapid Hit makes it incredibly stable and TtT procs on every other burst.
+        Going for max range after that. This is going to be an incredibly hard
+        roll to get, so buy a lottery ticket if it lands for you.
+      barrels: [Control SAS]
       magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
       perks1: [Rapid Hit]
       perks2: [Tap the Trigger]
       masterworks: [Range MW]
     - 
-      name: (PvP) Picky Tapping (Minus MW)
+      name: (PvP) Super Pickiest of Tappers (Relaxed Sights)
       desc: >
-        Same as above, minus the Range MW.
+        Same as above, with all but the worst sights allowed. This is an
+        absolutely phenomenal roll and also pretty darn hard to get.
+      barrels: [Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS]
+      magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
+      perks1: [Rapid Hit]
+      perks2: [Tap the Trigger]
+      masterworks: [Range MW]
+    - 
+      name: (PvP) Picky Tapper (Minus Mags)
+      desc: >
+        Same as above, minus the Range MW and mags; still amazing.
+      barrels: [Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS]
+      magazines: []
+      perks1: [Rapid Hit]
+      perks2: [Tap the Trigger]
+      masterworks: []
+    - 
+      name: (PvP) Picky Tapper (Minus Sights)
+      desc: >
+        Same as above, minus the Range MW and sights; still amazing.
       barrels: []
       magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
       perks1: [Rapid Hit]
       perks2: [Tap the Trigger]
       masterworks: []
-    - 
-      name: (PvP) Picky Tapping (Minus magazines)
-      desc: >
-        Same as above, minus the magazines.
-      barrels: []
-      magazines: []
-      perks1: [Rapid Hit]
-      perks2: [Tap the Trigger]
-      masterworks: [Range MW]
     - 
       name: (PvP) Baseline Tapping
       desc: >
@@ -48,19 +63,38 @@
       perks2: [Tap the Trigger]
       masterworks: []      
     - 
-      name: (PvP) Picky Shieldbreaker
+      name: (PvP) Super Picky Shieldbreaker
       desc: >
         Disruption Break works in PvP apparently!? Same set of rolls as above,
         but pairing with Disruption Break instead of Tap the Trigger.
-      barrels: []
+      barrels: [Control SAS]
       magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
       perks1: [Rapid Hit]
       perks2: [Disruption Break]
       masterworks: [Range MW]
     - 
-      name: (PvP) Picky Shieldbreaker (Minus MW)
+      name: (PvP) Super Picky Shieldbreaker (Relaxed Sights)
       desc: >
-        Same as above, minus the Range MW.
+        Same as above, with all but the worst sights allowed. This is an
+        absolutely phenomenal roll and also pretty darn hard to get.
+      barrels: [Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS]
+      magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
+      perks1: [Rapid Hit]
+      perks2: [Disruption Break]
+      masterworks: [Range MW]
+    - 
+      name: (PvP) Picky Shieldbreaker (Minus Mags)
+      desc: >
+        Same as above, minus the Range MW and mags; still amazing.
+      barrels: [Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS]
+      magazines: []
+      perks1: [Rapid Hit]
+      perks2: [Disruption Break]
+      masterworks: []
+    - 
+      name: (PvP) Picky Shieldbreaker (Minus Sights)
+      desc: >
+        Same as above, minus the Range MW and sights; still amazing.
       barrels: []
       magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
       perks1: [Rapid Hit]
@@ -74,7 +108,7 @@
       magazines: []
       perks1: [Rapid Hit]
       perks2: [Disruption Break]
-      masterworks: []
+      masterworks: []      
     
 - 
   name: Traveler's Judgement 5 (PvE)
@@ -87,10 +121,10 @@
     - 
       name: (PvE) Picky Shieldbreaker
       desc: >
-        Don't Sleep on Disruption Break! CoolGuy makes a great point: we might see a "season of the sidearm" where
-        artifact perks can be applied to sidearm. That could mean breaking
-        Barriers with Disruption Break, and not many weapons can roll with that
-        perk!
+        Don't Sleep on Disruption Break! CoolGuy makes a great point: we might
+        see a "season of the sidearm" where artifact perks can be applied to
+        sidearms. That could mean breaking Barriers with Disruption Break, and
+        not many weapons can roll with that perk!
       barrels: []
       magazines: [Armor-Piercing Rounds]
       perks1: [Rapid Hit, Feeding Frenzy]
@@ -99,7 +133,8 @@
     - 
       name: (PvE) Baseline
       desc: >
-        Don't forget to throw a Dragonfly Spec mod on here.
+        If you're using Dragonfly, don't forget to throw a Dragonfly Spec mod
+        on here.
       barrels: []
       magazines: []
       perks1: [Rapid Hit, Feeding Frenzy]
