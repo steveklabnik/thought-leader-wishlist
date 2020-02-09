@@ -26,17 +26,34 @@
       perks2: [Tap the Trigger]
       masterworks: [Range MW]
     - 
+      name: (PvP) Super Pickiest of Tappers (Minus MW)
+      desc: >
+        Same as above, minus the Masterwork.
+      barrels: [Control SAS]
+      magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
+      perks1: [Rapid Hit]
+      perks2: [Tap the Trigger]
+      masterworks: []
+    - 
       name: (PvP) Super Pickiest of Tappers (Relaxed Sights)
       desc: >
-        Same as above, with all but the worst sights allowed. This is an
-        absolutely phenomenal roll and also pretty darn hard to get.
+        Same as above, with all but the worst sights allowed.
       barrels: [Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS]
       magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
       perks1: [Rapid Hit]
       perks2: [Tap the Trigger]
       masterworks: [Range MW]
     - 
-      name: (PvP) Picky Tapper (Minus Mags)
+      name: (PvP) Super Pickiest of Tappers (Relaxed Sights, Minus MW)
+      desc: >
+        Same as above, minus the Masterwork.
+      barrels: [Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS]
+      magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
+      perks1: [Rapid Hit]
+      perks2: [Tap the Trigger]
+      masterworks: []      
+    - 
+      name: (PvP) Picky Tapper (Minus Mags, MW)
       desc: >
         Same as above, minus the Range MW and mags; still amazing.
       barrels: [Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS]
@@ -45,7 +62,7 @@
       perks2: [Tap the Trigger]
       masterworks: []
     - 
-      name: (PvP) Picky Tapper (Minus Sights)
+      name: (PvP) Picky Tapper (Minus Sights, MW)
       desc: >
         Same as above, minus the Range MW and sights; still amazing.
       barrels: []
@@ -73,6 +90,15 @@
       perks2: [Disruption Break]
       masterworks: [Range MW]
     - 
+      name: (PvP) Super Picky Shieldbreaker (Minus MW)
+      desc: >
+        Same as above, minus the Masterwork.
+      barrels: [Control SAS]
+      magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
+      perks1: [Rapid Hit]
+      perks2: [Disruption Break]
+      masterworks: []
+    - 
       name: (PvP) Super Picky Shieldbreaker (Relaxed Sights)
       desc: >
         Same as above, with all but the worst sights allowed. This is an
@@ -82,6 +108,16 @@
       perks1: [Rapid Hit]
       perks2: [Disruption Break]
       masterworks: [Range MW]
+    - 
+      name: (PvP) Super Picky Shieldbreaker (Relaxed Sights, Minus MW)
+      desc: >
+        Same as above, with all but the worst sights allowed. This is an
+        absolutely phenomenal roll and also pretty darn hard to get.
+      barrels: [Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS]
+      magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
+      perks1: [Rapid Hit]
+      perks2: [Disruption Break]
+      masterworks: []      
     - 
       name: (PvP) Picky Shieldbreaker (Minus Mags)
       desc: >
