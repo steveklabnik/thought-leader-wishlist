@@ -1,4 +1,4 @@
-This file was auto-generated at ` 9 Feb 2020 00:40:13`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at ` 9 Feb 2020 00:52:43`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -479,7 +479,15 @@ CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZ
   Perks 2 ( 16%): Tap the Trigger
   MWorks  ( 25%): Range MW
   ```
-* **(PvP) Super Pickiest of Tappers (Relaxed Sights) (0.4% chance)**: Same as above, with all but the worst sights allowed. This is an absolutely phenomenal roll and also pretty darn hard to get.
+* **(PvP) Super Pickiest of Tappers (Minus MW) (0.6% chance)**: Same as above, minus the Masterwork.
+  ```
+  Barrels ( 33%): Control SAS
+  Mags    ( 64%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds
+  Perks 1 ( 16%): Rapid Hit
+  Perks 2 ( 16%): Tap the Trigger
+  MWorks  (100%): (Any masterwork)
+  ```
+* **(PvP) Super Pickiest of Tappers (Relaxed Sights) (0.4% chance)**: Same as above, with all but the worst sights allowed.
   ```
   Barrels ( 93%): Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS
   Mags    ( 64%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds
@@ -487,7 +495,15 @@ CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZ
   Perks 2 ( 16%): Tap the Trigger
   MWorks  ( 25%): Range MW
   ```
-* **(PvP) Picky Tapper (Minus Mags) (2.6% chance)**: Same as above, minus the Range MW and mags; still amazing.
+* **(PvP) Super Pickiest of Tappers (Relaxed Sights, Minus MW) (1.7% chance)**: Same as above, minus the Masterwork.
+  ```
+  Barrels ( 93%): Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS
+  Mags    ( 64%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds
+  Perks 1 ( 16%): Rapid Hit
+  Perks 2 ( 16%): Tap the Trigger
+  MWorks  (100%): (Any masterwork)
+  ```
+* **(PvP) Picky Tapper (Minus Mags, MW) (2.6% chance)**: Same as above, minus the Range MW and mags; still amazing.
   ```
   Barrels ( 93%): Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS
   Mags    (100%): (Any magazine)
@@ -495,7 +511,7 @@ CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZ
   Perks 2 ( 16%): Tap the Trigger
   MWorks  (100%): (Any masterwork)
   ```
-* **(PvP) Picky Tapper (Minus Sights) (1.8% chance)**: Same as above, minus the Range MW and sights; still amazing.
+* **(PvP) Picky Tapper (Minus Sights, MW) (1.8% chance)**: Same as above, minus the Range MW and sights; still amazing.
   ```
   Barrels (100%): (Any barrel)
   Mags    ( 64%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds
@@ -519,6 +535,14 @@ CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZ
   Perks 2 ( 16%): Disruption Break
   MWorks  ( 25%): Range MW
   ```
+* **(PvP) Super Picky Shieldbreaker (Minus MW) (0.6% chance)**: Same as above, minus the Masterwork.
+  ```
+  Barrels ( 33%): Control SAS
+  Mags    ( 64%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds
+  Perks 1 ( 16%): Rapid Hit
+  Perks 2 ( 16%): Disruption Break
+  MWorks  (100%): (Any masterwork)
+  ```
 * **(PvP) Super Picky Shieldbreaker (Relaxed Sights) (0.4% chance)**: Same as above, with all but the worst sights allowed. This is an absolutely phenomenal roll and also pretty darn hard to get.
   ```
   Barrels ( 93%): Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS
@@ -526,6 +550,14 @@ CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZ
   Perks 1 ( 16%): Rapid Hit
   Perks 2 ( 16%): Disruption Break
   MWorks  ( 25%): Range MW
+  ```
+* **(PvP) Super Picky Shieldbreaker (Relaxed Sights, Minus MW) (1.7% chance)**: Same as above, with all but the worst sights allowed. This is an absolutely phenomenal roll and also pretty darn hard to get.
+  ```
+  Barrels ( 93%): Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS
+  Mags    ( 64%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds
+  Perks 1 ( 16%): Rapid Hit
+  Perks 2 ( 16%): Disruption Break
+  MWorks  (100%): (Any masterwork)
   ```
 * **(PvP) Picky Shieldbreaker (Minus Mags) (2.6% chance)**: Same as above, minus the Range MW and mags; still amazing.
   ```
