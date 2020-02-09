@@ -1,4 +1,4 @@
-This file was auto-generated at ` 9 Feb 2020 00:24:00`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at ` 9 Feb 2020 00:40:13`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -470,30 +470,38 @@ There are two long form Steelfeather reviews kicking around. CoolGuy does a [ter
   MWorks  (100%): (Any masterwork)
   ```
 ## Traveler's Judgement 5 (PvP)
-CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZQdY4)! Paraphrased: There isn't a bad sight and it has little to no recoil. It can roll with Disruption Break which works in PvP (Slif: ?!). Rapid Hit and Tap the Trigger being available is a rare combo. Worth your time to farm a few of these. Keep in mind they don't benefit from from the S92 benefit of an additional perk in the last slot, so it can be a bit painful.
-* **(PvP) Picky Tapping (0.4% chance)**: Rapid Hit makes it incredibly stable and Tap procs on every other burst. Going for max range after that.
+CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZQdY4)! Paraphrased: There isn't a bad sight and it has little to no recoil. It can roll with Disruption Break which works in PvP (Slif: ?!). Rapid Hit and Tap the Trigger being available is a rare combo. Worth your time to farm a few of these. Keep in mind they don't benefit from from the Season Pass L92  additional perk in the last slot, so it can be a bit painful. Recently, True Vanguard [released a video](https://www.youtube.com/watch?v=9QXBw6NFi08) and that reminded me to get a little more specific on the picky rolls. I've included all but the worst two sights that majorly ding Stability and Handling.
+* **(PvP) Super Pickiest of Tappers (0.1% chance)**: Rapid Hit makes it incredibly stable and TtT procs on every other burst. Going for max range after that. This is going to be an incredibly hard roll to get, so buy a lottery ticket if it lands for you.
   ```
-  Barrels (100%): (Any barrel)
+  Barrels ( 33%): Control SAS
   Mags    ( 64%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds
   Perks 1 ( 16%): Rapid Hit
   Perks 2 ( 16%): Tap the Trigger
   MWorks  ( 25%): Range MW
   ```
-* **(PvP) Picky Tapping (Minus MW) (1.8% chance)**: Same as above, minus the Range MW.
+* **(PvP) Super Pickiest of Tappers (Relaxed Sights) (0.4% chance)**: Same as above, with all but the worst sights allowed. This is an absolutely phenomenal roll and also pretty darn hard to get.
+  ```
+  Barrels ( 93%): Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS
+  Mags    ( 64%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds
+  Perks 1 ( 16%): Rapid Hit
+  Perks 2 ( 16%): Tap the Trigger
+  MWorks  ( 25%): Range MW
+  ```
+* **(PvP) Picky Tapper (Minus Mags) (2.6% chance)**: Same as above, minus the Range MW and mags; still amazing.
+  ```
+  Barrels ( 93%): Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS
+  Mags    (100%): (Any magazine)
+  Perks 1 ( 16%): Rapid Hit
+  Perks 2 ( 16%): Tap the Trigger
+  MWorks  (100%): (Any masterwork)
+  ```
+* **(PvP) Picky Tapper (Minus Sights) (1.8% chance)**: Same as above, minus the Range MW and sights; still amazing.
   ```
   Barrels (100%): (Any barrel)
   Mags    ( 64%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds
   Perks 1 ( 16%): Rapid Hit
   Perks 2 ( 16%): Tap the Trigger
   MWorks  (100%): (Any masterwork)
-  ```
-* **(PvP) Picky Tapping (Minus magazines) (0.7% chance)**: Same as above, minus the magazines.
-  ```
-  Barrels (100%): (Any barrel)
-  Mags    (100%): (Any magazine)
-  Perks 1 ( 16%): Rapid Hit
-  Perks 2 ( 16%): Tap the Trigger
-  MWorks  ( 25%): Range MW
   ```
 * **(PvP) Baseline Tapping (2.8% chance)**: Just the facts.
   ```
@@ -503,15 +511,31 @@ CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZ
   Perks 2 ( 16%): Tap the Trigger
   MWorks  (100%): (Any masterwork)
   ```
-* **(PvP) Picky Shieldbreaker (0.4% chance)**: Disruption Break works in PvP apparently!? Same set of rolls as above, but pairing with Disruption Break instead of Tap the Trigger.
+* **(PvP) Super Picky Shieldbreaker (0.1% chance)**: Disruption Break works in PvP apparently!? Same set of rolls as above, but pairing with Disruption Break instead of Tap the Trigger.
   ```
-  Barrels (100%): (Any barrel)
+  Barrels ( 33%): Control SAS
   Mags    ( 64%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds
   Perks 1 ( 16%): Rapid Hit
   Perks 2 ( 16%): Disruption Break
   MWorks  ( 25%): Range MW
   ```
-* **(PvP) Picky Shieldbreaker (Minus MW) (1.8% chance)**: Same as above, minus the Range MW.
+* **(PvP) Super Picky Shieldbreaker (Relaxed Sights) (0.4% chance)**: Same as above, with all but the worst sights allowed. This is an absolutely phenomenal roll and also pretty darn hard to get.
+  ```
+  Barrels ( 93%): Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS
+  Mags    ( 64%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds
+  Perks 1 ( 16%): Rapid Hit
+  Perks 2 ( 16%): Disruption Break
+  MWorks  ( 25%): Range MW
+  ```
+* **(PvP) Picky Shieldbreaker (Minus Mags) (2.6% chance)**: Same as above, minus the Range MW and mags; still amazing.
+  ```
+  Barrels ( 93%): Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS
+  Mags    (100%): (Any magazine)
+  Perks 1 ( 16%): Rapid Hit
+  Perks 2 ( 16%): Disruption Break
+  MWorks  (100%): (Any masterwork)
+  ```
+* **(PvP) Picky Shieldbreaker (Minus Sights) (1.8% chance)**: Same as above, minus the Range MW and sights; still amazing.
   ```
   Barrels (100%): (Any barrel)
   Mags    ( 64%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds
@@ -529,7 +553,7 @@ CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZ
   ```
 ## Traveler's Judgement 5 (PvE)
 These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=J4HGIAZQdY4) above. Shieldbreaker, who knew?
-* **(PvE) Picky Shieldbreaker (1.4% chance)**: Don't Sleep on Disruption Break! CoolGuy makes a great point: we might see a "season of the sidearm" where artifact perks can be applied to sidearm. That could mean breaking Barriers with Disruption Break, and not many weapons can roll with that perk!
+* **(PvE) Picky Shieldbreaker (1.4% chance)**: Don't Sleep on Disruption Break! CoolGuy makes a great point: we might see a "season of the sidearm" where artifact perks can be applied to sidearms. That could mean breaking Barriers with Disruption Break, and not many weapons can roll with that perk!
   ```
   Barrels (100%): (Any barrel)
   Mags    ( 25%): Armor-Piercing Rounds
@@ -537,7 +561,7 @@ These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=
   Perks 2 ( 16%): Disruption Break
   MWorks  (100%): (Any masterwork)
   ```
-* **(PvE) Baseline (11.1% chance)**: Don't forget to throw a Dragonfly Spec mod on here.
+* **(PvE) Baseline (11.1% chance)**: If you're using Dragonfly, don't forget to throw a Dragonfly Spec mod on here.
   ```
   Barrels (100%): (Any barrel)
   Mags    (100%): (Any magazine)
