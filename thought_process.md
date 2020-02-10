@@ -1,4 +1,4 @@
-This file was auto-generated at ` 9 Feb 2020 00:52:43`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at `10 Feb 2020 06:10:11`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -637,3 +637,71 @@ These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=
   ```
 ## Black Scorpion-4sr (PvE)
 What, no PvE rolls?! Nope. Being rapid-fire/low impact and having none of the spicy new damage perks (Multikill Clip, Swashbuckler, Vorpal, etc.) it's really not worth taking in to PvE. It's also perked weirdly, with Outlaw and Rampage being in the same slot, among others. There are so many amazing Energy weapons for PvE, it's hard to imagine this ever being top of your list. Go enjoy farming something else :)
+## Bygones (PvP)
+You don't actually need all that much for a "great" Bygones roll because, well, it's just a solid weapon at its baseline. Throw on a Counterbalance mod to bring the recoil to `84` and you're golden. You can see [Fallout's video](https://www.youtube.com/watch?v=atkJYoL6E1U) for reference. Why Bygones? It's the only 390 RPM kinetic Pulse Rifle and the only other randomly rolled one apart from Last Perdition and the raid pulses. If this archetype gets buffed, it will be nice to have one in your vault! Here's what's forming the foundation of these rolls: (1) Strongly consider using a single +10 Recoil barrel perk and a Counterbalance mod (+15) to get the Recoil to 94 which is basically straight up and down. Arrowhead Brake will let us do this without a mod but you're sacrificing the stability and range benefits of those other barrels (2) Handling is solid, among the highest of pulse rifles, so we're not too concerned about raising this (3) With [recent findings](https://www.youtube.com/watch?v=atkJYoL6E1U) that Slideshot activates for two seconds (some of which you lose while the slide completes), I'm tossing it out for a great roll here. With a long-range, precision weapon like a pulse rifle, you're going to maybe get one burst off before Slideshot dissipates. If you want to see a Stability-focused roll do work, check out [ZkMushroom](https://www.youtube.com/watch?v=VXmwYjWW4TE). He's using Corkscrew + Ricochet + Stability MW. I am requiring Kill Clip because I don't believe the raw kill potential with no upside for stringing makes this worth keeping. There are far too many other primaries with great follow-up perks like MKC and Swashbuckler kicking around nowadays.
+* **(PvP) Absurdly Picky (0.4% chance)**: Going for maximum Stability here; at least a little bit in every column. If you get this roll, buy both of us a lottery ticket. "But Slif, Range improves accuracy and damage falloff" Check out the ZkMushroom video above and tell me if you think the lack of Range-boosting perks handicaps Bygones here.
+  ```
+  Barrels ( 83%): Fluted Barrel, Smallbore, Corkscrew Rifling, Polygonal Rifling, Chambered Compensator
+  Mags    ( 46%): Ricochet Rounds, Flared Magwell
+  Perks 1 ( 20%): Kill Clip
+  Perks 2 ( 20%): Outlaw
+  MWorks  ( 25%): Stability MW
+  ```
+* **(PvP) Absurdly Picky (Relaxed MW, Outlaw) (7.7% chance)**: Same as the above but not requiring any specific Masterwork or final column perk.
+  ```
+  Barrels ( 83%): Fluted Barrel, Smallbore, Corkscrew Rifling, Polygonal Rifling, Chambered Compensator
+  Mags    ( 46%): Ricochet Rounds, Flared Magwell
+  Perks 1 ( 20%): Kill Clip
+  Perks 2 (100%): (Any perk)
+  MWorks  (100%): (Any masterwork)
+  ```
+* **(PvP) Super Picky Range/Stability Mix (1.7% chance)**: Any barrel and magazine perk that helps us with Range or Stability will do the trick here.
+  ```
+  Barrels ( 97%): Extended Barrel, Fluted Barrel, Smallbore, Corkscrew Rifling, Polygonal Rifling, Chambered Compensator, Hammer-Forged Rifling
+  Mags    ( 89%): High-Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag, Armor-Piercing Rounds
+  Perks 1 ( 20%): Kill Clip
+  Perks 2 ( 20%): Outlaw
+  MWorks  ( 50%): Range MW, Stability MW
+  ```
+* **(PvP) Super Picky Range/Stability Mix (Relaxes MW, Outlaw) (17.4% chance)**: Same as the above but not requiring any specific Masterwork or final column perk.
+  ```
+  Barrels ( 97%): Extended Barrel, Fluted Barrel, Smallbore, Corkscrew Rifling, Polygonal Rifling, Chambered Compensator, Hammer-Forged Rifling
+  Mags    ( 89%): High-Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag, Armor-Piercing Rounds
+  Perks 1 ( 20%): Kill Clip
+  Perks 2 (100%): (Any perk)
+  MWorks  (100%): (Any masterwork)
+  ```
+* **(PvP) CammyCakes 2-tapper (3.5% chance)**: This is really just for grins. I haven't played with it myself but check out [Cammy's video](https://www.youtube.com/watch?v=CBfOa69GjGU) for more. The idea is that you empty the mag and use Slideshot to reload it, so that you can 2-tap most guardians. Completely gimmicky and will absolutely shock anyone you run into :)
+  ```
+  Barrels ( 97%): Extended Barrel, Fluted Barrel, Smallbore, Corkscrew Rifling, Polygonal Rifling, Chambered Compensator, Hammer-Forged Rifling
+  Mags    ( 89%): High-Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag, Armor-Piercing Rounds
+  Perks 1 ( 20%): High-Impact Reserves
+  Perks 2 ( 20%): Slideshot
+  MWorks  (100%): (Any masterwork)
+  ```
+## Bygones (PvE)
+The perk pool for Bygones is from 2018, so we lose out on some of the barn burners like Multikill Clip, Swashbuckler and Vorpal. Why farm for one? Well, it's the only 390 RPM kinetic Pulse Rifle and the only other randomly rolled one apart from Last Perdition and the raid pulses. If this archetype gets buffed, it will be nice to have one in your vault. We're going for sustained DPS and maximum range falloff. Stability is already high enough and PvE enemies don't move around as much so you can more easily control recoil. You can always throw on a Counterbalance mod on if you find it kicks too much. If you end up with a Rampage roll, don't forget to put a Rampage Spec mod on it!
+* **(PvE) Super Picky (1.1% chance)**: Standard DPS roll from years' past, and as per usual with PvE rolls, as much damage as you can get then as much range as you can get.
+  ```
+  Barrels ( 72%): Smallbore, Corkscrew Rifling, Full Bore, Hammer-Forged Rifling
+  Mags    ( 78%): High-Caliber Rounds, Ricochet Rounds, Light Mag, Armor-Piercing Rounds
+  Perks 1 ( 20%): Outlaw
+  Perks 2 ( 40%): Kill Clip, Rampage
+  MWorks  ( 25%): Range MW
+  ```
+* **(PvE) Super Picky (Minus MW) (4.5% chance)**: Same as above, minus the masterwork.
+  ```
+  Barrels ( 72%): Smallbore, Corkscrew Rifling, Full Bore, Hammer-Forged Rifling
+  Mags    ( 78%): High-Caliber Rounds, Ricochet Rounds, Light Mag, Armor-Piercing Rounds
+  Perks 1 ( 20%): Outlaw
+  Perks 2 ( 40%): Kill Clip, Rampage
+  MWorks  (100%): (Any masterwork)
+  ```
+* **(PvE) Baseline / Future-Proofing (8.0% chance)**: This is fine. Not amazing, not terrible, just a standard DPS roll. Without perks in both of these columns, there's not a strong reason to run this in PvE. If this is all you end up getting, fine to hang on to it and hope for an archetype buff at some point.
+  ```
+  Barrels (100%): (Any barrel)
+  Mags    (100%): (Any magazine)
+  Perks 1 ( 20%): Outlaw
+  Perks 2 ( 40%): Kill Clip, Rampage
+  MWorks  (100%): (Any masterwork)
+  ```
