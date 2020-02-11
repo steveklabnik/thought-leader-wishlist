@@ -29,7 +29,7 @@
       name: (PvE) Picky Demolitionist
       desc: Demolitionist grenade builds
       barrels: []
-      magazines: [Appended Mag]
+      magazines: [Appended Mag, Tactical Mag]
       perks1: [Demolitionist]
       perks2: [Rampage, Swashbuckler]
       masterworks: [Range MW, Handling MW]
