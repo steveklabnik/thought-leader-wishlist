@@ -40,7 +40,12 @@
       desc: >
         Same as above, with a Range Masterwork permitted.
       masterworks: [Handling MW, Range MW]
-    
+    -
+      <<: *reasonablepsion
+      name: (PvP) "Snipe Like a Psion!" (Baseline)
+      desc: >
+        Same as above, without a Masterwork restriction.
+      masterworks: []
 - 
   name: Trohpy Hunter (PvE)
   item_id: 4166221755
