@@ -1,4 +1,4 @@
-This file was auto-generated at `10 Feb 2020 06:10:11`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at `11 Feb 2020 00:49:48`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -600,6 +600,42 @@ These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=
   Perks 1 ( 33%): Rapid Hit, Feeding Frenzy
   Perks 2 ( 33%): Dragonfly, Disruption Break
   MWorks  (100%): (Any masterwork)
+  ```
+## Trohpy Hunter (PvP)
+More of a PvE sniper, so we aren't going to have much to lay down here for a great roll. If you're hungry for a PvP Energy sniper, you want the Beloved (Menagerie), Apostate (Altar of Sorrows) or Twilight Oath (Dreaming City). CoolGuy: ["It's OK, nothing special."](https://www.youtube.com/watch?v=dGHNinCK3HI) Handling additions are required because it's such a clunky weapon.
+* **(PvP) "Snipe Like a Psion!" (0.9% chance)**: "Pulse Monitor"?! Yeah, there's only four perks in the third column and it's the only one applicable to PvP. The is the only randomly-rolled sniper in the game with Pulse Monitor. Everythig else is attempting to buff the Handling so it doesn't feel so sluggish. (Psions use Trophy Hunter - who knew?)
+  ```
+  Barrels ( 41%): Arrowhead Brake, Fluted Barrel
+  Mags    ( 71%): Flared Magwell, Alloy Magazine, Tactical Mag
+  Perks 1 ( 25%): Pulse Monitor
+  Perks 2 ( 50%): Snapshot
+  MWorks  ( 25%): Handling MW
+  ```
+## Trohpy Hunter (PvE)
+CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/watch?v=dGHNinCK3HI) "Solo" also means "playing solo with a random group" (i.e. not coordinated). Nearly a perfect sniper for Gambit, especially paired with Malfeasance. You'll note these rolls are pretty strict, and that's because there are so few perks in the final two columns. Handling is so, so low on this sniper that I think you absolutely want the +20-25 Handling from a combo of the barrel perk and Masterwork.
+* **(PvE) "Triple Tap Your Way to Seven" (0.7% chance)**: That's a quote from CoolGuy's review :) Throw a `Backup Mag` mod on here to be able to do that.
+  ```
+  Barrels ( 41%): Arrowhead Brake, Fluted Barrel
+  Mags    ( 52%): Appended Mag, Extended Mag
+  Perks 1 ( 25%): Triple Tap
+  Perks 2 ( 50%): Vorpal
+  MWorks  ( 25%): Handling MW
+  ```
+* **(PvE) Gambit Shieldbreaker (0.9% chance)**: Yep it works great outside of Gambit, but even better within. Pair it with Malfeasance. Shoot shields, break them and it refills the mag. Then switch to Malfeasance (Kinetic with bonus Taken damage) and MELT.
+  ```
+  Barrels ( 41%): Arrowhead Brake, Fluted Barrel
+  Mags    ( 71%): Flared Magwell, Alloy Magazine, Tactical Mag
+  Perks 1 ( 25%): Genesis
+  Perks 2 ( 50%): Disruption Break
+  MWorks  ( 25%): Handling MW
+  ```
+* **(PvE) Infinite Ammo (1.6% chance)**: Heavyweight modifier? Never run out of ammo. Famine modifier? That rare Heavy brick is like finding a Special brick at the same time.
+  ```
+  Barrels ( 41%): Arrowhead Brake, Fluted Barrel
+  Mags    ( 71%): Flared Magwell, Alloy Magazine, Tactical Mag
+  Perks 1 ( 25%): Lead from Gold
+  Perks 2 ( 83%): Vorpal, Disruption Break
+  MWorks  ( 25%): Handling MW
   ```
 ## Black Scorpion-4sr (PvP)
 [CoolGuy's BS4 review](https://www.youtube.com/watch?v=lFQt0MDS9JY) in August of 2019 is great source of info. It's using the original D2Y1 perk pool so what I'm suggesting here is likely not to be too much of a surprise. Since this is a wishlist for controller, the Recoil is `60`, demanding we use a Counterbalance mod to make even passable. Check out CoolGuy's video for a before/after (@6:40). On PC, sure, skip that but because of this, you're not going to see me recommend Rampage + Rampage Spec. Check out [ZkMushroom](https://www.youtube.com/watch?v=tdnJWuiUF2k) and [nKuch](https://www.youtube.com/watch?v=Vc87SDsCrIQ) to see the Black Scorpion in action. Not gonna lie here... these rolls are *tough* to get, because you only get one crack at the perks in the final two columns.
