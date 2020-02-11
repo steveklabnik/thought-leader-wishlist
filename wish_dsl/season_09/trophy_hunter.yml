@@ -1,0 +1,69 @@
+- 
+  name: Trohpy Hunter (PvP)
+  item_id: 4166221755
+  lightgg: https://www.light.gg/db/items/4166221755/trophy-hunter/
+  summary: >
+    More of a PvE sniper, so we aren't going to have much to lay down here for
+    a great roll. If you're hungry for a PvP Energy sniper, you want the Beloved
+    (Menagerie), Apostate (Altar of Sorrows) or Twilight Oath (Dreaming City).
+    CoolGuy: ["It's OK, nothing special."](https://www.youtube.com/watch?v=dGHNinCK3HI)
+    Handling additions are required because it's such a clunky weapon.
+  rolls:
+    - 
+      name: (PvP) "Snipe Like a Psion!"
+      desc: >
+         "Pulse Monitor"?! Yeah, there's only four perks in the third column and
+         it's the only one applicable to PvP. The is the only randomly-rolled
+         sniper in the game with Pulse Monitor. Everythig else is attempting to
+         buff the Handling so it doesn't feel so sluggish. (Psions use Trophy
+         Hunter - who knew?)
+      barrels: [Arrowhead Brake, Fluted Barrel]
+      magazines: [Flared Magwell, Alloy Magazine, Tactical Mag]
+      perks1: [Pulse Monitor]
+      perks2: [Snapshot]
+      masterworks: [Handling MW]
+    
+- 
+  name: Trohpy Hunter (PvE)
+  item_id: 4166221755
+  lightgg: https://www.light.gg/db/items/4166221755/trophy-hunter/
+  summary: >
+    CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/watch?v=dGHNinCK3HI)
+    "Solo" also means "playing solo with a random group" (i.e. not coordinated).
+    Nearly a perfect sniper for Gambit, especially paired with Malfeasance.
+    You'll note these rolls are pretty strict, and that's because there are
+    so few perks in the final two columns. Handling is so, so low on this
+    sniper that I think you absolutely want the +20-25 Handling from a combo
+    of the barrel perk and Masterwork.
+  rolls:
+    - 
+      name: (PvE) "Triple Tap Your Way to Seven"
+      desc: >
+        That's a quote from CoolGuy's review :) Throw a `Backup Mag` mod on here
+        to be able to do that.
+      barrels: [Arrowhead Brake, Fluted Barrel]
+      magazines: [Appended Mag, Extended Mag]
+      perks1: [Triple Tap]
+      perks2: [Vorpal]
+      masterworks: [Handling MW]
+    - 
+      name: (PvE) Gambit Shieldbreaker
+      desc: >
+        Yep it works great outside of Gambit, but even better within. Pair it
+        with Malfeasance. Shoot shields, break them and it refills the mag. Then
+        switch to Malfeasance (Kinetic with bonus Taken damage) and MELT.
+      barrels: [Arrowhead Brake, Fluted Barrel]
+      magazines: [Flared Magwell, Alloy Magazine, Tactical Mag]
+      perks1: [Genesis]
+      perks2: [Disruption Break]
+      masterworks: [Handling MW]     
+    - 
+      name: (PvE) Infinite Ammo
+      desc: >
+        Heavyweight modifier? Never run out of ammo. Famine modifier? That rare
+        Heavy brick is like finding a Special brick at the same time.
+      barrels: [Arrowhead Brake, Fluted Barrel]
+      magazines: [Flared Magwell, Alloy Magazine, Tactical Mag]
+      perks1: [Lead from Gold]
+      perks2: [Vorpal, Disruption Break]
+      masterworks: [Handling MW]           
