@@ -78,7 +78,25 @@
       perks1: [High-Impact Reserves]
       perks2: [Slideshot]
       masterworks: []
-
+    - &ninetynineproblems
+      name: (PvP) "I got 99 problems and recoil ain't 1" (Picky)
+      desc: >
+        With Arrowhead Brake's +30 to recoil (=99), you can forego a
+        Counterbalance mod and throw on a Rampage Spec instead.
+      barrels: [Arrowhead Brake]
+      magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag, Armor-Piercing Rounds]
+      perks1: [Rampage]
+      perks2: [Outlaw]
+      masterworks: [Range MW]
+    -
+      <<: *ninetynineproblems
+      name: (PvP) "I got 99 problems and recoil ain't 1" (Relaxed)
+      desc: >
+        Same as the above but we're relaxing magazines and masterworks since
+        none are harmful to the roll, just not optimally helpful. They don't
+        make or break (brake? hah) this roll.
+      magazines: []
+      masterworks: []
 - 
   name: Bygones (PvE)
   item_id: 2712244741
