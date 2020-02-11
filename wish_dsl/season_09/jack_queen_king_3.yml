@@ -66,6 +66,32 @@
       barrels: [Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS]
       magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
       masterworks: []
+    - &perklesswonder
+      name: (PvP) Super Picky Perkless Wonder
+      desc: >
+        Listen, the base stats are so good that if we toss out the hardest to
+        get perk columns, we still have something pretty amazing.
+      barrels: [Steadyhand HCS]
+      magazines: [Ricochet Rounds]
+      perks1: []
+      perks2: []
+      masterworks: [Stability MW]
+    -
+      <<: *perklesswonder
+      name: (PvP) Super Picky Perkless Wonder (Slightly Relaxed)
+      desc: >
+        Let's let in a few more barrels and magazines.
+      barrels: [Truesight HCS, Fastdraw HCS, Steadyhand HCS]
+      magazines: [Ricochet Rounds, Flared Magwell]
+    -
+      <<: *perklesswonder
+      name: (PvP) Super Picky Perkless Wonder (Very Relaxed)
+      desc: >
+        Even without much greatness in the core perk columns, with the other
+        columns on some solid perks, this thing will do work.
+      barrels: [Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS]
+      magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
+      masterworks: [Stability MW, Range MW]
     
 - 
   name: Jack Queen King 3 (PvE)
