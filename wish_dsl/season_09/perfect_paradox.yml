@@ -1,0 +1,43 @@
+- 
+  name: Perfect Paradox (PvE)
+  item_id: 3393519051
+  lightgg: https://www.light.gg/db/items/3393519051/perfect-paradox/
+  summary: >
+    For PvE, [Aztecross](https://www.youtube.com/watch?v=vGe3z2doHbQ) likes
+    Demolitionist with Swashbuckler or Rampage for a large damage boost.
+
+    Trench barrel has been nerfed to the point where there are better options
+    but it could be worth picking one up in case the perk gets revived.
+
+    There are also better One-Two Punch shotguns, but it wouldn't be a bad
+    secondary perk if you're at s92.
+
+    For PvP, he likes Slideshot with Opening Shot or Rampage and 
+    [Destiny Fun Police](https://www.youtube.com/watch?v=cA2gxu6OIUI) agrees
+    with him.
+
+  rolls:
+    - 
+      name: (PvP) Super Picky (otherwise there are better options)
+      desc: Range and Rampage or Opening Shot
+      barrels: [Full Choke, Rifled Barrel]
+      magazines: [Accurized Rounds]
+      perks1: [Slideshot]
+      perks2: [Rampage, Opening Shot]
+      masterworks: [Range MW]
+    - 
+      name: (PvE) Picky Demolitionist
+      desc: Demolitionist grenade builds
+      barrels: []
+      magazines: [Appended Mag]
+      perks1: [Demolitionist]
+      perks2: [Rampage, Swashbuckler]
+      masterworks: [Range MW, Handling MW]
+    - 
+      name: (PvE) Baseline Demolitionist
+      desc: Demolitionist grenade builds
+      barrels: []
+      magazines: []
+      perks1: [Demolitionist]
+      perks2: [Rampage, Swashbuckler]
+      masterworks: []
