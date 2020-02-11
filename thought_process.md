@@ -1,4 +1,4 @@
-This file was auto-generated at `11 Feb 2020 01:40:23`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at `11 Feb 2020 04:20:02`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -383,6 +383,35 @@ This is the only Scout Rifle that can roll Vorpal or Osmosis. This isn't a high 
   Mags    (100%): (Any magazine)
   Perks 1 ( 16%): Rapid Hit
   Perks 2 ( 60%): Osmosis, Vorpal
+  MWorks  (100%): (Any masterwork)
+  ```
+## Perfect Paradox (PvE)
+For PvE, [Aztecross](https://www.youtube.com/watch?v=vGe3z2doHbQ) likes Demolitionist with Swashbuckler or Rampage for a large damage boost.
+Trench barrel has been nerfed to the point where there are better options but it could be worth picking one up in case the perk gets revived.
+There are also better One-Two Punch shotguns, but it wouldn't be a bad secondary perk if you're at s92.
+For PvP, he likes Slideshot with Opening Shot or Rampage and  [Destiny Fun Police](https://www.youtube.com/watch?v=cA2gxu6OIUI) agrees with him.
+* **(PvP) Super Picky (otherwise there are better options) (0.5% chance)**: Range and Rampage or Opening Shot
+  ```
+  Barrels ( 60%): Full Choke, Rifled Barrel
+  Mags    ( 33%): Accurized Rounds
+  Perks 1 ( 16%): Slideshot
+  Perks 2 ( 60%): Rampage, Opening Shot
+  MWorks  ( 25%): Range MW
+  ```
+* **(PvE) Picky Demolitionist (1.7% chance)**: Demolitionist grenade builds
+  ```
+  Barrels (100%): (Any barrel)
+  Mags    ( 33%): Appended Mag
+  Perks 1 ( 16%): Demolitionist
+  Perks 2 ( 60%): Rampage, Swashbuckler
+  MWorks  ( 50%): Range MW, Handling MW
+  ```
+* **(PvE) Baseline Demolitionist (10.0% chance)**: Demolitionist grenade builds
+  ```
+  Barrels (100%): (Any barrel)
+  Mags    (100%): (Any magazine)
+  Perks 1 ( 16%): Demolitionist
+  Perks 2 ( 60%): Rampage, Swashbuckler
   MWorks  (100%): (Any masterwork)
   ```
 ## Steelfeather Repeater (PvP)
