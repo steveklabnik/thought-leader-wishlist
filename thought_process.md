@@ -1,4 +1,4 @@
-This file was auto-generated at `11 Feb 2020 07:03:14`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at `11 Feb 2020 07:10:39`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -874,6 +874,22 @@ You don't actually need all that much for a "great" Bygones roll because, well, 
   Mags    ( 89%): High-Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag, Armor-Piercing Rounds
   Perks 1 ( 20%): High-Impact Reserves
   Perks 2 ( 20%): Slideshot
+  MWorks  (100%): (Any masterwork)
+  ```
+* **(PvP) "I got 99 problems and recoil ain't 1" (Picky) (0.2% chance)**: With Arrowhead Brake's +30 to recoil (=99), you can forego a Counterbalance mod and throw on a Rampage Spec instead.
+  ```
+  Barrels ( 22%): Arrowhead Brake
+  Mags    ( 89%): High-Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag, Armor-Piercing Rounds
+  Perks 1 ( 20%): Rampage
+  Perks 2 ( 20%): Outlaw
+  MWorks  ( 25%): Range MW
+  ```
+* **(PvP) "I got 99 problems and recoil ain't 1" (Relaxed) (0.9% chance)**: Same as the above but we're relaxing magazines and masterworks since none are harmful to the roll, just not optimally helpful. They don't make or break (brake? hah) this roll.
+  ```
+  Barrels ( 22%): Arrowhead Brake
+  Mags    (100%): (Any magazine)
+  Perks 1 ( 20%): Rampage
+  Perks 2 ( 20%): Outlaw
   MWorks  (100%): (Any masterwork)
   ```
 ## Bygones (PvE)
