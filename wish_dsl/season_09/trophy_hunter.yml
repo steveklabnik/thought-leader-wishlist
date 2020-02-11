@@ -7,21 +7,39 @@
     a great roll. If you're hungry for a PvP Energy sniper, you want the Beloved
     (Menagerie), Apostate (Altar of Sorrows) or Twilight Oath (Dreaming City).
     CoolGuy: ["It's OK, nothing special."](https://www.youtube.com/watch?v=dGHNinCK3HI)
-    Handling additions are required because it's such a clunky weapon.
+    Handling additions are appreciated because it's such a clunky weapon.
   rolls:
-    - 
-      name: (PvP) "Snipe Like a Psion!"
+    - &snipelikeapsion
+      name: (PvP) "Snipe Like a Psion!" (Ridiculously Picky)
       desc: >
-         "Pulse Monitor"?! Yeah, there's only four perks in the third column and
-         it's the only one applicable to PvP. The is the only randomly-rolled
-         sniper in the game with Pulse Monitor. Everythig else is attempting to
-         buff the Handling so it doesn't feel so sluggish. (Psions use Trophy
-         Hunter - who knew?)
+         Psions use Trophy Hunter - who knew? "Pulse Monitor"?! Yeah, there's
+         only four perks in the third column and it's the only one applicable
+         to PvP. The is the only randomly-rolled sniper in the game with Pulse
+         Monitor. Everythig else is attempting to buff the Handling so it
+         doesn't feel so sluggish.  I don't know that this makes it some kind
+         of S-Tier sniper but why not give it a shot? Sniping is so personal.
       barrels: [Arrowhead Brake, Fluted Barrel]
-      magazines: [Flared Magwell, Alloy Magazine, Tactical Mag]
+      magazines: [Accurized Rounds]
       perks1: [Pulse Monitor]
       perks2: [Snapshot]
       masterworks: [Handling MW]
+    - &reasonablepsion
+      <<: *snipelikeapsion
+      name: (PvP) "Snipe Like a Psion!" (Super Picky)
+      desc: >
+        Relaxing our available selection of barrels to all but the few that
+        hinder the already low Handling. Also dropping a Magazine requirement
+        because none of them are so harmful as to tank the roll or helpful as
+        to propel it.
+      barrels: [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling]
+      magazines: []
+      masterworks: [Handling MW]
+    -
+      <<: *reasonablepsion
+      name: (PvP) "Snipe Like a Psion!" (Relaxed)
+      desc: >
+        Same as above, with a Range Masterwork permitted.
+      masterworks: [Handling MW, Range MW]
     
 - 
   name: Trohpy Hunter (PvE)
@@ -41,7 +59,7 @@
       desc: >
         That's a quote from CoolGuy's review :) Throw a `Backup Mag` mod on here
         to be able to do that.
-      barrels: [Arrowhead Brake, Fluted Barrel]
+      barrels: [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling]
       magazines: [Appended Mag, Extended Mag]
       perks1: [Triple Tap]
       perks2: [Vorpal]
@@ -52,18 +70,18 @@
         Yep it works great outside of Gambit, but even better within. Pair it
         with Malfeasance. Shoot shields, break them and it refills the mag. Then
         switch to Malfeasance (Kinetic with bonus Taken damage) and MELT.
-      barrels: [Arrowhead Brake, Fluted Barrel]
-      magazines: [Flared Magwell, Alloy Magazine, Tactical Mag]
+      barrels: [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling]
+      magazines: [Appended Mag, Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell]
       perks1: [Genesis]
       perks2: [Disruption Break]
-      masterworks: [Handling MW]     
+      masterworks: [Handling MW]
     - 
       name: (PvE) Infinite Ammo
       desc: >
         Heavyweight modifier? Never run out of ammo. Famine modifier? That rare
         Heavy brick is like finding a Special brick at the same time.
-      barrels: [Arrowhead Brake, Fluted Barrel]
-      magazines: [Flared Magwell, Alloy Magazine, Tactical Mag]
+      barrels: [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling]
+      magazines: [Appended Mag, Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell]
       perks1: [Lead from Gold]
       perks2: [Vorpal, Disruption Break]
-      masterworks: [Handling MW]           
+      masterworks: [Handling MW]
