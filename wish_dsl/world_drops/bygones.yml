@@ -53,7 +53,7 @@
       desc: >
         Any barrel and magazine perk that helps us with Range or Stability will
         do the trick here.
-      barrels: [Extended Barrel, Fluted Barrel, Smallbore, Corkscrew Rifling, Polygonal Rifling, Chambered Compensator, Hammer-Forged Rifling]
+      barrels: [Arrowhead Brake, Extended Barrel, Fluted Barrel, Smallbore, Corkscrew Rifling, Polygonal Rifling, Chambered Compensator, Hammer-Forged Rifling]
       magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag, Armor-Piercing Rounds]
       perks1: [Kill Clip]
       perks2: [Outlaw]
@@ -87,7 +87,7 @@
       magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag, Armor-Piercing Rounds]
       perks1: [Rampage]
       perks2: [Outlaw]
-      masterworks: [Range MW]
+      masterworks: [Range MW, Stability MW]
     -
       <<: *ninetynineproblems
       name: (PvP) "I got 99 problems and recoil ain't 1" (Relaxed)
@@ -97,6 +97,16 @@
         make or break (brake? hah) this roll.
       magazines: []
       masterworks: []
+    -
+      <<: *ninetynineproblems
+      name: (PvP) "I got 99 problems and recoil ain't 1" (Baseline)
+      desc: >
+        The core of this roll is Arrowhead for Recoil fixing and Rampage to
+        allow for Rampage Spec.
+      magazines: []
+      perks2: []
+      masterworks: []
+
 - 
   name: Bygones (PvE)
   item_id: 2712244741
