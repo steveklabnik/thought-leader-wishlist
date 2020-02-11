@@ -1,5 +1,5 @@
 - 
-  name: Trohpy Hunter (PvP)
+  name: Trophy Hunter (PvP)
   item_id: 4166221755
   lightgg: https://www.light.gg/db/items/4166221755/trophy-hunter/
   summary: >
@@ -47,7 +47,7 @@
         Same as above, without a Masterwork restriction.
       masterworks: []
 - 
-  name: Trohpy Hunter (PvE)
+  name: Trophy Hunter (PvE)
   item_id: 4166221755
   lightgg: https://www.light.gg/db/items/4166221755/trophy-hunter/
   summary: >
