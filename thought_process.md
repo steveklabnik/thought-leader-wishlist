@@ -1,4 +1,4 @@
-This file was auto-generated at `11 Feb 2020 01:36:33`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+This file was auto-generated at `11 Feb 2020 01:40:23`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
 
 These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
 
@@ -626,6 +626,14 @@ More of a PvE sniper, so we aren't going to have much to lay down here for a gre
   Perks 1 ( 25%): Pulse Monitor
   Perks 2 ( 50%): Snapshot
   MWorks  ( 50%): Handling MW, Range MW
+  ```
+* **(PvP) "Snipe Like a Psion!" (Baseline) (11.5% chance)**: Same as above, without a Masterwork restriction.
+  ```
+  Barrels ( 91%): Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
+  Mags    (100%): (Any magazine)
+  Perks 1 ( 25%): Pulse Monitor
+  Perks 2 ( 50%): Snapshot
+  MWorks  (100%): (Any masterwork)
   ```
 ## Trohpy Hunter (PvE)
 CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/watch?v=dGHNinCK3HI) "Solo" also means "playing solo with a random group" (i.e. not coordinated). Nearly a perfect sniper for Gambit, especially paired with Malfeasance. You'll note these rolls are pretty strict, and that's because there are so few perks in the final two columns. Handling is so, so low on this sniper that I think you absolutely want the +20-25 Handling from a combo of the barrel perk and Masterwork.
