@@ -1,7 +1,6 @@
 require 'date'
 require 'yaml'
-
-WEAPON_DATABASE = YAML.load_file('weapon_database.yml')
+require './lib/weapon_database.rb'
 
 TRAITS = [
   {:key => 'barrels',     :label => 'Barrels', :fallback => '(Any barrel)'},
@@ -72,13 +71,12 @@ def combinations(total_perks, unique_choices)
 end
 
 def column_probability(item_id, roll, column_key)
-  raise "Weapon w/ID '#{item_id}' not found in weapon_database.yml" unless WEAPON_DATABASE[item_id]
   good_perks = roll[column_key].length
   # An empty list of perks means all are acceptable
   return 1.0 if good_perks == 0
 
-  total_perks = WEAPON_DATABASE[item_id][column_key]['t']
-  available_slots = WEAPON_DATABASE[item_id][column_key]['c']  
+  total_perks = WeaponDatabase.total_perks_in_column(item_id, column_key)
+  available_slots = WeaponDatabase.slots_in_column(item_id, column_key)
   
   # If we're gauranteed to get a perk because there are more slots
   # than there are bad perks, bail out
@@ -90,7 +88,6 @@ def column_probability(item_id, roll, column_key)
 end
 
 def calculate_probability(item_id, roll)
-  raise "Weapon w/ID '#{item_id}' not found in weapon_database.yml" unless WEAPON_DATABASE[item_id]
   columnar_probabilities = []
   TRAITS.each do |t|
     columnar_probabilities << column_probability(item_id, roll, t[:key])
