@@ -6,7 +6,7 @@ PERK_MAP = YAML.load_file('perk_ids.yml')
 
 task :generate_wishlist do
   weapon_roll_groups = []
-  Dir['wish_dsl/**/*.yml'].each do |roll_file|
+  Dir['wish_dsl/**/*.yml'].sort.each do |roll_file|
     weapon_roll_groups += YAML.load_file(roll_file)
   end
   
