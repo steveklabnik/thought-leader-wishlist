@@ -11,10 +11,6 @@ TRAITS = [
 
 desc "Format notes from our roll data"
 task :generate_thoughts do
-  weapons = []
-  Dir['wish_dsl/**/*.yml'].sort.each do |roll_file|
-    weapons << YAML.load_file(roll_file)
-  end
 
   File.open('thought_process.md', 'w') do |thoughts|
     thoughts.puts <<-PREAMBLE
@@ -23,7 +19,6 @@ This document is generated from a custom Destiny Item Manager "wishlist" and was
 created on `#{DateTime.now.strftime("%Y-%m-%d %H:%M:%S %:z")}`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
-## Introduction
 These rolls are applied in order for each weapon, so the ordering is important.
 This means the better rolls will match first, in much the same you would decide
 on a roll yourself. For example Steelfeather PvE rolls at the top of the list are
@@ -37,12 +32,26 @@ that there's a chance a match is flagged and commented as a PvP roll in the DIM
 "Wishlist Notes" section (searchable in DIM via `wishlistnotes:`), when it could
 do double-duty. That's just how the wishlist feature currently works, so use your
 own discretion.
-
 PREAMBLE
+
+    weapons = []
+
+    thoughts.puts("\n---\n")
+    Dir.children('wish_dsl').sort.each do |collection|
+      thoughts.puts("\n**#{collection}**")
+      Dir.children(File.join('wish_dsl', collection)).sort.each do |weapon|
+        w = YAML.load_file(File.join('wish_dsl', collection, weapon))
+        weapons << w
+        group_links = w['groups'].map{|x| "[#{x['name']}](##{URI.escape(w['name'].downcase)})"}
+        thoughts.puts("* #{w['name']} (#{group_links.join(', ')})")
+      end
+    end
+    thoughts.puts("\n---\n")
+
     weapons.each do |weapon|
 
       weapon['groups'].each do |group|
-        thoughts.puts("## #{weapon['name']} (#{group['name']})")
+        thoughts.puts("## #{weapon['name']} - #{group['name']}")
         thoughts.puts(group['summary'])
 
         group['rolls'].each do |r|
