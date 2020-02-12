@@ -42,7 +42,10 @@ PREAMBLE
       Dir.children(File.join('wish_dsl', collection)).sort.each do |weapon|
         w = YAML.load_file(File.join('wish_dsl', collection, weapon))
         weapons << w
-        group_links = w['groups'].map{|x| "[#{x['name']}](##{URI.escape(w['name'].downcase + ' - ' + x['name'].downcase)})"}
+        group_links = w['groups'].map do |g|
+          link = "#{w['name'].downcase} - #{g['name'].downcase}".gsub(/\W/,'-')
+          "[#{g['name']}](##{link})"
+        end
         thoughts.puts("* #{w['name']} (#{group_links.join(', ')})")
       end
     end
