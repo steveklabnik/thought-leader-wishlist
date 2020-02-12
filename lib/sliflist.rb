@@ -1,0 +1,1 @@
+require_relative 'sliflist/weapon_database.rb'

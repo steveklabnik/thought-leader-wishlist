@@ -1,6 +1,6 @@
 require 'date'
 require 'yaml'
-require './lib/weapon_database.rb'
+require './lib/sliflist.rb'
 
 TRAITS = [
   {:key => 'barrels',     :label => 'Barrels', :fallback => '(Any barrel)'},
