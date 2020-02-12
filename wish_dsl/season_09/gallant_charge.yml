@@ -1,153 +1,159 @@
-- 
-  name: Gallant Charge (PvP)
-  item_id: 1706206669
-  lightgg: https://www.light.gg/db/items/1706206669/gallant-charge/
-  summary: >
-    Fallout has an interesting, [pro-Stability take](https://www.youtube.com/watch?v=pVVLwg1pVs4)
-    on the Gallant. "This might be THE fusion rifle for controller players".
-    It's bolt grouping isn't as tight, but you can get Recoil to 100 (with a
-    Counterbalance mod). Go for Stability! With respect to the magazine, I
-    prefer the unaltered charge time.
-  rolls:
-    - 
-      name: (PvP) Super Picky Stability
-      desc: >
-        Bringing all of our stability and range tools to bear here. We want to
-        first "fix" the recoil by getting it as close to ending in a `5` as we
-        can. Then we go for Stability!
-      barrels: [Extended Barrel, Chambered Compensator, Arrowhead Brake]
-      magazines: [Particle Repeater]
-      perks1: []
-      perks2: [Tap the Trigger]
-      masterworks: [Stability MW]
-    - 
-      name: (PvP) Super Picky Stability (Minus Magazines)
-      desc: Same as above, minus the magazines.
-      barrels: [Extended Barrel, Chambered Compensator, Arrowhead Brake]
-      magazines: []
-      perks1: []
-      perks2: [Tap the Trigger]
-      masterworks: [Stability MW]
-    - 
-      name: (PvP) Super Picky Stability (Minus Masterworks)
-      desc: Same as above, minus the masterworks.
-      barrels: [Extended Barrel, Chambered Compensator, Arrowhead Brake]
-      magazines: [Particle Repeater]
-      perks1: []
-      perks2: [Tap the Trigger]
-      masterworks: []        
-    - 
-      name: (PvP) Picky Range / Stability Mix
-      desc: >
-        The next few rolls feature both Stability and Range alternatives in
-        three of the slots.
-      barrels: [Extended Barrel, Chambered Compensator, Arrowhead Brake]
-      magazines: [Particle Repeater, Projection Fuse]
-      perks1: []
-      perks2: [Tap the Trigger]
-      masterworks: [Range MW, Stability MW]
-    - 
-      name: (PvP) Picky Range / Stability Mix (Minus Magazines)
-      desc: Same as above, minus the magazines.
-      barrels: [Extended Barrel, Chambered Compensator, Arrowhead Brake]
-      magazines: []
-      perks1: []
-      perks2: [Tap the Trigger]
-      masterworks: [Range MW, Stability MW]
-    - 
-      name: (PvP) Picky Range / Stability Mix (Minus Masterworks)
-      desc: Same as above, minus the masterworks.
-      barrels: [Extended Barrel, Chambered Compensator, Arrowhead Brake]
-      magazines: [Particle Repeater, Projection Fuse]
-      perks1: []
-      perks2: [Tap the Trigger]
-      masterworks: []            
-- 
-  name: Gallant Charge (PvE)
-  item_id: 1706206669
-  lightgg: https://www.light.gg/db/items/1706206669/gallant-charge/
-  summary: >
-    CoolGuy has a [terrific PvE review](https://www.youtube.com/watch?v=q6BPg-W8z9g) of the Gallant.
-    It has a PvP perspective but that part isn't as strong as Fallout's (IMHO,
-    on this particular weapon).
-  rolls:
-    - 
-      name: (PvE) Sustained DPS
-      desc: How can we maximize damage uptime and bolt hits while minimizing falloff?
-      barrels: [Extended Barrel, Full Bore, Hammer-Forged Rifling, Smallbore]
-      magazines: [Projection Fuse, Ionized Battery]
-      perks1: [Demolitionist, Auto-Loading Holster]
-      perks2: [Swashbuckler, Multikill Clip]
-      masterworks: [Range MW, Stability MW]  
-    - 
-      name: (PvE) Sustained DPS (Minus Barrels)
-      desc: Same as above, minus the barrels.
-      barrels: []
-      magazines: [Projection Fuse, Ionized Battery]
-      perks1: [Demolitionist, Auto-Loading Holster]
-      perks2: [Swashbuckler, Multikill Clip]
-      masterworks: [Range MW, Stability MW]  
-    - 
-      name: (PvE) Sustained DPS (Minus Magazines)
-      desc: Same as above, minus the magazines.
-      barrels: [Extended Barrel, Full Bore, Hammer-Forged Rifling, Smallbore]
-      magazines: []
-      perks1: [Demolitionist, Auto-Loading Holster]
-      perks2: [Swashbuckler, Multikill Clip]
-      masterworks: [Range MW, Stability MW]                   
-    - 
-      name: (PvE) Sustained DPS (Minus Masterworks)"
-      desc: Same as above, minus the masterworks.
-      barrels: [Extended Barrel, Full Bore, Hammer-Forged Rifling, Smallbore]
-      magazines: [Projection Fuse, Ionized Battery]
-      perks1: [Demolitionist, Auto-Loading Holster]
-      perks2: [Swashbuckler, Multikill Clip]
-      masterworks: []         
-    - 
-      name: (PvE) Punchy Picky 👊
-      desc: Time to punch and keep this thing constantly reloaded.
-      barrels: [Arrowhead Brake, Corkscrew Rifling, Fluted Barrel]
-      magazines: [Ionized Battery]
-      perks1: [Grave Robber]
-      perks2: [Swashbuckler]
-      masterworks: [Handling MW]       
-    - 
-      name: (PvE) Punchy Picky 👊 (Minus Barrels)"
-      desc: Same as above, minus the barrels.
-      barrels: []
-      magazines: [Ionized Battery]
-      perks1: [Grave Robber]
-      perks2: [Swashbuckler]
-      masterworks: [Handling MW]       
-    - 
-      name: (PvE) Punchy Picky 👊 (Minus Magazines)"
-      desc: Same as above, minus the magazines.
-      barrels: [Arrowhead Brake, Corkscrew Rifling, Fluted Barrel]
-      magazines: []
-      perks1: [Grave Robber]
-      perks2: [Swashbuckler]
-      masterworks: [Handling MW]       
-    - 
-      name: (PvE) Punchy Picky 👊 (Minus Masterworks)"
-      desc: Same as above, minus the masterworks.
-      barrels: [Arrowhead Brake, Corkscrew Rifling, Fluted Barrel]
-      magazines: [Ionized Battery]
-      perks1: [Grave Robber]
-      perks2: [Swashbuckler]
-      masterworks: []       
-    - 
-      name: (PvE) Baseline
-      desc: At a minimum, these combos will serve you well.
-      barrels: []
-      magazines: []
-      perks1: [Demolitionist, Auto-Loading Holster]
-      perks2: [Swashbuckler, Multikill Clip]
-      masterworks: []             
-    - 
-      name: (PvE) Punchy Baseline 👊
-      desc: If you want to punch something, here's your packing list.
-      barrels: []
-      magazines: []
-      perks1: [Grave Robber]
-      perks2: [Swashbuckler]
-      masterworks: []                   
+name: Gallant Charge
+item_id: 1706206669
+lightgg: https://www.light.gg/db/items/1706206669/gallant-charge/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 6, c: 2}
+  masterworks: {t: 5, c: 1}
+groups:
+  - 
+    name: PvP
+    summary: >
+      Fallout has an interesting, [pro-Stability take](https://www.youtube.com/watch?v=pVVLwg1pVs4)
+      on the Gallant. "This might be THE fusion rifle for controller players".
+      It's bolt grouping isn't as tight, but you can get Recoil to 100 (with a
+      Counterbalance mod). Go for Stability! With respect to the magazine, I
+      prefer the unaltered charge time.
+    rolls:
+      - 
+        name: (PvP) Super Picky Stability
+        desc: >
+          Bringing all of our stability and range tools to bear here. We want to
+          first "fix" the recoil by getting it as close to ending in a `5` as we
+          can. Then we go for Stability!
+        barrels: [Extended Barrel, Chambered Compensator, Arrowhead Brake]
+        magazines: [Particle Repeater]
+        perks1: []
+        perks2: [Tap the Trigger]
+        masterworks: [Stability MW]
+      - 
+        name: (PvP) Super Picky Stability (Minus Magazines)
+        desc: Same as above, minus the magazines.
+        barrels: [Extended Barrel, Chambered Compensator, Arrowhead Brake]
+        magazines: []
+        perks1: []
+        perks2: [Tap the Trigger]
+        masterworks: [Stability MW]
+      - 
+        name: (PvP) Super Picky Stability (Minus Masterworks)
+        desc: Same as above, minus the masterworks.
+        barrels: [Extended Barrel, Chambered Compensator, Arrowhead Brake]
+        magazines: [Particle Repeater]
+        perks1: []
+        perks2: [Tap the Trigger]
+        masterworks: []        
+      - 
+        name: (PvP) Picky Range / Stability Mix
+        desc: >
+          The next few rolls feature both Stability and Range alternatives in
+          three of the slots.
+        barrels: [Extended Barrel, Chambered Compensator, Arrowhead Brake]
+        magazines: [Particle Repeater, Projection Fuse]
+        perks1: []
+        perks2: [Tap the Trigger]
+        masterworks: [Range MW, Stability MW]
+      - 
+        name: (PvP) Picky Range / Stability Mix (Minus Magazines)
+        desc: Same as above, minus the magazines.
+        barrels: [Extended Barrel, Chambered Compensator, Arrowhead Brake]
+        magazines: []
+        perks1: []
+        perks2: [Tap the Trigger]
+        masterworks: [Range MW, Stability MW]
+      - 
+        name: (PvP) Picky Range / Stability Mix (Minus Masterworks)
+        desc: Same as above, minus the masterworks.
+        barrels: [Extended Barrel, Chambered Compensator, Arrowhead Brake]
+        magazines: [Particle Repeater, Projection Fuse]
+        perks1: []
+        perks2: [Tap the Trigger]
+        masterworks: []            
+  - 
+    name: PvE
+    summary: >
+      CoolGuy has a [terrific PvE review](https://www.youtube.com/watch?v=q6BPg-W8z9g) of the Gallant.
+      It has a PvP perspective but that part isn't as strong as Fallout's (IMHO,
+      on this particular weapon).
+    rolls:
+      - 
+        name: (PvE) Sustained DPS
+        desc: How can we maximize damage uptime and bolt hits while minimizing falloff?
+        barrels: [Extended Barrel, Full Bore, Hammer-Forged Rifling, Smallbore]
+        magazines: [Projection Fuse, Ionized Battery]
+        perks1: [Demolitionist, Auto-Loading Holster]
+        perks2: [Swashbuckler, Multikill Clip]
+        masterworks: [Range MW, Stability MW]  
+      - 
+        name: (PvE) Sustained DPS (Minus Barrels)
+        desc: Same as above, minus the barrels.
+        barrels: []
+        magazines: [Projection Fuse, Ionized Battery]
+        perks1: [Demolitionist, Auto-Loading Holster]
+        perks2: [Swashbuckler, Multikill Clip]
+        masterworks: [Range MW, Stability MW]  
+      - 
+        name: (PvE) Sustained DPS (Minus Magazines)
+        desc: Same as above, minus the magazines.
+        barrels: [Extended Barrel, Full Bore, Hammer-Forged Rifling, Smallbore]
+        magazines: []
+        perks1: [Demolitionist, Auto-Loading Holster]
+        perks2: [Swashbuckler, Multikill Clip]
+        masterworks: [Range MW, Stability MW]                   
+      - 
+        name: (PvE) Sustained DPS (Minus Masterworks)"
+        desc: Same as above, minus the masterworks.
+        barrels: [Extended Barrel, Full Bore, Hammer-Forged Rifling, Smallbore]
+        magazines: [Projection Fuse, Ionized Battery]
+        perks1: [Demolitionist, Auto-Loading Holster]
+        perks2: [Swashbuckler, Multikill Clip]
+        masterworks: []         
+      - 
+        name: (PvE) Punchy Picky 👊
+        desc: Time to punch and keep this thing constantly reloaded.
+        barrels: [Arrowhead Brake, Corkscrew Rifling, Fluted Barrel]
+        magazines: [Ionized Battery]
+        perks1: [Grave Robber]
+        perks2: [Swashbuckler]
+        masterworks: [Handling MW]       
+      - 
+        name: (PvE) Punchy Picky 👊 (Minus Barrels)"
+        desc: Same as above, minus the barrels.
+        barrels: []
+        magazines: [Ionized Battery]
+        perks1: [Grave Robber]
+        perks2: [Swashbuckler]
+        masterworks: [Handling MW]       
+      - 
+        name: (PvE) Punchy Picky 👊 (Minus Magazines)"
+        desc: Same as above, minus the magazines.
+        barrels: [Arrowhead Brake, Corkscrew Rifling, Fluted Barrel]
+        magazines: []
+        perks1: [Grave Robber]
+        perks2: [Swashbuckler]
+        masterworks: [Handling MW]       
+      - 
+        name: (PvE) Punchy Picky 👊 (Minus Masterworks)"
+        desc: Same as above, minus the masterworks.
+        barrels: [Arrowhead Brake, Corkscrew Rifling, Fluted Barrel]
+        magazines: [Ionized Battery]
+        perks1: [Grave Robber]
+        perks2: [Swashbuckler]
+        masterworks: []       
+      - 
+        name: (PvE) Baseline
+        desc: At a minimum, these combos will serve you well.
+        barrels: []
+        magazines: []
+        perks1: [Demolitionist, Auto-Loading Holster]
+        perks2: [Swashbuckler, Multikill Clip]
+        masterworks: []             
+      - 
+        name: (PvE) Punchy Baseline 👊
+        desc: If you want to punch something, here's your packing list.
+        barrels: []
+        magazines: []
+        perks1: [Grave Robber]
+        perks2: [Swashbuckler]
+        masterworks: []                   

@@ -1,125 +1,130 @@
-- 
-  name: Steelfeather Repeater (PvP)
-  item_id: 1251729046
-  lightgg: https://www.light.gg/db/items/1251729046/steelfeather-repeater/
-  summary: >
-    CoolGuy does a [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI)
-    of Steelfeather and it doesn't have super high marks for PvP. The base
-    Stability at `38` is abysmal, so for a decent PvP roll we're looking to
-    correct that. If we fix Recoil, it mitigates such low Stability. A base
-    Recoil of `57` means we're not going to be able to bring it under control
-    unless we use Arrowhead Brake with a Counterbalance mod. From there on out,
-    we're going for as much Stability as we can. Without Stability and Recoil
-    mitigation, there's not a lot of reason to use this weapon, hence the small
-    number of PvP rolls. If you want to see firsthand why Firmly Planted is so
-    amazing, [check out this timestamp](https://youtu.be/anp5VBGfhmI?t=214) for
-    PvE testing and [this timestamp](https://www.youtube.com/watch?v=anp5VBGfhmI&feature=youtu.be&t=689)
-    for PvP. "I feel it's a decent weapon. I personally don't crown it anything
-    beyond it's a fun AR to have in your rotation."
-  rolls:
-    - 
-      name: (PvP) Super Picky
-      desc: >
-        We're looking to max stability after maxing recoil, as much as we can.
-        The roll is built around `Arrowhead Brake` and `Firmly Planted`. Other
-        sources of stability are terrific of course, but without those two, we
-        don't have enough control to matter.
-      barrels: [Arrowhead Brake]
-      magazines: [Ricochet Rounds, Flared Magwell, Light Mag]
-      perks1: [Firmly Planted]
-      perks2: [Elemental Capacitor]
-      masterworks: [Stability MW, Range MW]
-    -
-      name: (PvP) Super Picky (Minus Magazine and Perks)
-      desc: Same as above, minus mags and perks.
-      barrels: [Arrowhead Brake]
-      magazines: []
-      perks1: [Firmly Planted]
-      perks2: []
-      masterworks: [Stability MW, Range MW]
-    -
-      name: (PvP) Super Picky (Minus Stability MW)
-      desc: Same as above, minus masterworks.
-      barrels: [Arrowhead Brake]
-      magazines: [Ricochet Rounds, Flared Magwell, Light Mag]
-      perks1: [Firmly Planted]
-      perks2: [Elemental Capacitor]
-      masterworks: []
-
-- 
-  name: Steelfeather Repeater (PvE)
-  item_id: 1251729046
-  lightgg: https://www.light.gg/db/items/1251729046/steelfeather-repeater/
-  summary: >
-    There are two long form Steelfeather reviews kicking around. CoolGuy does a
-    [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI) of the
-    weapon overall with PvE and PvP thoughts. [Aztecross](https://www.youtube.com/watch?v=zdhugEZT1C4)
-    has one as well and per usual, has a bit more excited yelling :) Interestingly
-    they both compare it to a "higher range SMG". They also both comment on its
-    applicability (or lack of) to anything beyond slaying red-bar enemies. In
-    Sundial for example, it runs out of steam. Oddly enough, Breachlight performs
-    better in that role; go figure. "I feel it's a decent weapon. I personally
-    don't crown it anything beyond it's a fun AR to have in your rotation."
-  rolls:
-    -
-      name: (PvE) Super Picky
-      desc: > 
-        How can we keep DPS up as long as possible while preserving as much Range
-        and Stability as possible?
-      barrels: [Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore]
-      magazines: [Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
-      perks1: [Feeding Frenzy, Subsistence]
-      perks2: [Swashbuckler, Multikill Clip]
-      masterworks: [Stability MW, Range MW]
-    -
-      name: (PvE) Super Picky (Minus MW)
-      desc: Same as above, minus the Masterworks
-      barrels: [Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore]
-      magazines: [Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
-      perks1: [Feeding Frenzy, Subsistence]
-      perks2: [Swashbuckler, Multikill Clip]
-      masterworks: []
-    -
-      name: (PvE) Punchy Picky 👊
-      desc: Classic punchy punchy build
-      barrels: [Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore]
-      magazines: [Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
-      perks1: [Grave Robber]
-      perks2: [Swashbuckler]
-      masterworks: []
-    -
-      name: (PvE) Punchy Baseline 👊
-      desc: If you're punching things, this is your minimum loadout.
-      barrels: []
-      magazines: []
-      perks1: [Grave Robber]
-      perks2: [Swashbuckler]
-      masterworks: []
-    -
-      name: (PvE) Shieldbreaker
-      desc: >
-        With artifacts all over the map, it's possible we get another Barrier mod
-        that applies to Auto Rifles. This could be a fun one to bank.
-      barrels: []
-      magazines: [Armor-Piercing Rounds]
-      perks1: []
-      perks2: [Osmosis]
-      masterworks: []
-    -
-      name: (PvE) Baseline
-      desc: Solid pairing if you're jonesing for an AR that can do work.
-      barrels: []
-      magazines: []
-      perks1: [Feeding Frenzy, Subsistence]
-      perks2: [Swashbuckler, Multikill Clip]
-      masterworks: []
-    -
-      name: (PvE) Utility/Future-Proofing
-      desc: >
-        Not one that we're terribly looking for; maybe hold on to it for another
-        season or twos worth of sandbox updates?
-      barrels: []
-      magazines: []
-      perks1: [Feeding Frenzy, Subsistence]
-      perks2: [Vorpal, Osmosis]
-      masterworks: []
+name: Steelfeather Repeater
+item_id: 1251729046
+lightgg: https://www.light.gg/db/items/1251729046/steelfeather-repeater/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 2}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: PvP
+    summary: >
+      CoolGuy does a [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI)
+      of Steelfeather and it doesn't have super high marks for PvP. The base
+      Stability at `38` is abysmal, so for a decent PvP roll we're looking to
+      correct that. If we fix Recoil, it mitigates such low Stability. A base
+      Recoil of `57` means we're not going to be able to bring it under control
+      unless we use Arrowhead Brake with a Counterbalance mod. From there on out,
+      we're going for as much Stability as we can. Without Stability and Recoil
+      mitigation, there's not a lot of reason to use this weapon, hence the small
+      number of PvP rolls. If you want to see firsthand why Firmly Planted is so
+      amazing, [check out this timestamp](https://youtu.be/anp5VBGfhmI?t=214) for
+      PvE testing and [this timestamp](https://www.youtube.com/watch?v=anp5VBGfhmI&feature=youtu.be&t=689)
+      for PvP. "I feel it's a decent weapon. I personally don't crown it anything
+      beyond it's a fun AR to have in your rotation."
+    rolls:
+      - 
+        name: (PvP) Super Picky
+        desc: >
+          We're looking to max stability after maxing recoil, as much as we can.
+          The roll is built around `Arrowhead Brake` and `Firmly Planted`. Other
+          sources of stability are terrific of course, but without those two, we
+          don't have enough control to matter.
+        barrels: [Arrowhead Brake]
+        magazines: [Ricochet Rounds, Flared Magwell, Light Mag]
+        perks1: [Firmly Planted]
+        perks2: [Elemental Capacitor]
+        masterworks: [Stability MW, Range MW]
+      -
+        name: (PvP) Super Picky (Minus Magazine and Perks)
+        desc: Same as above, minus mags and perks.
+        barrels: [Arrowhead Brake]
+        magazines: []
+        perks1: [Firmly Planted]
+        perks2: []
+        masterworks: [Stability MW, Range MW]
+      -
+        name: (PvP) Super Picky (Minus Stability MW)
+        desc: Same as above, minus masterworks.
+        barrels: [Arrowhead Brake]
+        magazines: [Ricochet Rounds, Flared Magwell, Light Mag]
+        perks1: [Firmly Planted]
+        perks2: [Elemental Capacitor]
+        masterworks: []
+  - 
+    name: PvE
+    summary: >
+      There are two long form Steelfeather reviews kicking around. CoolGuy does a
+      [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI) of the
+      weapon overall with PvE and PvP thoughts. [Aztecross](https://www.youtube.com/watch?v=zdhugEZT1C4)
+      has one as well and per usual, has a bit more excited yelling :) Interestingly
+      they both compare it to a "higher range SMG". They also both comment on its
+      applicability (or lack of) to anything beyond slaying red-bar enemies. In
+      Sundial for example, it runs out of steam. Oddly enough, Breachlight performs
+      better in that role; go figure. "I feel it's a decent weapon. I personally
+      don't crown it anything beyond it's a fun AR to have in your rotation."
+    rolls:
+      -
+        name: (PvE) Super Picky
+        desc: > 
+          How can we keep DPS up as long as possible while preserving as much Range
+          and Stability as possible?
+        barrels: [Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore]
+        magazines: [Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
+        perks1: [Feeding Frenzy, Subsistence]
+        perks2: [Swashbuckler, Multikill Clip]
+        masterworks: [Stability MW, Range MW]
+      -
+        name: (PvE) Super Picky (Minus MW)
+        desc: Same as above, minus the Masterworks
+        barrels: [Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore]
+        magazines: [Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
+        perks1: [Feeding Frenzy, Subsistence]
+        perks2: [Swashbuckler, Multikill Clip]
+        masterworks: []
+      -
+        name: (PvE) Punchy Picky 👊
+        desc: Classic punchy punchy build
+        barrels: [Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore]
+        magazines: [Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
+        perks1: [Grave Robber]
+        perks2: [Swashbuckler]
+        masterworks: []
+      -
+        name: (PvE) Punchy Baseline 👊
+        desc: If you're punching things, this is your minimum loadout.
+        barrels: []
+        magazines: []
+        perks1: [Grave Robber]
+        perks2: [Swashbuckler]
+        masterworks: []
+      -
+        name: (PvE) Shieldbreaker
+        desc: >
+          With artifacts all over the map, it's possible we get another Barrier mod
+          that applies to Auto Rifles. This could be a fun one to bank.
+        barrels: []
+        magazines: [Armor-Piercing Rounds]
+        perks1: []
+        perks2: [Osmosis]
+        masterworks: []
+      -
+        name: (PvE) Baseline
+        desc: Solid pairing if you're jonesing for an AR that can do work.
+        barrels: []
+        magazines: []
+        perks1: [Feeding Frenzy, Subsistence]
+        perks2: [Swashbuckler, Multikill Clip]
+        masterworks: []
+      -
+        name: (PvE) Utility/Future-Proofing
+        desc: >
+          Not one that we're terribly looking for; maybe hold on to it for another
+          season or twos worth of sandbox updates?
+        barrels: []
+        magazines: []
+        perks1: [Feeding Frenzy, Subsistence]
+        perks2: [Vorpal, Osmosis]
+        masterworks: []

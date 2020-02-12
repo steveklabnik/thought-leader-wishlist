@@ -1,79 +1,87 @@
-- 
-  name: Black Scorpion-4sr (PvP)
-  item_id: 525750263
-  lightgg: https://www.light.gg/db/items/525750263/black-scorpion-4sr/
-  summary: >
-    [CoolGuy's BS4 review](https://www.youtube.com/watch?v=lFQt0MDS9JY)
-    in August of 2019 is great source of info. It's using the original D2Y1 perk
-    pool so what I'm suggesting here is likely not to be too much of a surprise.
-    Since this is a wishlist for controller, the Recoil is `60`, demanding we use
-    a Counterbalance mod to make even passable. Check out CoolGuy's video for a
-    before/after (@6:40). On PC, sure, skip that but because of this, you're not
-    going to see me recommend Rampage + Rampage Spec. Check out
-    [ZkMushroom](https://www.youtube.com/watch?v=tdnJWuiUF2k)
-    and [nKuch](https://www.youtube.com/watch?v=Vc87SDsCrIQ) to see the Black
-    Scorpion in action. Not gonna lie here... these rolls are *tough* to get,
-    because you only get one crack at the perks in the final two columns.
-  rolls:
-    - 
-      name: (PvP) 100 Recoil + Maxing Stability
-      desc: >
-        This is a Scout Rifle and there aren't many lanes on Crucible maps
-        where you're going to see appreciable Range falloff *and* where
-        you could also imagine holding a Rapid-Fire Full-Auto Scout Rifle steady
-        enough to get hits. That means we're going for Recoil and Stability.
-        Zen Moment gives you a bump to your *base* Stability which you can see
-        [here](https://youtu.be/uElV7xVFN6Q?t=280) and the base Stability for
-        the Black Scorpion is pretty darn high @ `54`. No Outlaw because the
-        reload is already plenty fast and there's no DPS perk to play off of.
-        Throw a Counterbalance mod on here to hit `100` Recoil.
-      barrels: [Arrowhead Brake]
-      magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
-      perks1: [Zen Moment]
-      perks2: [Rangefinder]
-      masterworks: [Stability MW]
-    - 
-      name: (PvP) Maxing Stability; Recoil 75
-      desc: >
-        Similar to the above, but we're choosing some of the better Stability
-        granting barrels. Still requires you to install a Counterbalance mod.
-      barrels: [Chambered Compensator, Polygonal Rifling, Smallbore]
-      magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
-      perks1: [Zen Moment]
-      perks2: [Rangefinder]
-      masterworks: [Stability MW]      
-    - 
-      name: (PvP) Mixing Range/Stability; Recoil 75
-      desc: >
-        Similar to the above, but we're relaxing constraints to include a mix of
-        Range and Stability. Here we're adding Moving Target which gives you +5
-        Aim Assist and +20 Mobility. I'm not includin Arrowhead Brake here
-        because it's not helping us with Range or Stability.
-      barrels: [Chambered Compensator, Fluted Barrel, Corkscrew Rifling, Extended Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore]
-      magazines: [Steady Rounds, Tactical Mag, Accurized Rounds, Flared Magwell]
-      perks1: [Zen Moment, Moving Target]
-      perks2: [Rangefinder]
-      masterworks: [Stability MW, Range MW]
-    - 
-      name: (PvP) Baseline (Range/Stability Mix)
-      desc: >
-        Similar to the above, but we're dropping the two hardest to get columns
-        from the mix. The other columns are pretty do-able.
-      barrels: [Chambered Compensator, Fluted Barrel, Corkscrew Rifling, Extended Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore]
-      magazines: [Steady Rounds, Tactical Mag, Accurized Rounds, Flared Magwell]
-      perks1: []
-      perks2: []
-      masterworks: [Stability MW, Range MW]
+name: Black Scorpion-4sr
+item_id: 525750263
+lightgg: https://www.light.gg/db/items/525750263/black-scorpion-4sr/
+slots:
+  barrels:     {t: 8, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+groups: 
+  - 
+    name: PvP
+    item_id: 
+    lightgg: 
+    summary: >
+      [CoolGuy's BS4 review](https://www.youtube.com/watch?v=lFQt0MDS9JY)
+      in August of 2019 is great source of info. It's using the original D2Y1 perk
+      pool so what I'm suggesting here is likely not to be too much of a surprise.
+      Since this is a wishlist for controller, the Recoil is `60`, demanding we use
+      a Counterbalance mod to make even passable. Check out CoolGuy's video for a
+      before/after (@6:40). On PC, sure, skip that but because of this, you're not
+      going to see me recommend Rampage + Rampage Spec. Check out
+      [ZkMushroom](https://www.youtube.com/watch?v=tdnJWuiUF2k)
+      and [nKuch](https://www.youtube.com/watch?v=Vc87SDsCrIQ) to see the Black
+      Scorpion in action. Not gonna lie here... these rolls are *tough* to get,
+      because you only get one crack at the perks in the final two columns.
+    rolls:
+      - 
+        name: (PvP) 100 Recoil + Maxing Stability
+        desc: >
+          This is a Scout Rifle and there aren't many lanes on Crucible maps
+          where you're going to see appreciable Range falloff *and* where
+          you could also imagine holding a Rapid-Fire Full-Auto Scout Rifle steady
+          enough to get hits. That means we're going for Recoil and Stability.
+          Zen Moment gives you a bump to your *base* Stability which you can see
+          [here](https://youtu.be/uElV7xVFN6Q?t=280) and the base Stability for
+          the Black Scorpion is pretty darn high @ `54`. No Outlaw because the
+          reload is already plenty fast and there's no DPS perk to play off of.
+          Throw a Counterbalance mod on here to hit `100` Recoil.
+        barrels: [Arrowhead Brake]
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+        perks1: [Zen Moment]
+        perks2: [Rangefinder]
+        masterworks: [Stability MW]
+      - 
+        name: (PvP) Maxing Stability; Recoil 75
+        desc: >
+          Similar to the above, but we're choosing some of the better Stability
+          granting barrels. Still requires you to install a Counterbalance mod.
+        barrels: [Chambered Compensator, Polygonal Rifling, Smallbore]
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+        perks1: [Zen Moment]
+        perks2: [Rangefinder]
+        masterworks: [Stability MW]      
+      - 
+        name: (PvP) Mixing Range/Stability; Recoil 75
+        desc: >
+          Similar to the above, but we're relaxing constraints to include a mix of
+          Range and Stability. Here we're adding Moving Target which gives you +5
+          Aim Assist and +20 Mobility. I'm not includin Arrowhead Brake here
+          because it's not helping us with Range or Stability.
+        barrels: [Chambered Compensator, Fluted Barrel, Corkscrew Rifling, Extended Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore]
+        magazines: [Steady Rounds, Tactical Mag, Accurized Rounds, Flared Magwell]
+        perks1: [Zen Moment, Moving Target]
+        perks2: [Rangefinder]
+        masterworks: [Stability MW, Range MW]
+      - 
+        name: (PvP) Baseline (Range/Stability Mix)
+        desc: >
+          Similar to the above, but we're dropping the two hardest to get columns
+          from the mix. The other columns are pretty do-able.
+        barrels: [Chambered Compensator, Fluted Barrel, Corkscrew Rifling, Extended Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore]
+        magazines: [Steady Rounds, Tactical Mag, Accurized Rounds, Flared Magwell]
+        perks1: []
+        perks2: []
+        masterworks: [Stability MW, Range MW]
 
-- 
-  name: Black Scorpion-4sr (PvE)
-  item_id: 525750263
-  lightgg: https://www.light.gg/db/items/525750263/black-scorpion-4sr/
-  summary: >
-    What, no PvE rolls?! Nope. Being rapid-fire/low impact and having none of
-    the spicy new damage perks (Multikill Clip, Swashbuckler, Vorpal, etc.) it's
-    really not worth taking in to PvE. It's also perked weirdly, with Outlaw and
-    Rampage being in the same slot, among others. There are so many amazing
-    Energy weapons for PvE, it's hard to imagine this ever being top of your
-    list. Go enjoy farming something else :)
-  rolls: []
+  - 
+    name: PvE
+    summary: >
+      What, no PvE rolls?! Nope. Being rapid-fire/low impact and having none of
+      the spicy new damage perks (Multikill Clip, Swashbuckler, Vorpal, etc.) it's
+      really not worth taking in to PvE. It's also perked weirdly, with Outlaw and
+      Rampage being in the same slot, among others. There are so many amazing
+      Energy weapons for PvE, it's hard to imagine this ever being top of your
+      list. Go enjoy farming something else :)
+    rolls: []

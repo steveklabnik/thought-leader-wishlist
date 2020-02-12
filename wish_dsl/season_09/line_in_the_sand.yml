@@ -1,28 +1,36 @@
-- 
-  name: Line in the Sand (PvE)
-  item_id: 946443267
-  lightgg: https://www.light.gg/db/items/946443267/line-in-the-sand/
-  summary: >
-    Datto posted some in-depth comparisons between LitS and other DPS weapons
-    [earlier in Season 9](https://www.youtube.com/watch?v=ltzDK0NWMgM). As we
-    approach the final third of Season 9, it's still not a great DPS choice,
-    but it "can compete with the likes of Sole Survivor" but who knows what
-    will happen in the future? Since it's so easy to farm and S92 gives you
-    an extra perk in the final slot, why not hang on to these?
-  rolls:
-    - 
-      name: (PvE) Super Picky
-      desc: The full suite of perks to maximize DPS with LitS.
-      barrels: []
-      magazines: [Accelerated Coils]
-      perks1: [Rapid Hit]
-      perks2: [Firing Line]
-      masterworks: [Charge MW]
-    - 
-      name: (PvE) Baseline
-      desc: Really, any roll with these two perks is Good Enough(tm).
-      barrels: []
-      magazines: []
-      perks1: [Rapid Hit]
-      perks2: [Firing Line]
-      masterworks: []   
+name: Line in the Sand
+item_id: 946443267
+lightgg: https://www.light.gg/db/items/946443267/line-in-the-sand/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 2}
+  masterworks: {t: 5, c: 1}
+groups:  
+  - 
+    name: PvE
+    summary: >
+      Datto posted some in-depth comparisons between LitS and other DPS weapons
+      [earlier in Season 9](https://www.youtube.com/watch?v=ltzDK0NWMgM). As we
+      approach the final third of Season 9, it's still not a great DPS choice,
+      but it "can compete with the likes of Sole Survivor" but who knows what
+      will happen in the future? Since it's so easy to farm and S92 gives you
+      an extra perk in the final slot, why not hang on to these?
+    rolls:
+      - 
+        name: (PvE) Super Picky
+        desc: The full suite of perks to maximize DPS with LitS.
+        barrels: []
+        magazines: [Accelerated Coils]
+        perks1: [Rapid Hit]
+        perks2: [Firing Line]
+        masterworks: [Charge MW]
+      - 
+        name: (PvE) Baseline
+        desc: Really, any roll with these two perks is Good Enough(tm).
+        barrels: []
+        magazines: []
+        perks1: [Rapid Hit]
+        perks2: [Firing Line]
+        masterworks: []   

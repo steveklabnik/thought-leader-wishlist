@@ -1,146 +1,152 @@
-- 
-  name: Jack Queen King 3 (PvP)
-  item_id: 410996590
-  lightgg: https://www.light.gg/db/items/410996590/jack-queen-king-3/
-  summary: >
-    This is going to blow your mind... but JQK3 and Waking Vigil (via Dreaming
-    City) are the only two randomly rolled 150 RPM Hand Cannons apart from
-    Luna's Howl (RIP Luna) and Not Forgotten. Its base stats are [among the
-    best of all of these](https://www.light.gg/db/items/compare/?h=JLYoE;JLYoH;T6w4n;Yf09u).
-    `96` AA (91+Sight) and `73` Handling are nuts! For analysis and gameplay, check out
-    this [CammyCakes review](https://www.youtube.com/watch?v=oHIhi5fkxDw). One
-    interesting bit that stood out: "The diffence between a max range JKQ3 and
-    medium range one is about half a meter" so I'm not going to value a
-    combination of Range perks highly here. The Handling is phenomenal, so I'm
-    not going to value Snapshot super highly either.
-  rolls:
-    - &insanelypicky
-      name: (PvP) Incredibly, Hilariously Picky
-      desc: >
-        Be sure to let me know how many dieties you prayed to in order to get 
-        this roll. I'd suggest also buying a lottery ticket post-haste. As much
-        Stability as we can get.
-      barrels: [Steadyhand HCS]
-      magazines: [Ricochet Rounds]
-      perks1: [Demolitionist]
-      perks2: [Rampage]
-      masterworks: [Stability MW]
-    - 
-      <<: *insanelypicky
-      name: (PvP) Incredibly, Hilariously Picky (Slightly Relaxed)
-      desc: >
-        Similar to the above with slightly more options for a few columns.
-      barrels: [Truesight HCS, Fastdraw HCS, Steadyhand HCS]
-      magazines: [Ricochet Rounds, Flared Magwell]
-    - &rangestabilitymix
-      name: (PvP) Picky Range/Stability Mix
-      desc: >
-        Solid, Stability- and Range- focused mix of perks allowed across all
-        columns.
-      barrels: [Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS]
-      magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
-      perks1: [Demolitionist]
-      perks2: [Rampage]
-      masterworks: [Stability MW, Range MW]
-    -
-      <<: *rangestabilitymix
-      name: (PvP) Picky Range/Stability Mix (Minus Masterworks)
-      desc: >
-        Same as the above, minus the masterwork requirements.
-      masterworks: []
-    - &pickyfirestarter
-      name: (PvP) Super Picky Firestarter
-      desc: >
-        Let's see how much damage we can do in PvP with a Dragonfly Spec mod
-        on this weird roll.
-      barrels: [Truesight HCS, Fastdraw HCS, Steadyhand HCS]
-      magazines: [Ricochet Rounds, Flared Magwell]
-      perks1: [Demolitionist, Threat Detector, Pulse Monitor]
-      perks2: [Dragonfly]
-      masterworks: [Stability MW]
-    -
-      <<: *pickyfirestarter
-      name: (PvP) Super Picky Firestarter (Relaxed)
-      desc: >
-        Same as the above, loosened barrels, magazines and Masterworks.
-      barrels: [Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS]
-      magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
-      masterworks: []
-    - &perklesswonder
-      name: (PvP) Super Picky Perkless Wonder
-      desc: >
-        Listen, the base stats are so good that if we toss out the hardest to
-        get perk columns, we still have something pretty amazing.
-      barrels: [Steadyhand HCS]
-      magazines: [Ricochet Rounds]
-      perks1: []
-      perks2: []
-      masterworks: [Stability MW]
-    -
-      <<: *perklesswonder
-      name: (PvP) Super Picky Perkless Wonder (Slightly Relaxed)
-      desc: >
-        Let's let in a few more barrels and magazines.
-      barrels: [Truesight HCS, Fastdraw HCS, Steadyhand HCS]
-      magazines: [Ricochet Rounds, Flared Magwell]
-    -
-      <<: *perklesswonder
-      name: (PvP) Super Picky Perkless Wonder (Very Relaxed)
-      desc: >
-        Even without much greatness in the core perk columns, with the other
-        columns on some solid perks, this thing will do work.
-      barrels: [Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS]
-      magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
-      masterworks: [Stability MW, Range MW]
-    
-- 
-  name: Jack Queen King 3 (PvE)
-  item_id: 410996590
-  lightgg: https://www.light.gg/db/items/410996590/jack-queen-king-3/
-  summary: >
-    [Ehroar](https://www.youtube.com/watch?v=OVXNkbyfBrQ):
-    "I definitely think this will be one of the best hand cannons in PvE and
-    probably PvP in the energy slot." In general we're sticking with Rampage so
-    we can throw on Rampage Spec and ride it out. Sure Swashbuckler and 
-    Surrounded + Surrounded Spec are awesome but it's a Hand Cannon and you're
-    probably not punching enemies if you're trying to work in its effective
-    range. Those perks work better on sidearms, SMGs and shotguns.
-  rolls:
-    - &sparksflying
-      name: (PvE) Sparks Flying (Super Picky)
-      desc: >
-        Both Demolitionist and Subistence will proc once for each Dragonfly
-        explosion kill. Use in situations where you can one-shot enemies. Don't
-        forget Dragonfly Spec!
-      barrels: [Truesight HCS, Hitmark HCS, Crossfire HCS]
-      magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag]
-      perks1: [Demolitionist, Subsistence]
-      perks2: [Dragonfly]
-      masterworks: [Range MW]
-    - 
-      <<: *sparksflying
-      name: (PvE) Sparks Flying (Relaxed)
-      desc: >
-        Same as the above with relaxed barrels and masterworks. Neither good nor
-        bad enough to tank or make the roll.
-      barrels: []
-      masterworks: []
-    - &neverendingreloader
-      name: (PvE) The Never-Ending Reloader (Super Picky)
-      desc: >
-        You'll almost never have to reload here, because getting kills with the
-        sustained DPS perks will give you your grenade back and using your
-        grenace will reload the magazine.
-      barrels: [Truesight HCS, Hitmark HCS, Crossfire HCS]
-      magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag]
-      perks1: [Demolitionist]
-      perks2: [Rampage, Swashbuckler]
-      masterworks: [Range MW]
-    -
-      <<: *neverendingreloader
-      name: (PvE) The Never-Ending Reloader (Relaxed)
-      desc: >
-        Same as the above with relaxed barrels and masterworks. Neither good nor
-        bad enough to tank or make the roll.
-      barrels: []
-      masterworks: []
+name: Jack Queen King 3
+item_id: 410996590
+lightgg: https://www.light.gg/db/items/410996590/jack-queen-king-3/
+slots:
+  barrels:     {t: 6, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: PvP
+    summary: >
+      This is going to blow your mind... but JQK3 and Waking Vigil (via Dreaming
+      City) are the only two randomly rolled 150 RPM Hand Cannons apart from
+      Luna's Howl (RIP Luna) and Not Forgotten. Its base stats are [among the
+      best of all of these](https://www.light.gg/db/items/compare/?h=JLYoE;JLYoH;T6w4n;Yf09u).
+      `96` AA (91+Sight) and `73` Handling are nuts! For analysis and gameplay, check out
+      this [CammyCakes review](https://www.youtube.com/watch?v=oHIhi5fkxDw). One
+      interesting bit that stood out: "The diffence between a max range JKQ3 and
+      medium range one is about half a meter" so I'm not going to value a
+      combination of Range perks highly here. The Handling is phenomenal, so I'm
+      not going to value Snapshot super highly either.
+    rolls:
+      - &insanelypicky
+        name: (PvP) Incredibly, Hilariously Picky
+        desc: >
+          Be sure to let me know how many dieties you prayed to in order to get 
+          this roll. I'd suggest also buying a lottery ticket post-haste. As much
+          Stability as we can get.
+        barrels: [Steadyhand HCS]
+        magazines: [Ricochet Rounds]
+        perks1: [Demolitionist]
+        perks2: [Rampage]
+        masterworks: [Stability MW]
+      - 
+        <<: *insanelypicky
+        name: (PvP) Incredibly, Hilariously Picky (Slightly Relaxed)
+        desc: >
+          Similar to the above with slightly more options for a few columns.
+        barrels: [Truesight HCS, Fastdraw HCS, Steadyhand HCS]
+        magazines: [Ricochet Rounds, Flared Magwell]
+      - &rangestabilitymix
+        name: (PvP) Picky Range/Stability Mix
+        desc: >
+          Solid, Stability- and Range- focused mix of perks allowed across all
+          columns.
+        barrels: [Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS]
+        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
+        perks1: [Demolitionist]
+        perks2: [Rampage]
+        masterworks: [Stability MW, Range MW]
+      -
+        <<: *rangestabilitymix
+        name: (PvP) Picky Range/Stability Mix (Minus Masterworks)
+        desc: >
+          Same as the above, minus the masterwork requirements.
+        masterworks: []
+      - &pickyfirestarter
+        name: (PvP) Super Picky Firestarter
+        desc: >
+          Let's see how much damage we can do in PvP with a Dragonfly Spec mod
+          on this weird roll.
+        barrels: [Truesight HCS, Fastdraw HCS, Steadyhand HCS]
+        magazines: [Ricochet Rounds, Flared Magwell]
+        perks1: [Demolitionist, Threat Detector, Pulse Monitor]
+        perks2: [Dragonfly]
+        masterworks: [Stability MW]
+      -
+        <<: *pickyfirestarter
+        name: (PvP) Super Picky Firestarter (Relaxed)
+        desc: >
+          Same as the above, loosened barrels, magazines and Masterworks.
+        barrels: [Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS]
+        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
+        masterworks: []
+      - &perklesswonder
+        name: (PvP) Super Picky Perkless Wonder
+        desc: >
+          Listen, the base stats are so good that if we toss out the hardest to
+          get perk columns, we still have something pretty amazing.
+        barrels: [Steadyhand HCS]
+        magazines: [Ricochet Rounds]
+        perks1: []
+        perks2: []
+        masterworks: [Stability MW]
+      -
+        <<: *perklesswonder
+        name: (PvP) Super Picky Perkless Wonder (Slightly Relaxed)
+        desc: >
+          Let's let in a few more barrels and magazines.
+        barrels: [Truesight HCS, Fastdraw HCS, Steadyhand HCS]
+        magazines: [Ricochet Rounds, Flared Magwell]
+      -
+        <<: *perklesswonder
+        name: (PvP) Super Picky Perkless Wonder (Very Relaxed)
+        desc: >
+          Even without much greatness in the core perk columns, with the other
+          columns on some solid perks, this thing will do work.
+        barrels: [Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS]
+        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
+        masterworks: [Stability MW, Range MW]
+      
+  - 
+    name: PvE
+    summary: >
+      [Ehroar](https://www.youtube.com/watch?v=OVXNkbyfBrQ):
+      "I definitely think this will be one of the best hand cannons in PvE and
+      probably PvP in the energy slot." In general we're sticking with Rampage so
+      we can throw on Rampage Spec and ride it out. Sure Swashbuckler and 
+      Surrounded + Surrounded Spec are awesome but it's a Hand Cannon and you're
+      probably not punching enemies if you're trying to work in its effective
+      range. Those perks work better on sidearms, SMGs and shotguns.
+    rolls:
+      - &sparksflying
+        name: (PvE) Sparks Flying (Super Picky)
+        desc: >
+          Both Demolitionist and Subistence will proc once for each Dragonfly
+          explosion kill. Use in situations where you can one-shot enemies. Don't
+          forget Dragonfly Spec!
+        barrels: [Truesight HCS, Hitmark HCS, Crossfire HCS]
+        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag]
+        perks1: [Demolitionist, Subsistence]
+        perks2: [Dragonfly]
+        masterworks: [Range MW]
+      - 
+        <<: *sparksflying
+        name: (PvE) Sparks Flying (Relaxed)
+        desc: >
+          Same as the above with relaxed barrels and masterworks. Neither good nor
+          bad enough to tank or make the roll.
+        barrels: []
+        masterworks: []
+      - &neverendingreloader
+        name: (PvE) The Never-Ending Reloader (Super Picky)
+        desc: >
+          You'll almost never have to reload here, because getting kills with the
+          sustained DPS perks will give you your grenade back and using your
+          grenace will reload the magazine.
+        barrels: [Truesight HCS, Hitmark HCS, Crossfire HCS]
+        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag]
+        perks1: [Demolitionist]
+        perks2: [Rampage, Swashbuckler]
+        masterworks: [Range MW]
+      -
+        <<: *neverendingreloader
+        name: (PvE) The Never-Ending Reloader (Relaxed)
+        desc: >
+          Same as the above with relaxed barrels and masterworks. Neither good nor
+          bad enough to tank or make the roll.
+        barrels: []
+        masterworks: []

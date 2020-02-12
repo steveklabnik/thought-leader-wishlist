@@ -5,9 +5,9 @@ require 'yaml'
 PERK_MAP = YAML.load_file('perk_ids.yml')
 
 task :generate_wishlist do
-  weapon_roll_groups = []
+  weapons = []
   Dir['wish_dsl/**/*.yml'].sort.each do |roll_file|
-    weapon_roll_groups += YAML.load_file(roll_file)
+    weapons << YAML.load_file(roll_file)
   end
   
   File.open('wishlist.txt', 'w') do |wishlist|
@@ -18,15 +18,17 @@ task :generate_wishlist do
     # are written to the wishlist
     item_ids = Set.new
 
-    weapon_roll_groups.each do |g|
-      item_ids.add(g['item_id'])
-      g['rolls'].each do |r|
-        wishlist.puts("//notes:#{r['name']}")
-        perk_ids = []
-        %w(barrels magazines perks1 perks2 masterworks).each do |slot|
-          perk_ids << convert_to_perk_ids(r[slot]) unless r[slot].empty?
+    weapons.each do |w|
+      item_ids.add(w['item_id'])
+      w['groups'].each do |group|
+        group['rolls'].each do |roll|
+          wishlist.puts("//notes:#{roll['name']}")
+          perk_ids = []
+          %w(barrels magazines perks1 perks2 masterworks).each do |slot|
+            perk_ids << convert_to_perk_ids(roll[slot]) unless roll[slot].empty?
+          end
+          write_roll(wishlist, w['item_id'], perk_ids, [], 0)
         end
-        write_roll(wishlist, g['item_id'], perk_ids, [], 0)
       end
     end
 

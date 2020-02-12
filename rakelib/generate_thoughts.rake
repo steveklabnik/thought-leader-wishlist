@@ -12,9 +12,9 @@ TRAITS = [
 
 desc "Format notes from our roll data"
 task :generate_thoughts do
-  weapon_roll_groups = []
+  weapons = []
   Dir['wish_dsl/**/*.yml'].sort.each do |roll_file|
-    weapon_roll_groups += YAML.load_file(roll_file)
+    weapons << YAML.load_file(roll_file)
   end
 
   File.open('thought_process.md', 'w') do |thoughts|
@@ -40,22 +40,25 @@ do double-duty. That's just how the wishlist feature currently works, so use you
 own discretion.
 
 PREAMBLE
-    weapon_roll_groups.each do |g|
-      thoughts.puts("## #{g['name']}")
-      thoughts.puts(g['summary'])
+    weapons.each do |weapon|
 
-      g['rolls'].each do |r|
-        thoughts.puts("* **%s (%0.1f%% chance)**: %s" % [ r['name'], calculate_probability(g['item_id'], r), r['desc'].strip])
-        thoughts.puts('  ```')
-        TRAITS.each do |t|
-          if (r[t[:key]].empty?)
-            thoughts.puts("  #{t[:label]} (100%): #{t[:fallback]}")
-          else
-            p = column_probability(g['item_id'], r, t[:key])
-            thoughts.puts("  #{t[:label]} ( %d%%): #{r[t[:key]].join(', ')}" % [p * 100])
+      weapon['groups'].each do |group|
+        thoughts.puts("## #{weapon['name']} (#{group['name']})")
+        thoughts.puts(group['summary'])
+
+        group['rolls'].each do |r|
+          thoughts.puts("* **%s (%0.1f%% chance)**: %s" % [r['name'], calculate_probability(weapon['item_id'], r), r['desc'].strip])
+          thoughts.puts('  ```')
+          TRAITS.each do |t|
+            if (r[t[:key]].empty?)
+              thoughts.puts("  #{t[:label]} (100%): #{t[:fallback]}")
+            else
+              p = column_probability(weapon['item_id'], r, t[:key])
+              thoughts.puts("  #{t[:label]} ( %d%%): #{r[t[:key]].join(', ')}" % [p * 100])
+            end
           end
+          thoughts.puts('  ```')
         end
-        thoughts.puts('  ```')
       end
     end
   end

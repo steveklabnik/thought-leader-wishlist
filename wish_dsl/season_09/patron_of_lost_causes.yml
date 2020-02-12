@@ -1,72 +1,78 @@
-- 
-  name: Patron of Lost Causes (PvP)
-  item_id: 2723241847
-  lightgg: https://www.light.gg/db/items/2723241847/patron-of-lost-causes/
-  summary: >
-    CoolGuy absolutely loves his Patron, and has a great [video review of it](https://www.youtube.com/watch?v=GTcp4JQD1fI).
-    I'm on controller so these rolls are all about maxing our stability. Fortunately
-    we have a pretty broad set of useful rolls. Randy's is in the same slot and
-    has Rapid-Hit + Kill Clip already, so I'm not losing too much sleep about
-    getting a perfect roll here.
-  rolls:
-    - 
-      name: (PvP) Super Picky
-      desc: >
-        This is all about stability. Yes, Explosive Rounds and Vorpal don't
-        increase stability but they would make this already great roll even
-        better.
-      barrels: [Smallbore, Corkscrew Rifling, Chambered Compensator, Polygonal Rifling, Fluted Barrel]
-      magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
-      perks1: [Rapid Hit]
-      perks2: [Explosive Rounds, Elemental Capacitor, Vorpal]
-      masterworks: [Stability MW]
-    - 
-      name: (PvP) Super Picky (Minus Barrels)
-      desc: Same as above, minus the barrels
-      barrels: []
-      magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
-      perks1: [Rapid Hit]
-      perks2: [Explosive Rounds, Elemental Capacitor, Vorpal]
-      masterworks: [Stability MW]            
-    - 
-      name: (PvP) Super Picky (Minus Magazines)
-      desc: Same as above, minus the magazines
-      barrels: [Smallbore, Corkscrew Rifling, Chambered Compensator, Polygonal Rifling, Fluted Barrel]
-      magazines: []
-      perks1: [Rapid Hit]
-      perks2: [Explosive Rounds, Elemental Capacitor, Vorpal]
-      masterworks: [Stability MW]  
-    - 
-      name: (PvP) Super Picky (Minus Perks)
-      desc: Same as above, minus the perks
-      barrels: [Smallbore, Corkscrew Rifling, Chambered Compensator, Polygonal Rifling, Fluted Barrel]
-      magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
-      perks1: [Rapid Hit]
-      perks2: []
-      masterworks: [Stability MW]                        
-    - 
-      name: (PvP) Super Picky (Minus Stability MW)
-      desc: Same as above, minus the masterwork
-      barrels: [Smallbore, Corkscrew Rifling, Chambered Compensator, Polygonal Rifling, Fluted Barrel]
-      magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
-      perks1: [Rapid Hit]
-      perks2: [Explosive Rounds, Elemental Capacitor, Vorpal]
-      masterworks: []
-- 
-  name: Patron of Lost Causes (PvE)
-  item_id: 2723241847
-  lightgg: https://www.light.gg/db/items/2723241847/patron-of-lost-causes/
-  summary: >
-    This is the only Scout Rifle that can roll Vorpal or Osmosis. This isn't a
-    high priority roll for you to go after and it's also pretty much the core
-    components of the PvP rolls we have down already. With the S92 double-perk
-    bonus, you should be able to get one of these pretty promptly :)
-  rolls:
-    - 
-      name: (PvE) Utility
-      desc: Future-proofing
-      barrels: []
-      magazines: []
-      perks1: [Rapid Hit]
-      perks2: [Osmosis, Vorpal]
-      masterworks: []
+name: Patron of Lost Causes
+item_id: 2723241847
+lightgg: https://www.light.gg/db/items/2723241847/patron-of-lost-causes/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 2}
+  masterworks: {t: 4, c: 1} 
+groups: 
+  - 
+    name: PvP
+    summary: >
+      CoolGuy absolutely loves his Patron, and has a great [video review of it](https://www.youtube.com/watch?v=GTcp4JQD1fI).
+      I'm on controller so these rolls are all about maxing our stability. Fortunately
+      we have a pretty broad set of useful rolls. Randy's is in the same slot and
+      has Rapid-Hit + Kill Clip already, so I'm not losing too much sleep about
+      getting a perfect roll here.
+    rolls:
+      - 
+        name: (PvP) Super Picky
+        desc: >
+          This is all about stability. Yes, Explosive Rounds and Vorpal don't
+          increase stability but they would make this already great roll even
+          better.
+        barrels: [Smallbore, Corkscrew Rifling, Chambered Compensator, Polygonal Rifling, Fluted Barrel]
+        magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
+        perks1: [Rapid Hit]
+        perks2: [Explosive Rounds, Elemental Capacitor, Vorpal]
+        masterworks: [Stability MW]
+      - 
+        name: (PvP) Super Picky (Minus Barrels)
+        desc: Same as above, minus the barrels
+        barrels: []
+        magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
+        perks1: [Rapid Hit]
+        perks2: [Explosive Rounds, Elemental Capacitor, Vorpal]
+        masterworks: [Stability MW]            
+      - 
+        name: (PvP) Super Picky (Minus Magazines)
+        desc: Same as above, minus the magazines
+        barrels: [Smallbore, Corkscrew Rifling, Chambered Compensator, Polygonal Rifling, Fluted Barrel]
+        magazines: []
+        perks1: [Rapid Hit]
+        perks2: [Explosive Rounds, Elemental Capacitor, Vorpal]
+        masterworks: [Stability MW]  
+      - 
+        name: (PvP) Super Picky (Minus Perks)
+        desc: Same as above, minus the perks
+        barrels: [Smallbore, Corkscrew Rifling, Chambered Compensator, Polygonal Rifling, Fluted Barrel]
+        magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
+        perks1: [Rapid Hit]
+        perks2: []
+        masterworks: [Stability MW]                        
+      - 
+        name: (PvP) Super Picky (Minus Stability MW)
+        desc: Same as above, minus the masterwork
+        barrels: [Smallbore, Corkscrew Rifling, Chambered Compensator, Polygonal Rifling, Fluted Barrel]
+        magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
+        perks1: [Rapid Hit]
+        perks2: [Explosive Rounds, Elemental Capacitor, Vorpal]
+        masterworks: []
+  - 
+    name: PvE
+    summary: >
+      This is the only Scout Rifle that can roll Vorpal or Osmosis. This isn't a
+      high priority roll for you to go after and it's also pretty much the core
+      components of the PvP rolls we have down already. With the S92 double-perk
+      bonus, you should be able to get one of these pretty promptly :)
+    rolls:
+      - 
+        name: (PvE) Utility
+        desc: Future-proofing
+        barrels: []
+        magazines: []
+        perks1: [Rapid Hit]
+        perks2: [Osmosis, Vorpal]
+        masterworks: []
