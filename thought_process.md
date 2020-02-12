@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-12 04:50:54 +00:00`. The most recent
+created on `2020-02-12 04:56:22 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -20,21 +20,21 @@ own discretion.
 ---
 
 **Season 9 - Season of the Dawn**
-* Breachlight ([PvP](#breachlight), [PvE](#breachlight))
-* Gallant Charge ([PvP](#gallant%20charge), [PvE](#gallant%20charge))
-* Infinite Paths 8 ([PvP](#infinite%20paths%208), [PvE](#infinite%20paths%208))
-* Jack Queen King 3 ([PvP](#jack%20queen%20king%203), [PvE](#jack%20queen%20king%203))
-* Line in the Sand ([PvE](#line%20in%20the%20sand))
-* Martyr's Retribution ([PvP](#martyr's%20retribution), [PvE](#martyr's%20retribution))
-* Patron of Lost Causes ([PvP](#patron%20of%20lost%20causes), [PvE](#patron%20of%20lost%20causes))
-* Perfect Paradox ([PvE](#perfect%20paradox))
-* Steelfeather Repeater ([PvP](#steelfeather%20repeater), [PvE](#steelfeather%20repeater))
-* Traveler's Judgement 5 ([PvP](#traveler's%20judgement%205), [PvE](#traveler's%20judgement%205))
-* Trophy Hunter ([PvP](#trophy%20hunter), [PvE](#trophy%20hunter))
+* Breachlight ([PvP](#breachlight%20-%20pvp), [PvE](#breachlight%20-%20pve))
+* Gallant Charge ([PvP](#gallant%20charge%20-%20pvp), [PvE](#gallant%20charge%20-%20pve))
+* Infinite Paths 8 ([PvP](#infinite%20paths%208%20-%20pvp), [PvE](#infinite%20paths%208%20-%20pve))
+* Jack Queen King 3 ([PvP](#jack%20queen%20king%203%20-%20pvp), [PvE](#jack%20queen%20king%203%20-%20pve))
+* Line in the Sand ([PvE](#line%20in%20the%20sand%20-%20pve))
+* Martyr's Retribution ([PvP](#martyr's%20retribution%20-%20pvp), [PvE](#martyr's%20retribution%20-%20pve))
+* Patron of Lost Causes ([PvP](#patron%20of%20lost%20causes%20-%20pvp), [PvE](#patron%20of%20lost%20causes%20-%20pve))
+* Perfect Paradox ([PvE](#perfect%20paradox%20-%20pve))
+* Steelfeather Repeater ([PvP](#steelfeather%20repeater%20-%20pvp), [PvE](#steelfeather%20repeater%20-%20pve))
+* Traveler's Judgement 5 ([PvP](#traveler's%20judgement%205%20-%20pvp), [PvE](#traveler's%20judgement%205%20-%20pve))
+* Trophy Hunter ([PvP](#trophy%20hunter%20-%20pvp), [PvE](#trophy%20hunter%20-%20pve))
 
 **World Drops**
-* Black Scorpion-4sr ([PvP](#black%20scorpion-4sr), [PvE](#black%20scorpion-4sr))
-* Bygones ([PvP](#bygones), [PvE](#bygones))
+* Black Scorpion-4sr ([PvP](#black%20scorpion-4sr%20-%20pvp), [PvE](#black%20scorpion-4sr%20-%20pve))
+* Bygones ([PvP](#bygones%20-%20pvp), [PvE](#bygones%20-%20pve))
 
 ---
 ## Breachlight - PvP
