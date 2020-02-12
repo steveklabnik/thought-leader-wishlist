@@ -1,6 +1,5 @@
 require 'date'
 require 'yaml'
-require './lib/sliflist.rb'
 
 TRAITS = [
   {:key => 'barrels',     :label => 'Barrels', :fallback => '(Any barrel)'},
@@ -47,13 +46,13 @@ PREAMBLE
         thoughts.puts(group['summary'])
 
         group['rolls'].each do |r|
-          thoughts.puts("* **%s (%0.1f%% chance)**: %s" % [r['name'], calculate_probability(weapon['item_id'], r), r['desc'].strip])
+          thoughts.puts("* **%s (%0.1f%% chance)**: %s" % [r['name'], calculate_probability(weapon, r), r['desc'].strip])
           thoughts.puts('  ```')
           TRAITS.each do |t|
             if (r[t[:key]].empty?)
               thoughts.puts("  #{t[:label]} (100%): #{t[:fallback]}")
             else
-              p = column_probability(weapon['item_id'], r, t[:key])
+              p = column_probability(weapon, r, t[:key])
               thoughts.puts("  #{t[:label]} ( %d%%): #{r[t[:key]].join(', ')}" % [p * 100])
             end
           end
@@ -73,13 +72,13 @@ def combinations(total_perks, unique_choices)
   return factorial(total_perks).to_f / (factorial(unique_choices) * factorial(total_perks-unique_choices))
 end
 
-def column_probability(item_id, roll, column_key)
+def column_probability(weapon, roll, column_key)
   good_perks = roll[column_key].length
   # An empty list of perks means all are acceptable
   return 1.0 if good_perks == 0
 
-  total_perks = WeaponDatabase.total_perks_in_column(item_id, column_key)
-  available_slots = WeaponDatabase.slots_in_column(item_id, column_key)
+  total_perks = weapon['slots'][column_key]['t']
+  available_slots = weapon['slots'][column_key]['c']
   
   # If we're gauranteed to get a perk because there are more slots
   # than there are bad perks, bail out
@@ -90,10 +89,10 @@ def column_probability(item_id, roll, column_key)
   (total - bad) / total
 end
 
-def calculate_probability(item_id, roll)
+def calculate_probability(weapon, roll)
   columnar_probabilities = []
   TRAITS.each do |t|
-    columnar_probabilities << column_probability(item_id, roll, t[:key])
+    columnar_probabilities << column_probability(weapon, roll, t[:key])
   end
   columnar_probabilities.reduce(:*) * 100
 end
