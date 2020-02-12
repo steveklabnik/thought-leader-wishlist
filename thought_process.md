@@ -1,9 +1,8 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-12 03:48:33 +00:00`. The most recent
+created on `2020-02-12 04:50:54 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
-## Introduction
 These rolls are applied in order for each weapon, so the ordering is important.
 This means the better rolls will match first, in much the same you would decide
 on a roll yourself. For example Steelfeather PvE rolls at the top of the list are
@@ -18,7 +17,27 @@ that there's a chance a match is flagged and commented as a PvP roll in the DIM
 do double-duty. That's just how the wishlist feature currently works, so use your
 own discretion.
 
-## Breachlight (PvP)
+---
+
+**Season 9 - Season of the Dawn**
+* Breachlight ([PvP](#breachlight), [PvE](#breachlight))
+* Gallant Charge ([PvP](#gallant%20charge), [PvE](#gallant%20charge))
+* Infinite Paths 8 ([PvP](#infinite%20paths%208), [PvE](#infinite%20paths%208))
+* Jack Queen King 3 ([PvP](#jack%20queen%20king%203), [PvE](#jack%20queen%20king%203))
+* Line in the Sand ([PvE](#line%20in%20the%20sand))
+* Martyr's Retribution ([PvP](#martyr's%20retribution), [PvE](#martyr's%20retribution))
+* Patron of Lost Causes ([PvP](#patron%20of%20lost%20causes), [PvE](#patron%20of%20lost%20causes))
+* Perfect Paradox ([PvE](#perfect%20paradox))
+* Steelfeather Repeater ([PvP](#steelfeather%20repeater), [PvE](#steelfeather%20repeater))
+* Traveler's Judgement 5 ([PvP](#traveler's%20judgement%205), [PvE](#traveler's%20judgement%205))
+* Trophy Hunter ([PvP](#trophy%20hunter), [PvE](#trophy%20hunter))
+
+**World Drops**
+* Black Scorpion-4sr ([PvP](#black%20scorpion-4sr), [PvE](#black%20scorpion-4sr))
+* Bygones ([PvP](#bygones), [PvE](#bygones))
+
+---
+## Breachlight - PvP
 CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE and PvP but focuses intensely on PvP. Some choice cuts: "I would try other rolls while I was reviewing this and I kept coming back to Vorpal." "Landing shots is more important than accuracy; shouldn't be worried about straight precision. More important to get the recoil straight up and down than it is to add stability because you have to control the stability after every burst anyway." I have to agree - Vorpal is pretty amazing in PvP and I did wish I had it several times. Without Vorpal or Quickdraw, it's just another two-burst sidearm, which is great but you don't need a wishlist for that :)
 * **(PvP) Slif's Super Picky (0.3% chance)**: This is my personal perfect PVP roll. Threat Detector has a far longer range than you'd think (beyond damage falloff) and Vorpal shreds through supers. The rest of this roll is all about maxing out the range.
   ```
@@ -52,7 +71,7 @@ CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE 
   Perks 2 ( 60%): Vorpal, Quickdraw
   MWorks  (100%): (Any masterwork)
   ```
-## Breachlight (PvE)
+## Breachlight - PvE
 Ehroar focuses on Breachlight - ["This Sidearm Might Just Be The New Recluse"](https://www.youtube.com/watch?v=TrYRPglvMHY) "I truly believe this weapon is better than Recluse and I believe it will be the new meta for PvE." He mentions three amazing rolls (well four kinda) that I'll capture below.
 * **(PvE) Picky Gunslinger (0.3% chance)**: Ehroar: "Great for basic add clear. Once you get MKC going you can shred Majors and Ultras." We're going for max range with some extra perks and a Masterwork, but those are just icing on this shredding cake.
   ```
@@ -126,7 +145,7 @@ Ehroar focuses on Breachlight - ["This Sidearm Might Just Be The New Recluse"](h
   Perks 2 ( 33%): Osmosis
   MWorks  (100%): (Any masterwork)
   ```
-## Gallant Charge (PvP)
+## Gallant Charge - PvP
 Fallout has an interesting, [pro-Stability take](https://www.youtube.com/watch?v=pVVLwg1pVs4) on the Gallant. "This might be THE fusion rifle for controller players". It's bolt grouping isn't as tight, but you can get Recoil to 100 (with a Counterbalance mod). Go for Stability! With respect to the magazine, I prefer the unaltered charge time.
 * **(PvP) Super Picky Stability (1.3% chance)**: Bringing all of our stability and range tools to bear here. We want to first "fix" the recoil by getting it as close to ending in a `5` as we can. Then we go for Stability!
   ```
@@ -176,7 +195,7 @@ Fallout has an interesting, [pro-Stability take](https://www.youtube.com/watch?v
   Perks 2 ( 33%): Tap the Trigger
   MWorks  (100%): (Any masterwork)
   ```
-## Gallant Charge (PvE)
+## Gallant Charge - PvE
 CoolGuy has a [terrific PvE review](https://www.youtube.com/watch?v=q6BPg-W8z9g) of the Gallant. It has a PvP perspective but that part isn't as strong as Fallout's (IMHO, on this particular weapon).
 * **(PvE) Sustained DPS (4.2% chance)**: How can we maximize damage uptime and bolt hits while minimizing falloff?
   ```
@@ -258,7 +277,7 @@ CoolGuy has a [terrific PvE review](https://www.youtube.com/watch?v=q6BPg-W8z9g)
   Perks 2 ( 33%): Swashbuckler
   MWorks  (100%): (Any masterwork)
   ```
-## Infinite Paths 8 (PvP)
+## Infinite Paths 8 - PvP
 CoolGuy reviews IP8 for both PvP and PvE, which is where these rolls originate. He discusses the State of the Union with respect to these frames [timestamped here](https://www.youtube.com/watch?v=-ZnUT63RgnE&feature=youtu.be&t=1023) and it makes for super interesting listening. TL;DR - Of all the Pulse Rifle frames, the lightweights require you to be the most precise yet reward you with the second slowest TTK.
 * **(PvP) Picky (0.0% chance)**: This roll focuses on addressing recoil and stability. Because it needs so much help, there isn't much room left for neat damage perks :)
   ```
@@ -276,7 +295,7 @@ CoolGuy reviews IP8 for both PvP and PvE, which is where these rolls originate. 
   Perks 2 ( 16%): Swashbuckler
   MWorks  ( 25%): Stability MW
   ```
-## Infinite Paths 8 (PvE)
+## Infinite Paths 8 - PvE
 Here we're featuring a few rolls from the CoolGuy [video](https://www.youtube.com/watch?v=-ZnUT63RgnE) mentioned above. I would put these pretty low on my list but if you're a fan of the aesthetic of the Osiris weapons, why not grab a few of these while they're still available?
 * **(PvE) Explosive Dragon (2.8% chance)**: This is the only weapon in the game that has this perk combo available! Each enemy that dies to Dragonfly (don't forget Dragonfly Spec!) will count as an additional kill for Demolitionist. It does work. Probably not your best Energy weapon but a fun one for shredding red bars. I would collect it and store it.
   ```
@@ -294,7 +313,7 @@ Here we're featuring a few rolls from the CoolGuy [video](https://www.youtube.co
   Perks 2 ( 16%): Swashbuckler
   MWorks  (100%): (Any masterwork)
   ```
-## Jack Queen King 3 (PvP)
+## Jack Queen King 3 - PvP
 This is going to blow your mind... but JQK3 and Waking Vigil (via Dreaming City) are the only two randomly rolled 150 RPM Hand Cannons apart from Luna's Howl (RIP Luna) and Not Forgotten. Its base stats are [among the best of all of these](https://www.light.gg/db/items/compare/?h=JLYoE;JLYoH;T6w4n;Yf09u). `96` AA (91+Sight) and `73` Handling are nuts! For analysis and gameplay, check out this [CammyCakes review](https://www.youtube.com/watch?v=oHIhi5fkxDw). One interesting bit that stood out: "The diffence between a max range JKQ3 and medium range one is about half a meter" so I'm not going to value a combination of Range perks highly here. The Handling is phenomenal, so I'm not going to value Snapshot super highly either.
 * **(PvP) Incredibly, Hilariously Picky (0.1% chance)**: Be sure to let me know how many dieties you prayed to in order to get  this roll. I'd suggest also buying a lottery ticket post-haste. As much Stability as we can get.
   ```
@@ -368,7 +387,7 @@ This is going to blow your mind... but JQK3 and Waking Vigil (via Dreaming City)
   Perks 2 (100%): (Any perk)
   MWorks  ( 50%): Stability MW, Range MW
   ```
-## Jack Queen King 3 (PvE)
+## Jack Queen King 3 - PvE
 [Ehroar](https://www.youtube.com/watch?v=OVXNkbyfBrQ): "I definitely think this will be one of the best hand cannons in PvE and probably PvP in the energy slot." In general we're sticking with Rampage so we can throw on Rampage Spec and ride it out. Sure Swashbuckler and  Surrounded + Surrounded Spec are awesome but it's a Hand Cannon and you're probably not punching enemies if you're trying to work in its effective range. Those perks work better on sidearms, SMGs and shotguns.
 * **(PvE) Sparks Flying (Super Picky) (0.9% chance)**: Both Demolitionist and Subistence will proc once for each Dragonfly explosion kill. Use in situations where you can one-shot enemies. Don't forget Dragonfly Spec!
   ```
@@ -402,7 +421,7 @@ This is going to blow your mind... but JQK3 and Waking Vigil (via Dreaming City)
   Perks 2 ( 33%): Rampage, Swashbuckler
   MWorks  (100%): (Any masterwork)
   ```
-## Line in the Sand (PvE)
+## Line in the Sand - PvE
 Datto posted some in-depth comparisons between LitS and other DPS weapons [earlier in Season 9](https://www.youtube.com/watch?v=ltzDK0NWMgM). As we approach the final third of Season 9, it's still not a great DPS choice, but it "can compete with the likes of Sole Survivor" but who knows what will happen in the future? Since it's so easy to farm and S92 gives you an extra perk in the final slot, why not hang on to these?
 * **(PvE) Super Picky (0.4% chance)**: The full suite of perks to maximize DPS with LitS.
   ```
@@ -420,7 +439,7 @@ Datto posted some in-depth comparisons between LitS and other DPS weapons [earli
   Perks 2 ( 33%): Firing Line
   MWorks  (100%): (Any masterwork)
   ```
-## Martyr's Retribution (PvP)
+## Martyr's Retribution - PvP
 I absolutely love this new "Wave Frame" (i.e. Thermite Jr.) archetype! Our roll choices below might seem a little odd, but here we go. For PvP I want this always ready, loaded and moving quickly. That means I'm looking for velocity, reload and handling wherever I can get it. The base Velocity is `76` and since the second column perks are fixed, that's a flat `+9` so we're at `84`. That seems more than good enough, so lets focus on reload + handling. There's only one roll here because it's not that hard to farm.
 * **(PvP) Super Picky (4.6% chance)**: Threat Detector has such a long proc range that I'm going to put it on par with Auto-Loading Holster here. We can choose (or not choose) to use the reload and handling boosts on Elemental Capacitor, paired with the masterworks. Don't forget a `Quick Access Sling` mod!
   ```
@@ -438,7 +457,7 @@ I absolutely love this new "Wave Frame" (i.e. Thermite Jr.) archetype! Our roll 
   Perks 2 (100%): (Any perk)
   MWorks  ( 40%): Reload MW, Handling MW
   ```
-## Martyr's Retribution (PvE)
+## Martyr's Retribution - PvE
 This is one of my favourite weapons in all of Destiny! Pretty much any roll is fine but if you want to push your roll criteria, here we go.
 * **(PvE) The Instant Reloader (3.4% chance)**: We're doing everything we can to reload as quickly as possible with this roll. How do we keep one in the chamber constantly?
   ```
@@ -456,7 +475,7 @@ This is one of my favourite weapons in all of Destiny! Pretty much any roll is f
   Perks 2 ( 40%): Demolitionist
   MWorks  ( 40%): Reload MW, Handling MW
   ```
-## Patron of Lost Causes (PvP)
+## Patron of Lost Causes - PvP
 CoolGuy absolutely loves his Patron, and has a great [video review of it](https://www.youtube.com/watch?v=GTcp4JQD1fI). I'm on controller so these rolls are all about maxing our stability. Fortunately we have a pretty broad set of useful rolls. Randy's is in the same slot and has Rapid-Hit + Kill Clip already, so I'm not losing too much sleep about getting a perfect roll here.
 * **(PvP) Super Picky (1.8% chance)**: This is all about stability. Yes, Explosive Rounds and Vorpal don't increase stability but they would make this already great roll even better.
   ```
@@ -498,7 +517,7 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   Perks 2 ( 80%): Explosive Rounds, Elemental Capacitor, Vorpal
   MWorks  (100%): (Any masterwork)
   ```
-## Patron of Lost Causes (PvE)
+## Patron of Lost Causes - PvE
 This is the only Scout Rifle that can roll Vorpal or Osmosis. This isn't a high priority roll for you to go after and it's also pretty much the core components of the PvP rolls we have down already. With the S92 double-perk bonus, you should be able to get one of these pretty promptly :)
 * **(PvE) Utility (10.0% chance)**: Future-proofing
   ```
@@ -508,7 +527,7 @@ This is the only Scout Rifle that can roll Vorpal or Osmosis. This isn't a high 
   Perks 2 ( 60%): Osmosis, Vorpal
   MWorks  (100%): (Any masterwork)
   ```
-## Perfect Paradox (PvE)
+## Perfect Paradox - PvE
 For PvE, [Aztecross](https://www.youtube.com/watch?v=vGe3z2doHbQ) likes Demolitionist with Swashbuckler or Rampage for a large damage boost.
 Trench barrel has been nerfed to the point where there are better options but it could be worth picking one up in case the perk gets revived.
 There are also better One-Two Punch shotguns, but it wouldn't be a bad secondary perk if you're at s92.
@@ -537,7 +556,7 @@ For PvP, he likes Slideshot with Opening Shot or Rampage and  [Destiny Fun Polic
   Perks 2 ( 60%): Rampage, Swashbuckler
   MWorks  (100%): (Any masterwork)
   ```
-## Steelfeather Repeater (PvP)
+## Steelfeather Repeater - PvP
 CoolGuy does a [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI) of Steelfeather and it doesn't have super high marks for PvP. The base Stability at `38` is abysmal, so for a decent PvP roll we're looking to correct that. If we fix Recoil, it mitigates such low Stability. A base Recoil of `57` means we're not going to be able to bring it under control unless we use Arrowhead Brake with a Counterbalance mod. From there on out, we're going for as much Stability as we can. Without Stability and Recoil mitigation, there's not a lot of reason to use this weapon, hence the small number of PvP rolls. If you want to see firsthand why Firmly Planted is so amazing, [check out this timestamp](https://youtu.be/anp5VBGfhmI?t=214) for PvE testing and [this timestamp](https://www.youtube.com/watch?v=anp5VBGfhmI&feature=youtu.be&t=689) for PvP. "I feel it's a decent weapon. I personally don't crown it anything beyond it's a fun AR to have in your rotation."
 * **(PvP) Super Picky (0.4% chance)**: We're looking to max stability after maxing recoil, as much as we can. The roll is built around `Arrowhead Brake` and `Firmly Planted`. Other sources of stability are terrific of course, but without those two, we don't have enough control to matter.
   ```
@@ -563,7 +582,7 @@ CoolGuy does a [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI)
   Perks 2 ( 33%): Elemental Capacitor
   MWorks  (100%): (Any masterwork)
   ```
-## Steelfeather Repeater (PvE)
+## Steelfeather Repeater - PvE
 There are two long form Steelfeather reviews kicking around. CoolGuy does a [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI) of the weapon overall with PvE and PvP thoughts. [Aztecross](https://www.youtube.com/watch?v=zdhugEZT1C4) has one as well and per usual, has a bit more excited yelling :) Interestingly they both compare it to a "higher range SMG". They also both comment on its applicability (or lack of) to anything beyond slaying red-bar enemies. In Sundial for example, it runs out of steam. Oddly enough, Breachlight performs better in that role; go figure. "I feel it's a decent weapon. I personally don't crown it anything beyond it's a fun AR to have in your rotation."
 * **(PvE) Super Picky (7.2% chance)**: How can we keep DPS up as long as possible while preserving as much Range and Stability as possible?
   ```
@@ -621,7 +640,7 @@ There are two long form Steelfeather reviews kicking around. CoolGuy does a [ter
   Perks 2 ( 60%): Vorpal, Osmosis
   MWorks  (100%): (Any masterwork)
   ```
-## Traveler's Judgement 5 (PvP)
+## Traveler's Judgement 5 - PvP
 CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZQdY4)! Paraphrased: There isn't a bad sight and it has little to no recoil. It can roll with Disruption Break which works in PvP (Slif: ?!). Rapid Hit and Tap the Trigger being available is a rare combo. Worth your time to farm a few of these. Keep in mind they don't benefit from from the Season Pass L92  additional perk in the last slot, so it can be a bit painful. Recently, True Vanguard [released a video](https://www.youtube.com/watch?v=9QXBw6NFi08) and that reminded me to get a little more specific on the picky rolls. I've included all but the worst two sights that majorly ding Stability and Handling.
 * **(PvP) Super Pickiest of Tappers (0.1% chance)**: Rapid Hit makes it incredibly stable and TtT procs on every other burst. Going for max range after that. This is going to be an incredibly hard roll to get, so buy a lottery ticket if it lands for you.
   ```
@@ -735,7 +754,7 @@ CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZ
   Perks 2 ( 16%): Disruption Break
   MWorks  (100%): (Any masterwork)
   ```
-## Traveler's Judgement 5 (PvE)
+## Traveler's Judgement 5 - PvE
 These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=J4HGIAZQdY4) above. Shieldbreaker, who knew?
 * **(PvE) Picky Shieldbreaker (1.4% chance)**: Don't Sleep on Disruption Break! CoolGuy makes a great point: we might see a "season of the sidearm" where artifact perks can be applied to sidearms. That could mean breaking Barriers with Disruption Break, and not many weapons can roll with that perk!
   ```
@@ -753,7 +772,7 @@ These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=
   Perks 2 ( 33%): Dragonfly, Disruption Break
   MWorks  (100%): (Any masterwork)
   ```
-## Trophy Hunter (PvP)
+## Trophy Hunter - PvP
 More of a PvE sniper, so we aren't going to have much to lay down here for a great roll. If you're hungry for a PvP Energy sniper, you want the Beloved (Menagerie), Apostate (Altar of Sorrows) or Twilight Oath (Dreaming City). CoolGuy: ["It's OK, nothing special."](https://www.youtube.com/watch?v=dGHNinCK3HI) Handling additions are appreciated because it's such a clunky weapon.
 * **(PvP) "Snipe Like a Psion!" (Ridiculously Picky) (0.4% chance)**: Psions use Trophy Hunter - who knew? "Pulse Monitor"?! Yeah, there's only four perks in the third column and it's the only one applicable to PvP. The is the only randomly-rolled sniper in the game with Pulse Monitor. Everythig else is attempting to buff the Handling so it doesn't feel so sluggish.  I don't know that this makes it some kind of S-Tier sniper but why not give it a shot? Sniping is so personal.
   ```
@@ -787,7 +806,7 @@ More of a PvE sniper, so we aren't going to have much to lay down here for a gre
   Perks 2 ( 50%): Snapshot
   MWorks  (100%): (Any masterwork)
   ```
-## Trophy Hunter (PvE)
+## Trophy Hunter - PvE
 CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/watch?v=dGHNinCK3HI) "Solo" also means "playing solo with a random group" (i.e. not coordinated). Nearly a perfect sniper for Gambit, especially paired with Malfeasance. You'll note these rolls are pretty strict, and that's because there are so few perks in the final two columns. Handling is so, so low on this sniper that I think you absolutely want the +20-25 Handling from a combo of the barrel perk and Masterwork.
 * **(PvE) "Triple Tap Your Way to Seven" (1.5% chance)**: That's a quote from CoolGuy's review :) Throw a `Backup Mag` mod on here to be able to do that.
   ```
@@ -813,7 +832,7 @@ CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/w
   Perks 2 ( 83%): Vorpal, Disruption Break
   MWorks  ( 25%): Handling MW
   ```
-## Black Scorpion-4sr (PvP)
+## Black Scorpion-4sr - PvP
 [CoolGuy's BS4 review](https://www.youtube.com/watch?v=lFQt0MDS9JY) in August of 2019 is great source of info. It's using the original D2Y1 perk pool so what I'm suggesting here is likely not to be too much of a surprise. Since this is a wishlist for controller, the Recoil is `60`, demanding we use a Counterbalance mod to make even passable. Check out CoolGuy's video for a before/after (@6:40). On PC, sure, skip that but because of this, you're not going to see me recommend Rampage + Rampage Spec. Check out [ZkMushroom](https://www.youtube.com/watch?v=tdnJWuiUF2k) and [nKuch](https://www.youtube.com/watch?v=Vc87SDsCrIQ) to see the Black Scorpion in action. Not gonna lie here... these rolls are *tough* to get, because you only get one crack at the perks in the final two columns.
 * **(PvP) 100 Recoil + Maxing Stability (0.1% chance)**: This is a Scout Rifle and there aren't many lanes on Crucible maps where you're going to see appreciable Range falloff *and* where you could also imagine holding a Rapid-Fire Full-Auto Scout Rifle steady enough to get hits. That means we're going for Recoil and Stability. Zen Moment gives you a bump to your *base* Stability which you can see [here](https://youtu.be/uElV7xVFN6Q?t=280) and the base Stability for the Black Scorpion is pretty darn high @ `54`. No Outlaw because the reload is already plenty fast and there's no DPS perk to play off of. Throw a Counterbalance mod on here to hit `100` Recoil.
   ```
@@ -847,9 +866,9 @@ CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/w
   Perks 2 (100%): (Any perk)
   MWorks  ( 50%): Stability MW, Range MW
   ```
-## Black Scorpion-4sr (PvE)
+## Black Scorpion-4sr - PvE
 What, no PvE rolls?! Nope. Being rapid-fire/low impact and having none of the spicy new damage perks (Multikill Clip, Swashbuckler, Vorpal, etc.) it's really not worth taking in to PvE. It's also perked weirdly, with Outlaw and Rampage being in the same slot, among others. There are so many amazing Energy weapons for PvE, it's hard to imagine this ever being top of your list. Go enjoy farming something else :)
-## Bygones (PvP)
+## Bygones - PvP
 You don't actually need all that much for a "great" Bygones roll because, well, it's just a solid weapon at its baseline. Throw on a Counterbalance mod to bring the recoil to `84` and you're golden. You can see [Fallout's video](https://www.youtube.com/watch?v=atkJYoL6E1U) for reference. Why Bygones? It's the only 390 RPM kinetic Pulse Rifle and the only other randomly rolled one apart from Last Perdition and the raid pulses. If this archetype gets buffed, it will be nice to have one in your vault! Here's what's forming the foundation of these rolls: (1) Strongly consider using a single +10 Recoil barrel perk and a Counterbalance mod (+15) to get the Recoil to 94 which is basically straight up and down. Arrowhead Brake will let us do this without a mod but you're sacrificing the stability and range benefits of those other barrels (2) Handling is solid, among the highest of pulse rifles, so we're not too concerned about raising this (3) With [recent findings](https://www.youtube.com/watch?v=atkJYoL6E1U) that Slideshot activates for two seconds (some of which you lose while the slide completes), I'm tossing it out for a great roll here. With a long-range, precision weapon like a pulse rifle, you're going to maybe get one burst off before Slideshot dissipates. If you want to see a Stability-focused roll do work, check out [ZkMushroom](https://www.youtube.com/watch?v=VXmwYjWW4TE). He's using Corkscrew + Ricochet + Stability MW. I am requiring Kill Clip because I don't believe the raw kill potential with no upside for stringing makes this worth keeping. There are far too many other primaries with great follow-up perks like MKC and Swashbuckler kicking around nowadays.
 * **(PvP) Absurdly Picky (0.4% chance)**: Going for maximum Stability here; at least a little bit in every column. If you get this roll, buy both of us a lottery ticket. "But Slif, Range improves accuracy and damage falloff" Check out the ZkMushroom video above and tell me if you think the lack of Range-boosting perks handicaps Bygones here.
   ```
@@ -915,7 +934,7 @@ You don't actually need all that much for a "great" Bygones roll because, well, 
   Perks 2 (100%): (Any perk)
   MWorks  (100%): (Any masterwork)
   ```
-## Bygones (PvE)
+## Bygones - PvE
 The perk pool for Bygones is from 2018, so we lose out on some of the barn burners like Multikill Clip, Swashbuckler and Vorpal. Why farm for one? Well, it's the only 390 RPM kinetic Pulse Rifle and the only other randomly rolled one apart from Last Perdition and the raid pulses. If this archetype gets buffed, it will be nice to have one in your vault. We're going for sustained DPS and maximum range falloff. Stability is already high enough and PvE enemies don't move around as much so you can more easily control recoil. You can always throw on a Counterbalance mod on if you find it kicks too much. If you end up with a Rampage roll, don't forget to put a Rampage Spec mod on it!
 * **(PvE) Super Picky (1.1% chance)**: Standard DPS roll from years' past, and as per usual with PvE rolls, as much damage as you can get then as much range as you can get.
   ```
