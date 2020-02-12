@@ -1,8 +1,23 @@
-This file was auto-generated at `11 Feb 2020 07:17:53`. An up-to-date version can be found [here](https://github.com/rslifka/wishlist).
+# Welcome to the Sliflist!
+This document is generated from a custom Destiny Item Manager "wishlist" and was
+created on `2020-02-12 02:53:27 +00:00`. The most recent
+version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
-These rolls are applied in order for each weapon, so the ordering is important. This means the better rolls will match first, in much the same you would decide on a roll yourself. E.g. Steelfeather PvE rolls at the top of the list are `Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the list requires only `Feeding Frenzy + Swashbuckler` because if all else fails, those are the two perks you'll need; otherwise it's just cool-looking random kinetic Auto Rifle :)
+## Introduction
+These rolls are applied in order for each weapon, so the ordering is important.
+This means the better rolls will match first, in much the same you would decide
+on a roll yourself. For example Steelfeather PvE rolls at the top of the list are
+`Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the
+list requires only `Feeding Frenzy + Swashbuckler` because if all else fails,
+those are the two perks you'll need; otherwise it's just cool-looking random
+kinetic Auto Rifle.
 
-This also means that, if your PvP and PvE rolls are similar (they usually aren't) that there's a chance a match is flagged and commented as a PvP roll in the DIM "Notes" section, when it could do double-duty. That's just how the wishlist feature currently works, so use your own discretion.
+This also means that, if your PvP and PvE rolls are similar (they usually aren't)
+that there's a chance a match is flagged and commented as a PvP roll in the DIM
+"Wishlist Notes" section (searchable in DIM via `wishlistnotes:`), when it could
+do double-duty. That's just how the wishlist feature currently works, so use your
+own discretion.
+
 ## Breachlight (PvP)
 CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE and PvP but focuses intensely on PvP. Some choice cuts: "I would try other rolls while I was reviewing this and I kept coming back to Vorpal." "Landing shots is more important than accuracy; shouldn't be worried about straight precision. More important to get the recoil straight up and down than it is to add stability because you have to control the stability after every burst anyway." I have to agree - Vorpal is pretty amazing in PvP and I did wish I had it several times. Without Vorpal or Quickdraw, it's just another two-burst sidearm, which is great but you don't need a wishlist for that :)
 * **(PvP) Slif's Super Picky (0.3% chance)**: This is my personal perfect PVP roll. Threat Detector has a far longer range than you'd think (beyond damage falloff) and Vorpal shreds through supers. The rest of this roll is all about maxing out the range.

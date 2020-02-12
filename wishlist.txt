@@ -1,5 +1,5 @@
-title: SlifSF's Wishlist (via https://github.com/rslifka/wishlist); Generated 11 Feb 2020 07:17:52
-description: https://github.com/rslifka/wishlist/blob/master/thought_process.md
+title: SlifSF's Sliflist
+description: https://github.com/rslifka/wishlist; generated: 2020-02-12 02:53:27 +00:00
 //notes:(PvP) Super Picky
 dimwishlist:item=2723241847&perks=1482024992,106909392,247725512,3038247973,1590375901
 dimwishlist:item=2723241847&perks=1482024992,106909392,247725512,3038247973,1590375902
