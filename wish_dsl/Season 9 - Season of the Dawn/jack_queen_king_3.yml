@@ -91,15 +91,6 @@ groups:
           Let's let in a few more barrels and magazines.
         barrels: [Truesight HCS, Fastdraw HCS, Steadyhand HCS]
         magazines: [Ricochet Rounds, Flared Magwell]
-      -
-        <<: *perklesswonder
-        name: (PvP) Super Picky Perkless Wonder (Very Relaxed)
-        desc: >
-          Even without much greatness in the core perk columns, with the other
-          columns on some solid perks, this thing will do work.
-        barrels: [Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS]
-        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
-        masterworks: [Stability MW, Range MW]
       
   - 
     name: PvE
