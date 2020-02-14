@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-14 00:19:22 +00:00`. The most recent
+created on `2020-02-14 04:23:53 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -825,38 +825,46 @@ CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/w
   MWorks  ( 25%): Handling MW
   ```
 ## Black Scorpion-4sr - PvP
-[CoolGuy's BS4 review](https://www.youtube.com/watch?v=lFQt0MDS9JY) in August of 2019 is great source of info. It's using the original D2Y1 perk pool so what I'm suggesting here is likely not to be too much of a surprise. Since this is a wishlist for controller, the Recoil is `60`, demanding we use a Counterbalance mod to make even passable. Check out CoolGuy's video for a before/after (@6:40). On PC, sure, skip that but because of this, you're not going to see me recommend Rampage + Rampage Spec. Check out [ZkMushroom](https://www.youtube.com/watch?v=tdnJWuiUF2k) and [nKuch](https://www.youtube.com/watch?v=Vc87SDsCrIQ) to see the Black Scorpion in action. Not gonna lie here... these rolls are *tough* to get, because you only get one crack at the perks in the final two columns.
-* **(PvP) 100 Recoil + Maxing Stability (0.1% chance)**: This is a Scout Rifle and there aren't many lanes on Crucible maps where you're going to see appreciable Range falloff *and* where you could also imagine holding a Rapid-Fire Full-Auto Scout Rifle steady enough to get hits. That means we're going for Recoil and Stability. Zen Moment gives you a bump to your *base* Stability which you can see [here](https://youtu.be/uElV7xVFN6Q?t=280) and the base Stability for the Black Scorpion is pretty darn high @ `54`. No Outlaw because the reload is already plenty fast and there's no DPS perk to play off of. Throw a Counterbalance mod on here to hit `100` Recoil.
+[CoolGuy's BS4 review](https://www.youtube.com/watch?v=lFQt0MDS9JY) in August of 2019 is great source of info. It's using the original D2Y1 perk pool so what I'm suggesting here is likely not to be too much of a surprise. Since this is a wishlist for controller, the Recoil is `60`, demanding we use a Counterbalance mod to make even passable. Check out CoolGuy's video for a before/after (@6:40). Because of this, you're not going to see me recommend Rampage + Rampage Spec. Check out [ZkMushroom](https://www.youtube.com/watch?v=tdnJWuiUF2k) and [nKuch](https://www.youtube.com/watch?v=Vc87SDsCrIQ) to see the Black Scorpion in action. Not gonna lie here... these rolls are *tough* to get, because you only get one crack at the perks in the final two columns.
+* **(PvP) 100 Recoil + Maxing Stability (0.1% chance)**: Zen Moment gives you a bump to your *base* Stability which you can see [here](https://youtu.be/uElV7xVFN6Q?t=280) and the base Stability for the Black Scorpion is pretty darn high @ `54`. No Outlaw because the reload is already plenty fast and there's no DPS perk to play off of. Throw a Counterbalance mod on here to hit `100` Recoil. I want to call this roll out as special because of the 100 Recoil via Arrowhead, versus just including it as part of the following roll :)
   ```
   Barrels ( 25%): Arrowhead Brake
-  Mags    ( 71%): Steady Rounds, Tactical Mag, Flared Magwell
+  Mags    ( 52%): Steady Rounds, Accurized Rounds
   Perks 1 ( 16%): Zen Moment
   Perks 2 ( 16%): Rangefinder
   MWorks  ( 25%): Stability MW
   ```
-* **(PvP) Maxing Stability; Recoil 75 (0.3% chance)**: Similar to the above, but we're choosing some of the better Stability granting barrels. Still requires you to install a Counterbalance mod.
+* **(PvP) 100 Recoil + Maxing Stability (Slightly Relaxed) (0.6% chance)**: Same as the above with a few more mags and no masterwork requirement.
   ```
-  Barrels ( 64%): Chambered Compensator, Polygonal Rifling, Smallbore
-  Mags    ( 71%): Steady Rounds, Tactical Mag, Flared Magwell
+  Barrels ( 25%): Arrowhead Brake
+  Mags    ( 85%): Steady Rounds, Accurized Rounds, Tactical Mag, Flared Magwell
+  Perks 1 ( 16%): Zen Moment
+  Perks 2 ( 16%): Rangefinder
+  MWorks  (100%): (Any masterwork)
+  ```
+* **(PvP) 100 Recoil + Maxing Stability (Very Relaxed) (0.7% chance)**: Same as the above with no magazine requirement.
+  ```
+  Barrels ( 25%): Arrowhead Brake
+  Mags    (100%): (Any magazine)
+  Perks 1 ( 16%): Zen Moment
+  Perks 2 ( 16%): Rangefinder
+  MWorks  (100%): (Any masterwork)
+  ```
+* **(PvP) Stability-focused (Super Picky) (0.5% chance)**: Dropping Arrowhead and including all of the Stability-enhancing barrels.
+  ```
+  Barrels ( 89%): Chambered Compensator, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore
+  Mags    ( 85%): Steady Rounds, Accurized Rounds, Tactical Mag, Flared Magwell
   Perks 1 ( 16%): Zen Moment
   Perks 2 ( 16%): Rangefinder
   MWorks  ( 25%): Stability MW
   ```
-* **(PvP) Mixing Range/Stability; Recoil 75 (2.4% chance)**: Similar to the above, but we're relaxing constraints to include a mix of Range and Stability. Here we're adding Moving Target which gives you +5 Aim Assist and +20 Mobility. I'm not includin Arrowhead Brake here because it's not helping us with Range or Stability.
+* **(PvP) Stability-focused (Minus Masterworks) (2.1% chance)**: Same as the above, but we'll take any Masterwork.
   ```
-  Barrels ( 100%): Chambered Compensator, Fluted Barrel, Corkscrew Rifling, Extended Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore
-  Mags    ( 85%): Steady Rounds, Tactical Mag, Accurized Rounds, Flared Magwell
-  Perks 1 ( 33%): Zen Moment, Moving Target
+  Barrels ( 89%): Chambered Compensator, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore
+  Mags    ( 85%): Steady Rounds, Accurized Rounds, Tactical Mag, Flared Magwell
+  Perks 1 ( 16%): Zen Moment
   Perks 2 ( 16%): Rangefinder
-  MWorks  ( 50%): Stability MW, Range MW
-  ```
-* **(PvP) Baseline (Range/Stability Mix) (42.9% chance)**: Similar to the above, but we're dropping the two hardest to get columns from the mix. The other columns are pretty do-able.
-  ```
-  Barrels ( 100%): Chambered Compensator, Fluted Barrel, Corkscrew Rifling, Extended Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore
-  Mags    ( 85%): Steady Rounds, Tactical Mag, Accurized Rounds, Flared Magwell
-  Perks 1 (100%): (Any perk)
-  Perks 2 (100%): (Any perk)
-  MWorks  ( 50%): Stability MW, Range MW
+  MWorks  (100%): (Any masterwork)
   ```
 ## Black Scorpion-4sr - PvE
 What, no PvE rolls?! Nope. Being rapid-fire/low impact and having none of the spicy new damage perks (Multikill Clip, Swashbuckler, Vorpal, etc.) it's really not worth taking in to PvE. It's also perked weirdly, with Outlaw and Rampage being in the same slot, among others. There are so many amazing Energy weapons for PvE, it's hard to imagine this ever being top of your list. Go enjoy farming something else :)
