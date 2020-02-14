@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-12 05:09:22 +00:00`. The most recent
+created on `2020-02-14 00:19:22 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -378,14 +378,6 @@ This is going to blow your mind... but JQK3 and Waking Vigil (via Dreaming City)
   Perks 1 (100%): (Any perk)
   Perks 2 (100%): (Any perk)
   MWorks  ( 25%): Stability MW
-  ```
-* **(PvP) Super Picky Perkless Wonder (Very Relaxed) (41.7% chance)**: Even without much greatness in the core perk columns, with the other columns on some solid perks, this thing will do work.
-  ```
-  Barrels ( 93%): Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS
-  Mags    ( 89%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag
-  Perks 1 (100%): (Any perk)
-  Perks 2 (100%): (Any perk)
-  MWorks  ( 50%): Stability MW, Range MW
   ```
 ## Jack Queen King 3 - PvE
 [Ehroar](https://www.youtube.com/watch?v=OVXNkbyfBrQ): "I definitely think this will be one of the best hand cannons in PvE and probably PvP in the energy slot." In general we're sticking with Rampage so we can throw on Rampage Spec and ride it out. Sure Swashbuckler and  Surrounded + Surrounded Spec are awesome but it's a Hand Cannon and you're probably not punching enemies if you're trying to work in its effective range. Those perks work better on sidearms, SMGs and shotguns.
