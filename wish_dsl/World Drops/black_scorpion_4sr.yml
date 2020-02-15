@@ -7,69 +7,69 @@ slots:
   perks1:      {t: 6, c: 1}
   perks2:      {t: 6, c: 1}
   masterworks: {t: 4, c: 1}
-groups: 
+groups:
   - 
     name: PvP
     item_id: 
     lightgg: 
     summary: >
       [CoolGuy's BS4 review](https://www.youtube.com/watch?v=lFQt0MDS9JY)
-      in August of 2019 is great source of info. It's using the original D2Y1 perk
-      pool so what I'm suggesting here is likely not to be too much of a surprise.
-      Since this is a wishlist for controller, the Recoil is `60`, demanding we use
-      a Counterbalance mod to make even passable. Check out CoolGuy's video for a
-      before/after (@6:40). Because of this, you're not going to see me recommend
-      Rampage + Rampage Spec. Check out
-      [ZkMushroom](https://www.youtube.com/watch?v=tdnJWuiUF2k)
-      and [nKuch](https://www.youtube.com/watch?v=Vc87SDsCrIQ) to see the Black
-      Scorpion in action. Not gonna lie here... these rolls are *tough* to get,
-      because you only get one crack at the perks in the final two columns.
+      in August of 2019 is great source of info. It's using the original D2Y1
+      perk pool so what I'm suggesting here is likely not to be too much of a
+      surprise. Unfortunately there are *seven* perks in the final two columns
+      making them a beast to lock down; these rolls will be tough to get. Recoil
+      is `60`, demanding we use a Counterbalance mod. Check out CoolGuy's video
+      for a [before/after](https://www.youtube.com/watch?v=lFQt0MDS9JY&t=400).
+      Because of this, you're not going to see me recommend Rampage + Rampage
+      Spec.
+      Range-wise, the base Range hits max damage at 68m which you're not going
+      to find often on a PvP map, so we're kind of OK with it. Because it's full
+      auto, we're going to be focused on Stability. Zen Moment gives you a bump
+      to your *base* Stability which you can see
+      [here](https://youtu.be/uElV7xVFN6Q?t=280) and the base Stability for
+      the Black Scorpion is pretty darn high @ `54`. No Outlaw because the
+      reload is already plenty fast and there's no DPS perk to play off of.
+      For more sample footage, check out
+      [ZkMushroom](https://www.youtube.com/watch?v=tdnJWuiUF2k) and
+      [nKuch](https://www.youtube.com/watch?v=Vc87SDsCrIQ) to see the Black
+      Scorpion in action.
     rolls:
-      - &maxrecoil
-        name: (PvP) 100 Recoil + Maxing Stability
+      - &stabilityfocused
+        name: (PvP) Super Picky Stability
         desc: >
-          Zen Moment gives you a bump to your *base* Stability which you can see
-          [here](https://youtu.be/uElV7xVFN6Q?t=280) and the base Stability for
-          the Black Scorpion is pretty darn high @ `54`. No Outlaw because the
-          reload is already plenty fast and there's no DPS perk to play off of.
-          Throw a Counterbalance mod on here to hit `100` Recoil. I want to call
-          this roll out as special because of the 100 Recoil via Arrowhead,
-          versus just including it as part of the following roll :)
-        barrels: [Arrowhead Brake]
+          As much Stability however we can get it. You have almost no chance at
+          getting this to drop :)
+        barrels: [Polygonal Rifling]
         magazines: [Steady Rounds, Accurized Rounds]
         perks1: [Zen Moment]
         perks2: [Rangefinder]
-        masterworks: [Stability MW]
-      -
-        <<: *maxrecoil 
-        name: (PvP) 100 Recoil + Maxing Stability (Slightly Relaxed)
-        desc: >
-          Same as the above with a few more mags and no masterwork requirement.
-        magazines: [Steady Rounds, Accurized Rounds, Tactical Mag, Flared Magwell]
-        masterworks: []
-      -
-        <<: *maxrecoil 
-        name: (PvP) 100 Recoil + Maxing Stability (Very Relaxed)
-        desc: >
-          Same as the above with no magazine requirement.
-        magazines: []
-        masterworks: []
-      - &stabilityfocused
-        name: (PvP) Stability-focused (Super Picky)
-        desc: >
-          Dropping Arrowhead and including all of the Stability-enhancing
-          barrels.
-        barrels: [Chambered Compensator, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore]
-        magazines: [Steady Rounds, Accurized Rounds, Tactical Mag, Flared Magwell]
-        perks1: [Zen Moment]
-        perks2: [Rangefinder]
         masterworks: [Stability MW]      
-      - 
+      - &sansrangefinder
         <<: *stabilityfocused
-        name: (PvP) Stability-focused (Minus Masterworks)
+        name: (PvP) Super Picky Stability (Sans Rangefinder)
         desc: >
-          Same as the above, but we'll take any Masterwork.
-        masterworks: []
+          It's super hard to get perks in the final two columns, and without
+          Rangefinder we've still got a phenomenal roll.
+        perks2: []
+      - 
+        <<: *sansrangefinder
+        name: (PvP) Super Picky Stability (Relaxed Barrels)
+        desc: >
+          Include all Stability-enhancing Barrels.
+        barrels: [Fluted Barrel, Corkscrew Rifling, Polygonal Rifling]
+      - 
+        <<: *sansrangefinder
+        name: (PvP) Super Picky Stability (Relaxed Mags)
+        desc: >
+          Include all Stability-enhancing Magazines.
+        magazines: [Tactical Mag, Steady Rounds, Accurized Rounds, Flared Magwell]
+      -
+        <<: *sansrangefinder
+        name: (PvP) Super Picky Stability (Relaxed Barrels and Mags)
+        desc: >
+          Include all Stability-enhancing Magazines and Barrels
+        barrels: [Fluted Barrel, Corkscrew Rifling, Polygonal Rifling]
+        magazines: [Tactical Mag, Steady Rounds, Accurized Rounds, Flared Magwell]
 
   - 
     name: PvE
