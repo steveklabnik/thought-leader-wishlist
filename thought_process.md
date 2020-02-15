@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-15 04:21:08 +00:00`. The most recent
+created on `2020-02-15 05:46:13 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -314,100 +314,76 @@ Here we're featuring a few rolls from the CoolGuy [video](https://www.youtube.co
   MWorks  (100%): (Any masterwork)
   ```
 ## Jack Queen King 3 - PvP
-This is going to blow your mind... but JQK3 and Waking Vigil (via Dreaming City) are the only two randomly rolled 150 RPM Hand Cannons apart from Luna's Howl (RIP Luna) and Not Forgotten. Its base stats are [among the best of all of these](https://www.light.gg/db/items/compare/?h=JLYoE;JLYoH;T6w4n;Yf09u). `96` AA (91+Sight) and `73` Handling are nuts! For analysis and gameplay, check out this [CammyCakes review](https://www.youtube.com/watch?v=oHIhi5fkxDw). One interesting bit that stood out: "The diffence between a max range JKQ3 and medium range one is about half a meter" so I'm not going to value a combination of Range perks highly here. The Handling is phenomenal, so I'm not going to value Snapshot super highly either.
-* **(PvP) Incredibly, Hilariously Picky (0.1% chance)**: Be sure to let me know how many dieties you prayed to in order to get  this roll. I'd suggest also buying a lottery ticket post-haste. As much Stability as we can get.
+This is going to blow your mind... but JQK3 and Waking Vigil (via Dreaming City) are the only two randomly rolled 150 RPM Hand Cannons and the only other Energy HCs apart from Luna's Howl (RIP Luna) and Not Forgotten. Its base stats are [among the best of all of these](https://www.light.gg/db/items/compare/?h=JLYoE;JLYoH;T6w4n;Yf09u) with `96` AA (91+Sight) and `73` Handling! For analysis and gameplay, check out this [CammyCakes review](https://www.youtube.com/watch?v=oHIhi5fkxDw). One interesting bit that stood out: "The diffence between a max range JKQ3 and medium range one is about half a meter". Yes for falloff that's true, but since Range affects stickyness, it's still got value here. For some of us (myself included), [CoolGuy's take](https://www.youtube.com/watch?v=XI5CjuOonRc) on the JKQ3 might be more up your alley, PvP-wise: "For Crucible it isn’t necessarily bad, but it’s kind of an acquired taste." It's never clicked with me but some people absolutely love it. IMHO similar to Sunshot - it's great on paper but the model is so chunky that it obscures where you're aiming when it kicks up. Its stiff competition and model/kick funkyness are why these rolls are so narrow. It needs a lot to compete with Luna's, Not Forgotten and Waking Vigil (which can be farmed from Menagerie with a predetermined Masterwork). The second set of these rolls is meant to be slightly more forgiving if you really want Demo and/or Snapshot.
+* **(PvP) Incredibly, Hilariously Picky (0.1% chance)**: Be sure to let me know how many dieties you prayed to in order to get  this roll. I'd suggest also buying a lottery ticket post-haste. As much Stability and Handling as we can get.
   ```
   Barrels ( 33%): Steadyhand HCS
   Mags    ( 25%): Ricochet Rounds
   Perks 1 ( 16%): Demolitionist
-  Perks 2 ( 16%): Rampage
-  MWorks  ( 25%): Stability MW
+  Perks 2 ( 16%): Snapshot
+  MWorks  ( 50%): Stability MW, Handling MW
   ```
-* **(PvP) Incredibly, Hilariously Picky (Slightly Relaxed) (0.3% chance)**: Similar to the above with slightly more options for a few columns.
+* **(PvP) Incredibly, Hilariously Picky (Sans Demo) (0.7% chance)**: The first thing we're going to do is remove Demo from the list of required perks. The roll is top-tier without it.
   ```
-  Barrels ( 80%): Truesight HCS, Fastdraw HCS, Steadyhand HCS
-  Mags    ( 46%): Ricochet Rounds, Flared Magwell
-  Perks 1 ( 16%): Demolitionist
-  Perks 2 ( 16%): Rampage
-  MWorks  ( 25%): Stability MW
+  Barrels ( 33%): Steadyhand HCS
+  Mags    ( 25%): Ricochet Rounds
+  Perks 1 (100%): (Any perk)
+  Perks 2 ( 16%): Snapshot
+  MWorks  ( 50%): Stability MW, Handling MW
   ```
-* **(PvP) Picky Range/Stability Mix (1.2% chance)**: Solid, Stability- and Range- focused mix of perks allowed across all columns.
-  ```
-  Barrels ( 93%): Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS
-  Mags    ( 89%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag
-  Perks 1 ( 16%): Demolitionist
-  Perks 2 ( 16%): Rampage
-  MWorks  ( 50%): Stability MW, Range MW
-  ```
-* **(PvP) Picky Range/Stability Mix (Minus Masterworks) (2.3% chance)**: Same as the above, minus the masterwork requirements.
-  ```
-  Barrels ( 93%): Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS
-  Mags    ( 89%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag
-  Perks 1 ( 16%): Demolitionist
-  Perks 2 ( 16%): Rampage
-  MWorks  (100%): (Any masterwork)
-  ```
-* **(PvP) Super Picky Firestarter (0.8% chance)**: Let's see how much damage we can do in PvP with a Dragonfly Spec mod on this weird roll.
-  ```
-  Barrels ( 80%): Truesight HCS, Fastdraw HCS, Steadyhand HCS
-  Mags    ( 46%): Ricochet Rounds, Flared Magwell
-  Perks 1 ( 50%): Demolitionist, Threat Detector, Pulse Monitor
-  Perks 2 ( 16%): Dragonfly
-  MWorks  ( 25%): Stability MW
-  ```
-* **(PvP) Super Picky Firestarter (Relaxed) (6.9% chance)**: Same as the above, loosened barrels, magazines and Masterworks.
-  ```
-  Barrels ( 93%): Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS
-  Mags    ( 89%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag
-  Perks 1 ( 50%): Demolitionist, Threat Detector, Pulse Monitor
-  Perks 2 ( 16%): Dragonfly
-  MWorks  (100%): (Any masterwork)
-  ```
-* **(PvP) Super Picky Perkless Wonder (2.1% chance)**: Listen, the base stats are so good that if we toss out the hardest to get perk columns, we still have something pretty amazing.
+* **(PvP) Incredibly, Hilariously Picky (Sans Snapshot) (4.2% chance)**: Same as above, minus Snapshot. Snapshot is terrific but it doesn't make or break the roll.
   ```
   Barrels ( 33%): Steadyhand HCS
   Mags    ( 25%): Ricochet Rounds
   Perks 1 (100%): (Any perk)
   Perks 2 (100%): (Any perk)
-  MWorks  ( 25%): Stability MW
+  MWorks  ( 50%): Stability MW, Handling MW
   ```
-* **(PvP) Super Picky Perkless Wonder (Slightly Relaxed) (9.3% chance)**: Let's let in a few more barrels and magazines.
+* **(PvP) Picky, But Not That Picky (0.5% chance)**: Similar to the above rolls but we're going to widen our acceptable set of barrels and magazines from the get-go.
+  ```
+  Barrels ( 80%): Truesight HCS, Fastdraw HCS, Steadyhand HCS
+  Mags    ( 46%): Ricochet Rounds, Flared Magwell
+  Perks 1 ( 16%): Demolitionist
+  Perks 2 ( 16%): Snapshot
+  MWorks  ( 50%): Stability MW, Handling MW
+  ```
+* **(PvP) Picky, But Not That Picky (Sans Demo) (3.1% chance)**: The first thing we're going to do is remove Demo from the list of required perks. The roll is solid without it.
   ```
   Barrels ( 80%): Truesight HCS, Fastdraw HCS, Steadyhand HCS
   Mags    ( 46%): Ricochet Rounds, Flared Magwell
   Perks 1 (100%): (Any perk)
-  Perks 2 (100%): (Any perk)
-  MWorks  ( 25%): Stability MW
+  Perks 2 ( 16%): Snapshot
+  MWorks  ( 50%): Stability MW, Handling MW
   ```
 ## Jack Queen King 3 - PvE
-[Ehroar](https://www.youtube.com/watch?v=OVXNkbyfBrQ): "I definitely think this will be one of the best hand cannons in PvE and probably PvP in the energy slot." In general we're sticking with Rampage so we can throw on Rampage Spec and ride it out. Sure Swashbuckler and  Surrounded + Surrounded Spec are awesome but it's a Hand Cannon and you're probably not punching enemies if you're trying to work in its effective range. Those perks work better on sidearms, SMGs and shotguns.
-* **(PvE) Sparks Flying (Super Picky) (0.9% chance)**: Both Demolitionist and Subistence will proc once for each Dragonfly explosion kill. Use in situations where you can one-shot enemies. Don't forget Dragonfly Spec!
+[Ehroar](https://www.youtube.com/watch?v=OVXNkbyfBrQ): "I definitely think this will be one of the best hand cannons in PvE and probably PvP in the energy slot." In general we're sticking with Rampage so we can throw on Rampage Spec and ride it out. Sure Swashbuckler and  Surrounded + Surrounded Spec are awesome but it's a Hand Cannon and you're probably not punching enemies if you're trying to work in its effective range. Those perks work better on sidearms, SMGs and shotguns. CoolGuy has a [great set of rolls](https://youtu.be/XI5CjuOonRc?t=463) I'm incorporating here as well. "Very stout PvE hand cannon; top-tier."
+* **(PvE) Sparks Flying (Super Picky) (2.0% chance)**: Both Demolitionist and Subistence will proc once for each Dragonfly explosion kill. Use in situations where you can one-shot enemies. Don't forget Dragonfly Spec! Per CoolGuy, this is a rarely available combo; pick it up.
   ```
-  Barrels ( 80%): Truesight HCS, Hitmark HCS, Crossfire HCS
+  Barrels ( 93%): Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS
   Mags    ( 78%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
   Perks 1 ( 33%): Demolitionist, Subsistence
   Perks 2 ( 16%): Dragonfly
-  MWorks  ( 25%): Range MW
+  MWorks  ( 50%): Stability MW, Handling MW
   ```
-* **(PvE) Sparks Flying (Relaxed) (4.4% chance)**: Same as the above with relaxed barrels and masterworks. Neither good nor bad enough to tank or make the roll.
+* **(PvE) Sparks Flying (Sans Masterworks) (4.1% chance)**: Same as the above with relaxed masterworks. Neither good nor bad enough to tank or make the roll.
   ```
-  Barrels (100%): (Any barrel)
+  Barrels ( 93%): Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS
   Mags    ( 78%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
   Perks 1 ( 33%): Demolitionist, Subsistence
   Perks 2 ( 16%): Dragonfly
   MWorks  (100%): (Any masterwork)
   ```
-* **(PvE) The Never-Ending Reloader (Super Picky) (0.9% chance)**: You'll almost never have to reload here, because getting kills with the sustained DPS perks will give you your grenade back and using your grenace will reload the magazine.
+* **(PvE) The Never-Ending Reloader (Super Picky) (2.0% chance)**: You'll almost never have to reload here, because getting kills with the sustained DPS perks will give you your grenade back and using your grenade will reload the magazine.
   ```
-  Barrels ( 80%): Truesight HCS, Hitmark HCS, Crossfire HCS
+  Barrels ( 93%): Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS
   Mags    ( 78%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
   Perks 1 ( 16%): Demolitionist
   Perks 2 ( 33%): Rampage, Swashbuckler
-  MWorks  ( 25%): Range MW
+  MWorks  ( 50%): Stability MW, Handling MW
   ```
-* **(PvE) The Never-Ending Reloader (Relaxed) (4.4% chance)**: Same as the above with relaxed barrels and masterworks. Neither good nor bad enough to tank or make the roll.
+* **(PvE) The Never-Ending Reloader (Sans Masterworks) (4.1% chance)**: Same as the above with relaxed masterworks. Neither good nor bad enough to tank or make the roll.
   ```
-  Barrels (100%): (Any barrel)
+  Barrels ( 93%): Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS
   Mags    ( 78%): High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
   Perks 1 ( 16%): Demolitionist
   Perks 2 ( 33%): Rampage, Swashbuckler
