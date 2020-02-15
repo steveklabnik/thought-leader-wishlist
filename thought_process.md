@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-15 22:16:26 +00:00`. The most recent
+created on `2020-02-15 22:48:15 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -526,29 +526,29 @@ For PvP, he likes Slideshot with Opening Shot or Rampage and  [Destiny Fun Polic
   ```
 ## Steelfeather Repeater - PvP
 CoolGuy does a [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI) of Steelfeather and it doesn't have super high marks for PvP. The base Stability at `38` is abysmal, so for a decent PvP roll we're looking to correct that. If we fix Recoil, it mitigates such low Stability. A base Recoil of `57` means we're not going to be able to bring it under control unless we use Arrowhead Brake with a Counterbalance mod. From there on out, we're going for as much Stability as we can. Without Stability and Recoil mitigation, there's not a lot of reason to use this weapon, hence the small number of PvP rolls. If you want to see firsthand why Firmly Planted is so amazing, [check out this timestamp](https://youtu.be/anp5VBGfhmI?t=214) for PvE testing and [this timestamp](https://www.youtube.com/watch?v=anp5VBGfhmI&feature=youtu.be&t=689) for PvP. "I feel it's a decent weapon. I personally don't crown it anything beyond it's a fun AR to have in your rotation."
-* **(PvP) Super Picky (0.4% chance)**: We're looking to max stability after maxing recoil, as much as we can. The roll is built around `Arrowhead Brake` and `Firmly Planted`. Other sources of stability are terrific of course, but without those two, we don't have enough control to matter.
+* **(PvP) Super Picky (0.3% chance)**: We're looking to max stability after maxing recoil, as much as we can. The roll is built around `Arrowhead Brake` and `Firmly Planted`. Other sources of stability are terrific of course, but without those two, we don't have enough control to matter.
   ```
   Barrels ( 22%): Arrowhead Brake
-  Mags    ( 64%): Ricochet Rounds, Flared Magwell, Light Mag
+  Mags    ( 46%): Ricochet Rounds, Flared Magwell
   Perks 1 ( 16%): Firmly Planted
   Perks 2 ( 33%): Elemental Capacitor
   MWorks  ( 50%): Stability MW, Range MW
   ```
-* **(PvP) Super Picky (Minus Magazine and Perks) (1.9% chance)**: Same as above, minus mags and perks.
+* **(PvP) Super Picky (Relaxed Magazines) (0.6% chance)**: Same as above with a broader set of acceptable magazines. Most of the Stability comes from `Firmly Planted` so any Range or Stability boost from these mags is just gravy.
   ```
   Barrels ( 22%): Arrowhead Brake
-  Mags    (100%): (Any magazine)
+  Mags    ( 89%): High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell, Light Mag
+  Perks 1 ( 16%): Firmly Planted
+  Perks 2 ( 33%): Elemental Capacitor
+  MWorks  ( 50%): Stability MW, Range MW
+  ```
+* **(PvP) Super Picky (Minus Capacitor) (1.7% chance)**: Same as above, minus the requirement for `Elemental Capacitor`. While it does give us a big Stability boost with the matching subclass equipped, the roll still works super well without it.
+  ```
+  Barrels ( 22%): Arrowhead Brake
+  Mags    ( 89%): High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell, Light Mag
   Perks 1 ( 16%): Firmly Planted
   Perks 2 (100%): (Any perk)
   MWorks  ( 50%): Stability MW, Range MW
-  ```
-* **(PvP) Super Picky (Minus Stability MW) (0.8% chance)**: Same as above, minus masterworks.
-  ```
-  Barrels ( 22%): Arrowhead Brake
-  Mags    ( 64%): Ricochet Rounds, Flared Magwell, Light Mag
-  Perks 1 ( 16%): Firmly Planted
-  Perks 2 ( 33%): Elemental Capacitor
-  MWorks  (100%): (Any masterwork)
   ```
 ## Steelfeather Repeater - PvE
 There are two long form Steelfeather reviews kicking around. CoolGuy does a [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI) of the weapon overall with PvE and PvP thoughts. [Aztecross](https://www.youtube.com/watch?v=zdhugEZT1C4) has one as well and per usual, has a bit more excited yelling :) Interestingly they both compare it to a "higher range SMG". They also both comment on its applicability (or lack of) to anything beyond slaying red-bar enemies. In Sundial for example, it runs out of steam. Oddly enough, Breachlight performs better in that role; go figure. "I feel it's a decent weapon. I personally don't crown it anything beyond it's a fun AR to have in your rotation."
@@ -560,52 +560,20 @@ There are two long form Steelfeather reviews kicking around. CoolGuy does a [ter
   Perks 2 ( 60%): Swashbuckler, Multikill Clip
   MWorks  ( 50%): Stability MW, Range MW
   ```
-* **(PvE) Super Picky (Minus MW) (14.4% chance)**: Same as above, minus the Masterworks
-  ```
-  Barrels ( 91%): Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore
-  Mags    ( 78%): Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag
-  Perks 1 ( 33%): Feeding Frenzy, Subsistence
-  Perks 2 ( 60%): Swashbuckler, Multikill Clip
-  MWorks  (100%): (Any masterwork)
-  ```
-* **(PvE) Punchy Picky 👊 (4.0% chance)**: Classic punchy punchy build
+* **(PvE) Super Punchy Picky 👊 (2.0% chance)**: Classic punchy combo!
   ```
   Barrels ( 91%): Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore
   Mags    ( 78%): Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag
   Perks 1 ( 16%): Grave Robber
   Perks 2 ( 33%): Swashbuckler
-  MWorks  (100%): (Any masterwork)
+  MWorks  ( 50%): Stability MW, Range MW
   ```
-* **(PvE) Punchy Baseline 👊 (5.6% chance)**: If you're punching things, this is your minimum loadout.
+* **(PvE) Shieldbreaker / Future-Proofing (2.5% chance)**: With artifacts all over the map, it's possible we get another Barrier mod that applies to Auto Rifles. This could be a fun one to bank.
   ```
-  Barrels (100%): (Any barrel)
-  Mags    (100%): (Any magazine)
-  Perks 1 ( 16%): Grave Robber
-  Perks 2 ( 33%): Swashbuckler
-  MWorks  (100%): (Any masterwork)
-  ```
-* **(PvE) Shieldbreaker (8.3% chance)**: With artifacts all over the map, it's possible we get another Barrier mod that applies to Auto Rifles. This could be a fun one to bank.
-  ```
-  Barrels (100%): (Any barrel)
+  Barrels ( 91%): Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore
   Mags    ( 25%): Armor-Piercing Rounds
-  Perks 1 (100%): (Any perk)
+  Perks 1 ( 33%): Feeding Frenzy, Subsistence
   Perks 2 ( 33%): Osmosis
-  MWorks  (100%): (Any masterwork)
-  ```
-* **(PvE) Baseline (20.0% chance)**: Solid pairing if you're jonesing for an AR that can do work.
-  ```
-  Barrels (100%): (Any barrel)
-  Mags    (100%): (Any magazine)
-  Perks 1 ( 33%): Feeding Frenzy, Subsistence
-  Perks 2 ( 60%): Swashbuckler, Multikill Clip
-  MWorks  (100%): (Any masterwork)
-  ```
-* **(PvE) Utility/Future-Proofing (20.0% chance)**: Not one that we're terribly looking for; maybe hold on to it for another season or twos worth of sandbox updates?
-  ```
-  Barrels (100%): (Any barrel)
-  Mags    (100%): (Any magazine)
-  Perks 1 ( 33%): Feeding Frenzy, Subsistence
-  Perks 2 ( 60%): Vorpal, Osmosis
   MWorks  (100%): (Any masterwork)
   ```
 ## Traveler's Judgement 5 - PvP
