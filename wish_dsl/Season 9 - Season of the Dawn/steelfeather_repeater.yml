@@ -25,7 +25,7 @@ groups:
       for PvP. "I feel it's a decent weapon. I personally don't crown it anything
       beyond it's a fun AR to have in your rotation."
     rolls:
-      - 
+      - &superpicky
         name: (PvP) Super Picky
         desc: >
           We're looking to max stability after maxing recoil, as much as we can.
@@ -33,26 +33,27 @@ groups:
           sources of stability are terrific of course, but without those two, we
           don't have enough control to matter.
         barrels: [Arrowhead Brake]
-        magazines: [Ricochet Rounds, Flared Magwell, Light Mag]
+        magazines: [Ricochet Rounds, Flared Magwell]
         perks1: [Firmly Planted]
         perks2: [Elemental Capacitor]
         masterworks: [Stability MW, Range MW]
-      -
-        name: (PvP) Super Picky (Minus Magazine and Perks)
-        desc: Same as above, minus mags and perks.
-        barrels: [Arrowhead Brake]
-        magazines: []
-        perks1: [Firmly Planted]
+      - &relaxedmags
+        <<: *superpicky
+        name: (PvP) Super Picky (Relaxed Magazines)
+        desc: >
+          Same as above with a broader set of acceptable magazines. Most of the
+          Stability comes from `Firmly Planted` so any Range or Stability boost
+          from these mags is just gravy.
+        magazines: [High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell, Light Mag]
+      - 
+        <<: *relaxedmags
+        name: (PvP) Super Picky (Minus Capacitor)
+        desc: >
+          Same as above, minus the requirement for `Elemental Capacitor`. While
+          it does give us a big Stability boost with the matching subclass
+          equipped, the roll still works super well without it.
         perks2: []
-        masterworks: [Stability MW, Range MW]
-      -
-        name: (PvP) Super Picky (Minus Stability MW)
-        desc: Same as above, minus masterworks.
-        barrels: [Arrowhead Brake]
-        magazines: [Ricochet Rounds, Flared Magwell, Light Mag]
-        perks1: [Firmly Planted]
-        perks2: [Elemental Capacitor]
-        masterworks: []
+
   - 
     name: PvE
     summary: >
@@ -66,7 +67,7 @@ groups:
       better in that role; go figure. "I feel it's a decent weapon. I personally
       don't crown it anything beyond it's a fun AR to have in your rotation."
     rolls:
-      -
+      - &superpicky
         name: (PvE) Super Picky
         desc: > 
           How can we keep DPS up as long as possible while preserving as much Range
@@ -77,54 +78,18 @@ groups:
         perks2: [Swashbuckler, Multikill Clip]
         masterworks: [Stability MW, Range MW]
       -
-        name: (PvE) Super Picky (Minus MW)
-        desc: Same as above, minus the Masterworks
-        barrels: [Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore]
-        magazines: [Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
-        perks1: [Feeding Frenzy, Subsistence]
-        perks2: [Swashbuckler, Multikill Clip]
-        masterworks: []
-      -
-        name: (PvE) Punchy Picky 👊
-        desc: Classic punchy punchy build
-        barrels: [Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore]
-        magazines: [Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
+        <<: *superpicky
+        name: (PvE) Super Punchy Picky 👊
+        desc: >
+          Classic punchy combo!
         perks1: [Grave Robber]
         perks2: [Swashbuckler]
-        masterworks: []
       -
-        name: (PvE) Punchy Baseline 👊
-        desc: If you're punching things, this is your minimum loadout.
-        barrels: []
-        magazines: []
-        perks1: [Grave Robber]
-        perks2: [Swashbuckler]
-        masterworks: []
-      -
-        name: (PvE) Shieldbreaker
+        <<: *superpicky
+        name: (PvE) Shieldbreaker / Future-Proofing
         desc: >
           With artifacts all over the map, it's possible we get another Barrier mod
           that applies to Auto Rifles. This could be a fun one to bank.
-        barrels: []
         magazines: [Armor-Piercing Rounds]
-        perks1: []
         perks2: [Osmosis]
-        masterworks: []
-      -
-        name: (PvE) Baseline
-        desc: Solid pairing if you're jonesing for an AR that can do work.
-        barrels: []
-        magazines: []
-        perks1: [Feeding Frenzy, Subsistence]
-        perks2: [Swashbuckler, Multikill Clip]
-        masterworks: []
-      -
-        name: (PvE) Utility/Future-Proofing
-        desc: >
-          Not one that we're terribly looking for; maybe hold on to it for another
-          season or twos worth of sandbox updates?
-        barrels: []
-        magazines: []
-        perks1: [Feeding Frenzy, Subsistence]
-        perks2: [Vorpal, Osmosis]
         masterworks: []
