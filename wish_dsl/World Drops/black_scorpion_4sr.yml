@@ -42,14 +42,14 @@ groups:
         barrels: [Polygonal Rifling]
         magazines: [Steady Rounds, Accurized Rounds]
         perks1: [Zen Moment]
-        perks2: [Rangefinder]
-        masterworks: [Stability MW]      
+        perks2: [Rangefinder, Snapshot]
+        masterworks: [Stability MW, Range MW]
       - &sansrangefinder
         <<: *stabilityfocused
-        name: (PvP) Super Picky Stability (Sans Rangefinder)
+        name: (PvP) Super Picky Stability (Sans fourth column)
         desc: >
           It's super hard to get perks in the final two columns, and without
-          Rangefinder we've still got a phenomenal roll.
+          those perks we've still got a phenomenal roll.
         perks2: []
       - 
         <<: *sansrangefinder
