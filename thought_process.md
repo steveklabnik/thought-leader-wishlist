@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-15 05:46:13 +00:00`. The most recent
+created on `2020-02-15 05:47:33 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -25,11 +25,11 @@ own discretion.
 * Infinite Paths 8 ([PvP](#infinite-paths-8---pvp), [PvE](#infinite-paths-8---pve))
 * Jack Queen King 3 ([PvP](#jack-queen-king-3---pvp), [PvE](#jack-queen-king-3---pve))
 * Line in the Sand ([PvE](#line-in-the-sand---pve))
-* Martyr's Retribution ([PvP](#martyr-s-retribution---pvp), [PvE](#martyr-s-retribution---pve))
+* Martyr's Retribution ([PvP](#martyrs-retribution---pvp), [PvE](#martyrs-retribution---pve))
 * Patron of Lost Causes ([PvP](#patron-of-lost-causes---pvp), [PvE](#patron-of-lost-causes---pve))
 * Perfect Paradox ([PvE](#perfect-paradox---pve))
 * Steelfeather Repeater ([PvP](#steelfeather-repeater---pvp), [PvE](#steelfeather-repeater---pve))
-* Traveler's Judgement 5 ([PvP](#traveler-s-judgement-5---pvp), [PvE](#traveler-s-judgement-5---pve))
+* Traveler's Judgement 5 ([PvP](#travelers-judgement-5---pvp), [PvE](#travelers-judgement-5---pve))
 * Trophy Hunter ([PvP](#trophy-hunter---pvp), [PvE](#trophy-hunter---pve))
 
 **World Drops**
