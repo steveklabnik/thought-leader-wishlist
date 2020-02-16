@@ -89,7 +89,7 @@ groups:
           cake. The lack of a Range Masterwork, or any specific Masterwork
           doesn't make or break this roll so I'm leaving it out.
         barrels: [Hammer-Forged Rifling, Smallbore, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling]
-        magazines: [Tactical Mag, Accurized Rounds, Flared Magwell, Drop Mag]
+        magazines: [Tactical Mag, Accurized Rounds, Flared Magwell]
         perks1: [Outlaw]
         perks2: [Multikill Clip]
         masterworks: []
@@ -110,4 +110,13 @@ groups:
           grenades and ability energy.
         perks1: [Demolitionist]
         perks2: [Osmosis]
+      -
+        <<: *gunslinger
+        name: (PvE) Picky (Mini)Boss Shredder
+        desc: >
+          With a Major or Boss spec, Breachlight surprisingly wrecks. Throw this
+          on in Sundial and watch what happens to Champions and Bosses.
+        perks1: []
+        perks2: [Vorpal]
+        masterworks: [Range MW]
         
