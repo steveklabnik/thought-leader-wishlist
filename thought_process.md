@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-16 01:45:57 +00:00`. The most recent
+created on `2020-02-16 03:36:02 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -400,40 +400,40 @@ Datto posted some in-depth comparisons between LitS and other DPS weapons [earli
   MWorks  (100%): (Any masterwork)
   ```
 ## Martyr's Retribution - PvP
-I absolutely love this new "Wave Frame" (i.e. Thermite Jr.) archetype! Our roll choices below might seem a little odd, but here we go. For PvP I want this always ready, loaded and moving quickly. That means I'm looking for velocity, reload and handling wherever I can get it. The base Velocity is `76` and since the second column perks are fixed, that's a flat `+9` so we're at `84`. That seems more than good enough, so lets focus on reload + handling. There's only one roll here because it's not that hard to farm.
-* **(PvP) Super Picky (4.6% chance)**: Threat Detector has such a long proc range that I'm going to put it on par with Auto-Loading Holster here. We can choose (or not choose) to use the reload and handling boosts on Elemental Capacitor, paired with the masterworks. Don't forget a `Quick Access Sling` mod!
+I absolutely love this new "Wave Frame" (i.e. Thermite Jr.) archetype! Our roll choices below might seem a little odd, but here we go. For PvP I want this always ready, loaded and moving quickly. That means I'm looking for Velocity, Reload and Handling wherever I can get it. The base Velocity is `76` and since the second column perks are fixed, that's a flat `+9` so we're at `84`. That seems more than good enough, so lets focus on Reload and Handling. There's only one roll here because it's not that hard to farm. I don't require Demolitionist here because like Fighting Lion, I see Martyr's more as a starter than a finisher. By all means, roll with it - but I don't think it's absence is cause for valuing a roll any less.
+* **(PvP) Super Picky (6.1% chance)**: Threat Detector has such a long proc range that I'm going to put it on par with Auto-Loading Holster here. We can choose (or not choose) to use the reload and handling boosts on Elemental Capacitor, paired with the masterworks. Don't forget a `Quick Access Sling` mod!
   ```
-  Barrels ( 71%): Countermass, Quick Launch, Smart Drift Control
-  Mags    (100%): (Any magazine)
+  Barrels ( 95%): Countermass, Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    ( 100%): High-Velocity Rounds
   Perks 1 ( 40%): Threat Detector, Auto-Loading Holster
   Perks 2 ( 40%): Elemental Capacitor
   MWorks  ( 40%): Reload MW, Handling MW
   ```
-* **(PvP) Picky (11.4% chance)**: Same as above, minus Elemental Capacitor which is the hardest to get out of the other perks.
+* **(PvP) Super Picky (Minus Capacitor) (15.2% chance)**: Same as above, minus Elemental Capacitor which is the hardest to get out of the other perks.
   ```
-  Barrels ( 71%): Countermass, Quick Launch, Smart Drift Control
-  Mags    (100%): (Any magazine)
+  Barrels ( 95%): Countermass, Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    ( 100%): High-Velocity Rounds
   Perks 1 ( 40%): Threat Detector, Auto-Loading Holster
   Perks 2 (100%): (Any perk)
   MWorks  ( 40%): Reload MW, Handling MW
   ```
 ## Martyr's Retribution - PvE
 This is one of my favourite weapons in all of Destiny! Pretty much any roll is fine but if you want to push your roll criteria, here we go.
-* **(PvE) The Instant Reloader (3.4% chance)**: We're doing everything we can to reload as quickly as possible with this roll. How do we keep one in the chamber constantly?
+* **(PvE) The Instant Reloader (4.6% chance)**: We're doing everything we can to reload as quickly as possible with this roll. How do we keep one in the chamber constantly?
   ```
-  Barrels ( 71%): Countermass, Quick Launch, Smart Drift Control
-  Mags    (100%): (Any magazine)
+  Barrels ( 95%): Countermass, Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    ( 100%): High-Velocity Rounds
   Perks 1 ( 60%): Auto-Loading Holster, Threat Detector, Field Prep
   Perks 2 ( 40%): Demolitionist
   MWorks  ( 20%): Reload MW
   ```
-* **(PvE) Shieldbreaker (2.3% chance)**: Martyr's absolutely shreds shields and a shieldsplosion roll like this will be super fun. Those hopefully chained kills should keep your grenade rolling from Demolitionist and upon activating it will reload your weapon and so on...
+* **(PvE) Shieldbreaker (1.5% chance)**: Martyr's absolutely shreds shields and a shieldsplosion roll like this will be super fun. Those hopefully chained kills should keep your grenade rolling from Demolitionist and upon activating it will reload your weapon and so on...
   ```
-  Barrels ( 71%): Countermass, Quick Launch, Smart Drift Control
-  Mags    (100%): (Any magazine)
+  Barrels ( 95%): Countermass, Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    ( 100%): High-Velocity Rounds
   Perks 1 ( 20%): Genesis
   Perks 2 ( 40%): Demolitionist
-  MWorks  ( 40%): Reload MW, Handling MW
+  MWorks  ( 20%): Reload MW
   ```
 ## Patron of Lost Causes - PvP
 CoolGuy absolutely loves his Patron, and has a great [video review of it](https://www.youtube.com/watch?v=GTcp4JQD1fI). I'm on controller so these rolls are all about maxing our stability. Fortunately we have a pretty broad set of useful rolls. Randy's is in the same slot and has Rapid-Hit + Kill Clip already, so I'm not losing too much sleep about getting a perfect roll here.
