@@ -60,15 +60,23 @@ groups:
           Let's reboot by widening our acceptable barrels and magazines.
         barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel, Full Bore]
         magazines: [Tactical Mag, Accurized Rounds, Flared Magwell]
+      -
+        <<: *superpicky
+        name: (PvP) Picky Super Killer (Minus Magazines)
+        desc: >
+          Same as before, minus magazines. Still a phenomenal roll without any
+          particular magazine.
+        magazines: []
       - 
         <<: *superpicky
-        name: (PvP) Super Picky (Minus Threat Detector)
+        name: (PvP) Picky Super Killer (Minus Threat Detector)
         desc: >
           Same as before, minus Threat Detector since the roll is amazing
           without it. I'm not going broader than this because even though ~4%
           might seem like a small number, you can cash in fifty of these
           bounties in about ten minutes. YOU CAN DO IT!
         perks1: []
+
   - 
     name: PvE
     summary: >
