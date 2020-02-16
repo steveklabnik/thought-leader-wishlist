@@ -36,6 +36,13 @@ groups:
         masterworks: [Range MW]
       - 
         <<: *slifs
+        name: (PvP) Slif's Picky Super Killer 💥(Minus Threat)
+        desc: >
+          While Threat Detector is solid, missing it doesn't change how amazing
+          this roll would otherwise be.
+        perks1: []
+      - 
+        <<: *slifs
         name: (PvP) Slif's Picky Super Killer 💥(Minus Accurized)
         desc: >
           With a Range Masterwork, you can make up for not having Accurized
