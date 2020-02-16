@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-15 23:03:33 +00:00`. The most recent
+created on `2020-02-16 00:53:01 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -38,109 +38,69 @@ own discretion.
 
 ---
 ## Breachlight - PvP
-CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE and PvP but focuses intensely on PvP. Some choice cuts: "I would try other rolls while I was reviewing this and I kept coming back to Vorpal." "Landing shots is more important than accuracy; shouldn't be worried about straight precision. More important to get the recoil straight up and down than it is to add stability because you have to control the stability after every burst anyway." I have to agree - Vorpal is pretty amazing in PvP and I did wish I had it several times. Without Vorpal or Quickdraw, it's just another two-burst sidearm, which is great but you don't need a wishlist for that :)
-* **(PvP) Slif's Super Picky (0.3% chance)**: This is my personal perfect PVP roll. Threat Detector has a far longer range than you'd think (beyond damage falloff) and Vorpal shreds through supers. The rest of this roll is all about maxing out the range.
+CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE and PvP but focuses intensely on PvP. Some choice cuts: "I would try other rolls while I was reviewing this and I kept coming back to Vorpal." "Landing shots is more important than accuracy; shouldn't be worried about straight precision. More important to get the recoil straight up and down than it is to add stability because you have to control the stability after every burst anyway." I have to agree - Vorpal is pretty amazing in PvP and I did wish I had it several times. Without Vorpal, it's just another two-burst sidearm. You may as well use a Smuggler's Word with Tap the Trigger, which has one of the lowest TTKs in all of Destiny.
+* **(PvP) Slif's Picky Super Killer 💥 (0.2% chance)**: This is my personal perfect PVP roll. Threat Detector has a far longer range than you'd think (beyond damage falloff) and Vorpal shreds through supers. The rest of this roll is all about maxing out the range.
   ```
-  Barrels ( 72%): Full Bore, Hammer-Forged Rifling, Smallbore, Extended Barrel
+  Barrels ( 58%): Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    ( 25%): Accurized Rounds
   Perks 1 ( 16%): Threat Detector
   Perks 2 ( 33%): Vorpal
   MWorks  ( 25%): Range MW
   ```
-* **(PvP) Super Picky (1.4% chance)**: Any roll in this set would give you an A+ PvP roll. Without Vorpal or Quickdraw in the final column, you're better off using a Smuggler's Word with Tap the Trigger.
+* **(PvP) Slif's Picky Super Killer 💥(Minus Accurized) (0.8% chance)**: With a Range Masterwork, you can make up for not having Accurized
   ```
-  Barrels ( 72%): Full Bore, Hammer-Forged Rifling, Smallbore, Extended Barrel
-  Mags    ( 25%): Accurized Rounds
-  Perks 1 ( 50%): Threat Detector, Demolitionist, Outlaw
-  Perks 2 ( 60%): Vorpal, Quickdraw
+  Barrels ( 58%): Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    (100%): (Any magazine)
+  Perks 1 ( 16%): Threat Detector
+  Perks 2 ( 33%): Vorpal
   MWorks  ( 25%): Range MW
   ```
-* **(PvP) Super Picky (Minus MW and Accurized) (21.7% chance)**: Same as before, minus the Range MW and Accurized Rounds since you have only a 25% to get each of them. This is still an amazing roll.
+* **(PvP) Slif's Picky Super Killer 💥(Minus Range MW) (0.8% chance)**: With Accurized, we're not as worried about the Range Masterwork.
   ```
-  Barrels ( 72%): Full Bore, Hammer-Forged Rifling, Smallbore, Extended Barrel
-  Mags    (100%): (Any magazine)
-  Perks 1 ( 50%): Threat Detector, Demolitionist, Outlaw
-  Perks 2 ( 60%): Vorpal, Quickdraw
+  Barrels ( 58%): Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    ( 25%): Accurized Rounds
+  Perks 1 ( 16%): Threat Detector
+  Perks 2 ( 33%): Vorpal
   MWorks  (100%): (Any masterwork)
   ```
-* **(PvP) Baseline (43.3% chance)**: You've got basically a 50% chance of getting this roll :) Yes it would be awesome to have +20 range from Accurized and a Range MW but it's still a great weapon.
+* **(PvP) Picky Super Killer (0.7% chance)**: Let's reboot by widening our acceptable barrels and magazines.
   ```
-  Barrels ( 72%): Full Bore, Hammer-Forged Rifling, Smallbore, Extended Barrel
-  Mags    (100%): (Any magazine)
+  Barrels ( 83%): Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel, Full Bore
+  Mags    ( 64%): Tactical Mag, Accurized Rounds, Flared Magwell
+  Perks 1 ( 16%): Threat Detector
+  Perks 2 ( 33%): Vorpal
+  MWorks  ( 25%): Range MW
+  ```
+* **(PvP) Super Picky (Minus Threat Detector) (4.5% chance)**: Same as before, minus Threat Detector since the roll is amazing without it. I'm not going broader than this because even though ~4% might seem like a small number, you can cash in fifty of these bounties in about ten minutes. YOU CAN DO IT!
+  ```
+  Barrels ( 83%): Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel, Full Bore
+  Mags    ( 64%): Tactical Mag, Accurized Rounds, Flared Magwell
   Perks 1 (100%): (Any perk)
-  Perks 2 ( 60%): Vorpal, Quickdraw
-  MWorks  (100%): (Any masterwork)
+  Perks 2 ( 33%): Vorpal
+  MWorks  ( 25%): Range MW
   ```
 ## Breachlight - PvE
-Ehroar focuses on Breachlight - ["This Sidearm Might Just Be The New Recluse"](https://www.youtube.com/watch?v=TrYRPglvMHY) "I truly believe this weapon is better than Recluse and I believe it will be the new meta for PvE." He mentions three amazing rolls (well four kinda) that I'll capture below.
-* **(PvE) Picky Gunslinger (0.3% chance)**: Ehroar: "Great for basic add clear. Once you get MKC going you can shred Majors and Ultras." We're going for max range with some extra perks and a Masterwork, but those are just icing on this shredding cake.
+Ehroar focuses on Breachlight - ["This Sidearm Might Just Be The New Recluse"](https://www.youtube.com/watch?v=TrYRPglvMHY) "I truly believe this weapon is better than Recluse and I believe it will be the new meta for PvE." He mentions three amazing rolls (well four kinda) that I'll capture below. You won't see obviously good rolls here (e.g. Outlaw + MKC) because the combination is so straightforward and easy to roll. I.e. you don't need to come to a DIM wishlist to tell you that these perks pair well togther :)
+* **(PvE) Picky Gunslinger (3.6% chance)**: Ehroar: "Great for basic add clear. Once you get MKC going you can shred Majors and Ultras." We're going for max range with some extra perks and a Masterwork, but those are just icing on this shredding cake. The lack of a Range Masterwork, or any specific Masterwork doesn't make or break this roll so I'm leaving it out.
   ```
-  Barrels (100%): (Any barrel)
-  Mags    ( 25%): Accurized Rounds
-  Perks 1 ( 16%): Outlaw
-  Perks 2 ( 33%): Multikill Clip
-  MWorks  ( 25%): Range MW
-  ```
-* **(PvE) Basic Gunslinger (5.6% chance)**: Same as above, minus the magazine and masterwork.
-  ```
-  Barrels (100%): (Any barrel)
-  Mags    (100%): (Any magazine)
+  Barrels ( 83%): Hammer-Forged Rifling, Smallbore, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling
+  Mags    ( 78%): Tactical Mag, Accurized Rounds, Flared Magwell, Drop Mag
   Perks 1 ( 16%): Outlaw
   Perks 2 ( 33%): Multikill Clip
   MWorks  (100%): (Any masterwork)
   ```
-* **(PvE) Picky Never-Reloading Devour-lock (0.6% chance)**: With Devour on, you'll have your grenade constantly and since throwing your grenade reloads the weapon, you can keep `Rampage x 3` up for a long time.
+* **(PvE) Picky Never-Reloader (6.5% chance)**: Once you get on a tear, the damage perks will recharge your grenade quickly and by throwing it, you'll reload the mag. Rinse and repeat. This is especially spicy when paired with Devour-lock.
   ```
-  Barrels (100%): (Any barrel)
-  Mags    ( 25%): Accurized Rounds
-  Perks 1 ( 16%): Demolitionist
-  Perks 2 ( 60%): Rampage, Multikill Clip
-  MWorks  ( 25%): Range MW
-  ```
-* **(PvE) Picky Never-Reloading Devour-lock (Minus Magazines) (2.5% chance)**: Same as above, minus Accurized Rounds since it's so much harder to get than Range MW.
-  ```
-  Barrels (100%): (Any barrel)
-  Mags    (100%): (Any magazine)
-  Perks 1 ( 16%): Demolitionist
-  Perks 2 ( 60%): Rampage, Multikill Clip
-  MWorks  ( 25%): Range MW
-  ```
-* **(PvE) Picky Never-Reloading Devour-lock (Minus Masterwork) (2.5% chance)**: Same as above, minus the Range MW
-  ```
-  Barrels (100%): (Any barrel)
-  Mags    ( 25%): Accurized Rounds
+  Barrels ( 83%): Hammer-Forged Rifling, Smallbore, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling
+  Mags    ( 78%): Tactical Mag, Accurized Rounds, Flared Magwell, Drop Mag
   Perks 1 ( 16%): Demolitionist
   Perks 2 ( 60%): Rampage, Multikill Clip
   MWorks  (100%): (Any masterwork)
   ```
-* **(PvE) Picky Rarely-Reloading Bezerker (0.6% chance)**: With Drop Mag and a Reload MW, you'll be able to keep Rampage up. You could also do this with
+* **(PvE) Picky Master of the Void (3.6% chance)**: Pair with Devour-lock and Nezarac's sin and you'll be flush with health, grenades and ability energy.
   ```
-  Barrels (100%): (Any barrel)
-  Mags    ( 25%): Drop Mag
-  Perks 1 ( 16%): Demolitionist
-  Perks 2 ( 60%): Rampage, Multikill Clip
-  MWorks  ( 25%): Range MW
-  ```
-* **(PvE) Basic Rarely-Reloading Bezerker (2.5% chance)**: Same as above, minus the Masterwork
-  ```
-  Barrels (100%): (Any barrel)
-  Mags    ( 25%): Drop Mag
-  Perks 1 ( 16%): Demolitionist
-  Perks 2 ( 60%): Rampage, Multikill Clip
-  MWorks  (100%): (Any masterwork)
-  ```
-* **(PvE) Picky Master of the Void (0.3% chance)**: Pair with Devour-lock and Nezarac's sin and you'll be flush with health, grenades and ability energy.
-  ```
-  Barrels (100%): (Any barrel)
-  Mags    ( 25%): Accurized Rounds
-  Perks 1 ( 16%): Demolitionist
-  Perks 2 ( 33%): Osmosis
-  MWorks  ( 25%): Range MW
-  ```
-* **(PvE) Basic Master of the Void (5.6% chance)**: Same as above with just the core perks.
-  ```
-  Barrels (100%): (Any barrel)
-  Mags    (100%): (Any magazine)
+  Barrels ( 83%): Hammer-Forged Rifling, Smallbore, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling
+  Mags    ( 78%): Tactical Mag, Accurized Rounds, Flared Magwell, Drop Mag
   Perks 1 ( 16%): Demolitionist
   Perks 2 ( 33%): Osmosis
   MWorks  (100%): (Any masterwork)
