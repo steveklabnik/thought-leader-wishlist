@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-16 00:53:01 +00:00`. The most recent
+created on `2020-02-16 00:58:09 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -44,6 +44,14 @@ CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE 
   Barrels ( 58%): Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    ( 25%): Accurized Rounds
   Perks 1 ( 16%): Threat Detector
+  Perks 2 ( 33%): Vorpal
+  MWorks  ( 25%): Range MW
+  ```
+* **(PvP) Slif's Picky Super Killer 💥(Minus Threat) (1.2% chance)**: While Threat Detector is solid, missing it doesn't change how amazing this roll would otherwise be.
+  ```
+  Barrels ( 58%): Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    ( 25%): Accurized Rounds
+  Perks 1 (100%): (Any perk)
   Perks 2 ( 33%): Vorpal
   MWorks  ( 25%): Range MW
   ```
