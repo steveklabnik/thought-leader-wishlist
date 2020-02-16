@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-16 00:58:09 +00:00`. The most recent
+created on `2020-02-16 01:04:57 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -89,29 +89,37 @@ CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE 
   ```
 ## Breachlight - PvE
 Ehroar focuses on Breachlight - ["This Sidearm Might Just Be The New Recluse"](https://www.youtube.com/watch?v=TrYRPglvMHY) "I truly believe this weapon is better than Recluse and I believe it will be the new meta for PvE." He mentions three amazing rolls (well four kinda) that I'll capture below. You won't see obviously good rolls here (e.g. Outlaw + MKC) because the combination is so straightforward and easy to roll. I.e. you don't need to come to a DIM wishlist to tell you that these perks pair well togther :)
-* **(PvE) Picky Gunslinger (3.6% chance)**: Ehroar: "Great for basic add clear. Once you get MKC going you can shred Majors and Ultras." We're going for max range with some extra perks and a Masterwork, but those are just icing on this shredding cake. The lack of a Range Masterwork, or any specific Masterwork doesn't make or break this roll so I'm leaving it out.
+* **(PvE) Picky Gunslinger (3.0% chance)**: Ehroar: "Great for basic add clear. Once you get MKC going you can shred Majors and Ultras." We're going for max range with some extra perks and a Masterwork, but those are just icing on this shredding cake. The lack of a Range Masterwork, or any specific Masterwork doesn't make or break this roll so I'm leaving it out.
   ```
   Barrels ( 83%): Hammer-Forged Rifling, Smallbore, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling
-  Mags    ( 78%): Tactical Mag, Accurized Rounds, Flared Magwell, Drop Mag
+  Mags    ( 64%): Tactical Mag, Accurized Rounds, Flared Magwell
   Perks 1 ( 16%): Outlaw
   Perks 2 ( 33%): Multikill Clip
   MWorks  (100%): (Any masterwork)
   ```
-* **(PvE) Picky Never-Reloader (6.5% chance)**: Once you get on a tear, the damage perks will recharge your grenade quickly and by throwing it, you'll reload the mag. Rinse and repeat. This is especially spicy when paired with Devour-lock.
+* **(PvE) Picky Never-Reloader (5.4% chance)**: Once you get on a tear, the damage perks will recharge your grenade quickly and by throwing it, you'll reload the mag. Rinse and repeat. This is especially spicy when paired with Devour-lock.
   ```
   Barrels ( 83%): Hammer-Forged Rifling, Smallbore, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling
-  Mags    ( 78%): Tactical Mag, Accurized Rounds, Flared Magwell, Drop Mag
+  Mags    ( 64%): Tactical Mag, Accurized Rounds, Flared Magwell
   Perks 1 ( 16%): Demolitionist
   Perks 2 ( 60%): Rampage, Multikill Clip
   MWorks  (100%): (Any masterwork)
   ```
-* **(PvE) Picky Master of the Void (3.6% chance)**: Pair with Devour-lock and Nezarac's sin and you'll be flush with health, grenades and ability energy.
+* **(PvE) Picky Master of the Void (3.0% chance)**: Pair with Devour-lock and Nezarac's sin and you'll be flush with health, grenades and ability energy.
   ```
   Barrels ( 83%): Hammer-Forged Rifling, Smallbore, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling
-  Mags    ( 78%): Tactical Mag, Accurized Rounds, Flared Magwell, Drop Mag
+  Mags    ( 64%): Tactical Mag, Accurized Rounds, Flared Magwell
   Perks 1 ( 16%): Demolitionist
   Perks 2 ( 33%): Osmosis
   MWorks  (100%): (Any masterwork)
+  ```
+* **(PvE) Picky (Mini)Boss Shredder (4.5% chance)**: With a Major or Boss spec, Breachlight surprisingly wrecks. Throw this on in Sundial and watch what happens to Champions and Bosses.
+  ```
+  Barrels ( 83%): Hammer-Forged Rifling, Smallbore, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling
+  Mags    ( 64%): Tactical Mag, Accurized Rounds, Flared Magwell
+  Perks 1 (100%): (Any perk)
+  Perks 2 ( 33%): Vorpal
+  MWorks  ( 25%): Range MW
   ```
 ## Gallant Charge - PvP
 Fallout has an interesting, [pro-Stability take](https://www.youtube.com/watch?v=pVVLwg1pVs4) on the Gallant. "This might be THE fusion rifle for controller players". It's bolt grouping isn't as tight, but you can get Recoil to 100 (with a Counterbalance mod). Go for Stability! With respect to the magazine, I prefer the unaltered charge time.
