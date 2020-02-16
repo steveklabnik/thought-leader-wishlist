@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-16 01:04:57 +00:00`. The most recent
+created on `2020-02-16 01:09:56 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -79,7 +79,15 @@ CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE 
   Perks 2 ( 33%): Vorpal
   MWorks  ( 25%): Range MW
   ```
-* **(PvP) Super Picky (Minus Threat Detector) (4.5% chance)**: Same as before, minus Threat Detector since the roll is amazing without it. I'm not going broader than this because even though ~4% might seem like a small number, you can cash in fifty of these bounties in about ten minutes. YOU CAN DO IT!
+* **(PvP) Picky Super Killer (Minus Magazines) (1.2% chance)**: Same as before, minus magazines. Still a phenomenal roll without any particular magazine.
+  ```
+  Barrels ( 83%): Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel, Full Bore
+  Mags    (100%): (Any magazine)
+  Perks 1 ( 16%): Threat Detector
+  Perks 2 ( 33%): Vorpal
+  MWorks  ( 25%): Range MW
+  ```
+* **(PvP) Picky Super Killer (Minus Threat Detector) (4.5% chance)**: Same as before, minus Threat Detector since the roll is amazing without it. I'm not going broader than this because even though ~4% might seem like a small number, you can cash in fifty of these bounties in about ten minutes. YOU CAN DO IT!
   ```
   Barrels ( 83%): Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel, Full Bore
   Mags    ( 64%): Tactical Mag, Accurized Rounds, Flared Magwell
