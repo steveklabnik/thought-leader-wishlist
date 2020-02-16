@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-16 01:09:56 +00:00`. The most recent
+created on `2020-02-16 01:21:48 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -47,14 +47,6 @@ CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE 
   Perks 2 ( 33%): Vorpal
   MWorks  ( 25%): Range MW
   ```
-* **(PvP) Slif's Picky Super Killer 💥(Minus Threat) (1.2% chance)**: While Threat Detector is solid, missing it doesn't change how amazing this roll would otherwise be.
-  ```
-  Barrels ( 58%): Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    ( 25%): Accurized Rounds
-  Perks 1 (100%): (Any perk)
-  Perks 2 ( 33%): Vorpal
-  MWorks  ( 25%): Range MW
-  ```
 * **(PvP) Slif's Picky Super Killer 💥(Minus Accurized) (0.8% chance)**: With a Range Masterwork, you can make up for not having Accurized
   ```
   Barrels ( 58%): Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
@@ -71,10 +63,18 @@ CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE 
   Perks 2 ( 33%): Vorpal
   MWorks  (100%): (Any masterwork)
   ```
-* **(PvP) Picky Super Killer (0.7% chance)**: Let's reboot by widening our acceptable barrels and magazines.
+* **(PvP) Slif's Picky Super Killer 💥(Minus Threat) (1.2% chance)**: While Threat Detector is solid, missing it doesn't change how amazing this roll would otherwise be.
+  ```
+  Barrels ( 58%): Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    ( 25%): Accurized Rounds
+  Perks 1 (100%): (Any perk)
+  Perks 2 ( 33%): Vorpal
+  MWorks  ( 25%): Range MW
+  ```
+* **(PvP) Picky Super Killer (0.3% chance)**: Let's reboot by widening our acceptable barrels.
   ```
   Barrels ( 83%): Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel, Full Bore
-  Mags    ( 64%): Tactical Mag, Accurized Rounds, Flared Magwell
+  Mags    ( 25%): Accurized Rounds
   Perks 1 ( 16%): Threat Detector
   Perks 2 ( 33%): Vorpal
   MWorks  ( 25%): Range MW
@@ -87,10 +87,18 @@ CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE 
   Perks 2 ( 33%): Vorpal
   MWorks  ( 25%): Range MW
   ```
-* **(PvP) Picky Super Killer (Minus Threat Detector) (4.5% chance)**: Same as before, minus Threat Detector since the roll is amazing without it. I'm not going broader than this because even though ~4% might seem like a small number, you can cash in fifty of these bounties in about ten minutes. YOU CAN DO IT!
+* **(PvP) Picky Super Killer (Minus Threat Detector) (1.7% chance)**: Same as before, minus Threat Detector since the roll is amazing without it.
   ```
   Barrels ( 83%): Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel, Full Bore
-  Mags    ( 64%): Tactical Mag, Accurized Rounds, Flared Magwell
+  Mags    ( 25%): Accurized Rounds
+  Perks 1 (100%): (Any perk)
+  Perks 2 ( 33%): Vorpal
+  MWorks  ( 25%): Range MW
+  ```
+* **(PvP) Picky Super Killer (Minus Threat Detector and Magazines) (6.9% chance)**: Same as before, minus Threat Detector since the roll is amazing without it.
+  ```
+  Barrels ( 83%): Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel, Full Bore
+  Mags    (100%): (Any magazine)
   Perks 1 (100%): (Any perk)
   Perks 2 ( 33%): Vorpal
   MWorks  ( 25%): Range MW
