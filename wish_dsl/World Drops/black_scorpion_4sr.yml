@@ -10,8 +10,6 @@ slots:
 groups:
   - 
     name: PvP
-    item_id: 
-    lightgg: 
     summary: >
       [CoolGuy's BS4 review](https://www.youtube.com/watch?v=lFQt0MDS9JY)
       in August of 2019 is great source of info. It's using the original D2Y1
@@ -34,41 +32,28 @@ groups:
       [nKuch](https://www.youtube.com/watch?v=Vc87SDsCrIQ) to see the Black
       Scorpion in action.
     rolls:
-      - &stabilityfocused
-        name: (PvP) Super Picky Stability
+      - &bsstabilityfocused
+        name: (PvP) Picky Stability
         desc: >
           As much Stability however we can get it. You have almost no chance at
           getting this to drop :)
-        barrels: [Polygonal Rifling]
-        magazines: [Steady Rounds, Accurized Rounds]
+        barrels: [Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore]
+        magazines: [Steady Rounds]
         perks1: [Zen Moment]
         perks2: [Rangefinder, Snapshot]
-        masterworks: [Stability MW, Range MW]
-      - &sansrangefinder
-        <<: *stabilityfocused
-        name: (PvP) Super Picky Stability (Sans fourth column)
+        masterworks: [Stability MW]
+      - &bssansrangefinder
+        <<: *bsstabilityfocused
+        name: (PvP) Picky Stability (Sans fourth column)
         desc: >
           It's super hard to get perks in the final two columns, and without
           those perks we've still got a phenomenal roll.
         perks2: []
       - 
-        <<: *sansrangefinder
-        name: (PvP) Super Picky Stability (Relaxed Barrels)
+        <<: *bssansrangefinder
+        name: (PvP) Picky Stability (Relaxed Mags)
         desc: >
-          Include all Stability-enhancing Barrels.
-        barrels: [Fluted Barrel, Corkscrew Rifling, Polygonal Rifling]
-      - 
-        <<: *sansrangefinder
-        name: (PvP) Super Picky Stability (Relaxed Mags)
-        desc: >
-          Include all Stability-enhancing Magazines.
-        magazines: [Tactical Mag, Steady Rounds, Accurized Rounds, Flared Magwell]
-      -
-        <<: *sansrangefinder
-        name: (PvP) Super Picky Stability (Relaxed Barrels and Mags)
-        desc: >
-          Include all Stability-enhancing Magazines and Barrels
-        barrels: [Fluted Barrel, Corkscrew Rifling, Polygonal Rifling]
+          Include all Stability-enhancing Magazines and Accurized
         magazines: [Tactical Mag, Steady Rounds, Accurized Rounds, Flared Magwell]
 
   - 
