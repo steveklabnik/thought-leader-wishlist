@@ -31,10 +31,8 @@ This will have its own section both because of how popular they are, how confusi
 
   * [Rifled Barrel vs Full Choke, Which is Better?](https://www.youtube.com/watch?v=NbH45R4LBYY) - [Fallout Plays](https://www.youtube.com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-09-19
     * Tested both barrels on all four shotgun archetypes because there was a common misconception that barrels perform differently on different archetypes (they do not).
-    * "I wouldn't say there's a clear cut winner but I would say that `Full Choke` seems *more likely* to get a better pellet spread. It's possible to use `Rifled Barrel` and get a better pellet spread than Full Choke, by chance."
-    * "The pattern that I'm seeing is that `Full Choke` seems that it's more likely to be better."
+    * "I wouldn't say there's a clear cut winner but I would say that `Full Choke` seems *more likely* to get a better pellet spread. It's possible to use `Rifled Barrel` and get a better pellet spread than Full Choke, by chance. ... The winner by a hair is `Full Choke`."
     * "Both barrels are great. If you're chasing a God Roll Dust Rock with an almost perfect roll and `Rifled Barrel`, you should feel great about that."
-    * "The winner by a hair is `Full Choke`."
     * "Want a good OHK PvP Shotgun? You want: (1) high impact (2) `Full Choke` (`Rifled Barrel` also fine) (3) the highest possible range for that archetype (4) A long barrel."
   * [Range Does Nothing? (on Shotguns)](https://www.youtube.com/watch?v=AmONoAaw95I) - [Fallout Plays](https://www.youtube.com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-07-22
     * Tested two high-impact shotguns with different ranges and a third with lower impact and higher range and "The higher-ranged shotguns were able to more consistently deal more damage."
@@ -52,7 +50,7 @@ This will have its own section both because of how popular they are, how confusi
       * Rapid-Fire: 5m (two-tap @ 9m)
       * Chaperone: 13m (15m with Roadborn active)
       * Legend of Acrius: 9m
-    * "Both `Full Choke` and `Rifled Barrels` should remain your barrels of choice.
+    * "Both `Full Choke` and `Rifled Barrel` should remain your barrels of choice."
   * [Is Full Choke Still Good? (Destiny 2 patch/shotgun update)](https://www.youtube.com/watch?v=SkpKCspRBG4) - [Fallout Plays](https://www.youtube.com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2018-11-01
     * "Still" is in reference to a patch that nerfed Full Choke in late 2018. It was previously the go-to barrel choice for shotguns.
     * Range on shotguns appears to affect pellet spread ([timestamp](https://youtu.be/SkpKCspRBG4?t=247)).
