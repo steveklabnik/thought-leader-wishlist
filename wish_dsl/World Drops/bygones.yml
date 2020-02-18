@@ -136,8 +136,8 @@ groups:
           as much damage as you can get then as much range as you can get.
         barrels: [Smallbore, Corkscrew Rifling, Full Bore, Hammer-Forged Rifling]
         magazines: [High-Caliber Rounds, Ricochet Rounds, Light Mag, Armor-Piercing Rounds]
-        perks1: [Outlaw]
-        perks2: [Kill Clip, Rampage]
+        perks1: [Kill Clip, Rampage]
+        perks2: [Outlaw]
         masterworks: [Range MW]
       -
         <<: *pvesuperpicky
@@ -145,6 +145,7 @@ groups:
         desc: Same as above, minus the masterwork.
         masterworks: []
       - 
+        <<: *pvesuperpicky
         name: (PvE) Baseline / Future-Proofing
         desc: >
           This is fine. Not amazing, not terrible, just a standard DPS roll.
@@ -153,6 +154,4 @@ groups:
           on to it and hope for an archetype buff at some point.
         barrels: []
         magazines: []
-        perks1: [Outlaw]
-        perks2: [Kill Clip, Rampage]
         masterworks: []
