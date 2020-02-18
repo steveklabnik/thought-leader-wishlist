@@ -31,8 +31,6 @@ I quote and link to sources per-weapon in the [Roll Guide](https://github.com/rs
 
 Content specific to each weapon is specified in line with its roll guide. If I come across interesting content with respect to how the sandbox basics function, I will share those here.
 
-Before that though, 
-
 ## Core Mechanics
 * [Stability Explained! (In-Depth Guide)](https://www.[YouTube]().com/watch?v=a7BUhYnhGz0) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2020-02-14
 * [Accuracy, Aim Assist & Range Explained In-Depth](https://www.[YouTube]().com/watch?v=qrJv7mj7Ab4) - [Drewsky](https://www.[YouTube]().com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-02-15
