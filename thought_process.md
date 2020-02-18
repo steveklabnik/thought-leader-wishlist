@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-17 06:34:45 +00:00`. The most recent
+created on `2020-02-18 22:44:58 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -35,6 +35,7 @@ own discretion.
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp), [PvE](#black-scorpion-4sr---pve))
 * Bygones ([PvP](#bygones---pvp), [PvE](#bygones---pve))
+* Last Perdition ([PvP](#last-perdition---pvp), [PvE](#last-perdition---pve))
 
 ---
 ## Breachlight - PvP
@@ -710,29 +711,21 @@ More of a PvE sniper, so we aren't going to have much to lay down here for a gre
   Perks 2 ( 50%): Snapshot
   MWorks  ( 25%): Handling MW
   ```
-* **(PvP) "Snipe Like a Psion!" (Super Picky) (2.9% chance)**: Relaxing our available selection of barrels to all but the few that hinder the already low Handling. Also dropping a Magazine requirement because none of them are so harmful as to tank the roll or helpful as to propel it.
+* **(PvP) "Snipe Like a Psion!" (Relaxed Barrels and Mags) (2.5% chance)**: We'll take any barrel or magazine that doesn't hurt our stats, especially Handling.
   ```
   Barrels ( 91%): Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
-  Mags    (100%): (Any magazine)
+  Mags    ( 85%): Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell
   Perks 1 ( 25%): Pulse Monitor
   Perks 2 ( 50%): Snapshot
   MWorks  ( 25%): Handling MW
   ```
-* **(PvP) "Snipe Like a Psion!" (Relaxed) (5.7% chance)**: Same as above, with a Range Masterwork permitted.
+* **(PvP) "Snipe Like a Psion!" (Relaxed First Perk) (9.8% chance)**: Same as the above, minus `Pulse Monitor` which really is not a big deal in the first place :)
   ```
   Barrels ( 91%): Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
-  Mags    (100%): (Any magazine)
-  Perks 1 ( 25%): Pulse Monitor
+  Mags    ( 85%): Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell
+  Perks 1 (100%): (Any perk)
   Perks 2 ( 50%): Snapshot
-  MWorks  ( 50%): Handling MW, Range MW
-  ```
-* **(PvP) "Snipe Like a Psion!" (Baseline) (11.5% chance)**: Same as above, without a Masterwork restriction.
-  ```
-  Barrels ( 91%): Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
-  Mags    (100%): (Any magazine)
-  Perks 1 ( 25%): Pulse Monitor
-  Perks 2 ( 50%): Snapshot
-  MWorks  (100%): (Any masterwork)
+  MWorks  ( 25%): Handling MW
   ```
 ## Trophy Hunter - PvE
 CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/watch?v=dGHNinCK3HI) "Solo" also means "playing solo with a random group" (i.e. not coordinated). Nearly a perfect sniper for Gambit, especially paired with Malfeasance. You'll note these rolls are pretty strict, and that's because there are so few perks in the final two columns. Handling is so, so low on this sniper that I think you absolutely want the +20-25 Handling from a combo of the barrel perk and Masterwork.
@@ -744,6 +737,14 @@ CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/w
   Perks 2 ( 50%): Vorpal
   MWorks  ( 25%): Handling MW
   ```
+* **(PvE) "Triple Tap Your Way to Seven" (Sans MW) (6.0% chance)**: Same as the above, minus the Masterwork.
+  ```
+  Barrels ( 91%): Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
+  Mags    ( 52%): Appended Mag, Extended Mag
+  Perks 1 ( 25%): Triple Tap
+  Perks 2 ( 50%): Vorpal
+  MWorks  (100%): (Any masterwork)
+  ```
 * **(PvE) Gambit Shieldbreaker (2.7% chance)**: Yep it works great outside of Gambit, but even better within. Pair it with Malfeasance. Shoot shields, break them and it refills the mag. Then switch to Malfeasance (Kinetic with bonus Taken damage) and MELT.
   ```
   Barrels ( 91%): Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
@@ -751,6 +752,14 @@ CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/w
   Perks 1 ( 25%): Genesis
   Perks 2 ( 50%): Disruption Break
   MWorks  ( 25%): Handling MW
+  ```
+* **(PvE) Gambit Shieldbreaker (Sans MW) (10.9% chance)**: Same as the above, minus the Masterwork.
+  ```
+  Barrels ( 91%): Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
+  Mags    ( 95%): Appended Mag, Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell
+  Perks 1 ( 25%): Genesis
+  Perks 2 ( 50%): Disruption Break
+  MWorks  (100%): (Any masterwork)
   ```
 * **(PvE) Infinite Ammo (4.5% chance)**: Heavyweight modifier? Never run out of ammo. Famine modifier? That rare Heavy brick is like finding a Special brick at the same time.
   ```
@@ -760,29 +769,52 @@ CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/w
   Perks 2 ( 83%): Vorpal, Disruption Break
   MWorks  ( 25%): Handling MW
   ```
+* **(PvE) Infinite Ammo (Sans MW) (18.2% chance)**: Same as the above, minus the Masterwork.
+  ```
+  Barrels ( 91%): Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
+  Mags    ( 95%): Appended Mag, Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell
+  Perks 1 ( 25%): Lead from Gold
+  Perks 2 ( 83%): Vorpal, Disruption Break
+  MWorks  (100%): (Any masterwork)
+  ```
 ## Black Scorpion-4sr - PvP
-[CoolGuy's BS4 review](https://www.youtube.com/watch?v=lFQt0MDS9JY) in August of 2019 is great source of info. It's using the original D2Y1 perk pool so what I'm suggesting here is likely not to be too much of a surprise. Unfortunately there are *seven* perks in the final two columns making them a beast to lock down; these rolls will be tough to get. Recoil is `60`, demanding we use a Counterbalance mod. Check out CoolGuy's video for a [before/after](https://www.youtube.com/watch?v=lFQt0MDS9JY&t=400). Because of this, you're not going to see me recommend Rampage + Rampage Spec. Range-wise, the base Range hits max damage at 68m which you're not going to find often on a PvP map, so we're kind of OK with it. Because it's full auto, we're going to be focused on Stability. Zen Moment gives you a bump to your *base* Stability which you can see [here](https://youtu.be/uElV7xVFN6Q?t=280) and the base Stability for the Black Scorpion is pretty darn high @ `54`. No Outlaw because the reload is already plenty fast and there's no DPS perk to play off of. For more sample footage, check out [ZkMushroom](https://www.youtube.com/watch?v=tdnJWuiUF2k) and [nKuch](https://www.youtube.com/watch?v=Vc87SDsCrIQ) to see the Black Scorpion in action.
-* **(PvP) Picky Stability (0.4% chance)**: As much Stability however we can get it. You have almost no chance at getting this to drop :)
+[CoolGuy's review (8/2019)](https://www.youtube.com/watch?v=lFQt0MDS9JY) is great source of info for the Black Scorpion, as well as the Massive  Breakdown Podcast [Ep. 148](https://soundcloud.com/destinymassivebreakdowns/episode-148-bygones-last-perdition-and-black-scorpion-4sr-breakdowns). There are seven perks in the final two columns (versus the usual four to six) and during Season 9, this weapon does not benefit from the Rank 92 extra-final-column-perk bonus. That means these rolls are going to be super challenging to get, so we're going to relax a few constraints along the way.
+* Recoil is `60`, so using a Counterbalance mod to make it vertical is a slam dunk. Check out CoolGuy's video for a [before/after](https://www.youtube.com/watch?v=lFQt0MDS9JY&t=400).
+* All these rolls will recommend Rampage in the final column because "Rampage x 1 will kill with four crits in 0.7s."
+* The base Range hits max damage at 68m which you're not going to find often on a PvP map, so we're OK with it. We don't want to harm the range, but this roll isn't dying for more range. Mercules904 - "The 2x zoom blows through your range requirements. I really just like this gun more with a heck of a lot of Stability."
+* Zen Moment? YES. Stability is where our focus will be. Zen Moment gives you a bump to your base Stability which you can see [here](https://youtu.be/uElV7xVFN6Q?t=280) and the base Stability is a terrific `54`, the highest among all Scout Rifles (?!).
+* No Outlaw? NOPE. The reload is already plenty fast and there's no DPS perk to play off of in column three. It's not bad, it's just not make-or-break.
+
+Check out [ZkMushroom](https://www.youtube.com/watch?v=tdnJWuiUF2k) and [nKuch](https://www.youtube.com/watch?v=Vc87SDsCrIQ) to see the Black Scorpion in action. I was surprised to hear how much Mercules904 digs the Black Scorpion (it's the weapon he used to get Randy's).
+* **(PvP) Absurdly Picky, "Massive Breakdown" Edition (0.1% chance)**: Let's call this the "Massive Breakdown Podcast" roll, since listening to the podcast linked above informed its creation. All Stability, all day, with better Aim Assistance and mobility from `Moving Target`. Because of the quantity of perks in the final two columns, your chance of this roll is... slim.
   ```
-  Barrels ( 89%): Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
-  Mags    ( 28%): Steady Rounds
-  Perks 1 ( 16%): Zen Moment
-  Perks 2 ( 33%): Rangefinder, Snapshot
+  Barrels ( 22%): Chambered Compensator
+  Mags    ( 25%): Steady Rounds
+  Perks 1 ( 28%): Moving Target, Zen Moment
+  Perks 2 ( 14%): Rampage
   MWorks  ( 25%): Stability MW
   ```
-* **(PvP) Picky Stability (Sans fourth column) (1.1% chance)**: It's super hard to get perks in the final two columns, and without those perks we've still got a phenomenal roll.
+* **(PvP) Super Picky (0.5% chance)**: Same as the above but now we'll accept any barrel or magazine that increases Stability. An absolutely phenomenal roll.
   ```
-  Barrels ( 89%): Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
-  Mags    ( 28%): Steady Rounds
-  Perks 1 ( 16%): Zen Moment
-  Perks 2 (100%): (Any perk)
+  Barrels ( 83%): Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
+  Mags    ( 64%): Tactical Mag, Steady Rounds, Flared Magwell
+  Perks 1 ( 28%): Moving Target, Zen Moment
+  Perks 2 ( 14%): Rampage
   MWorks  ( 25%): Stability MW
   ```
-* **(PvP) Picky Stability (Relaxed Mags) (3.2% chance)**: Include all Stability-enhancing Magazines and Accurized
+* **(PvP) Super Picky (Minus Masterwork) (2.2% chance)**: Same as the above but we'll take any Masterwork.
   ```
-  Barrels ( 89%): Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
-  Mags    ( 85%): Tactical Mag, Steady Rounds, Accurized Rounds, Flared Magwell
-  Perks 1 ( 16%): Zen Moment
+  Barrels ( 83%): Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
+  Mags    ( 64%): Tactical Mag, Steady Rounds, Flared Magwell
+  Perks 1 ( 28%): Moving Target, Zen Moment
+  Perks 2 ( 14%): Rampage
+  MWorks  (100%): (Any masterwork)
+  ```
+* **(PvP) Super Picky (Minus Rampage) (3.8% chance)**: Without Rampage, this is still a phenomenal roll.
+  ```
+  Barrels ( 83%): Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
+  Mags    ( 64%): Tactical Mag, Steady Rounds, Flared Magwell
+  Perks 1 ( 28%): Moving Target, Zen Moment
   Perks 2 (100%): (Any perk)
   MWorks  ( 25%): Stability MW
   ```
@@ -860,23 +892,130 @@ The perk pool for Bygones is from 2018, so we lose out on some of the barn burne
   ```
   Barrels ( 72%): Smallbore, Corkscrew Rifling, Full Bore, Hammer-Forged Rifling
   Mags    ( 78%): High-Caliber Rounds, Ricochet Rounds, Light Mag, Armor-Piercing Rounds
-  Perks 1 ( 20%): Outlaw
-  Perks 2 ( 40%): Kill Clip, Rampage
+  Perks 1 ( 40%): Kill Clip, Rampage
+  Perks 2 ( 20%): Outlaw
   MWorks  ( 25%): Range MW
   ```
 * **(PvE) Super Picky (Minus MW) (4.5% chance)**: Same as above, minus the masterwork.
   ```
   Barrels ( 72%): Smallbore, Corkscrew Rifling, Full Bore, Hammer-Forged Rifling
   Mags    ( 78%): High-Caliber Rounds, Ricochet Rounds, Light Mag, Armor-Piercing Rounds
-  Perks 1 ( 20%): Outlaw
-  Perks 2 ( 40%): Kill Clip, Rampage
+  Perks 1 ( 40%): Kill Clip, Rampage
+  Perks 2 ( 20%): Outlaw
   MWorks  (100%): (Any masterwork)
   ```
 * **(PvE) Baseline / Future-Proofing (8.0% chance)**: This is fine. Not amazing, not terrible, just a standard DPS roll. Without perks in both of these columns, there's not a strong reason to run this in PvE. If this is all you end up getting, fine to hang on to it and hope for an archetype buff at some point.
   ```
   Barrels (100%): (Any barrel)
   Mags    (100%): (Any magazine)
-  Perks 1 ( 20%): Outlaw
-  Perks 2 ( 40%): Kill Clip, Rampage
+  Perks 1 ( 40%): Kill Clip, Rampage
+  Perks 2 ( 20%): Outlaw
+  MWorks  (100%): (Any masterwork)
+  ```
+## Last Perdition - PvP
+A randomly-rolled 390RPM Adaptive Pulse Rifle; here we go! If you like Bygones in the primary slot, Last Perdition is right up your alley. Lots of resources for this one, including the [Destiny Massive Breakdowns](https://www.destinymassivebreakdowns.com/) [podcast](https://soundcloud.com/destinymassivebreakdowns). I'll be quoting (or paraphrasing if I couldn't keep up :) Kyt_Kucha and Mercules904 quite a bit in here.
+* KK: "Stability helps your Aim Assist cone recover more quickly. Recoil makes the bursts more linear but it's not the same thing as having more Stability."
+* KK: "Wouldn't go with a zoom factor of less than 3 because otherwise you feel recoil too much"
+* M904: "Accurized Rounds for +10 range, but maybe not if you picked a medium to high zoom scope (go for more Stability)"
+* M904: "Remember that Range has a linear effect and Zoom has a multiplicative effect. Rangefinder is 0.1x zoom - be careful of it because it may push you too far. Using it with +2x SPO-26 would be a good combo. If you don't roll Rangefinder but you do roll a higher zoom scope, you can ignore Rangefinder. If you only have short-zoom scopes, use Rangefinder."
+* CoolGuy's review: [Last Perdition 2.0 In Depth Review - Top Tier Pulse](https://www.youtube.com/watch?v=n6nVNWTEttc) is terrific. Long zoom scopes aren't recommended because of the increased incoming flinch while ADS and they also decrease Handling which can make the weapon feel more sluggish. Zen Moment is capped out at 66% of Base Stability, which is super high at 66.
+
+For some general slaying footage, ZkMushroom loves his Last Perdition! Here he is on PC - ["My Favorite Pulse Rifle"](https://www.youtube.com/watch?v=2jXTmYiHbWQ) - and earlier on console - ["Last Perdition is the Best Pulse Rifle in the Game?"](https://www.youtube.com/watch?v=kwucqcnyX-s). "I don't like laning with pulses. I know Blast Furnace and Bygones will be better there. I like being aggressive with my pulse and this is the perfect one."
+* **(PvP) Absurdly Picky (0.8% chance)**: This will be our generally acceptable classic set of Pulse Rifle rolls.
+  ```
+  Barrels ( 83%): SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post
+  Mags    ( 78%): Tactical Mag, Steady Rounds, Accurized Rounds, Flared Magwell
+  Perks 1 ( 16%): Outlaw
+  Perks 2 ( 28%): Kill Clip, Rampage
+  MWorks  ( 25%): Stability MW
+  ```
+* **(PvP) Absurdly Picky (Minus Masterwork) (3.1% chance)**: Same as the above, minus Masterwork requirement.
+  ```
+  Barrels ( 83%): SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post
+  Mags    ( 78%): Tactical Mag, Steady Rounds, Accurized Rounds, Flared Magwell
+  Perks 1 ( 16%): Outlaw
+  Perks 2 ( 28%): Kill Clip, Rampage
+  MWorks  (100%): (Any masterwork)
+  ```
+* **(PvP) Absurdly Sticky (0.4% chance)**: With `Moving Target` and `Zen Moment`, your weapon should only produce yellow numbers.
+  ```
+  Barrels ( 83%): SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post
+  Mags    ( 89%): Tactical Mag, Steady Rounds, Accurized Rounds, Drop Mag, Flared Magwell
+  Perks 1 ( 16%): Moving Target
+  Perks 2 ( 14%): Zen Moment
+  MWorks  ( 25%): Stability MW
+  ```
+* **(PvP) Absurdly Sticky (Minus Masterwork) (1.8% chance)**: Same as the above, minus Masterwork requirement.
+  ```
+  Barrels ( 83%): SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post
+  Mags    ( 89%): Tactical Mag, Steady Rounds, Accurized Rounds, Drop Mag, Flared Magwell
+  Perks 1 ( 16%): Moving Target
+  Perks 2 ( 14%): Zen Moment
+  MWorks  (100%): (Any masterwork)
+  ```
+* **(PvP) Absurdly Planted (0.4% chance)**: A roll based around the criminally underrated `Firmly Planted`. This is a pure Slif roll; don't blame any one for it :) M904: "I'm really starting to appreciate Firmly Planted" - see! :)
+  ```
+  Barrels ( 83%): SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post
+  Mags    ( 89%): Tactical Mag, Steady Rounds, Accurized Rounds, Drop Mag, Flared Magwell
+  Perks 1 ( 16%): Firmly Planted
+  Perks 2 ( 14%): Snapshot
+  MWorks  ( 25%): Stability MW
+  ```
+* **(PvP) Absurdly Planted (Relaxed Second Perk Slot) (1.8% chance)**: Same as the above, minus Masterwork requirement.
+  ```
+  Barrels ( 83%): SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post
+  Mags    ( 89%): Tactical Mag, Steady Rounds, Accurized Rounds, Drop Mag, Flared Magwell
+  Perks 1 ( 16%): Firmly Planted
+  Perks 2 ( 57%): Kill Clip, Rampage, Zen Moment, Snapshot
+  MWorks  ( 25%): Stability MW
+  ```
+* **(PvP) Absurdly Planted (Minus Masterwork) (7.1% chance)**: Same as the above, minus Masterwork requirement.
+  ```
+  Barrels ( 83%): SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post
+  Mags    ( 89%): Tactical Mag, Steady Rounds, Accurized Rounds, Drop Mag, Flared Magwell
+  Perks 1 ( 16%): Firmly Planted
+  Perks 2 ( 57%): Kill Clip, Rampage, Zen Moment, Snapshot
+  MWorks  (100%): (Any masterwork)
+  ```
+## Last Perdition - PvE
+When Last Perdition was brought back with random rolls in the Season of the Drifter, it came back with the standard perk pool. It's basically an Energy-slot Bygones-equivalent, so the rolls will be similar. We're going for as much sustained damage output and as much range as we can get. The key difference(s) will be that SUROS weapons have scopes and a different set of magazine options. Yes these are a narrow set of rolls but there's so much competition for the Energy slot you need something spicy to make the cut.
+* **(PvE) Super Picky Gunslinger (0.6% chance)**: Standard DPS roll from years' past, and as per usual with PvE rolls, as much damage as you can get then as much range as you can get. We're going to look for short- and medium-zoom scopes because if you feel you need something longer, you're probably looking at a Scout rifle.
+  ```
+  Barrels ( 83%): SPO-57 Front, SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-21 Post
+  Mags    ( 64%): Tactical Mag, Accurized Rounds, Flared Magwell
+  Perks 1 ( 16%): Outlaw
+  Perks 2 ( 28%): Kill Clip, Rampage
+  MWorks  ( 25%): Range MW
+  ```
+* **(PvE) Super Picky (Minus MW) (2.6% chance)**: Same as above, minus the masterwork.
+  ```
+  Barrels ( 83%): SPO-57 Front, SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-21 Post
+  Mags    ( 64%): Tactical Mag, Accurized Rounds, Flared Magwell
+  Perks 1 ( 16%): Outlaw
+  Perks 2 ( 28%): Kill Clip, Rampage
+  MWorks  (100%): (Any masterwork)
+  ```
+* **(PvE) Baseline / Future-Proofing (4.8% chance)**: If you need a solid Pulse Rifle in your Energy slot, by all means this roll will do work. This is fine. Not amazing, not terrible, just a standard DPS roll!
+  ```
+  Barrels (100%): (Any barrel)
+  Mags    (100%): (Any magazine)
+  Perks 1 ( 16%): Outlaw
+  Perks 2 ( 28%): Kill Clip, Rampage
+  MWorks  (100%): (Any masterwork)
+  ```
+* **(PvE) Super Picky Mag Dropper (0.2% chance)**: Similar to the above set of rolls but we're rolling with Drop Mag here so we can shoot for other perks in the first column. Firmly Planted is totally usable in PvE and turns this in to a laser beam.
+  ```
+  Barrels ( 83%): SPO-57 Front, SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-21 Post
+  Mags    ( 25%): Drop Mag
+  Perks 1 ( 16%): Firmly Planted
+  Perks 2 ( 28%): Kill Clip, Rampage
+  MWorks  ( 25%): Range MW
+  ```
+* **(PvE) Super Picky Mag Dropper (Minus MW) (1.0% chance)**: Same as above, minus the masterwork.
+  ```
+  Barrels ( 83%): SPO-57 Front, SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-21 Post
+  Mags    ( 25%): Drop Mag
+  Perks 1 ( 16%): Firmly Planted
+  Perks 2 ( 28%): Kill Clip, Rampage
   MWorks  (100%): (Any masterwork)
   ```
