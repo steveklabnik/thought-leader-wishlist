@@ -19,7 +19,7 @@ groups:
       CoolGuy: ["It's OK, nothing special."](https://www.youtube.com/watch?v=dGHNinCK3HI)
       Handling additions are appreciated because it's such a clunky weapon.
     rolls:
-      - &snipelikeapsion
+      - &thsnipelikeapsion
         name: (PvP) "Snipe Like a Psion!" (Ridiculously Picky)
         desc: >
           Psions use Trophy Hunter - who knew? "Pulse Monitor"?! Yeah, there's
@@ -33,29 +33,21 @@ groups:
         perks1: [Pulse Monitor]
         perks2: [Snapshot]
         masterworks: [Handling MW]
-      - &reasonablepsion
-        <<: *snipelikeapsion
-        name: (PvP) "Snipe Like a Psion!" (Super Picky)
+      - &threasonablepsion
+        <<: *thsnipelikeapsion
+        name: (PvP) "Snipe Like a Psion!" (Relaxed Barrels and Mags)
         desc: >
-          Relaxing our available selection of barrels to all but the few that
-          hinder the already low Handling. Also dropping a Magazine requirement
-          because none of them are so harmful as to tank the roll or helpful as
-          to propel it.
+          We'll take any barrel or magazine that doesn't hurt our stats,
+          especially Handling.
         barrels: [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling]
-        magazines: []
-        masterworks: [Handling MW]
+        magazines: [Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell]
       -
-        <<: *reasonablepsion
-        name: (PvP) "Snipe Like a Psion!" (Relaxed)
+        <<: *threasonablepsion
+        name: (PvP) "Snipe Like a Psion!" (Relaxed First Perk)
         desc: >
-          Same as above, with a Range Masterwork permitted.
-        masterworks: [Handling MW, Range MW]
-      -
-        <<: *reasonablepsion
-        name: (PvP) "Snipe Like a Psion!" (Baseline)
-        desc: >
-          Same as above, without a Masterwork restriction.
-        masterworks: []
+          Same as the above, minus `Pulse Monitor` which really is not a big
+          deal in the first place :)
+        perks1: []
   - 
     name: PvE
     summary: >
@@ -67,7 +59,7 @@ groups:
       sniper that I think you absolutely want the +20-25 Handling from a combo
       of the barrel perk and Masterwork.
     rolls:
-      - 
+      - &thseven
         name: (PvE) "Triple Tap Your Way to Seven"
         desc: >
           That's a quote from CoolGuy's review :) Throw a `Backup Mag` mod on here
@@ -78,6 +70,12 @@ groups:
         perks2: [Vorpal]
         masterworks: [Handling MW]
       - 
+        <<: *thseven
+        name: (PvE) "Triple Tap Your Way to Seven" (Sans MW)
+        desc: >
+          Same as the above, minus the Masterwork.
+        masterworks: []      
+      - &thgambit
         name: (PvE) Gambit Shieldbreaker
         desc: >
           Yep it works great outside of Gambit, but even better within. Pair it
@@ -88,7 +86,13 @@ groups:
         perks1: [Genesis]
         perks2: [Disruption Break]
         masterworks: [Handling MW]
-      - 
+      -
+        <<: *thgambit
+        name: (PvE) Gambit Shieldbreaker (Sans MW)
+        desc: >
+          Same as the above, minus the Masterwork.
+        masterworks: []      
+      - &thinfinite
         name: (PvE) Infinite Ammo
         desc: >
           Heavyweight modifier? Never run out of ammo. Famine modifier? That rare
@@ -98,3 +102,9 @@ groups:
         perks1: [Lead from Gold]
         perks2: [Vorpal, Disruption Break]
         masterworks: [Handling MW]
+      -
+        <<: *thinfinite
+        name: (PvE) Infinite Ammo (Sans MW)
+        desc: >
+          Same as the above, minus the Masterwork.
+        masterworks: [] 
