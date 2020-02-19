@@ -13,7 +13,7 @@ I tend to play a bit off-meta (well, a lot if you ask my fireteam!) so my goal w
 # Who Made This?
 I've been playing Destiny since the Alpha with just shy of 3,300 hours played as of February 2019. That's how everyone starts out one of these right? :) Well, I captured the rolls so ultimately I'm responsible for them but all of the creators listed below influenced every single one of these rolls in one or two ways:
 
-1. **Directly**: They reviewed a weapon and shared specific insights as to why a roll might be effective.
+1. **Directly**: They reviewed a weapon and shared specific insights as to why and how a particular roll could be effective.
 2. **Indirectly**: They published content about how the sandbox itself functions (e.g. how perks work, what the core attributes are, etc.)
   
 I quote and link to sources per-weapon in the [Roll Guide](https://github.com/rslifka/wishlist/blob/master/thought_process.md). Go check out these Destiny scientists and the content they produce. Really amazing stuff. Every roll of every weapon was influenced in some way by their work.
@@ -29,16 +29,26 @@ I quote and link to sources per-weapon in the [Roll Guide](https://github.com/rs
 
 # References
 
-Content specific to each weapon is specified in line with its roll guide. If I come across interesting content with respect to how the sandbox basics function, I will share those here.
+Content specific to each weapon is specified in line with its roll guide. If I come across interesting content with respect to how the sandbox basics function, I will share those here. I've taken liberties with some of the video titles to make this list more scannable AND LESS SCREAMING :)
 
 ## Core Mechanics
-* [Stability Explained! (In-Depth Guide)](https://www.[YouTube]().com/watch?v=a7BUhYnhGz0) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2020-02-14
+
+### Range // Aim Assist // Accuracy
+
+* [PART 2 : Range MEANS NOTHING on Hand Cannons (Aim Assist and Accuracy edition)](https://www.youtube.com/watch?v=_fxkA3Qcv-w&t=29s) - [CoolGuy](https://www.youtube.com/channel/UCAOitB3h99Ur9RzR5ftd2bA), 2020-02-19
+* [PART 1 : Range MEANS NOTHING on Hand Cannons](https://www.youtube.com/watch?v=sSSO1ugSAeE) - [CoolGuy](https://www.youtube.com/channel/UCAOitB3h99Ur9RzR5ftd2bA), 2019-10-28
 * [Accuracy, Aim Assist & Range Explained In-Depth](https://www.[YouTube]().com/watch?v=qrJv7mj7Ab4) - [Drewsky](https://www.[YouTube]().com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-02-15
-* [Does Quickdraw Max Handling? How Does Slideshot Work?](https://www.[YouTube]().com/watch?v=SE_RXbc7RZ4) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2020-01-09
+
+### Weapon Mods
+
 * [What Does ICARUS GRIP Do?](https://www.[YouTube]().com/watch?v=odxL4uN4jp4) -  [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-08-19
 * [What Does TARGETING ADJUSTER Do?](https://www.[YouTube]().com/watch?v=kCzVK0am6sM) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-08-06
+* [What Does COUNTERBALANCE Do? Recoil Direction EXPLAINED!](https://www.[YouTube]().com/watch?v=xts9utLbYiQ) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-07-16
+
+### Potpourri
+* [Stability Explained! (In-Depth Guide)](https://www.[YouTube]().com/watch?v=a7BUhYnhGz0) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2020-02-14
+* [Does Quickdraw Max Handling? How Does Slideshot Work?](https://www.[YouTube]().com/watch?v=SE_RXbc7RZ4) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2020-01-09
 * [Barrel Length MATTERS!](https://www.[YouTube]().com/watch?v=Ef-I7zPirRU) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-07-26
-* [Does the Counterbalance Mod Do Anything? Recoil Direction EXPLAINED!](https://www.[YouTube]().com/watch?v=xts9utLbYiQ) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-07-16
 
 ## Weapon Focus: Shotguns
 This will have its own section both because of how popular they are, how confusing they are and how much misconception/misinformation there is floating around. Notice the timestamps on these videos. I'll do my best to call out when information changes over time.
