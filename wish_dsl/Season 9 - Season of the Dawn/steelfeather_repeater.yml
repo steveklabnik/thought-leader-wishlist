@@ -4,8 +4,8 @@ lightgg: https://www.light.gg/db/items/1251729046/steelfeather-repeater/
 slots:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 8, c: 2}
-  perks1:      {t: 6, c: 1}
-  perks2:      {t: 6, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 5, c: 2}
   masterworks: {t: 4, c: 1}
 groups:  
   - 
@@ -25,34 +25,24 @@ groups:
       for PvP. "I feel it's a decent weapon. I personally don't crown it anything
       beyond it's a fun AR to have in your rotation."
     rolls:
-      - &superpicky
-        name: (PvP) Super Picky
+      - &sfrecoil
+        name: (PvP) Super Picky Straight-Up Recoil 
         desc: >
-          We're looking to max stability after maxing recoil, as much as we can.
+          We're looking to max Stability and Range after maxing recoil.
           The roll is built around `Arrowhead Brake` and `Firmly Planted`. Other
-          sources of stability are terrific of course, but without those two, we
-          don't have enough control to matter.
+          sources of stability are gravy.
         barrels: [Arrowhead Brake]
-        magazines: [Ricochet Rounds, Flared Magwell]
+        magazines: [High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Light Mag]
         perks1: [Firmly Planted]
-        perks2: [Elemental Capacitor]
-        masterworks: [Stability MW, Range MW]
-      - &relaxedmags
-        <<: *superpicky
-        name: (PvP) Super Picky (Relaxed Magazines)
-        desc: >
-          Same as above with a broader set of acceptable magazines. Most of the
-          Stability comes from `Firmly Planted` so any Range or Stability boost
-          from these mags is just gravy.
-        magazines: [High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell, Light Mag]
+        perks2: [Vorpal]
+        masterworks: [Range MW]
       - 
-        <<: *relaxedmags
-        name: (PvP) Super Picky (Minus Capacitor)
+        <<: *sfrecoil
+        name: (PvP) Super Picky Max Range
         desc: >
-          Same as above, minus the requirement for `Elemental Capacitor`. While
-          it does give us a big Stability boost with the matching subclass
-          equipped, the roll still works super well without it.
-        perks2: []
+          Most of our stability will come from Firmly Planted so lets use the
+          barrels and magazines to push out the range. 
+        barrels: [Hammer-Forged Rifling, Smallbore, Extended Barrel, Full Bore, Corkscrew Rifling]
 
   - 
     name: PvE
@@ -67,7 +57,7 @@ groups:
       better in that role; go figure. "I feel it's a decent weapon. I personally
       don't crown it anything beyond it's a fun AR to have in your rotation."
     rolls:
-      - &superpicky
+      - &sfsuperpicky
         name: (PvE) Super Picky
         desc: > 
           How can we keep DPS up as long as possible while preserving as much Range
@@ -78,14 +68,14 @@ groups:
         perks2: [Swashbuckler, Multikill Clip]
         masterworks: [Stability MW, Range MW]
       -
-        <<: *superpicky
+        <<: *sfsuperpicky
         name: (PvE) Super Punchy Picky 👊
         desc: >
           Classic punchy combo!
         perks1: [Grave Robber]
         perks2: [Swashbuckler]
       -
-        <<: *superpicky
+        <<: *sfsuperpicky
         name: (PvE) Shieldbreaker / Future-Proofing
         desc: >
           With artifacts all over the map, it's possible we get another Barrier mod
