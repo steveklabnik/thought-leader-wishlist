@@ -160,7 +160,7 @@ groups:
       above. Shieldbreaker, who knew?
     rolls:
       - &t5shield
-        name: (PvE) Stable Shieldbreaker (Super Picky)
+        name: (PvE) Rangey Shieldbreaker (Super Picky)
         desc: >
           Don't Sleep on Disruption Break! CoolGuy makes a great point: we might
           see a "season of the sidearm" where artifact perks can be applied to
@@ -170,7 +170,7 @@ groups:
         magazines: [Armor-Piercing Rounds]
         perks1: [Rapid Hit, Feeding Frenzy]
         perks2: [Disruption Break]
-        masterworks: [Stability MW]
+        masterworks: [Range MW]
       - &t5barrels
         <<: *t5shield
         name: (PvE) Stable Shieldbreaker (Minus Barrels)
