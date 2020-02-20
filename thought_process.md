@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-20 01:36:40 +00:00`. The most recent
+created on `2020-02-20 05:13:57 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -701,7 +701,23 @@ CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZ
   ```
 ## Traveler's Judgement 5 - PvE
 These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=J4HGIAZQdY4) above. Shieldbreaker, who knew?
-* **(PvE) Picky Shieldbreaker (1.4% chance)**: Don't Sleep on Disruption Break! CoolGuy makes a great point: we might see a "season of the sidearm" where artifact perks can be applied to sidearms. That could mean breaking Barriers with Disruption Break, and not many weapons can roll with that perk!
+* **(PvE) Stable Shieldbreaker (Super Picky) (0.3% chance)**: Don't Sleep on Disruption Break! CoolGuy makes a great point: we might see a "season of the sidearm" where artifact perks can be applied to sidearms. That could mean breaking Barriers with Disruption Break, and not many weapons can roll with that perk!
+  ```
+  Barrels ( 80%): Quickdot SAS, Control SAS, Shortspec SAS
+  Mags    ( 25%): Armor-Piercing Rounds
+  Perks 1 ( 33%): Rapid Hit, Feeding Frenzy
+  Perks 2 ( 16%): Disruption Break
+  MWorks  ( 25%): Stability MW
+  ```
+* **(PvE) Stable Shieldbreaker (Minus Barrels) (0.3% chance)**: Same as the above, minus barrel preference.
+  ```
+  Barrels (100%): (Any barrel)
+  Mags    ( 25%): Armor-Piercing Rounds
+  Perks 1 ( 33%): Rapid Hit, Feeding Frenzy
+  Perks 2 ( 16%): Disruption Break
+  MWorks  ( 25%): Stability MW
+  ```
+* **(PvE) Stable Shieldbreaker (Minus Masterworks) (1.4% chance)**: Same as the above, minus the masterwork.
   ```
   Barrels (100%): (Any barrel)
   Mags    ( 25%): Armor-Piercing Rounds
@@ -709,12 +725,12 @@ These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=
   Perks 2 ( 16%): Disruption Break
   MWorks  (100%): (Any masterwork)
   ```
-* **(PvE) Baseline (11.1% chance)**: If you're using Dragonfly, don't forget to throw a Dragonfly Spec mod on here.
+* **(PvE) Stable Shieldbreaker (Minus Perks) (3.3% chance)**: The cool combo here is APR with Disruption Break.
   ```
-  Barrels (100%): (Any barrel)
-  Mags    (100%): (Any magazine)
-  Perks 1 ( 33%): Rapid Hit, Feeding Frenzy
-  Perks 2 ( 33%): Dragonfly, Disruption Break
+  Barrels ( 80%): Quickdot SAS, Control SAS, Shortspec SAS
+  Mags    ( 25%): Armor-Piercing Rounds
+  Perks 1 (100%): (Any perk)
+  Perks 2 ( 16%): Disruption Break
   MWorks  (100%): (Any masterwork)
   ```
 ## Trophy Hunter - PvP
