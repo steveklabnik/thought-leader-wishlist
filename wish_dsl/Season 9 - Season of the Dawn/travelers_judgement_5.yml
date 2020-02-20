@@ -159,25 +159,34 @@ groups:
       These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=J4HGIAZQdY4)
       above. Shieldbreaker, who knew?
     rolls:
-      - 
-        name: (PvE) Picky Shieldbreaker
+      - &t5shield
+        name: (PvE) Stable Shieldbreaker (Super Picky)
         desc: >
           Don't Sleep on Disruption Break! CoolGuy makes a great point: we might
           see a "season of the sidearm" where artifact perks can be applied to
           sidearms. That could mean breaking Barriers with Disruption Break, and
           not many weapons can roll with that perk!
-        barrels: []
+        barrels: [Quickdot SAS, Control SAS, Shortspec SAS]
         magazines: [Armor-Piercing Rounds]
         perks1: [Rapid Hit, Feeding Frenzy]
         perks2: [Disruption Break]
-        masterworks: []
-      - 
-        name: (PvE) Baseline
+        masterworks: [Stability MW]
+      - &t5barrels
+        <<: *t5shield
+        name: (PvE) Stable Shieldbreaker (Minus Barrels)
         desc: >
-          If you're using Dragonfly, don't forget to throw a Dragonfly Spec mod
-          on here.
+          Same as the above, minus barrel preference.
         barrels: []
-        magazines: []
-        perks1: [Rapid Hit, Feeding Frenzy]
-        perks2: [Dragonfly, Disruption Break]
+      - &t5master
+        <<: *t5barrels
+        name: (PvE) Stable Shieldbreaker (Minus Masterworks)
+        desc: >
+          Same as the above, minus the masterwork.
+        masterworks: []
+      -
+        <<: *t5shield
+        name: (PvE) Stable Shieldbreaker (Minus Perks)
+        desc: >
+          The cool combo here is APR with Disruption Break.
+        perks1: []
         masterworks: []
