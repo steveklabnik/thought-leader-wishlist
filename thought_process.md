@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-20 00:15:50 +00:00`. The most recent
+created on `2020-02-20 00:53:45 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -314,17 +314,25 @@ This is going to blow your mind... but JQK3 and Waking Vigil (via Dreaming City)
   Mags    ( 25%): Ricochet Rounds
   Perks 1 ( 16%): Demolitionist
   Perks 2 ( 16%): Snapshot
-  MWorks  ( 50%): Stability MW, Handling MW
+  MWorks  ( 25%): Stability MW
   ```
-* **(PvP) Incredibly, Hilariously Picky (Sans Demo) (0.7% chance)**: The first thing we're going to do is remove Demo from the list of required perks. The roll is top-tier without it.
+* **(PvP) Incredibly, Hilariously Picky (Sans Demo) (0.3% chance)**: The first thing we're going to do is remove Demo from the list of required perks. The roll is top-tier without it.
   ```
   Barrels ( 33%): Steadyhand HCS
   Mags    ( 25%): Ricochet Rounds
   Perks 1 (100%): (Any perk)
   Perks 2 ( 16%): Snapshot
-  MWorks  ( 50%): Stability MW, Handling MW
+  MWorks  ( 25%): Stability MW
   ```
-* **(PvP) Incredibly, Hilariously Picky (Sans Snapshot) (4.2% chance)**: Same as above, minus Snapshot. Snapshot is terrific but it doesn't make or break the roll.
+* **(PvP) Incredibly, Hilariously Picky (Sans Perks) (2.1% chance)**: Same as above, minus Snapshot. Snapshot is terrific but it doesn't make or break the roll.
+  ```
+  Barrels ( 33%): Steadyhand HCS
+  Mags    ( 25%): Ricochet Rounds
+  Perks 1 (100%): (Any perk)
+  Perks 2 (100%): (Any perk)
+  MWorks  ( 25%): Stability MW
+  ```
+* **(PvP) Incredibly, Hilariously Picky (w/Handling MW) (4.2% chance)**: Same as above, but we're adding in Handling MW.
   ```
   Barrels ( 33%): Steadyhand HCS
   Mags    ( 25%): Ricochet Rounds
@@ -332,20 +340,36 @@ This is going to blow your mind... but JQK3 and Waking Vigil (via Dreaming City)
   Perks 2 (100%): (Any perk)
   MWorks  ( 50%): Stability MW, Handling MW
   ```
-* **(PvP) Picky, But Not That Picky (0.5% chance)**: Similar to the above rolls but we're going to widen our acceptable set of barrels and magazines from the get-go.
+* **(PvP) Super Picky (0.3% chance)**: Let's reboot this set of rolls around all Stability-enhancing sights and magazines.
   ```
   Barrels ( 80%): Truesight HCS, Fastdraw HCS, Steadyhand HCS
   Mags    ( 46%): Ricochet Rounds, Flared Magwell
   Perks 1 ( 16%): Demolitionist
   Perks 2 ( 16%): Snapshot
-  MWorks  ( 50%): Stability MW, Handling MW
+  MWorks  ( 25%): Stability MW
   ```
-* **(PvP) Picky, But Not That Picky (Sans Demo) (3.1% chance)**: The first thing we're going to do is remove Demo from the list of required perks. The roll is solid without it.
+* **(PvP) Super Picky (Sans Demo) (1.5% chance)**: The first thing we're going to do is remove Demo from the list of required perks. The roll is solid without it.
   ```
   Barrels ( 80%): Truesight HCS, Fastdraw HCS, Steadyhand HCS
   Mags    ( 46%): Ricochet Rounds, Flared Magwell
   Perks 1 (100%): (Any perk)
   Perks 2 ( 16%): Snapshot
+  MWorks  ( 25%): Stability MW
+  ```
+* **(PvP) Super Picky (Sans Snap) (9.3% chance)**: Same as above, minus Snapshot. Snapshot is terrific but it doesn't make or break the roll.
+  ```
+  Barrels ( 80%): Truesight HCS, Fastdraw HCS, Steadyhand HCS
+  Mags    ( 46%): Ricochet Rounds, Flared Magwell
+  Perks 1 (100%): (Any perk)
+  Perks 2 (100%): (Any perk)
+  MWorks  ( 25%): Stability MW
+  ```
+* **(PvP) Super Picky (w/Handling MW) (18.6% chance)**: Same as above, but we're adding in Handling MW.
+  ```
+  Barrels ( 80%): Truesight HCS, Fastdraw HCS, Steadyhand HCS
+  Mags    ( 46%): Ricochet Rounds, Flared Magwell
+  Perks 1 (100%): (Any perk)
+  Perks 2 (100%): (Any perk)
   MWorks  ( 50%): Stability MW, Handling MW
   ```
 ## Jack Queen King 3 - PvE
