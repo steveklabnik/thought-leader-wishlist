@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-20 05:13:57 +00:00`. The most recent
+created on `2020-02-20 05:57:16 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -701,13 +701,13 @@ CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZ
   ```
 ## Traveler's Judgement 5 - PvE
 These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=J4HGIAZQdY4) above. Shieldbreaker, who knew?
-* **(PvE) Stable Shieldbreaker (Super Picky) (0.3% chance)**: Don't Sleep on Disruption Break! CoolGuy makes a great point: we might see a "season of the sidearm" where artifact perks can be applied to sidearms. That could mean breaking Barriers with Disruption Break, and not many weapons can roll with that perk!
+* **(PvE) Rangey Shieldbreaker (Super Picky) (0.3% chance)**: Don't Sleep on Disruption Break! CoolGuy makes a great point: we might see a "season of the sidearm" where artifact perks can be applied to sidearms. That could mean breaking Barriers with Disruption Break, and not many weapons can roll with that perk!
   ```
   Barrels ( 80%): Quickdot SAS, Control SAS, Shortspec SAS
   Mags    ( 25%): Armor-Piercing Rounds
   Perks 1 ( 33%): Rapid Hit, Feeding Frenzy
   Perks 2 ( 16%): Disruption Break
-  MWorks  ( 25%): Stability MW
+  MWorks  ( 25%): Range MW
   ```
 * **(PvE) Stable Shieldbreaker (Minus Barrels) (0.3% chance)**: Same as the above, minus barrel preference.
   ```
@@ -715,7 +715,7 @@ These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=
   Mags    ( 25%): Armor-Piercing Rounds
   Perks 1 ( 33%): Rapid Hit, Feeding Frenzy
   Perks 2 ( 16%): Disruption Break
-  MWorks  ( 25%): Stability MW
+  MWorks  ( 25%): Range MW
   ```
 * **(PvE) Stable Shieldbreaker (Minus Masterworks) (1.4% chance)**: Same as the above, minus the masterwork.
   ```
