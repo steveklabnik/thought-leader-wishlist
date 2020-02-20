@@ -50,6 +50,12 @@ groups:
           The first thing we're going to do is remove Demo from the list of
           required perks. The roll is top-tier without it.
         perks1: []
+      - 
+        <<: *jqk3isansdemo 
+        name: (PvP) Incredibly, Hilariously Picky (w/Handling MW)
+        desc: >
+          Same as above, but we're adding in Handling MW.
+        masterworks: [Stability MW, Handling MW]
       - &jqk3isanssnap
         <<: *jqk3isansdemo 
         name: (PvP) Incredibly, Hilariously Picky (Sans Perks)
@@ -57,13 +63,7 @@ groups:
           Same as above, minus Snapshot. Snapshot is terrific but it doesn't
           make or break the roll.
         perks2: []
-      - 
-        <<: *jqk3isanssnap 
-        name: (PvP) Incredibly, Hilariously Picky (w/Handling MW)
-        desc: >
-          Same as above, but we're adding in Handling MW.
-        masterworks: [Stability MW, Handling MW]
-      - &jqk3notthatpicky
+      - &jqk3not
         name: (PvP) Super Picky
         desc: >
           Let's reboot this set of rolls around all Stability-enhancing sights
@@ -73,22 +73,15 @@ groups:
         perks1: [Demolitionist]
         perks2: [Snapshot]
         masterworks: [Stability MW]
-      - &jqk3supersansdemo
-        <<: *jqk3notthatpicky 
+      - &jqk3notsansdemo
+        <<: *jqk3not
         name: (PvP) Super Picky (Sans Demo)
         desc: >
           The first thing we're going to do is remove Demo from the list of
           required perks. The roll is solid without it.
         perks1: []
-      - &jqk3supersanssnap
-        <<: *jqk3supersansdemo
-        name: (PvP) Super Picky (Sans Snap)
-        desc: >
-          Same as above, minus Snapshot. Snapshot is terrific but it doesn't
-          make or break the roll.
-        perks2: []
-      - 
-        <<: *jqk3supersanssnap 
+      -
+        <<: *jqk3notsansdemo
         name: (PvP) Super Picky (w/Handling MW)
         desc: >
           Same as above, but we're adding in Handling MW.
