@@ -65,6 +65,7 @@ Content specific to each weapon is specified in line with its roll guide. If I c
 * [Stability Explained! (In-Depth Guide)](https://www.[YouTube]().com/watch?v=a7BUhYnhGz0) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2020-02-14
 * [Does Quickdraw Max Handling? How Does Slideshot Work?](https://www.[YouTube]().com/watch?v=SE_RXbc7RZ4) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2020-01-09
 * [Barrel Length MATTERS!](https://www.[YouTube]().com/watch?v=Ef-I7zPirRU) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-07-26
+* [Mobility, Resilience, Recovery & Ability Stats Guide](https://www.youtube.com/watch?v=7sq_GmbXins) - [Drewsky](https://www.[YouTube]().com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-01-20
 
 ## Weapon Focus: Shotguns
 This will have its own section both because of how popular they are, how confusing they are and how much misconception/misinformation there is floating around. Notice the timestamps on these videos. I'll do my best to call out when information changes over time.
