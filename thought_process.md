@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-22 05:17:34 +00:00`. The most recent
+created on `2020-02-22 05:47:45 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -29,7 +29,7 @@ I'm of the opinion it's not worth chasing ツ
 * Jack Queen King 3 ([PvP](#jack-queen-king-3---pvp), [PvE](#jack-queen-king-3---pve))
 * Line in the Sand ([PvE](#line-in-the-sand---pve))
 * Martyr's Retribution ([PvP](#martyrs-retribution---pvp), [PvE](#martyrs-retribution---pve))
-* Patron of Lost Causes ([PvP](#patron-of-lost-causes---pvp), [PvE](#patron-of-lost-causes---pve))
+* Patron of Lost Causes ([PvP / PvE](#patron-of-lost-causes---pvp---pve), [PvE](#patron-of-lost-causes---pve))
 * Perfect Paradox ([PvE](#perfect-paradox---pve))
 * Steelfeather Repeater ([PvP](#steelfeather-repeater---pvp), [PvE](#steelfeather-repeater---pve))
 * Traveler's Judgement 5 ([PvP](#travelers-judgement-5---pvp), [PvE](#travelers-judgement-5---pve))
@@ -455,9 +455,9 @@ This is one of my favourite weapons in all of Destiny! Pretty much any roll is f
   Perks 2 [ 70%]: Demolitionist, Lead from Gold
   MWorks  [ 40%]: Reload MW, Handling MW
   ```
-## Patron of Lost Causes - PvP
-CoolGuy absolutely loves his Patron, and has a great [video review of it](https://www.youtube.com/watch?v=GTcp4JQD1fI). I'm on controller so these rolls are all about maxing our stability. Fortunately we have a pretty broad set of useful rolls. Randy's is in the same slot and has Rapid-Hit + Kill Clip already, so I'm not losing too much sleep about getting a perfect roll here.
-* **(PvP) "Rapid Hitstability" (1.6% chance)**: This is all about stability. Yes, Explosive Rounds and Vorpal don't increase stability but they would make this already great roll even better.
+## Patron of Lost Causes - PvP / PvE
+CoolGuy absolutely loves his Patron, and has a great [video review of it](https://www.youtube.com/watch?v=GTcp4JQD1fI). Since this is a controller wishlist, these rolls are all about maxing Stability. All of these PvP rolls would be perfectly fine rolls in PvE as well.
+* **(PvP/PvE) "Rapid Hitstability" (1.6% chance)**: This is all about stability. Yes, Explosive Rounds and Vorpal don't increase stability but they would make this already great roll even better.
   ```
   Barrels [ 83%]: Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling
   Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
@@ -465,7 +465,7 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   Perks 2 [ 60%]: Explosive Rounds, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Rapid Hitstability" (Minus Barrels) (2.0% chance)**: Same as the best, minus the barrels
+* **(PvP/PvE) "Rapid Hitstability" (Minus Barrels) (2.0% chance)**: Same as the best, minus the barrels
   ```
   Barrels [100%]: *
   Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
@@ -473,7 +473,7 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   Perks 2 [ 60%]: Explosive Rounds, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Rapid Hitstability" (Minus Masterwork) (6.5% chance)**: Same as the best, minus Masterworks.
+* **(PvP/PvE) "Rapid Hitstability" (Minus Masterwork) (6.5% chance)**: Same as the best, minus Masterworks.
   ```
   Barrels [ 83%]: Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling
   Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
@@ -481,7 +481,7 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   Perks 2 [ 60%]: Explosive Rounds, Vorpal
   MWorks  [100%]: *
   ```
-* **(PvP) "Index Finger Saver" 👌 (1.6% chance)**: Same as our other rolls, but with Full Auto instead of Rapid Hit
+* **(PvP/PvE) "Index Finger Saver" 👌 (1.6% chance)**: Same as our other rolls, but with Full Auto instead of Rapid Hit
   ```
   Barrels [ 83%]: Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling
   Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
@@ -489,7 +489,7 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   Perks 2 [ 60%]: Explosive Rounds, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Index Saver" (Minus Barrels) 👌 (2.0% chance)**: Same as the best, minus the barrels
+* **(PvP/PvE) "Index Saver" (Minus Barrels) 👌 (2.0% chance)**: Same as the best, minus the barrels
   ```
   Barrels [100%]: *
   Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
@@ -497,7 +497,7 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   Perks 2 [ 60%]: Explosive Rounds, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Index Saver" (Minus Masterwork) 👌 (6.5% chance)**: Same as the best, minus Masterworks.
+* **(PvP/PvE) "Index Saver" (Minus Masterwork) 👌 (6.5% chance)**: Same as the best, minus Masterworks.
   ```
   Barrels [ 83%]: Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling
   Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
@@ -506,21 +506,13 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   MWorks  [100%]: *
   ```
 ## Patron of Lost Causes - PvE
-This is the only Scout Rifle that can roll Vorpal or Osmosis however there are no damage perks, unless you consider Vorpal a damage perk. This is a low priority hence the "Future-proofing" rolls here.
-* **(PvE) Future-proofing, Rapidly (6.2% chance)**: We'll take any barrel that doesn't harm our weakest stats and any magazine that doesn't harm us as well.
+This section only exists because of Osmosis, for future-proofing/high-end PvE with Match Game.
+* **(PvE) The Future-Proofer (6.9% chance)**: Low-priority, future-proofing setup here or if you want a Scout Rifle for high-end PvE Match Game.
   ```
   Barrels [ 97%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake, Chambered Compensator, Polygonal Rifling
   Mags    [ 64%]: Tactical Mag, Accurized Rounds, Flared Magwell
-  Perks 1 [ 16%]: Rapid Hit
-  Perks 2 [ 60%]: Osmosis, Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvE) Future-proofing, Autoly (6.2% chance)**: Same as the above, but with Full-Auto instead of Rapid Hit
-  ```
-  Barrels [ 97%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake, Chambered Compensator, Polygonal Rifling
-  Mags    [ 64%]: Tactical Mag, Accurized Rounds, Flared Magwell
-  Perks 1 [ 16%]: Full Auto
-  Perks 2 [ 60%]: Osmosis, Vorpal
+  Perks 1 [ 33%]: Rapid Hit, Full Auto
+  Perks 2 [ 33%]: Osmosis
   MWorks  [100%]: *
   ```
 ## Perfect Paradox - PvE
