@@ -9,25 +9,48 @@ slots:
   masterworks: {t: 4, c: 1}
 groups: 
   - 
-    name: PvP
+    name: PvP / PvE
     summary: >
-      A randomly-rolled 390RPM Adaptive Pulse Rifle; here we go! If you like Bygones in the primary slot, Last Perdition is right up your alley. Lots of resources for this one, including the [Destiny Massive Breakdowns](https://www.destinymassivebreakdowns.com/) [podcast](https://soundcloud.com/destinymassivebreakdowns). I'll be quoting (or paraphrasing if I couldn't keep up :) Kyt_Kucha and Mercules904 quite a bit in here.
+      A randomly-rolled 390RPM Adaptive Pulse Rifle; here we go! If you like
+      Bygones in the primary slot, Last Perdition is right up your alley. Lots
+      of resources for this one, including the [Destiny Massive Breakdowns](https://www.destinymassivebreakdowns.com/) [podcast](https://soundcloud.com/destinymassivebreakdowns).
+      I'll be quoting (or paraphrasing if I couldn't keep up :) Kyt_Kucha and
+      Mercules904 quite a bit in here.
 
-      * KK: "Stability helps your Aim Assist cone recover more quickly. Recoil makes the bursts more linear but it's not the same thing as having more Stability."
+      * KK: "Stability helps your Aim Assist cone recover more quickly. Recoil
+      makes the bursts more linear but it's not the same thing as having more
+      Stability."
 
-      * KK: "Wouldn't go with a zoom factor of less than 3 because otherwise you feel recoil too much"
+      * KK: "Wouldn't go with a zoom factor of less than 3 because otherwise you
+      feel recoil too much"
 
-      * M904: "Accurized Rounds for +10 range, but maybe not if you picked a medium to high zoom scope (go for more Stability)"
+      * M904: "Accurized Rounds for +10 range, but maybe not if you picked a
+      medium to high zoom scope (go for more Stability)"
 
-      * M904: "Remember that Range has a linear effect and Zoom has a multiplicative effect. Rangefinder is 0.1x zoom - be careful of it because it may push you too far. Using it with +2x SPO-26 would be a good combo. If you don't roll Rangefinder but you do roll a higher zoom scope, you can ignore Rangefinder. If you only have short-zoom scopes, use Rangefinder."
+      * M904: "Remember that Range has a linear effect and Zoom has a
+      multiplicative effect. Rangefinder is 0.1x zoom - be careful of it because
+      it may push you too far. Using it with +2x SPO-26 would be a good combo.
+      If you don't roll Rangefinder but you do roll a higher zoom scope, you can
+      ignore Rangefinder. If you only have short-zoom scopes, use Rangefinder."
       
-      * CoolGuy's review: [Last Perdition 2.0 In Depth Review - Top Tier Pulse](https://www.youtube.com/watch?v=n6nVNWTEttc) is terrific. Long zoom scopes aren't recommended because of the increased incoming flinch while ADS and they also decrease Handling which can make the weapon feel more sluggish. Zen Moment is capped out at 66% of Base Stability, which is super high at 66.
+      * CoolGuy's review: [Last Perdition 2.0 In Depth Review - Top Tier
+      Pulse](https://www.youtube.com/watch?v=n6nVNWTEttc) is terrific. Long zoom
+      scopes aren't recommended because of the increased incoming flinch while
+      ADS and they also decrease Handling which can make the weapon feel more
+      sluggish. Zen Moment is capped out at 66% of Base Stability, which is
+      super high at 66.
 
 
-      For some general slaying footage, ZkMushroom loves his Last Perdition! Here he is on PC - ["My Favorite Pulse Rifle"](https://www.youtube.com/watch?v=2jXTmYiHbWQ) - and earlier on console - ["Last Perdition is the Best Pulse Rifle in the Game?"](https://www.youtube.com/watch?v=kwucqcnyX-s). "I don't like laning with pulses. I know Blast Furnace and Bygones will be better there. I like being aggressive with my pulse and this is the perfect one."
+      For some general slaying footage, ZkMushroom loves his Last Perdition!
+      Here he is on PC - 
+      ["My Favorite Pulse Rifle"](https://www.youtube.com/watch?v=2jXTmYiHbWQ) -
+      and earlier on console - ["Last Perdition is the Best Pulse Rifle in the 
+      Game?"](https://www.youtube.com/watch?v=kwucqcnyX-s). "I don't like laning
+      with pulses. I know Blast Furnace and Bygones will be better there. I like
+      being aggressive with my pulse and this is the perfect one."
     rolls:
       - &lpabsurdlypicky
-        name: (PvP) Absurdly Picky
+        name: (PvP/PvE) Absurdly Picky
         desc: >
           This will be our generally acceptable classic set of Pulse Rifle rolls.
         barrels: [SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post]
@@ -37,7 +60,7 @@ groups:
         masterworks: [Stability MW]
       - 
         <<: *lpabsurdlypicky
-        name: (PvP) Absurdly Picky (Minus Masterwork)
+        name: (PvP/PvE) Absurdly Picky (Minus Masterwork)
         desc: >
           Same as the above, minus Masterwork requirement.
         masterworks: []
@@ -66,17 +89,11 @@ groups:
         barrels: [SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post]
         magazines: [Tactical Mag, Steady Rounds, Accurized Rounds, Drop Mag, Flared Magwell]
         perks1: [Firmly Planted]
-        perks2: [Snapshot]
+        perks2: [Kill Clip, Rampage]
         masterworks: [Stability MW]
-      - &lpabsurdlyplantedmore
-        <<: *lpabsurdlyplanted
-        name: (PvP) Absurdly Planted (Relaxed Second Perk Slot)
-        desc: >
-          Same as the above, minus Masterwork requirement.
-        perks2: [Kill Clip, Rampage, Zen Moment, Snapshot]
       -
-        <<: *lpabsurdlyplantedmore
-        name: (PvP) Absurdly Planted (Minus Masterwork)
+        <<: *lpabsurdlyplanted
+        name: (PvP/PvE) Absurdly Planted (Minus Masterwork)
         desc: >
           Same as the above, minus Masterwork requirement.
         masterworks: []
@@ -92,34 +109,10 @@ groups:
       set of magazine options. Yes these are a narrow set of rolls but there's
       so much competition for the Energy slot you need something spicy to make
       the cut.
+      
+      Some PvE rolls are mentioned above in the PvP set, because the perks
+      overlap. I've labelled them PvP/PvE where appropriate.
     rolls:
-      - &lppvegunslinger
-        name: (PvE) Super Picky Gunslinger
-        desc: >
-          Standard DPS roll from years' past, and as per usual with PvE rolls,
-          as much damage as you can get then as much range as you can get. We're
-          going to look for short- and medium-zoom scopes because if you feel
-          you need something longer, you're probably looking at a Scout rifle.
-        barrels: [SPO-57 Front, SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-21 Post]
-        magazines: [Tactical Mag, Accurized Rounds, Flared Magwell]
-        perks1: [Outlaw]
-        perks2: [Kill Clip, Rampage]
-        masterworks: [Range MW]
-      -
-        <<: *lppvegunslinger
-        name: (PvE) Super Picky (Minus MW)
-        desc: Same as above, minus the masterwork.
-        masterworks: []
-      - 
-        <<: *lppvegunslinger
-        name: (PvE) Baseline / Future-Proofing
-        desc: >
-          If you need a solid Pulse Rifle in your Energy slot, by all means this
-          roll will do work. This is fine. Not amazing, not terrible, just a
-          standard DPS roll!
-        barrels: []
-        magazines: []
-        masterworks: []
       - &lppvemagdrop
         name: (PvE) Super Picky Mag Dropper
         desc: >
@@ -127,7 +120,7 @@ groups:
           so we can shoot for other perks in the first column. Firmly Planted is
           totally usable in PvE and turns this in to a laser beam.
         barrels: [SPO-57 Front, SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-21 Post]
-        magazines: [Drop Mag]
+        magazines: [Drop Mag, Alloy Magazine]
         perks1: [Firmly Planted]
         perks2: [Kill Clip, Rampage]
         masterworks: [Range MW]
@@ -135,4 +128,15 @@ groups:
         <<: *lppvemagdrop
         name: (PvE) Super Picky Mag Dropper (Minus MW)
         desc: Same as above, minus the masterwork.
+        masterworks: []
+      -
+        name: (PvE) Baseline / Future-Proofing
+        desc: >
+          If you need a solid Pulse Rifle in your Energy slot, by all means this
+          roll will do work. This is fine. Not amazing, not terrible, just a
+          standard DPS roll. 
+        barrels: []
+        magazines: []
+        perks1: [Outlaw]
+        perks2: [Kill Clip, Rampage]
         masterworks: []
