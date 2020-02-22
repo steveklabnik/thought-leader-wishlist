@@ -61,14 +61,8 @@ groups:
         barrels: [Countermass, Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch]
         magazines: [High-Velocity Rounds]
         perks1: [Genesis]
-        perks2: [Demolitionist]    
-        masterworks: [Reload MW]
-      - 
-        <<: *mshieldbreaker
-        name: (PvE) Shieldbreaker (Minus Masterwork)
-        desc: >
-          Same as the above, minus the masterwork.
-        masterworks: []
+        perks2: [Demolitionist, Lead from Gold]    
+        masterworks: [Reload MW, Handling MW]
       - 
         <<: *mshieldbreaker
         name: (PvE) The Instant Reloader
