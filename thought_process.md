@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-22 04:49:21 +00:00`. The most recent
+created on `2020-02-22 04:52:47 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -447,11 +447,11 @@ This is one of my favourite weapons in all of Destiny! Pretty much any roll is f
   Perks 2 [ 70%]: Demolitionist, Lead from Gold
   MWorks  [ 40%]: Reload MW, Handling MW
   ```
-* **(PvE) The Instant Reloader (16.0% chance)**: We're doing everything we can to reload as quickly as possible with this roll. How do we keep one in the chamber constantly?
+* **(PvE) The Instant Reloader (10.7% chance)**: We're doing everything we can to reload as quickly as possible with this roll. How do we keep one in the chamber constantly?
   ```
   Barrels [ 95%]: Countermass, Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
   Mags    [100%]: *
-  Perks 1 [ 60%]: Auto-Loading Holster, Threat Detector, Field Prep
+  Perks 1 [ 40%]: Auto-Loading Holster, Threat Detector
   Perks 2 [ 70%]: Demolitionist, Lead from Gold
   MWorks  [ 40%]: Reload MW, Handling MW
   ```
