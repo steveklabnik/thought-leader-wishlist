@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-22 04:52:47 +00:00`. The most recent
+created on `2020-02-22 05:17:34 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -457,50 +457,50 @@ This is one of my favourite weapons in all of Destiny! Pretty much any roll is f
   ```
 ## Patron of Lost Causes - PvP
 CoolGuy absolutely loves his Patron, and has a great [video review of it](https://www.youtube.com/watch?v=GTcp4JQD1fI). I'm on controller so these rolls are all about maxing our stability. Fortunately we have a pretty broad set of useful rolls. Randy's is in the same slot and has Rapid-Hit + Kill Clip already, so I'm not losing too much sleep about getting a perfect roll here.
-* **(PvP) "Rapid Hitstability" (1.3% chance)**: This is all about stability. Yes, Explosive Rounds and Vorpal don't increase stability but they would make this already great roll even better.
+* **(PvP) "Rapid Hitstability" (1.6% chance)**: This is all about stability. Yes, Explosive Rounds and Vorpal don't increase stability but they would make this already great roll even better.
   ```
   Barrels [ 83%]: Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling
-  Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
+  Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Rapid Hit
   Perks 2 [ 60%]: Explosive Rounds, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Rapid Hitstability" (Minus Barrels) (1.6% chance)**: Same as above, minus the barrels
+* **(PvP) "Rapid Hitstability" (Minus Barrels) (2.0% chance)**: Same as the best, minus the barrels
   ```
   Barrels [100%]: *
-  Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
+  Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Rapid Hit
   Perks 2 [ 60%]: Explosive Rounds, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Rapid Hitstability" (Minus Masterwork) (6.4% chance)**: Same as above, minus Masterworks.
+* **(PvP) "Rapid Hitstability" (Minus Masterwork) (6.5% chance)**: Same as the best, minus Masterworks.
   ```
-  Barrels [100%]: *
-  Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
+  Barrels [ 83%]: Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling
+  Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Rapid Hit
   Perks 2 [ 60%]: Explosive Rounds, Vorpal
   MWorks  [100%]: *
   ```
-* **(PvP) "Index Finger Saver" 👌 (1.3% chance)**: Same as our other rolls, but with Full Auto instead of Rapid Hit
+* **(PvP) "Index Finger Saver" 👌 (1.6% chance)**: Same as our other rolls, but with Full Auto instead of Rapid Hit
   ```
   Barrels [ 83%]: Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling
-  Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
+  Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Full Auto
   Perks 2 [ 60%]: Explosive Rounds, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Index Saver" (Minus Barrels) 👌 (1.6% chance)**: Same as above, minus the barrels
+* **(PvP) "Index Saver" (Minus Barrels) 👌 (2.0% chance)**: Same as the best, minus the barrels
   ```
   Barrels [100%]: *
-  Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
+  Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Full Auto
   Perks 2 [ 60%]: Explosive Rounds, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Index Saver" (Minus Masterwork) 👌 (6.4% chance)**: Same as above, minus Masterworks.
+* **(PvP) "Index Saver" (Minus Masterwork) 👌 (6.5% chance)**: Same as the best, minus Masterworks.
   ```
-  Barrels [100%]: *
-  Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
+  Barrels [ 83%]: Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling
+  Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Full Auto
   Perks 2 [ 60%]: Explosive Rounds, Vorpal
   MWorks  [100%]: *
