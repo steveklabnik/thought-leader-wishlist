@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-22 03:37:25 +00:00`. The most recent
+created on `2020-02-22 04:02:55 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -465,53 +465,69 @@ This is one of my favourite weapons in all of Destiny! Pretty much any roll is f
   ```
 ## Patron of Lost Causes - PvP
 CoolGuy absolutely loves his Patron, and has a great [video review of it](https://www.youtube.com/watch?v=GTcp4JQD1fI). I'm on controller so these rolls are all about maxing our stability. Fortunately we have a pretty broad set of useful rolls. Randy's is in the same slot and has Rapid-Hit + Kill Clip already, so I'm not losing too much sleep about getting a perfect roll here.
-* **(PvP) Super Picky (1.8% chance)**: This is all about stability. Yes, Explosive Rounds and Vorpal don't increase stability but they would make this already great roll even better.
+* **(PvP) "Rapid Hitstability" (1.3% chance)**: This is all about stability. Yes, Explosive Rounds and Vorpal don't increase stability but they would make this already great roll even better.
   ```
-  Barrels [ 83%]: Smallbore, Corkscrew Rifling, Chambered Compensator, Polygonal Rifling, Fluted Barrel
+  Barrels [ 83%]: Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling
   Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Rapid Hit
-  Perks 2 [ 80%]: Explosive Rounds, Elemental Capacitor, Vorpal
+  Perks 2 [ 60%]: Explosive Rounds, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Super Picky (Minus Barrels) (2.1% chance)**: Same as above, minus the barrels
+* **(PvP) "Rapid Hitstability" (Minus Barrels) (1.6% chance)**: Same as above, minus the barrels
   ```
   Barrels [100%]: *
   Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Rapid Hit
-  Perks 2 [ 80%]: Explosive Rounds, Elemental Capacitor, Vorpal
+  Perks 2 [ 60%]: Explosive Rounds, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Super Picky (Minus Magazines) (2.8% chance)**: Same as above, minus the magazines
+* **(PvP) "Rapid Hitstability" (Minus Masterwork) (6.4% chance)**: Same as above, minus Masterworks.
   ```
-  Barrels [ 83%]: Smallbore, Corkscrew Rifling, Chambered Compensator, Polygonal Rifling, Fluted Barrel
-  Mags    [100%]: *
-  Perks 1 [ 16%]: Rapid Hit
-  Perks 2 [ 80%]: Explosive Rounds, Elemental Capacitor, Vorpal
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Super Picky (Minus Perks) (2.2% chance)**: Same as above, minus the perks
-  ```
-  Barrels [ 83%]: Smallbore, Corkscrew Rifling, Chambered Compensator, Polygonal Rifling, Fluted Barrel
+  Barrels [100%]: *
   Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Rapid Hit
-  Perks 2 [100%]: *
+  Perks 2 [ 60%]: Explosive Rounds, Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Index Finger Saver" 👌 (1.3% chance)**: Same as our other rolls, but with Full Auto instead of Rapid Hit
+  ```
+  Barrels [ 83%]: Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling
+  Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
+  Perks 1 [ 16%]: Full Auto
+  Perks 2 [ 60%]: Explosive Rounds, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Super Picky (Minus Stability MW) (7.1% chance)**: Same as above, minus the masterwork
+* **(PvP) "Index Saver" (Minus Barrels) 👌 (1.6% chance)**: Same as above, minus the barrels
   ```
-  Barrels [ 83%]: Smallbore, Corkscrew Rifling, Chambered Compensator, Polygonal Rifling, Fluted Barrel
+  Barrels [100%]: *
   Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
-  Perks 1 [ 16%]: Rapid Hit
-  Perks 2 [ 80%]: Explosive Rounds, Elemental Capacitor, Vorpal
+  Perks 1 [ 16%]: Full Auto
+  Perks 2 [ 60%]: Explosive Rounds, Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Index Saver" (Minus Masterwork) 👌 (6.4% chance)**: Same as above, minus Masterworks.
+  ```
+  Barrels [100%]: *
+  Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
+  Perks 1 [ 16%]: Full Auto
+  Perks 2 [ 60%]: Explosive Rounds, Vorpal
   MWorks  [100%]: *
   ```
 ## Patron of Lost Causes - PvE
-This is the only Scout Rifle that can roll Vorpal or Osmosis. This isn't a high priority roll for you to go after and it's also pretty much the core components of the PvP rolls we have down already. With the S92 double-perk bonus, you should be able to get one of these pretty promptly :)
-* **(PvE) Utility (10.0% chance)**: Future-proofing
+This is the only Scout Rifle that can roll Vorpal or Osmosis however there are no damage perks, unless you consider Vorpal a damage perk. This is a low priority hence the "Future-proofing" rolls here.
+* **(PvE) Future-proofing, Rapidly (6.2% chance)**: We'll take any barrel that doesn't harm our weakest stats and any magazine that doesn't harm us as well.
   ```
-  Barrels [100%]: *
-  Mags    [100%]: *
+  Barrels [ 97%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake, Chambered Compensator, Polygonal Rifling
+  Mags    [ 64%]: Tactical Mag, Accurized Rounds, Flared Magwell
   Perks 1 [ 16%]: Rapid Hit
+  Perks 2 [ 60%]: Osmosis, Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvE) Future-proofing, Autoly (6.2% chance)**: Same as the above, but with Full-Auto instead of Rapid Hit
+  ```
+  Barrels [ 97%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake, Chambered Compensator, Polygonal Rifling
+  Mags    [ 64%]: Tactical Mag, Accurized Rounds, Flared Magwell
+  Perks 1 [ 16%]: Full Auto
   Perks 2 [ 60%]: Osmosis, Vorpal
   MWorks  [100%]: *
   ```
