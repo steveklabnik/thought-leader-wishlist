@@ -13,143 +13,85 @@ groups:
     summary: >
       CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZQdY4)!
       There isn't a bad sight and it has little to no recoil. It can roll with
-      Disruption Break which works in PvP (?!) Rapid Hit and Tap the Trigger
-      being available is a rare combo. Worth your time to farm a few of these.
+      Disruption Break which works in PvP (?!) as well as a combo of Rapid Hit
+      and Tap the Trigger, which is a rare combo. 
       Keep in mind TJ5 doesn't benefit from from the Season 9 R92 additional
-      perk in the last slot, so these rolls are *tough* to get.  Recently, True
+      perk in the last slot, so these rolls are *tough* to get. Recently, True
       Vanguard [released a video](https://www.youtube.com/watch?v=9QXBw6NFi08)
       and that reminded me to get a little more specific on the picky rolls.
     rolls:
-      - 
-        name: (PvP) Super Pickiest of Tappers
+      - &t5perfect
+        name: (PvP) "Perfectly Balanced, As All Things Should Be" 🦹‍♂️
         desc: >
-          Rapid Hit makes it incredibly stable and TtT procs on every other burst.
-          Going for max range after that. This is going to be an incredibly hard
-          roll to get, so buy a lottery ticket if it lands for you.
-        barrels: [Control SAS]
-        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
-        perks1: [Rapid Hit]
-        perks2: [Tap the Trigger]
-        masterworks: [Range MW]
-      - 
-        name: (PvP) Super Pickiest of Tappers (Minus MW)
-        desc: >
-          Same as above, minus the Masterwork.
-        barrels: [Control SAS]
-        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
-        perks1: [Rapid Hit]
-        perks2: [Tap the Trigger]
-        masterworks: []
-      - 
-        name: (PvP) Super Pickiest of Tappers (Relaxed Sights)
-        desc: >
-          Same as above, with all but the worst sights allowed.
+          With an `84` base Stability and two Stability perks in the third and
+          fourth columns, let's focus on increasing Range (not at the cost of
+          Stability).
         barrels: [Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS]
         magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
         perks1: [Rapid Hit]
         perks2: [Tap the Trigger]
         masterworks: [Range MW]
-      - 
-        name: (PvP) Super Pickiest of Tappers (Relaxed Sights, Minus MW)
+      - &t5perfectmags
+        <<: *t5perfect
+        name: (PvP) "Perfectly Balanced" (Relaxed Magazines) 🦹‍♂️ 
         desc: >
-          Same as above, minus the Masterwork.
-        barrels: [Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS]
-        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
-        perks1: [Rapid Hit]
-        perks2: [Tap the Trigger]
-        masterworks: []      
-      - 
-        name: (PvP) Picky Tapper (Minus Mags, MW)
-        desc: >
-          Same as above, minus the Range MW and mags; still amazing.
-        barrels: [Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS]
+          Same as the above, minus the magazines. These magazines add very
+          little Range, so we're not missing out on much.
         magazines: []
-        perks1: [Rapid Hit]
-        perks2: [Tap the Trigger]
-        masterworks: []
-      - 
-        name: (PvP) Picky Tapper (Minus Sights, MW)
+      -
+        <<: *t5perfectmags
+        name: (PvP) "Perfectly Balanced" (Relaxed MW) 🦹‍♂️ 
         desc: >
-          Same as above, minus the Range MW and sights; still amazing.
-        barrels: []
-        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
-        perks1: [Rapid Hit]
-        perks2: [Tap the Trigger]
+          Same as the above, minus the Masterwork
+        masterworks: []
+      - &t5hip
+        <<: *t5perfect
+        name: (PvP) "I Like to shoot from the hip" 🕺
+        desc: >
+          `Hip-Fire Grip` is totally reasonable here, especially if you're a
+          bouncy Hunter or floofy Warlock.
+        perks1: [Hip-Fire Grip]
+      - &t5perfecthip
+        <<: *t5hip
+        name: (PvP) "Hip Shooter" (Relaxed Magazines) 🕺 
+        desc: >
+          Same as the above, minus the magazines. These magazines add very
+          little Range, so we're not missing out on much.
+        magazines: []
+      -
+        <<: *t5perfecthip
+        name: (PvP) "Hip Shooter" (Relaxed MW) 🕺 
+        desc: >
+          Same as the above, minus the Masterwork
+        masterworks: []
+      - &t5shield
+        <<: *t5perfect
+        name: (PvP) "Shieldbreaker" 🛡
+        desc: >
+          Huge props to CoolGuy for calling out that Disruption Break not only
+          works in PvP but that the debuff works for your teammates.
+        perks2: [Disruption Break]
+      - &t5shieldmags
+        <<: *t5shield
+        name: (PvP) "Shieldbreaker" (Relaxed Magazines) 🛡 
+        desc: >
+          Same as the above, minus the magazines. These magazines add very
+          little Range, so we're not missing out on much.
+        magazines: []
+      -
+        <<: *t5shieldmags
+        name: (PvP) "Shieldbreaker" (Relaxed MW) 🛡 
+        desc: >
+          Same as the above, minus the Masterwork
         masterworks: []
       - 
         name: (PvP) Baseline Tapping
         desc: >
-          Just the facts.
+          Whatever you do, depart Season 9 with at least this roll!
         barrels: []
         magazines: []
         perks1: [Rapid Hit]
         perks2: [Tap the Trigger]
-        masterworks: []      
-      - 
-        name: (PvP) Super Picky Shieldbreaker
-        desc: >
-          Disruption Break works in PvP apparently!? Same set of rolls as above,
-          but pairing with Disruption Break instead of Tap the Trigger.
-        barrels: [Control SAS]
-        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
-        perks1: [Rapid Hit]
-        perks2: [Disruption Break]
-        masterworks: [Range MW]
-      - 
-        name: (PvP) Super Picky Shieldbreaker (Minus MW)
-        desc: >
-          Same as above, minus the Masterwork.
-        barrels: [Control SAS]
-        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
-        perks1: [Rapid Hit]
-        perks2: [Disruption Break]
-        masterworks: []
-      - 
-        name: (PvP) Super Picky Shieldbreaker (Relaxed Sights)
-        desc: >
-          Same as above, with all but the worst sights allowed. This is an
-          absolutely phenomenal roll and also pretty darn hard to get.
-        barrels: [Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS]
-        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
-        perks1: [Rapid Hit]
-        perks2: [Disruption Break]
-        masterworks: [Range MW]
-      - 
-        name: (PvP) Super Picky Shieldbreaker (Relaxed Sights, Minus MW)
-        desc: >
-          Same as above, with all but the worst sights allowed. This is an
-          absolutely phenomenal roll and also pretty darn hard to get.
-        barrels: [Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS]
-        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
-        perks1: [Rapid Hit]
-        perks2: [Disruption Break]
-        masterworks: []      
-      - 
-        name: (PvP) Picky Shieldbreaker (Minus Mags)
-        desc: >
-          Same as above, minus the Range MW and mags; still amazing.
-        barrels: [Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS]
-        magazines: []
-        perks1: [Rapid Hit]
-        perks2: [Disruption Break]
-        masterworks: []
-      - 
-        name: (PvP) Picky Shieldbreaker (Minus Sights)
-        desc: >
-          Same as above, minus the Range MW and sights; still amazing.
-        barrels: []
-        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
-        perks1: [Rapid Hit]
-        perks2: [Disruption Break]
-        masterworks: []
-      - 
-        name: (PvP) Baseline Shieldbreaker
-        desc: >
-          Just the facts.
-        barrels: []
-        magazines: []
-        perks1: [Rapid Hit]
-        perks2: [Disruption Break]
         masterworks: []      
   - 
     name: PvE
