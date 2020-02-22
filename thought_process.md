@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-22 04:11:27 +00:00`. The most recent
+created on `2020-02-22 04:49:21 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -439,29 +439,21 @@ I absolutely love this new "Wave Frame" (i.e. Thermite Jr.) archetype! Our roll 
   ```
 ## Martyr's Retribution - PvE
 This is one of my favourite weapons in all of Destiny! Pretty much any roll is fine but if you want to push your roll criteria, here we go.
-* **(PvE) Shieldbreaker (1.5% chance)**: Martyr's absolutely shreds shields and a shieldsplosion roll like this will be super fun. Those hopefully chained kills should keep your grenade rolling from Demolitionist and upon activating it will reload your weapon and so on...
+* **(PvE) Shieldbreaker (5.3% chance)**: Martyr's absolutely shreds shields and a shieldsplosion roll like this will be super fun. Those hopefully chained kills should keep your grenade rolling from Demolitionist and upon activating it will reload your weapon and so on...
   ```
   Barrels [ 95%]: Countermass, Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
   Mags    [100%]: *
   Perks 1 [ 20%]: Genesis
-  Perks 2 [ 40%]: Demolitionist
-  MWorks  [ 20%]: Reload MW
+  Perks 2 [ 70%]: Demolitionist, Lead from Gold
+  MWorks  [ 40%]: Reload MW, Handling MW
   ```
-* **(PvE) Shieldbreaker (Minus Masterwork) (7.6% chance)**: Same as the above, minus the masterwork.
-  ```
-  Barrels [ 95%]: Countermass, Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Genesis
-  Perks 2 [ 40%]: Demolitionist
-  MWorks  [100%]: *
-  ```
-* **(PvE) The Instant Reloader (4.6% chance)**: We're doing everything we can to reload as quickly as possible with this roll. How do we keep one in the chamber constantly?
+* **(PvE) The Instant Reloader (16.0% chance)**: We're doing everything we can to reload as quickly as possible with this roll. How do we keep one in the chamber constantly?
   ```
   Barrels [ 95%]: Countermass, Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
   Mags    [100%]: *
   Perks 1 [ 60%]: Auto-Loading Holster, Threat Detector, Field Prep
-  Perks 2 [ 40%]: Demolitionist
-  MWorks  [ 20%]: Reload MW
+  Perks 2 [ 70%]: Demolitionist, Lead from Gold
+  MWorks  [ 40%]: Reload MW, Handling MW
   ```
 ## Patron of Lost Causes - PvP
 CoolGuy absolutely loves his Patron, and has a great [video review of it](https://www.youtube.com/watch?v=GTcp4JQD1fI). I'm on controller so these rolls are all about maxing our stability. Fortunately we have a pretty broad set of useful rolls. Randy's is in the same slot and has Rapid-Hit + Kill Clip already, so I'm not losing too much sleep about getting a perfect roll here.
