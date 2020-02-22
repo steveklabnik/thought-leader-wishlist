@@ -61,12 +61,8 @@ PREAMBLE
           thoughts.puts("* **%s (%0.1f%% chance)**: %s" % [r['name'], calculate_probability(weapon, r), r['desc'].strip])
           thoughts.puts('  ```')
           TRAITS.each do |t|
-            if (r[t[:key]].empty?)
-              thoughts.puts("  #{t[:label]} (100%): #{t[:fallback]}")
-            else
-              p = column_probability(weapon, r, t[:key])
-              thoughts.puts("  #{t[:label]} ( %d%%): #{r[t[:key]].join(', ')}" % [p * 100])
-            end
+            p = column_probability(weapon, r, t[:key])
+            thoughts.puts("  #{t[:label]} (%3d%%): #{r[t[:key]].join(', ')}" % [p * 100])
           end
           thoughts.puts('  ```')
         end
