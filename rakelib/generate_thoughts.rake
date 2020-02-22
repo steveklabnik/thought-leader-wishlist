@@ -62,7 +62,8 @@ PREAMBLE
           thoughts.puts('  ```')
           TRAITS.each do |t|
             p = column_probability(weapon, r, t[:key])
-            thoughts.puts("  #{t[:label]} (%3d%%): #{r[t[:key]].join(', ')}" % [p * 100])
+            message = (p.to_i == 1) ? '*' : (r[t[:key]].join(', '))
+            thoughts.puts("  #{t[:label]} [%3d%%]: #{message}" % [p * 100])
           end
           thoughts.puts('  ```')
         end
