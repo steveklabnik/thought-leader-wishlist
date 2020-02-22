@@ -24,21 +24,21 @@ groups:
           increase stability but they would make this already great roll even
           better.
         barrels: [Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling]
-        magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
+        magazines: [Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell]
         perks1: [Rapid Hit]
         perks2: [Explosive Rounds, Vorpal]
         masterworks: [Stability MW]
-      - &prapidbarrels
+      - 
         <<: *prapid
         name: (PvP) "Rapid Hitstability" (Minus Barrels)
         desc: >
-          Same as above, minus the barrels
+          Same as the best, minus the barrels
         barrels: []
       - 
-        <<: *prapidbarrels
+        <<: *prapid
         name: (PvP) "Rapid Hitstability" (Minus Masterwork)
         desc: >
-          Same as above, minus Masterworks.
+          Same as the best, minus Masterworks.
         masterworks: []
       - &pfullauto
         <<: *prapid
@@ -46,17 +46,17 @@ groups:
         desc: >
           Same as our other rolls, but with Full Auto instead of Rapid Hit
         perks1: [Full Auto]
-      - &pfullbarrels
+      - 
         <<: *pfullauto
         name: (PvP) "Index Saver" (Minus Barrels) 👌
         desc: >
-          Same as above, minus the barrels
+          Same as the best, minus the barrels
         barrels: []
       - 
-        <<: *pfullbarrels
+        <<: *pfullauto
         name: (PvP) "Index Saver" (Minus Masterwork) 👌
         desc: >
-          Same as above, minus Masterworks.
+          Same as the best, minus Masterworks.
         masterworks: []        
   - 
     name: PvE
