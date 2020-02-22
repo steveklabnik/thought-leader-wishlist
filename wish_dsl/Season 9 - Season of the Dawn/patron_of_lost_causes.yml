@@ -9,16 +9,15 @@ slots:
   masterworks: {t: 4, c: 1} 
 groups: 
   - 
-    name: PvP
+    name: PvP / PvE
     summary: >
       CoolGuy absolutely loves his Patron, and has a great [video review of it](https://www.youtube.com/watch?v=GTcp4JQD1fI).
-      I'm on controller so these rolls are all about maxing our stability. Fortunately
-      we have a pretty broad set of useful rolls. Randy's is in the same slot and
-      has Rapid-Hit + Kill Clip already, so I'm not losing too much sleep about
-      getting a perfect roll here.
+      Since this is a controller wishlist, these rolls are all about maxing
+      Stability. All of these PvP rolls would be perfectly fine rolls in PvE
+      as well.
     rolls:
       - &prapid
-        name: (PvP) "Rapid Hitstability" 
+        name: (PvP/PvE) "Rapid Hitstability" 
         desc: >
           This is all about stability. Yes, Explosive Rounds and Vorpal don't
           increase stability but they would make this already great roll even
@@ -30,54 +29,47 @@ groups:
         masterworks: [Stability MW]
       - 
         <<: *prapid
-        name: (PvP) "Rapid Hitstability" (Minus Barrels)
+        name: (PvP/PvE) "Rapid Hitstability" (Minus Barrels)
         desc: >
           Same as the best, minus the barrels
         barrels: []
       - 
         <<: *prapid
-        name: (PvP) "Rapid Hitstability" (Minus Masterwork)
+        name: (PvP/PvE) "Rapid Hitstability" (Minus Masterwork)
         desc: >
           Same as the best, minus Masterworks.
         masterworks: []
       - &pfullauto
         <<: *prapid
-        name: (PvP) "Index Finger Saver" 👌
+        name: (PvP/PvE) "Index Finger Saver" 👌
         desc: >
           Same as our other rolls, but with Full Auto instead of Rapid Hit
         perks1: [Full Auto]
       - 
         <<: *pfullauto
-        name: (PvP) "Index Saver" (Minus Barrels) 👌
+        name: (PvP/PvE) "Index Saver" (Minus Barrels) 👌
         desc: >
           Same as the best, minus the barrels
         barrels: []
       - 
         <<: *pfullauto
-        name: (PvP) "Index Saver" (Minus Masterwork) 👌
+        name: (PvP/PvE) "Index Saver" (Minus Masterwork) 👌
         desc: >
           Same as the best, minus Masterworks.
         masterworks: []        
   - 
     name: PvE
     summary: >
-      This is the only Scout Rifle that can roll Vorpal or Osmosis however there
-      are no damage perks, unless you consider Vorpal a damage perk. This is a
-      low priority hence the "Future-proofing" rolls here.
+      This section only exists because of Osmosis, for future-proofing/high-end
+      PvE with Match Game.
     rolls:
       - &pfuture
-        name: (PvE) Future-proofing, Rapidly
+        name: (PvE) The Future-Proofer
         desc: >
-          We'll take any barrel that doesn't harm our weakest stats and any
-          magazine that doesn't harm us as well.
+          Low-priority, future-proofing setup here or if you want a Scout Rifle for
+          high-end PvE Match Game.
         barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake, Chambered Compensator, Polygonal Rifling]
         magazines: [Tactical Mag, Accurized Rounds, Flared Magwell]
-        perks1: [Rapid Hit]
-        perks2: [Osmosis, Vorpal]
+        perks1: [Rapid Hit, Full Auto]
+        perks2: [Osmosis]
         masterworks: []
-      -
-        <<: *pfuture
-        name: (PvE) Future-proofing, Autoly
-        desc: >
-          Same as the above, but with Full-Auto instead of Rapid Hit
-        perks1: [Full Auto]
