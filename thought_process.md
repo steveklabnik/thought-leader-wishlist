@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-22 03:16:17 +00:00`. The most recent
+created on `2020-02-22 03:37:25 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -16,6 +16,9 @@ that there's a chance a match is flagged and commented as a PvP roll in the DIM
 "Wishlist Notes" section (searchable in DIM via `wishlistnotes:`), when it could
 do double-duty. That's just how the wishlist feature currently works, so use your
 own discretion.
+
+**Some rolls are missing PvE or PvP sections. What gives?** If that's the case,
+I'm of the opinion it's not worth chasing ツ
 
 ---
 
@@ -33,7 +36,7 @@ own discretion.
 * Trophy Hunter ([PvP](#trophy-hunter---pvp), [PvE](#trophy-hunter---pve))
 
 **World Drops**
-* Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp), [PvE](#black-scorpion-4sr---pve))
+* Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
 * Bygones ([PvP](#bygones---pvp), [PvE](#bygones---pve))
 * Last Perdition ([PvP](#last-perdition---pvp), [PvE](#last-perdition---pve))
 
@@ -702,27 +705,19 @@ These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=
   MWorks  [100%]: *
   ```
 ## Trophy Hunter - PvP
-More of a PvE sniper, so we aren't going to have much to lay down here for a great roll. If you're hungry for a PvP Energy sniper, you want the Beloved (Menagerie), Apostate (Altar of Sorrows) or Twilight Oath (Dreaming City). CoolGuy: ["It's OK, nothing special."](https://www.youtube.com/watch?v=dGHNinCK3HI) Handling additions are appreciated because it's such a clunky weapon.
-* **(PvP) "Snipe Like a Psion!" (Ridiculously Picky) (0.4% chance)**: Psions use Trophy Hunter - who knew? "Pulse Monitor"?! Yeah, there's only four perks in the third column and it's the only one applicable to PvP. The is the only randomly-rolled sniper in the game with Pulse Monitor. Everythig else is attempting to buff the Handling so it doesn't feel so sluggish.  I don't know that this makes it some kind of S-Tier sniper but why not give it a shot? Sniping is so personal.
+More of a PvE sniper, so we aren't going to have much to lay down here for a great roll. If you're hungry for a PvP Energy sniper, you want the  Beloved (Menagerie), Apostate (Altar of Sorrows) or Twilight Oath (Dreaming City). CoolGuy: ["It's OK, nothing special."](https://www.youtube.com/watch?v=dGHNinCK3HI) Handling additions are appreciated because it's such a clunky weapon. I toyed with not even having rolls here but it's easy to farm and only here this season; why not grab a decent roll?
+* **(PvP) "Snipe Like a Psion!" 🐲 (1.3% chance)**: Psions use Trophy Hunter - who knew? "Pulse Monitor"?! Yeah, there's only four perks in the third column and it's the only one applicable to PvP. The is the only randomly-rolled sniper in the game with Pulse Monitor. Everythig else is attempting to buff the Handling so it doesn't feel so sluggish. I don't know that this makes it some kind of S-Tier sniper but why not give it a shot? Sniping is so personal.
   ```
-  Barrels [ 41%]: Arrowhead Brake, Fluted Barrel
-  Mags    [ 28%]: Accurized Rounds
+  Barrels [ 58%]: Arrowhead Brake, Corkscrew Rifling, Fluted Barrel
+  Mags    [ 71%]: Accurized Rounds, Alloy Magazine, Flared Magwell
   Perks 1 [ 25%]: Pulse Monitor
   Perks 2 [ 50%]: Snapshot
   MWorks  [ 25%]: Handling MW
   ```
-* **(PvP) "Snipe Like a Psion!" (Relaxed Barrels and Mags) (2.5% chance)**: We'll take any barrel or magazine that doesn't hurt our stats, especially Handling.
+* **(PvP) "Snipe Like a Psion!" (Relaxed Perk) 🐲 (5.2% chance)**: Same as the above, minus `Pulse Monitor` which really is not a big deal in the first place :)
   ```
-  Barrels [ 91%]: Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
-  Mags    [ 85%]: Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell
-  Perks 1 [ 25%]: Pulse Monitor
-  Perks 2 [ 50%]: Snapshot
-  MWorks  [ 25%]: Handling MW
-  ```
-* **(PvP) "Snipe Like a Psion!" (Relaxed First Perk) (9.8% chance)**: Same as the above, minus `Pulse Monitor` which really is not a big deal in the first place :)
-  ```
-  Barrels [ 91%]: Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
-  Mags    [ 85%]: Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell
+  Barrels [ 58%]: Arrowhead Brake, Corkscrew Rifling, Fluted Barrel
+  Mags    [ 71%]: Accurized Rounds, Alloy Magazine, Flared Magwell
   Perks 1 [100%]: *
   Perks 2 [ 50%]: Snapshot
   MWorks  [ 25%]: Handling MW
@@ -818,8 +813,6 @@ Check out [ZkMushroom](https://www.youtube.com/watch?v=tdnJWuiUF2k) and [nKuch](
   Perks 2 [100%]: *
   MWorks  [ 25%]: Stability MW
   ```
-## Black Scorpion-4sr - PvE
-What, no PvE rolls?! Nope. Being rapid-fire/low impact and having none of the spicy new damage perks (Multikill Clip, Swashbuckler, Vorpal, etc.) it's really not worth taking in to PvE. It's also perked weirdly, with Outlaw and Rampage being in the same slot, among others. There are so many amazing Energy weapons for PvE, it's hard to imagine this ever being top of your list. Go enjoy farming something else :)
 ## Bygones - PvP
 You don't actually need all that much for a "great" Bygones roll because, well, it's just a solid weapon at its baseline. Throw on a Counterbalance mod to bring the recoil to `84` and you're golden. You can see [Fallout's video](https://www.youtube.com/watch?v=atkJYoL6E1U) for reference. Why Bygones? It's the only 390 RPM kinetic Pulse Rifle and the only other randomly rolled one apart from Last Perdition and the raid pulses. If this archetype gets buffed, it will be nice to have one in your vault! Here's what's forming the foundation of these rolls: (1) Strongly consider using a single +10 Recoil barrel perk and a Counterbalance mod (+15) to get the Recoil to 94 which is basically straight up and down. Arrowhead Brake will let us do this without a mod but you're sacrificing the stability and range benefits of those other barrels (2) Handling is solid, among the highest of pulse rifles, so we're not too concerned about raising this (3) With [recent findings](https://www.youtube.com/watch?v=atkJYoL6E1U) that Slideshot activates for two seconds (some of which you lose while the slide completes), I'm tossing it out for a great roll here. With a long-range, precision weapon like a pulse rifle, you're going to maybe get one burst off before Slideshot dissipates. If you want to see a Stability-focused roll do work, check out [ZkMushroom](https://www.youtube.com/watch?v=VXmwYjWW4TE). He's using Corkscrew + Ricochet + Stability MW. I am requiring Kill Clip because I don't believe the raw kill potential with no upside for stringing makes this worth keeping. There are far too many other primaries with great follow-up perks like MKC and Swashbuckler kicking around nowadays.
 * **(PvP) Absurdly Picky (0.4% chance)**: Going for maximum Stability here; at least a little bit in every column. If you get this roll, buy both of us a lottery ticket. "But Slif, Range improves accuracy and damage falloff" Check out the ZkMushroom video above and tell me if you think the lack of Range-boosting perks handicaps Bygones here.
