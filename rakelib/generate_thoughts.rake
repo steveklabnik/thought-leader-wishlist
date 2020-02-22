@@ -32,6 +32,9 @@ that there's a chance a match is flagged and commented as a PvP roll in the DIM
 "Wishlist Notes" section (searchable in DIM via `wishlistnotes:`), when it could
 do double-duty. That's just how the wishlist feature currently works, so use your
 own discretion.
+
+**Some rolls are missing PvE or PvP sections. What gives?** If that's the case,
+I'm of the opinion it's not worth chasing ツ
 PREAMBLE
 
     weapons = []
