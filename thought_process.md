@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-22 19:24:45 +00:00`. The most recent
+created on `2020-02-22 19:28:38 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -29,7 +29,7 @@ I'm of the opinion it's not worth chasing ツ
 * Jack Queen King 3 ([PvP](#jack-queen-king-3---pvp), [PvE](#jack-queen-king-3---pve))
 * Line in the Sand ([PvE](#line-in-the-sand---pve))
 * Martyr's Retribution ([PvP](#martyrs-retribution---pvp), [PvE](#martyrs-retribution---pve))
-* Patron of Lost Causes ([PvP / PvE](#patron-of-lost-causes---pvp---pve), [PvE](#patron-of-lost-causes---pve))
+* Patron of Lost Causes ([PvP / PvE](#patron-of-lost-causes---pvp--pve), [PvE](#patron-of-lost-causes---pve))
 * Perfect Paradox ([PvE](#perfect-paradox---pve))
 * Steelfeather Repeater ([PvP](#steelfeather-repeater---pvp), [PvE](#steelfeather-repeater---pve))
 * Traveler's Judgement 5 ([PvP](#travelers-judgement-5---pvp), [PvE](#travelers-judgement-5---pve))
@@ -38,7 +38,7 @@ I'm of the opinion it's not worth chasing ツ
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
 * Bygones ([PvP](#bygones---pvp), [PvE](#bygones---pve))
-* Last Perdition ([PvP / PvE](#last-perdition---pvp---pve), [PvE](#last-perdition---pve))
+* Last Perdition ([PvP / PvE](#last-perdition---pvp--pve), [PvE](#last-perdition---pve))
 
 ---
 ## Breachlight - PvP
