@@ -2,6 +2,8 @@ require 'date'
 require 'set'
 require 'yaml'
 
+require_relative 'helpers'
+
 PERK_MAP = YAML.load_file('perk_ids.yml')
 
 task :generate_wishlist do
@@ -22,7 +24,7 @@ task :generate_wishlist do
       item_ids.add(w['item_id'])
       w['groups'].each do |group|
         group['rolls'].each do |roll|
-          wishlist.puts("//notes:#{roll['name']}")
+          wishlist.puts("//notes:%s - %0.1f%% chance" % [roll['name'], calculate_probability(w, roll)])
           perk_ids = []
           %w(barrels magazines perks1 perks2 masterworks).each do |slot|
             perk_ids << convert_to_perk_ids(roll[slot]) unless roll[slot].empty?
