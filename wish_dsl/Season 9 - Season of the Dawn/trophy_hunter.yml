@@ -14,36 +14,30 @@ groups:
     lightgg: 
     summary: >
       More of a PvE sniper, so we aren't going to have much to lay down here for
-      a great roll. If you're hungry for a PvP Energy sniper, you want the Beloved
-      (Menagerie), Apostate (Altar of Sorrows) or Twilight Oath (Dreaming City).
-      CoolGuy: ["It's OK, nothing special."](https://www.youtube.com/watch?v=dGHNinCK3HI)
+      a great roll. If you're hungry for a PvP Energy sniper, you want the 
+      Beloved (Menagerie), Apostate (Altar of Sorrows) or Twilight Oath
+      (Dreaming City). CoolGuy: ["It's OK, nothing special."](https://www.youtube.com/watch?v=dGHNinCK3HI)
       Handling additions are appreciated because it's such a clunky weapon.
+      I toyed with not even having rolls here but it's easy to farm and only
+      here this season; why not grab a decent roll?
     rolls:
-      - &thsnipelikeapsion
-        name: (PvP) "Snipe Like a Psion!" (Ridiculously Picky)
+      - &thpsion
+        name: (PvP) "Snipe Like a Psion!" 🐲
         desc: >
           Psions use Trophy Hunter - who knew? "Pulse Monitor"?! Yeah, there's
           only four perks in the third column and it's the only one applicable
           to PvP. The is the only randomly-rolled sniper in the game with Pulse
           Monitor. Everythig else is attempting to buff the Handling so it
-          doesn't feel so sluggish.  I don't know that this makes it some kind
+          doesn't feel so sluggish. I don't know that this makes it some kind
           of S-Tier sniper but why not give it a shot? Sniping is so personal.
-        barrels: [Arrowhead Brake, Fluted Barrel]
-        magazines: [Accurized Rounds]
+        barrels: [Arrowhead Brake, Corkscrew Rifling, Fluted Barrel]
+        magazines: [Accurized Rounds, Alloy Magazine, Flared Magwell]
         perks1: [Pulse Monitor]
         perks2: [Snapshot]
         masterworks: [Handling MW]
-      - &threasonablepsion
-        <<: *thsnipelikeapsion
-        name: (PvP) "Snipe Like a Psion!" (Relaxed Barrels and Mags)
-        desc: >
-          We'll take any barrel or magazine that doesn't hurt our stats,
-          especially Handling.
-        barrels: [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling]
-        magazines: [Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell]
-      -
-        <<: *threasonablepsion
-        name: (PvP) "Snipe Like a Psion!" (Relaxed First Perk)
+      - &thnoperk
+        <<: *thpsion
+        name: (PvP) "Snipe Like a Psion!" (Relaxed Perk) 🐲
         desc: >
           Same as the above, minus `Pulse Monitor` which really is not a big
           deal in the first place :)
