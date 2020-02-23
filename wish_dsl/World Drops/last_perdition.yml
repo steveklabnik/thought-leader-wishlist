@@ -72,7 +72,7 @@ groups:
         barrels: [SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post]
         magazines: [Tactical Mag, Steady Rounds, Accurized Rounds, Drop Mag, Flared Magwell]
         perks1: [Moving Target]
-        perks2: [Zen Moment]
+        perks2: [Kill Clip, Rampage, Zen Moment]
         masterworks: [Stability MW]
       -
         <<: *lpabsurdlysticky
@@ -89,7 +89,7 @@ groups:
         barrels: [SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post]
         magazines: [Tactical Mag, Steady Rounds, Accurized Rounds, Drop Mag, Flared Magwell]
         perks1: [Firmly Planted]
-        perks2: [Kill Clip, Rampage]
+        perks2: [Kill Clip, Rampage, Zen Moment]
         masterworks: [Stability MW]
       -
         <<: *lpabsurdlyplanted
