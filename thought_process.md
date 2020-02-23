@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-23 03:30:21 +00:00`. The most recent
+created on `2020-02-23 13:18:11 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -706,70 +706,70 @@ These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=
   ```
 ## Trophy Hunter - PvP
 More of a PvE sniper, so we aren't going to have much to lay down here for a great roll. If you're hungry for a PvP Energy sniper, you want the  Beloved (Menagerie), Apostate (Altar of Sorrows) or Twilight Oath (Dreaming City). CoolGuy: ["It's OK, nothing special."](https://www.youtube.com/watch?v=dGHNinCK3HI) Handling additions are appreciated because it's such a clunky weapon. I toyed with not even having rolls here but it's easy to farm and only here this season; why not grab a decent roll?
-* **(PvP) "Snipe Like a Psion!" 🐲 (1.3% chance)**: Psions use Trophy Hunter - who knew? "Pulse Monitor"?! Yeah, there's only four perks in the third column and it's the only one applicable to PvP. The is the only randomly-rolled sniper in the game with Pulse Monitor. Everythig else is attempting to buff the Handling so it doesn't feel so sluggish. I don't know that this makes it some kind of S-Tier sniper but why not give it a shot? Sniping is so personal.
+* **(PvP) "Snipe Like a Psion!" 🐲 (0.7% chance)**: Psions use Trophy Hunter - who knew? "Pulse Monitor"?! Yeah, there's only four perks in the third column and it's the only one applicable to PvP. The is the only randomly-rolled sniper in the game with Pulse Monitor. Everythig else is attempting to buff the Handling so it doesn't feel so sluggish. I don't know that this makes it some kind of S-Tier sniper but why not give it a shot? Sniping is so personal.
   ```
   Barrels [ 58%]: Arrowhead Brake, Corkscrew Rifling, Fluted Barrel
   Mags    [ 71%]: Accurized Rounds, Alloy Magazine, Flared Magwell
   Perks 1 [ 25%]: Pulse Monitor
-  Perks 2 [ 50%]: Snapshot
+  Perks 2 [ 25%]: Snapshot
   MWorks  [ 25%]: Handling MW
   ```
-* **(PvP) "Snipe Like a Psion!" (Relaxed Perk) 🐲 (5.2% chance)**: Same as the above, minus `Pulse Monitor` which really is not a big deal in the first place :)
+* **(PvP) "Snipe Like a Psion!" (Relaxed Perk) 🐲 (2.6% chance)**: Same as the above, minus `Pulse Monitor` which really is not a big deal in the first place :)
   ```
   Barrels [ 58%]: Arrowhead Brake, Corkscrew Rifling, Fluted Barrel
   Mags    [ 71%]: Accurized Rounds, Alloy Magazine, Flared Magwell
   Perks 1 [100%]: *
-  Perks 2 [ 50%]: Snapshot
+  Perks 2 [ 25%]: Snapshot
   MWorks  [ 25%]: Handling MW
   ```
 ## Trophy Hunter - PvE
 CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/watch?v=dGHNinCK3HI) "Solo" also means "playing solo with a random group" (i.e. not coordinated). Nearly a perfect sniper for Gambit, especially paired with Malfeasance. You'll note these rolls are pretty strict, and that's because there are so few perks in the final two columns. Handling is so, so low on this sniper that I think you absolutely want the +20-25 Handling from a combo of the barrel perk and Masterwork.
-* **(PvE) "Triple Tap Your Way to Seven" (1.5% chance)**: That's a quote from CoolGuy's review :) Throw a `Backup Mag` mod on here to be able to do that.
+* **(PvE) "Triple Tap Your Way to Seven" (0.8% chance)**: That's a quote from CoolGuy's review :) Throw a `Backup Mag` mod on here to be able to do that.
   ```
   Barrels [ 91%]: Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
   Mags    [ 52%]: Appended Mag, Extended Mag
   Perks 1 [ 25%]: Triple Tap
-  Perks 2 [ 50%]: Vorpal
+  Perks 2 [ 25%]: Vorpal
   MWorks  [ 25%]: Handling MW
   ```
-* **(PvE) "Triple Tap Your Way to Seven" (Sans MW) (6.0% chance)**: Same as the above, minus the Masterwork.
+* **(PvE) "Triple Tap Your Way to Seven" (Sans MW) (3.0% chance)**: Same as the above, minus the Masterwork.
   ```
   Barrels [ 91%]: Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
   Mags    [ 52%]: Appended Mag, Extended Mag
   Perks 1 [ 25%]: Triple Tap
-  Perks 2 [ 50%]: Vorpal
+  Perks 2 [ 25%]: Vorpal
   MWorks  [100%]: *
   ```
-* **(PvE) Gambit Shieldbreaker (2.7% chance)**: Yep it works great outside of Gambit, but even better within. Pair it with Malfeasance. Shoot shields, break them and it refills the mag. Then switch to Malfeasance (Kinetic with bonus Taken damage) and MELT.
+* **(PvE) Gambit Shieldbreaker (1.4% chance)**: Yep it works great outside of Gambit, but even better within. Pair it with Malfeasance. Shoot shields, break them and it refills the mag. Then switch to Malfeasance (Kinetic with bonus Taken damage) and MELT.
   ```
   Barrels [ 91%]: Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
   Mags    [ 95%]: Appended Mag, Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell
   Perks 1 [ 25%]: Genesis
-  Perks 2 [ 50%]: Disruption Break
+  Perks 2 [ 25%]: Disruption Break
   MWorks  [ 25%]: Handling MW
   ```
-* **(PvE) Gambit Shieldbreaker (Sans MW) (10.9% chance)**: Same as the above, minus the Masterwork.
+* **(PvE) Gambit Shieldbreaker (Sans MW) (5.5% chance)**: Same as the above, minus the Masterwork.
   ```
   Barrels [ 91%]: Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
   Mags    [ 95%]: Appended Mag, Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell
   Perks 1 [ 25%]: Genesis
-  Perks 2 [ 50%]: Disruption Break
+  Perks 2 [ 25%]: Disruption Break
   MWorks  [100%]: *
   ```
-* **(PvE) Infinite Ammo (4.5% chance)**: Heavyweight modifier? Never run out of ammo. Famine modifier? That rare Heavy brick is like finding a Special brick at the same time.
+* **(PvE) Infinite Ammo (2.7% chance)**: Heavyweight modifier? Never run out of ammo. Famine modifier? That rare Heavy brick is like finding a Special brick at the same time.
   ```
   Barrels [ 91%]: Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
   Mags    [ 95%]: Appended Mag, Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell
   Perks 1 [ 25%]: Lead from Gold
-  Perks 2 [ 83%]: Vorpal, Disruption Break
+  Perks 2 [ 50%]: Vorpal, Disruption Break
   MWorks  [ 25%]: Handling MW
   ```
-* **(PvE) Infinite Ammo (Sans MW) (18.2% chance)**: Same as the above, minus the Masterwork.
+* **(PvE) Infinite Ammo (Sans MW) (10.9% chance)**: Same as the above, minus the Masterwork.
   ```
   Barrels [ 91%]: Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
   Mags    [ 95%]: Appended Mag, Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell
   Perks 1 [ 25%]: Lead from Gold
-  Perks 2 [ 83%]: Vorpal, Disruption Break
+  Perks 2 [ 50%]: Vorpal, Disruption Break
   MWorks  [100%]: *
   ```
 ## Black Scorpion-4sr - PvP
