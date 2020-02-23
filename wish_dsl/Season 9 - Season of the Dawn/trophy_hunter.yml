@@ -92,7 +92,7 @@ groups:
           with Malfeasance. Shoot shields, break them and it refills the mag. Then
           switch to Malfeasance (Kinetic with bonus Taken damage) and MELT.
         barrels: [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling]
-        magazines: [Appended Mag, Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell]
+        magazines: [Appended Mag, Tactical Mag, Extended Mag, Accurized Rounds, Alloy Magazine, Flared Magwell]
         perks1: [Genesis]
         perks2: [Disruption Break]
         masterworks: [Handling MW]
