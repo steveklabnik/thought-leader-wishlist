@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-23 01:21:19 +00:00`. The most recent
+created on `2020-02-23 03:30:21 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -954,7 +954,7 @@ For some general slaying footage, ZkMushroom loves his Last Perdition! Here he i
   Perks 2 [ 42%]: Kill Clip, Rampage, Zen Moment
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP/PvE) Absurdly Planted (Minus Masterwork) (5.3% chance)**: Same as the above, minus Masterwork requirement.
+* **(PvP) Absurdly Planted (Minus Masterwork) (5.3% chance)**: Same as the above, minus Masterwork requirement.
   ```
   Barrels [ 83%]: SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post
   Mags    [ 89%]: Tactical Mag, Steady Rounds, Accurized Rounds, Drop Mag, Flared Magwell
