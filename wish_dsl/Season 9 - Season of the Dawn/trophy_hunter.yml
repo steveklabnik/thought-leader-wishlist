@@ -28,20 +28,36 @@ groups:
           only four perks in the third column and it's the only one applicable
           to PvP. The is the only randomly-rolled sniper in the game with Pulse
           Monitor. Everythig else is attempting to buff the Handling so it
-          doesn't feel so sluggish. I don't know that this makes it some kind
-          of S-Tier sniper but why not give it a shot? Sniping is so personal.
+          doesn't feel so sluggish.
         barrels: [Arrowhead Brake, Corkscrew Rifling, Fluted Barrel]
-        magazines: [Accurized Rounds, Alloy Magazine, Flared Magwell]
+        magazines: [Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell]
         perks1: [Pulse Monitor]
         perks2: [Snapshot]
         masterworks: [Handling MW]
-      - &thnoperk
+      - &thnopulse
         <<: *thpsion
-        name: (PvP) "Snipe Like a Psion!" (Relaxed Perk) 🐲
+        name: (PvP) "Snipe Like a Psion!" (Relaxed Pulse) 🐲
         desc: >
           Same as the above, minus `Pulse Monitor` which really is not a big
-          deal in the first place :)
+          deal in the first place, but neat to have if you're burning through
+          Fractaline for these rolls.
         perks1: []
+      - &thbarrels
+        <<: *thnopulse
+        name: (PvP) "Snipe Like a Psion!" (Relaxed Barrels) 🐲
+        desc: >
+          Same as the above, with a more permissive set of barrels expanded to
+          anything that doesn't reduce Handling.
+        barrels: [Arrowhead Brake, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Smallbore, Hammer-Forged Rifling]
+      - 
+        <<: *thbarrels
+        name: (PvP) "Snipe Like a Psion!" (Relaxed Masterwork) 🐲
+        desc: >
+          Same as the above, minus the Handling MW requirement. It's one of the
+          most important ones to have here because using the Trophy Hunter is
+          like dragging your reticle through cold molasses.
+        masterworks: []
+      
   - 
     name: PvE
     summary: >
