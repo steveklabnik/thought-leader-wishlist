@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-22 19:28:38 +00:00`. The most recent
+created on `2020-02-23 01:21:19 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -930,36 +930,36 @@ For some general slaying footage, ZkMushroom loves his Last Perdition! Here he i
   Perks 2 [ 28%]: Kill Clip, Rampage
   MWorks  [100%]: *
   ```
-* **(PvP) Absurdly Sticky (0.4% chance)**: With `Moving Target` and `Zen Moment`, your weapon should only produce yellow numbers.
+* **(PvP) Absurdly Sticky (1.3% chance)**: With `Moving Target` and `Zen Moment`, your weapon should only produce yellow numbers.
   ```
   Barrels [ 83%]: SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post
   Mags    [ 89%]: Tactical Mag, Steady Rounds, Accurized Rounds, Drop Mag, Flared Magwell
   Perks 1 [ 16%]: Moving Target
-  Perks 2 [ 14%]: Zen Moment
+  Perks 2 [ 42%]: Kill Clip, Rampage, Zen Moment
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Absurdly Sticky (Minus Masterwork) (1.8% chance)**: Same as the above, minus Masterwork requirement.
+* **(PvP) Absurdly Sticky (Minus Masterwork) (5.3% chance)**: Same as the above, minus Masterwork requirement.
   ```
   Barrels [ 83%]: SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post
   Mags    [ 89%]: Tactical Mag, Steady Rounds, Accurized Rounds, Drop Mag, Flared Magwell
   Perks 1 [ 16%]: Moving Target
-  Perks 2 [ 14%]: Zen Moment
+  Perks 2 [ 42%]: Kill Clip, Rampage, Zen Moment
   MWorks  [100%]: *
   ```
-* **(PvP) Absurdly Planted (0.9% chance)**: A roll based around the criminally underrated `Firmly Planted`. This is a pure Slif roll; don't blame any one for it :) M904: "I'm really starting to appreciate Firmly Planted" - see! :)
+* **(PvP) Absurdly Planted (1.3% chance)**: A roll based around the criminally underrated `Firmly Planted`. This is a pure Slif roll; don't blame any one for it :) M904: "I'm really starting to appreciate Firmly Planted" - see! :)
   ```
   Barrels [ 83%]: SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post
   Mags    [ 89%]: Tactical Mag, Steady Rounds, Accurized Rounds, Drop Mag, Flared Magwell
   Perks 1 [ 16%]: Firmly Planted
-  Perks 2 [ 28%]: Kill Clip, Rampage
+  Perks 2 [ 42%]: Kill Clip, Rampage, Zen Moment
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP/PvE) Absurdly Planted (Minus Masterwork) (3.5% chance)**: Same as the above, minus Masterwork requirement.
+* **(PvP/PvE) Absurdly Planted (Minus Masterwork) (5.3% chance)**: Same as the above, minus Masterwork requirement.
   ```
   Barrels [ 83%]: SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post
   Mags    [ 89%]: Tactical Mag, Steady Rounds, Accurized Rounds, Drop Mag, Flared Magwell
   Perks 1 [ 16%]: Firmly Planted
-  Perks 2 [ 28%]: Kill Clip, Rampage
+  Perks 2 [ 42%]: Kill Clip, Rampage, Zen Moment
   MWorks  [100%]: *
   ```
 ## Last Perdition - PvE
