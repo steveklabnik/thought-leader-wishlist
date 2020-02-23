@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-23 13:18:11 +00:00`. The most recent
+created on `2020-02-23 13:34:21 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -706,21 +706,37 @@ These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=
   ```
 ## Trophy Hunter - PvP
 More of a PvE sniper, so we aren't going to have much to lay down here for a great roll. If you're hungry for a PvP Energy sniper, you want the  Beloved (Menagerie), Apostate (Altar of Sorrows) or Twilight Oath (Dreaming City). CoolGuy: ["It's OK, nothing special."](https://www.youtube.com/watch?v=dGHNinCK3HI) Handling additions are appreciated because it's such a clunky weapon. I toyed with not even having rolls here but it's easy to farm and only here this season; why not grab a decent roll?
-* **(PvP) "Snipe Like a Psion!" 🐲 (0.7% chance)**: Psions use Trophy Hunter - who knew? "Pulse Monitor"?! Yeah, there's only four perks in the third column and it's the only one applicable to PvP. The is the only randomly-rolled sniper in the game with Pulse Monitor. Everythig else is attempting to buff the Handling so it doesn't feel so sluggish. I don't know that this makes it some kind of S-Tier sniper but why not give it a shot? Sniping is so personal.
+* **(PvP) "Snipe Like a Psion!" 🐲 (0.8% chance)**: Psions use Trophy Hunter - who knew? "Pulse Monitor"?! Yeah, there's only four perks in the third column and it's the only one applicable to PvP. The is the only randomly-rolled sniper in the game with Pulse Monitor. Everythig else is attempting to buff the Handling so it doesn't feel so sluggish.
   ```
   Barrels [ 58%]: Arrowhead Brake, Corkscrew Rifling, Fluted Barrel
-  Mags    [ 71%]: Accurized Rounds, Alloy Magazine, Flared Magwell
+  Mags    [ 85%]: Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell
   Perks 1 [ 25%]: Pulse Monitor
   Perks 2 [ 25%]: Snapshot
   MWorks  [ 25%]: Handling MW
   ```
-* **(PvP) "Snipe Like a Psion!" (Relaxed Perk) 🐲 (2.6% chance)**: Same as the above, minus `Pulse Monitor` which really is not a big deal in the first place :)
+* **(PvP) "Snipe Like a Psion!" (Relaxed Pulse) 🐲 (3.1% chance)**: Same as the above, minus `Pulse Monitor` which really is not a big deal in the first place, but neat to have if you're burning through Fractaline for these rolls.
   ```
   Barrels [ 58%]: Arrowhead Brake, Corkscrew Rifling, Fluted Barrel
-  Mags    [ 71%]: Accurized Rounds, Alloy Magazine, Flared Magwell
+  Mags    [ 85%]: Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell
   Perks 1 [100%]: *
   Perks 2 [ 25%]: Snapshot
   MWorks  [ 25%]: Handling MW
+  ```
+* **(PvP) "Snipe Like a Psion!" (Relaxed Barrels) 🐲 (4.9% chance)**: Same as the above, with a more permissive set of barrels expanded to anything that doesn't reduce Handling.
+  ```
+  Barrels [ 91%]: Arrowhead Brake, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
+  Mags    [ 85%]: Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Snapshot
+  MWorks  [ 25%]: Handling MW
+  ```
+* **(PvP) "Snipe Like a Psion!" (Relaxed Masterwork) 🐲 (19.6% chance)**: Same as the above, minus the Handling MW requirement. It's one of the most important ones to have here because using the Trophy Hunter is like dragging your reticle through cold molasses.
+  ```
+  Barrels [ 91%]: Arrowhead Brake, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
+  Mags    [ 85%]: Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Snapshot
+  MWorks  [100%]: *
   ```
 ## Trophy Hunter - PvE
 CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/watch?v=dGHNinCK3HI) "Solo" also means "playing solo with a random group" (i.e. not coordinated). Nearly a perfect sniper for Gambit, especially paired with Malfeasance. You'll note these rolls are pretty strict, and that's because there are so few perks in the final two columns. Handling is so, so low on this sniper that I think you absolutely want the +20-25 Handling from a combo of the barrel perk and Masterwork.
