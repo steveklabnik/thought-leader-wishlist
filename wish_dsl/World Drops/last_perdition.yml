@@ -93,7 +93,7 @@ groups:
         masterworks: [Stability MW]
       -
         <<: *lpabsurdlyplanted
-        name: (PvP/PvE) Absurdly Planted (Minus Masterwork)
+        name: (PvP) Absurdly Planted (Minus Masterwork)
         desc: >
           Same as the above, minus Masterwork requirement.
         masterworks: []
