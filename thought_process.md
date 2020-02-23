@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-23 13:34:21 +00:00`. The most recent
+created on `2020-02-23 13:47:00 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -759,15 +759,15 @@ CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/w
 * **(PvE) Gambit Shieldbreaker (1.4% chance)**: Yep it works great outside of Gambit, but even better within. Pair it with Malfeasance. Shoot shields, break them and it refills the mag. Then switch to Malfeasance (Kinetic with bonus Taken damage) and MELT.
   ```
   Barrels [ 91%]: Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
-  Mags    [ 95%]: Appended Mag, Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell
+  Mags    [100%]: *
   Perks 1 [ 25%]: Genesis
   Perks 2 [ 25%]: Disruption Break
   MWorks  [ 25%]: Handling MW
   ```
-* **(PvE) Gambit Shieldbreaker (Sans MW) (5.5% chance)**: Same as the above, minus the Masterwork.
+* **(PvE) Gambit Shieldbreaker (Sans MW) (5.7% chance)**: Same as the above, minus the Masterwork.
   ```
   Barrels [ 91%]: Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
-  Mags    [ 95%]: Appended Mag, Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell
+  Mags    [100%]: *
   Perks 1 [ 25%]: Genesis
   Perks 2 [ 25%]: Disruption Break
   MWorks  [100%]: *
