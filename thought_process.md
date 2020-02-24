@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-24 03:19:26 +00:00`. The most recent
+created on `2020-02-24 03:47:58 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -797,7 +797,7 @@ CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/w
 * No Outlaw? NOPE. The reload is already plenty fast and there's no DPS perk to play off of in column three. It's not bad, it's just not make-or-break.
 
 Check out [ZkMushroom](https://www.youtube.com/watch?v=tdnJWuiUF2k) and [nKuch](https://www.youtube.com/watch?v=Vc87SDsCrIQ) to see the Black Scorpion in action. I was surprised to hear how much Mercules904 digs the Black Scorpion (it's the weapon he used to get Randy's).
-* **(PvP) Absurdly Picky, "Massive Breakdown" Edition (0.1% chance)**: Let's call this the "Massive Breakdown Podcast" roll, since listening to the podcast linked above informed its creation. All Stability, all day, with better Aim Assistance and mobility from `Moving Target`. Because of the quantity of perks in the final two columns, your chance of this roll is... slim.
+* **(PvP) "Massive Breakdown" Collector's Edition (0.1% chance)**: Let's call this the "Massive Breakdown Podcast" roll, since listening to the podcast linked above informed its creation. All Stability, all day, with better Aim Assistance and mobility from `Moving Target`. Because of the quantity of perks in the final two columns, your chance of this roll is... slim.
   ```
   Barrels [ 22%]: Chambered Compensator
   Mags    [ 25%]: Steady Rounds
@@ -805,7 +805,31 @@ Check out [ZkMushroom](https://www.youtube.com/watch?v=tdnJWuiUF2k) and [nKuch](
   Perks 2 [ 14%]: Rampage
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Super Picky (0.5% chance)**: Same as the above but now we'll accept any barrel or magazine that increases Stability. An absolutely phenomenal roll.
+* **(PvP) "Massive Breakdown" CE (No Rampage) (0.4% chance)**: Without Rampage we are still absolutely amazing
+  ```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 28%]: Moving Target, Zen Moment
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Massive Breakdown" CE (No Rampage or Masterwork) (1.6% chance)**: Without Rampage we are still absolutely amazing
+  ```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 28%]: Moving Target, Zen Moment
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Massive Breakdown" CE (Relaxed Barrels) (0.2% chance)**: Any barrel that bumps Stability would still be an absolutely phenomenal roll here.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 28%]: Moving Target, Zen Moment
+  Perks 2 [ 14%]: Rampage
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Massive Breakdown" CE (Relaxed Magazines) (0.5% chance)**: Same as the above, now with any magazine that improves Stability.
   ```
   Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
   Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
@@ -813,21 +837,29 @@ Check out [ZkMushroom](https://www.youtube.com/watch?v=tdnJWuiUF2k) and [nKuch](
   Perks 2 [ 14%]: Rampage
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Super Picky (Minus Masterwork) (2.2% chance)**: Same as the above but we'll take any Masterwork.
+* **(PvP) "Massive Breakdown" CE (Relaxed Fourth Column) (1.1% chance)**: Same as the above, with additional solid perks in the last column.
   ```
   Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
   Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
   Perks 1 [ 28%]: Moving Target, Zen Moment
-  Perks 2 [ 14%]: Rampage
-  MWorks  [100%]: *
+  Perks 2 [ 28%]: Opening Shot, Snapshot
+  MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Super Picky (Minus Rampage) (3.8% chance)**: Without Rampage, this is still a phenomenal roll.
+* **(PvP) "Massive Breakdown" CE (No Fourth Column) (3.8% chance)**: If we don't get anything good in the fourth column, we're still doing absolutely amazing!
   ```
   Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
   Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
   Perks 1 [ 28%]: Moving Target, Zen Moment
   Perks 2 [100%]: *
   MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Massive Breakdown" CE (No Masterwork) (15.3% chance)**: Same as the above, minus the Stability masterwork. So long as you're getting Stability from the Barrel and Magazine, you've still got a competitive roll.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
+  Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
+  Perks 1 [ 28%]: Moving Target, Zen Moment
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
   ```
 ## Bygones - PvP
 You don't actually need all that much for a "great" Bygones roll because, well, it's just a solid weapon at its baseline. Throw on a Counterbalance mod to bring the recoil to `84` and you're golden. You can see [Fallout's video](https://www.youtube.com/watch?v=atkJYoL6E1U) for reference. Why Bygones? It's the only 390 RPM kinetic Pulse Rifle and the only other randomly rolled one apart from Last Perdition and the raid pulses. If this archetype gets buffed, it will be nice to have one in your vault! Here's what's forming the foundation of these rolls: (1) Strongly consider using a single +10 Recoil barrel perk and a Counterbalance mod (+15) to get the Recoil to 94 which is basically straight up and down. Arrowhead Brake will let us do this without a mod but you're sacrificing the stability and range benefits of those other barrels (2) Handling is solid, among the highest of pulse rifles, so we're not too concerned about raising this (3) With [recent findings](https://www.youtube.com/watch?v=atkJYoL6E1U) that Slideshot activates for two seconds (some of which you lose while the slide completes), I'm tossing it out for a great roll here. With a long-range, precision weapon like a pulse rifle, you're going to maybe get one burst off before Slideshot dissipates. If you want to see a Stability-focused roll do work, check out [ZkMushroom](https://www.youtube.com/watch?v=VXmwYjWW4TE). He's using Corkscrew + Ricochet + Stability MW. I am requiring Kill Clip because I don't believe the raw kill potential with no upside for stringing makes this worth keeping. There are far too many other primaries with great follow-up perks like MKC and Swashbuckler kicking around nowadays.
