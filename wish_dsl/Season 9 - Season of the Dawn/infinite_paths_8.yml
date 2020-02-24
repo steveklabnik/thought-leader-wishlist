@@ -20,13 +20,14 @@ groups:
       currently competitive. Given that they used to be the best frames in D1
       (remember Hawksaw?), file one away for a future date.
 
-      "On console, Zen Moment and Eye of the Storm are great but you're going to get more utility from Zen Moment."
     rolls:
       - &ipmiddle
         name: (PvP) "CoolGuy's Middle Child" Collector's Edition
         desc: >
           In the video above, CoolGuy makes a strong case for some buffs to this
-          "middle" archetype of Pulse Rifle.
+          "middle" archetype of Pulse Rifle. "On console, Zen Moment and Eye of
+          the Storm are great but you're going to get more utility from Zen
+          Moment." We'll add EotS in later as a fallback.
         barrels: [Chambered Compensator]
         magazines: [Accurized Rounds]
         perks1: [Moving Target]
@@ -39,6 +40,13 @@ groups:
           We have so much Stability and accuracy from other perks, this is a
           terrific roll even without it.
         masterworks: []
+      -
+        <<: *ipmiddle
+        name: (PvP) "Middle Child" CE (No Zen)
+        desc: >
+          We have so much Stability and accuracy from other perks, this is a
+          terrific roll even without it.
+        perks2: []
       - &ipbarrels
         <<: *ipmiddle
         name: (PvP) "Middle Child" CE (Relaxed Barrels)
@@ -51,6 +59,13 @@ groups:
         desc: >
           Same as the above with any Range or Stability-enhancing magazine.
         magazines: [Accurized Rounds, Tactical Mag, Steady Rounds, Flared Magwell]
+      -
+        <<: *ipmags
+        name: (PvP) "Middle Child" CE (Relaxed Zen)
+        desc: >
+          We have so much Stability and accuracy from other perks, this is a
+          terrific roll even without it.
+        perks2: []
       -
         <<: *ipmags
         name: (PvP) "Middle Child" CE (Relaxed Masterwork)
