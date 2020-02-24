@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-24 05:11:29 +00:00`. The most recent
+created on `2020-02-24 05:20:02 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -275,8 +275,7 @@ CoolGuy has a [terrific PvE review](https://www.youtube.com/watch?v=q6BPg-W8z9g)
   ```
 ## Infinite Paths 8 - PvP
 CoolGuy reviews IP8 for both PvP and PvE, which is where these rolls originate. He discusses the State of the Union with respect to these frames [timestamped here](https://www.youtube.com/watch?v=-ZnUT63RgnE&t=1023) and it makes for super interesting listening. TL;DR - Of all the Pulse Rifle frames, the lightweights require you to be the most precise yet reward you with the second slowest TTK. They're the only ones he feels are not currently competitive. Given that they used to be the best frames in D1 (remember Hawksaw?), file one away for a future date.
-"On console, Zen Moment and Eye of the Storm are great but you're going to get more utility from Zen Moment."
-* **(PvP) "CoolGuy's Middle Child" Collector's Edition (0.0% chance)**: In the video above, CoolGuy makes a strong case for some buffs to this "middle" archetype of Pulse Rifle.
+* **(PvP) "CoolGuy's Middle Child" Collector's Edition (0.0% chance)**: In the video above, CoolGuy makes a strong case for some buffs to this "middle" archetype of Pulse Rifle. "On console, Zen Moment and Eye of the Storm are great but you're going to get more utility from Zen Moment." We'll add EotS in later as a fallback.
   ```
   Barrels [ 22%]: Chambered Compensator
   Mags    [ 25%]: Accurized Rounds
@@ -292,6 +291,14 @@ CoolGuy reviews IP8 for both PvP and PvE, which is where these rolls originate. 
   Perks 2 [ 16%]: Zen Moment
   MWorks  [100%]: *
   ```
+* **(PvP) "Middle Child" CE (No Zen) (0.2% chance)**: We have so much Stability and accuracy from other perks, this is a terrific roll even without it.
+  ```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 16%]: Moving Target
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
 * **(PvP) "Middle Child" CE (Relaxed Barrels) (0.1% chance)**: Same as the above with all Stability-enhancing barrels
   ```
   Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
@@ -306,6 +313,14 @@ CoolGuy reviews IP8 for both PvP and PvE, which is where these rolls originate. 
   Mags    [ 78%]: Accurized Rounds, Tactical Mag, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Moving Target
   Perks 2 [ 16%]: Zen Moment
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Middle Child" CE (Relaxed Zen) (2.7% chance)**: We have so much Stability and accuracy from other perks, this is a terrific roll even without it.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
+  Mags    [ 78%]: Accurized Rounds, Tactical Mag, Steady Rounds, Flared Magwell
+  Perks 1 [ 16%]: Moving Target
+  Perks 2 [100%]: *
   MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) "Middle Child" CE (Relaxed Masterwork) (1.8% chance)**: Another +10 Stability from the Masterwork would be terrific but if we get everything else, we're still in good shape.
