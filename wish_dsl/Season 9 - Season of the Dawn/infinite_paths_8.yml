@@ -32,6 +32,13 @@ groups:
         perks1: [Moving Target]
         perks2: [Zen Moment]
         masterworks: [Stability MW]
+      -
+        <<: *ipmiddle
+        name: (PvP) "Middle Child" CE (No Masterwork)
+        desc: >
+          We have so much Stability and accuracy from other perks, this is a
+          terrific roll even without it.
+        masterworks: []
       - &ipbarrels
         <<: *ipmiddle
         name: (PvP) "Middle Child" CE (Relaxed Barrels)
