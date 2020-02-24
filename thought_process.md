@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-24 04:56:05 +00:00`. The most recent
+created on `2020-02-24 05:11:29 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -283,6 +283,14 @@ CoolGuy reviews IP8 for both PvP and PvE, which is where these rolls originate. 
   Perks 1 [ 16%]: Moving Target
   Perks 2 [ 16%]: Zen Moment
   MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Middle Child" CE (No Masterwork) (0.2% chance)**: We have so much Stability and accuracy from other perks, this is a terrific roll even without it.
+  ```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 16%]: Moving Target
+  Perks 2 [ 16%]: Zen Moment
+  MWorks  [100%]: *
   ```
 * **(PvP) "Middle Child" CE (Relaxed Barrels) (0.1% chance)**: Same as the above with all Stability-enhancing barrels
   ```
