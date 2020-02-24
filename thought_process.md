@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-24 03:47:58 +00:00`. The most recent
+created on `2020-02-24 04:56:05 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -274,8 +274,9 @@ CoolGuy has a [terrific PvE review](https://www.youtube.com/watch?v=q6BPg-W8z9g)
   MWorks  [100%]: *
   ```
 ## Infinite Paths 8 - PvP
-CoolGuy reviews IP8 for both PvP and PvE, which is where these rolls originate. He discusses the State of the Union with respect to these frames [timestamped here](https://www.youtube.com/watch?v=-ZnUT63RgnE&feature=youtu.be&t=1023) and it makes for super interesting listening. TL;DR - Of all the Pulse Rifle frames, the lightweights require you to be the most precise yet reward you with the second slowest TTK.
-* **(PvP) Picky (0.0% chance)**: This roll focuses on addressing recoil and stability. Because it needs so much help, there isn't much room left for neat damage perks :)
+CoolGuy reviews IP8 for both PvP and PvE, which is where these rolls originate. He discusses the State of the Union with respect to these frames [timestamped here](https://www.youtube.com/watch?v=-ZnUT63RgnE&t=1023) and it makes for super interesting listening. TL;DR - Of all the Pulse Rifle frames, the lightweights require you to be the most precise yet reward you with the second slowest TTK. They're the only ones he feels are not currently competitive. Given that they used to be the best frames in D1 (remember Hawksaw?), file one away for a future date.
+"On console, Zen Moment and Eye of the Storm are great but you're going to get more utility from Zen Moment."
+* **(PvP) "CoolGuy's Middle Child" Collector's Edition (0.0% chance)**: In the video above, CoolGuy makes a strong case for some buffs to this "middle" archetype of Pulse Rifle.
   ```
   Barrels [ 22%]: Chambered Compensator
   Mags    [ 25%]: Accurized Rounds
@@ -283,28 +284,62 @@ CoolGuy reviews IP8 for both PvP and PvE, which is where these rolls originate. 
   Perks 2 [ 16%]: Zen Moment
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Long-Distance Melee'r (0.0% chance)**: Useful for those subclasses with ranged melees. This is a fringe roll, one that I wouldn't throw away but not one that I'm racing to collect.
+* **(PvP) "Middle Child" CE (Relaxed Barrels) (0.1% chance)**: Same as the above with all Stability-enhancing barrels
   ```
-  Barrels [ 22%]: Chambered Compensator
+  Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
   Mags    [ 25%]: Accurized Rounds
   Perks 1 [ 16%]: Moving Target
-  Perks 2 [ 16%]: Swashbuckler
+  Perks 2 [ 16%]: Zen Moment
   MWorks  [ 25%]: Stability MW
   ```
+* **(PvP) "Middle Child" CE (Relaxed Magazines) (0.5% chance)**: Same as the above with any Range or Stability-enhancing magazine.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
+  Mags    [ 78%]: Accurized Rounds, Tactical Mag, Steady Rounds, Flared Magwell
+  Perks 1 [ 16%]: Moving Target
+  Perks 2 [ 16%]: Zen Moment
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Middle Child" CE (Relaxed Masterwork) (1.8% chance)**: Another +10 Stability from the Masterwork would be terrific but if we get everything else, we're still in good shape.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
+  Mags    [ 78%]: Accurized Rounds, Tactical Mag, Steady Rounds, Flared Magwell
+  Perks 1 [ 16%]: Moving Target
+  Perks 2 [ 16%]: Zen Moment
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Middle Child" CE (Hurricane) (0.9% chance)**: EotS is our second choice; perhaps a bit less helpful than Zen, but still a beast.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
+  Mags    [ 78%]: Accurized Rounds, Tactical Mag, Steady Rounds, Flared Magwell
+  Perks 1 [ 16%]: Moving Target
+  Perks 2 [ 33%]: Zen Moment, Eye of the Storm
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Middle Child" CE (Relaxed Masterwork) (3.6% chance)**: Sans Masterwork, still an interesting roll.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore
+  Mags    [ 78%]: Accurized Rounds, Tactical Mag, Steady Rounds, Flared Magwell
+  Perks 1 [ 16%]: Moving Target
+  Perks 2 [ 33%]: Zen Moment, Eye of the Storm
+  MWorks  [100%]: *
+  ```
 ## Infinite Paths 8 - PvE
-Here we're featuring a few rolls from the CoolGuy [video](https://www.youtube.com/watch?v=-ZnUT63RgnE) mentioned above. I would put these pretty low on my list but if you're a fan of the aesthetic of the Osiris weapons, why not grab a few of these while they're still available?
-* **(PvE) Explosive Dragon (2.8% chance)**: This is the only weapon in the game that has this perk combo available! Each enemy that dies to Dragonfly (don't forget Dragonfly Spec!) will count as an additional kill for Demolitionist. It does work. Probably not your best Energy weapon but a fun one for shredding red bars. I would collect it and store it.
+Here we're featuring a few rolls from the CoolGuy [video](https://www.youtube.com/watch?v=-ZnUT63RgnE) mentioned above. I would put these pretty low on my list but if you're a fan of the aesthetic of the Osiris weapons, why not grab a few of these while they're still available? "It performs as expected. Great for mid- and low-tier adds. It does really well."
+
+These rolls are just north of 2% because of the number of perks in the final two columns `(0.16 * 0.16 = 0.02)`, and the fact that they don't benefit from the Season 9 Rank 92 bonus of an additional perk in the final column.
+* **(PvE) Explosive Dragon 🐉 (2.2% chance)**: This is the one of the few weapons in the game that can roll with Demolitionist + Dragonfly. Each enemy that dies to Dragonfly (don't forget Dragonfly Spec!) will count as an additional kill for Demolitionist.
   ```
   Barrels [100%]: *
-  Mags    [100%]: *
+  Mags    [ 78%]: Tactical Mag, Appended Mag, Drop Mag, Alloy Magazine
   Perks 1 [ 16%]: Demolitionist
   Perks 2 [ 16%]: Dragonfly
   MWorks  [100%]: *
   ```
-* **(PvE) Punchy 👊 (2.8% chance)**: Classic punching. Not sure why you'd be punching enemies with your Pulse Rifle equipped but I'm not the boss of you. 👊PUNCH AWAY!👊
+* **(PvE) Punchy 👊 (2.2% chance)**: Classic punching. Not sure why you'd be punching enemies with your Pulse Rifle equipped but I'm not the boss of you. 👊PUNCH AWAY!👊
   ```
   Barrels [100%]: *
-  Mags    [100%]: *
+  Mags    [ 78%]: Tactical Mag, Appended Mag, Drop Mag, Alloy Magazine
   Perks 1 [ 16%]: Grave Robber
   Perks 2 [ 16%]: Swashbuckler
   MWorks  [100%]: *
