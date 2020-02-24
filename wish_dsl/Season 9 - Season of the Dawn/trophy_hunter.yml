@@ -10,8 +10,6 @@ slots:
 groups:  
   - 
     name: PvP
-    item_id: 
-    lightgg: 
     summary: >
       More of a PvE sniper, so we aren't going to have much to lay down here for
       a great roll. If you're hungry for a PvP Energy sniper, you want the 
