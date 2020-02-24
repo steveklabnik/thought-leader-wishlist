@@ -12,9 +12,9 @@ TRAITS = [
 ]
 
 desc "Format notes from our roll data"
-task :generate_thoughts do
+task :generate_thoughts, [:environment] do |t, args|
 
-  File.open('thought_process.md', 'w') do |thoughts|
+  File.open(thoughts_filename(args.environment), 'w') do |thoughts|
     thoughts.puts <<-PREAMBLE
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was

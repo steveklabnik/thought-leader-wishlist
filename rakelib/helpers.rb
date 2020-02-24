@@ -1,3 +1,13 @@
+def wishlist_filename(environment)
+  return 'wishlist.dev.txt' if (environment == 'development')
+  'wishlist.txt'
+end
+
+def thoughts_filename(environment)
+  return 'thought_process.dev.md' if (environment == 'development')
+  'thought_process.md'
+end
+
 def factorial(n)
   return 1 if n == 0
   (1..n).inject(:*)

@@ -6,13 +6,13 @@ require_relative 'helpers'
 
 PERK_MAP = YAML.load_file('perk_ids.yml')
 
-task :generate_wishlist do
+task :generate_wishlist, [:environment] do |t, args|
   weapons = []
   Dir['wish_dsl/**/*.yml'].sort.each do |roll_file|
     weapons << YAML.load_file(roll_file)
   end
   
-  File.open('wishlist.txt', 'w') do |wishlist|
+  File.open(wishlist_filename(args.environment), 'w') do |wishlist|
     wishlist.puts("title: SlifSF's Sliflist")
     wishlist.puts("description: https://github.com/rslifka/wishlist; generated: #{DateTime.now.strftime("%Y-%m-%d %H:%M:%S %:z")}")
 
