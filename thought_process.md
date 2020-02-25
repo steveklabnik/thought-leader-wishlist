@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-24 05:20:02 +00:00`. The most recent
+created on `2020-02-25 02:40:59 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -27,7 +27,7 @@ I'm of the opinion it's not worth chasing ツ
 * Gallant Charge ([PvP](#gallant-charge---pvp), [PvE](#gallant-charge---pve))
 * Infinite Paths 8 ([PvP](#infinite-paths-8---pvp), [PvE](#infinite-paths-8---pve))
 * Jack Queen King 3 ([PvP](#jack-queen-king-3---pvp), [PvE](#jack-queen-king-3---pve))
-* Line in the Sand ([PvE](#line-in-the-sand---pve))
+* Line in the Sand ([PvP](#line-in-the-sand---pvp), [PvE](#line-in-the-sand---pve))
 * Martyr's Retribution ([PvP](#martyrs-retribution---pvp), [PvE](#martyrs-retribution---pve))
 * Patron of Lost Causes ([PvP / PvE](#patron-of-lost-causes---pvp--pve), [PvE](#patron-of-lost-causes---pve))
 * Perfect Paradox ([PvE](#perfect-paradox---pve))
@@ -459,22 +459,136 @@ This is going to blow your mind... but JQK3 and Waking Vigil (via Dreaming City)
   Perks 2 [ 33%]: Rampage, Swashbuckler
   MWorks  [100%]: *
   ```
+## Line in the Sand - PvP
+Ages ago, Fallout put out a [Crooked Fang God Roll video](https://www.youtube.com/watch?v=TB-s1IYDpeQ) and lo' and behold, Line in the Sand is basically an Arc Crooked Fang! So let's get to taking their command out one by... We can rely on that review for some solid tips. Is it a PvP workhorse? Nah but fun is fun so if you like LFRs, go nuts.
+* **(PvP) Fallout's Arc Fang Collector's Edition (0.2% chance)**: "The" God Roll from Fallout's video above.
+  ```
+  Barrels [ 41%]: Hammer-Forged Rifling, Full Bore
+  Mags    [ 33%]: Accelerated Coils
+  Perks 1 [ 16%]: Moving Target
+  Perks 2 [ 33%]: Backup Plan
+  MWorks  [ 20%]: Charge MW
+  ```
+* **(PvP) Arc Fang CE (Relaxed Masterwork) (0.8% chance)**: Any barrel that helps Range will do
+  ```
+  Barrels [ 41%]: Hammer-Forged Rifling, Full Bore
+  Mags    [ 33%]: Accelerated Coils
+  Perks 1 [ 16%]: Moving Target
+  Perks 2 [ 33%]: Backup Plan
+  MWorks  [100%]: *
+  ```
+* **(PvP) Arc Fang CE (Relaxed Barrels) (0.3% chance)**: Any barrel that helps Range will do
+  ```
+  Barrels [ 72%]: Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Full Bore
+  Mags    [ 33%]: Accelerated Coils
+  Perks 1 [ 16%]: Moving Target
+  Perks 2 [ 33%]: Backup Plan
+  MWorks  [ 20%]: Charge MW
+  ```
+* **(PvP) Arc Fang CE (Relaxed Masterwork) (1.3% chance)**: Same as above, minus Masterworks.
+  ```
+  Barrels [ 72%]: Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Full Bore
+  Mags    [ 33%]: Accelerated Coils
+  Perks 1 [ 16%]: Moving Target
+  Perks 2 [ 33%]: Backup Plan
+  MWorks  [100%]: *
+  ```
+* **(PvP) Arc Fang CE (Relaxed Magazines) (0.5% chance)**: Adding Projection Fuse
+  ```
+  Barrels [ 72%]: Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Full Bore
+  Mags    [ 60%]: Accelerated Coils, Projection Fuse
+  Perks 1 [ 16%]: Moving Target
+  Perks 2 [ 33%]: Backup Plan
+  MWorks  [ 20%]: Charge MW
+  ```
+* **(PvP) Arc Fang CE (Relaxed Masterwork) (2.4% chance)**: Same as above, minus Masterworks.
+  ```
+  Barrels [ 72%]: Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Full Bore
+  Mags    [ 60%]: Accelerated Coils, Projection Fuse
+  Perks 1 [ 16%]: Moving Target
+  Perks 2 [ 33%]: Backup Plan
+  MWorks  [100%]: *
+  ```
+* **(PvP) Arc Fang CE (Relaxed First Perks) (0.5% chance)**: Adding Snapshot
+  ```
+  Barrels [ 72%]: Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Full Bore
+  Mags    [ 33%]: Accelerated Coils
+  Perks 1 [ 33%]: Moving Target, Snapshot
+  Perks 2 [ 33%]: Backup Plan
+  MWorks  [ 20%]: Charge MW
+  ```
+* **(PvP) Arc Fang CE (Relaxed Second Perks) (1.0% chance)**: Adding Rangefinder
+  ```
+  Barrels [ 72%]: Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Full Bore
+  Mags    [ 33%]: Accelerated Coils
+  Perks 1 [ 33%]: Moving Target, Snapshot
+  Perks 2 [ 60%]: Rangefinder, Backup Plan
+  MWorks  [ 20%]: Charge MW
+  ```
+* **(PvP) Arc Fang CE (Relaxed Masterworks) (4.8% chance)**: Relaxing Masterwork requirement
+  ```
+  Barrels [ 72%]: Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Full Bore
+  Mags    [ 33%]: Accelerated Coils
+  Perks 1 [ 33%]: Moving Target, Snapshot
+  Perks 2 [ 60%]: Rangefinder, Backup Plan
+  MWorks  [100%]: *
+  ```
 ## Line in the Sand - PvE
 Datto posted some in-depth comparisons between LitS and other DPS weapons [earlier in Season 9](https://www.youtube.com/watch?v=ltzDK0NWMgM). As we approach the final third of Season 9, it's still not a great DPS choice, but it "can compete with the likes of Sole Survivor" but who knows what will happen in the future? Since it's so easy to farm and S92 gives you an extra perk in the final slot, why not hang on to these?
-* **(PvE) Super Picky (0.4% chance)**: The full suite of perks to maximize DPS with LitS.
+* **(PvE) Super Picky DPS (0.3% chance)**: The full suite of perks to maximize DPS on a big ol' target. We're looking for some Stability-enhancing barrels as well.
   ```
-  Barrels [100%]: *
+  Barrels [ 83%]: Fluted Barrel, Corkscrew Rifling, Smallbore, Chambered Compensator, Polygonal Rifling
   Mags    [ 33%]: Accelerated Coils
   Perks 1 [ 16%]: Rapid Hit
   Perks 2 [ 33%]: Firing Line
   MWorks  [ 20%]: Charge MW
   ```
-* **(PvE) Baseline (5.6% chance)**: Really, any roll with these two perks is Good Enough(tm).
+* **(PvE) Super Picky DPS (Relaxed Masterwork) (1.5% chance)**: Same as the above, minus masterworks.
   ```
-  Barrels [100%]: *
+  Barrels [ 83%]: Fluted Barrel, Corkscrew Rifling, Smallbore, Chambered Compensator, Polygonal Rifling
+  Mags    [ 33%]: Accelerated Coils
+  Perks 1 [ 16%]: Rapid Hit
+  Perks 2 [ 33%]: Firing Line
+  MWorks  [100%]: *
+  ```
+* **(PvE) Super Picky DPS (Relaxed Mags) (0.7% chance)**: Same as the above, with more Magazines.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Corkscrew Rifling, Smallbore, Chambered Compensator, Polygonal Rifling
+  Mags    [ 80%]: Accelerated Coils, Particle Repeater, Projection Fuse
+  Perks 1 [ 16%]: Rapid Hit
+  Perks 2 [ 33%]: Firing Line
+  MWorks  [ 20%]: Charge MW
+  ```
+* **(PvE) Super Picky DPS (Relaxed Mags and Masterwork) (3.7% chance)**: Same as the above, minus masterworks.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Corkscrew Rifling, Smallbore, Chambered Compensator, Polygonal Rifling
+  Mags    [ 80%]: Accelerated Coils, Particle Repeater, Projection Fuse
+  Perks 1 [ 16%]: Rapid Hit
+  Perks 2 [ 33%]: Firing Line
+  MWorks  [100%]: *
+  ```
+* **(PvE) Baseline / Future-Proofing (4.6% chance)**: Really, any roll with these two perks is Good Enough(tm).
+  ```
+  Barrels [ 83%]: Fluted Barrel, Corkscrew Rifling, Smallbore, Chambered Compensator, Polygonal Rifling
   Mags    [100%]: *
   Perks 1 [ 16%]: Rapid Hit
   Perks 2 [ 33%]: Firing Line
+  MWorks  [100%]: *
+  ```
+* **(PvE) Arc Bug Zapper 🐞 (3.0% chance)**: General purpose PvE roll, taking advantage of the only damage perk on offer. We're looking for Stability wherever we can find it.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Corkscrew Rifling, Smallbore, Chambered Compensator, Polygonal Rifling
+  Mags    [ 80%]: Enhanced Battery, Ionized Battery, Particle Repeater
+  Perks 1 [ 16%]: Rapid Hit
+  Perks 2 [ 33%]: Rampage
+  MWorks  [ 80%]: Handling MW, Reload MW, Range MW, Stability MW
+  ```
+* **(PvE) Arc Bug Zapper 🐞(Relaxed Masterwork) (3.7% chance)**: Same as the above, minus masterworks.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Corkscrew Rifling, Smallbore, Chambered Compensator, Polygonal Rifling
+  Mags    [ 80%]: Enhanced Battery, Ionized Battery, Particle Repeater
+  Perks 1 [ 16%]: Rapid Hit
+  Perks 2 [ 33%]: Rampage
   MWorks  [100%]: *
   ```
 ## Martyr's Retribution - PvP
