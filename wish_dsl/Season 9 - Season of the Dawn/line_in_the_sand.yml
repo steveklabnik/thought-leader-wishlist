@@ -23,15 +23,21 @@ groups:
         desc: >
           "The" God Roll from Fallout's video above.
         barrels: [Hammer-Forged Rifling, Full Bore]
-        magazines: [Accelerated Coils]
+        magazines: [Accelerated Coils, Projection Fuse]
         perks1: [Moving Target]
-        perks2: [Backup Plan]
+        perks2: [Backup Plan, Rangefinder]
         masterworks: [Charge MW]
-      - &lpbarrels
+      - 
+        <<: *lpvppicky
+        name: (PvP) Arc Fang CE (Relaxed Magazines)
+        desc: >
+          Without Accelerated Coils, still amazing.
+        magazines: []
+      - 
         <<: *lpvppicky
         name: (PvP) Arc Fang CE (Relaxed Masterwork)
         desc: >
-          Any barrel that helps Range will do
+          Without Charge Time, it's still amazing.
         masterworks: []
       - &lpbarrels
         <<: *lpvppicky
@@ -41,39 +47,15 @@ groups:
         barrels: [Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Full Bore]
       - 
         <<: *lpbarrels
-        name: (PvP) Arc Fang CE (Relaxed Masterwork)
-        desc: >
-          Same as above, minus Masterworks.
-        masterworks: []
-      - &lpfusey
-        <<: *lpbarrels
         name: (PvP) Arc Fang CE (Relaxed Magazines)
         desc: >
-          Adding Projection Fuse
-        magazines: [Accelerated Coils, Projection Fuse]
+          Without Accelerated Coils, still amazing.
+        magazines: []
       - 
-        <<: *lpfusey
+        <<: *lpbarrels
         name: (PvP) Arc Fang CE (Relaxed Masterwork)
         desc: >
-          Same as above, minus Masterworks.
-        masterworks: []
-      - &lpfirst
-        <<: *lpbarrels
-        name: (PvP) Arc Fang CE (Relaxed First Perks)
-        desc: >
-          Adding Snapshot
-        perks1: [Moving Target, Snapshot]
-      - &lpsecond
-        <<: *lpfirst
-        name: (PvP) Arc Fang CE (Relaxed Second Perks)
-        desc: >
-          Adding Rangefinder
-        perks2: [Rangefinder, Backup Plan]
-      - 
-        <<: *lpsecond
-        name: (PvP) Arc Fang CE (Relaxed Masterworks)
-        desc: >
-          Relaxing Masterwork requirement
+          Without Charge Time, it's still amazing.
         masterworks: []
   - 
     name: PvE
