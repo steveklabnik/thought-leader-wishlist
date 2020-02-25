@@ -7,7 +7,74 @@ slots:
   perks1:      {t: 6, c: 1}
   perks2:      {t: 6, c: 2}
   masterworks: {t: 5, c: 1}
-groups:  
+groups:
+  - 
+    name: PvP
+    summary: >
+      Ages ago, Fallout put out a
+      [Crooked Fang God Roll video](https://www.youtube.com/watch?v=TB-s1IYDpeQ)
+      and lo' and behold, Line in the Sand is basically an Arc Crooked Fang! So
+      let's get to taking their command out one by... We can rely on that review
+      for some solid tips. Is it a PvP workhorse? Nah but fun is fun so if you
+      like LFRs, go nuts.
+    rolls:
+      - &lpvppicky
+        name: (PvP) Fallout's Arc Fang Collector's Edition
+        desc: >
+          "The" God Roll from Fallout's video above.
+        barrels: [Hammer-Forged Rifling, Full Bore]
+        magazines: [Accelerated Coils]
+        perks1: [Moving Target]
+        perks2: [Backup Plan]
+        masterworks: [Charge Time MW]
+      - &lpbarrels
+        <<: *lpvppicky
+        name: (PvP) Arc Fang CE (Relaxed Masterwork)
+        desc: >
+          Any barrel that helps Range will do
+        masterworks: []
+      - &lpbarrels
+        <<: *lpvppicky
+        name: (PvP) Arc Fang CE (Relaxed Barrels)
+        desc: >
+          Any barrel that helps Range will do
+        barrels: [Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Full Bore]
+      - 
+        <<: *lpbarrels
+        name: (PvP) Arc Fang CE (Relaxed Masterwork)
+        desc: >
+          Same as above, minus Masterworks.
+        masterworks: []
+      - &lpfusey
+        <<: *lpbarrels
+        name: (PvP) Arc Fang CE (Relaxed Magazines)
+        desc: >
+          Adding Projection Fuse
+        magazines: [Accelerated Coils, Projection Fuse]
+      - 
+        <<: *lpfusey
+        name: (PvP) Arc Fang CE (Relaxed Masterwork)
+        desc: >
+          Same as above, minus Masterworks.
+        masterworks: []
+      - &lpfirst
+        <<: *lpbarrels
+        name: (PvP) Arc Fang CE (Relaxed First Perks)
+        desc: >
+          Adding Snapshot
+        perks1: [Moving Target, Snapshot]
+      - &lpsecond
+        <<: *lpfirst
+        name: (PvP) Arc Fang CE (Relaxed Second Perks)
+        desc: >
+          Adding Rangefinder
+        perks2: [Rangefinder, Backup Plan]
+      - 
+        <<: *lpsecond
+        name: (PvP) Arc Fang CE (Relaxed Masterworks)
+        desc: >
+          Relaxing Masterwork requirement
+        masterworks: []
   - 
     name: PvE
     summary: >
