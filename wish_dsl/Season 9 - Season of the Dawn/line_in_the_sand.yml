@@ -68,7 +68,7 @@ groups:
         masterworks: []
       -
         <<: *lpreasonable
-        name: (PvP) Arc Fang CE (Totally Relaxed)
+        name: (PvP) Reasonable Fang 👨‍🌾 (Totally Relaxed)
         desc: >
           Sans Backup Plan and Masterwork
         perks2: []
