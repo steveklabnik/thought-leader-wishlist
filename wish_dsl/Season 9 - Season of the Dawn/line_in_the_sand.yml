@@ -25,7 +25,7 @@ groups:
         barrels: [Hammer-Forged Rifling, Full Bore]
         magazines: [Accelerated Coils, Projection Fuse]
         perks1: [Moving Target]
-        perks2: [Backup Plan, Rangefinder]
+        perks2: [Backup Plan]
         masterworks: [Charge MW]
       - 
         <<: *lpvppicky
