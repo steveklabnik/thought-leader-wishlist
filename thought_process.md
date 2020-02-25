@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-25 03:32:18 +00:00`. The most recent
+created on `2020-02-25 03:45:58 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -567,18 +567,18 @@ Datto posted some in-depth comparisons between LitS and other DPS weapons [earli
   Perks 2 [ 33%]: Firing Line
   MWorks  [100%]: *
   ```
-* **(PvE) Arc Bug Zapper 🐞 (3.0% chance)**: General purpose PvE roll, taking advantage of the only damage perk on offer. We're looking for Stability wherever we can find it.
+* **(PvE) Arc Bug Zapper 🐞 (3.5% chance)**: General purpose PvE roll, taking advantage of the only damage perk on offer. We're looking for Stability wherever we can find it.
   ```
   Barrels [ 83%]: Fluted Barrel, Corkscrew Rifling, Smallbore, Chambered Compensator, Polygonal Rifling
-  Mags    [ 80%]: Enhanced Battery, Ionized Battery, Particle Repeater
+  Mags    [ 93%]: Enhanced Battery, Ionized Battery, Particle Repeater, Projection Fuse
   Perks 1 [ 16%]: Rapid Hit
   Perks 2 [ 33%]: Rampage
   MWorks  [ 80%]: Handling MW, Reload MW, Range MW, Stability MW
   ```
-* **(PvE) Arc Bug Zapper 🐞(Relaxed Masterwork) (3.7% chance)**: Same as the above, minus masterworks.
+* **(PvE) Arc Bug Zapper 🐞(Relaxed Masterwork) (4.3% chance)**: Same as the above, minus masterworks.
   ```
   Barrels [ 83%]: Fluted Barrel, Corkscrew Rifling, Smallbore, Chambered Compensator, Polygonal Rifling
-  Mags    [ 80%]: Enhanced Battery, Ionized Battery, Particle Repeater
+  Mags    [ 93%]: Enhanced Battery, Ionized Battery, Particle Repeater, Projection Fuse
   Perks 1 [ 16%]: Rapid Hit
   Perks 2 [ 33%]: Rampage
   MWorks  [100%]: *
