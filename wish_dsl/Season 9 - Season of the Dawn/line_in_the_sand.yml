@@ -18,19 +18,55 @@ groups:
       will happen in the future? Since it's so easy to farm and S92 gives you
       an extra perk in the final slot, why not hang on to these?
     rolls:
-      - 
-        name: (PvE) Super Picky
-        desc: The full suite of perks to maximize DPS with LitS.
-        barrels: []
+      - &lsuperpicky
+        name: (PvE) Super Picky DPS
+        desc: >
+          The full suite of perks to maximize DPS on a big ol' target. We're
+          looking for some Stability-enhancing barrels as well.
+        barrels: [Fluted Barrel, Corkscrew Rifling, Smallbore, Chambered Compensator, Polygonal Rifling]
         magazines: [Accelerated Coils]
         perks1: [Rapid Hit]
         perks2: [Firing Line]
         masterworks: [Charge MW]
+      -
+        <<: *lsuperpicky
+        name: (PvE) Super Picky DPS (Relaxed Masterwork)
+        desc: >
+          Same as the above, minus masterworks.
+        masterworks: []
+      -
+        <<: *lsuperpicky
+        name: (PvE) Super Picky DPS (Relaxed Mags)
+        desc: >
+          Same as the above, with more Magazines.
+        magazines: [Acclerated Coils, Particle Repeater, Projection Fuse]
+      -
+        <<: *lsuperpicky
+        name: (PvE) Super Picky DPS (Relaxed Mags and Masterwork)
+        desc: >
+          Same as the above, minus masterworks.
+        magazines: [Acclerated Coils, Particle Repeater, Projection Fuse]
+        masterworks: []
       - 
-        name: (PvE) Baseline
-        desc: Really, any roll with these two perks is Good Enough(tm).
-        barrels: []
+        <<: *lsuperpicky
+        name: (PvE) Baseline / Future-Proofing
+        desc: >
+          Really, any roll with these two perks is Good Enough(tm).
         magazines: []
+        masterworks: []
+      - &lzapper
+        name: (PvE) Arc Bug Zapper 🐞
+        desc: >
+          General purpose PvE roll, taking advantage of the only damage perk
+          on offer. We're looking for Stability wherever we can find it.
+        barrels: [Fluted Barrel, Corkscrew Rifling, Smallbore, Chambered Compensator, Polygonal Rifling]
+        magazines: [Enhanced Battery, Ionized Battery, Particle Repeater]
         perks1: [Rapid Hit]
-        perks2: [Firing Line]
-        masterworks: []   
+        perks2: [Rampage]
+        masterworks: [Handling MW, Reload MW, Range MW, Stability MW]
+      -
+        <<: *lzapper
+        name: (PvE) Arc Bug Zapper 🐞(Relaxed Masterwork)
+        desc: >
+          Same as the above, minus masterworks.
+        masterworks: []
