@@ -1,5 +1,5 @@
 title: SlifSF's Sliflist
-description: https://github.com/rslifka/wishlist; generated: 2020-02-25 03:45:58 +00:00
+description: https://github.com/rslifka/wishlist; generated: 2020-02-25 05:17:45 +00:00
 //notes:(PvP) Slif's Picky Super Killer 💥 / 0.2% chance
 dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,1546637391,150943607
 dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,1546637391,150943604
@@ -4898,7 +4898,7 @@ dimwishlist:item=946443267&perks=1482024992,689005463,588594999,1600092898
 dimwishlist:item=946443267&perks=1482024992,2969185026,588594999,1600092898
 dimwishlist:item=946443267&perks=202670084,689005463,588594999,1600092898
 dimwishlist:item=946443267&perks=202670084,2969185026,588594999,1600092898
-//notes:(PvP) Arc Fang CE (Totally Relaxed) / 7.2% chance
+//notes:(PvP) Reasonable Fang 👨‍🌾 (Totally Relaxed) / 7.2% chance
 dimwishlist:item=946443267&perks=4090651448,689005463,588594999
 dimwishlist:item=946443267&perks=4090651448,2969185026,588594999
 dimwishlist:item=946443267&perks=3250034553,689005463,588594999

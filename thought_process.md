@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-25 03:45:58 +00:00`. The most recent
+created on `2020-02-25 05:17:45 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -517,7 +517,7 @@ Ages ago, Fallout put out a [Crooked Fang God Roll video](https://www.youtube.co
   Perks 2 [ 33%]: Backup Plan
   MWorks  [100%]: *
   ```
-* **(PvP) Arc Fang CE (Totally Relaxed) (7.2% chance)**: Sans Backup Plan and Masterwork
+* **(PvP) Reasonable Fang 👨‍🌾 (Totally Relaxed) (7.2% chance)**: Sans Backup Plan and Masterwork
   ```
   Barrels [ 72%]: Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Full Bore
   Mags    [ 60%]: Accelerated Coils, Projection Fuse
