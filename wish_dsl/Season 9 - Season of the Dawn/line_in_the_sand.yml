@@ -26,7 +26,7 @@ groups:
         magazines: [Accelerated Coils]
         perks1: [Moving Target]
         perks2: [Backup Plan]
-        masterworks: [Charge Time MW]
+        masterworks: [Charge MW]
       - &lpbarrels
         <<: *lpvppicky
         name: (PvP) Arc Fang CE (Relaxed Masterwork)
@@ -106,13 +106,13 @@ groups:
         name: (PvE) Super Picky DPS (Relaxed Mags)
         desc: >
           Same as the above, with more Magazines.
-        magazines: [Acclerated Coils, Particle Repeater, Projection Fuse]
+        magazines: [Accelerated Coils, Particle Repeater, Projection Fuse]
       -
         <<: *lsuperpicky
         name: (PvE) Super Picky DPS (Relaxed Mags and Masterwork)
         desc: >
           Same as the above, minus masterworks.
-        magazines: [Acclerated Coils, Particle Repeater, Projection Fuse]
+        magazines: [Accelerated Coils, Particle Repeater, Projection Fuse]
         masterworks: []
       - 
         <<: *lsuperpicky
