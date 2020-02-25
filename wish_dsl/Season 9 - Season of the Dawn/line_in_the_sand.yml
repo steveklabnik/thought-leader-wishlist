@@ -125,7 +125,7 @@ groups:
           General purpose PvE roll, taking advantage of the only damage perk
           on offer. We're looking for Stability wherever we can find it.
         barrels: [Fluted Barrel, Corkscrew Rifling, Smallbore, Chambered Compensator, Polygonal Rifling]
-        magazines: [Enhanced Battery, Ionized Battery, Particle Repeater]
+        magazines: [Enhanced Battery, Ionized Battery, Particle Repeater, Projection Fuse]
         perks1: [Rapid Hit]
         perks2: [Rampage]
         masterworks: [Handling MW, Reload MW, Range MW, Stability MW]
