@@ -19,43 +19,59 @@ groups:
       like LFRs, go nuts.
     rolls:
       - &lpvppicky
-        name: (PvP) Fallout's Arc Fang Collector's Edition
+        name: (PvP) Fallout's Arc Fang Collector's Edition ☢️
         desc: >
           "The" God Roll from Fallout's video above.
         barrels: [Hammer-Forged Rifling, Full Bore]
-        magazines: [Accelerated Coils, Projection Fuse]
+        magazines: [Accelerated Coils]
         perks1: [Moving Target]
         perks2: [Backup Plan]
         masterworks: [Charge MW]
       - 
         <<: *lpvppicky
-        name: (PvP) Arc Fang CE (Relaxed Magazines)
+        name: (PvP) Arc Fang CE ☢️ (Relaxed Magazines)
         desc: >
           Without Accelerated Coils, still amazing.
         magazines: []
       - 
         <<: *lpvppicky
-        name: (PvP) Arc Fang CE (Relaxed Masterwork)
+        name: (PvP) Arc Fang CE ☢️ (Relaxed Perks)
+        desc: >
+          Without Backup Plan, still amazing.
+        perks2: []
+      - 
+        <<: *lpvppicky
+        name: (PvP) Arc Fang CE ☢️ (Relaxed Masterwork)
         desc: >
           Without Charge Time, it's still amazing.
         masterworks: []
-      - &lpbarrels
+      - &lpreasonable
         <<: *lpvppicky
-        name: (PvP) Arc Fang CE (Relaxed Barrels)
+        name: (PvP) A Reasonable Fang, Slif's Edition 👨‍🌾
         desc: >
-          Any barrel that helps Range will do
+          Let's widen Fallout's a bit. Any Range barrel and Range magazine are
+          totally fine. Unfortunately there are no other perks in the other
+          columns that are usable.
         barrels: [Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Full Bore]
+        magazines: [Accelerated Coils, Projection Fuse]
       - 
-        <<: *lpbarrels
-        name: (PvP) Arc Fang CE (Relaxed Magazines)
+        <<: *lpreasonable
+        name: (PvP) Reasonable Fang 👨‍🌾(Relaxed Perks)
         desc: >
-          Without Accelerated Coils, still amazing.
-        magazines: []
+          Without Backup Plan, still amazing.
+        perks2: []
       - 
-        <<: *lpbarrels
-        name: (PvP) Arc Fang CE (Relaxed Masterwork)
+        <<: *lpreasonable
+        name: (PvP) Reasonable Fang 👨‍🌾(Relaxed Masterwork)
         desc: >
           Without Charge Time, it's still amazing.
+        masterworks: []
+      -
+        <<: *lpreasonable
+        name: (PvP) Arc Fang CE (Totally Relaxed)
+        desc: >
+          Sans Backup Plan and Masterwork
+        perks2: []
         masterworks: []
   - 
     name: PvE
