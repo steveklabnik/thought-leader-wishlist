@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-25 03:11:42 +00:00`. The most recent
+created on `2020-02-25 03:32:18 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -461,15 +461,15 @@ This is going to blow your mind... but JQK3 and Waking Vigil (via Dreaming City)
   ```
 ## Line in the Sand - PvP
 Ages ago, Fallout put out a [Crooked Fang God Roll video](https://www.youtube.com/watch?v=TB-s1IYDpeQ) and lo' and behold, Line in the Sand is basically an Arc Crooked Fang! So let's get to taking their command out one by... We can rely on that review for some solid tips. Is it a PvP workhorse? Nah but fun is fun so if you like LFRs, go nuts.
-* **(PvP) Fallout's Arc Fang Collector's Edition (0.3% chance)**: "The" God Roll from Fallout's video above.
+* **(PvP) Fallout's Arc Fang Collector's Edition ☢️ (0.2% chance)**: "The" God Roll from Fallout's video above.
   ```
   Barrels [ 41%]: Hammer-Forged Rifling, Full Bore
-  Mags    [ 60%]: Accelerated Coils, Projection Fuse
+  Mags    [ 33%]: Accelerated Coils
   Perks 1 [ 16%]: Moving Target
   Perks 2 [ 33%]: Backup Plan
   MWorks  [ 20%]: Charge MW
   ```
-* **(PvP) Arc Fang CE (Relaxed Magazines) (0.5% chance)**: Without Accelerated Coils, still amazing.
+* **(PvP) Arc Fang CE ☢️ (Relaxed Magazines) (0.5% chance)**: Without Accelerated Coils, still amazing.
   ```
   Barrels [ 41%]: Hammer-Forged Rifling, Full Bore
   Mags    [100%]: *
@@ -477,36 +477,52 @@ Ages ago, Fallout put out a [Crooked Fang God Roll video](https://www.youtube.co
   Perks 2 [ 33%]: Backup Plan
   MWorks  [ 20%]: Charge MW
   ```
-* **(PvP) Arc Fang CE (Relaxed Masterwork) (1.4% chance)**: Without Charge Time, it's still amazing.
+* **(PvP) Arc Fang CE ☢️ (Relaxed Perks) (0.5% chance)**: Without Backup Plan, still amazing.
   ```
   Barrels [ 41%]: Hammer-Forged Rifling, Full Bore
+  Mags    [ 33%]: Accelerated Coils
+  Perks 1 [ 16%]: Moving Target
+  Perks 2 [100%]: *
+  MWorks  [ 20%]: Charge MW
+  ```
+* **(PvP) Arc Fang CE ☢️ (Relaxed Masterwork) (0.8% chance)**: Without Charge Time, it's still amazing.
+  ```
+  Barrels [ 41%]: Hammer-Forged Rifling, Full Bore
+  Mags    [ 33%]: Accelerated Coils
+  Perks 1 [ 16%]: Moving Target
+  Perks 2 [ 33%]: Backup Plan
+  MWorks  [100%]: *
+  ```
+* **(PvP) A Reasonable Fang, Slif's Edition 👨‍🌾 (0.5% chance)**: Let's widen Fallout's a bit. Any Range barrel and Range magazine are totally fine. Unfortunately there are no other perks in the other columns that are usable.
+  ```
+  Barrels [ 72%]: Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Full Bore
+  Mags    [ 60%]: Accelerated Coils, Projection Fuse
+  Perks 1 [ 16%]: Moving Target
+  Perks 2 [ 33%]: Backup Plan
+  MWorks  [ 20%]: Charge MW
+  ```
+* **(PvP) Reasonable Fang 👨‍🌾(Relaxed Perks) (1.4% chance)**: Without Backup Plan, still amazing.
+  ```
+  Barrels [ 72%]: Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Full Bore
+  Mags    [ 60%]: Accelerated Coils, Projection Fuse
+  Perks 1 [ 16%]: Moving Target
+  Perks 2 [100%]: *
+  MWorks  [ 20%]: Charge MW
+  ```
+* **(PvP) Reasonable Fang 👨‍🌾(Relaxed Masterwork) (2.4% chance)**: Without Charge Time, it's still amazing.
+  ```
+  Barrels [ 72%]: Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Full Bore
   Mags    [ 60%]: Accelerated Coils, Projection Fuse
   Perks 1 [ 16%]: Moving Target
   Perks 2 [ 33%]: Backup Plan
   MWorks  [100%]: *
   ```
-* **(PvP) Arc Fang CE (Relaxed Barrels) (0.5% chance)**: Any barrel that helps Range will do
+* **(PvP) Arc Fang CE (Totally Relaxed) (7.2% chance)**: Sans Backup Plan and Masterwork
   ```
   Barrels [ 72%]: Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Full Bore
   Mags    [ 60%]: Accelerated Coils, Projection Fuse
   Perks 1 [ 16%]: Moving Target
-  Perks 2 [ 33%]: Backup Plan
-  MWorks  [ 20%]: Charge MW
-  ```
-* **(PvP) Arc Fang CE (Relaxed Magazines) (0.8% chance)**: Without Accelerated Coils, still amazing.
-  ```
-  Barrels [ 72%]: Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Full Bore
-  Mags    [100%]: *
-  Perks 1 [ 16%]: Moving Target
-  Perks 2 [ 33%]: Backup Plan
-  MWorks  [ 20%]: Charge MW
-  ```
-* **(PvP) Arc Fang CE (Relaxed Masterwork) (2.4% chance)**: Without Charge Time, it's still amazing.
-  ```
-  Barrels [ 72%]: Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Full Bore
-  Mags    [ 60%]: Accelerated Coils, Projection Fuse
-  Perks 1 [ 16%]: Moving Target
-  Perks 2 [ 33%]: Backup Plan
+  Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
 ## Line in the Sand - PvE
