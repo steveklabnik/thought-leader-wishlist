@@ -14,7 +14,7 @@ task :generate_wishlist, [:environment] do |t, args|
   
   File.open(wishlist_filename(args.environment), 'w') do |wishlist|
     wishlist.puts("title: SlifSF's Sliflist")
-    wishlist.puts("description: https://github.com/rslifka/wishlist; generated: #{DateTime.now.strftime("%Y-%m-%d %H:%M:%S %:z")}")
+    wishlist.puts("description: Generated #{DateTime.now.strftime("%Y-%m-%d %H:%M:%S %:z")}")
 
     # We'll generate our "Trash" list from here, once all the registered rolls
     # are written to the wishlist
