@@ -49,9 +49,9 @@ groups:
       Black Scorpion (it's the weapon he used to get Randy's).
     rolls:
       - &bsabsurd
-        name: (PvP) "Massive Breakdown" Collector's Edition
+        name: (PvP) Mercules Collector's Edition 💪⭐️
         desc: >
-          Let's call this the "Massive Breakdown Podcast" roll, since listening
+          Let's call this the "Mercules" roll, since listening
           to the podcast linked above informed its creation. All Stability, all
           day, with better Aim Assistance and mobility from `Moving Target`.
           Because of the quantity of perks in the final two columns, your chance
@@ -63,48 +63,115 @@ groups:
         masterworks: [Stability MW]
       -
         <<: *bsabsurd
-        name: (PvP) "Massive Breakdown" CE (No Rampage)
+        name: (PvP) Mercules CE 💪⭐️(Minus Masterwork)
         desc: >
-          Without Rampage we are still absolutely amazing
-        perks2: []
+          We get Stability from our Barrel, Magazine and optionally Zen Moment;
+          can afford to lose out on Stability MW.
+        masterworks: []
       -
         <<: *bsabsurd
-        name: (PvP) "Massive Breakdown" CE (No Rampage or Masterwork)
+        name: (PvP) Mercules CE 💪⭐️(Minus Rampage)
         desc: >
-          Without Rampage we are still absolutely amazing
-        perks2: [] 
-        masterworks: []       
-      - &bsmags
+          The surrounding perks are so good that we'd take a roll without
+          Rampage!
+        perks2: [Opening Shot, Snapshot]
+      -
         <<: *bsabsurd
-        name: (PvP) "Massive Breakdown" CE (Relaxed Barrels)
+        name: (PvP) Mercules CE 💪⭐️(Minus Rampage and Masterwork)
+        desc: >
+          The surrounding perks are so good that we'd take a roll without
+          Rampage!
+        perks2: [Opening Shot, Snapshot]
+        masterworks: []
+      -
+        <<: *bsabsurd
+        name: (PvP) Mercules CE 💪⭐️(Baseline)
+        desc: >
+          In spite of not having any fourth column perk or a Stability
+          Masterwork, this thing is still super, super stable.
+        perks2: []
+        masterworks: []        
+      - &bsstab
+        <<: *bsabsurd
+        name: (PvP) Stability-First w/Barrels
         desc: >
           Any barrel that bumps Stability would still be an absolutely
           phenomenal roll here.
         barrels: [Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore]
-      - &bsreasonable
-        <<: *bsmags
-        name: (PvP) "Massive Breakdown" CE (Relaxed Magazines)
+      - 
+        <<: *bsstab
+        name: (PvP) Stability-First w/Barrels (Minus Masterwork)
         desc: >
-          Same as the above, now with any magazine that improves Stability.
-        magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
-      - &bsrelaxed4th
-        <<: *bsreasonable
-        name: (PvP) "Massive Breakdown" CE (Relaxed Fourth Column)
-        desc: >
-          Same as the above, with additional solid perks in the last column.
-        perks2: [Opening Shot, Snapshot]
-      - &bsnofourth
-        <<: *bsrelaxed4th
-        name: (PvP) "Massive Breakdown" CE (No Fourth Column)
-        desc: >
-          If we don't get anything good in the fourth column, we're still doing
-          absolutely amazing!
-        perks2: []
+          Same as the above, minus the Masterwork.
+        masterworks: []
       -
-        <<: *bsnofourth
-        name: (PvP) "Massive Breakdown" CE (No Masterwork)
+        <<: *bsstab
+        name: (PvP) Stability-First w/Barrels (Minus Rampage)
         desc: >
-          Same as the above, minus the Stability masterwork. So long as you're
-          getting Stability from the Barrel and Magazine, you've still got a
-          competitive roll.
+          The surrounding perks are so good that we'd take a roll without
+          Rampage!
+        perks2: [Opening Shot, Snapshot]
+      -
+        <<: *bsstab
+        name: (PvP) Stability-First w/Barrels (Minus Rampage and Masterwork)
+        desc: >
+          The surrounding perks are so good that we'd take a roll without
+          Rampage!
+        perks2: [Opening Shot, Snapshot]
+        masterworks: []
+      - &bsmags
+        <<: *bsabsurd
+        name: (PvP) Stability-First w/Mags
+        desc: >
+          Any magazine that bumps Stability would still be an absolutely
+          phenomenal roll here.
+        magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
+      - 
+        <<: *bsmags
+        name: (PvP) Stability-First w/Mags (Minus Masterwork)
+        desc: >
+          Same as the above, minus the Masterwork.
+        masterworks: []
+      -
+        <<: *bsmags
+        name: (PvP) Stability-First w/Mags (Minus Rampage)
+        desc: >
+          The surrounding perks are so good that we'd take a roll without
+          Rampage!
+        perks2: [Opening Shot, Snapshot]
+      -
+        <<: *bsmags
+        name: (PvP) Stability-First w/Mags (Minus Rampage and Masterwork)
+        desc: >
+          The surrounding perks are so good that we'd take a roll without
+          Rampage!
+        perks2: [Opening Shot, Snapshot]
+        masterworks: []
+      - &bsrelaxed
+        <<: *bsabsurd
+        name: (PvP) Stability-First w/Barrels+Mags
+        desc: >
+          Any Barrel or Magazine that bumps Stability.
+        barrels: [Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore]
+        magazines: [Tactical Mag, Steady Rounds, Flared Magwell]
+      - 
+        <<: *bsrelaxed
+        name: (PvP) Stability-First w/Barrels+Mags (Minus Masterwork)
+        desc: >
+          Same as the above, minus the Masterwork.
+        masterworks: []
+      -
+        <<: *bsrelaxed
+        name: (PvP) Stability-First w/Mags (Minus Rampage)
+        desc: >
+          The surrounding perks are so good that we'd take a roll without
+          Rampage!
+        perks2: [Opening Shot, Snapshot]
+      -
+        <<: *bsrelaxed
+        name: (PvP) Stability-First w/Mags (Minus Rampage and Masterwork)
+        desc: >
+          The surrounding perks are so good that we'd take a roll without
+          Rampage!
+        perks2: [Opening Shot, Snapshot]
         masterworks: []
