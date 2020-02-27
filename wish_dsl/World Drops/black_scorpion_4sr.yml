@@ -85,6 +85,13 @@ groups:
         masterworks: []
       -
         <<: *bsabsurd
+        name: (PvP) Mercules CE 💪⭐️(Stability Baseline)
+        desc: >
+          In spite of not having any fourth column perk or a Stability
+          Masterwork, this thing is still super, super stable.
+        perks2: []
+      -
+        <<: *bsabsurd
         name: (PvP) Mercules CE 💪⭐️(Baseline)
         desc: >
           In spite of not having any fourth column perk or a Stability
