@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-27 01:57:33 +00:00`. The most recent
+created on `2020-02-27 05:41:16 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -30,7 +30,7 @@ I'm of the opinion it's not worth chasing ツ
 * Line in the Sand ([PvP](#line-in-the-sand---pvp), [PvE](#line-in-the-sand---pve))
 * Martyr's Retribution ([PvP](#martyrs-retribution---pvp), [PvE](#martyrs-retribution---pve))
 * Patron of Lost Causes ([PvP / PvE](#patron-of-lost-causes---pvp--pve), [PvE](#patron-of-lost-causes---pve))
-* Perfect Paradox ([PvE](#perfect-paradox---pve))
+* Perfect Paradox ([PvP](#perfect-paradox---pvp), [PvE](#perfect-paradox---pve))
 * Steelfeather Repeater ([PvP](#steelfeather-repeater---pvp), [PvE](#steelfeather-repeater---pve))
 * Traveler's Judgement 5 ([PvP](#travelers-judgement-5---pvp), [PvE](#travelers-judgement-5---pve))
 * Trophy Hunter ([PvP](#trophy-hunter---pvp), [PvE](#trophy-hunter---pve))
@@ -711,33 +711,142 @@ This section only exists because of Osmosis, for future-proofing/high-end PvE wi
   Perks 2 [ 33%]: Osmosis
   MWorks  [100%]: *
   ```
-## Perfect Paradox - PvE
-For PvE, [Aztecross](https://www.youtube.com/watch?v=vGe3z2doHbQ) likes Demolitionist with Swashbuckler or Rampage for a large damage boost.
-Trench barrel has been nerfed to the point where there are better options but it could be worth picking one up in case the perk gets revived.
-There are also better One-Two Punch shotguns, but it wouldn't be a bad secondary perk if you're at s92.
-For PvP, he likes Slideshot with Opening Shot or Rampage and  [Destiny Fun Police](https://www.youtube.com/watch?v=cA2gxu6OIUI) agrees with him.
-* **(PvP) Super Picky (otherwise there are better options) (0.5% chance)**: Range and Rampage or Opening Shot
+## Perfect Paradox - PvP
+Rapid-fire frames in PvP are a different breed. They're not like Aggressive or Precision Frames for the spicy, consistent one-hit kills. If you want something like that in this slot, you want to farm Menagerie for [Dust Rock Blues](https://www.light.gg/db/items/636912560/dust-rock-blues/) or even [Toil and Trouble](https://www.light.gg/db/items/2957367743/toil-and-trouble/). Here's 
+The big debate here will be Opening Shot or Rampage. Many folks, like Sheikh (aka [Destiny Fun Police](https://www.youtube.com/watch?v=njEmXDccobw)) prefer Rampage + Rampage Spec in the final slot. I don't and here's why:
+
+First, Rapid-fire frames require 12 pellets to kill. Each tier of Rampage decreases the number of pellets needed by one. Here's DFP going on a [killing spree](https://youtu.be/OSTDpEo7_D4?t=187) with Rampage x 2, the tier where you need 10 pellets to kill (i.e. a Dust Rock Blues pellet count). If you're going to two-tap basically no matter what, I'd rather have Opening Shot to increase the chance more of my pellets hit. Even DFP says, "Using a Rapid-Fire shotgun you're going to have to double-tap most people."
+
+Second, I prefer to use Icarus Grip in my mod slot. That doesn't negate the power of Rampage in general but if you're not going to run Rampage Spec, that's even less of a reason to consider running Rampage.
+KackisHD https://www.youtube.com/watch?v=cA2gxu6OIUI
+* **(PvP) Aztecross Collector's Edition 🌶 (0.2% chance)**: Alright, here's a spicy take. Firmly Planted works while sliding and increases Accuracy **specifically**, not indirectly via Range. We discussed Opening Shot above and how I value hitting more pellets all the time versus doing a negligible additional amount of damage when Rampage is active, some of the time. This is the first roll that [Aztecross](https://www.youtube.com/watch?v=vGe3z2doHbQ) uses in his video review (among others). It cleans up!
+  ```
+  Barrels [ 33%]: Full Choke
+  Mags    [ 33%]: Accurized Rounds
+  Perks 1 [ 16%]: Firmly Planted
+  Perks 2 [ 33%]: Opening Shot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) Aztecross CE 🌶(Relaxed First Perk) (0.3% chance)**: Slideshot will be juuuuust fine here.
+  ```
+  Barrels [ 33%]: Full Choke
+  Mags    [ 33%]: Accurized Rounds
+  Perks 1 [ 33%]: Firmly Planted, Slideshot
+  Perks 2 [ 33%]: Opening Shot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) Aztecross CE 🌶(Relaxed Barrel) (0.3% chance)**: Rifled Barrel will be juuuuust fine here.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 33%]: Accurized Rounds
+  Perks 1 [ 16%]: Firmly Planted
+  Perks 2 [ 33%]: Opening Shot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) Aztecross CE 🌶(Relaxed First Perk and Barrel) (0.6% chance)**: Combining the previous two rolls.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 33%]: Accurized Rounds
+  Perks 1 [ 33%]: Firmly Planted, Slideshot
+  Perks 2 [ 33%]: Opening Shot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) Aztecross CE 🌶(Totally Relaxed) (2.2% chance)**: Amazing roll still.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 33%]: Accurized Rounds
+  Perks 1 [ 33%]: Firmly Planted, Slideshot
+  Perks 2 [ 33%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) Destiny Fun Police Collector's Edition 👮‍♂️ (0.2% chance)**: DFP's favourite roll!
+  ```
+  Barrels [ 33%]: Full Choke
+  Mags    [ 33%]: Accurized Rounds
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 33%]: Rampage
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) DFP CE 👮‍♂️(Relaxed First Perk) (0.3% chance)**: Slideshot will be juuuuust fine here.
+  ```
+  Barrels [ 33%]: Full Choke
+  Mags    [ 33%]: Accurized Rounds
+  Perks 1 [ 33%]: Firmly Planted, Slideshot
+  Perks 2 [ 33%]: Rampage
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) DFP CE 👮‍♂️(Relaxed Barrel) (0.3% chance)**: Rifled Barrel will be juuuuust fine here.
   ```
   Barrels [ 60%]: Full Choke, Rifled Barrel
   Mags    [ 33%]: Accurized Rounds
   Perks 1 [ 16%]: Slideshot
-  Perks 2 [ 60%]: Rampage, Opening Shot
+  Perks 2 [ 33%]: Rampage
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Picky Demolitionist (3.0% chance)**: Demolitionist grenade builds
+* **(PvP) DFP CE 👮‍♂️(Relaxed First Perk and Barrel) (0.6% chance)**: Combining the previous two rolls.
   ```
-  Barrels [100%]: *
-  Mags    [ 60%]: Appended Mag, Tactical Mag
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 33%]: Accurized Rounds
+  Perks 1 [ 33%]: Firmly Planted, Slideshot
+  Perks 2 [ 33%]: Rampage
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) DFP CE 👮‍♂️(Totally Relaxed) (2.2% chance)**: Amazing roll still.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 33%]: Accurized Rounds
+  Perks 1 [ 33%]: Firmly Planted, Slideshot
+  Perks 2 [ 33%]: Rampage
+  MWorks  [100%]: *
+  ```
+## Perfect Paradox - PvE
+There's a good bit of [cargo-culting](https://en.wiktionary.org/wiki/cargo_culting) when it comes to shotgun "God Rolls" and while I don't think there's any outright awful damage perks here, I do think you're better off with some than with others. [Aztecross](https://www.youtube.com/watch?v=vGe3z2doHbQ) is a good balance of science and excitement in terms of roll knowledge, so check it out; he's one of the rare folks to see the value in the criminally underrated Firmly Planted on shotguns.
+
+There are a ton of damage-boosting perks on Perfect Paradox! We have Swashbuckler, One-Two Punch, Trench Barrel and Rampage. Let's go!
+* **One-Two Punch**: If you're going to be using One-Two, you're better off with a high(er) impact shotgun. Your flow is shoot-punch-punch-shoot-... and with a Rapid Fire frame, your "shoot" is doing very little damage, comparatively. The perk is solid, but not on this frame IMHO.
+* **Trench Barrel**: Post-Warmind, Trench Barrel took it on the chin. It was limited to a few seconds or three shots. Given that Bungie has never gone back on a nerf, feel free to pick one of these up for posterity but it's not all that great. It's kind of like the reverse One-Two Punch. Your flow is punch-shoot-shoot-shoot-punch-... so it's better for large(r) add clear but if you're dealing with larger adds/bosses you're getting stomped away so yeah, it's fine but not anyone's go-to at the moment.
+* **Rampage**: Solid! Not much to say here; same as it ever was. Throw a Rampage Spec mod on to extend the duration by 1s.
+* **Swashbuckler**: I prefer Swashbuckler here because it lasts as long as Rampage + Rampage Spec and you can shortcut the with a melee to Swash x 5.
+
+BONUS! From Ehroar, a pretty slick [Infinite Ammo Perfect Paradox Build](https://www.youtube.com/watch?v=xlqw1OEGVl0)!
+* **(PvE) Super Picky Demolitionist 💣 (1.7% chance)**: With an extra one in the mag from Appended and Demolitionist, you're going to be constantly reloading your magazine.
+  ```
+  Barrels [ 93%]: Smallbore, Barrel Shroud, Corkscrew Rifling, Full Choke
+  Mags    [ 33%]: Appended Mag
   Perks 1 [ 16%]: Demolitionist
-  Perks 2 [ 60%]: Rampage, Swashbuckler
-  MWorks  [ 50%]: Range MW, Handling MW
+  Perks 2 [ 33%]: Swashbuckler
+  MWorks  [100%]: *
   ```
-* **(PvE) Baseline Demolitionist (10.0% chance)**: Demolitionist grenade builds
+* **(PvE) Demolitionist 💣 (Relaxed Mags) (4.1% chance)**: Same as the above, but the mags aren't harmful so we're relaxing.
   ```
-  Barrels [100%]: *
-  Mags    [100%]: *
+  Barrels [ 93%]: Smallbore, Barrel Shroud, Corkscrew Rifling, Full Choke
+  Mags    [ 80%]: Appended Mag, Light Mag, Accurized Rounds
   Perks 1 [ 16%]: Demolitionist
-  Perks 2 [ 60%]: Rampage, Swashbuckler
+  Perks 2 [ 33%]: Swashbuckler
+  MWorks  [100%]: *
+  ```
+* **(PvE) Runner and Gunner 🏃‍♂️ (7.5% chance)**: Keep sliding and shooting and sliding and shooting...
+  ```
+  Barrels [ 93%]: Smallbore, Barrel Shroud, Corkscrew Rifling, Full Choke
+  Mags    [ 80%]: Appended Mag, Light Mag, Accurized Rounds
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 60%]: Swashbuckler, Rampage
+  MWorks  [100%]: *
+  ```
+* **(PvE) Fiiine, Trench Barrel 🤷‍♂️ (1.7% chance)**: You really want a Trench Barrel roll don't you? Let's go with  Appended for a larger mag (presumably you're dyyying to throw a Boss or Major Spec mod on here) and Field Prep for faster reload when you're crouched in front of a boss/major.
+  ```
+  Barrels [ 93%]: Smallbore, Barrel Shroud, Corkscrew Rifling, Full Choke
+  Mags    [ 33%]: Appended Mag
+  Perks 1 [ 16%]: Field Prep
+  Perks 2 [ 33%]: Trench Barrel
+  MWorks  [100%]: *
+  ```
+* **(PvE) Fiiine, Trench Barrel 🤷‍♂️(Relaxed Magazines) (4.1% chance)**: Losing one in the mag will be fine, go nuts with your TB roll.
+  ```
+  Barrels [ 93%]: Smallbore, Barrel Shroud, Corkscrew Rifling, Full Choke
+  Mags    [ 80%]: Appended Mag, Light Mag, Accurized Rounds
+  Perks 1 [ 16%]: Field Prep
+  Perks 2 [ 33%]: Trench Barrel
   MWorks  [100%]: *
   ```
 ## Steelfeather Repeater - PvP
