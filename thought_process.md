@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-27 05:41:16 +00:00`. The most recent
+created on `2020-02-27 05:47:41 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -712,13 +712,14 @@ This section only exists because of Osmosis, for future-proofing/high-end PvE wi
   MWorks  [100%]: *
   ```
 ## Perfect Paradox - PvP
-Rapid-fire frames in PvP are a different breed. They're not like Aggressive or Precision Frames for the spicy, consistent one-hit kills. If you want something like that in this slot, you want to farm Menagerie for [Dust Rock Blues](https://www.light.gg/db/items/636912560/dust-rock-blues/) or even [Toil and Trouble](https://www.light.gg/db/items/2957367743/toil-and-trouble/). Here's 
+Rapid-fire frames in PvP are a different breed. They're not like Aggressive or Precision Frames for the spicy, consistent one-hit kills. If you want something like that in this slot, you want to farm Menagerie for [Dust Rock Blues](https://www.light.gg/db/items/636912560/dust-rock-blues/) or even [Toil and Trouble](https://www.light.gg/db/items/2957367743/toil-and-trouble/).
+
 The big debate here will be Opening Shot or Rampage. Many folks, like Sheikh (aka [Destiny Fun Police](https://www.youtube.com/watch?v=njEmXDccobw)) prefer Rampage + Rampage Spec in the final slot. I don't and here's why:
 
-First, Rapid-fire frames require 12 pellets to kill. Each tier of Rampage decreases the number of pellets needed by one. Here's DFP going on a [killing spree](https://youtu.be/OSTDpEo7_D4?t=187) with Rampage x 2, the tier where you need 10 pellets to kill (i.e. a Dust Rock Blues pellet count). If you're going to two-tap basically no matter what, I'd rather have Opening Shot to increase the chance more of my pellets hit. Even DFP says, "Using a Rapid-Fire shotgun you're going to have to double-tap most people."
+1. Rapid-fire frames require 12 pellets to kill. Each tier of Rampage decreases the number of pellets needed by one. Here's DFP going on a [killing spree](https://youtu.be/OSTDpEo7_D4?t=187) with Rampage x 2, the tier where you need 10 pellets to kill (i.e. a Dust Rock Blues pellet count). If you're going to two-tap basically no matter what, I'd rather have Opening Shot to increase the chance more of my pellets hit. Even DFP says, "Using a Rapid-Fire shotgun you're going to have to double-tap most people."
+2. I prefer to use Icarus Grip in my mod slot. That doesn't negate the power of Rampage in general but if you're not going to run Rampage Spec, that's even less of a reason to consider running Rampage.
 
-Second, I prefer to use Icarus Grip in my mod slot. That doesn't negate the power of Rampage in general but if you're not going to run Rampage Spec, that's even less of a reason to consider running Rampage.
-KackisHD https://www.youtube.com/watch?v=cA2gxu6OIUI
+Based on the YouTube content creator hive mind, I'm in the minority on this opinion. It's easy to farm; be your own judge :)
 * **(PvP) Aztecross Collector's Edition 🌶 (0.2% chance)**: Alright, here's a spicy take. Firmly Planted works while sliding and increases Accuracy **specifically**, not indirectly via Range. We discussed Opening Shot above and how I value hitting more pellets all the time versus doing a negligible additional amount of damage when Rampage is active, some of the time. This is the first roll that [Aztecross](https://www.youtube.com/watch?v=vGe3z2doHbQ) uses in his video review (among others). It cleans up!
   ```
   Barrels [ 33%]: Full Choke
