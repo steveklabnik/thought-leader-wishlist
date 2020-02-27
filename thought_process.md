@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-27 01:33:48 +00:00`. The most recent
+created on `2020-02-27 01:47:09 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -645,6 +645,22 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   Perks 2 [ 60%]: Explosive Rounds, Vorpal
   MWorks  [100%]: *
   ```
+* **(PvP/PvE) Rapid Rangestability (1.4% chance)**: Maybe even though you're on controller, you like your Stability with a side of Range? Listen, I'm not the boss of you. Range barrels are a great option with this roll as well, but I think, less desirable hence their place in the batting order.
+  ```
+  Barrels [ 72%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel
+  Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
+  Perks 1 [ 16%]: Rapid Hit
+  Perks 2 [ 60%]: Explosive Rounds, Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP/PvE) Rapid Rangestability (Minus Masterwork) (5.7% chance)**: Same as the best, minus Masterworks.
+  ```
+  Barrels [ 72%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel
+  Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
+  Perks 1 [ 16%]: Rapid Hit
+  Perks 2 [ 60%]: Explosive Rounds, Vorpal
+  MWorks  [100%]: *
+  ```
 * **(PvP/PvE) "Index Finger Saver" 👌 (1.6% chance)**: Same as our other rolls, but with Full Auto instead of Rapid Hit
   ```
   Barrels [ 83%]: Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling
@@ -653,7 +669,7 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   Perks 2 [ 60%]: Explosive Rounds, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP/PvE) "Index Saver" (Minus Barrels) 👌 (2.0% chance)**: Same as the best, minus the barrels
+* **(PvP/PvE) "Index Saver" 👌(Minus Barrels) (2.0% chance)**: Same as the best, minus the barrels
   ```
   Barrels [100%]: *
   Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
@@ -661,9 +677,25 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   Perks 2 [ 60%]: Explosive Rounds, Vorpal
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP/PvE) "Index Saver" (Minus Masterwork) 👌 (6.5% chance)**: Same as the best, minus Masterworks.
+* **(PvP/PvE) "Index Saver" 👌(Minus Masterwork) (6.5% chance)**: Same as the best, minus Masterworks.
   ```
   Barrels [ 83%]: Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling
+  Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
+  Perks 1 [ 16%]: Full Auto
+  Perks 2 [ 60%]: Explosive Rounds, Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvP/PvE) "Index Finger Saver w/Range" 👌 (1.4% chance)**: Same as our other rolls, but with Full Auto instead of Rapid Hit
+  ```
+  Barrels [ 72%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel
+  Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
+  Perks 1 [ 16%]: Full Auto
+  Perks 2 [ 60%]: Explosive Rounds, Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP/PvE) "Index Saver w/Range" 👌(Minus Masterwork) (5.7% chance)**: Same as the best, minus Masterworks.
+  ```
+  Barrels [ 72%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel
   Mags    [ 78%]: Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell
   Perks 1 [ 16%]: Full Auto
   Perks 2 [ 60%]: Explosive Rounds, Vorpal
