@@ -39,6 +39,24 @@ groups:
         desc: >
           Same as the best, minus Masterworks.
         masterworks: []
+      - &prapidrange
+        name: (PvP/PvE) Rapid Rangestability
+        desc: >
+          Maybe even though you're on controller, you like your Stability with a
+          side of Range? Listen, I'm not the boss of you. Range barrels are a
+          great option with this roll as well, but I think, less desirable hence
+          their place in the batting order.
+        barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel]
+        magazines: [Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell]
+        perks1: [Rapid Hit]
+        perks2: [Explosive Rounds, Vorpal]
+        masterworks: [Stability MW]
+      - 
+        <<: *prapidrange
+        name: (PvP/PvE) Rapid Rangestability (Minus Masterwork)
+        desc: >
+          Same as the best, minus Masterworks.
+        masterworks: []        
       - &pfullauto
         <<: *prapid
         name: (PvP/PvE) "Index Finger Saver" 👌
@@ -47,13 +65,25 @@ groups:
         perks1: [Full Auto]
       - 
         <<: *pfullauto
-        name: (PvP/PvE) "Index Saver" (Minus Barrels) 👌
+        name: (PvP/PvE) "Index Saver" 👌(Minus Barrels)
         desc: >
           Same as the best, minus the barrels
         barrels: []
       - 
         <<: *pfullauto
-        name: (PvP/PvE) "Index Saver" (Minus Masterwork) 👌
+        name: (PvP/PvE) "Index Saver" 👌(Minus Masterwork)
+        desc: >
+          Same as the best, minus Masterworks.
+        masterworks: []        
+      - &pfullautorange
+        <<: *prapidrange
+        name: (PvP/PvE) "Index Finger Saver w/Range" 👌
+        desc: >
+          Same as our other rolls, but with Full Auto instead of Rapid Hit
+        perks1: [Full Auto]
+      - 
+        <<: *pfullautorange
+        name: (PvP/PvE) "Index Saver w/Range" 👌(Minus Masterwork)
         desc: >
           Same as the best, minus Masterworks.
         masterworks: []        
