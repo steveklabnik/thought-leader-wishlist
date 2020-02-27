@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-27 01:49:01 +00:00`. The most recent
+created on `2020-02-27 01:57:33 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -1024,6 +1024,14 @@ Check out [ZkMushroom](https://www.youtube.com/watch?v=tdnJWuiUF2k) and [nKuch](
   Perks 1 [ 28%]: Moving Target, Zen Moment
   Perks 2 [ 28%]: Opening Shot, Snapshot
   MWorks  [100%]: *
+  ```
+* **(PvP) Mercules CE 💪⭐️(Stability Baseline) (0.4% chance)**: In spite of not having any fourth column perk or a Stability Masterwork, this thing is still super, super stable.
+  ```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 28%]: Moving Target, Zen Moment
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
   ```
 * **(PvP) Mercules CE 💪⭐️(Baseline) (1.6% chance)**: In spite of not having any fourth column perk or a Stability Masterwork, this thing is still super, super stable.
   ```
