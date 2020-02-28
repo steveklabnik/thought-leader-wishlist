@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-02-27 05:47:41 +00:00`. The most recent
+created on `2020-02-28 05:28:29 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -1035,14 +1035,6 @@ More of a PvE sniper, so we aren't going to have much to lay down here for a gre
   Perks 1 [100%]: *
   Perks 2 [ 25%]: Snapshot
   MWorks  [ 25%]: Handling MW
-  ```
-* **(PvP) "Snipe Like a Psion!" (Relaxed Masterwork) 🐲 (19.6% chance)**: Same as the above, minus the Handling MW requirement. It's one of the most important ones to have here because using the Trophy Hunter is like dragging your reticle through cold molasses.
-  ```
-  Barrels [ 91%]: Arrowhead Brake, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Smallbore, Hammer-Forged Rifling
-  Mags    [ 85%]: Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 25%]: Snapshot
-  MWorks  [100%]: *
   ```
 ## Trophy Hunter - PvE
 CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/watch?v=dGHNinCK3HI) "Solo" also means "playing solo with a random group" (i.e. not coordinated). Nearly a perfect sniper for Gambit, especially paired with Malfeasance. You'll note these rolls are pretty strict, and that's because there are so few perks in the final two columns. Handling is so, so low on this sniper that I think you absolutely want the +20-25 Handling from a combo of the barrel perk and Masterwork.
