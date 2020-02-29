@@ -65,7 +65,7 @@ groups:
           Same as the above, minus Masterwork requirement.
         masterworks: []
       - &lpabsurdlysticky
-        name: (PvP) Absurdly Sticky
+        name: (PvP/PvE) Absurdly Sticky
         desc: >
           With `Moving Target` and `Zen Moment`, your weapon should only produce
           yellow numbers.
@@ -76,12 +76,12 @@ groups:
         masterworks: [Stability MW]
       -
         <<: *lpabsurdlysticky
-        name: (PvP) Absurdly Sticky (Minus Masterwork)
+        name: (PvP/PvE) Absurdly Sticky (Minus Masterwork)
         desc: >
           Same as the above, minus Masterwork requirement.
         masterworks: []
       - &lpabsurdlyplanted
-        name: (PvP) Absurdly Planted
+        name: (PvP/PvE) Absurdly Planted
         desc: >
           A roll based around the criminally underrated `Firmly Planted`. This is
           a pure Slif roll; don't blame any one for it :) M904: "I'm really starting
@@ -93,7 +93,7 @@ groups:
         masterworks: [Stability MW]
       -
         <<: *lpabsurdlyplanted
-        name: (PvP) Absurdly Planted (Minus Masterwork)
+        name: (PvP/PvE) Absurdly Planted (Minus Masterwork)
         desc: >
           Same as the above, minus Masterwork requirement.
         masterworks: []
@@ -113,22 +113,6 @@ groups:
       Some PvE rolls are mentioned above in the PvP set, because the perks
       overlap. I've labelled them PvP/PvE where appropriate.
     rolls:
-      - &lppvemagdrop
-        name: (PvE) Super Picky Mag Dropper
-        desc: >
-          Similar to the above set of rolls but we're rolling with Drop Mag here
-          so we can shoot for other perks in the first column. Firmly Planted is
-          totally usable in PvE and turns this in to a laser beam.
-        barrels: [SPO-57 Front, SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-21 Post]
-        magazines: [Drop Mag, Alloy Magazine]
-        perks1: [Firmly Planted]
-        perks2: [Kill Clip, Rampage]
-        masterworks: [Range MW]
-      -
-        <<: *lppvemagdrop
-        name: (PvE) Super Picky Mag Dropper (Minus MW)
-        desc: Same as above, minus the masterwork.
-        masterworks: []
       -
         name: (PvE) Baseline / Future-Proofing
         desc: >
