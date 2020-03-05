@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-03-01 00:15:14 +00:00`. The most recent
+created on `2020-03-05 03:22:45 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -142,8 +142,8 @@ Ehroar focuses on Breachlight - ["This Sidearm Might Just Be The New Recluse"](h
   MWorks  [ 25%]: Range MW
   ```
 ## Gallant Charge - PvP
-Fallout has an interesting, [pro-Stability take](https://www.youtube.com/watch?v=pVVLwg1pVs4) on the Gallant. "This might be THE fusion rifle for controller players". It's bolt grouping isn't as tight, but you can get Recoil to 100 (with a Counterbalance mod). Go for Stability! With respect to the magazine, I prefer the unaltered charge time.
-* **(PvP) Super Picky Stability (1.3% chance)**: Bringing all of our stability and range tools to bear here. We want to first "fix" the recoil by getting it as close to ending in a `5` as we can. Then we go for Stability!
+Fallout has an interesting, [pro-Stability take](https://www.youtube.com/watch?v=pVVLwg1pVs4) on the Gallant. "This might be THE fusion rifle for controller players". It's bolt grouping isn't as tight, but you can get Recoil to 100 (with a Counterbalance mod). Go for Stability! With respect to the magazine, I prefer the unaltered charge time. There's not too many rolls here because it's not really worth running unless you get enough stat differentiation to make it more valuable than your dozens of alternatives in this crowded Energy slot.
+* **(PvP) Fallout Stabile Zapper Collector's Edition ✨ (1.3% chance)**: Bringing all of our stability and range tools to bear here. We want to first "fix" the recoil by getting it as close to ending in a `5` as we can. Then we go for Stability!
   ```
   Barrels [ 58%]: Extended Barrel, Chambered Compensator, Arrowhead Brake
   Mags    [ 33%]: Particle Repeater
@@ -151,7 +151,7 @@ Fallout has an interesting, [pro-Stability take](https://www.youtube.com/watch?v
   Perks 2 [ 33%]: Tap the Trigger
   MWorks  [ 20%]: Stability MW
   ```
-* **(PvP) Super Picky Stability (Minus Magazines) (3.9% chance)**: Same as above, minus the magazines.
+* **(PvP) Fallout CE ✨(Minus Magazines) (3.9% chance)**: Same as above, minus the magazines.
   ```
   Barrels [ 58%]: Extended Barrel, Chambered Compensator, Arrowhead Brake
   Mags    [100%]: *
@@ -159,69 +159,45 @@ Fallout has an interesting, [pro-Stability take](https://www.youtube.com/watch?v
   Perks 2 [ 33%]: Tap the Trigger
   MWorks  [ 20%]: Stability MW
   ```
-* **(PvP) Super Picky Stability (Minus Masterworks) (6.5% chance)**: Same as above, minus the masterworks.
+* **(PvP) Fallout CE ✨(Minus Masterwork) (6.5% chance)**: Same as above, minus the magazines.
   ```
   Barrels [ 58%]: Extended Barrel, Chambered Compensator, Arrowhead Brake
   Mags    [ 33%]: Particle Repeater
-  Perks 1 [100%]: *
-  Perks 2 [ 33%]: Tap the Trigger
-  MWorks  [100%]: *
-  ```
-* **(PvP) Picky Range / Stability Mix (4.7% chance)**: The next few rolls feature both Stability and Range alternatives in three of the slots.
-  ```
-  Barrels [ 58%]: Extended Barrel, Chambered Compensator, Arrowhead Brake
-  Mags    [ 60%]: Particle Repeater, Projection Fuse
-  Perks 1 [100%]: *
-  Perks 2 [ 33%]: Tap the Trigger
-  MWorks  [ 40%]: Range MW, Stability MW
-  ```
-* **(PvP) Picky Range / Stability Mix (Minus Magazines) (7.8% chance)**: Same as above, minus the magazines.
-  ```
-  Barrels [ 58%]: Extended Barrel, Chambered Compensator, Arrowhead Brake
-  Mags    [100%]: *
-  Perks 1 [100%]: *
-  Perks 2 [ 33%]: Tap the Trigger
-  MWorks  [ 40%]: Range MW, Stability MW
-  ```
-* **(PvP) Picky Range / Stability Mix (Minus Masterworks) (11.7% chance)**: Same as above, minus the masterworks.
-  ```
-  Barrels [ 58%]: Extended Barrel, Chambered Compensator, Arrowhead Brake
-  Mags    [ 60%]: Particle Repeater, Projection Fuse
   Perks 1 [100%]: *
   Perks 2 [ 33%]: Tap the Trigger
   MWorks  [100%]: *
   ```
 ## Gallant Charge - PvE
-CoolGuy has a [terrific PvE review](https://www.youtube.com/watch?v=q6BPg-W8z9g) of the Gallant. It has a PvP perspective but that part isn't as strong as Fallout's (IMHO, on this particular weapon).
-* **(PvE) Sustained DPS (4.2% chance)**: How can we maximize damage uptime and bolt hits while minimizing falloff?
+CoolGuy has a [terrific PvE review](https://www.youtube.com/watch?v=q6BPg-W8z9g) of the Gallant. It has a PvP perspective but that part isn't as strong as Fallout's (IMHO, on this particular weapon). The important perks are your third and fourth column for these rolls, so really any of them are fine.
+* **(PvE) Sustained DPS (2.1% chance)**: How can we maximize damage uptime and bolt hits while minimizing falloff?
   ```
   Barrels [ 72%]: Extended Barrel, Full Bore, Hammer-Forged Rifling, Smallbore
   Mags    [ 60%]: Projection Fuse, Ionized Battery
-  Perks 1 [ 40%]: Demolitionist, Auto-Loading Holster
+  Perks 1 [ 20%]: Demolitionist
   Perks 2 [ 60%]: Swashbuckler, Multikill Clip
   MWorks  [ 40%]: Range MW, Stability MW
   ```
-* **(PvE) Sustained DPS (Minus Barrels) (5.8% chance)**: Same as above, minus the barrels.
+* **(PvE) Sustained DPS (Minus Barrels) (2.9% chance)**: Same as above, minus the barrels.
   ```
   Barrels [100%]: *
   Mags    [ 60%]: Projection Fuse, Ionized Battery
-  Perks 1 [ 40%]: Demolitionist, Auto-Loading Holster
+  Perks 1 [ 20%]: Demolitionist
   Perks 2 [ 60%]: Swashbuckler, Multikill Clip
   MWorks  [ 40%]: Range MW, Stability MW
   ```
-* **(PvE) Sustained DPS (Minus Magazines) (6.9% chance)**: Same as above, minus the magazines.
+* **(PvE) Sustained DPS (Minus Magazines) (3.5% chance)**: Same as above, minus the magazines.
   ```
   Barrels [ 72%]: Extended Barrel, Full Bore, Hammer-Forged Rifling, Smallbore
   Mags    [100%]: *
-  Perks 1 [ 40%]: Demolitionist, Auto-Loading Holster
+  Perks 1 [ 20%]: Demolitionist
   Perks 2 [ 60%]: Swashbuckler, Multikill Clip
   MWorks  [ 40%]: Range MW, Stability MW
   ```
-* **(PvE) Sustained DPS (Minus Masterworks)" (10.4% chance)**: Same as above, minus the masterworks.
+* **(PvE) Sustained DPS (Minus Masterworks) (5.2% chance)**: Same as above, minus the masterworks.
   ```
   Barrels [ 72%]: Extended Barrel, Full Bore, Hammer-Forged Rifling, Smallbore
   Mags    [ 60%]: Projection Fuse, Ionized Battery
-  Perks 1 [ 40%]: Demolitionist, Auto-Loading Holster
+  Perks 1 [ 20%]: Demolitionist
   Perks 2 [ 60%]: Swashbuckler, Multikill Clip
   MWorks  [100%]: *
   ```
@@ -233,7 +209,7 @@ CoolGuy has a [terrific PvE review](https://www.youtube.com/watch?v=q6BPg-W8z9g)
   Perks 2 [ 33%]: Swashbuckler
   MWorks  [ 20%]: Handling MW
   ```
-* **(PvE) Punchy Picky 👊 (Minus Barrels)" (0.4% chance)**: Same as above, minus the barrels.
+* **(PvE) Punchy Picky 👊 (Minus Barrels) (0.4% chance)**: Same as above, minus the barrels.
   ```
   Barrels [100%]: *
   Mags    [ 33%]: Ionized Battery
@@ -241,7 +217,7 @@ CoolGuy has a [terrific PvE review](https://www.youtube.com/watch?v=q6BPg-W8z9g)
   Perks 2 [ 33%]: Swashbuckler
   MWorks  [ 20%]: Handling MW
   ```
-* **(PvE) Punchy Picky 👊 (Minus Magazines)" (0.8% chance)**: Same as above, minus the magazines.
+* **(PvE) Punchy Picky 👊 (Minus Magazines) (0.8% chance)**: Same as above, minus the magazines.
   ```
   Barrels [ 58%]: Arrowhead Brake, Corkscrew Rifling, Fluted Barrel
   Mags    [100%]: *
@@ -249,20 +225,12 @@ CoolGuy has a [terrific PvE review](https://www.youtube.com/watch?v=q6BPg-W8z9g)
   Perks 2 [ 33%]: Swashbuckler
   MWorks  [ 20%]: Handling MW
   ```
-* **(PvE) Punchy Picky 👊 (Minus Masterworks)" (1.3% chance)**: Same as above, minus the masterworks.
+* **(PvE) Punchy Picky 👊 (Minus Masterworks) (1.3% chance)**: Same as above, minus the masterworks.
   ```
   Barrels [ 58%]: Arrowhead Brake, Corkscrew Rifling, Fluted Barrel
   Mags    [ 33%]: Ionized Battery
   Perks 1 [ 20%]: Grave Robber
   Perks 2 [ 33%]: Swashbuckler
-  MWorks  [100%]: *
-  ```
-* **(PvE) Baseline (24.0% chance)**: At a minimum, these combos will serve you well.
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 40%]: Demolitionist, Auto-Loading Holster
-  Perks 2 [ 60%]: Swashbuckler, Multikill Clip
   MWorks  [100%]: *
   ```
 * **(PvE) Punchy Baseline 👊 (6.7% chance)**: If you want to punch something, here's your packing list.
