@@ -1,0 +1,149 @@
+name: Seventh Seraph Officer Revolver
+item_id: 3037520408
+lightgg: https://www.light.gg/db/items/3037520408/seventh-seraph-officer-revolver/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:
+  - 
+    name: PvP
+    summary: >
+      *The best discussion I've seen on Seraph weapons comes from the [Massive
+      Breakdown podcast](https://soundcloud.com/destinymassivebreakdowns/episode-156-seventh-seraph-weapons-breakdown).
+      Hit me up if you're seeing solid discussion/dissection elsewhere!*
+
+
+      [Officer Revolver compared to other randomly-rolled 180s](https://www.light.gg/db/items/compare/?h=C1DOIY;xtxS0;DzBRNi)
+
+
+      **Mercules**: *"Noticably worse than every other Precision hand cannon except
+      for Trust, which has better Aim Assist and Recoil. Statistically, not a
+      super impressive hand cannon."*
+
+
+      **Kyt**: *"The biggest thing it has going for is that Precisions
+      may come back [Slif: he means into the meta]. Right now they're just not fast
+      enough."*
+
+
+      **Mercules**: *"The only way they come back is if they can 3-tap which gives
+      them a 0.67 TTK. Right now they're in a fine spot for what they are. They
+      are really forgiving so the TTK isn't super fast (2H2B)."*
+
+
+      Sounds pretty awful right? Well hold up! it's basically a Service
+      Revolver. The Officer's Revolver has Barrels instead of the Service
+      Revoler's Sights and other perks. It's also super easy to farm. You've got
+      a ton of Warmind Bits kicking around; may as well do something with them.
+      It's not a ringing endorsement 🤷‍♂️
+    rolls:
+      - &ocstability
+        name: (PvP) Stabalizing Barrels 
+        desc: >
+          Pushing Stability with our Barrels so we can go with Range elsewhere.
+          Again, without Vorpal, there's no hook; hard to justify using this over
+          any other Kinetic Hand Cannon.
+        barrels: [Polygonal Rifling, Corkscrew Rifling, Smallbore, Chambered Compensator, Fluted Barrel]
+        magazines: [Accurized Rounds]
+        perks1: []
+        perks2: [Vorpal]
+        masterworks: [Stability MW]
+      -
+        <<: *ocstability
+        name: (PvP) Stabalizing Barrels (Relaxed MW)
+        desc: >
+          Same as the above, minus the MW.
+        masterworks: []
+      - &ocallstability
+        name: (PvP) Max Stability
+        desc: >
+          Stability everywhere we can get it!
+        barrels: [Polygonal Rifling, Corkscrew Rifling, Smallbore, Chambered Compensator, Fluted Barrel]
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+        perks1: []
+        perks2: [Vorpal]
+        masterworks: [Stability MW]
+      -
+        <<: *ocallstability
+        name: (PvP) Stabalizing Barrels (Relaxed MW)
+        desc: >
+          Same as the above, minus the MW.
+        masterworks: []                    
+      - &ocrange
+        name: (PvP) Rangey Barrels 
+        desc: >
+          Pushing Range with our Barrels; going for Stability everywhere else.
+        barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+        magazines: [Steady Rounds]
+        perks1: []
+        perks2: [Vorpal]
+        masterworks: [Stability MW]
+      -
+        <<: *ocrange
+        name: (PvP) Rangey Barrels (Relaxed MW)
+        desc: >
+          Same as the above, minus the MW.
+        masterworks: []
+  - 
+    name: PvE
+    summary: >
+      There are so many great Hand Cannons for general purpose add shredding
+      that you can skip the Officer's Revolver if you don't feel like adding
+      another one to your vault. Personally I had a perfectly rolled Service
+      Revolver (Rapid-Hit + Kill Clip) and never used it because it couldn't
+      one-tap red bar adds - a 140 or 150 with Kill Clip ends up being my
+      preferred.
+
+
+      "OK Slif, so why do you even have a PvE section here?"
+
+      1. It can roll with Vorpal, which activates on Champions and in the
+      current Season 10, Hand Cannons can take Overload and Unstoppable mods
+      (and in the future will rotate back around to take Anti-Barrier mods
+      I'm sure).
+      
+      1. It's a Seraph weapon, and if you're running Warmind mods on your armor,
+      Seraph weapons will spawn Warmind Cells.
+
+
+      "Whatevs, I've never been a fan of Vorpal and I don't really care about the
+      seasonal stuff" - all good, stop reading and farm something else! It can
+      also roll with Osmosis but with how great Hard Light and Borealis are, I
+      can't imagine preparing for a difficult Strike or Nightmare Hunt and saying
+      "Oh let me grab my Officer's Revolver with Osmosis to help us out!" 😉
+    rolls:
+      - 
+        name: (PvE) Slif's "Butter and Citrus Bar Shredder" 🧈
+        desc: >
+          This is designed for dumping rounds in to enemies in high(er) end PvE
+          content. We don't need to be any more specific here; the other columns
+          and Masterwork aren't deal-breakers or roll-makers. By itself, Vorpal
+          isn't strong enough to recommend this over other Kinetics.
+        barrels: []
+        magazines: []
+        perks1: [Fourth Time's the Charm]
+        perks2: [Vorpal]
+        masterworks: []
+      - &oraggrocell
+        name: (PvE) Warmind Cell Generator (Aggressive) ☄️
+        desc: >
+          If you like the look, feel and sound of the Officer's Revolver as I
+          do, and you want a little variety in your Kinetics, this is a fine
+          roll. You'll do solid work with in lower/middle tier PvE content (e.g.
+          your daily bounty grinds, Vanguard Strike playlist).
+        barrels: []
+        magazines: [Drop Mag, Alloy Magazine, Flared Magwell]
+        perks1: [Threat Detector, Ambitious Assassin]
+        perks2: [Multikill Clip]
+        masterworks: []
+      - 
+        <<: *oraggrocell
+        name: (PvE) Warmind Cell Generator (Passive) 🌬
+        desc: >
+          Similar to the above, but since we have Feeding Frenzy for fast
+          reloads, we can relax our magazines.
+        magazines: []
+        perks2: [Feeding Frenzy]
