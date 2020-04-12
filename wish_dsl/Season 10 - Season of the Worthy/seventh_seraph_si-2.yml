@@ -50,7 +50,7 @@ groups:
           Vorpal is really the key here. Without Vorpal, you're better off using
           the better-rolled Anonymous Autumn as mentioned above. Otherwise we're
           going for +Range and +Stability wherever we can get it.
-        barrels: [Polygonal Rifilng, Chambered Compensator, Smallbore, Corkscrew Rifling]
+        barrels: [Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling]
         magazines: [Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag]
         perks1: [Full Auto Trigger System]
         perks2: [Vorpal]
