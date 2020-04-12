@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-04-12 14:16:54 +00:00`. The most recent
+created on `2020-04-12 18:21:35 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -24,6 +24,7 @@ I'm of the opinion it's not worth chasing ツ
 
 **Season 10 - Season of the Worthy**
 * Seventh Seraph Carbine ([PvP](#seventh-seraph-carbine---pvp), [PvE](#seventh-seraph-carbine---pve))
+* Seventh Seraph Officer Revolver ([PvP](#seventh-seraph-officer-revolver---pvp), [PvE](#seventh-seraph-officer-revolver---pve))
 
 **Season 9 - Season of the Dawn**
 * Breachlight ([PvP](#breachlight---pvp), [PvE](#breachlight---pve))
@@ -130,6 +131,98 @@ For its **base stats and perks**, there isn't a whole lot of reason to consider 
   Mags    [ 64%]: High-Caliber Rounds, Flared Magwell, Light Mag
   Perks 1 [ 50%]: Threat Detector, Slideshot, Auto-Loading Holster
   Perks 2 [ 33%]: Swashbuckler, Rampage
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph Officer Revolver - PvP
+*The best discussion I've seen on Seraph weapons comes from the [Massive Breakdown podcast](https://soundcloud.com/destinymassivebreakdowns/episode-156-seventh-seraph-weapons-breakdown). Hit me up if you're seeing solid discussion/dissection elsewhere!*
+
+[Officer Revolver compared to other randomly-rolled 180s](https://www.light.gg/db/items/compare/?h=C1DOIY;xtxS0;DzBRNi)
+
+**Mercules**: *"Noticably worse than every other Precision hand cannon except for Trust, which has better Aim Assist and Recoil. Statistically, not a super impressive hand cannon."*
+
+**Kyt**: *"The biggest thing it has going for is that Precisions may come back [Slif: he means into the meta]. Right now they're just not fast enough."*
+
+**Mercules**: *"The only way they come back is if they can 3-tap which gives them a 0.67 TTK. Right now they're in a fine spot for what they are. They are really forgiving so the TTK isn't super fast (2H2B)."*
+
+Sounds pretty awful right? Well hold up! it's basically a Service Revolver. The Officer's Revolver has Barrels instead of the Service Revoler's Sights and other perks. It's also super easy to farm. You've got a ton of Warmind Bits kicking around; may as well do something with them. It's not a ringing endorsement 🤷‍♂️
+* **(PvP) Stabalizing Barrels (0.9% chance)**: Pushing Stability with our Barrels so we can go with Range elsewhere. Again, without Vorpal, there's no hook; hard to justify using this over any other Kinetic Hand Cannon.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Corkscrew Rifling, Smallbore, Chambered Compensator, Fluted Barrel
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Stabalizing Barrels (Relaxed MW) (3.5% chance)**: Same as the above, minus the MW.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Corkscrew Rifling, Smallbore, Chambered Compensator, Fluted Barrel
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvP) Max Stability (2.2% chance)**: Stability everywhere we can get it!
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Corkscrew Rifling, Smallbore, Chambered Compensator, Fluted Barrel
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Stabalizing Barrels (Relaxed MW) (8.9% chance)**: Same as the above, minus the MW.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Corkscrew Rifling, Smallbore, Chambered Compensator, Fluted Barrel
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvP) Rangey Barrels (0.6% chance)**: Pushing Range with our Barrels; going for Stability everywhere else.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Rangey Barrels (Relaxed MW) (2.4% chance)**: Same as the above, minus the MW.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph Officer Revolver - PvE
+There are so many great Hand Cannons for general purpose add shredding that you can skip the Officer's Revolver if you don't feel like adding another one to your vault. Personally I had a perfectly rolled Service Revolver (Rapid-Hit + Kill Clip) and never used it because it couldn't one-tap red bar adds - a 140 or 150 with Kill Clip ends up being my preferred.
+
+"OK Slif, so why do you even have a PvE section here?"
+1. It can roll with Vorpal, which activates on Champions and in the current Season 10, Hand Cannons can take Overload and Unstoppable mods (and in the future will rotate back around to take Anti-Barrier mods I'm sure).
+1. It's a Seraph weapon, and if you're running Warmind mods on your armor, Seraph weapons will spawn Warmind Cells.
+
+"Whatevs, I've never been a fan of Vorpal and I don't really care about the seasonal stuff" - all good, stop reading and farm something else! It can also roll with Osmosis but with how great Hard Light and Borealis are, I can't imagine preparing for a difficult Strike or Nightmare Hunt and saying "Oh let me grab my Officer's Revolver with Osmosis to help us out!" 😉
+* **(PvE) Slif's "Butter and Citrus Bar Shredder" 🧈 (2.8% chance)**: This is designed for dumping rounds in to enemies in high(er) end PvE content. We don't need to be any more specific here; the other columns and Masterwork aren't deal-breakers or roll-makers. By itself, Vorpal isn't strong enough to recommend this over other Kinetics.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Fourth Time's the Charm
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvE) Warmind Cell Generator (Aggressive) ☄️ (3.6% chance)**: If you like the look, feel and sound of the Officer's Revolver as I do, and you want a little variety in your Kinetics, this is a fine roll. You'll do solid work with in lower/middle tier PvE content (e.g. your daily bounty grinds, Vanguard Strike playlist).
+  ```
+  Barrels [100%]: *
+  Mags    [ 64%]: Drop Mag, Alloy Magazine, Flared Magwell
+  Perks 1 [ 33%]: Threat Detector, Ambitious Assassin
+  Perks 2 [ 16%]: Multikill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) Warmind Cell Generator (Passive) 🌬 (5.6% chance)**: Similar to the above, but since we have Feeding Frenzy for fast reloads, we can relax our magazines.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Threat Detector, Ambitious Assassin
+  Perks 2 [ 16%]: Feeding Frenzy
   MWorks  [100%]: *
   ```
 ## Breachlight - PvP
