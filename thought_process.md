@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-04-12 18:21:35 +00:00`. The most recent
+created on `2020-04-12 21:56:57 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -134,64 +134,53 @@ For its **base stats and perks**, there isn't a whole lot of reason to consider 
   MWorks  [100%]: *
   ```
 ## Seventh Seraph Officer Revolver - PvP
-*The best discussion I've seen on Seraph weapons comes from the [Massive Breakdown podcast](https://soundcloud.com/destinymassivebreakdowns/episode-156-seventh-seraph-weapons-breakdown). Hit me up if you're seeing solid discussion/dissection elsewhere!*
+Mercules and Kyt [aren't super hot](https://soundcloud.com/destinymassivebreakdowns/episode-156-seventh-seraph-weapons-breakdown#t=33:44) on the Officer's Revolver.
 
-[Officer Revolver compared to other randomly-rolled 180s](https://www.light.gg/db/items/compare/?h=C1DOIY;xtxS0;DzBRNi)
+> **Mercules:** *"Noticably worse than every other Precision hand cannon except for Trust, which has better Aim Assist and Recoil then the Officer's. Statistically, Officer's is not a super impressive hand cannon."*
 
-**Mercules**: *"Noticably worse than every other Precision hand cannon except for Trust, which has better Aim Assist and Recoil. Statistically, not a super impressive hand cannon."*
+Contrast that with [Drewsky's thoughts](https://www.youtube.com/watch?v=W3kCNDYUnzM), who finds the novel perks like Firmly Planted and Timed Payload worth strong consideration. Notably, he had previously [released a video](https://www.youtube.com/watch?v=IevtKKR_YxM) wishing for more Hand Cannons to have Firmly Planted.
+> **Drewsky:** *"I think this is actually a pretty competitive group of stats especially compared to a lot of the other 180 RPM hand cannons. What makes it special is that it has a group of pretty competitive stats; maybe not the best stats but maybe the best perk pool in combination with those stats available on a 180."*
 
-**Kyt**: *"The biggest thing it has going for is that Precisions may come back [Slif: he means into the meta]. Right now they're just not fast enough."*
-
-**Mercules**: *"The only way they come back is if they can 3-tap which gives them a 0.67 TTK. Right now they're in a fine spot for what they are. They are really forgiving so the TTK isn't super fast (2H2B)."*
-
-Sounds pretty awful right? Well hold up! it's basically a Service Revolver. The Officer's Revolver has Barrels instead of the Service Revoler's Sights and other perks. It's also super easy to farm. You've got a ton of Warmind Bits kicking around; may as well do something with them. It's not a ringing endorsement 🤷‍♂️
-* **(PvP) Stabalizing Barrels (0.9% chance)**: Pushing Stability with our Barrels so we can go with Range elsewhere. Again, without Vorpal, there's no hook; hard to justify using this over any other Kinetic Hand Cannon.
+If you're more in the Mercules/Kyt camp, you're looking for the standard solid set of Range-prioritizing base stats. If that's the case, Officer's Revolver won't be a super exciting gun for you and I suggest you check out other hand cannons in this slot! (e.g. Spare Rations, Austringer, Dire Promise, Old Fashioned, ...)
+* **(PvP) Drewsky's "Range First" Collector's Edition 🏔 (0.1% chance)**: Drewsky: *"Prioritizing Range while giving the best oveall stat package possible."* On Precision Hand Cannons the accuracy cone doesn't bloom much and recovers quickly. Given that Stability would help us with that, and Stabilty is very good, we're going to focus on other perks. Wait what? Timed Payload?! You said other perks but wow... that's supposed to be positively horrible. It causes double the flinch and the explosion has no range falloff. "But it lowers your TTK!" On a 180 RPM Hand Cannon, Timed Payload shouldn't delay TTK (Drewsky didn't have one on hand to verify the math) meaning you get the kill on the last bullet, not on the last 17 damage from Timed Payload.
   ```
-  Barrels [ 83%]: Polygonal Rifling, Corkscrew Rifling, Smallbore, Chambered Compensator, Fluted Barrel
+  Barrels [ 22%]: Hammer-Forged Rifling
   Mags    [ 25%]: Accurized Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [ 25%]: Stability MW
+  Perks 1 [ 16%]: Firmly Planted
+  Perks 2 [ 50%]: Multikill Clip, Timed Payload, Vorpal
+  MWorks  [ 25%]: Range MW
   ```
-* **(PvP) Stabalizing Barrels (Relaxed MW) (3.5% chance)**: Same as the above, minus the MW.
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Corkscrew Rifling, Smallbore, Chambered Compensator, Fluted Barrel
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvP) Max Stability (2.2% chance)**: Stability everywhere we can get it!
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Corkscrew Rifling, Smallbore, Chambered Compensator, Fluted Barrel
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Stabalizing Barrels (Relaxed MW) (8.9% chance)**: Same as the above, minus the MW.
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Corkscrew Rifling, Smallbore, Chambered Compensator, Fluted Barrel
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvP) Rangey Barrels (0.6% chance)**: Pushing Range with our Barrels; going for Stability everywhere else.
+* **(PvP) "Range First" CE 🏔(Relaxed Barrels) (0.3% chance)**: < Same as the above, with a few more Range-enhancing Barrels.
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [ 25%]: Stability MW
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 16%]: Firmly Planted
+  Perks 2 [ 50%]: Multikill Clip, Timed Payload, Vorpal
+  MWorks  [ 25%]: Range MW
   ```
-* **(PvP) Rangey Barrels (Relaxed MW) (2.4% chance)**: Same as the above, minus the MW.
+* **(PvP) "Range First" CE 🏔(Relaxed Planting) (1.8% chance)**: < Same as the above, minus Firmly Planted which might not be to everyone's playstyle/preference and still leaves you with a super unique roll.
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Steady Rounds
+  Mags    [ 25%]: Accurized Rounds
   Perks 1 [100%]: *
-  Perks 2 [ 16%]: Vorpal
+  Perks 2 [ 50%]: Multikill Clip, Timed Payload, Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Range First" CE 🏔(Relaxed MW) (7.3% chance)**: < With Accurized Rounds and a Range-boosting Barrel, still a super solid roll!
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 50%]: Multikill Clip, Timed Payload, Vorpal
   MWorks  [100%]: *
+  ```
+* **(PvP) "Range First" CE 🏔(Relaxed Magazine) (7.3% chance)**: < With Range-boosting Barrel and a Range Masterwork, still a super solid roll!
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [100%]: *
+  Perks 2 [ 50%]: Multikill Clip, Timed Payload, Vorpal
+  MWorks  [ 25%]: Range MW
   ```
 ## Seventh Seraph Officer Revolver - PvE
 There are so many great Hand Cannons for general purpose add shredding that you can skip the Officer's Revolver if you don't feel like adding another one to your vault. Personally I had a perfectly rolled Service Revolver (Rapid-Hit + Kill Clip) and never used it because it couldn't one-tap red bar adds - a 140 or 150 with Kill Clip ends up being my preferred.
