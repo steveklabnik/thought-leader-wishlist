@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-03-05 03:22:45 +00:00`. The most recent
+created on `2020-04-12 14:16:54 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -22,6 +22,9 @@ I'm of the opinion it's not worth chasing ツ
 
 ---
 
+**Season 10 - Season of the Worthy**
+* Seventh Seraph Carbine ([PvP](#seventh-seraph-carbine---pvp), [PvE](#seventh-seraph-carbine---pve))
+
 **Season 9 - Season of the Dawn**
 * Breachlight ([PvP](#breachlight---pvp), [PvE](#breachlight---pve))
 * Gallant Charge ([PvP](#gallant-charge---pvp), [PvE](#gallant-charge---pve))
@@ -41,6 +44,94 @@ I'm of the opinion it's not worth chasing ツ
 * Last Perdition ([PvP / PvE](#last-perdition---pvp--pve), [PvE](#last-perdition---pve))
 
 ---
+## Seventh Seraph Carbine - PvP
+*The best discussion I've seen on Seraph weapons comes from the [Massive Breakdown podcast](https://soundcloud.com/destinymassivebreakdowns/episode-156-seventh-seraph-weapons-breakdown). Hit me up if you're seeing solid discussion/dissection elsewhere!*
+
+[Carbine compared to other randomly-rolled 450 RPM Autos](https://www.light.gg/db/items/compare/?h=BdCxNP;Bqp0Wx;mJ1-6)
+
+In Season 10, 450 RPM Precision Frame Auto Rifles like the Carbine aren't part of the PvP meta. It does have a best-in-class base Recoil of `74` meaning you can safely choose other barrels than Arrowhead Brake or Chambered Compensator (although Chambered is still fine!). It's also the only Auto Rifle available now in the game that can roll Vorpal.
+
+Given the Carbine's super low Aim Assist, I suggest a `Targeting Adjuster` mod for all PvP rolls.
+* **(PvP) Mercules "Vault it Until the Meta Changes" 🔒Collector's Edition (0.5% chance)**: Marcules isn't a fan of this in PvP, but there have been times where the meta has shifted as it did in S10 towards 600 RPM Adaptive Autos. There's certainly a chance 450s see a change in the future. If you happen across a high-stability roll, he suggests vaulting.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 33%]: Moving Target, Rangefinder
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Vault It" 🔒(Relaxed MW) (1.9% chance)**: We get Stability from our Barrels or Magazines; can afford to lose out on Stability MW. Reload and Handling Masterworks would be solid choices here too. You won't see too much benefit from Range, but it never hurts.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 33%]: Moving Target, Rangefinder
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Vault It" 🔒(Relaxed Perks) (2.8% chance)**: Slideshot is a solid perk but if 450s become the meta again, it's not a perk you're going to miss on an otherwise solid roll.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 33%]: Moving Target, Rangefinder
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Vault It" 🔒(Relaxed MW and Perks) (11.2% chance)**: Same as the above rolls, minus the first column perks and masterwork
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 33%]: Moving Target, Rangefinder
+  MWorks  [100%]: *
+  ```
+* **(PvP) Slif's "Super Shredder" 💥Collector's Edition (1.4% chance)**: Shredding supers in 6s is, we can all agree, Destiny's National Pastime. Here you'll find the Mercule's suggested roll reprised with Vorpal in the final column.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Super Shredder" 💥(Relaxed MW) (5.6% chance)**: We get Stability from our Barrels or Magazines; can afford to lose out on Stability MW. Reload and Handling Masterworks would be solid choices here too. You won't see too much benefit from Range, but it never hurts.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph Carbine - PvE
+For its **base stats and perks**, there isn't a whole lot of reason to consider the Carbine for PvE. Breakneck, the Gambit Pinnacle weapon, is also 450RPM and recently received a buff in Season 10. It positively shreds in PvE and since it's a Legendary weapon, it can take the Season 10 Artifact mods.
+
+"OK Slif, so why do you even have a PvE section here?"
+1. It can roll with Vorpal, which activates on Champions and in the current Season 10, Auto Rifles can take Overload mods (and in the future will rotate back around to take Anti-Barrier mods I'm sure).
+1. It's a Seraph weapon, and if you're running Warmind mods on your armor, Seraph weapons will spawn Warmind Cells.
+
+"Whatevs, I've never been a fan of Vorpal and I don't really care about the seasonal stuff" - all good, stop reading and farm something else 😃
+* **(PvE) Slif's "Butter and Citrus Bar Shredder" 🧈 (0.7% chance)**: This is designed for dumping rounds in to enemies in high(er) end PvE content.
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: High-Caliber Rounds
+  Perks 1 [ 16%]: Fourth Time's the Charm
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Butter Bar Shredder" 🧈(Relaxed Magazines) (2.8% chance)**: The core of this roll are the final two perk columns. Stil phenomenal sans HCR.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Fourth Time's the Charm
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvE) General Purpose Thinning of the Hordes 👹 (8.9% chance)**: Run-of-the-mill Auto-Rifle PvE slayer perk set here. If you like the look, feel and sound of the Carbine as I do, you'll do solid work with this roll in lower/middle tier PvE content (e.g. your daily bounty grinds).
+  ```
+  Barrels [ 83%]: Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 64%]: High-Caliber Rounds, Flared Magwell, Light Mag
+  Perks 1 [ 50%]: Threat Detector, Slideshot, Auto-Loading Holster
+  Perks 2 [ 33%]: Swashbuckler, Rampage
+  MWorks  [100%]: *
+  ```
 ## Breachlight - PvP
 CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE and PvP but focuses intensely on PvP. Some choice cuts: "I would try other rolls while I was reviewing this and I kept coming back to Vorpal." "Landing shots is more important than accuracy; shouldn't be worried about straight precision. More important to get the recoil straight up and down than it is to add stability because you have to control the stability after every burst anyway." I have to agree - Vorpal is pretty amazing in PvP and I did wish I had it several times. Without Vorpal, it's just another two-burst sidearm. You may as well use a Smuggler's Word with Tap the Trigger, which has one of the lowest TTKs in all of Destiny.
 * **(PvP) Slif's Picky Super Killer 💥 (0.2% chance)**: This is my personal perfect PVP roll. Threat Detector has a far longer range than you'd think (beyond damage falloff) and Vorpal shreds through supers. The rest of this roll is all about maxing out the range.
