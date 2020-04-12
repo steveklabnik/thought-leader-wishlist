@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-04-12 21:56:57 +00:00`. The most recent
+created on `2020-04-12 23:34:41 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -25,6 +25,7 @@ I'm of the opinion it's not worth chasing ツ
 **Season 10 - Season of the Worthy**
 * Seventh Seraph Carbine ([PvP](#seventh-seraph-carbine---pvp), [PvE](#seventh-seraph-carbine---pve))
 * Seventh Seraph Officer Revolver ([PvP](#seventh-seraph-officer-revolver---pvp), [PvE](#seventh-seraph-officer-revolver---pve))
+* Seventh Seraph SI-2 ([PvP](#seventh-seraph-si-2---pvp), [PvE](#seventh-seraph-si-2---pve))
 
 **Season 9 - Season of the Dawn**
 * Breachlight ([PvP](#breachlight---pvp), [PvE](#breachlight---pve))
@@ -212,6 +213,76 @@ There are so many great Hand Cannons for general purpose add shredding that you 
   Mags    [100%]: *
   Perks 1 [ 33%]: Threat Detector, Ambitious Assassin
   Perks 2 [ 16%]: Feeding Frenzy
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph SI-2 - PvP
+The SI-2 is the 2020 version of the Anonymous Autumn (Kyt: *"which is the best-in-class for lightweight sidearms"*) and is the only other randomly rolled 360 RPM Energy sidearm. Mercules is on the same page: *"It (SI-2) doesn't have great Stability or great Range. I would pick a well-rolled Anonymous Autumn over this every time."* Why do they say that? It's got basically the same stats as an Anonymous Autumn but has 33% less Range and 20% less Stability. On the plus side the SI-2 has 7% better Handling (64 > 69) 🙃
+
+Even TrueVanguard, who absolutely loves the Anonymous Autumn (with over 14,000 kills) depicts the SI-2 as situational, relying primarily on Vorpal to justify using it. Check out [his thoughts](https://www.youtube.com/watch?v=cCtP2PjAEgY).
+
+If you are going to consider the SI-2 for PvP, a few things to keep in mind:
+* The recoil direction is 95, so no need to worry about straightening it out. I.e. the +Recoil barrels shouldn't be your first pick. Instead, focus on Range and Stability.
+* Full Auto is going to be a make-or-break perk for some, as many guardians have a love-it-or-hate-it relationsihp with single-shot sidearms. If that's your thing, know that no other perk in that column is a must-have. I find that 360s are unsuable for me without it, so I'll be picking one of these up to see how it plays with Vorpal. 
+
+On to the rolls!
+* **(PvP) Preference - Full Auto Trigger System (0.8% chance)**: Vorpal is really the key here. Without Vorpal, you're better off using the better-rolled Anonymous Autumn as mentioned above. Otherwise we're going for +Range and +Stability wherever we can get it.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling
+  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 16%]: Full Auto Trigger System
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 50%]: Stability MW, Range MW
+  ```
+* **(PvP) Full Auto (Minus Masterworks) (1.6% chance)**: The presence or lack of the right masterwork isn't a deal-breaker.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling
+  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 16%]: Full Auto Trigger System
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvP) Preference - Threat Detector (or "Not Full Auto") (0.8% chance)**: Same as the above, swapping Full Auto for Threat Detector.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling
+  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 16%]: Threat Detector
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 50%]: Stability MW, Range MW
+  ```
+* **(PvP) Threat Detector (Minus Masterworks) (1.6% chance)**: The presence or lack of the right masterwork isn't a deal-breaker.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling
+  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 16%]: Threat Detector
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph SI-2 - PvE
+Like all other Seraph weapons, the SI-2 contributes to the generation of Warmind cells in PvE. If that's not your thing, you can pretty much pass on this weapon full stop. It could have made beautiful, beautiful music with the `Wrath of Rasputin` Warmind mod: `Solar splash damage final blows have a chance to create Warmind Cells`. Unfortunately the SI-2 is a Void weapon 👿
+
+That being said, there are a few combos that could prove interesting for the discerning collector / sidearm aficionado.
+* **(PvE) Sparks Flying! 🎇 (2.8% chance)**: The SI-2 is the only sidearm in the game that can roll with both Demolitionist and Dragonfly. That's exciting because Demolitionist counts the Dragonfly collateral kills towards getting your grenade back. Don't forget the `Dragonfly Spec` mod from Ada-1!
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Demolitionist
+  Perks 2 [ 16%]: Dragonfly
+  MWorks  [100%]: *
+  ```
+* **(PvE) Champion Slayer 🏆 (2.8% chance)**: Sidearms are all the rage in the Season 10 Artifact, and certainly will be again at some point in the future. If you want to dump rounds in to Champions, you don't have any other options in this slot.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Full Auto Trigger System
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvE) You're Trapped In Here With Me 🏢 (2.8% chance)**: Like Grave Robber and Swashbuckler, these two perks play super well off each other. If you love sidearms, considering adding this to your collection. You'll do some serious damage during Seraph Tower events.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Threat Detector
+  Perks 2 [ 16%]: Surrounded
   MWorks  [100%]: *
   ```
 ## Breachlight - PvP
