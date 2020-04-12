@@ -11,82 +11,81 @@ groups:
   - 
     name: PvP
     summary: >
-      *The best discussion I've seen on Seraph weapons comes from the [Massive
-      Breakdown podcast](https://soundcloud.com/destinymassivebreakdowns/episode-156-seventh-seraph-weapons-breakdown).
-      Hit me up if you're seeing solid discussion/dissection elsewhere!*
+      Mercules and Kyt [aren't super hot](https://soundcloud.com/destinymassivebreakdowns/episode-156-seventh-seraph-weapons-breakdown#t=33:44)
+      on the Officer's Revolver.
 
-
-      [Officer Revolver compared to other randomly-rolled 180s](https://www.light.gg/db/items/compare/?h=C1DOIY;xtxS0;DzBRNi)
-
-
-      **Mercules**: *"Noticably worse than every other Precision hand cannon
+      
+      > **Mercules:** *"Noticably worse than every other Precision hand cannon
       except for Trust, which has better Aim Assist and Recoil then the Officer's.
       Statistically, Officer's is not a super impressive hand cannon."*
 
 
-      **Kyt**: *"The biggest thing it has going for is that Precisions
-      may come back [Slif: he means into the meta]. Right now they're just not fast
-      enough."*
+      Contrast that with
+      [Drewsky's thoughts](https://www.youtube.com/watch?v=W3kCNDYUnzM),
+      who finds the novel perks like Firmly Planted and Timed Payload
+      worth strong consideration. Notably, he had previously
+      [released a video](https://www.youtube.com/watch?v=IevtKKR_YxM)
+      wishing for more Hand Cannons to have Firmly Planted.
 
+      > **Drewsky:** *"I think this is actually a pretty competitive group of stats
+      especially compared to a lot of the other 180 RPM hand cannons. What makes
+      it special is that it has a group of pretty competitive stats; maybe not
+      the best stats but maybe the best perk pool in combination with those
+      stats available on a 180."*
 
-      **Mercules**: *"The only way they come back is if they can 3-tap which gives
-      them a 0.67 TTK. Right now they're in a fine spot for what they are. They
-      are really forgiving so the TTK isn't super fast (2H2B)."*
-
-
-      Sounds pretty awful right? Well hold up! it's basically a Service
-      Revolver. The Officer's Revolver has Barrels instead of the Service
-      Revoler's Sights and other perks. It's also super easy to farm. You've got
-      a ton of Warmind Bits kicking around; may as well do something with them.
-      It's not a ringing endorsement 🤷‍♂️
+      
+      If you're more in the Mercules/Kyt camp, you're looking for the standard
+      solid set of Range-prioritizing base stats. If that's the case, Officer's
+      Revolver won't be a super exciting gun for you and I suggest you check out
+      other hand cannons in this slot! (e.g. Spare Rations, Austringer, Dire
+      Promise, Old Fashioned, ...)
     rolls:
-      - &ocstability
-        name: (PvP) Stabalizing Barrels 
+      - &ocdrewsky
+        name: (PvP) Drewsky's "Range First" Collector's Edition 🏔
         desc: >
-          Pushing Stability with our Barrels so we can go with Range elsewhere.
-          Again, without Vorpal, there's no hook; hard to justify using this over
-          any other Kinetic Hand Cannon.
-        barrels: [Polygonal Rifling, Corkscrew Rifling, Smallbore, Chambered Compensator, Fluted Barrel]
+          Drewsky: *"Prioritizing Range while giving the best oveall stat package
+          possible."* On Precision Hand Cannons the accuracy cone doesn't bloom
+          much and recovers quickly. Given that Stability would help us with
+          that, and Stabilty is very good, we're going to focus on other
+          perks. Wait what? Timed Payload?! You said other perks but wow...
+          that's supposed to be positively horrible. It causes double the flinch
+          and the explosion has no range falloff. "But it lowers your TTK!"
+          On a 180 RPM Hand Cannon, Timed Payload shouldn't delay TTK (Drewsky
+          didn't have one on hand to verify the math) meaning you get the kill
+          on the last bullet, not on the last 17 damage from Timed Payload.
+        barrels: [Hammer-Forged Rifling]
         magazines: [Accurized Rounds]
-        perks1: []
-        perks2: [Vorpal]
-        masterworks: [Stability MW]
-      -
-        <<: *ocstability
-        name: (PvP) Stabalizing Barrels (Relaxed MW)
-        desc: >
-          Same as the above, minus the MW.
-        masterworks: []
-      - &ocallstability
-        name: (PvP) Max Stability
-        desc: >
-          Stability everywhere we can get it!
-        barrels: [Polygonal Rifling, Corkscrew Rifling, Smallbore, Chambered Compensator, Fluted Barrel]
-        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
-        perks1: []
-        perks2: [Vorpal]
-        masterworks: [Stability MW]
-      -
-        <<: *ocallstability
-        name: (PvP) Stabalizing Barrels (Relaxed MW)
-        desc: >
-          Same as the above, minus the MW.
-        masterworks: []                    
-      - &ocrange
-        name: (PvP) Rangey Barrels 
-        desc: >
-          Pushing Range with our Barrels; going for Stability everywhere else.
+        perks1: [Firmly Planted]
+        perks2: [Multikill Clip, Timed Payload, Vorpal]
+        masterworks: [Range MW]
+      - &ocdbarrels
+        <<: *ocdrewsky
+        name: (PvP) "Range First" CE 🏔(Relaxed Barrels)
+        desc: <
+          Same as the above, with a few more Range-enhancing Barrels.
         barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
-        magazines: [Steady Rounds]
+      - &ocdplanting
+        <<: *ocdbarrels
+        name: (PvP) "Range First" CE 🏔(Relaxed Planting)
+        desc: <
+          Same as the above, minus Firmly Planted which might not be to
+          everyone's playstyle/preference and still leaves you with a
+          super unique roll.
         perks1: []
-        perks2: [Vorpal]
-        masterworks: [Stability MW]
       -
-        <<: *ocrange
-        name: (PvP) Rangey Barrels (Relaxed MW)
-        desc: >
-          Same as the above, minus the MW.
+        <<: *ocdplanting
+        name: (PvP) "Range First" CE 🏔(Relaxed MW)
+        desc: <
+          With Accurized Rounds and a Range-boosting Barrel, still a super
+          solid roll!
         masterworks: []
+      -
+        <<: *ocdplanting
+        name: (PvP) "Range First" CE 🏔(Relaxed Magazine)
+        desc: <
+          With Range-boosting Barrel and a Range Masterwork, still a super
+          solid roll!
+        magazines: []
   - 
     name: PvE
     summary: >
