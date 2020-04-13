@@ -7,32 +7,4 @@ slots:
   perks1:      {t: 5, c: 1}
   perks2:      {t: 6, c: 1}
   masterworks: {t: 4, c: 1}
-groups:
-  - 
-    name: PvE
-    summary: >
-      The only reason to run the SAW is that it contributes to Warmind Cell
-      generation. It's Recoil at 41 might be the worst in all of Destiny.
-      Mercules: *"It's recoil is more horizontal than vertical"*. That being
-      said, it's stats and perks scream "Boss DPS" at which point it won't
-      actually generate Warmind Cells since you need kills for that.
-
-
-      Given how difficult it is to farm Warmind weapons due to the scarcity
-      of Encrypted Warmind bits, you're better off picking up almost any other
-      Warmind weapon than this.
-
-
-      If you do want a Machine Gun for boss damage, grab Xenophage or farm the
-      Black Armory for Hammerhead or Menagerie for Fixed Odds.
-    rolls:
-      - 
-        name: (PvE) "I just want to generate some Warmind Cells" 
-        desc: >
-          Alright, you just want to have one of these in your collection, I get
-          it!
-        barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Smallbore, Polygonal Rifling, Fluted Barrel]
-        magazines: [Ricochet Rounds, Appended Mag, Flared Magwell, Light Mag]
-        perks1: [Auto-Loading Holster, Field Prep, Clown Cartridge]
-        perks2: [Firing Line, Vorpal]
-        masterworks: []
+groups: []
