@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-04-12 23:34:41 +00:00`. The most recent
+created on `2020-04-13 00:05:53 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -25,6 +25,7 @@ I'm of the opinion it's not worth chasing ツ
 **Season 10 - Season of the Worthy**
 * Seventh Seraph Carbine ([PvP](#seventh-seraph-carbine---pvp), [PvE](#seventh-seraph-carbine---pve))
 * Seventh Seraph Officer Revolver ([PvP](#seventh-seraph-officer-revolver---pvp), [PvE](#seventh-seraph-officer-revolver---pve))
+* Seventh Seraph SAW ([PvE](#seventh-seraph-saw---pve))
 * Seventh Seraph SI-2 ([PvP](#seventh-seraph-si-2---pvp), [PvE](#seventh-seraph-si-2---pve))
 
 **Season 9 - Season of the Dawn**
@@ -213,6 +214,20 @@ There are so many great Hand Cannons for general purpose add shredding that you 
   Mags    [100%]: *
   Perks 1 [ 33%]: Threat Detector, Ambitious Assassin
   Perks 2 [ 16%]: Feeding Frenzy
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph SAW - PvE
+The only reason to run the SAW is that it contributes to Warmind Cell generation. It's Recoil at 41 might be the worst in all of Destiny. Mercules: *"It's recoil is more horizontal than vertical"*. That being said, it's stats and perks scream "Boss DPS" at which point it won't actually generate Warmind Cells since you need kills for that.
+
+Given how difficult it is to farm Warmind weapons due to the scarcity of Encrypted Warmind bits, you're better off picking up almost any other Warmind weapon than this.
+
+If you do want a Machine Gun for boss damage, grab Xenophage or farm the Black Armory for Hammerhead or Menagerie for Fixed Odds.
+* **(PvE) "I just want to generate some Warmind Cells" (14.4% chance)**: Alright, you just want to have one of these in your collection, I get it!
+  ```
+  Barrels [ 91%]: Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Smallbore, Polygonal Rifling, Fluted Barrel
+  Mags    [ 78%]: Ricochet Rounds, Appended Mag, Flared Magwell, Light Mag
+  Perks 1 [ 60%]: Auto-Loading Holster, Field Prep, Clown Cartridge
+  Perks 2 [ 33%]: Firing Line, Vorpal
   MWorks  [100%]: *
   ```
 ## Seventh Seraph SI-2 - PvP
