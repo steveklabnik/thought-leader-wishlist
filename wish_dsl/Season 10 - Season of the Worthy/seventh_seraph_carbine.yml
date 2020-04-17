@@ -11,73 +11,119 @@ groups:
   - 
     name: PvP
     summary: >
-      *The best discussion I've seen on Seraph weapons comes from the [Massive
-      Breakdown podcast](https://soundcloud.com/destinymassivebreakdowns/episode-156-seventh-seraph-weapons-breakdown).
-      Hit me up if you're seeing solid discussion/dissection elsewhere!*
+      The Seventh Seraph Carbine (SSC) is a 450 RPM "Precision Frame" Kinetic
+      Auto Rifle. Let's start with a quick comparison to randomly-rolled 450s,
+      over on
+      [light.gg](https://www.light.gg/db/items/compare/?h=BdCxNP;mJ1-6;Bqp0Wx;Fju9i;DmTiv3).
+      In general the 450s are fairly the same stat-wise, with a material
+      deviation in Aim Assist for the SSC; easily addressable with an Aim Assist
+      mod.
 
       
-      [Carbine compared to other randomly-rolled 450 RPM Autos](https://www.light.gg/db/items/compare/?h=BdCxNP;Bqp0Wx;mJ1-6)
+      Should you pick one up for use in Season 10? In Season 10, 600 RPM
+      "Adaptive Frame" Auto Rifles are the meta (e.g. SUROS Regime, Monte Carlo,
+      Hard Light). If you've stepped foot into any game mode in the Crucible,
+      you've no doubt been a part of a Hard Light laser-light-show rave :) So
+      no, there's no pressing reason if you're primarily a PvP player or if you
+      already have the PvE roll you want, to keep chasing SSC rolls for PvP. Of
+      course there's a chance 450s are buffed in later patches/seasons, so if
+      you come across a decent roll, by all means throw it in the vault. I
+      wouldn't suggest going out of your way to farm SSC bounties however.
+      
 
-
-      In Season 10, 450 RPM Precision Frame Auto Rifles like the Carbine
-      aren't part of the PvP meta. It does have a best-in-class base Recoil of
-      `74` meaning you can safely choose other barrels than Arrowhead Brake or
-      Chambered Compensator (although Chambered is still fine!). It's also the
-      only Auto Rifle available now in the game that can roll Vorpal.
-
-
-      Given the Carbine's super low Aim Assist, I suggest a `Targeting Adjuster`
-      mod for all PvP rolls.
+      I played with a
+      [zero-Recoil, high Stability](https://d2gunsmith.com/w/DY2Aqw8sOokyOvhv0Wv1Ehw9zBP2FwQRxW2Ig9KX1MIo3LEpW)
+      roll for several Iron Banner games, with both Enhanced Targeting and
+      Enhanced Unflinching... I immediately wanted to go back to using my Arc
+      Logic with Moving Target and Tap the Trigger :) The SSC is definitely a
+      bit slower than you'd prefer. That being said, if you're a fan of ARs or
+      even just the SSC itself (it looks and sounds terrific IMHO!), here's a
+      few rolls worth considering that you can put to work today.
     rolls:
-      - &sscvault
-        name: (PvP) Mercules "Vault it Until the Meta Changes" 🔒Collector's Edition 
+      - &sscclassic
+        name: (PvP) Slif's "Classic Stable Auto Rifle" 🎩 Collector's Edition 
         desc: >
-          Marcules isn't a fan of this in PvP, but there have been times where
-          the meta has shifted as it did in S10 towards 600 RPM Adaptive Autos.
-          There's certainly a chance 450s see a change in the future. If you
-          happen across a high-stability roll, he suggests vaulting.
-        barrels: [Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator]
-        magazines: [Ricochet Rounds, Flared Magwell]
+          This is your workhorse Auto Rifle roll: vertical recoil and as much
+          Stability and accuracy as you can get.
+        barrels: [Arrowhead Brake]
+        magazines: [Ricochet Rounds]
         perks1: [Slideshot]
         perks2: [Moving Target, Rangefinder]
         masterworks: [Stability MW]
+      - 
+        <<: *sscclassic
+        name: (PvP) "Classic" 🎩(Relaxed Slideshot)
+        desc: >
+          Slideshot is active for two seconds starting from the slide, so you
+          really only have about one second to put it to use. Without it, this
+          is still a phenomenal roll.
+        perks1: []
+      - 
+        <<: *sscclassic
+        name: (PvP) "Classic" 🎩(Relaxed Slideshot and Masterwork)
+        desc: >
+          Slideshot is active for two seconds starting from the slide, so you
+          really only have about one second to put it to use. Without it, this
+          is still a phenomenal roll.
+        perks1: []
+        masterworks: []
+      - &sscrelaxed
+        <<: *sscclassic
+        name: (PvP) "Classic" 🎩(Relaxed Barrels, Perks and Magazines)
+        desc: >
+          The `74` base Recoil is arguably just fine, so let's see if we can
+          pick up a bit more Stability from our Barrels. Let's also bring in
+          Flared for an additional Stability option on the Magazine.
+        barrels: [Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator]
+        magazines: [Ricochet Rounds, Flared Magwell]
+        perks1: []
       -
-        <<: *sscvault
-        name: (PvP) "Vault It" 🔒(Relaxed MW)
+        <<: *sscrelaxed
+        name: (PvP) "Classic" 🎩 (Relaxed MW)
         desc: >
           We get Stability from our Barrels or Magazines; can afford to lose out
           on Stability MW. Reload and Handling Masterworks would be solid
           choices here too. You won't see too much benefit from Range, but it
           never hurts.
         masterworks: []
-      -
-        <<: *sscvault
-        name: (PvP) "Vault It" 🔒(Relaxed Perks)
-        desc: >
-          Slideshot is a solid perk but if 450s become the meta again, it's not
-          a perk you're going to miss on an otherwise solid roll.
-        perks1: []
-      -
-        <<: *sscvault
-        name: (PvP) "Vault It" 🔒(Relaxed MW and Perks)
-        desc: >
-          Same as the above rolls, minus the first column perks and masterwork
-        perks1: []
-        masterworks: []
       - &sscsuper
-        name: (PvP) Slif's "Super Shredder" 💥Collector's Edition 
+        name: (PvP) Slif's "Super Shredder" 💥 Collector's Edition 
         desc: >
           Shredding supers in 6s is, we can all agree, Destiny's National
-          Pastime. Here you'll find the Mercule's suggested roll reprised with
-          Vorpal in the final column.
+          Pastime.
+        barrels: [Arrowhead Brake]
+        magazines: [Ricochet Rounds]
+        perks1: [Slideshot]
+        perks2: [Vorpal]
+        masterworks: [Stability MW]
+      - 
+        <<: *sscsuper
+        name: (PvP) "Super Shredder" 💥 🎩(Relaxed Slideshot)
+        desc: >
+          Slideshot is active for two seconds starting from the slide, so you
+          really only have about one second to put it to use. Without it, this
+          is still a phenomenal roll.
+        perks1: []
+      - 
+        <<: *sscsuper
+        name: (PvP) "Super Shredder" 💥 🎩(Relaxed Slideshot and MW)
+        desc: >
+          Same as the above, relaxing the Masterwork.
+        perks1: []
+        masterworks: []
+      - &sscsrelaxed
+        <<: *sscsuper
+        name: (PvP) "Super Shredder" 💥(Relaxed Barrels, Perks and Magazines)
+        desc: >
+          The `74` base Recoil is arguably just fine, so let's see if we can
+          pick up a bit more Stability from our Barrels. Let's also bring in
+          Flared for an additional Stability option on the Magazine.
         barrels: [Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator]
         magazines: [Ricochet Rounds, Flared Magwell]
         perks1: []
-        perks2: [Vorpal]
-        masterworks: [Stability MW]
       -
-        <<: *sscsuper
-        name: (PvP) "Super Shredder" 💥(Relaxed MW)
+        <<: *sscsrelaxed
+        name: (PvP) "Super Shredder" 💥 (Relaxed MW)
         desc: >
           We get Stability from our Barrels or Magazines; can afford to lose out
           on Stability MW. Reload and Handling Masterworks would be solid
@@ -95,12 +141,12 @@ groups:
 
       "OK Slif, so why do you even have a PvE section here?"
 
+      1. **Most importantly** it's a Seraph weapon! If you're running Warmind
+      mods on your armor, Seraph weapons will spawn Warmind Cells.
+
       1. It can roll with Vorpal, which activates on Champions and in the
-      current Season 10, Auto Rifles can take Overload mods (and in the future
-      will rotate back around to take Anti-Barrier mods I'm sure).
-      
-      1. It's a Seraph weapon, and if you're running Warmind mods on your armor,
-      Seraph weapons will spawn Warmind Cells.
+      current Season 10, Auto Rifles can take Overload mods. In the future
+      things will rotate back around to take Anti-Barrier too.
 
 
       "Whatevs, I've never been a fan of Vorpal and I don't really care about the
@@ -128,8 +174,7 @@ groups:
         desc: >
           Run-of-the-mill Auto-Rifle PvE slayer perk set here. If you like the
           look, feel and sound of the Carbine as I do, you'll do solid work with
-          this roll in lower/middle tier PvE content (e.g. your daily bounty
-          grinds).
+          this roll.
         barrels: [Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore, Corkscrew Rifling]
         magazines: [High-Caliber Rounds, Flared Magwell, Light Mag]
         perks1: [Threat Detector, Slideshot, Auto-Loading Holster]
