@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-04-13 03:43:10 +00:00`. The most recent
+created on `2020-04-17 23:19:31 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -24,9 +24,11 @@ I'm of the opinion it's not worth chasing ツ
 
 **Season 10 - Season of the Worthy**
 * Seventh Seraph Carbine ([PvP](#seventh-seraph-carbine---pvp), [PvE](#seventh-seraph-carbine---pve))
+* Seventh Seraph CQC-12 ()
 * Seventh Seraph Officer Revolver ([PvP](#seventh-seraph-officer-revolver---pvp), [PvE](#seventh-seraph-officer-revolver---pve))
 * Seventh Seraph SAW ()
 * Seventh Seraph SI-2 ([PvP](#seventh-seraph-si-2---pvp), [PvE](#seventh-seraph-si-2---pve))
+* Seventh Seraph VY-7 ()
 
 **Season 9 - Season of the Dawn**
 * Breachlight ([PvP](#breachlight---pvp), [PvE](#breachlight---pve))
@@ -48,30 +50,36 @@ I'm of the opinion it's not worth chasing ツ
 
 ---
 ## Seventh Seraph Carbine - PvP
-*The best discussion I've seen on Seraph weapons comes from the [Massive Breakdown podcast](https://soundcloud.com/destinymassivebreakdowns/episode-156-seventh-seraph-weapons-breakdown). Hit me up if you're seeing solid discussion/dissection elsewhere!*
+The Seventh Seraph Carbine (SSC) is a 450 RPM "Precision Frame" Kinetic Auto Rifle. Let's start with a quick comparison to randomly-rolled 450s, over on [light.gg](https://www.light.gg/db/items/compare/?h=BdCxNP;mJ1-6;Bqp0Wx;Fju9i;DmTiv3). In general the 450s are fairly the same stat-wise, with a material deviation in Aim Assist for the SSC; easily addressable with an Aim Assist mod.
 
-[Carbine compared to other randomly-rolled 450 RPM Autos](https://www.light.gg/db/items/compare/?h=BdCxNP;Bqp0Wx;mJ1-6)
+Should you pick one up for use in Season 10? In Season 10, 600 RPM "Adaptive Frame" Auto Rifles are the meta (e.g. SUROS Regime, Monte Carlo, Hard Light). If you've stepped foot into any game mode in the Crucible, you've no doubt been a part of a Hard Light laser-light-show rave :) So no, there's no pressing reason if you're primarily a PvP player or if you already have the PvE roll you want, to keep chasing SSC rolls for PvP. Of course there's a chance 450s are buffed in later patches/seasons, so if you come across a decent roll, by all means throw it in the vault. I wouldn't suggest going out of your way to farm SSC bounties however.
 
-In Season 10, 450 RPM Precision Frame Auto Rifles like the Carbine aren't part of the PvP meta. It does have a best-in-class base Recoil of `74` meaning you can safely choose other barrels than Arrowhead Brake or Chambered Compensator (although Chambered is still fine!). It's also the only Auto Rifle available now in the game that can roll Vorpal.
-
-Given the Carbine's super low Aim Assist, I suggest a `Targeting Adjuster` mod for all PvP rolls.
-* **(PvP) Mercules "Vault it Until the Meta Changes" 🔒Collector's Edition (0.5% chance)**: Marcules isn't a fan of this in PvP, but there have been times where the meta has shifted as it did in S10 towards 600 RPM Adaptive Autos. There's certainly a chance 450s see a change in the future. If you happen across a high-stability roll, he suggests vaulting.
+I played with a [zero-Recoil, high Stability](https://d2gunsmith.com/w/DY2Aqw8sOokyOvhv0Wv1Ehw9zBP2FwQRxW2Ig9KX1MIo3LEpW) roll for several Iron Banner games, with both Enhanced Targeting and Enhanced Unflinching... I immediately wanted to go back to using my Arc Logic with Moving Target and Tap the Trigger :) The SSC is definitely a bit slower than you'd prefer. That being said, if you're a fan of ARs or even just the SSC itself (it looks and sounds terrific IMHO!), here's a few rolls worth considering that you can put to work today.
+* **(PvP) Slif's "Classic Stable Auto Rifle" 🎩 Collector's Edition (0.1% chance)**: This is your workhorse Auto Rifle roll: vertical recoil and as much Stability and accuracy as you can get.
   ```
-  Barrels [ 72%]: Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
   Perks 1 [ 16%]: Slideshot
   Perks 2 [ 33%]: Moving Target, Rangefinder
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Vault It" 🔒(Relaxed MW) (1.9% chance)**: We get Stability from our Barrels or Magazines; can afford to lose out on Stability MW. Reload and Handling Masterworks would be solid choices here too. You won't see too much benefit from Range, but it never hurts.
+* **(PvP) "Classic" 🎩(Relaxed Slideshot) (0.5% chance)**: Slideshot is active for two seconds starting from the slide, so you really only have about one second to put it to use. Without it, this is still a phenomenal roll.
   ```
-  Barrels [ 72%]: Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [ 16%]: Slideshot
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 33%]: Moving Target, Rangefinder
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Classic" 🎩(Relaxed Slideshot and Masterwork) (1.9% chance)**: Slideshot is active for two seconds starting from the slide, so you really only have about one second to put it to use. Without it, this is still a phenomenal roll.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
   Perks 2 [ 33%]: Moving Target, Rangefinder
   MWorks  [100%]: *
   ```
-* **(PvP) "Vault It" 🔒(Relaxed Perks) (2.8% chance)**: Slideshot is a solid perk but if 450s become the meta again, it's not a perk you're going to miss on an otherwise solid roll.
+* **(PvP) "Classic" 🎩(Relaxed Barrels, Perks and Magazines) (2.8% chance)**: The `74` base Recoil is arguably just fine, so let's see if we can pick up a bit more Stability from our Barrels. Let's also bring in Flared for an additional Stability option on the Magazine.
   ```
   Barrels [ 72%]: Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
@@ -79,7 +87,7 @@ Given the Carbine's super low Aim Assist, I suggest a `Targeting Adjuster` mod f
   Perks 2 [ 33%]: Moving Target, Rangefinder
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Vault It" 🔒(Relaxed MW and Perks) (11.2% chance)**: Same as the above rolls, minus the first column perks and masterwork
+* **(PvP) "Classic" 🎩 (Relaxed MW) (11.2% chance)**: We get Stability from our Barrels or Magazines; can afford to lose out on Stability MW. Reload and Handling Masterworks would be solid choices here too. You won't see too much benefit from Range, but it never hurts.
   ```
   Barrels [ 72%]: Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
@@ -87,7 +95,31 @@ Given the Carbine's super low Aim Assist, I suggest a `Targeting Adjuster` mod f
   Perks 2 [ 33%]: Moving Target, Rangefinder
   MWorks  [100%]: *
   ```
-* **(PvP) Slif's "Super Shredder" 💥Collector's Edition (1.4% chance)**: Shredding supers in 6s is, we can all agree, Destiny's National Pastime. Here you'll find the Mercule's suggested roll reprised with Vorpal in the final column.
+* **(PvP) Slif's "Super Shredder" 💥 Collector's Edition (0.0% chance)**: Shredding supers in 6s is, we can all agree, Destiny's National Pastime.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Super Shredder" 💥 🎩(Relaxed Slideshot) (0.2% chance)**: Slideshot is active for two seconds starting from the slide, so you really only have about one second to put it to use. Without it, this is still a phenomenal roll.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Super Shredder" 💥 🎩(Relaxed Slideshot and MW) (0.9% chance)**: Same as the above, relaxing the Masterwork.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Super Shredder" 💥(Relaxed Barrels, Perks and Magazines) (1.4% chance)**: The `74` base Recoil is arguably just fine, so let's see if we can pick up a bit more Stability from our Barrels. Let's also bring in Flared for an additional Stability option on the Magazine.
   ```
   Barrels [ 72%]: Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
@@ -95,7 +127,7 @@ Given the Carbine's super low Aim Assist, I suggest a `Targeting Adjuster` mod f
   Perks 2 [ 16%]: Vorpal
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Super Shredder" 💥(Relaxed MW) (5.6% chance)**: We get Stability from our Barrels or Magazines; can afford to lose out on Stability MW. Reload and Handling Masterworks would be solid choices here too. You won't see too much benefit from Range, but it never hurts.
+* **(PvP) "Super Shredder" 💥 (Relaxed MW) (5.6% chance)**: We get Stability from our Barrels or Magazines; can afford to lose out on Stability MW. Reload and Handling Masterworks would be solid choices here too. You won't see too much benefit from Range, but it never hurts.
   ```
   Barrels [ 72%]: Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
@@ -107,8 +139,8 @@ Given the Carbine's super low Aim Assist, I suggest a `Targeting Adjuster` mod f
 For its **base stats and perks**, there isn't a whole lot of reason to consider the Carbine for PvE. Breakneck, the Gambit Pinnacle weapon, is also 450RPM and recently received a buff in Season 10. It positively shreds in PvE and since it's a Legendary weapon, it can take the Season 10 Artifact mods.
 
 "OK Slif, so why do you even have a PvE section here?"
-1. It can roll with Vorpal, which activates on Champions and in the current Season 10, Auto Rifles can take Overload mods (and in the future will rotate back around to take Anti-Barrier mods I'm sure).
-1. It's a Seraph weapon, and if you're running Warmind mods on your armor, Seraph weapons will spawn Warmind Cells.
+1. **Most importantly** it's a Seraph weapon! If you're running Warmind mods on your armor, Seraph weapons will spawn Warmind Cells.
+1. It can roll with Vorpal, which activates on Champions and in the current Season 10, Auto Rifles can take Overload mods. In the future things will rotate back around to take Anti-Barrier too.
 
 "Whatevs, I've never been a fan of Vorpal and I don't really care about the seasonal stuff" - all good, stop reading and farm something else 😃
 * **(PvE) Slif's "Butter and Citrus Bar Shredder" 🧈 (0.7% chance)**: This is designed for dumping rounds in to enemies in high(er) end PvE content.
@@ -127,7 +159,7 @@ For its **base stats and perks**, there isn't a whole lot of reason to consider 
   Perks 2 [ 16%]: Vorpal
   MWorks  [100%]: *
   ```
-* **(PvE) General Purpose Thinning of the Hordes 👹 (8.9% chance)**: Run-of-the-mill Auto-Rifle PvE slayer perk set here. If you like the look, feel and sound of the Carbine as I do, you'll do solid work with this roll in lower/middle tier PvE content (e.g. your daily bounty grinds).
+* **(PvE) General Purpose Thinning of the Hordes 👹 (8.9% chance)**: Run-of-the-mill Auto-Rifle PvE slayer perk set here. If you like the look, feel and sound of the Carbine as I do, you'll do solid work with this roll.
   ```
   Barrels [ 83%]: Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 64%]: High-Caliber Rounds, Flared Magwell, Light Mag
