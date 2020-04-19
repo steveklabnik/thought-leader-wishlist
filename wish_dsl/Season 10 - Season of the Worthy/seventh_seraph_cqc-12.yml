@@ -108,6 +108,7 @@ groups:
         name: (PvP) Slif's "Super Shredder" 💥 Collector's Edition
         desc: >
           Your classic Destiny 2 shotgun roll swapping out Snapshot for Vorpal.
+        perks1: [Quickdraw, Slideshot]
         perks2: [Vorpal]
       - 
         <<: *cqcshredder
