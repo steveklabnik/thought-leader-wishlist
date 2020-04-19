@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-04-19 23:35:20 +00:00`. The most recent
+created on `2020-04-19 23:47:50 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -239,27 +239,27 @@ Our first couple of roll sets will be classic shotgun rolls and the third will f
   Perks 2 [ 25%]: Snapshot
   MWorks  [100%]: *
   ```
-* **(PvP) Slif's "Super Shredder" 💥 Collector's Edition (0.5% chance)**: Your classic Destiny 2 shotgun roll swapping out Snapshot for Vorpal.
+* **(PvP) Slif's "Super Shredder" 💥 Collector's Edition (1.0% chance)**: Your classic Destiny 2 shotgun roll swapping out Snapshot for Vorpal.
   ```
   Barrels [ 60%]: Full Choke, Rifled Barrel
   Mags    [ 52%]: Accurized Rounds, Light Mag
-  Perks 1 [ 25%]: Quickdraw
+  Perks 1 [ 50%]: Quickdraw, Slideshot
   Perks 2 [ 25%]: Vorpal
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) "Super Shredder" 💥 CE (Relaxed Barrels) (0.8% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+* **(PvP) "Super Shredder" 💥 CE (Relaxed Barrels) (1.6% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
   ```
   Barrels [100%]: *
   Mags    [ 52%]: Accurized Rounds, Light Mag
-  Perks 1 [ 25%]: Quickdraw
+  Perks 1 [ 50%]: Quickdraw, Slideshot
   Perks 2 [ 25%]: Vorpal
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) "Super Shredder" 💥 CE (Relaxed Magazines) (0.9% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+* **(PvP) "Super Shredder" 💥 CE (Relaxed Magazines) (1.9% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
   ```
   Barrels [ 60%]: Full Choke, Rifled Barrel
   Mags    [100%]: *
-  Perks 1 [ 25%]: Quickdraw
+  Perks 1 [ 50%]: Quickdraw, Slideshot
   Perks 2 [ 25%]: Vorpal
   MWorks  [ 25%]: Range MW
   ```
@@ -271,11 +271,11 @@ Our first couple of roll sets will be classic shotgun rolls and the third will f
   Perks 2 [ 25%]: Vorpal
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) "Super Shredder" 💥 CE (Relaxed Masterwork) (2.0% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+* **(PvP) "Super Shredder" 💥 CE (Relaxed Masterwork) (3.9% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
   ```
   Barrels [ 60%]: Full Choke, Rifled Barrel
   Mags    [ 52%]: Accurized Rounds, Light Mag
-  Perks 1 [ 25%]: Quickdraw
+  Perks 1 [ 50%]: Quickdraw, Slideshot
   Perks 2 [ 25%]: Vorpal
   MWorks  [100%]: *
   ```
