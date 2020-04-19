@@ -45,11 +45,14 @@ groups:
       
     rolls:
       - &si2fullauto
-        name: (PvP) Preference - Full Auto Trigger System
+        name: (PvP) Slif's "Full Auto Super Shredder" 💥Collector's Edition
         desc: >
-          Vorpal is really the key here. Without Vorpal, you're better off using
-          the better-rolled Anonymous Autumn as mentioned above. Otherwise we're
-          going for +Range and +Stability wherever we can get it.
+          These rolls aren't super tight on the Barrel and Magazine front
+          because they aren't going to dramatically alter the value of the
+          overall roll. Vorpal is really the key here. Without Vorpal, you're
+          better off using the better-rolled Anonymous Autumn as mentioned
+          above. Otherwise we're going for +Range and +Stability wherever we
+          can get it.
         barrels: [Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling]
         magazines: [Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag]
         perks1: [Full Auto Trigger System]
@@ -57,38 +60,52 @@ groups:
         masterworks: [Stability MW, Range MW]
       - 
         <<: *si2fullauto
-        name: (PvP) Full Auto (Minus Masterworks)
+        name: (PvP) "Full Auto Super Shredder" 💥(Minus Masterworks)
         desc: >
           The presence or lack of the right masterwork isn't a deal-breaker.
         masterworks: []
       - &si2threat
         <<: *si2fullauto
-        name: (PvP) Preference - Threat Detector (or "Not Full Auto")
+        name: (PvP) "Threat Level Super Shredder" 🧵
         desc: >
-          Same as the above, swapping Full Auto for Threat Detector.
+          Same setup as the above, but we're swapping out Full Auto and bringing
+          in Threat Detector.
         perks1: [Threat Detector]
       - 
         <<: *si2threat
-        name: (PvP) Threat Detector (Minus Masterworks)
+        name: (PvP) "Threat Level" 🧵(Minus Masterworks)
         desc: >
           The presence or lack of the right masterwork isn't a deal-breaker.
+        masterworks: []
+      - &si2noperk
+        <<: *si2threat
+        name: (PvP) "Basic Super Shredder" ⚙️
+        desc: >
+          No first column perk! If you really want Vorpal on your Energy sidearm,
+          here ya go.
+        perks1: []
+      - 
+        <<: *si2noperk
+        name: (PvP) "Basic Shredder" ⚙️ (Minus Masterworks)
+        desc: >
+          Same as the above without a Masterwork restriction.
         masterworks: []
   - 
     name: PvE
     summary: >
       Like all other Seraph weapons, the SI-2 contributes to the generation
       of Warmind cells in PvE. If that's not your thing, you can pretty much
-      pass on this weapon full stop. It could have made beautiful,
-      beautiful music with the `Wrath of Rasputin` Warmind mod: `Solar splash
-      damage final blows have a chance to create Warmind Cells`. Unfortunately
-      the SI-2 is a Void weapon 👿
+      pass on this weapon full stop. Since it can roll with Dragonfly, it could
+      have made beautiful music with the `Wrath of Rasputin` Warmind mod:
+      `Solar splash damage final blows have a chance to create Warmind Cells`.
+      Unfortunately the SI-2 is a Void weapon 👿
 
       
       That being said, there are a few combos that could prove interesting for
       the discerning collector / sidearm aficionado.
     rolls:
       - 
-        name: (PvE) Sparks Flying! 🎇
+        name: (PvE) "Sparks Flying" 🎇
         desc: >
           The SI-2 is the only sidearm in the game that can roll with both
           Demolitionist and Dragonfly. That's exciting because Demolitionist
@@ -100,7 +117,7 @@ groups:
         perks2: [Dragonfly]
         masterworks: []
       - 
-        name: (PvE) Champion Slayer 🏆
+        name: (PvE) "Champion Slayer" 🏆
         desc: >
           Sidearms are all the rage in the Season 10 Artifact, and certainly
           will be again at some point in the future. If you want to dump
@@ -112,7 +129,7 @@ groups:
         perks2: [Vorpal]
         masterworks: []
       - 
-        name: (PvE) You're Trapped In Here With Me 🏢
+        name: (PvE) "You're Trapped In Here With Me" 🏢
         desc: >
           Like Grave Robber and Swashbuckler, these two perks play super well
           off each other. If you love sidearms, considering adding this to your
