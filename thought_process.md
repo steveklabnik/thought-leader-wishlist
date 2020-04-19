@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-04-19 01:25:50 +00:00`. The most recent
+created on `2020-04-19 01:37:04 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -213,6 +213,14 @@ If this weren't a 180, you'd be looking for Stability, but since this is  alread
   Perks 2 [ 33%]: Timed Payload, Vorpal
   MWorks  [100%]: *
   ```
+* **(PvP) "Range First" CE 🏔🏔🏔(Relaxed Magazine and Planting) (1.9% chance)**: Same as the above, again minus Firmly Planted.
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [100%]: *
+  Perks 1 [100%]: *
+  Perks 2 [ 33%]: Timed Payload, Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
 * **(PvP) "Range First" CE 🏔🏔🏔(Relaxed Planting and Masterwork) (1.9% chance)**: Same as the above, again minus Firmly Planted.
   ```
   Barrels [ 22%]: Hammer-Forged Rifling
@@ -252,6 +260,14 @@ If this weren't a 180, you'd be looking for Stability, but since this is  alread
   Perks 1 [ 16%]: Firmly Planted
   Perks 2 [ 33%]: Timed Payload, Vorpal
   MWorks  [100%]: *
+  ```
+* **(PvP) "Expanded Range" CE 🏔🏔(Relaxed Magazine and Planting) (1.9% chance)**: Same as the above, again minus Firmly Planted.
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [100%]: *
+  Perks 1 [100%]: *
+  Perks 2 [ 33%]: Timed Payload, Vorpal
+  MWorks  [ 25%]: Range MW
   ```
 * **(PvP) "Expanded Range" CE 🏔🏔(Relaxed Planting and Masterwork) (4.9% chance)**: Same as the above, again minus Firmly Planted.
   ```
