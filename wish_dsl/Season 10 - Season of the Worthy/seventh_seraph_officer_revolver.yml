@@ -92,6 +92,13 @@ groups:
         masterworks: []
       - 
         <<: *ocdrewsky
+        name: (PvP) "Range First" CE 🏔🏔🏔(Relaxed Magazine and Planting)
+        desc: >
+          Same as the above, again minus Firmly Planted.
+        magazines: []
+        perks1: []
+      - 
+        <<: *ocdrewsky
         name: (PvP) "Range First" CE 🏔🏔🏔(Relaxed Planting and Masterwork)
         desc: >
           Same as the above, again minus Firmly Planted.
@@ -126,6 +133,13 @@ groups:
           Scratch the Range MW. We're getting so much range from the Barrel 
           and Magazine anyway.
         masterworks: []
+      - 
+        <<: *ocdrewsky
+        name: (PvP) "Expanded Range" CE 🏔🏔(Relaxed Magazine and Planting)
+        desc: >
+          Same as the above, again minus Firmly Planted.
+        magazines: []
+        perks1: []
       - 
         <<: *ocdbarrels
         name: (PvP) "Expanded Range" CE 🏔🏔(Relaxed Planting and Masterwork)
