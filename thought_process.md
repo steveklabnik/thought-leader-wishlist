@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-04-19 05:49:46 +00:00`. The most recent
+created on `2020-04-19 16:25:39 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -24,11 +24,8 @@ I'm of the opinion it's not worth chasing ツ
 
 **Season 10 - Season of the Worthy**
 * Seventh Seraph Carbine ([PvP](#seventh-seraph-carbine---pvp), [PvE](#seventh-seraph-carbine---pve))
-* Seventh Seraph CQC-12 ()
 * Seventh Seraph Officer Revolver ([PvP](#seventh-seraph-officer-revolver---pvp), [PvE](#seventh-seraph-officer-revolver---pve))
-* Seventh Seraph SAW ()
 * Seventh Seraph SI-2 ([PvP](#seventh-seraph-si-2---pvp), [PvE](#seventh-seraph-si-2---pve))
-* Seventh Seraph VY-7 ()
 
 **Season 9 - Season of the Dawn**
 * Breachlight ([PvP](#breachlight---pvp), [PvE](#breachlight---pve))
