@@ -11,7 +11,12 @@ groups:
   - 
     name: PvP
     summary: >
-      Mercules and Kyt [aren't super hot](https://soundcloud.com/destinymassivebreakdowns/episode-156-seventh-seraph-weapons-breakdown#t=33:44)
+      The Officer Revolver is a 180 RPM Kinetic Hand Cannon. See how it compares
+      to other 180 RPM Hand Cannons over on
+      [light.gg](https://www.light.gg/db/items/compare/?h=C1DOIY;xtxS0;DzBRNi)
+      Let's start off with Mercules and Kyt from the latest Massive Breakdown
+      podcast. Turns out they
+      [aren't super hot](https://soundcloud.com/destinymassivebreakdowns/episode-156-seventh-seraph-weapons-breakdown#t=33:44)
       on the Officer's Revolver.
 
       
@@ -20,14 +25,17 @@ groups:
       Statistically, Officer's is not a super impressive hand cannon."*
 
 
-      If you're more in the Mercules/Kyt camp (i.e. not super hot on 180s in
-      general and especially not this one) then there isn't much for you to see
-      here and that's totally fine! I suggest you check out other hand cannons
-      in this slot! (e.g. Spare Rations, Austringer, Dire Promise, Old
-      Fashioned). There are other perspectives...
+      Personally I think that's overstating things. The Service Revolver isn't
+      **that** much different in terms of base stats. Trust is clearly better
+      but not insanely-so. That being said, it's a 180 and the 180s haven't been
+      part of the PvP meta in quite a while. If they were any stonger they'd be
+      three-tapping and that would make them far too strong. I agree with
+      Mercules' position that given how easy they are to use, they have a
+      balanced TTK.
 
 
-      Check out
+
+      Now let's check out
       [Drewsky's thoughts](https://www.youtube.com/watch?v=W3kCNDYUnzM),
       who finds the novel perks like Firmly Planted and Timed Payload
       worth strong consideration. Notably, he had previously
@@ -50,9 +58,17 @@ groups:
       > **Drewsky:** *"Prioritizing Range while giving the best oveall stat
       package possible."*
 
-
-      If this weren't a 180, you'd be looking for Stability, but since this is 
-      already so stable, we're going to focus on Range as Drewsky suggests.
+      
+      I only partially agree with Drewsky here. Going back to our
+      understanding of the new compressed range on Hand Cannons, we can cite
+      some science from CoolGuy: "(35 Range = 25m falloff, 86 Range = 28m)".
+      I'm not sure I'd want to blow valuable Magazine and Barrel slots for one
+      to three meters of falloff.
+      
+      
+      The good news is that the wishlist can support multiple perspectives! I'll
+      put together a set of Range-prioritizing rolls representing Drewsky's
+      perspective, and a set of Handling/Stability prioritizing rolls.
     rolls:
       - &ocdrewsky
         name: (PvP) Drewsky's "Range First" Collector's Edition 🏔
@@ -147,6 +163,31 @@ groups:
           Same as the above, again minus Firmly Planted.
         perks1: []
         masterworks: []
+      - &orslif
+        name: (PvP) Slif's "Handy" 🤚🤚🤚 Collector's Edition
+        desc: >
+          We're going to take another crack at the above set of rolls, this time
+          prioritizing Handling and Stability.
+        barrels: [Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
+        magazines: [Drop Mag, Alloy Magazine, Flared Magwell]
+        perks1: [Firmly Planted]
+        perks2: [Timed Payload, Vorpal]
+        masterworks: [Handling MW]
+      - 
+        <<: *orslif
+        name: (PvP) "Handy" 🤚🤚🤚 CE (Relaxed Planting)
+        desc: >
+          Same as the above, minus Firmly Planted.
+        perks1: []
+      - 
+        <<: *orslif
+        name: (PvP) "Handy" 🤚🤚🤚 CE (Relaxed Planting and Magazines)
+        desc: >
+          While the fast-reload magazines contribute to a feeling of
+          snappiness, they don't affect Handling or Stability materially,
+          so let's relax those as well.
+        magazines: []
+        perks1: []
   - 
     name: PvE
     summary: >
@@ -160,13 +201,13 @@ groups:
 
       "OK Slif, so why do you even have a PvE section here?"
 
+      1. Most importantly, it's a Seraph weapon! If you're running Warmind
+      mods on your armor, Seraph weapons will spawn Warmind Cells.
+
       1. It can roll with Vorpal, which activates on Champions and in the
       current Season 10, Hand Cannons can take Overload and Unstoppable mods
       (and in the future will rotate back around to take Anti-Barrier mods
       I'm sure).
-      
-      1. It's a Seraph weapon, and if you're running Warmind mods on your armor,
-      Seraph weapons will spawn Warmind Cells.
 
 
       "Whatevs, I've never been a fan of Vorpal and I don't really care about the
@@ -176,7 +217,7 @@ groups:
       "Oh let me grab my Officer's Revolver with Osmosis to help us out!" 😉
     rolls:
       - 
-        name: (PvE) Slif's "Butter and Citrus Bar Shredder" 🧈
+        name: (PvE) Slif's "Butter and Citrus Bar Shredder" 🧈🍊
         desc: >
           This is designed for dumping rounds in to enemies in high(er) end PvE
           content. We don't need to be any more specific here; the other columns
@@ -190,9 +231,7 @@ groups:
       - &oraggrocell
         name: (PvE) Warmind Cell Generator (Aggressive) ☄️
         desc: >
-          If you like the look, feel and sound of the Officer's Revolver as I
-          do, and you want a little variety in your Kinetics, this is a fine
-          roll. You'll do solid work with in lower/middle tier PvE content (e.g.
+          You'll do solid work with in lower/middle tier PvE content (e.g.
           your daily bounty grinds, Vanguard Strike playlist).
         barrels: []
         magazines: [Drop Mag, Alloy Magazine, Flared Magwell]
