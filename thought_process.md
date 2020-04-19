@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-04-19 17:48:55 +00:00`. The most recent
+created on `2020-04-19 23:35:20 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -24,6 +24,7 @@ I'm of the opinion it's not worth chasing ツ
 
 **Season 10 - Season of the Worthy**
 * Seventh Seraph Carbine ([PvP](#seventh-seraph-carbine---pvp), [PvE](#seventh-seraph-carbine---pve))
+* Seventh Seraph CQC-12 ([PvP](#seventh-seraph-cqc-12---pvp), [PvE](#seventh-seraph-cqc-12---pve))
 * Seventh Seraph Officer Revolver ([PvP](#seventh-seraph-officer-revolver---pvp), [PvE](#seventh-seraph-officer-revolver---pve))
 * Seventh Seraph SI-2 ([PvP](#seventh-seraph-si-2---pvp), [PvE](#seventh-seraph-si-2---pve))
 
@@ -162,6 +163,180 @@ For its **base stats and perks**, there isn't a whole lot of reason to consider 
   Mags    [ 64%]: High-Caliber Rounds, Flared Magwell, Light Mag
   Perks 1 [ 50%]: Threat Detector, Slideshot, Auto-Loading Holster
   Perks 2 [ 33%]: Swashbuckler, Rampage
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph CQC-12 - PvP
+The CQC-12 is an 80 RPM "Lightweight Frame" shotgun in the energy slot. Through leveling the season pass, you unlock a chance for it to drop at the conclusion of Gambit, Crucible and Strike activities. You can't really "farm" it per se. The good news is that there's only four perks in the final two columns meaning it's not incredibly difficult to get the perks you might be interested in. See how it compares to other randomly-rolled 80 RPMs over on  [light.gg](https://www.light.gg/db/items/compare/?h=BslVBs;CEKlVP;Brud8B;DmKQYw). Statistically, they're all quite similar and like all shotguns, otherwise identical in barrels and magazines.
+
+Three reasons why the CQC is exciting for PvP:
+
+* Where the CQC-12 stands out from its kin is that it can roll with the vaunted Quickdraw + Snapshot pairing. No other 80 RPM shotgun can do this. Here's  [the list](https://www.light.gg/god-roll/?f=2,10\(Shotgun\),28:0\(706527188;957782887\)) of shotguns that can. Perhaps as a drawback however, it cannot roll with Opening Shot or Moving Target.
+* It can roll with Vorpal which means it can two-shot any super in PvP. If you'd like a little footage of DFP slaying with Vorpal (and an otherwise) near perfect roll, [here you go](https://youtu.be/30b4t1XZdi0?t=110).
+* It looks and sounds *amazing*, and that's like 80% of the reason to use a weapon :)
+
+Our first couple of roll sets will be classic shotgun rolls and the third will feature Vorpal; currently the only shotgun that can roll it!
+* **(PvP) Slif's "SnapDraw" 🖇 Collector's Edition (0.5% chance)**: Classic Destiny 2 shotgun roll.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [ 25%]: Quickdraw
+  Perks 2 [ 25%]: Snapshot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "SnapDraw" 🖇 CE (Relaxed Barrels) (0.8% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+  ```
+  Barrels [100%]: *
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [ 25%]: Quickdraw
+  Perks 2 [ 25%]: Snapshot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "SnapDraw" 🖇 CE (Relaxed Magazines) (0.9% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Quickdraw
+  Perks 2 [ 25%]: Snapshot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "SnapDraw" 🖇 CE (Relaxed Masterwork) (2.0% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [ 25%]: Quickdraw
+  Perks 2 [ 25%]: Snapshot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Slideshot" 🎚Collector's Edition (0.5% chance)**: Quickdraw is great. Slideshot is also great!
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [ 25%]: Slideshot
+  Perks 2 [ 25%]: Snapshot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Slideshot" 🎚 CE (Relaxed Barrels) (0.8% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+  ```
+  Barrels [100%]: *
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [ 25%]: Slideshot
+  Perks 2 [ 25%]: Snapshot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Slideshot" 🎚 CE (Relaxed Magazines) (0.9% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Slideshot
+  Perks 2 [ 25%]: Snapshot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Slideshot" 🎚 CE (Relaxed Masterwork) (2.0% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [ 25%]: Slideshot
+  Perks 2 [ 25%]: Snapshot
+  MWorks  [100%]: *
+  ```
+* **(PvP) Slif's "Super Shredder" 💥 Collector's Edition (0.5% chance)**: Your classic Destiny 2 shotgun roll swapping out Snapshot for Vorpal.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [ 25%]: Quickdraw
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Super Shredder" 💥 CE (Relaxed Barrels) (0.8% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+  ```
+  Barrels [100%]: *
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [ 25%]: Quickdraw
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Super Shredder" 💥 CE (Relaxed Magazines) (0.9% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Quickdraw
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Super Shredder" 💥 CE (Relaxed Magazines) (2.0% chance)**: Vorpal is the star of the show here; still an amazing roll without Quickdraw!
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Super Shredder" 💥 CE (Relaxed Masterwork) (2.0% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [ 25%]: Quickdraw
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvP) Slif's "Gorilla's Delight" 🦍 (7.9% chance)**: Your basic, max-range shotgun roll for the shotgun ape deep inside all of us :)
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [100%]: *
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Range MW
+  ```
+## Seventh Seraph CQC-12 - PvE
+This section will be straightforward :) All of our rolls are toing to be centered around Trench Barrel. It provides a 50% damage boost vs. Vorpal's 15%. Trench Barrel takes a melee to activate, but with shotguns you have to be in melee range anyway, so you're good!
+
+This isn't a "run and gun" shotgun. There are no damage-boosting perks, like Swashbuckler or Rampage, you have Slideshot and Auto-Loading Holster but so do plenty of other shotguns.
+* **Slif's "Butter and Citrus Bar Shredder" 🧈🍊Collector's Edition (1.3% chance)**: We're basing these next few rolls around Trench Barrel. Quickdraw will help with swapping from the hits between Trench Barrel activations.
+  ```
+  Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
+  Mags    [ 52%]: Assault Mag, Appended Mag
+  Perks 1 [ 25%]: Quickdraw
+  Perks 2 [ 25%]: Trench Barrel
+  MWorks  [ 50%]: Handling MW, Reload MW
+  ```
+* **Slif's "Butter Shredder" 🧈🍊 (Relaxed Masterworks) (2.6% chance)**: Same as the above, minus the Masterworks
+  ```
+  Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
+  Mags    [ 52%]: Assault Mag, Appended Mag
+  Perks 1 [ 25%]: Quickdraw
+  Perks 2 [ 25%]: Trench Barrel
+  MWorks  [100%]: *
+  ```
+* **Slif's "Butter Shredder" 🧈🍊 (Relaxed Perks) (5.2% chance)**: Same as the above, minus Quickdraw
+  ```
+  Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
+  Mags    [ 52%]: Assault Mag, Appended Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Trench Barrel
+  MWorks  [ 50%]: Handling MW, Reload MW
+  ```
+* **Slif's "Butter Shredder" 🧈🍊 (Fully Relaxed) (10.5% chance)**: Same as the above, minus the Masterworks and Quickdraw
+  ```
+  Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
+  Mags    [ 52%]: Assault Mag, Appended Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Trench Barrel
+  MWorks  [100%]: *
+  ```
+* **Slif's "Warmind Cell Generator" ☄️ Collector's Edition (10.5% chance)**: Lots of reloading with plenty of handling and stability to go around.
+  ```
+  Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
+  Mags    [ 52%]: Assault Mag, Appended Mag
+  Perks 1 [ 50%]: Auto-Loading Holster, Slideshot
+  Perks 2 [100%]: *
+  MWorks  [ 50%]: Handling MW, Reload MW
+  ```
+* **Slif's "Warmind Cell Generator" ☄️ CE (Relaxed Masterworks) (21.0% chance)**: You kinda just want one of these to generate Warmind Cells.
+  ```
+  Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
+  Mags    [ 52%]: Assault Mag, Appended Mag
+  Perks 1 [ 50%]: Auto-Loading Holster, Slideshot
+  Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
 ## Seventh Seraph Officer Revolver - PvP
