@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-04-20 22:27:08 +00:00`. The most recent
+created on `2020-04-20 22:48:23 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -453,23 +453,31 @@ The good news is that the wishlist can support multiple perspectives! I'll put t
   Perks 2 [ 33%]: Timed Payload, Vorpal
   MWorks  [100%]: *
   ```
-* **(PvP) Slif's "Handy" 🤚🤚🤚 Collector's Edition (0.5% chance)**: We're going to take another crack at the above set of rolls, this time prioritizing Handling and Stability.
+* **(PvP) Slif's "Handy" 🤚🤚🤚 Collector's Edition (0.4% chance)**: We're going to take another crack at the above set of rolls, this time prioritizing Handling.
   ```
   Barrels [ 58%]: Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
-  Mags    [ 64%]: Drop Mag, Alloy Magazine, Flared Magwell
+  Mags    [ 46%]: Alloy Magazine, Drop Mag
   Perks 1 [ 16%]: Firmly Planted
   Perks 2 [ 33%]: Timed Payload, Vorpal
   MWorks  [ 25%]: Handling MW
   ```
-* **(PvP) "Handy" 🤚🤚🤚 CE (Relaxed Planting) (3.1% chance)**: Same as the above, minus Firmly Planted.
+* **(PvP) "Handy" 🤚🤚 CE (Relaxed Magazines) (0.8% chance)**: Same as the above, relaxing the Magazines.
   ```
   Barrels [ 58%]: Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
-  Mags    [ 64%]: Drop Mag, Alloy Magazine, Flared Magwell
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Firmly Planted
+  Perks 2 [ 33%]: Timed Payload, Vorpal
+  MWorks  [ 25%]: Handling MW
+  ```
+* **(PvP) "Handy" 🤚🤚 CE (Relaxed Planting) (2.3% chance)**: Same as the above, minus Firmly Planted.
+  ```
+  Barrels [ 58%]: Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
+  Mags    [ 46%]: Alloy Magazine, Drop Mag
   Perks 1 [100%]: *
   Perks 2 [ 33%]: Timed Payload, Vorpal
   MWorks  [ 25%]: Handling MW
   ```
-* **(PvP) "Handy" 🤚🤚🤚 CE (Relaxed Planting and Magazines) (4.9% chance)**: While the fast-reload magazines contribute to a feeling of snappiness, they don't affect Handling or Stability materially, so let's relax those as well.
+* **(PvP) "Handy" 🤚🤚 CE (Relaxed Planting and Magazines) (4.9% chance)**: Same as the above, even more relaxed.
   ```
   Barrels [ 58%]: Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
   Mags    [100%]: *
@@ -485,7 +493,7 @@ There are so many great Hand Cannons for general purpose add shredding that you 
 1. It can roll with Vorpal, which activates on Champions and in the current Season 10, Hand Cannons can take Overload and Unstoppable mods (and in the future will rotate back around to take Anti-Barrier mods I'm sure).
 
 "Whatevs, I've never been a fan of Vorpal and I don't really care about the seasonal stuff" - all good, stop reading and farm something else! It can also roll with Osmosis but with how great Hard Light and Borealis are, I can't imagine preparing for a difficult Strike or Nightmare Hunt and saying "Oh let me grab my Officer's Revolver with Osmosis to help us out!" 😉
-* **(PvE) Slif's "Butter and Citrus Bar Shredder" 🧈🍊 (2.8% chance)**: This is designed for dumping rounds in to enemies in high(er) end PvE content. We don't need to be any more specific here; the other columns and Masterwork aren't deal-breakers or roll-makers. By itself, Vorpal isn't strong enough to recommend this over other Kinetics.
+* **(PvE) Slif's "Butter and Citrus Bar Shredder" 🧈🍊 (2.8% chance)**: This is designed for dumping rounds in to enemies in high(er) end PvE content. We don't need to be any more specific here; the other columns and Masterwork aren't deal-breakers or roll-makers. By itself, Vorpal isn't strong enough to recommend this over other Kinetics. **WARNING**: It's possible that a PvP roll without a preference in the FTTC column will "take" this roll. Bear in mind that might have this roll and it would be lit up as a PvP roll.
   ```
   Barrels [100%]: *
   Mags    [100%]: *
