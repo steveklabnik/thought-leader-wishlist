@@ -1,0 +1,182 @@
+name: Seventh Seraph VY-7
+item_id: 766323545
+lightgg: https://www.light.gg/db/items/766323545/seventh-seraph-vy-7/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 4, c: 1}
+  perks2:      {t: 4, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:
+  -
+    name: PvP
+    summary: >
+      The VY-7 is a 600 RPM Energy "Precision Frame" SMG. Here's how it compares
+      to all other randomly-rolled 600 RPM SMGs on
+      [light.gg](https://www.light.gg/db/items/compare/?h=trStZ;CYr9QP;CQZu7f;B9hF8b;).
+      It's competitive base-stat-wise but there's a reason you've probably never
+      been killed by any of these weapons (or any SMG for that matter) since the
+      first year of Destiny 2. In Season 10 with the recent Adaptive Auto Rifle
+      buff, Auto Rifles outclass SMGs and failing ARs, both sidearms and
+      shotguns are going to frustrate the hell out of you.
+
+
+      Forget it right? But do you remember this world?
+
+
+      * [Antiope-D's FINAL FORM! (God Roll)](https://www.youtube.com/watch?v=zxnkTvtuXEA) - Destiny Fun Police
+      
+      * [The Perfect Antiope-D does exist!](https://www.youtube.com/watch?v=M3tC-IkkFRU) - CammyCakes
+      
+      * [Antiope-D and Sniping = New Meta ?](https://www.youtube.com/watch?v=yjG32gyUh_w) - ZkMushroom
+      
+      
+      If you didn't bother clicking the comparison link above, I'll spoil it
+      for you. The VY-7 is basically the same weapon as the Antiope. SMGs
+      themselves haven't changed - the meta around them has. I think you'll want
+      to put one of these in your vault and hold out for a buff. Now granted,
+      they don't have the stability- and accuracy-increasing perk pool that
+      Antiope did, but it does have very different barrels and magazines that
+      can push the Range and Stability just as high. Worth a hold of at least one
+      good roll!
+    rolls:
+      - &vyar
+        name: (PvP) Slif's "Weird Auto Rifle but OK" 🤷‍♂️ Collector's Edition
+        desc: >
+          We're going to use a Counterbalance Mod to get the Recoil to 100, so
+          we can go for Range surrounding our pick of the criminially underrated
+          Firmly Planted, which turns this in to an absolute laser. Fully
+          Masterworked, these rolls would net out to 80-91 Range, being slightly
+          lower and slightly higher than the Antiope at either end of the
+          spectrum.
+        barrels: [Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling]
+        magazines: [Accurized Rounds]
+        perks1: [Firmly Planted]
+        perks2: []
+        masterworks: [Range MW]
+      -
+        <<: *vyar
+        name: (PvP) "Weird AR" 🤷‍♂️ (Relaxed Barrels)
+        desc: >
+          Same as the above with with relaxed Barrels.
+        barrels: []
+      -
+        <<: *vyar
+        name: (PvP) "Weird AR" 🤷‍♂️ (Relaxed Magazines)
+        desc: >
+          Same as the above with with relaxed Barrels.
+        magazines: []
+      -
+        <<: *vyar
+        name: (PvP) "Weird AR" 🤷‍♂️ (Relaxed Masterworks)
+        desc: >
+          Same as the above with with relaxed Barrels.
+        masterworks: []
+      - &vysuperplanted
+        <<: *vyar
+        name: (PvP) Slif's "Long-Distance Planted Super Shredder" 🌱💥 Collector's Edition
+        desc: >
+          Similar to our max Range roll, except pivoting around Vorpal.
+        perks2: [Vorpal]
+      -
+        <<: *vysuperplanted
+        name: (PvP) "Planted Shredder" 🌱💥 (Relaxed Barrels)
+        desc: >
+          Same as the above with with relaxed Barrels.
+        barrels: []
+      -
+        <<: *vysuperplanted
+        name: (PvP) "Planted Shredder" 🌱💥 (Relaxed Magazines)
+        desc: >
+          Same as the above with with relaxed Barrels.
+        magazines: []
+      -
+        <<: *vysuperplanted
+        name: (PvP) "Planted Shredder" 🌱💥 (Relaxed Masterworks)
+        desc: >
+          Same as the above with with relaxed Masterworks.
+        masterworks: []
+      - &vysupershredder
+        <<: *vyar
+        name: (PvP) Slif's "Long-Distance Super Shredder" 💥 Collector's Edition
+        desc: >
+          Similar to our max Range roll, except pivoting around Vorpal.
+        perks1: []
+        perks2: [Vorpal]
+      -
+        <<: *vysupershredder
+        name: (PvP) "Super Shredder" 💥 (Relaxed Barrels)
+        desc: >
+          Same as the above with with relaxed Barrels.
+        barrels: []
+      -
+        <<: *vysupershredder
+        name: (PvP) "Super Shredder" 💥 (Relaxed Magazines)
+        desc: >
+          Same as the above with with relaxed Barrels.
+        magazines: []
+      -
+        <<: *vysupershredder
+        name: (PvP) "Super Shredder" 💥 (Relaxed Masterworks)
+        desc: >
+          Same as the above with with relaxed Masterworks.
+        masterworks: []        
+      - &vyfirm
+        <<: *vyar
+        name: (PvP) "Firmly Submachinegunning" ✊
+        desc: >
+          We're going to get so much stability and accuracy from Firmly Planted
+          that we can be pretty loose in our other requirements.
+        masterworks: []
+      -
+        <<: *vyfirm
+        name: (PvP) "Firmly Submachinegunning" ✊ (Relaxed Magazines)
+        desc: >
+          Same as the above with relaxed Magazines.
+        magazines: []
+
+  -
+    name: PvE
+    summary: >
+      The VY-7 is the only SMG that's able to roll with Vorpal and you'll want
+      one of these for two reasons:
+
+      
+      * SMGs are eligible for certain Season 10 Artifact weapon mods.
+      
+      * The VY-7 is a Seraph weapon and contributes to the generation of Warmind
+      Cells.
+
+
+      There aren't any obvious pairings and I think that's to Bungie's credit.
+      We're not here talking about the same old Outlaw or Feeding Frenzy + Kill
+      Clip snoozefest. I think a lot of the same things that make this
+      interesting in PvP contribute to interesting PvE rolls as well.
+
+
+      **Third Column**: `Firmly Planted` turns this in to an outright laser.
+      Unlike in PvP, you can crouch to your heart's content and take full
+      advantage of it in PvE.
+
+
+      **Fourth Column**: Why aren't I selecting Dragonfly? Given the RPM, the
+      chance you finish with a precision bullet seems quite low. I'd rather the
+      always-on benefits of `Feeding Frenzy` or `Vorpal`.
+    rolls:
+      - &vyvorpal
+        name: (PvE) Warmind Cell Generator - Vorpal ☄️
+        desc: >
+          TODO
+        barrels: []
+        magazines: [Accurized Rounds, Tactical Mag, Drop Mag, Alloy Magazine, Flared Magwell, Appended Mag]
+        perks1: [Firmly Planted]
+        perks2: [Vorpal]
+        masterworks: []
+      - 
+        <<: *vyvorpal
+        name: (PvE) Warmind Cell Generator - Feeding Frenzy ☄️
+        desc: >
+          Similar to the above. We'll take Extended Barrel but only if we can
+          also get Feeding Frenzy.
+        magazines: [Accurized Rounds, Tactical Mag, Drop Mag, Alloy Magazine, Flared Magwell, Extended Mag, Appended Mag]
+        perks2: [Feeding Frenzy]
