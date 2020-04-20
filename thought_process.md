@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-04-20 02:42:40 +00:00`. The most recent
+created on `2020-04-20 22:27:08 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -621,7 +621,7 @@ If you didn't bother clicking the comparison link above, I'll spoil it for you. 
   Perks 2 [100%]: *
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) "Weird AR" 🤷‍♂️ (Relaxed Magazines) (5.2% chance)**: Same as the above with with relaxed Barrels.
+* **(PvP) "Weird AR" 🤷‍♂️ (Relaxed Magazines) (5.2% chance)**: Same as the above with with relaxed Magazines.
   ```
   Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
   Mags    [100%]: *
@@ -672,7 +672,7 @@ If you didn't bother clicking the comparison link above, I'll spoil it for you. 
 * **(PvP) Slif's "Long-Distance Super Shredder" 💥 Collector's Edition (1.3% chance)**: Similar to our max Range roll, except pivoting around Vorpal.
   ```
   Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
+  Mags    [ 25%]: Steady Rounds
   Perks 1 [100%]: *
   Perks 2 [ 25%]: Vorpal
   MWorks  [ 25%]: Range MW
@@ -680,7 +680,7 @@ If you didn't bother clicking the comparison link above, I'll spoil it for you. 
 * **(PvP) "Super Shredder" 💥 (Relaxed Barrels) (1.6% chance)**: Same as the above with with relaxed Barrels.
   ```
   Barrels [100%]: *
-  Mags    [ 25%]: Accurized Rounds
+  Mags    [ 25%]: Steady Rounds
   Perks 1 [100%]: *
   Perks 2 [ 25%]: Vorpal
   MWorks  [ 25%]: Range MW
@@ -696,7 +696,7 @@ If you didn't bother clicking the comparison link above, I'll spoil it for you. 
 * **(PvP) "Super Shredder" 💥 (Relaxed Masterworks) (5.2% chance)**: Same as the above with with relaxed Masterworks.
   ```
   Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
+  Mags    [ 25%]: Steady Rounds
   Perks 1 [100%]: *
   Perks 2 [ 25%]: Vorpal
   MWorks  [100%]: *
@@ -720,15 +720,15 @@ If you didn't bother clicking the comparison link above, I'll spoil it for you. 
 ## Seventh Seraph VY-7 - PvE
 The VY-7 is the only SMG that's able to roll with Vorpal and you'll want one of these for two reasons:
 
-* SMGs are eligible for certain Season 10 Artifact weapon mods.
 * The VY-7 is a Seraph weapon and contributes to the generation of Warmind Cells.
+* SMGs are eligible for certain Season 10 Artifact weapon mods.
 
-There aren't any obvious pairings and I think that's to Bungie's credit. We're not here talking about the same old Outlaw or Feeding Frenzy + Kill Clip snoozefest. I think a lot of the same things that make this interesting in PvP contribute to interesting PvE rolls as well.
+There aren't any obvious pairings and I think that's to Bungie's credit. We're not here talking about the same old Outlaw + Kill Clip or Grave Robber + Swashbuckler snoozefest. I think a lot of the same things that make this interesting in PvP contribute to interesting PvE rolls as well.
 
-**Third Column**: `Firmly Planted` turns this in to an outright laser. Unlike in PvP, you can crouch to your heart's content and take full advantage of it in PvE.
+**Third Column**: `Firmly Planted` makes a dramatic difference in stability. In PvE you can crouch to your heart's content. Of course this is far from required if all you're doing is generating Warmind cells but it is pretty amazing :)
 
 **Fourth Column**: Why aren't I selecting Dragonfly? Given the RPM, the chance you finish with a precision bullet seems quite low. I'd rather the always-on benefits of `Feeding Frenzy` or `Vorpal`.
-* **(PvE) Warmind Cell Generator - Vorpal ☄️ (6.0% chance)**: TODO
+* **(PvE) Warmind Cell Generator - Vorpal ☄️ (6.0% chance)**: Vorpal procs against Champions and any season where SMGs can take Artifact mods (Season 10 for example!) this is a solid pull.
   ```
   Barrels [100%]: *
   Mags    [ 96%]: Accurized Rounds, Tactical Mag, Drop Mag, Alloy Magazine, Flared Magwell, Appended Mag
@@ -736,7 +736,15 @@ There aren't any obvious pairings and I think that's to Bungie's credit. We're n
   Perks 2 [ 25%]: Vorpal
   MWorks  [100%]: *
   ```
-* **(PvE) Warmind Cell Generator - Feeding Frenzy ☄️ (6.2% chance)**: Similar to the above. We'll take Extended Barrel but only if we can also get Feeding Frenzy.
+* **(PvE) Warmind Cell Generator - Steady as She Goes ☄️ (6.2% chance)**: Using Steady Rounds, we can drop the requirement for Firmly Planted. Sure it's not exactly the same, but we're not talking super high-end requirements here :)
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvE) Warmind Cell Generator - Feeding Frenzy ☄️ (6.2% chance)**: We'll take Extended Barrel but only if we can also get Feeding Frenzy.
   ```
   Barrels [100%]: *
   Mags    [100%]: *
