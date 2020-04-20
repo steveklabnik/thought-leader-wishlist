@@ -169,7 +169,7 @@ groups:
           We're going to take another crack at the above set of rolls, this time
           prioritizing Handling.
         barrels: [Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
-        magazines: [Alloy Mag, Drop Mag]
+        magazines: [Alloy Magazine, Drop Mag]
         perks1: [Firmly Planted]
         perks2: [Timed Payload, Vorpal]
         masterworks: [Handling MW]
