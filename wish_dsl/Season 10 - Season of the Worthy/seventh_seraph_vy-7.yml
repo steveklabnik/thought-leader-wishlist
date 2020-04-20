@@ -64,7 +64,7 @@ groups:
         <<: *vyar
         name: (PvP) "Weird AR" 🤷‍♂️ (Relaxed Magazines)
         desc: >
-          Same as the above with with relaxed Barrels.
+          Same as the above with with relaxed Magazines.
         magazines: []
       -
         <<: *vyar
@@ -101,6 +101,7 @@ groups:
         name: (PvP) Slif's "Long-Distance Super Shredder" 💥 Collector's Edition
         desc: >
           Similar to our max Range roll, except pivoting around Vorpal.
+        magazines: [Steady Rounds]
         perks1: []
         perks2: [Vorpal]
       -
@@ -142,21 +143,23 @@ groups:
       one of these for two reasons:
 
       
-      * SMGs are eligible for certain Season 10 Artifact weapon mods.
-      
       * The VY-7 is a Seraph weapon and contributes to the generation of Warmind
       Cells.
 
+      * SMGs are eligible for certain Season 10 Artifact weapon mods.
+      
 
       There aren't any obvious pairings and I think that's to Bungie's credit.
-      We're not here talking about the same old Outlaw or Feeding Frenzy + Kill
-      Clip snoozefest. I think a lot of the same things that make this
-      interesting in PvP contribute to interesting PvE rolls as well.
+      We're not here talking about the same old Outlaw + Kill
+      Clip or Grave Robber + Swashbuckler snoozefest. I think a lot of the same
+      things that make this interesting in PvP contribute to interesting PvE
+      rolls as well.
 
 
-      **Third Column**: `Firmly Planted` turns this in to an outright laser.
-      Unlike in PvP, you can crouch to your heart's content and take full
-      advantage of it in PvE.
+      **Third Column**: `Firmly Planted` makes a dramatic difference in
+      stability. In PvE you can crouch to your heart's content. Of course this
+      is far from required if all you're doing is generating Warmind cells but
+      it is pretty amazing :)
 
 
       **Fourth Column**: Why aren't I selecting Dragonfly? Given the RPM, the
@@ -166,7 +169,8 @@ groups:
       - &vyvorpal
         name: (PvE) Warmind Cell Generator - Vorpal ☄️
         desc: >
-          TODO
+          Vorpal procs against Champions and any season where SMGs can take
+          Artifact mods (Season 10 for example!) this is a solid pull.
         barrels: []
         magazines: [Accurized Rounds, Tactical Mag, Drop Mag, Alloy Magazine, Flared Magwell, Appended Mag]
         perks1: [Firmly Planted]
@@ -174,9 +178,17 @@ groups:
         masterworks: []
       - 
         <<: *vyvorpal
+        name: (PvE) Warmind Cell Generator - Steady as She Goes ☄️
+        desc: >
+          Using Steady Rounds, we can drop the requirement for Firmly Planted.
+          Sure it's not exactly the same, but we're not talking super high-end
+          requirements here :)
+        magazines: [Steady Rounds]
+        perks1: []
+      - 
+        <<: *vyvorpal
         name: (PvE) Warmind Cell Generator - Feeding Frenzy ☄️
         desc: >
-          Similar to the above. We'll take Extended Barrel but only if we can
-          also get Feeding Frenzy.
+          We'll take Extended Barrel but only if we can also get Feeding Frenzy.
         magazines: [Accurized Rounds, Tactical Mag, Drop Mag, Alloy Magazine, Flared Magwell, Extended Mag, Appended Mag]
         perks2: [Feeding Frenzy]
