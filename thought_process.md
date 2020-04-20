@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-04-19 23:47:50 +00:00`. The most recent
+created on `2020-04-20 02:42:40 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -27,6 +27,7 @@ I'm of the opinion it's not worth chasing ツ
 * Seventh Seraph CQC-12 ([PvP](#seventh-seraph-cqc-12---pvp), [PvE](#seventh-seraph-cqc-12---pve))
 * Seventh Seraph Officer Revolver ([PvP](#seventh-seraph-officer-revolver---pvp), [PvE](#seventh-seraph-officer-revolver---pve))
 * Seventh Seraph SI-2 ([PvP](#seventh-seraph-si-2---pvp), [PvE](#seventh-seraph-si-2---pve))
+* Seventh Seraph VY-7 ([PvP](#seventh-seraph-vy-7---pvp), [PvE](#seventh-seraph-vy-7---pve))
 
 **Season 9 - Season of the Dawn**
 * Breachlight ([PvP](#breachlight---pvp), [PvE](#breachlight---pve))
@@ -291,7 +292,7 @@ Our first couple of roll sets will be classic shotgun rolls and the third will f
 This section will be straightforward :) All of our rolls are toing to be centered around Trench Barrel. It provides a 50% damage boost vs. Vorpal's 15%. Trench Barrel takes a melee to activate, but with shotguns you have to be in melee range anyway, so you're good!
 
 This isn't a "run and gun" shotgun. There are no damage-boosting perks, like Swashbuckler or Rampage, you have Slideshot and Auto-Loading Holster but so do plenty of other shotguns.
-* **Slif's "Butter and Citrus Bar Shredder" 🧈🍊Collector's Edition (1.3% chance)**: We're basing these next few rolls around Trench Barrel. Quickdraw will help with swapping from the hits between Trench Barrel activations.
+* **(PvE) Slif's "Butter and Citrus Bar Shredder" 🧈🍊Collector's Edition (1.3% chance)**: We're basing these next few rolls around Trench Barrel. Quickdraw will help with swapping from the hits between Trench Barrel activations.
   ```
   Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
   Mags    [ 52%]: Assault Mag, Appended Mag
@@ -299,7 +300,7 @@ This isn't a "run and gun" shotgun. There are no damage-boosting perks, like Swa
   Perks 2 [ 25%]: Trench Barrel
   MWorks  [ 50%]: Handling MW, Reload MW
   ```
-* **Slif's "Butter Shredder" 🧈🍊 (Relaxed Masterworks) (2.6% chance)**: Same as the above, minus the Masterworks
+* **(PvE) "Butter Shredder" 🧈🍊 (Relaxed Masterworks) (2.6% chance)**: Same as the above, minus the Masterworks
   ```
   Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
   Mags    [ 52%]: Assault Mag, Appended Mag
@@ -307,7 +308,7 @@ This isn't a "run and gun" shotgun. There are no damage-boosting perks, like Swa
   Perks 2 [ 25%]: Trench Barrel
   MWorks  [100%]: *
   ```
-* **Slif's "Butter Shredder" 🧈🍊 (Relaxed Perks) (5.2% chance)**: Same as the above, minus Quickdraw
+* **(PvE) "Butter Shredder" 🧈🍊 (Relaxed Perks) (5.2% chance)**: Same as the above, minus Quickdraw
   ```
   Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
   Mags    [ 52%]: Assault Mag, Appended Mag
@@ -315,7 +316,7 @@ This isn't a "run and gun" shotgun. There are no damage-boosting perks, like Swa
   Perks 2 [ 25%]: Trench Barrel
   MWorks  [ 50%]: Handling MW, Reload MW
   ```
-* **Slif's "Butter Shredder" 🧈🍊 (Fully Relaxed) (10.5% chance)**: Same as the above, minus the Masterworks and Quickdraw
+* **(PvE) "Butter Shredder" 🧈🍊 (Fully Relaxed) (10.5% chance)**: Same as the above, minus the Masterworks and Quickdraw
   ```
   Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
   Mags    [ 52%]: Assault Mag, Appended Mag
@@ -323,7 +324,7 @@ This isn't a "run and gun" shotgun. There are no damage-boosting perks, like Swa
   Perks 2 [ 25%]: Trench Barrel
   MWorks  [100%]: *
   ```
-* **Slif's "Warmind Cell Generator" ☄️ Collector's Edition (10.5% chance)**: Lots of reloading with plenty of handling and stability to go around.
+* **(PvE) "Warmind Cell Generator" ☄️ Collector's Edition (10.5% chance)**: Lots of reloading with plenty of handling and stability to go around.
   ```
   Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
   Mags    [ 52%]: Assault Mag, Appended Mag
@@ -331,7 +332,7 @@ This isn't a "run and gun" shotgun. There are no damage-boosting perks, like Swa
   Perks 2 [100%]: *
   MWorks  [ 50%]: Handling MW, Reload MW
   ```
-* **Slif's "Warmind Cell Generator" ☄️ CE (Relaxed Masterworks) (21.0% chance)**: You kinda just want one of these to generate Warmind Cells.
+* **(PvE) "Warmind Cell Generator" ☄️ CE (Relaxed Masterworks) (21.0% chance)**: You kinda just want one of these to generate Warmind Cells.
   ```
   Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
   Mags    [ 52%]: Assault Mag, Appended Mag
@@ -592,6 +593,155 @@ That being said, there are a few combos that could prove interesting for the dis
   Mags    [100%]: *
   Perks 1 [ 16%]: Threat Detector
   Perks 2 [ 16%]: Surrounded
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph VY-7 - PvP
+The VY-7 is a 600 RPM Energy "Precision Frame" SMG. Here's how it compares to all other randomly-rolled 600 RPM SMGs on [light.gg](https://www.light.gg/db/items/compare/?h=trStZ;CYr9QP;CQZu7f;B9hF8b;). It's competitive base-stat-wise but there's a reason you've probably never been killed by any of these weapons (or any SMG for that matter) since the first year of Destiny 2. In Season 10 with the recent Adaptive Auto Rifle buff, Auto Rifles outclass SMGs and failing ARs, both sidearms and shotguns are going to frustrate the hell out of you.
+
+Forget it right? But do you remember this world?
+
+* [Antiope-D's FINAL FORM! (God Roll)](https://www.youtube.com/watch?v=zxnkTvtuXEA) - Destiny Fun Police
+* [The Perfect Antiope-D does exist!](https://www.youtube.com/watch?v=M3tC-IkkFRU) - CammyCakes
+* [Antiope-D and Sniping = New Meta ?](https://www.youtube.com/watch?v=yjG32gyUh_w) - ZkMushroom
+
+If you didn't bother clicking the comparison link above, I'll spoil it for you. The VY-7 is basically the same weapon as the Antiope. SMGs themselves haven't changed - the meta around them has. I think you'll want to put one of these in your vault and hold out for a buff. Now granted, they don't have the stability- and accuracy-increasing perk pool that Antiope did, but it does have very different barrels and magazines that can push the Range and Stability just as high. Worth a hold of at least one good roll!
+* **(PvP) Slif's "Weird Auto Rifle but OK" 🤷‍♂️ Collector's Edition (1.3% chance)**: We're going to use a Counterbalance Mod to get the Recoil to 100, so we can go for Range surrounding our pick of the criminially underrated Firmly Planted, which turns this in to an absolute laser. Fully Masterworked, these rolls would net out to 80-91 Range, being slightly lower and slightly higher than the Antiope at either end of the spectrum.
+  ```
+  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Weird AR" 🤷‍♂️ (Relaxed Barrels) (1.6% chance)**: Same as the above with with relaxed Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Weird AR" 🤷‍♂️ (Relaxed Magazines) (5.2% chance)**: Same as the above with with relaxed Barrels.
+  ```
+  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Weird AR" 🤷‍♂️ (Relaxed Masterworks) (5.2% chance)**: Same as the above with with relaxed Barrels.
+  ```
+  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+* **(PvP) Slif's "Long-Distance Planted Super Shredder" 🌱💥 Collector's Edition (0.3% chance)**: Similar to our max Range roll, except pivoting around Vorpal.
+  ```
+  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Planted Shredder" 🌱💥 (Relaxed Barrels) (0.4% chance)**: Same as the above with with relaxed Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Planted Shredder" 🌱💥 (Relaxed Magazines) (1.3% chance)**: Same as the above with with relaxed Barrels.
+  ```
+  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Planted Shredder" 🌱💥 (Relaxed Masterworks) (1.3% chance)**: Same as the above with with relaxed Masterworks.
+  ```
+  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvP) Slif's "Long-Distance Super Shredder" 💥 Collector's Edition (1.3% chance)**: Similar to our max Range roll, except pivoting around Vorpal.
+  ```
+  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Super Shredder" 💥 (Relaxed Barrels) (1.6% chance)**: Same as the above with with relaxed Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Super Shredder" 💥 (Relaxed Magazines) (5.2% chance)**: Same as the above with with relaxed Barrels.
+  ```
+  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Super Shredder" 💥 (Relaxed Masterworks) (5.2% chance)**: Same as the above with with relaxed Masterworks.
+  ```
+  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Firmly Submachinegunning" ✊ (5.2% chance)**: We're going to get so much stability and accuracy from Firmly Planted that we can be pretty loose in our other requirements.
+  ```
+  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Firmly Submachinegunning" ✊ (Relaxed Magazines) (20.8% chance)**: Same as the above with relaxed Magazines.
+  ```
+  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph VY-7 - PvE
+The VY-7 is the only SMG that's able to roll with Vorpal and you'll want one of these for two reasons:
+
+* SMGs are eligible for certain Season 10 Artifact weapon mods.
+* The VY-7 is a Seraph weapon and contributes to the generation of Warmind Cells.
+
+There aren't any obvious pairings and I think that's to Bungie's credit. We're not here talking about the same old Outlaw or Feeding Frenzy + Kill Clip snoozefest. I think a lot of the same things that make this interesting in PvP contribute to interesting PvE rolls as well.
+
+**Third Column**: `Firmly Planted` turns this in to an outright laser. Unlike in PvP, you can crouch to your heart's content and take full advantage of it in PvE.
+
+**Fourth Column**: Why aren't I selecting Dragonfly? Given the RPM, the chance you finish with a precision bullet seems quite low. I'd rather the always-on benefits of `Feeding Frenzy` or `Vorpal`.
+* **(PvE) Warmind Cell Generator - Vorpal ☄️ (6.0% chance)**: TODO
+  ```
+  Barrels [100%]: *
+  Mags    [ 96%]: Accurized Rounds, Tactical Mag, Drop Mag, Alloy Magazine, Flared Magwell, Appended Mag
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvE) Warmind Cell Generator - Feeding Frenzy ☄️ (6.2% chance)**: Similar to the above. We'll take Extended Barrel but only if we can also get Feeding Frenzy.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [ 25%]: Feeding Frenzy
   MWorks  [100%]: *
   ```
 ## Breachlight - PvP
