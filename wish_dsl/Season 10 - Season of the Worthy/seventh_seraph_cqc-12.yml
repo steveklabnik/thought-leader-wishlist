@@ -160,7 +160,7 @@ groups:
       but so do plenty of other shotguns.
     rolls:
       - &cqcbutter
-        name: Slif's "Butter and Citrus Bar Shredder" 🧈🍊Collector's Edition
+        name: (PvE) Slif's "Butter and Citrus Bar Shredder" 🧈🍊Collector's Edition
         desc: >
           We're basing these next few rolls around Trench Barrel. Quickdraw will
           help with swapping from the hits between Trench Barrel activations.
@@ -171,33 +171,33 @@ groups:
         masterworks: [Handling MW, Reload MW]
       -
         <<: *cqcbutter
-        name: Slif's "Butter Shredder" 🧈🍊 (Relaxed Masterworks)
+        name: (PvE) "Butter Shredder" 🧈🍊 (Relaxed Masterworks)
         desc: >
           Same as the above, minus the Masterworks
         masterworks: []
       -
         <<: *cqcbutter
-        name: Slif's "Butter Shredder" 🧈🍊 (Relaxed Perks)
+        name: (PvE) "Butter Shredder" 🧈🍊 (Relaxed Perks)
         desc: >
           Same as the above, minus Quickdraw
         perks1: []
       -
         <<: *cqcbutter
-        name: Slif's "Butter Shredder" 🧈🍊 (Fully Relaxed)
+        name: (PvE) "Butter Shredder" 🧈🍊 (Fully Relaxed)
         desc: >
           Same as the above, minus the Masterworks and Quickdraw
         perks1: []
         masterworks: []
       - &cqcgenerator
         <<: *cqcbutter
-        name: Slif's "Warmind Cell Generator" ☄️ Collector's Edition
+        name: (PvE) "Warmind Cell Generator" ☄️ Collector's Edition
         desc: >
           Lots of reloading with plenty of handling and stability to go around.
         perks1: [Auto-Loading Holster, Slideshot]
         perks2: []
       -
         <<: *cqcgenerator
-        name: Slif's "Warmind Cell Generator" ☄️ CE (Relaxed Masterworks)
+        name: (PvE) "Warmind Cell Generator" ☄️ CE (Relaxed Masterworks)
         desc: >
           You kinda just want one of these to generate Warmind Cells.
         masterworks: []
