@@ -58,19 +58,19 @@ groups:
         <<: *vyar
         name: (PvP) "Weird AR" 🤷‍♂️ (Relaxed Barrels)
         desc: >
-          Same as the above with with relaxed Barrels.
+          Same as the above with relaxed Barrels.
         barrels: []
       -
         <<: *vyar
         name: (PvP) "Weird AR" 🤷‍♂️ (Relaxed Magazines)
         desc: >
-          Same as the above with with relaxed Magazines.
+          Same as the above with relaxed Magazines.
         magazines: []
       -
         <<: *vyar
         name: (PvP) "Weird AR" 🤷‍♂️ (Relaxed Masterworks)
         desc: >
-          Same as the above with with relaxed Barrels.
+          Same as the above with relaxed Masterworks.
         masterworks: []
       - &vysuperplanted
         <<: *vyar
@@ -82,19 +82,19 @@ groups:
         <<: *vysuperplanted
         name: (PvP) "Planted Shredder" 🌱💥 (Relaxed Barrels)
         desc: >
-          Same as the above with with relaxed Barrels.
+          Same as the above with relaxed Barrels.
         barrels: []
       -
         <<: *vysuperplanted
         name: (PvP) "Planted Shredder" 🌱💥 (Relaxed Magazines)
         desc: >
-          Same as the above with with relaxed Barrels.
+          Same as the above with relaxed Magazines.
         magazines: []
       -
         <<: *vysuperplanted
         name: (PvP) "Planted Shredder" 🌱💥 (Relaxed Masterworks)
         desc: >
-          Same as the above with with relaxed Masterworks.
+          Same as the above with relaxed Masterworks.
         masterworks: []
       - &vysupershredder
         <<: *vyar
@@ -108,19 +108,19 @@ groups:
         <<: *vysupershredder
         name: (PvP) "Super Shredder" 💥 (Relaxed Barrels)
         desc: >
-          Same as the above with with relaxed Barrels.
+          Same as the above with relaxed Barrels.
         barrels: []
       -
         <<: *vysupershredder
         name: (PvP) "Super Shredder" 💥 (Relaxed Magazines)
         desc: >
-          Same as the above with with relaxed Barrels.
+          Same as the above with relaxed Magazines.
         magazines: []
       -
         <<: *vysupershredder
         name: (PvP) "Super Shredder" 💥 (Relaxed Masterworks)
         desc: >
-          Same as the above with with relaxed Masterworks.
+          Same as the above with relaxed Masterworks.
         masterworks: []        
       - &vyfirm
         <<: *vyar
@@ -167,7 +167,7 @@ groups:
       always-on benefits of `Feeding Frenzy` or `Vorpal`.
     rolls:
       - &vyvorpal
-        name: (PvE) Warmind Cell Generator - Vorpal ☄️
+        name: (PvE) "Cell Generator" ☄️ 🌱 Collector's Edition
         desc: >
           Vorpal procs against Champions and any season where SMGs can take
           Artifact mods (Season 10 for example!) this is a solid pull.
@@ -178,7 +178,7 @@ groups:
         masterworks: []
       - 
         <<: *vyvorpal
-        name: (PvE) Warmind Cell Generator - Steady as She Goes ☄️
+        name: (PvE) "Cell Generator" ☄️ (Relaxed Planting)
         desc: >
           Using Steady Rounds, we can drop the requirement for Firmly Planted.
           Sure it's not exactly the same, but we're not talking super high-end
@@ -187,7 +187,7 @@ groups:
         perks1: []
       - 
         <<: *vyvorpal
-        name: (PvE) Warmind Cell Generator - Feeding Frenzy ☄️
+        name: (PvE) "Cell Generator" ☄️ (Large Mag / Frenzy)
         desc: >
           We'll take Extended Barrel but only if we can also get Feeding Frenzy.
         magazines: [Accurized Rounds, Tactical Mag, Drop Mag, Alloy Magazine, Flared Magwell, Extended Mag, Appended Mag]
