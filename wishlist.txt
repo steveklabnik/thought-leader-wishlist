@@ -1,5 +1,5 @@
 title: SlifSF's Sliflist
-description: Generated 2020-04-25 16:14:02 +00:00
+description: Generated 2020-04-25 21:45:22 +00:00
 //notes:(PvP) Slif's "Classic Stable Auto Rifle" 🎩 Collector's Edition / 0.1% chance
 dimwishlist:item=1561006927&perks=839105230,1885400500,3161816588,588594999,1590375901
 dimwishlist:item=1561006927&perks=839105230,1885400500,3161816588,588594999,1590375902
@@ -5245,16 +5245,16 @@ dimwishlist:item=766323545&perks=3250034553,280464955
 dimwishlist:item=766323545&perks=1467527085,280464955
 dimwishlist:item=766323545&perks=1482024992,280464955
 dimwishlist:item=766323545&perks=4090651448,280464955
-//notes:(PvE) Warmind Cell Generator - Vorpal ☄️ / 6.0% chance
+//notes:(PvE) "Cell Generator" ☄️ 🌱 Collector's Edition / 6.0% chance
 dimwishlist:item=766323545&perks=3142289711,280464955,1546637391
 dimwishlist:item=766323545&perks=106909392,280464955,1546637391
 dimwishlist:item=766323545&perks=4134353779,280464955,1546637391
 dimwishlist:item=766323545&perks=1431678320,280464955,1546637391
 dimwishlist:item=766323545&perks=3230963543,280464955,1546637391
 dimwishlist:item=766323545&perks=1087426260,280464955,1546637391
-//notes:(PvE) Warmind Cell Generator - Steady as She Goes ☄️ / 6.2% chance
+//notes:(PvE) "Cell Generator" ☄️ (Relaxed Planting) / 6.2% chance
 dimwishlist:item=766323545&perks=3177308360,1546637391
-//notes:(PvE) Warmind Cell Generator - Feeding Frenzy ☄️ / 6.2% chance
+//notes:(PvE) "Cell Generator" ☄️ (Large Mag / Frenzy) / 6.2% chance
 dimwishlist:item=766323545&perks=3142289711,280464955,2779035018
 dimwishlist:item=766323545&perks=106909392,280464955,2779035018
 dimwishlist:item=766323545&perks=4134353779,280464955,2779035018
