@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-04-20 22:48:23 +00:00`. The most recent
+created on `2020-04-25 16:14:02 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -356,8 +356,8 @@ Vorpal and Timed Payload are uniquely available on the Officer Revolver. I perso
 
 I only partially agree with Drewsky here. Going back to our understanding of the new compressed range on Hand Cannons, we can cite some science from CoolGuy: "(35 Range = 25m falloff, 86 Range = 28m)". I'm not sure I'd want to blow valuable Magazine and Barrel slots for one to three meters of falloff.
 
-The good news is that the wishlist can support multiple perspectives! I'll put together a set of Range-prioritizing rolls representing Drewsky's perspective, and a set of Handling/Stability prioritizing rolls.
-* **(PvP) Drewsky's "Range First" Collector's Edition 🏔 (0.1% chance)**: "Timed Payload?! That's supposed to be positively horrible. Doesn't it lower your TTK?" Well, it causes double the flinch and the explosion has no range falloff. On a 180 RPM Hand Cannon, Timed Payload shouldn't lower the TTK (Drewsky didn't have one on hand to verify the math) as you would be getting the kill on the last bullet and not on the last 17 damage from Timed Payload.
+The good news is that the wishlist can support multiple perspectives! I'll put together a set of Range-prioritizing rolls representing Drewsky's perspective, and a set of Handling/Stability prioritizing rolls. There is no "baseline" roll for the Officer Revolver because the baseline stats aren't what make this weapon interesting. There are plenty of other 140s and 150s that you'd prioritize over this if you were just looking for a workhorse PvP Hand Cannon.
+* **(PvP) Drewsky's "Planted Range" 🏔🌱🏔🌱🏔🌱Collector's Edition (0.1% chance)**: *"Timed Payload?! That's supposed to be positively horrible. Doesn't it lower your TTK?"* Well, it causes double the flinch and the explosion has no range falloff. On a 180 RPM Hand Cannon, Timed Payload shouldn't lower the TTK (Drewsky didn't have one on hand to verify the math) as you would be getting the kill on the last bullet and not on the last 17 damage from Timed Payload. Vorpal is great for shredding supers.
   ```
   Barrels [ 22%]: Hammer-Forged Rifling
   Mags    [ 25%]: Accurized Rounds
@@ -365,7 +365,7 @@ The good news is that the wishlist can support multiple perspectives! I'll put t
   Perks 2 [ 33%]: Timed Payload, Vorpal
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) "Range First" CE 🏔🏔🏔(Relaxed Magazine) (0.3% chance)**: Same as the above, minus Accurized Rounds. We're getting so much additional range from the Magazine and Masterwork, we're ok to lose out on it here.
+* **(PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Magazine) (0.3% chance)**: Same as the above, minus Accurized Rounds. We're getting so much additional range from the Magazine and Masterwork, we're ok to lose out on it here.
   ```
   Barrels [ 22%]: Hammer-Forged Rifling
   Mags    [100%]: *
@@ -373,7 +373,7 @@ The good news is that the wishlist can support multiple perspectives! I'll put t
   Perks 2 [ 33%]: Timed Payload, Vorpal
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) "Range First" CE 🏔🏔🏔(Relaxed Planting) (0.5% chance)**: Scratch Firmly Planted which might not be to everyone's playstyle or preference and still leaves you with a super unique roll.
+* **(PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Planting) (0.5% chance)**: Scratch Firmly Planted which might not be to everyone's playstyle or preference and still leaves you with a super unique roll.
   ```
   Barrels [ 22%]: Hammer-Forged Rifling
   Mags    [ 25%]: Accurized Rounds
@@ -381,7 +381,7 @@ The good news is that the wishlist can support multiple perspectives! I'll put t
   Perks 2 [ 33%]: Timed Payload, Vorpal
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) "Range First" CE 🏔🏔🏔(Relaxed Masterwork) (0.3% chance)**: Scratch the Range MW. We're getting so much range from the Barrel  and Magazine anyway.
+* **(PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Masterwork) (0.3% chance)**: Scratch the Range MW. We're getting so much range from the Barrel  and Magazine anyway.
   ```
   Barrels [ 22%]: Hammer-Forged Rifling
   Mags    [ 25%]: Accurized Rounds
@@ -389,7 +389,7 @@ The good news is that the wishlist can support multiple perspectives! I'll put t
   Perks 2 [ 33%]: Timed Payload, Vorpal
   MWorks  [100%]: *
   ```
-* **(PvP) "Range First" CE 🏔🏔🏔(Relaxed Magazine and Planting) (1.9% chance)**: Same as the above, again minus Firmly Planted.
+* **(PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Magazine and Planting) (1.9% chance)**: Same as the above, again minus Firmly Planted.
   ```
   Barrels [ 22%]: Hammer-Forged Rifling
   Mags    [100%]: *
@@ -397,7 +397,7 @@ The good news is that the wishlist can support multiple perspectives! I'll put t
   Perks 2 [ 33%]: Timed Payload, Vorpal
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) "Range First" CE 🏔🏔🏔(Relaxed Planting and Masterwork) (1.9% chance)**: Same as the above, again minus Firmly Planted.
+* **(PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Planting and Masterwork) (1.9% chance)**: Same as the above, again minus Firmly Planted and the Masterwork.
   ```
   Barrels [ 22%]: Hammer-Forged Rifling
   Mags    [ 25%]: Accurized Rounds
@@ -405,7 +405,7 @@ The good news is that the wishlist can support multiple perspectives! I'll put t
   Perks 2 [ 33%]: Timed Payload, Vorpal
   MWorks  [100%]: *
   ```
-* **(PvP) "Expanded Range" CE 🏔🏔 (0.2% chance)**: Let's add all of the Range-enhancing Barrels and repeat this set of rolls.
+* **(PvP) "Expanded Range" CE 🏔🌱 (0.2% chance)**: Let's add all of the Range-enhancing Barrels and repeat this set of rolls.
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 25%]: Accurized Rounds
@@ -413,7 +413,7 @@ The good news is that the wishlist can support multiple perspectives! I'll put t
   Perks 2 [ 33%]: Timed Payload, Vorpal
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) "Expanded Range" CE 🏔🏔(Relaxed Magazine) (0.8% chance)**: Same as the above, minus Accurized Rounds. We're getting so much additional range from the Magazine and Masterwork, we're ok to lose out on it here.
+* **(PvP) "Expanded Range" CE 🏔🌱(Relaxed Magazine) (0.8% chance)**: Same as the above, minus Accurized Rounds. We're getting so much additional range from the Magazine and Masterwork, we're ok to lose out on it here.
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [100%]: *
@@ -421,7 +421,7 @@ The good news is that the wishlist can support multiple perspectives! I'll put t
   Perks 2 [ 33%]: Timed Payload, Vorpal
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) "Expanded Range" CE 🏔🏔(Relaxed Planting) (1.2% chance)**: Scratch Firmly Planted which might not be to everyone's playstyle or preference and still leaves you with a super unique roll.
+* **(PvP) "Expanded Range" CE 🏔🌱(Relaxed Planting) (1.2% chance)**: Scratch Firmly Planted which might not be to everyone's playstyle or preference and still leaves you with a super unique roll.
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 25%]: Accurized Rounds
@@ -429,7 +429,7 @@ The good news is that the wishlist can support multiple perspectives! I'll put t
   Perks 2 [ 33%]: Timed Payload, Vorpal
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) "Expanded Range" CE 🏔🏔(Relaxed Masterwork) (0.8% chance)**: Scratch the Range MW. We're getting so much range from the Barrel  and Magazine anyway.
+* **(PvP) "Expanded Range" CE 🏔🌱(Relaxed Masterwork) (0.8% chance)**: Scratch the Range MW. We're getting so much range from the Barrel  and Magazine anyway.
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 25%]: Accurized Rounds
@@ -437,7 +437,7 @@ The good news is that the wishlist can support multiple perspectives! I'll put t
   Perks 2 [ 33%]: Timed Payload, Vorpal
   MWorks  [100%]: *
   ```
-* **(PvP) "Expanded Range" CE 🏔🏔(Relaxed Magazine and Planting) (1.9% chance)**: Same as the above, again minus Firmly Planted.
+* **(PvP) "Expanded Range" CE 🏔🌱(Relaxed Magazine and Planting) (1.9% chance)**: Same as the above, again minus Firmly Planted.
   ```
   Barrels [ 22%]: Hammer-Forged Rifling
   Mags    [100%]: *
@@ -445,7 +445,7 @@ The good news is that the wishlist can support multiple perspectives! I'll put t
   Perks 2 [ 33%]: Timed Payload, Vorpal
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) "Expanded Range" CE 🏔🏔(Relaxed Planting and Masterwork) (4.9% chance)**: Same as the above, again minus Firmly Planted.
+* **(PvP) "Expanded Range" CE 🏔🌱(Relaxed Planting and Masterwork) (4.9% chance)**: Same as the above, again minus Firmly Planted.
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 25%]: Accurized Rounds
@@ -453,37 +453,37 @@ The good news is that the wishlist can support multiple perspectives! I'll put t
   Perks 2 [ 33%]: Timed Payload, Vorpal
   MWorks  [100%]: *
   ```
-* **(PvP) Slif's "Handy" 🤚🤚🤚 Collector's Edition (0.4% chance)**: We're going to take another crack at the above set of rolls, this time prioritizing Handling.
+* **(PvP) Slif's "Ticking Timebomb" ⏰ Collector's Edition (1.2% chance)**: Interested in Timed Payload? Let's broaden Drewsky's roll above and include any decent Barrel or Magazine.
   ```
-  Barrels [ 58%]: Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
-  Mags    [ 46%]: Alloy Magazine, Drop Mag
+  Barrels [ 91%]: Fluted Barrel, Arrowhead Brake, Smallbore, Polygonal Rifling, Corkscrew Rifling, Hammer-Forged Rifling
+  Mags    [ 64%]: Accurized Rounds, Flared Magwell, Tactical Mag
   Perks 1 [ 16%]: Firmly Planted
-  Perks 2 [ 33%]: Timed Payload, Vorpal
-  MWorks  [ 25%]: Handling MW
+  Perks 2 [ 16%]: Timed Payload
+  MWorks  [ 75%]: Range MW, Handling MW, Stability MW
   ```
-* **(PvP) "Handy" 🤚🤚 CE (Relaxed Magazines) (0.8% chance)**: Same as the above, relaxing the Magazines.
+* **(PvP) "Timebomb" ⏰ CE (7.4% chance)**: Same as the above, relaxing Firmly Planted since that's not going to be to everyone's preference.
   ```
-  Barrels [ 58%]: Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
-  Mags    [100%]: *
+  Barrels [ 91%]: Fluted Barrel, Arrowhead Brake, Smallbore, Polygonal Rifling, Corkscrew Rifling, Hammer-Forged Rifling
+  Mags    [ 64%]: Accurized Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Timed Payload
+  MWorks  [ 75%]: Range MW, Handling MW, Stability MW
+  ```
+* **(PvP) Slif's "Super Shredder" 💥 Collector's Edition (1.2% chance)**: Interested in shredder supers? Of course you are. Let's broaden Drewsky's roll above and include any decent Barrel or Magazine while basing this around Vorpal.
+  ```
+  Barrels [ 91%]: Fluted Barrel, Arrowhead Brake, Smallbore, Polygonal Rifling, Corkscrew Rifling, Hammer-Forged Rifling
+  Mags    [ 64%]: Accurized Rounds, Flared Magwell, Tactical Mag
   Perks 1 [ 16%]: Firmly Planted
-  Perks 2 [ 33%]: Timed Payload, Vorpal
-  MWorks  [ 25%]: Handling MW
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 75%]: Range MW, Handling MW, Stability MW
   ```
-* **(PvP) "Handy" 🤚🤚 CE (Relaxed Planting) (2.3% chance)**: Same as the above, minus Firmly Planted.
+* **(PvP) "Super Shredder" 💥CE (7.4% chance)**: Same as the above, relaxing Firmly Planted since that's not going to be to everyone's preference.
   ```
-  Barrels [ 58%]: Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
-  Mags    [ 46%]: Alloy Magazine, Drop Mag
+  Barrels [ 91%]: Fluted Barrel, Arrowhead Brake, Smallbore, Polygonal Rifling, Corkscrew Rifling, Hammer-Forged Rifling
+  Mags    [ 64%]: Accurized Rounds, Flared Magwell, Tactical Mag
   Perks 1 [100%]: *
-  Perks 2 [ 33%]: Timed Payload, Vorpal
-  MWorks  [ 25%]: Handling MW
-  ```
-* **(PvP) "Handy" 🤚🤚 CE (Relaxed Planting and Magazines) (4.9% chance)**: Same as the above, even more relaxed.
-  ```
-  Barrels [ 58%]: Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [100%]: *
-  Perks 2 [ 33%]: Timed Payload, Vorpal
-  MWorks  [ 25%]: Handling MW
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 75%]: Range MW, Handling MW, Stability MW
   ```
 ## Seventh Seraph Officer Revolver - PvE
 There are so many great Hand Cannons for general purpose add shredding that you can skip the Officer's Revolver if you don't feel like adding another one to your vault. Personally I had a perfectly rolled Service Revolver (Rapid-Hit + Kill Clip) and never used it because it couldn't one-tap red bar adds - a 140 or 150 with Kill Clip ends up being my preferred.
