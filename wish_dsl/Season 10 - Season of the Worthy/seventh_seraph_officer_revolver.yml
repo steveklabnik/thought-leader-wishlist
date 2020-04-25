@@ -68,17 +68,22 @@ groups:
       
       The good news is that the wishlist can support multiple perspectives! I'll
       put together a set of Range-prioritizing rolls representing Drewsky's
-      perspective, and a set of Handling/Stability prioritizing rolls.
+      perspective, and a set of Handling/Stability prioritizing rolls. There is
+      no "baseline" roll for the Officer Revolver because the baseline stats
+      aren't what make this weapon interesting. There are plenty of other 140s
+      and 150s that you'd prioritize over this if you were just looking for a
+      workhorse PvP Hand Cannon.
     rolls:
       - &ocdrewsky
-        name: (PvP) Drewsky's "Range First" Collector's Edition 🏔
+        name: (PvP) Drewsky's "Planted Range" 🏔🌱🏔🌱🏔🌱Collector's Edition 
         desc: >
-          "Timed Payload?! That's supposed to be positively horrible. Doesn't it
-          lower your TTK?" Well, it causes double the flinch and the explosion
+          *"Timed Payload?! That's supposed to be positively horrible. Doesn't it
+          lower your TTK?"* Well, it causes double the flinch and the explosion
           has no range falloff. On a 180 RPM Hand Cannon, Timed Payload
           shouldn't lower the TTK (Drewsky didn't have one on hand to verify the
           math) as you would be getting the kill on the last bullet and not on
-          the last 17 damage from Timed Payload.
+          the last 17 damage from Timed Payload. Vorpal is great for shredding
+          supers.
         barrels: [Hammer-Forged Rifling]
         magazines: [Accurized Rounds]
         perks1: [Firmly Planted]
@@ -86,7 +91,7 @@ groups:
         masterworks: [Range MW]
       - 
         <<: *ocdrewsky
-        name: (PvP) "Range First" CE 🏔🏔🏔(Relaxed Magazine)
+        name: (PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Magazine)
         desc: >
           Same as the above, minus Accurized Rounds. We're getting so much
           additional range from the Magazine and Masterwork, we're ok to lose
@@ -94,42 +99,42 @@ groups:
         magazines: []
       - 
         <<: *ocdrewsky
-        name: (PvP) "Range First" CE 🏔🏔🏔(Relaxed Planting)
+        name: (PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Planting)
         desc: >
           Scratch Firmly Planted which might not be to everyone's playstyle
           or preference and still leaves you with a super unique roll.
         perks1: []
       - 
         <<: *ocdrewsky
-        name: (PvP) "Range First" CE 🏔🏔🏔(Relaxed Masterwork)
+        name: (PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Masterwork)
         desc: >
           Scratch the Range MW. We're getting so much range from the Barrel 
           and Magazine anyway.
         masterworks: []
       - 
         <<: *ocdrewsky
-        name: (PvP) "Range First" CE 🏔🏔🏔(Relaxed Magazine and Planting)
+        name: (PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Magazine and Planting)
         desc: >
           Same as the above, again minus Firmly Planted.
         magazines: []
         perks1: []
       - 
         <<: *ocdrewsky
-        name: (PvP) "Range First" CE 🏔🏔🏔(Relaxed Planting and Masterwork)
+        name: (PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Planting and Masterwork)
         desc: >
-          Same as the above, again minus Firmly Planted.
+          Same as the above, again minus Firmly Planted and the Masterwork.
         perks1: []
         masterworks: []
       - &ocdbarrels
         <<: *ocdrewsky
-        name: (PvP) "Expanded Range" CE 🏔🏔
+        name: (PvP) "Expanded Range" CE 🏔🌱
         desc: >
           Let's add all of the Range-enhancing Barrels and repeat this set of
           rolls.
         barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
       - 
         <<: *ocdbarrels
-        name: (PvP) "Expanded Range" CE 🏔🏔(Relaxed Magazine)
+        name: (PvP) "Expanded Range" CE 🏔🌱(Relaxed Magazine)
         desc: >
           Same as the above, minus Accurized Rounds. We're getting so much
           additional range from the Magazine and Masterwork, we're ok to lose
@@ -137,60 +142,63 @@ groups:
         magazines: []
       - 
         <<: *ocdbarrels
-        name: (PvP) "Expanded Range" CE 🏔🏔(Relaxed Planting)
+        name: (PvP) "Expanded Range" CE 🏔🌱(Relaxed Planting)
         desc: >
           Scratch Firmly Planted which might not be to everyone's playstyle
           or preference and still leaves you with a super unique roll.
         perks1: []
       - 
         <<: *ocdbarrels
-        name: (PvP) "Expanded Range" CE 🏔🏔(Relaxed Masterwork)
+        name: (PvP) "Expanded Range" CE 🏔🌱(Relaxed Masterwork)
         desc: >
           Scratch the Range MW. We're getting so much range from the Barrel 
           and Magazine anyway.
         masterworks: []
       - 
         <<: *ocdrewsky
-        name: (PvP) "Expanded Range" CE 🏔🏔(Relaxed Magazine and Planting)
+        name: (PvP) "Expanded Range" CE 🏔🌱(Relaxed Magazine and Planting)
         desc: >
           Same as the above, again minus Firmly Planted.
         magazines: []
         perks1: []
       - 
         <<: *ocdbarrels
-        name: (PvP) "Expanded Range" CE 🏔🏔(Relaxed Planting and Masterwork)
+        name: (PvP) "Expanded Range" CE 🏔🌱(Relaxed Planting and Masterwork)
         desc: >
           Same as the above, again minus Firmly Planted.
         perks1: []
         masterworks: []
-      - &orslif
-        name: (PvP) Slif's "Handy" 🤚🤚🤚 Collector's Edition
+      - &ortime
+        name: (PvP) Slif's "Ticking Timebomb" ⏰ Collector's Edition
         desc: >
-          We're going to take another crack at the above set of rolls, this time
-          prioritizing Handling.
-        barrels: [Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
-        magazines: [Alloy Magazine, Drop Mag]
+          Interested in Timed Payload? Let's broaden Drewsky's roll above and
+          include any decent Barrel or Magazine.
+        barrels: [Fluted Barrel, Arrowhead Brake, Smallbore, Polygonal Rifling, Corkscrew Rifling, Hammer-Forged Rifling]
+        magazines: [Accurized Rounds, Flared Magwell, Tactical Mag]
         perks1: [Firmly Planted]
-        perks2: [Timed Payload, Vorpal]
-        masterworks: [Handling MW]
+        perks2: [Timed Payload]
+        masterworks: [Range MW, Handling MW, Stability MW]
       - 
-        <<: *orslif
-        name: (PvP) "Handy" 🤚🤚 CE (Relaxed Magazines)
+        <<: *ortime
+        name: (PvP) "Timebomb" ⏰ CE
         desc: >
-          Same as the above, relaxing the Magazines.
-        magazines: []
-      - 
-        <<: *orslif
-        name: (PvP) "Handy" 🤚🤚 CE (Relaxed Planting)
-        desc: >
-          Same as the above, minus Firmly Planted.
+          Same as the above, relaxing Firmly Planted since that's not going to
+          be to everyone's preference.
         perks1: []
-      - 
-        <<: *orslif
-        name: (PvP) "Handy" 🤚🤚 CE (Relaxed Planting and Magazines)
+      - &orshredder
+        <<: *ortime
+        name: (PvP) Slif's "Super Shredder" 💥 Collector's Edition
         desc: >
-          Same as the above, even more relaxed.
-        magazines: []
+          Interested in shredder supers? Of course you are. Let's broaden
+          Drewsky's roll above and include any decent Barrel or Magazine while
+          basing this around Vorpal.
+        perks2: [Vorpal]
+      - 
+        <<: *orshredder
+        name: (PvP) "Super Shredder" 💥CE
+        desc: >
+          Same as the above, relaxing Firmly Planted since that's not going to
+          be to everyone's preference.
         perks1: []
   - 
     name: PvE
