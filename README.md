@@ -27,13 +27,25 @@ I quote and link to sources per-weapon in the [Roll Guide](https://github.com/rs
 | Kyt_Kutcha    | [Twitter](https://twitter.com/kyt_kutcha) | - | [Twitch](https://www.twitch.tv/kyt_kutcha/)
 | Mercules904   | [Twitter](https://twitter.com/mercules904) | - | -
 
-# References
+# Sandbox Analysis
 
-Content specific to each weapon is specified in line with its roll guide. If I come across interesting content with respect to how the sandbox basics function, I will share those here. I've taken liberties with some of the video titles to make this list more scannable AND LESS SCREAMING :)
+If I come across interesting content with respect to how the sandbox basics function, I will share those here. I've taken liberties with some of the video titles to make this list more scannable AND LESS SCREAMING :) Content specific to each weapon is specified in line with its roll guide.
 
 ## Core Mechanics
 
-### Range // Aim Assist // Accuracy
+* [Accuracy, Aim Assist & Range Explained In-Depth](https://www.[YouTube]().com/watch?v=qrJv7mj7Ab4) - [Drewsky](https://www.[YouTube]().com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-02-15
+* [Stability Explained! (In-Depth Guide)](https://www.[YouTube]().com/watch?v=a7BUhYnhGz0) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2020-02-14
+* [Does Quickdraw Max Handling? How Does Slideshot Work?](https://www.[YouTube]().com/watch?v=SE_RXbc7RZ4) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2020-01-09
+* [Barrel Length MATTERS!](https://www.[YouTube]().com/watch?v=Ef-I7zPirRU) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-07-26
+* [Mobility, Resilience, Recovery & Ability Stats Guide](https://www.youtube.com/watch?v=7sq_GmbXins) - [Drewsky](https://www.[YouTube]().com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-01-20
+
+## Weapon Mods
+
+* [What Does ICARUS GRIP Do?](https://www.[YouTube]().com/watch?v=odxL4uN4jp4) -  [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-08-19
+* [What Does TARGETING ADJUSTER Do?](https://www.[YouTube]().com/watch?v=kCzVK0am6sM) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-08-06
+* [What Does COUNTERBALANCE Do? Recoil Direction EXPLAINED!](https://www.[YouTube]().com/watch?v=xts9utLbYiQ) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-07-16
+
+## Weapon Focus: Hand Cannons
 
 * [PART 2 : Range MEANS NOTHING on Hand Cannons (Aim Assist and Accuracy edition)](https://www.youtube.com/watch?v=_fxkA3Qcv-w) - [CoolGuy](https://www.youtube.com/channel/UCAOitB3h99Ur9RzR5ftd2bA), 2020-02-19
   * What about Range making things "more crispy" or increasing Aim Assist and thereforce accuracy? We can trace this back to comments four years ago, about how Destiny 1 worked: *"Range is one big huge bar that's one giant number of a stat. There's a whole bunch of little things in there. Anything that effects accuracy or target acquisition can touch its little part of the Range bar independent of Range itself. We've made a couple of perks and scopes that give you a slight bonus to target acquisition (Aim Assist). Generally a +5 or +10 to where it would be on the Range stat value. This is Bungie's secret sauce as to how they make shooters feel so good; one of the many things. If your Range is higher, your Aim Assist is going to be better."* - Crucible Radio, Episode 16 (2015/10/05) [YouTube](https://www.youtube.com/watch?v=jwyGYiGwp2U) [Reddit](https://www.reddit.com/r/CruciblePlaybook/comments/3njyek/crucible_radio_ep_16_secrets_revealed_with/)
@@ -52,20 +64,6 @@ Content specific to each weapon is specified in line with its roll guide. If I c
     * "When it comes to Hand Cannons, all rolls are kinda good. If you farmed a max range roll back when, if you farm a max Stability roll now, it's stil good. You won't be at a severe disadvantage for doing so and I think that was their point all along with these changes."
 * [PART 1 : Range MEANS NOTHING on Hand Cannons](https://www.youtube.com/watch?v=sSSO1ugSAeE) - [CoolGuy](https://www.youtube.com/channel/UCAOitB3h99Ur9RzR5ftd2bA), 2019-10-28
   * Adding Range to a Hand Cannon has minimal gain. "You shouldn't dismantle a great Hand Cannon roll because it isn't max range." When you add on Range to a Hand Cannon you get minimal gains: (35 Range = 25m falloff, 86 Range = 28m)
-
-* [Accuracy, Aim Assist & Range Explained In-Depth](https://www.[YouTube]().com/watch?v=qrJv7mj7Ab4) - [Drewsky](https://www.[YouTube]().com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-02-15
-
-### Weapon Mods
-
-* [What Does ICARUS GRIP Do?](https://www.[YouTube]().com/watch?v=odxL4uN4jp4) -  [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-08-19
-* [What Does TARGETING ADJUSTER Do?](https://www.[YouTube]().com/watch?v=kCzVK0am6sM) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-08-06
-* [What Does COUNTERBALANCE Do? Recoil Direction EXPLAINED!](https://www.[YouTube]().com/watch?v=xts9utLbYiQ) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-07-16
-
-### Potpourri
-* [Stability Explained! (In-Depth Guide)](https://www.[YouTube]().com/watch?v=a7BUhYnhGz0) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2020-02-14
-* [Does Quickdraw Max Handling? How Does Slideshot Work?](https://www.[YouTube]().com/watch?v=SE_RXbc7RZ4) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2020-01-09
-* [Barrel Length MATTERS!](https://www.[YouTube]().com/watch?v=Ef-I7zPirRU) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-07-26
-* [Mobility, Resilience, Recovery & Ability Stats Guide](https://www.youtube.com/watch?v=7sq_GmbXins) - [Drewsky](https://www.[YouTube]().com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-01-20
 
 ## Weapon Focus: Shotguns
 This will have its own section both because of how popular they are, how confusing they are and how much misconception/misinformation there is floating around. Notice the timestamps on these videos. I'll do my best to call out when information changes over time.
@@ -104,3 +102,43 @@ This will have its own section both because of how popular they are, how confusi
   * [Destiny 2: Every Shotgun OHK Range, Ever (Updated Shotgun Testing)](https://www.[YouTube]().com/watch?v=kZBtbrUsXD4) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2018-06-06
     * Holy Trinity: Impact > Pellet Spread >>>>> Range
     * "It's not that Range does nothing, it's just at the bottom of the totem pole. Impact is king; it always trumps Range."
+
+## Weapon Focus: Swords
+
+[Fallout Plays](https://www.youtube.com/watch?v=b9HcFqLdlyQ) put together a terrific in-depth analysis of everything Swords. If you know of any other content, please let me know!
+
+* There are three sword frames
+  * **Lightweight**: Usable only by Hunters. There are two of these swords.
+  * **Adaptive**: Usable by all classes. While Warlocks do not have a specific type dedicate to them, they do have unique access to the `Infinite Guard` perk.
+  * **Aggressive**: Usable only by Titans. There are two of these as well.
+
+* Attributes unique to swords
+  * **Charge Rate**: How fast your Sword Energy replenishes. Throw-away stat in its current state. Delta between worst and best recharge rates is less than 1s.
+  * **Guard Endurance**: How fast your Sword Energy depletes *while in the guard animation*.
+  * **Guard Efficiency**: How fast your Sword Energy depletes *while getting shot*.
+  * **Guard Resistance**: How much damage your Guardian takes while... guarding.
+
+* A few things to know about how Heavy attacks work:
+  * They deplete your Sword Energy!
+  * When your Sword Energy is full: Uses `4` ammo, does maximum damage.
+  * When your Sword Energy is not full: Uses `1` ammo, does significantly less damage. The learning here is that *you probably never want to be spamming Heavy attacks!*
+
+* Are you crazy enough to want to take a sword in to PvP?
+  * *Lightweight* and *Adaptive* frames must use a Heavy attack to kill a roaming super. *Aggressive* frames can use a Light attack.
+  * You're probably going to want to focus on *Guard Efficiency* and *Guard Resistance*.
+
+* Perks that Increase Damage
+  * **En Garde**: In PvP, a light attack can already kill a guardian. No need for it in PvP. In PvE, the duration is 1.5s. There are better options.
+  * **Assassin's Blade**: 15% extra damage + faster sprinting for 5s. In PvP, damage doesn't matter. Movement speed is fun.
+  * **Shattering Blade**: +25% extra heavy attack damage when depleting ammo. Pass.
+  * **Surrounded**: Not necessary in PvP - not only because you're unlikely to proc it, but that a single light swing already kills full health guardians. In PvE, solid! +25% base, +35% with Surrounded Spec!
+  * **Whirlwind Blade**: Premier damage-dealing perk! Stacks to five, once per light swing. +6% per stack to 30% (x5) with a 3.5s duration. Each hit extends the duration.
+
+* Perks That Encourage Blocking
+  * **Energy Transfer**: Straightforward, works great, nice to have but "eh".
+  * **Counterattack**: You have to take damage right when you activate guard.
+  * **Flash Counter**: Debuffs the enemy that attacks you. They take 20% more damage from all incoming damage! This is the counter to ground-pounder bosses. This only drops on the Honor's Edge sword.
+
+* Ammo Regeneration Perks
+  * **Tireless Blade**: Only gives you `1` ammo back after multiple heavy attacks. Pass.
+  * **Relentless Strikes**: Gives you back sword ammo on repeated hits. Seems like it's bugged currently and giving you more ammo back than it should. Pairs great with *Whirlwind Blade*.
