@@ -1,5 +1,5 @@
 title: SlifSF's Sliflist
-description: Generated 2020-04-25 21:45:22 +00:00
+description: Generated 2020-05-02 05:52:41 +00:00
 //notes:(PvP) Slif's "Classic Stable Auto Rifle" 🎩 Collector's Edition / 0.1% chance
 dimwishlist:item=1561006927&perks=839105230,1885400500,3161816588,588594999,1590375901
 dimwishlist:item=1561006927&perks=839105230,1885400500,3161816588,588594999,1590375902
