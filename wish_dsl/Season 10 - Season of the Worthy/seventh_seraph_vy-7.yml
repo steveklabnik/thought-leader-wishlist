@@ -76,6 +76,13 @@ groups:
         magazines: []
       -
         <<: *vyar
+        name: (PvP) "Weird AR" 🤷‍♂️🌱 (Relaxed Magazines and Masterworks)
+        desc: >
+          Same as the above with relaxed Magazines and Masterworks.
+        magazines: []
+        masterworks: []
+      -
+        <<: *vyar
         name: (PvP) "Weird AR" 🤷‍♂️🌱 (Relaxed Masterworks)
         desc: >
           Same as the above with relaxed Masterworks.
