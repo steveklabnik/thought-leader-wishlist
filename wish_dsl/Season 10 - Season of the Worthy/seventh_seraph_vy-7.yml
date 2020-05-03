@@ -33,27 +33,31 @@ groups:
       
       If you didn't bother clicking the comparison link above, I'll spoil it
       for you. The VY-7 is an Energy Antiope-D (the basic stat variances are
-      immaterial in practice).
-      The VY-7 doesn't have the stability- and accuracy-increasing perk pool that
-      Antiope does, but it does have different barrels and magazines that
-      can push the Range and Stability just as high.
+      immaterial in practice). Yes it's not the meta now, but a solid roll might
+      be worth throwing in the vault.
       
-      Worth a hold of at least one good roll!
+      
+      The difference between `59` (base) and `80` Range buys you about a
+      whopping one meter of falloff (~16 to ~17m). Given the base Range is
+      already so high, I'm going to suggest maximizing Stability. You'll notice
+      that I don't feature a `Vorpal` roll here. I'm
+      a huge fan of `Vorpal` in PvP, but given this is such a short range weapon
+      and it's a Scatter shot, I think gunning down a super with an SMG would be
+      a tall order :)
     rolls:
       - &vyar
         name: (PvP) Slif's "Weird Auto Rifle but OK" 🤷‍♂️ Collector's Edition
         desc: >
           We're going to use a Counterbalance Mod to get the Recoil to 100, so
           we can go for Range surrounding our pick of the criminially underrated
-          Firmly Planted, which turns this in to an absolute laser. Fully
-          Masterworked, these rolls would net out to 80-91 Range, being slightly
-          lower and slightly higher than the Antiope at either end of the
-          spectrum.
-        barrels: [Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling]
-        magazines: [Accurized Rounds]
+          Firmly Planted, which turns this in to an absolute laser. What the
+          hell is `Elemental Capacitor` doing in there?! The Stability and
+          Handling boosts are tremendous; you absolutely feel them.
+        barrels: [Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore]
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
         perks1: [Firmly Planted]
-        perks2: []
-        masterworks: [Range MW]
+        perks2: [Elemental Capacitor]
+        masterworks: [Stability MW, Handling MW]
       -
         <<: *vyar
         name: (PvP) "Weird AR" 🤷‍♂️ (Relaxed Barrels)
@@ -68,63 +72,22 @@ groups:
         magazines: []
       -
         <<: *vyar
+        name: (PvP) "Weird AR" 🤷‍♂️ (Relaxed First Perk)
+        desc: >
+          Same as the above with relaxed Firmly Planted.
+        perks1: []
+      -
+        <<: *vyar
+        name: (PvP) "Weird AR" 🤷‍♂️ (Relaxed Second Perk)
+        desc: >
+          Same as the above with relaxed Elemental.
+        perks2: []
+      -
+        <<: *vyar
         name: (PvP) "Weird AR" 🤷‍♂️ (Relaxed Masterworks)
         desc: >
           Same as the above with relaxed Masterworks.
         masterworks: []
-      - &vysuperplanted
-        <<: *vyar
-        name: (PvP) Slif's "Long-Distance Planted Super Shredder" 🌱💥 Collector's Edition
-        desc: >
-          Similar to our max Range roll, except pivoting around Vorpal.
-        perks2: [Vorpal]
-      -
-        <<: *vysuperplanted
-        name: (PvP) "Planted Shredder" 🌱💥 (Relaxed Barrels)
-        desc: >
-          Same as the above with relaxed Barrels.
-        barrels: []
-      -
-        <<: *vysuperplanted
-        name: (PvP) "Planted Shredder" 🌱💥 (Relaxed Magazines)
-        desc: >
-          Same as the above with relaxed Magazines.
-        magazines: []
-      -
-        <<: *vysuperplanted
-        name: (PvP) "Planted Shredder" 🌱💥 (Relaxed Masterworks)
-        desc: >
-          Same as the above with relaxed Masterworks.
-        masterworks: []
-      - &vysupershredder
-        <<: *vyar
-        name: (PvP) Slif's "Long-Distance Super Shredder" 💥 Collector's Edition
-        desc: >
-          Similar to our max Range roll, except pivoting around Vorpal. Here
-          we're going to assume we *didn't* get Firmly Planted so we're shooting
-          for Stability.
-        magazines: [Steady Rounds]
-        perks1: []
-        perks2: [Vorpal]
-        masterworks: [Stability MW]
-      -
-        <<: *vysupershredder
-        name: (PvP) "Super Shredder" 💥 (Relaxed Barrels)
-        desc: >
-          Same as the above with relaxed Barrels.
-        barrels: []
-      -
-        <<: *vysupershredder
-        name: (PvP) "Super Shredder" 💥 (Relaxed Magazines)
-        desc: >
-          Same as the above with relaxed Magazines.
-        magazines: []
-      -
-        <<: *vysupershredder
-        name: (PvP) "Super Shredder" 💥 (Relaxed Masterworks)
-        desc: >
-          Same as the above with relaxed Masterworks.
-        masterworks: []        
   -
     name: PvE
     summary: >
@@ -138,7 +101,7 @@ groups:
       * SMGs are eligible for certain Season 10 Artifact weapon mods.
       
 
-      ...So let's come up with some rolls that help shred Champions and generate
+      ...so let's come up with some rolls that help shred Champions and generate
       Warmind Cells (i.e. shred adds).
       
 
