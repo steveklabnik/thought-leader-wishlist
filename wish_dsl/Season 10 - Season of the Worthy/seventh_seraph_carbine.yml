@@ -133,50 +133,48 @@ groups:
   - 
     name: PvE
     summary: >
-      For its **base stats and perks**, there isn't a whole lot of reason to consider
-      the Carbine for PvE. Breakneck, the Gambit Pinnacle weapon, is also 450RPM
-      and recently received a buff in Season 10. It positively shreds in PvE and
-      since it's a Legendary weapon, it can take the Season 10 Artifact mods.
-    
+      For its base stats and perks, there isn't a whole lot of reason to
+      consider the SSC for PvE. While it does feature Swashbuckler and Rampage,
+      it doesn't combine it with a reload-boosting perk like Feeding Frenzy or
+      Outlaw. Breakneck, the Gambit Pinnacle weapon with the unique perk
+      `Onslaught` is also 450 RPM and recently received a buff in Season 10. It
+      shreds in PvE and since it's a Legendary weapon, it can take the Season 10
+      Artifact mods.
 
-      "OK Slif, so why do you even have a PvE section here?"
+      Still, there's at least a couple of reasons why you might want to consider
+      a SSC.
 
-      1. **Most importantly** it's a Seraph weapon! If you're running Warmind
-      mods on your armor, Seraph weapons will spawn Warmind Cells.
+      1. It's a Seraph weapon! If you're running Warmind mods on your armor,
+      Seraph weapons will spawn Warmind Cells.
 
-      1. It can roll with Vorpal, which activates on Champions and in the
-      current Season 10, Auto Rifles can take Overload mods. In the future
-      things will rotate back around to take Anti-Barrier too.
+      1. It can roll with `Fourth Time's the Charm` and `Vorpal` together, which
+      activates on Champions and in the current Season 10, Auto Rifles can take
+      Overload mods. In the future things will rotate back around to take
+      Anti-Barrier too. The mag seems endless when dumping in to Champions and
+      bosses; kinda cool :)
 
-
-      "Whatevs, I've never been a fan of Vorpal and I don't really care about the
-      seasonal stuff" - all good, stop reading and farm something else 😃
+      
     rolls:
-      - &sscbutter
-        name: (PvE) Slif's "Butter and Citrus Bar Shredder" 🧈
+      - 
+        name: (PvE) Slif's "Butter and Citrus Bar Shredder" 🧈🍊
         desc: >
           This is designed for dumping rounds in to enemies in high(er) end PvE
-          content.
+          content. FTTC and Vorpal make the roll; without both you may as well
+          use another Vorpal weapon. Based on the past two seasons, they won't
+          be hard to come by :)
         barrels: []
-        magazines: [High-Caliber Rounds]
+        magazines: []
         perks1: [Fourth Time's the Charm]
         perks2: [Vorpal]
         masterworks: []
       - 
-        <<: *sscbutter
-        name: (PvE) "Butter Bar Shredder" 🧈(Relaxed Magazines)
-        desc: >
-          The core of this roll are the final two perk columns. Stil phenomenal
-          sans HCR.
-        magazines: []
-      - 
-        name: (PvE) General Purpose Thinning of the Hordes 👹
+        name: (PvE) "Warmind Cell Generator" ☄️
         desc: >
           Run-of-the-mill Auto-Rifle PvE slayer perk set here. If you like the
           look, feel and sound of the Carbine as I do, you'll do solid work with
           this roll.
-        barrels: [Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore, Corkscrew Rifling]
-        magazines: [High-Caliber Rounds, Flared Magwell, Light Mag]
-        perks1: [Threat Detector, Slideshot, Auto-Loading Holster]
+        barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Polygonal Rifling, Fluted Barrel]
+        magazines: [Flared Magwell, Light Mag, Alloy Magazine]
+        perks1: [Threat Detector, Slideshot]
         perks2: [Swashbuckler, Rampage]
         masterworks: []
