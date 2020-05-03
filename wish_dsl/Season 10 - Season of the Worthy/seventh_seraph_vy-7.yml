@@ -31,60 +31,126 @@ groups:
       * [Antiope-D and Sniping = New Meta ?](https://www.youtube.com/watch?v=yjG32gyUh_w) - ZkMushroom
       
       
-      If you didn't bother clicking the comparison link above, I'll spoil it
-      for you. The VY-7 is an Energy Antiope-D (the basic stat variances are
+      The VY-7 is an Energy Antiope-D (the basic stat variances are
       immaterial in practice). Yes it's not the meta now, but a solid roll might
       be worth throwing in the vault.
       
       
-      The difference between `59` (base) and `80` Range buys you about a
-      whopping one meter of falloff (~16 to ~17m). Given the base Range is
-      already so high, I'm going to suggest maximizing Stability. You'll notice
-      that I don't feature a `Vorpal` roll here. I'm
-      a huge fan of `Vorpal` in PvP, but given this is such a short range weapon
-      and it's a Scatter shot, I think gunning down a super with an SMG would be
-      a tall order :)
+      "Why don't any of these rolls value `Range`?" The
+      difference between the base range of `59` and let's say
+      `80` (using Accurized Rounds, etc.) buys you about a whopping one meter of
+      falloff (~16 to ~17m). I don't value buffing Range all that highly on the
+      VY-7. It's not that it's *bad* per se, it's just that the opportunity cost
+      is high.
     rolls:
       - &vyar
-        name: (PvP) Slif's "Weird Auto Rifle but OK" 🤷‍♂️ Collector's Edition
+        name: (PvP) Slif's "Weird Auto Rifle but OK" 🤷‍♂️🌱 Collector's Edition
         desc: >
           We're going to use a Counterbalance Mod to get the Recoil to 100, so
-          we can go for Range surrounding our pick of the criminially underrated
-          Firmly Planted, which turns this in to an absolute laser. What the
-          hell is `Elemental Capacitor` doing in there?! The Stability and
-          Handling boosts are tremendous; you absolutely feel them.
-        barrels: [Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore]
+          we can go for Stability-enhancing Barrel options. Wait, what the
+          hell is `Elemental Capacitor` doing in there?! The Handling and
+          Stability bonuses are material. The Stability bonus is the most
+          noticeable, 
+          [estimated](https://youtu.be/D_Mv-AdfYqM?t=36) to be around `20
+          points`. You *absolutely* feel the difference with `Elemental
+          Capacitor` active (don't forget to swap weapons if you're testing it)
+          so I won't be relaxing it on these rolls. I think there's not much of
+          a point to this SMG above other Energy weapons unless you can flex
+          what makes it unique, and `Elemental Capacitor` certainly does that.
+        barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
         magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
         perks1: [Firmly Planted]
         perks2: [Elemental Capacitor]
-        masterworks: [Stability MW, Handling MW]
+        masterworks: [Stability MW]
       -
         <<: *vyar
-        name: (PvP) "Weird AR" 🤷‍♂️ (Relaxed Barrels)
+        name: (PvP) "Weird AR" 🤷‍♂️🌱 (Relaxed Barrels)
         desc: >
           Same as the above with relaxed Barrels.
         barrels: []
       -
         <<: *vyar
-        name: (PvP) "Weird AR" 🤷‍♂️ (Relaxed Magazines)
+        name: (PvP) "Weird AR" 🤷‍♂️🌱 (Relaxed Magazines)
         desc: >
           Same as the above with relaxed Magazines.
         magazines: []
       -
         <<: *vyar
-        name: (PvP) "Weird AR" 🤷‍♂️ (Relaxed First Perk)
+        name: (PvP) "Weird AR" 🤷‍♂️🌱 (Relaxed Masterworks)
         desc: >
-          Same as the above with relaxed Firmly Planted.
+          Same as the above with relaxed Masterworks.
+        masterworks: []
+      - &vynoplants
+        <<: *vyar
+        name: (PvP) Slif's "Ain't Nobody Gonna Hold Me Down" 👋 Collector's Edition
+        desc: >
+          Repeating the prior set of rolls without `Firmly Planted`.
         perks1: []
       -
-        <<: *vyar
-        name: (PvP) "Weird AR" 🤷‍♂️ (Relaxed Second Perk)
+        <<: *vynoplants
+        name: (PvP) "No Holding" 👋 (Relaxed Barrels)
         desc: >
-          Same as the above with relaxed Elemental.
-        perks2: []
+          Same as the above with relaxed Barrels.
+        barrels: []
       -
+        <<: *vynoplants
+        name: (PvP) "No Holding" 👋 (Relaxed Magazines)
+        desc: >
+          Same as the above with relaxed Magazines.
+        magazines: []
+      -
+        <<: *vynoplants
+        name: (PvP) "No Holding" 👋 (Relaxed Masterworks)
+        desc: >
+          Same as the above with relaxed Masterworks.
+        masterworks: []        
+      - &vysupershredder
         <<: *vyar
-        name: (PvP) "Weird AR" 🤷‍♂️ (Relaxed Masterworks)
+        name: (PvP) Slif's "Planted Super Shredder" 💥🌱 Collector's Edition
+        desc: >
+          Same as our initial set of rolls, pivoting around `Vorpal` if you
+          love shredding supers in PvP, which we can all agree is Destiny's
+          National Pasttime.
+        perks2: [Vorpal]
+      -
+        <<: *vysupershredder
+        name: (PvP) "Planted Shredder" 💥🌱 (Relaxed Barrels)
+        desc: >
+          Same as the above with relaxed Barrels.
+        barrels: []
+      -
+        <<: *vysupershredder
+        name: (PvP) "Planted Shredder" 💥🌱 (Relaxed Magazines)
+        desc: >
+          Same as the above with relaxed Magazines.
+        magazines: []
+      -
+        <<: *vysupershredder
+        name: (PvP) "Planted Shredder" 💥🌱 (Relaxed Masterworks)
+        desc: >
+          Same as the above with relaxed Masterworks.
+        masterworks: []
+      - &vynoplantedshredder
+        <<: *vysupershredder
+        name: (PvP) Slif's "Super Shredder" 💥 Collector's Edition
+        desc: >
+          Repeating the same set of rolls as above, without `Firmly Planted`.
+        perks1: []
+      -
+        <<: *vynoplantedshredder
+        name: (PvP) "Super Shredder" 💥 (Relaxed Barrels)
+        desc: >
+          Same as the above with relaxed Barrels.
+        barrels: []
+      -
+        <<: *vynoplantedshredder
+        name: (PvP) "Super Shredder" 💥 (Relaxed Magazines)
+        desc: >
+          Same as the above with relaxed Magazines.
+        magazines: []
+      -
+        <<: *vynoplantedshredder
+        name: (PvP) "Super Shredder" 💥 (Relaxed Masterworks)
         desc: >
           Same as the above with relaxed Masterworks.
         masterworks: []
