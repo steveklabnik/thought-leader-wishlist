@@ -32,13 +32,13 @@ groups:
       
       
       If you didn't bother clicking the comparison link above, I'll spoil it
-      for you. The VY-7 is basically the same weapon as the Antiope. SMGs
-      themselves haven't changed - the meta around them has. I think you'll want
-      to put one of these in your vault and hold out for a buff. Now granted,
-      they don't have the stability- and accuracy-increasing perk pool that
-      Antiope did, but it does have very different barrels and magazines that
-      can push the Range and Stability just as high. Worth a hold of at least one
-      good roll!
+      for you. The VY-7 is an Energy Antiope-D (the basic stat variances are
+      immaterial in practice).
+      The VY-7 doesn't have the stability- and accuracy-increasing perk pool that
+      Antiope does, but it does have different barrels and magazines that
+      can push the Range and Stability just as high.
+      
+      Worth a hold of at least one good roll!
     rolls:
       - &vyar
         name: (PvP) Slif's "Weird Auto Rifle but OK" 🤷‍♂️ Collector's Edition
@@ -100,10 +100,13 @@ groups:
         <<: *vyar
         name: (PvP) Slif's "Long-Distance Super Shredder" 💥 Collector's Edition
         desc: >
-          Similar to our max Range roll, except pivoting around Vorpal.
+          Similar to our max Range roll, except pivoting around Vorpal. Here
+          we're going to assume we *didn't* get Firmly Planted so we're shooting
+          for Stability.
         magazines: [Steady Rounds]
         perks1: []
         perks2: [Vorpal]
+        masterworks: [Stability MW]
       -
         <<: *vysupershredder
         name: (PvP) "Super Shredder" 💥 (Relaxed Barrels)
@@ -122,20 +125,6 @@ groups:
         desc: >
           Same as the above with relaxed Masterworks.
         masterworks: []        
-      - &vyfirm
-        <<: *vyar
-        name: (PvP) "Firmly Submachinegunning" ✊
-        desc: >
-          We're going to get so much stability and accuracy from Firmly Planted
-          that we can be pretty loose in our other requirements.
-        masterworks: []
-      -
-        <<: *vyfirm
-        name: (PvP) "Firmly Submachinegunning" ✊ (Relaxed Magazines)
-        desc: >
-          Same as the above with relaxed Magazines.
-        magazines: []
-
   -
     name: PvE
     summary: >
@@ -149,46 +138,89 @@ groups:
       * SMGs are eligible for certain Season 10 Artifact weapon mods.
       
 
-      There aren't any obvious pairings and I think that's to Bungie's credit.
-      We're not here talking about the same old Outlaw + Kill
-      Clip or Grave Robber + Swashbuckler snoozefest. I think a lot of the same
-      things that make this interesting in PvP contribute to interesting PvE
-      rolls as well.
+      ...So let's come up with some rolls that help shred Champions and generate
+      Warmind Cells (i.e. shred adds).
+      
 
-
-      **Third Column**: `Firmly Planted` makes a dramatic difference in
-      stability. In PvE you can crouch to your heart's content. Of course this
-      is far from required if all you're doing is generating Warmind cells but
-      it is pretty amazing :)
-
-
-      **Fourth Column**: Why aren't I selecting Dragonfly? Given the RPM, the
-      chance you finish with a precision bullet seems quite low. I'd rather the
-      always-on benefits of `Feeding Frenzy` or `Vorpal`.
+      You must absolutely run a `Counterbalance` Mod or otherwise
+      fix the Recoil with `Arrowhead Brake` or `Chambered Compensator`. Even
+      though its base Recoil is `91` it's still a hot mess to control, esp.
+      with its low Handling. For the rolls below I'm going to assume you're
+      rolling with a `Counterbalance` Mod installed.
     rolls:
-      - &vyvorpal
-        name: (PvE) "Cell Generator" ☄️ 🌱 Collector's Edition
+      - &vychampionshredder
+        name: (PvE) "Champion Shredder" 🏆💥 Collector's Edition
         desc: >
-          Vorpal procs against Champions and any season where SMGs can take
-          Artifact mods (Season 10 for example!) this is a solid pull.
-        barrels: []
-        magazines: [Accurized Rounds, Tactical Mag, Drop Mag, Alloy Magazine, Flared Magwell, Appended Mag]
-        perks1: [Firmly Planted]
+          Whenever SMGs are up on the Artifact, you'll want Vorpal to help shred
+          through Champions. FTTC might seem like a strange choice for an SMG
+          but the rate of fire is so fast, you'd be surprised how often it you
+          end up getting it to proc. I won't be relaxing either Vorpal or FTTC
+          on these rolls because just one of either would mean that it's not
+          worth using this over something else in the Energy slot.
+        barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+        perks1: [Fourth Time's the Charm]
         perks2: [Vorpal]
+        masterworks: [Stability MW]
+      -
+        <<: *vychampionshredder
+        name: (PvE) "Champion Shredder" 🏆💥 (Relaxed Barrels)
+        desc: >
+          Same as the above, relaxing Barrels.
+        barrels: []
+      -
+        <<: *vychampionshredder
+        name: (PvE) "Champion Shredder" 🏆💥 (Relaxed Magazines)
+        desc: >
+          Same as the above, relaxing Magazines.
+        magazines: []
+      -
+        <<: *vychampionshredder
+        name: (PvE) "Champion Shredder" 🏆💥 (Relaxed Masterwork)
+        desc: >
+          Same as the above, relaxing the MW since we have so much Stability
+          from other columns.
         masterworks: []
-      - 
-        <<: *vyvorpal
-        name: (PvE) "Cell Generator" ☄️ (Relaxed Planting)
+      -
+        <<: *vychampionshredder
+        name: (PvE) "Champion Shredder" 🏆💥 (Relaxed Magazines and Masterwork)
         desc: >
-          Using Steady Rounds, we can drop the requirement for Firmly Planted.
-          Sure it's not exactly the same, but we're not talking super high-end
-          requirements here :)
-        magazines: [Steady Rounds]
-        perks1: []
-      - 
-        <<: *vyvorpal
-        name: (PvE) "Cell Generator" ☄️ (Large Mag / Frenzy)
+          Same as the above, relaxing the MW and Magazines since we'll get
+          Stability from the Barrels at a higher chance and amount.
+        magazines: []
+        masterworks: []
+      - &vyfrenzy
+        <<: *vychampionshredder
+        name: (PvE) "Frenzied Cell Generator" 😡☄️ Collector's Edition
         desc: >
-          We'll take Extended Barrel but only if we can also get Feeding Frenzy.
-        magazines: [Accurized Rounds, Tactical Mag, Drop Mag, Alloy Magazine, Flared Magwell, Extended Mag, Appended Mag]
+          Good for generating Warmind Cells against hordes of enemies. Best for
+          low and mid tier add clear.
+        perks1: [Ambitious Assassin]
         perks2: [Feeding Frenzy]
+      -
+        <<: *vyfrenzy
+        name: (PvE) "Frenzied Generator" 😡☄️ (Relaxed Barrels)
+        desc: >
+          Same as the above, relaxing Barrels.
+        barrels: []
+      -
+        <<: *vyfrenzy
+        name: (PvE) "Frenzied Generator" 😡☄️ (Relaxed Magazines)
+        desc: >
+          Same as the above, relaxing Magazines.
+        magazines: []
+      -
+        <<: *vyfrenzy
+        name: (PvE) "Frenzied Generator" 😡☄️ (Relaxed Masterwork)
+        desc: >
+          Same as the above, relaxing the MW since we have so much Stability
+          from other columns.
+        masterworks: []
+      -
+        <<: *vyfrenzy
+        name: (PvE) "Frenzied Generator" 😡☄️ (Relaxed Magazines and Masterwork)
+        desc: >
+          Same as the above, relaxing the MW and Magazines since we'll get
+          Stability from the Barrels at a higher chance and amount.
+        magazines: []
+        masterworks: []
