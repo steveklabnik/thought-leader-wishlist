@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-05-03 21:20:20 +00:00`. The most recent
+created on `2020-05-03 22:16:52 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -49,86 +49,119 @@ I'm of the opinion it's not worth chasing ツ
 
 ---
 ## Seventh Seraph Carbine - PvP
-The Seventh Seraph Carbine (SSC) is a 450 RPM "Precision Frame" Kinetic Auto Rifle. Let's start with a quick comparison to randomly-rolled 450s, over on [light.gg](https://www.light.gg/db/items/compare/?h=BdCxNP;mJ1-6;Bqp0Wx;Fju9i;DmTiv3). In general the 450s are fairly the same stat-wise, with a material deviation in Aim Assist for the SSC; easily addressable with an Aim Assist mod.
+The Seventh Seraph Carbine (SSC) is a 450 RPM "Precision Frame" Kinetic Auto Rifle. Let's start with a quick comparison to randomly-rolled 450s, over on [light.gg](https://www.light.gg/db/items/compare/?h=BdCxNP;mJ1-6;Bqp0Wx;Fju9i;DmTiv3). In general the 450s are fairly the same stat-wise, with a material deviation in Aim Assist for the SSC; easily addressable with an Aim Assist mod. 
 
-Should you pick one up for use in Season 10? In Season 10, 600 RPM "Adaptive Frame" Auto Rifles are the meta (e.g. SUROS Regime, Monte Carlo, Hard Light). If you've stepped foot into any game mode in the Crucible, you've no doubt been a part of a Hard Light laser-light-show rave :) So no, there's no pressing reason if you're primarily a PvP player or if you already have the PvE roll you want, to keep chasing SSC rolls for PvP. Of course there's a chance 450s are buffed in later patches/seasons, so if you come across a decent roll, by all means throw it in the vault. I wouldn't suggest going out of your way to farm SSC bounties however.
+Should you pick one up for use in Season 10? In Season 10, 600 RPM "Adaptive Frame" Auto Rifles are the meta (e.g. SUROS Regime, Monte Carlo, Hard Light). There's no pressing reason to chase SSC rolls for PvP.
 
-I played with a [zero-Recoil, high Stability](https://d2gunsmith.com/w/DY2Aqw8sOokyOvhv0Wv1Ehw9zBP2FwQRxW2Ig9KX1MIo3LEpW) roll for several Iron Banner games, with both Enhanced Targeting and Enhanced Unflinching... I immediately wanted to go back to using my Arc Logic with Moving Target and Tap the Trigger :) The SSC is definitely a bit slower than you'd prefer. That being said, if you're a fan of ARs or even just the SSC itself (it looks and sounds terrific IMHO!), here's a few rolls worth considering that you can put to work today.
-* **(PvP) Slif's "Classic Stable Auto Rifle" 🎩 Collector's Edition (0.1% chance)**: This is your workhorse Auto Rifle roll: vertical recoil and as much Stability and accuracy as you can get.
+I personally love ARs, so I played with a [zero-Recoil, high Stability](https://d2gunsmith.com/w/DY2Aqw8sOokyOvhv0Wv1Ehw9zBP2FwQRxW2Ig9KX1MIo3LEpW) roll for several Iron Banner games, with both Enhanced Targeting and Enhanced Unflinching. I immediately wanted to go back to using my Arc Logic with Moving Target and Tap the Trigger :) The SSC is definitely a bit slower than you'd prefer (as are all 450 RPMs, even the vaunted Uriel's Gift these days). 
+
+That being said, if you enjoy Destiny's National Pasttime of shredding supers in sixes, a Vorpal-rolled SSC could be for you! If you're a fan of ARs or even just the SSC itself, why not pick one up and vault it just in case the meta changes? Here are a few things to keep in mind:
+
+* The lower the RPM the higher the range, and falloff for a base range SSC starts ~30m which is quite far in-game; probably at the maximum range you'd choose to engage with an Auto Rifle anyway.
+* I'm passing on `Threat Detector` because at that engagement range of 15m, you're going to feel like switching to your special weapon.
+* With a base `Recoil` of `74`, you're fine there. I shot a few magazines into a wall with `100` and the pattern was the same. Do not put on a `Counterbalance` mod or else you'll ruin the recoil pattern. 
+* I don't have any rolls featuring `Elemental Capacitor` because at some point you hit diminishing returns on all this `Stability`. I pivot around `Moving Target` because it's not something that many Auto Rifles can roll and it makes it far more lethal by directly addressing target acquisition.
+
+Here's a few rolls worth considering that you can put to work today!
+* **(PvP) Slif's "Pristine, Picture-Perfect Auto Rifle" 🧼📸 Collector's Edition (0.0% chance)**: This is my pristine, picture-perfect Auto Rifle roll. There's less than a 0.1% chance you get this, so if you do please buy us both a lottery ticket.
   ```
-  Barrels [ 22%]: Arrowhead Brake
+  Barrels [ 22%]: Polygonal Rifling
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [ 16%]: Slideshot
-  Perks 2 [ 33%]: Moving Target, Rangefinder
+  Perks 2 [ 16%]: Moving Target
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Classic" 🎩(Relaxed Slideshot) (0.5% chance)**: Slideshot is active for two seconds starting from the slide, so you really only have about one second to put it to use. Without it, this is still a phenomenal roll.
+* **(PvP) "Pristine" 🧼📸 CE (Relaxed Barrels) (0.2% chance)**: Same as the above, relaxing the Barrels.
   ```
-  Barrels [ 22%]: Arrowhead Brake
-  Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 33%]: Moving Target, Rangefinder
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Classic" 🎩(Relaxed Slideshot and Masterwork) (1.9% chance)**: Slideshot is active for two seconds starting from the slide, so you really only have about one second to put it to use. Without it, this is still a phenomenal roll.
-  ```
-  Barrels [ 22%]: Arrowhead Brake
-  Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 33%]: Moving Target, Rangefinder
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Classic" 🎩(Relaxed Barrels, Perks and Magazines) (2.8% chance)**: The `74` base Recoil is arguably just fine, so let's see if we can pick up a bit more Stability from our Barrels. Let's also bring in Flared for an additional Stability option on the Magazine.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 33%]: Moving Target, Rangefinder
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Classic" 🎩 (Relaxed MW) (11.2% chance)**: We get Stability from our Barrels or Magazines; can afford to lose out on Stability MW. Reload and Handling Masterworks would be solid choices here too. You won't see too much benefit from Range, but it never hurts.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 33%]: Moving Target, Rangefinder
-  MWorks  [100%]: *
-  ```
-* **(PvP) Slif's "Super Shredder" 💥 Collector's Edition (0.0% chance)**: Shredding supers in 6s is, we can all agree, Destiny's National Pastime.
-  ```
-  Barrels [ 22%]: Arrowhead Brake
+  Barrels [100%]: *
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [ 16%]: Slideshot
-  Perks 2 [ 16%]: Vorpal
+  Perks 2 [ 16%]: Moving Target
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Super Shredder" 💥 🎩(Relaxed Slideshot) (0.2% chance)**: Slideshot is active for two seconds starting from the slide, so you really only have about one second to put it to use. Without it, this is still a phenomenal roll.
+* **(PvP) "Pristine" 🧼📸 CE (Relaxed Magazines) (0.2% chance)**: Same as the above, relaxing the Magazines.
   ```
-  Barrels [ 22%]: Arrowhead Brake
+  Barrels [100%]: *
   Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Vorpal
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 16%]: Moving Target
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Super Shredder" 💥 🎩(Relaxed Slideshot and MW) (0.9% chance)**: Same as the above, relaxing the Masterwork.
+* **(PvP) "Pristine" 🧼📸 CE (Relaxed Slideshot) (0.2% chance)**: Slideshot is active for two seconds starting from the slide, so you really only have about one second to put it to use. Without it, this is still a phenomenal roll.
   ```
-  Barrels [ 22%]: Arrowhead Brake
+  Barrels [ 22%]: Polygonal Rifling
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [100%]: *
-  Perks 2 [ 16%]: Vorpal
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Pristine" 🧼📸 CE (Relaxed Slideshot and Masterwork) (0.9% chance)**: Same as the above, also relaxing the Masterwork.
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Moving Target
   MWorks  [100%]: *
   ```
-* **(PvP) "Super Shredder" 💥(Relaxed Barrels, Perks and Magazines) (1.4% chance)**: The `74` base Recoil is arguably just fine, so let's see if we can pick up a bit more Stability from our Barrels. Let's also bring in Flared for an additional Stability option on the Magazine.
+* **(PvP) Slif's "Classic AR" 🎩Collector's Edition (1.6% chance)**: Let's repeat the above set of rolls by widening the Barrel and Magazine options to anything that boosts `Stability`. We're also going to be removing `Slideshot`. It works for sure, but it's not worth holding us up from banking these rolls.
   ```
-  Barrels [ 72%]: Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Classic AR" 🎩 (Relaxed Barrels) (1.9% chance)**: Same as the above, relaxing the Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Classic AR" 🎩 (Relaxed Magazines) (3.5% chance)**: Same as the above, relaxing the Magazines.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
+  Mags    [100%]: *
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Classic AR" 🎩 (Relaxed Masterwork) (6.4% chance)**: Same as the above, relaxing the Masterworks.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [100%]: *
+  ```
+* **(PvP) Slif's "Super Shredder" 💥 Collector's Edition (1.6% chance)**: Shredding supers in 6s is, we can all agree, Destiny's National Pastime. We're repeating the same set of relaxed rolls above, this time pivoting around Vorpal in the final column.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
   Perks 1 [100%]: *
   Perks 2 [ 16%]: Vorpal
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Super Shredder" 💥 (Relaxed MW) (5.6% chance)**: We get Stability from our Barrels or Magazines; can afford to lose out on Stability MW. Reload and Handling Masterworks would be solid choices here too. You won't see too much benefit from Range, but it never hurts.
+* **(PvP) "Super Shredder" 💥 (Relaxed Barrels) (1.9% chance)**: Same as the above, relaxing the Barrels.
   ```
-  Barrels [ 72%]: Polygonal Rifling, Fluted Barrel, Smallbore, Chambered Compensator
+  Barrels [100%]: *
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Super Shredder" 💥 (Relaxed Magazines) (3.5% chance)**: Same as the above, relaxing the Magazines.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
+  Mags    [100%]: *
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Super Shredder" 💥 (Relaxed Masterwork) (6.4% chance)**: Same as the above, relaxing the Masterworks.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
   Perks 1 [100%]: *
   Perks 2 [ 16%]: Vorpal
