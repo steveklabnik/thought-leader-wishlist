@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-05-03 17:56:13 +00:00`. The most recent
+created on `2020-05-03 21:20:20 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -135,22 +135,11 @@ I played with a [zero-Recoil, high Stability](https://d2gunsmith.com/w/DY2Aqw8sO
   MWorks  [100%]: *
   ```
 ## Seventh Seraph Carbine - PvE
-For its **base stats and perks**, there isn't a whole lot of reason to consider the Carbine for PvE. Breakneck, the Gambit Pinnacle weapon, is also 450RPM and recently received a buff in Season 10. It positively shreds in PvE and since it's a Legendary weapon, it can take the Season 10 Artifact mods.
-
-"OK Slif, so why do you even have a PvE section here?"
-1. **Most importantly** it's a Seraph weapon! If you're running Warmind mods on your armor, Seraph weapons will spawn Warmind Cells.
-1. It can roll with Vorpal, which activates on Champions and in the current Season 10, Auto Rifles can take Overload mods. In the future things will rotate back around to take Anti-Barrier too.
-
-"Whatevs, I've never been a fan of Vorpal and I don't really care about the seasonal stuff" - all good, stop reading and farm something else 😃
-* **(PvE) Slif's "Butter and Citrus Bar Shredder" 🧈 (0.7% chance)**: This is designed for dumping rounds in to enemies in high(er) end PvE content.
-  ```
-  Barrels [100%]: *
-  Mags    [ 25%]: High-Caliber Rounds
-  Perks 1 [ 16%]: Fourth Time's the Charm
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Butter Bar Shredder" 🧈(Relaxed Magazines) (2.8% chance)**: The core of this roll are the final two perk columns. Stil phenomenal sans HCR.
+For its base stats and perks, there isn't a whole lot of reason to consider the SSC for PvE. While it does feature Swashbuckler and Rampage, it doesn't combine it with a reload-boosting perk like Feeding Frenzy or Outlaw. Breakneck, the Gambit Pinnacle weapon with the unique perk `Onslaught` is also 450 RPM and recently received a buff in Season 10. It shreds in PvE and since it's a Legendary weapon, it can take the Season 10 Artifact mods.
+Still, there's at least a couple of reasons why you might want to consider a SSC.
+1. It's a Seraph weapon! If you're running Warmind mods on your armor, Seraph weapons will spawn Warmind Cells.
+1. It can roll with `Fourth Time's the Charm` and `Vorpal` together, which activates on Champions and in the current Season 10, Auto Rifles can take Overload mods. In the future things will rotate back around to take Anti-Barrier too. The mag seems endless when dumping in to Champions and bosses; kinda cool :)
+* **(PvE) Slif's "Butter and Citrus Bar Shredder" 🧈🍊 (2.8% chance)**: This is designed for dumping rounds in to enemies in high(er) end PvE content. FTTC and Vorpal make the roll; without both you may as well use another Vorpal weapon. Based on the past two seasons, they won't be hard to come by :)
   ```
   Barrels [100%]: *
   Mags    [100%]: *
@@ -158,11 +147,11 @@ For its **base stats and perks**, there isn't a whole lot of reason to consider 
   Perks 2 [ 16%]: Vorpal
   MWorks  [100%]: *
   ```
-* **(PvE) General Purpose Thinning of the Hordes 👹 (8.9% chance)**: Run-of-the-mill Auto-Rifle PvE slayer perk set here. If you like the look, feel and sound of the Carbine as I do, you'll do solid work with this roll.
+* **(PvE) "Warmind Cell Generator" ☄️ (6.0% chance)**: Run-of-the-mill Auto-Rifle PvE slayer perk set here. If you like the look, feel and sound of the Carbine as I do, you'll do solid work with this roll.
   ```
-  Barrels [ 83%]: Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 64%]: High-Caliber Rounds, Flared Magwell, Light Mag
-  Perks 1 [ 50%]: Threat Detector, Slideshot, Auto-Loading Holster
+  Barrels [ 83%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Polygonal Rifling, Fluted Barrel
+  Mags    [ 64%]: Flared Magwell, Light Mag, Alloy Magazine
+  Perks 1 [ 33%]: Threat Detector, Slideshot
   Perks 2 [ 33%]: Swashbuckler, Rampage
   MWorks  [100%]: *
   ```
@@ -638,6 +627,14 @@ The VY-7 is an Energy Antiope-D (the basic stat variances are immaterial in prac
   Perks 1 [ 25%]: Firmly Planted
   Perks 2 [ 25%]: Elemental Capacitor
   MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Weird AR" 🤷‍♂️🌱 (Relaxed Magazines and Masterworks) (4.5% chance)**: Same as the above with relaxed Magazines and Masterworks.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [ 25%]: Elemental Capacitor
+  MWorks  [100%]: *
   ```
 * **(PvP) "Weird AR" 🤷‍♂️🌱 (Relaxed Masterworks) (2.9% chance)**: Same as the above with relaxed Masterworks.
   ```
