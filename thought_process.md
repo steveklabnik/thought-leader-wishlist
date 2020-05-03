@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-05-02 05:52:41 +00:00`. The most recent
+created on `2020-05-03 03:00:25 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -612,117 +612,55 @@ Forget it right? But do you remember this world?
 * [The Perfect Antiope-D does exist!](https://www.youtube.com/watch?v=M3tC-IkkFRU) - CammyCakes
 * [Antiope-D and Sniping = New Meta ?](https://www.youtube.com/watch?v=yjG32gyUh_w) - ZkMushroom
 
-If you didn't bother clicking the comparison link above, I'll spoil it for you. The VY-7 is basically the same weapon as the Antiope. SMGs themselves haven't changed - the meta around them has. I think you'll want to put one of these in your vault and hold out for a buff. Now granted, they don't have the stability- and accuracy-increasing perk pool that Antiope did, but it does have very different barrels and magazines that can push the Range and Stability just as high. Worth a hold of at least one good roll!
-* **(PvP) Slif's "Weird Auto Rifle but OK" 🤷‍♂️ Collector's Edition (1.3% chance)**: We're going to use a Counterbalance Mod to get the Recoil to 100, so we can go for Range surrounding our pick of the criminially underrated Firmly Planted, which turns this in to an absolute laser. Fully Masterworked, these rolls would net out to 80-91 Range, being slightly lower and slightly higher than the Antiope at either end of the spectrum.
+If you didn't bother clicking the comparison link above, I'll spoil it for you. The VY-7 is an Energy Antiope-D (the basic stat variances are immaterial in practice). Yes it's not the meta now, but a solid roll might be worth throwing in the vault.
+
+The difference between `59` (base) and `80` Range buys you about a whopping one meter of falloff (~16 to ~17m). Given the base Range is already so high, I'm going to suggest maximizing Stability. You'll notice that I don't feature a `Vorpal` roll here. I'm a huge fan of `Vorpal` in PvP, but given this is such a short range weapon and it's a Scatter shot, I think gunning down a super with an SMG would be a tall order :)
+* **(PvP) Slif's "Weird Auto Rifle but OK" 🤷‍♂️ Collector's Edition (1.5% chance)**: We're going to use a Counterbalance Mod to get the Recoil to 100, so we can go for Range surrounding our pick of the criminially underrated Firmly Planted, which turns this in to an absolute laser. What the hell is `Elemental Capacitor` doing in there?! The Stability and Handling boosts are tremendous; you absolutely feel them.
   ```
-  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
+  Barrels [ 72%]: Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [ 25%]: Firmly Planted
-  Perks 2 [100%]: *
-  MWorks  [ 25%]: Range MW
+  Perks 2 [ 25%]: Elemental Capacitor
+  MWorks  [ 50%]: Stability MW, Handling MW
   ```
-* **(PvP) "Weird AR" 🤷‍♂️ (Relaxed Barrels) (1.6% chance)**: Same as the above with relaxed Barrels.
+* **(PvP) "Weird AR" 🤷‍♂️ (Relaxed Barrels) (2.0% chance)**: Same as the above with relaxed Barrels.
   ```
   Barrels [100%]: *
-  Mags    [ 25%]: Accurized Rounds
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [ 25%]: Firmly Planted
-  Perks 2 [100%]: *
-  MWorks  [ 25%]: Range MW
+  Perks 2 [ 25%]: Elemental Capacitor
+  MWorks  [ 50%]: Stability MW, Handling MW
   ```
-* **(PvP) "Weird AR" 🤷‍♂️ (Relaxed Magazines) (5.2% chance)**: Same as the above with relaxed Magazines.
+* **(PvP) "Weird AR" 🤷‍♂️ (Relaxed Magazines) (2.3% chance)**: Same as the above with relaxed Magazines.
   ```
-  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
+  Barrels [ 72%]: Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore
   Mags    [100%]: *
   Perks 1 [ 25%]: Firmly Planted
-  Perks 2 [100%]: *
-  MWorks  [ 25%]: Range MW
+  Perks 2 [ 25%]: Elemental Capacitor
+  MWorks  [ 50%]: Stability MW, Handling MW
   ```
-* **(PvP) "Weird AR" 🤷‍♂️ (Relaxed Masterworks) (5.2% chance)**: Same as the above with relaxed Masterworks.
+* **(PvP) "Weird AR" 🤷‍♂️ (Relaxed First Perk) (5.8% chance)**: Same as the above with relaxed Firmly Planted.
   ```
-  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 25%]: Firmly Planted
-  Perks 2 [100%]: *
-  MWorks  [100%]: *
-  ```
-* **(PvP) Slif's "Long-Distance Planted Super Shredder" 🌱💥 Collector's Edition (0.3% chance)**: Similar to our max Range roll, except pivoting around Vorpal.
-  ```
-  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 25%]: Firmly Planted
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Planted Shredder" 🌱💥 (Relaxed Barrels) (0.4% chance)**: Same as the above with relaxed Barrels.
-  ```
-  Barrels [100%]: *
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 25%]: Firmly Planted
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Planted Shredder" 🌱💥 (Relaxed Magazines) (1.3% chance)**: Same as the above with relaxed Magazines.
-  ```
-  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 25%]: Firmly Planted
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Planted Shredder" 🌱💥 (Relaxed Masterworks) (1.3% chance)**: Same as the above with relaxed Masterworks.
-  ```
-  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 25%]: Firmly Planted
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvP) Slif's "Long-Distance Super Shredder" 💥 Collector's Edition (1.3% chance)**: Similar to our max Range roll, except pivoting around Vorpal.
-  ```
-  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Steady Rounds
+  Barrels [ 72%]: Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [100%]: *
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Range MW
+  Perks 2 [ 25%]: Elemental Capacitor
+  MWorks  [ 50%]: Stability MW, Handling MW
   ```
-* **(PvP) "Super Shredder" 💥 (Relaxed Barrels) (1.6% chance)**: Same as the above with relaxed Barrels.
+* **(PvP) "Weird AR" 🤷‍♂️ (Relaxed Second Perk) (5.8% chance)**: Same as the above with relaxed Elemental.
   ```
-  Barrels [100%]: *
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Super Shredder" 💥 (Relaxed Magazines) (5.2% chance)**: Same as the above with relaxed Magazines.
-  ```
-  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [100%]: *
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Super Shredder" 💥 (Relaxed Masterworks) (5.2% chance)**: Same as the above with relaxed Masterworks.
-  ```
-  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Firmly Submachinegunning" ✊ (5.2% chance)**: We're going to get so much stability and accuracy from Firmly Planted that we can be pretty loose in our other requirements.
-  ```
-  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
+  Barrels [ 72%]: Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [ 25%]: Firmly Planted
   Perks 2 [100%]: *
-  MWorks  [100%]: *
+  MWorks  [ 50%]: Stability MW, Handling MW
   ```
-* **(PvP) "Firmly Submachinegunning" ✊ (Relaxed Magazines) (20.8% chance)**: Same as the above with relaxed Magazines.
+* **(PvP) "Weird AR" 🤷‍♂️ (Relaxed Masterworks) (2.9% chance)**: Same as the above with relaxed Masterworks.
   ```
-  Barrels [ 83%]: Full Bore, Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling
-  Mags    [100%]: *
+  Barrels [ 72%]: Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [ 25%]: Firmly Planted
-  Perks 2 [100%]: *
+  Perks 2 [ 25%]: Elemental Capacitor
   MWorks  [100%]: *
   ```
 ## Seventh Seraph VY-7 - PvE
@@ -731,32 +669,86 @@ The VY-7 is the only SMG that's able to roll with Vorpal and you'll want one of 
 * The VY-7 is a Seraph weapon and contributes to the generation of Warmind Cells.
 * SMGs are eligible for certain Season 10 Artifact weapon mods.
 
-There aren't any obvious pairings and I think that's to Bungie's credit. We're not here talking about the same old Outlaw + Kill Clip or Grave Robber + Swashbuckler snoozefest. I think a lot of the same things that make this interesting in PvP contribute to interesting PvE rolls as well.
+...so let's come up with some rolls that help shred Champions and generate Warmind Cells (i.e. shred adds).
 
-**Third Column**: `Firmly Planted` makes a dramatic difference in stability. In PvE you can crouch to your heart's content. Of course this is far from required if all you're doing is generating Warmind cells but it is pretty amazing :)
-
-**Fourth Column**: Why aren't I selecting Dragonfly? Given the RPM, the chance you finish with a precision bullet seems quite low. I'd rather the always-on benefits of `Feeding Frenzy` or `Vorpal`.
-* **(PvE) "Cell Generator" ☄️ 🌱 Collector's Edition (6.0% chance)**: Vorpal procs against Champions and any season where SMGs can take Artifact mods (Season 10 for example!) this is a solid pull.
+You must absolutely run a `Counterbalance` Mod or otherwise fix the Recoil with `Arrowhead Brake` or `Chambered Compensator`. Even though its base Recoil is `91` it's still a hot mess to control, esp. with its low Handling. For the rolls below I'm going to assume you're rolling with a `Counterbalance` Mod installed.
+* **(PvE) "Champion Shredder" 🏆💥 Collector's Edition (0.7% chance)**: Whenever SMGs are up on the Artifact, you'll want Vorpal to help shred through Champions. FTTC might seem like a strange choice for an SMG but the rate of fire is so fast, you'd be surprised how often it you end up getting it to proc. I won't be relaxing either Vorpal or FTTC on these rolls because just one of either would mean that it's not worth using this over something else in the Energy slot.
   ```
-  Barrels [100%]: *
-  Mags    [ 96%]: Accurized Rounds, Tactical Mag, Drop Mag, Alloy Magazine, Flared Magwell, Appended Mag
-  Perks 1 [ 25%]: Firmly Planted
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 25%]: Fourth Time's the Charm
   Perks 2 [ 25%]: Vorpal
-  MWorks  [100%]: *
+  MWorks  [ 25%]: Stability MW
   ```
-* **(PvE) "Cell Generator" ☄️ (Relaxed Planting) (6.2% chance)**: Using Steady Rounds, we can drop the requirement for Firmly Planted. Sure it's not exactly the same, but we're not talking super high-end requirements here :)
+* **(PvE) "Champion Shredder" 🏆💥 (Relaxed Barrels) (1.0% chance)**: Same as the above, relaxing Barrels.
   ```
   Barrels [100%]: *
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [100%]: *
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 25%]: Fourth Time's the Charm
   Perks 2 [ 25%]: Vorpal
-  MWorks  [100%]: *
+  MWorks  [ 25%]: Stability MW
   ```
-* **(PvE) "Cell Generator" ☄️ (Large Mag / Frenzy) (6.2% chance)**: We'll take Extended Barrel but only if we can also get Feeding Frenzy.
+* **(PvE) "Champion Shredder" 🏆💥 (Relaxed Magazines) (1.1% chance)**: Same as the above, relaxing Magazines.
   ```
-  Barrels [100%]: *
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [100%]: *
-  Perks 1 [ 25%]: Firmly Planted
+  Perks 1 [ 25%]: Fourth Time's the Charm
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvE) "Champion Shredder" 🏆💥 (Relaxed Masterwork) (2.9% chance)**: Same as the above, relaxing the MW since we have so much Stability from other columns.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 25%]: Fourth Time's the Charm
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Champion Shredder" 🏆💥 (Relaxed Magazines and Masterwork) (4.5% chance)**: Same as the above, relaxing the MW and Magazines since we'll get Stability from the Barrels at a higher chance and amount.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Fourth Time's the Charm
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Frenzied Cell Generator" 😡☄️ Collector's Edition (0.7% chance)**: Good for generating Warmind Cells against hordes of enemies. Best for low and mid tier add clear.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 25%]: Ambitious Assassin
+  Perks 2 [ 25%]: Feeding Frenzy
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvE) "Frenzied Generator" 😡☄️ (Relaxed Barrels) (1.0% chance)**: Same as the above, relaxing Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 25%]: Ambitious Assassin
+  Perks 2 [ 25%]: Feeding Frenzy
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvE) "Frenzied Generator" 😡☄️ (Relaxed Magazines) (1.1% chance)**: Same as the above, relaxing Magazines.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Ambitious Assassin
+  Perks 2 [ 25%]: Feeding Frenzy
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvE) "Frenzied Generator" 😡☄️ (Relaxed Masterwork) (2.9% chance)**: Same as the above, relaxing the MW since we have so much Stability from other columns.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 25%]: Ambitious Assassin
+  Perks 2 [ 25%]: Feeding Frenzy
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Frenzied Generator" 😡☄️ (Relaxed Magazines and Masterwork) (4.5% chance)**: Same as the above, relaxing the MW and Magazines since we'll get Stability from the Barrels at a higher chance and amount.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Ambitious Assassin
   Perks 2 [ 25%]: Feeding Frenzy
   MWorks  [100%]: *
   ```
