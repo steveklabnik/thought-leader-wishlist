@@ -162,7 +162,7 @@ groups:
           only takes the reload from ~3.5s to ~4.5s (still 1s shorter than the
           base `Reload`).
         barrels: [Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
-        magazines: [Appended Magazine, Extended Magazine]
+        magazines: [Appended Mag, Extended Mag]
         perks1: [Field Prep]
         perks2: [Firing Line]
         masterworks: [Stability MW]
