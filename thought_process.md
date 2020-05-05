@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-05-05 22:47:37 +00:00`. The most recent
+created on `2020-05-05 22:55:31 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -622,29 +622,29 @@ increases pales in comparison to significantly higher damage output. You can als
   * ❌`Disruption Break`: A 50% Kinetic damage bonus debuff is nothing to
 sneeze at! This is a niche pick for when you're up against Arc shields because in a Match Game activity, you won't do enough damage to break non-matching shields. Myself, if I'm hopping in to a difficult PvE activity I'm going to get more general, always-on use from Firing Line.
 Otherwise we're shooing for higher Stability
-* **(PvE) Slif's "Together Forever" 🤝♬ Collector's Edition (0.3% chance)**: With other Guardians at your side, you will rip through hordes of aliens no problem. We're taking any Barrel that increases Stability and magazine-extended... Magazines. Extended Magazine would normally be a hot mess with a base `Reload` so low, but with Field Prep it only takes the reload from ~3.5s to ~4.5s (still 1s shorter than the base `Reload`).
+* **(PvE) Slif's "Together Forever" 🤝♬ Collector's Edition (0.6% chance)**: With other Guardians at your side, you will rip through hordes of aliens no problem. We're taking any Barrel that increases Stability and magazine-extended... Magazines. Extended Magazine would normally be a hot mess with a base `Reload` so low, but with Field Prep it only takes the reload from ~3.5s to ~4.5s (still 1s shorter than the base `Reload`).
   ```
   Barrels [ 72%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel
   Mags    [ 46%]: Appended Mag, Extended Mag
   Perks 1 [ 20%]: Field Prep
   Perks 2 [ 16%]: Firing Line
-  MWorks  [ 25%]: Stability MW
+  MWorks  [ 50%]: Stability MW, Range MW
   ```
-* **(PvE) "Together Forever" 🤝♬ (Relaxed Barrels) (0.4% chance)**: Same as the above, sans Barrels.
+* **(PvE) "Together Forever" 🤝♬ (Relaxed Barrels) (0.8% chance)**: Same as the above, sans Barrels.
   ```
   Barrels [100%]: *
   Mags    [ 46%]: Appended Mag, Extended Mag
   Perks 1 [ 20%]: Field Prep
   Perks 2 [ 16%]: Firing Line
-  MWorks  [ 25%]: Stability MW
+  MWorks  [ 50%]: Stability MW, Range MW
   ```
-* **(PvE) "Together Forever" 🤝♬ (Relaxed Magazines) (0.6% chance)**: Same as the above, sans Magazines.
+* **(PvE) "Together Forever" 🤝♬ (Relaxed Magazines) (1.2% chance)**: Same as the above, sans Magazines.
   ```
   Barrels [ 72%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel
   Mags    [100%]: *
   Perks 1 [ 20%]: Field Prep
   Perks 2 [ 16%]: Firing Line
-  MWorks  [ 25%]: Stability MW
+  MWorks  [ 50%]: Stability MW, Range MW
   ```
 * **(PvE) "Together Forever" 🤝♬ (Relaxed Masterworks) (1.1% chance)**: Same as the above, sans Masterworks.
   ```
