@@ -165,7 +165,7 @@ groups:
         magazines: [Appended Mag, Extended Mag]
         perks1: [Field Prep]
         perks2: [Firing Line]
-        masterworks: [Stability MW]
+        masterworks: [Stability MW, Range MW]
       - 
         <<: *sawforever
         name: (PvE) "Together Forever" 🤝♬ (Relaxed Barrels)
