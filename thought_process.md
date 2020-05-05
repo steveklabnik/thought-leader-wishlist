@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-05-03 22:16:52 +00:00`. The most recent
+created on `2020-05-05 22:47:37 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -26,6 +26,7 @@ I'm of the opinion it's not worth chasing ツ
 * Seventh Seraph Carbine ([PvP](#seventh-seraph-carbine---pvp), [PvE](#seventh-seraph-carbine---pve))
 * Seventh Seraph CQC-12 ([PvP](#seventh-seraph-cqc-12---pvp), [PvE](#seventh-seraph-cqc-12---pve))
 * Seventh Seraph Officer Revolver ([PvP](#seventh-seraph-officer-revolver---pvp), [PvE](#seventh-seraph-officer-revolver---pve))
+* Seventh Seraph SAW ([PvP](#seventh-seraph-saw---pvp), [PvE](#seventh-seraph-saw---pve))
 * Seventh Seraph SI-2 ([PvP](#seventh-seraph-si-2---pvp), [PvE](#seventh-seraph-si-2---pve))
 * Seventh Seraph VY-7 ([PvP](#seventh-seraph-vy-7---pvp), [PvE](#seventh-seraph-vy-7---pve))
 
@@ -537,6 +538,136 @@ There are so many great Hand Cannons for general purpose add shredding that you 
   Mags    [100%]: *
   Perks 1 [ 33%]: Threat Detector, Ambitious Assassin
   Perks 2 [ 16%]: Feeding Frenzy
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph SAW - PvP
+Drewsky has a great review of the [Bane of Sorrow](https://www.youtube.com/watch?v=G7hqmrV1pk0), another 360 RPM "High-Impact Frame" Machine Gun. From the review, it hits for 48 crit / 38 body (TTK 0.5s / 0.83s). It's got terrific range and flinches like crazy.
+
+That being said, it's still a Machine Gun which tends not to be the pick for PvP... BUT... BUT! The SAW can roll with `Opening Shot` in the final column. Because the rate of fire is so low, you can single tap out shots and get crits across the map. Try out some Machine Gun sniping in Mayhem and let me know how that works out for you 🎯
+
+Otherwise, there's no pressing reason to farm for a SAW for PvP, at least none moreso than any other Machine Gun.
+* **(PvP) Slif's "Sniper MG" 🎯 Collector's Edition (0.5% chance)**: Any basic roll will chew up Guardians with a lot of flinch. Let's add `Range` and `Stability` where we can, while seeing what `Opening Shot` can do.
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 50%]: Range MW, Stability MW
+  ```
+* **(PvP) "Sniper MG" 🎯 (Relaxed Barrels) (1.7% chance)**: Same as the above, with any Range/Stability-enhancing Barrel
+  ```
+  Barrels [ 83%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Polygonal Rifling, Fluted Barrel
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 50%]: Range MW, Stability MW
+  ```
+* **(PvP) "Sniper MG" 🎯 (Relaxed Magazines) (5.5% chance)**: Same as the above, with any Range/Stability-enhancing Magazine
+  ```
+  Barrels [ 83%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Polygonal Rifling, Fluted Barrel
+  Mags    [ 78%]: Ricochet Rounds, High-Caliber Rounds, Light Mag, Armor-Piercing Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 50%]: Range MW, Stability MW
+  ```
+* **(PvP) "Sniper MG" 🎯 (Relaxed Masterworks) (10.9% chance)**: Same as the above, with any Masterwork
+  ```
+  Barrels [ 83%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Polygonal Rifling, Fluted Barrel
+  Mags    [ 78%]: Ricochet Rounds, High-Caliber Rounds, Light Mag, Armor-Piercing Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph SAW - PvE
+The SAW is 360 RPM "High-Impact Frame" Machine Gun and is an absolute monster in PvE. *"But Slif, everyone says Machine Guns are crap for DPS so why do you even have a PvE section?!?"*
+
+Walk with me, grasshopper.
+
+This is going to be a long one because I haven't found any super detailed coverage of the SAW (or any other Seraph weapon save for the Hand Cannon). Fortunately since a High-Impact is a High-Impact (at base), Drewsky has a great review of the [Bane of Sorrow](https://www.youtube.com/watch?v=G7hqmrV1pk0) that's definitely worth watching! The SAW can't roll with most of the perks he discussed in that video, but it's still super solid at its base.
+
+* It's a Seraph weapon which means it generates Warmind Cells if you have Warmind mods equipped (Season 10).
+* As a High-Impact Frame, the SAW keeps anything it doesn't kill practically stun-locked. As the difficulty of PvE content increases, this becomes super important. Even if you're not doing Grandmaster Nightfalls, flinching challenging adds sure makes things more straightforward. Keeping the bosses flinched as they march towards your plate during a Seraph Tower event comes in handy!
+* Its base effecive `Range` is amazing. Damage falloff starts ~45m and is reasonable up to ~50m (-5%). You're talking maximum damage at Scout Rifle ranges. At maximum range, the sight overlaps your target because MGs don't have high-zoom sights/scopes. *This is why I'm not suggesting any `Range` boosting below - when I pushed the `Range` to `93` falloff and floors were unchanged and the recoil/handling will make it challenging to stay on target anyway.*
+* It's the only Machine Gun that can roll with `Vorpal` or `Firing Line` in the final column, which provide 15% and 25% damage boosts, respectively. Those are substantial increases to damage without requiring a kill or reload to activate. 
+
+If you're still not bought in, that's cool 😀👋. If you're still here, let's get those rolls! In order of importance:
+
+* Column 3:
+  * ✅`Field Prep` is far and away the winner. It grants a whopping 25%
+  more in reserve (223 to 278), speeds up your reload time by two seconds
+  (~5.5s to ~3.5s) and increases ready and stow speed. For PvE, nothing
+  else comes close. By the way, within 45m at 1,222 to 1,716 damage,
+  that's an extra 67k - 94k damage available to you.
+
+  * ❌`Auto-Loading Holster` and `Grave Robber` are the other two reload
+  perks in this column and neither is worth giving up the reserve and
+  handling bonuses that `Field Prep` provides.
+
+* Column 4:
+  * ✅`Firing Line`: 25% damage boost when near two teammates. In
+PvE content you're nearly always with your fireteam: Strikes, Raids, Menagerie, Vex Offensive, Sundial, Seraph Towers... I'm comfortable reccomending `Firing Line` in general. It has double utility in dealing with adds and on boss DPS. Granted it's not your go-to for boss damage but since you already have it equipped for adds and Champions, may as well have something to do with all this ammo when you're on the boss!
+
+  * ✅`Vorpal`: 15% damage boost to yellow bars and Champions. It's
+a solid pick if you don't have one with `Firing Line`.
+
+  * ❌`Mulligan`: Nope. You shouldn't be missing many shots and the
+opportunity cost of Mulligan is too high. At maximum range on the Tribute Hall Ogre, I was hitting at least 50% crits at the base `Recoil` and no `Stability` boosts.
+
+  * ❌`Opening Shot`: This is interesting because at 360 RPM you can tap
+out one bullet at a time, turning this in to kind of an incredibly high-impact Scout Rifle. Situationally cool but you can still use the SAW like this just fine without it. Arguably more of an off-meta PvP pick.
+
+  * ❌`Elemental Capacitor`: While large, the effect of any of these
+increases pales in comparison to significantly higher damage output. You can also get each of the benefits through other perks or armor mods. This isn't a case in general against `Capacitor`, just on this particular weapon.
+
+  * ❌`Disruption Break`: A 50% Kinetic damage bonus debuff is nothing to
+sneeze at! This is a niche pick for when you're up against Arc shields because in a Match Game activity, you won't do enough damage to break non-matching shields. Myself, if I'm hopping in to a difficult PvE activity I'm going to get more general, always-on use from Firing Line.
+Otherwise we're shooing for higher Stability
+* **(PvE) Slif's "Together Forever" 🤝♬ Collector's Edition (0.3% chance)**: With other Guardians at your side, you will rip through hordes of aliens no problem. We're taking any Barrel that increases Stability and magazine-extended... Magazines. Extended Magazine would normally be a hot mess with a base `Reload` so low, but with Field Prep it only takes the reload from ~3.5s to ~4.5s (still 1s shorter than the base `Reload`).
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel
+  Mags    [ 46%]: Appended Mag, Extended Mag
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 16%]: Firing Line
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvE) "Together Forever" 🤝♬ (Relaxed Barrels) (0.4% chance)**: Same as the above, sans Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 46%]: Appended Mag, Extended Mag
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 16%]: Firing Line
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvE) "Together Forever" 🤝♬ (Relaxed Magazines) (0.6% chance)**: Same as the above, sans Magazines.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 16%]: Firing Line
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvE) "Together Forever" 🤝♬ (Relaxed Masterworks) (1.1% chance)**: Same as the above, sans Masterworks.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel
+  Mags    [ 46%]: Appended Mag, Extended Mag
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 16%]: Firing Line
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Together Forever" 🤝♬ (Relaxed Magazines and Masterwork) (2.4% chance)**: Same as the above, sans Magazines and Masterwork requirements.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 16%]: Firing Line
+  MWorks  [100%]: *
+  ```
+* **(PvE) Slif's "Just... Together" 🤝Baseline Roll (3.3% chance)**: With just the core perks, you have an absolutely phenomenal Machine Gun! If you get this, you can stop farming because the delta between this roll and allll the ones above is minimal.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 16%]: Firing Line
   MWorks  [100%]: *
   ```
 ## Seventh Seraph SI-2 - PvP
