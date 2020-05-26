@@ -9,19 +9,27 @@ slots:
   masterworks: {t: 4, c: 1}
 groups: 
   - 
-    name: PvP / PvE
+    name: PvP
     summary: >
       A randomly-rolled 390RPM Adaptive Pulse Rifle; here we go! If you like
-      Bygones in the primary slot, Last Perdition is right up your alley. Lots
-      of resources for this one, including the [Destiny Massive Breakdowns](https://www.destinymassivebreakdowns.com/) [podcast](https://soundcloud.com/destinymassivebreakdowns).
+      Bygones in the primary slot, Last Perdition is right up your alley. It
+      was brought back in Season of the Drifter with random rolls, and it
+      unfortunately kept a pretty baseline set of perks. There's so much magic
+      happening in the Energy slot now that we're so deep into Destiny 2 that
+      we're going to have a pretty high bar for rolls here.
+      
+
+      Lots of resources for this one, including the
+      [Destiny Massive Breakdowns](https://www.destinymassivebreakdowns.com/)
+      [podcast](https://soundcloud.com/destinymassivebreakdowns).
       I'll be quoting (or paraphrasing if I couldn't keep up :) Kyt_Kucha and
       Mercules904 quite a bit in here.
 
-      * KK: "Stability helps your Aim Assist cone recover more quickly. Recoil
+      * Kyt: "Stability helps your Aim Assist cone recover more quickly. Recoil
       makes the bursts more linear but it's not the same thing as having more
       Stability."
 
-      * KK: "Wouldn't go with a zoom factor of less than 3 because otherwise you
+      * Kyt: "Wouldn't go with a zoom factor of less than 3 because otherwise you
       feel recoil too much"
 
       * M904: "Accurized Rounds for +10 range, but maybe not if you picked a
@@ -37,8 +45,8 @@ groups:
       Pulse](https://www.youtube.com/watch?v=n6nVNWTEttc) is terrific. Long zoom
       scopes aren't recommended because of the increased incoming flinch while
       ADS and they also decrease Handling which can make the weapon feel more
-      sluggish. Zen Moment is capped out at 66% of Base Stability, which is
-      super high at 66.
+      sluggish. `Zen Moment` is capped out at 66% of Base Stability, which is
+      super high at 66, so we're going to prioritize that.
 
 
       For some general slaying footage, ZkMushroom loves his Last Perdition!
@@ -49,76 +57,106 @@ groups:
       with pulses. I know Blast Furnace and Bygones will be better there. I like
       being aggressive with my pulse and this is the perfect one."
     rolls:
-      - &lpabsurdlypicky
-        name: (PvP/PvE) Absurdly Picky
-        desc: >
-          This will be our generally acceptable classic set of Pulse Rifle rolls.
-        barrels: [SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post]
-        magazines: [Tactical Mag, Steady Rounds, Accurized Rounds, Flared Magwell]
-        perks1: [Outlaw]
-        perks2: [Kill Clip, Rampage]
-        masterworks: [Stability MW]
-      - 
-        <<: *lpabsurdlypicky
-        name: (PvP/PvE) Absurdly Picky (Minus Masterwork)
-        desc: >
-          Same as the above, minus Masterwork requirement.
-        masterworks: []
       - &lpabsurdlysticky
-        name: (PvP/PvE) Absurdly Sticky
+        name: (PvP) Absurdly Sticky 🍭🍭🍭Collector's Edition
         desc: >
           With `Moving Target` and `Zen Moment`, your weapon should only produce
-          yellow numbers.
+          yellow numbers. We'd also be thrilled to get `Firmly Planted` here!
         barrels: [SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post]
-        magazines: [Tactical Mag, Steady Rounds, Accurized Rounds, Drop Mag, Flared Magwell]
-        perks1: [Moving Target]
-        perks2: [Kill Clip, Rampage, Zen Moment]
+        magazines: [Accurized Rounds, Tactical Mag, Steady Rounds, Flared Magwell]
+        perks1: [Moving Target, Firmly Planted]
+        perks2: [Zen Moment]
         masterworks: [Stability MW]
       -
         <<: *lpabsurdlysticky
-        name: (PvP/PvE) Absurdly Sticky (Minus Masterwork)
+        name: (PvP) Absurdly Sticky 🍭🍭CE (Minus Magazines)
         desc: >
-          Same as the above, minus Masterwork requirement.
+          Same as the above, minus Magazines.
+        magazines: []
+      -
+        <<: *lpabsurdlysticky
+        name: (PvP) Absurdly Sticky 🍭🍭CE (Minus Masterworks)
+        desc: >
+          Same as the above, minus Masterworks.
+        masterworks: []
+      -
+        <<: *lpabsurdlysticky
+        name: (PvP) Absurdly Sticky 🍭CE (Minus Masterworks and Magazines)
+        desc: >
+          Same as the above, minus Masterworks and Magazines.
+        magazines: []
         masterworks: []
       - &lpabsurdlyplanted
-        name: (PvP/PvE) Absurdly Planted
+        <<: *lpabsurdlysticky
+        name: (PvP) Absurdly Planted 🌱Collector's Edition
         desc: >
-          A roll based around the criminally underrated `Firmly Planted`. This is
-          a pure Slif roll; don't blame any one for it :) M904: "I'm really starting
-          to appreciate Firmly Planted" - see! :)
-        barrels: [SPO-28 Front, SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post]
-        magazines: [Tactical Mag, Steady Rounds, Accurized Rounds, Drop Mag, Flared Magwell]
+          `Firmly Planted` is criminally underrated. It's a difference in
+          playstyle that you have to work at, but you will absolutely be
+          rewarded. We'll be getting so much `Stability` from `Firmly Planted`
+          that we can relax our requirement for `Zen Moment`.
         perks1: [Firmly Planted]
-        perks2: [Kill Clip, Rampage, Zen Moment]
-        masterworks: [Stability MW]
+        perks2: [Snapshot, Kill Clip]
       -
         <<: *lpabsurdlyplanted
-        name: (PvP/PvE) Absurdly Planted (Minus Masterwork)
+        name: (PvP) Absurdly Planted 🌱CE (Minus Magazines)
         desc: >
-          Same as the above, minus Masterwork requirement.
+          Same as the above, minus Magazines.
+        magazines: []
+      -
+        <<: *lpabsurdlyplanted
+        name: (PvP) Absurdly Planted 🌱CE (Minus Masterworks)
+        desc: >
+          Same as the above, minus Masterworks.
         masterworks: []
-
+      -
+        <<: *lpabsurdlyplanted
+        name: (PvP) Absurdly Planted 🌱CE (Minus Masterworks and Magazines)
+        desc: >
+          Same as the above, minus Masterworks and Magazines.
+        magazines: []
+        masterworks: []
+      - &lpranged
+        name: (PvP) Bullseye 🎯Collector's Edition
+        desc: >
+          Similar to the set of rolls above, but we're narrowing our scopes
+          to create a solid low-zoom pairing with `Rangefinder`.
+        barrels: [SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post]
+        magazines: [Accurized Rounds, Tactical Mag, Steady Rounds, Flared Magwell]
+        perks1: [Rangefinder]
+        perks2: [Zen Moment]
+        masterworks: [Stability MW]
+      -
+        <<: *lpranged
+        name: (PvP) Bullseye 🎯CE (Minus Magazines)
+        desc: >
+          Same as the above, minus Magazines.
+        magazines: []
+      -
+        <<: *lpranged
+        name: (PvP) Bullseye 🎯CE (Minus Masterworks)
+        desc: >
+          Same as the above, minus Masterworks.
+        masterworks: []
+      -
+        <<: *lpranged
+        name: (PvP) Bullseye 🎯CE (Minus Masterworks and Magazines)
+        desc: >
+          Same as the above, minus Masterworks and Magazines.
+        magazines: []
+        masterworks: []        
   - 
     name: PvE
     summary: >
       When Last Perdition was brought back with random rolls in the Season of
-      the Drifter, it came back with the standard perk pool. It's basically an
-      Energy-slot Bygones-equivalent, so the rolls will be similar. We're going
-      for as much sustained damage output and as much range as we can get. The
-      key difference(s) will be that SUROS weapons have scopes and a different
-      set of magazine options. Yes these are a narrow set of rolls but there's
-      so much competition for the Energy slot you need something spicy to make
-      the cut.
-      
-      Some PvE rolls are mentioned above in the PvP set, because the perks
-      overlap. I've labelled them PvP/PvE where appropriate.
+      the Drifter, it came back with the standard perk pool from Destiny 2 Year
+      1. Not a ton of finesse here in the rolls we're looking for :)
     rolls:
       -
-        name: (PvE) Baseline / Future-Proofing
+        name: (PvE) Baseline DPS
         desc: >
-          If you need a solid Pulse Rifle in your Energy slot, by all means this
-          roll will do work. This is fine. Not amazing, not terrible, just a
-          standard DPS roll. 
+          There are so many amazing PvE weapons in the energy slot and this perk
+          set is so dated that even with this combo, you may choose to use
+          something else :)
         barrels: []
         magazines: []
         perks1: [Outlaw]
