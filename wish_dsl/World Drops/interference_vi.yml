@@ -12,7 +12,9 @@ groups:
   - 
     name: PvE
     summary: >
-      Grenade Launchers haven't been meta PvE DPS for some time, so why record
+      The Interference VI (IVI) is not a Season 11 re-issue, but it is one of
+      small number of weapons in the World Drop Power Weapon loot pool. Grenade
+      Launchers haven't been meta PvE DPS for some time, so why record
       wishlist rolls for this? A couple of reasons:
       
       
@@ -25,11 +27,14 @@ groups:
       final two columns, which slightly offsets the number of perks in the
       first and second columns.
 
+      * While it's not a S11 re-issue (i.e. power cap of 1310 and not 1360), it
+      will still be useful for the next two seaons, so if you get a decent roll
+      then it will have some longevity to it.
+
       
       The Power weapon pool is so small that you're going to buried under
       mountains of these. Chances are without even trying you're going to get
       a pretty decent roll. Enjoy your New Monarchy Grenader Launcher! :)
-
     rolls:
       - &i6classic
         name: (PvE) "From Dooowwwwntown" 🏀🏀🏀Collector's Edition 
