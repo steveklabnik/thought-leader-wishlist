@@ -11,72 +11,51 @@ groups:
   - 
     name: PvE
     summary: >
-      The Interference VI (IVI) is not a Season 11 re-issue, but it is one of
-      small number of weapons in the World Drop Power Weapon loot pool. Grenade
-      Launchers haven't been meta PvE DPS for some time, so why record
-      wishlist rolls for this? A couple of reasons:
-      
-      
-      * This reissued IVI can now roll Full Court. The only other GLs that can
-      roll Full Court are `Doomsday` and `Love and Death`, both of which are
-      capped at end of Season 11 (i.e. 1060PL). Full Court, at max range
-      (> 50m) has a 25% damage increase. It's worth picking up!
+      The Steel Sybil is a re-issue of the Crucible sword from the launch of
+      Forsaken back in Season 4. The perks are the same as they've always been
+      so unfortunately this Season (Season 11) will be about (re?)chasing your
+      best roll from the past nearly two years. Whomp whomp.
 
-      * The perk pool is really small, with only four possibilities in the
-      final two columns, which slightly offsets the number of perks in the
-      first and second columns.
 
-      * While it's not a S11 re-issue (i.e. power cap of 1310 and not 1360), it
-      will still be useful for the next two seaons, so if you get a decent roll
-      then it will have some longevity to it.
+      Fortunately the perk set is very small and chances are you'll get the
+      roll you're after relatively quickly? When you do, rejoice! That roll
+      will keep you all the way through Season 14.
 
-      
-      The Power weapon pool is so small that you're going to buried under
-      mountains of these. Chances are without even trying you're going to get
-      a pretty decent roll. Enjoy your New Monarchy Grenader Launcher! :)
+
+      Note that swords only have one possible Masterwork (Impact) hence the
+      appearance of "any MW will do" in the wishlist; which isn't really the
+      case :)
     rolls:
-      - &i6classic
-        name: (PvE) "From Dooowwwwntown" 🏀🏀🏀Collector's Edition 
+      - &ss14classic
+        name: (PvE) Sustained DPS 🗡🗡🗡 Collector's Edition 
         desc: >
-          If the stars align, you'll get one that bumps Velocity as high as
-          possible.
-        barrels: [Quick Launch, Linear Compensator, Smart Drift Control]
-        magazines: [Spike Grenades]
-        perks1: [Field Prep]
-        perks2: [Full Court]
-        masterworks: [Velocity MW]
+          With Whirlwind and Relentless you'll be slicing for what seems like
+          forever. C/o
+          [this analysis](https://www.reddit.com/r/DestinyTheGame/comments/a2mjez/sword_awareness_1_jagged_edge_vs_honed_edge/),
+          Jagged Edge is the clear choice for the first column, but you'll want
+          to make sure your reserves are increased in armor. Heavy Guard
+          sacrifices Charge Rate and massive increased all the other important
+          sword stats, but that's fine because Charge Rate is such a compressed
+          stat you won't notice the difference.
+        barrels: [Jagged Edge]
+        magazines: [Heavy Guard]
+        perks1: [Relentless Strikes]
+        perks2: [Whirlwind Blade]
+        masterworks: [Impact MW]
       -
-        <<: *i6classic
-        name: (PvE) "Downtown" 🏀🏀CE (Relaxed Barrels)
+        <<: *ss14classic
+        name: (PvE) Sustained DPS 🗡🗡 (Minus Magazines)
         desc: >
-          Same as the CE, minus Barrel requirement.
+          Same as the CE, minus Heavy Guard. That's OK because you won't be
+          doing all that much defending while slicing away with your sword.
+        magazines: []
+      -
+        <<: *ss14classic
+        name: (PvE) Baseline DPS 🗡
+        desc: >
+          You really only need these two to do phenomenal amounts of sustained
+          damage and fortunately they're pretty easy to find!
         barrels: []
-      -
-        <<: *i6classic
-        name: (PvE) "Downtown" 🏀🏀CE (Relaxed Perks)
-        desc: >
-          Same as the CE, minus Field Prep.
-        perks1: []
-      -
-        <<: *i6classic
-        name: (PvE) "Downtown" 🏀🏀CE (Relaxed Masterwork)
-        desc: >
-          Same as the CE, minus Masterwork requirement.
-        masterworks: []
-      -
-        <<: *i6classic
-        name: (PvE) "Downtown" 🏀🏀CE (Relaxed Barrels and Masterwork)
-        desc: >
-          Same as the CE, minus Barrels and Masterwork requirements.
-        barrels: []
-        masterworks: []
-      -
-        <<: *i6classic
-        name: (PvE) "Downtown" 🏀CE (Baseline)
-        desc: >
-          These form the core of the roll. Without them, there isn't much
-          reason to run the IVI 😀
-        barrels: []
-        perks1: []
-        masterworks: []
+        magazines: []
+
 
