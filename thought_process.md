@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-06-17 11:59:51 +00:00`. The most recent
+created on `2020-06-17 12:38:56 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -49,6 +49,7 @@ I'm of the opinion it's not worth chasing ツ
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
 * Bygones ([PvP](#bygones---pvp), [PvE](#bygones---pve))
+* Honor's Edge ([PvE](#honors-edge---pve))
 * Interference VI ([PvE](#interference-vi---pve))
 * Last Perdition ([PvP](#last-perdition---pvp), [PvE](#last-perdition---pve))
 * Outrageous Fortune ([PvE](#outrageous-fortune---pve))
@@ -2409,6 +2410,64 @@ We're going for sustained DPS and maximum range. Stability is already high enoug
   Mags    [100%]: *
   Perks 1 [ 40%]: Kill Clip, Rampage
   Perks 2 [ 20%]: Outlaw
+  MWorks  [100%]: *
+  ```
+## Honor's Edge - PvE
+Honor's Edge (HE) is available in the World Drops loot pool in Season 11, originally being re-issued back in Season 10. The main difference between HE and SS14 is that HE can roll with `Surrounded` and `Flash Counter`, two both amazing perks.
+
+* `Surrounded` + `Surrounded Spec` ends up giving you a massive 35% damage increase and since a Sword is in-your-face there's a high chance you'll proc this regularly.
+* `Flash Counter` not only disorients but  [applies a 20% debuff](https://youtu.be/b9HcFqLdlyQ?t=1477)! This means *all incoming damange* is upped by 20%. You can imagine how helpful this would be in Public Events (like the S11 Contact event), to debuff the boss with up to eleven other Guardians attacking. The debuff lasts for five seconds, so you'll need to periodically switch to blocking for this to take effect. Given that every boss in the game stomps, this is a great way to take out your anti-stomp rage 😡
+
+
+Fortunately the perk set is very small and chances are you'll get the roll you're after relatively quickly? When you do, rejoice! That roll will keep you all the way through Season 13.
+
+*Note that swords only have one possible Masterwork (Impact) hence the appearance of "any MW will do" in the wishlist; which isn't really the case*
+* **(PvE) "Lawnmower Man" 🚜🚜🚜 Collector's Edition (1.1% chance)**: With Surrounded up, you'll be mowing through hordes of adds in no time. C/o [this analysis](https://www.reddit.com/r/DestinyTheGame/comments/a2mjez/sword_awareness_1_jagged_edge_vs_honed_edge/), Jagged Edge is the clear choice for the first column, but you'll want to make sure your reserves are increased in armor. Heavy Guard sacrifices Charge Rate and massive increased all the other important sword stats, but that's fine because Charge Rate is such a compressed stat you won't notice the difference.
+  ```
+  Barrels [ 40%]: Jagged Edge
+  Mags    [ 40%]: Heavy Guard
+  Perks 1 [ 33%]: Relentless Strikes
+  Perks 2 [ 20%]: Surrounded
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Lawnmower Man" 🚜🚜 CE (2.7% chance)**: Same as the CE, minus Heavy Guard. That's OK because you won't be doing all that much defending while slicing away with your sword.
+  ```
+  Barrels [ 40%]: Jagged Edge
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Relentless Strikes
+  Perks 2 [ 20%]: Surrounded
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Lawnmower Man" 🚜 Baseline (6.7% chance)**: You really only need these two to do phenomenal amounts of  damage and fortunately they're pretty easy to find!
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Relentless Strikes
+  Perks 2 [ 20%]: Surrounded
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Perfect Parry" ⚔️⚔️⚔️ Collector's Edition (1.9% chance)**: `Flash Counter` is akin to parrying in many games, where a perfectly timed block will stagger your attacker. Same set of rolls as above, but with `Flash Counter` in the final column.
+  ```
+  Barrels [ 40%]: Jagged Edge
+  Mags    [ 70%]: Burst Guard, Enduring Guard
+  Perks 1 [ 33%]: Relentless Strikes
+  Perks 2 [ 20%]: Flash Counter
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Perfect Parry" ⚔️⚔️ CE (Expanded Magazines) (2.7% chance)**: Same as the CE, minus Heavy Guard. That's OK because you won't be doing all that much defending while slicing away with your sword.
+  ```
+  Barrels [ 40%]: Jagged Edge
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Relentless Strikes
+  Perks 2 [ 20%]: Flash Counter
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Perfect Parry" ⚔️ Baseline (6.7% chance)**: Baseline `Guard Efficiency` is pretty awful, but if you're able to time it right, you won't have to keep it up for long so maybe you're OK with it?
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Relentless Strikes
+  Perks 2 [ 20%]: Flash Counter
   MWorks  [100%]: *
   ```
 ## Interference VI - PvE
