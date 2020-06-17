@@ -6,6 +6,7 @@ Control SAS: 445755706
 Corkscrew Rifling: 4090651448
 Countermass: 3809316345
 Crossfire HCS: 1926090090
+Enduring Blade: 1261178282
 Extended Barrel: 1467527085
 Farpoint SAS: 445755710
 Fastdraw HCS: 1926090094
@@ -15,6 +16,9 @@ Full Choke: 1047830412
 Hammer-Forged Rifling: 3250034553
 Hard Launch: 981914802
 Hitmark HCS: 1926090093
+Honed Edge: 2827049491
+Hungry Edge: 436053704
+Jagged Edge: 3666208348
 Linear Compensator: 1441682018
 Polygonal Rifling: 1392496348
 Quick Launch: 3525010810
@@ -35,12 +39,8 @@ Steadyhand HCS: 1926090095
 Sureshot HCS: 1926090091
 Tactic SAS: 445755704
 Target SAS: 445755711
-Truesight HCS: 1926090092
-Enduring Blade: 1261178282
-Honed Edge: 2827049491
-Hungry Edge: 436053704
-Jagged Edge: 3666208348
 Tempered Edge: 938542991
+Truesight HCS: 1926090092
 
 # Magazines
 Accelerated Coils: 689005463
@@ -49,10 +49,14 @@ Alloy Magazine: 1431678320
 Appended Mag: 1087426260
 Armor-Piercing Rounds: 1968497646
 Assault Mag: 791862061
+Balanced Guard: 52780822
+Burst Guard: 3625355092
 Drop Mag: 4134353779
+Enduring Guard: 599007201
 Enhanced Battery: 2680121939
 Extended Mag: 2420895100
 Flared Magwell: 3230963543
+Heavy Guard: 2349202967
 High-Caliber Rounds: 1561002382
 High-Velocity Rounds: 2822142346
 Ionized Battery: 1483536627
@@ -62,12 +66,8 @@ Projection Fuse: 2969185026
 Ricochet Rounds: 1885400500
 Rifled Barrel: 1332244541
 Steady Rounds: 3177308360
-Tactical Mag: 106909392
-Balanced Guard: 52780822
-Burst Guard: 3625355092
-Enduring Guard: 599007201
-Heavy Guard: 2349202967
 Swordmaster's Guard: 269888150
+Tactical Mag: 106909392
 
 # Perks
 Ambitious Assassin: 2010801679
