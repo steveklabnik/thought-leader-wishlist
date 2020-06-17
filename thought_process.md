@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-05-26 06:35:52 +00:00`. The most recent
+created on `2020-06-17 04:15:16 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -22,15 +22,7 @@ I'm of the opinion it's not worth chasing ツ
 
 ---
 
-**Season 10 - Season of the Worthy**
-* Seventh Seraph Carbine ([PvP](#seventh-seraph-carbine---pvp), [PvE](#seventh-seraph-carbine---pve))
-* Seventh Seraph CQC-12 ([PvP](#seventh-seraph-cqc-12---pvp), [PvE](#seventh-seraph-cqc-12---pve))
-* Seventh Seraph Officer Revolver ([PvP](#seventh-seraph-officer-revolver---pvp), [PvE](#seventh-seraph-officer-revolver---pve))
-* Seventh Seraph SAW ([PvP](#seventh-seraph-saw---pvp), [PvE](#seventh-seraph-saw---pve))
-* Seventh Seraph SI-2 ([PvP](#seventh-seraph-si-2---pvp), [PvE](#seventh-seraph-si-2---pve))
-* Seventh Seraph VY-7 ([PvP](#seventh-seraph-vy-7---pvp), [PvE](#seventh-seraph-vy-7---pve))
-
-**Season 9 - Season of the Dawn**
+**Season 09 - Season of the Dawn**
 * Breachlight ([PvP](#breachlight---pvp), [PvE](#breachlight---pve))
 * Gallant Charge ([PvP](#gallant-charge---pvp), [PvE](#gallant-charge---pve))
 * Infinite Paths 8 ([PvP](#infinite-paths-8---pvp), [PvE](#infinite-paths-8---pve))
@@ -43,956 +35,21 @@ I'm of the opinion it's not worth chasing ツ
 * Traveler's Judgement 5 ([PvP](#travelers-judgement-5---pvp), [PvE](#travelers-judgement-5---pve))
 * Trophy Hunter ([PvP](#trophy-hunter---pvp), [PvE](#trophy-hunter---pve))
 
+**Season 10 - Season of the Worthy**
+* Seventh Seraph Carbine ([PvP](#seventh-seraph-carbine---pvp), [PvE](#seventh-seraph-carbine---pve))
+* Seventh Seraph CQC-12 ([PvP](#seventh-seraph-cqc-12---pvp), [PvE](#seventh-seraph-cqc-12---pve))
+* Seventh Seraph Officer Revolver ([PvP](#seventh-seraph-officer-revolver---pvp), [PvE](#seventh-seraph-officer-revolver---pve))
+* Seventh Seraph SAW ([PvP](#seventh-seraph-saw---pvp), [PvE](#seventh-seraph-saw---pve))
+* Seventh Seraph SI-2 ([PvP](#seventh-seraph-si-2---pvp), [PvE](#seventh-seraph-si-2---pve))
+* Seventh Seraph VY-7 ([PvP](#seventh-seraph-vy-7---pvp), [PvE](#seventh-seraph-vy-7---pve))
+
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
 * Bygones ([PvP](#bygones---pvp), [PvE](#bygones---pve))
+* Interference VI ([PvE](#interference-vi---pve))
 * Last Perdition ([PvP](#last-perdition---pvp), [PvE](#last-perdition---pve))
 
 ---
-## Seventh Seraph Carbine - PvP
-The Seventh Seraph Carbine (SSC) is a 450 RPM "Precision Frame" Kinetic Auto Rifle. Let's start with a quick comparison to randomly-rolled 450s, over on [light.gg](https://www.light.gg/db/items/compare/?h=BdCxNP;mJ1-6;Bqp0Wx;Fju9i;DmTiv3). In general the 450s are fairly the same stat-wise, with a material deviation in Aim Assist for the SSC; easily addressable with an Aim Assist mod. 
-
-Should you pick one up for use in Season 10? In Season 10, 600 RPM "Adaptive Frame" Auto Rifles are the meta (e.g. SUROS Regime, Monte Carlo, Hard Light). There's no pressing reason to chase SSC rolls for PvP.
-
-I personally love ARs, so I played with a [zero-Recoil, high Stability](https://d2gunsmith.com/w/DY2Aqw8sOokyOvhv0Wv1Ehw9zBP2FwQRxW2Ig9KX1MIo3LEpW) roll for several Iron Banner games, with both Enhanced Targeting and Enhanced Unflinching. I immediately wanted to go back to using my Arc Logic with Moving Target and Tap the Trigger :) The SSC is definitely a bit slower than you'd prefer (as are all 450 RPMs, even the vaunted Uriel's Gift these days). 
-
-That being said, if you enjoy Destiny's National Pasttime of shredding supers in sixes, a Vorpal-rolled SSC could be for you! If you're a fan of ARs or even just the SSC itself, why not pick one up and vault it just in case the meta changes? Here are a few things to keep in mind:
-
-* The lower the RPM the higher the range, and falloff for a base range SSC starts ~30m which is quite far in-game; probably at the maximum range you'd choose to engage with an Auto Rifle anyway.
-* I'm passing on `Threat Detector` because at that engagement range of 15m, you're going to feel like switching to your special weapon.
-* With a base `Recoil` of `74`, you're fine there. I shot a few magazines into a wall with `100` and the pattern was the same. Do not put on a `Counterbalance` mod or else you'll ruin the recoil pattern. 
-* I don't have any rolls featuring `Elemental Capacitor` because at some point you hit diminishing returns on all this `Stability`. I pivot around `Moving Target` because it's not something that many Auto Rifles can roll and it makes it far more lethal by directly addressing target acquisition.
-
-Here's a few rolls worth considering that you can put to work today!
-* **(PvP) Slif's "Pristine, Picture-Perfect Auto Rifle" 🧼📸 Collector's Edition (0.0% chance)**: This is my pristine, picture-perfect Auto Rifle roll. There's less than a 0.1% chance you get this, so if you do please buy us both a lottery ticket.
-  ```
-  Barrels [ 22%]: Polygonal Rifling
-  Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 16%]: Slideshot
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Pristine" 🧼📸 CE (Relaxed Barrels) (0.2% chance)**: Same as the above, relaxing the Barrels.
-  ```
-  Barrels [100%]: *
-  Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 16%]: Slideshot
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Pristine" 🧼📸 CE (Relaxed Magazines) (0.2% chance)**: Same as the above, relaxing the Magazines.
-  ```
-  Barrels [100%]: *
-  Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 16%]: Slideshot
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Pristine" 🧼📸 CE (Relaxed Slideshot) (0.2% chance)**: Slideshot is active for two seconds starting from the slide, so you really only have about one second to put it to use. Without it, this is still a phenomenal roll.
-  ```
-  Barrels [ 22%]: Polygonal Rifling
-  Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Pristine" 🧼📸 CE (Relaxed Slideshot and Masterwork) (0.9% chance)**: Same as the above, also relaxing the Masterwork.
-  ```
-  Barrels [ 22%]: Polygonal Rifling
-  Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [100%]: *
-  ```
-* **(PvP) Slif's "Classic AR" 🎩Collector's Edition (1.6% chance)**: Let's repeat the above set of rolls by widening the Barrel and Magazine options to anything that boosts `Stability`. We're also going to be removing `Slideshot`. It works for sure, but it's not worth holding us up from banking these rolls.
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Classic AR" 🎩 (Relaxed Barrels) (1.9% chance)**: Same as the above, relaxing the Barrels.
-  ```
-  Barrels [100%]: *
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Classic AR" 🎩 (Relaxed Magazines) (3.5% chance)**: Same as the above, relaxing the Magazines.
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
-  Mags    [100%]: *
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Classic AR" 🎩 (Relaxed Masterwork) (6.4% chance)**: Same as the above, relaxing the Masterworks.
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [100%]: *
-  ```
-* **(PvP) Slif's "Super Shredder" 💥 Collector's Edition (1.6% chance)**: Shredding supers in 6s is, we can all agree, Destiny's National Pastime. We're repeating the same set of relaxed rolls above, this time pivoting around Vorpal in the final column.
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Super Shredder" 💥 (Relaxed Barrels) (1.9% chance)**: Same as the above, relaxing the Barrels.
-  ```
-  Barrels [100%]: *
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Super Shredder" 💥 (Relaxed Magazines) (3.5% chance)**: Same as the above, relaxing the Magazines.
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
-  Mags    [100%]: *
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Super Shredder" 💥 (Relaxed Masterwork) (6.4% chance)**: Same as the above, relaxing the Masterworks.
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [100%]: *
-  ```
-## Seventh Seraph Carbine - PvE
-For its base stats and perks, there isn't a whole lot of reason to consider the SSC for PvE. While it does feature Swashbuckler and Rampage, it doesn't combine it with a reload-boosting perk like Feeding Frenzy or Outlaw. Breakneck, the Gambit Pinnacle weapon with the unique perk `Onslaught` is also 450 RPM and recently received a buff in Season 10. It shreds in PvE and since it's a Legendary weapon, it can take the Season 10 Artifact mods.
-Still, there's at least a couple of reasons why you might want to consider a SSC.
-1. It's a Seraph weapon! If you're running Warmind mods on your armor, Seraph weapons will spawn Warmind Cells.
-1. It can roll with `Fourth Time's the Charm` and `Vorpal` together, which activates on Champions and in the current Season 10, Auto Rifles can take Overload mods. In the future things will rotate back around to take Anti-Barrier too. The mag seems endless when dumping in to Champions and bosses; kinda cool :)
-* **(PvE) Slif's "Butter and Citrus Bar Shredder" 🧈🍊 (2.8% chance)**: This is designed for dumping rounds in to enemies in high(er) end PvE content. FTTC and Vorpal make the roll; without both you may as well use another Vorpal weapon. Based on the past two seasons, they won't be hard to come by :)
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 16%]: Fourth Time's the Charm
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Warmind Cell Generator" ☄️ (6.0% chance)**: Run-of-the-mill Auto-Rifle PvE slayer perk set here. If you like the look, feel and sound of the Carbine as I do, you'll do solid work with this roll.
-  ```
-  Barrels [ 83%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Polygonal Rifling, Fluted Barrel
-  Mags    [ 64%]: Flared Magwell, Light Mag, Alloy Magazine
-  Perks 1 [ 33%]: Threat Detector, Slideshot
-  Perks 2 [ 33%]: Swashbuckler, Rampage
-  MWorks  [100%]: *
-  ```
-## Seventh Seraph CQC-12 - PvP
-The CQC-12 is an 80 RPM "Lightweight Frame" shotgun in the energy slot. Through leveling the season pass, you unlock a chance for it to drop at the conclusion of Gambit, Crucible and Strike activities. You can't really "farm" it per se. The good news is that there's only four perks in the final two columns meaning it's not incredibly difficult to get the perks you might be interested in. See how it compares to other randomly-rolled 80 RPMs over on  [light.gg](https://www.light.gg/db/items/compare/?h=BslVBs;CEKlVP;Brud8B;DmKQYw). Statistically, they're all quite similar and like all shotguns, otherwise identical in barrels and magazines.
-
-Three reasons why the CQC is exciting for PvP:
-
-* Where the CQC-12 stands out from its kin is that it can roll with the vaunted Quickdraw + Snapshot pairing. No other 80 RPM shotgun can do this. Here's  [the list](https://www.light.gg/god-roll/?f=2,10\(Shotgun\),28:0\(706527188;957782887\)) of shotguns that can. Perhaps as a drawback however, it cannot roll with Opening Shot or Moving Target.
-* It can roll with Vorpal which means it can two-shot any super in PvP. If you'd like a little footage of DFP slaying with Vorpal (and an otherwise) near perfect roll, [here you go](https://youtu.be/30b4t1XZdi0?t=110).
-* It looks and sounds *amazing*, and that's like 80% of the reason to use a weapon :)
-
-Our first couple of roll sets will be classic shotgun rolls and the third will feature Vorpal; currently the only shotgun that can roll it!
-* **(PvP) Slif's "SnapDraw" 🖇 Collector's Edition (0.5% chance)**: Classic Destiny 2 shotgun roll.
-  ```
-  Barrels [ 60%]: Full Choke, Rifled Barrel
-  Mags    [ 52%]: Accurized Rounds, Light Mag
-  Perks 1 [ 25%]: Quickdraw
-  Perks 2 [ 25%]: Snapshot
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "SnapDraw" 🖇 CE (Relaxed Barrels) (0.8% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
-  ```
-  Barrels [100%]: *
-  Mags    [ 52%]: Accurized Rounds, Light Mag
-  Perks 1 [ 25%]: Quickdraw
-  Perks 2 [ 25%]: Snapshot
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "SnapDraw" 🖇 CE (Relaxed Magazines) (0.9% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
-  ```
-  Barrels [ 60%]: Full Choke, Rifled Barrel
-  Mags    [100%]: *
-  Perks 1 [ 25%]: Quickdraw
-  Perks 2 [ 25%]: Snapshot
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "SnapDraw" 🖇 CE (Relaxed Masterwork) (2.0% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
-  ```
-  Barrels [ 60%]: Full Choke, Rifled Barrel
-  Mags    [ 52%]: Accurized Rounds, Light Mag
-  Perks 1 [ 25%]: Quickdraw
-  Perks 2 [ 25%]: Snapshot
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Slideshot" 🎚Collector's Edition (0.5% chance)**: Quickdraw is great. Slideshot is also great!
-  ```
-  Barrels [ 60%]: Full Choke, Rifled Barrel
-  Mags    [ 52%]: Accurized Rounds, Light Mag
-  Perks 1 [ 25%]: Slideshot
-  Perks 2 [ 25%]: Snapshot
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Slideshot" 🎚 CE (Relaxed Barrels) (0.8% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
-  ```
-  Barrels [100%]: *
-  Mags    [ 52%]: Accurized Rounds, Light Mag
-  Perks 1 [ 25%]: Slideshot
-  Perks 2 [ 25%]: Snapshot
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Slideshot" 🎚 CE (Relaxed Magazines) (0.9% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
-  ```
-  Barrels [ 60%]: Full Choke, Rifled Barrel
-  Mags    [100%]: *
-  Perks 1 [ 25%]: Slideshot
-  Perks 2 [ 25%]: Snapshot
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Slideshot" 🎚 CE (Relaxed Masterwork) (2.0% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
-  ```
-  Barrels [ 60%]: Full Choke, Rifled Barrel
-  Mags    [ 52%]: Accurized Rounds, Light Mag
-  Perks 1 [ 25%]: Slideshot
-  Perks 2 [ 25%]: Snapshot
-  MWorks  [100%]: *
-  ```
-* **(PvP) Slif's "Super Shredder" 💥 Collector's Edition (1.0% chance)**: Your classic Destiny 2 shotgun roll swapping out Snapshot for Vorpal.
-  ```
-  Barrels [ 60%]: Full Choke, Rifled Barrel
-  Mags    [ 52%]: Accurized Rounds, Light Mag
-  Perks 1 [ 50%]: Quickdraw, Slideshot
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Super Shredder" 💥 CE (Relaxed Barrels) (1.6% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
-  ```
-  Barrels [100%]: *
-  Mags    [ 52%]: Accurized Rounds, Light Mag
-  Perks 1 [ 50%]: Quickdraw, Slideshot
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Super Shredder" 💥 CE (Relaxed Magazines) (1.9% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
-  ```
-  Barrels [ 60%]: Full Choke, Rifled Barrel
-  Mags    [100%]: *
-  Perks 1 [ 50%]: Quickdraw, Slideshot
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Super Shredder" 💥 CE (Relaxed Magazines) (2.0% chance)**: Vorpal is the star of the show here; still an amazing roll without Quickdraw!
-  ```
-  Barrels [ 60%]: Full Choke, Rifled Barrel
-  Mags    [ 52%]: Accurized Rounds, Light Mag
-  Perks 1 [100%]: *
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Super Shredder" 💥 CE (Relaxed Masterwork) (3.9% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
-  ```
-  Barrels [ 60%]: Full Choke, Rifled Barrel
-  Mags    [ 52%]: Accurized Rounds, Light Mag
-  Perks 1 [ 50%]: Quickdraw, Slideshot
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvP) Slif's "Gorilla's Delight" 🦍 (7.9% chance)**: Your basic, max-range shotgun roll for the shotgun ape deep inside all of us :)
-  ```
-  Barrels [ 60%]: Full Choke, Rifled Barrel
-  Mags    [ 52%]: Accurized Rounds, Light Mag
-  Perks 1 [100%]: *
-  Perks 2 [100%]: *
-  MWorks  [ 25%]: Range MW
-  ```
-## Seventh Seraph CQC-12 - PvE
-This section will be straightforward :) All of our rolls are toing to be centered around Trench Barrel. It provides a 50% damage boost vs. Vorpal's 15%. Trench Barrel takes a melee to activate, but with shotguns you have to be in melee range anyway, so you're good!
-
-This isn't a "run and gun" shotgun. There are no damage-boosting perks, like Swashbuckler or Rampage, you have Slideshot and Auto-Loading Holster but so do plenty of other shotguns.
-* **(PvE) Slif's "Butter and Citrus Bar Shredder" 🧈🍊Collector's Edition (1.3% chance)**: We're basing these next few rolls around Trench Barrel. Quickdraw will help with swapping from the hits between Trench Barrel activations.
-  ```
-  Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
-  Mags    [ 52%]: Assault Mag, Appended Mag
-  Perks 1 [ 25%]: Quickdraw
-  Perks 2 [ 25%]: Trench Barrel
-  MWorks  [ 50%]: Handling MW, Reload MW
-  ```
-* **(PvE) "Butter Shredder" 🧈🍊 (Relaxed Masterworks) (2.6% chance)**: Same as the above, minus the Masterworks
-  ```
-  Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
-  Mags    [ 52%]: Assault Mag, Appended Mag
-  Perks 1 [ 25%]: Quickdraw
-  Perks 2 [ 25%]: Trench Barrel
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Butter Shredder" 🧈🍊 (Relaxed Perks) (5.2% chance)**: Same as the above, minus Quickdraw
-  ```
-  Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
-  Mags    [ 52%]: Assault Mag, Appended Mag
-  Perks 1 [100%]: *
-  Perks 2 [ 25%]: Trench Barrel
-  MWorks  [ 50%]: Handling MW, Reload MW
-  ```
-* **(PvE) "Butter Shredder" 🧈🍊 (Fully Relaxed) (10.5% chance)**: Same as the above, minus the Masterworks and Quickdraw
-  ```
-  Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
-  Mags    [ 52%]: Assault Mag, Appended Mag
-  Perks 1 [100%]: *
-  Perks 2 [ 25%]: Trench Barrel
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Warmind Cell Generator" ☄️ Collector's Edition (10.5% chance)**: Lots of reloading with plenty of handling and stability to go around.
-  ```
-  Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
-  Mags    [ 52%]: Assault Mag, Appended Mag
-  Perks 1 [ 50%]: Auto-Loading Holster, Slideshot
-  Perks 2 [100%]: *
-  MWorks  [ 50%]: Handling MW, Reload MW
-  ```
-* **(PvE) "Warmind Cell Generator" ☄️ CE (Relaxed Masterworks) (21.0% chance)**: You kinda just want one of these to generate Warmind Cells.
-  ```
-  Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
-  Mags    [ 52%]: Assault Mag, Appended Mag
-  Perks 1 [ 50%]: Auto-Loading Holster, Slideshot
-  Perks 2 [100%]: *
-  MWorks  [100%]: *
-  ```
-## Seventh Seraph Officer Revolver - PvP
-The Officer Revolver is a 180 RPM Kinetic Hand Cannon. See how it compares to other 180 RPM Hand Cannons over on [light.gg](https://www.light.gg/db/items/compare/?h=C1DOIY;xtxS0;DzBRNi) Let's start off with Mercules and Kyt from the latest Massive Breakdown podcast. Turns out they [aren't super hot](https://soundcloud.com/destinymassivebreakdowns/episode-156-seventh-seraph-weapons-breakdown#t=33:44) on the Officer's Revolver.
-
-> **Mercules:** *"Noticably worse than every other Precision hand cannon except for Trust, which has better Aim Assist and Recoil then the Officer's. Statistically, Officer's is not a super impressive hand cannon."*
-
-Personally I think that's overstating things. The Service Revolver isn't **that** much different in terms of base stats. Trust is clearly better but not insanely-so. That being said, it's a 180 and the 180s haven't been part of the PvP meta in quite a while. If they were any stonger they'd be three-tapping and that would make them far too strong. I agree with Mercules' position that given how easy they are to use, they have a balanced TTK.
-
-
-Now let's check out [Drewsky's thoughts](https://www.youtube.com/watch?v=W3kCNDYUnzM), who finds the novel perks like Firmly Planted and Timed Payload worth strong consideration. Notably, he had previously [released a video](https://www.youtube.com/watch?v=IevtKKR_YxM) wishing for more Hand Cannons to have Firmly Planted.
-> **Drewsky:** *"I think this is actually a pretty competitive group of stats especially compared to a lot of the other 180 RPM hand cannons. What makes it special is that it has a group of pretty competitive stats; maybe not the best stats but maybe the best perk pool in combination with those stats available on a 180."*
-
-Vorpal and Timed Payload are uniquely available on the Officer Revolver. I personally love Vorpal in PvP and love the idea of Timed Payload, but I've always liked variety more than than the objective, optimal meta. If that partially describes you and you're interested in bagging a few PvP rolls, read on!
-> **Drewsky:** *"Prioritizing Range while giving the best oveall stat package possible."*
-
-I only partially agree with Drewsky here. Going back to our understanding of the new compressed range on Hand Cannons, we can cite some science from CoolGuy: "(35 Range = 25m falloff, 86 Range = 28m)". I'm not sure I'd want to blow valuable Magazine and Barrel slots for one to three meters of falloff.
-
-The good news is that the wishlist can support multiple perspectives! I'll put together a set of Range-prioritizing rolls representing Drewsky's perspective, and a set of Handling/Stability prioritizing rolls. There is no "baseline" roll for the Officer Revolver because the baseline stats aren't what make this weapon interesting. There are plenty of other 140s and 150s that you'd prioritize over this if you were just looking for a workhorse PvP Hand Cannon.
-* **(PvP) Drewsky's "Planted Range" 🏔🌱🏔🌱🏔🌱Collector's Edition (0.1% chance)**: *"Timed Payload?! That's supposed to be positively horrible. Doesn't it lower your TTK?"* Well, it causes double the flinch and the explosion has no range falloff. On a 180 RPM Hand Cannon, Timed Payload shouldn't lower the TTK (Drewsky didn't have one on hand to verify the math) as you would be getting the kill on the last bullet and not on the last 17 damage from Timed Payload. Vorpal is great for shredding supers.
-  ```
-  Barrels [ 22%]: Hammer-Forged Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 16%]: Firmly Planted
-  Perks 2 [ 33%]: Timed Payload, Vorpal
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Magazine) (0.3% chance)**: Same as the above, minus Accurized Rounds. We're getting so much additional range from the Magazine and Masterwork, we're ok to lose out on it here.
-  ```
-  Barrels [ 22%]: Hammer-Forged Rifling
-  Mags    [100%]: *
-  Perks 1 [ 16%]: Firmly Planted
-  Perks 2 [ 33%]: Timed Payload, Vorpal
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Planting) (0.5% chance)**: Scratch Firmly Planted which might not be to everyone's playstyle or preference and still leaves you with a super unique roll.
-  ```
-  Barrels [ 22%]: Hammer-Forged Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 33%]: Timed Payload, Vorpal
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Masterwork) (0.3% chance)**: Scratch the Range MW. We're getting so much range from the Barrel  and Magazine anyway.
-  ```
-  Barrels [ 22%]: Hammer-Forged Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 16%]: Firmly Planted
-  Perks 2 [ 33%]: Timed Payload, Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Magazine and Planting) (1.9% chance)**: Same as the above, again minus Firmly Planted.
-  ```
-  Barrels [ 22%]: Hammer-Forged Rifling
-  Mags    [100%]: *
-  Perks 1 [100%]: *
-  Perks 2 [ 33%]: Timed Payload, Vorpal
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Planting and Masterwork) (1.9% chance)**: Same as the above, again minus Firmly Planted and the Masterwork.
-  ```
-  Barrels [ 22%]: Hammer-Forged Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 33%]: Timed Payload, Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Expanded Range" CE 🏔🌱 (0.2% chance)**: Let's add all of the Range-enhancing Barrels and repeat this set of rolls.
-  ```
-  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 16%]: Firmly Planted
-  Perks 2 [ 33%]: Timed Payload, Vorpal
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Expanded Range" CE 🏔🌱(Relaxed Magazine) (0.8% chance)**: Same as the above, minus Accurized Rounds. We're getting so much additional range from the Magazine and Masterwork, we're ok to lose out on it here.
-  ```
-  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 16%]: Firmly Planted
-  Perks 2 [ 33%]: Timed Payload, Vorpal
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Expanded Range" CE 🏔🌱(Relaxed Planting) (1.2% chance)**: Scratch Firmly Planted which might not be to everyone's playstyle or preference and still leaves you with a super unique roll.
-  ```
-  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 33%]: Timed Payload, Vorpal
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Expanded Range" CE 🏔🌱(Relaxed Masterwork) (0.8% chance)**: Scratch the Range MW. We're getting so much range from the Barrel  and Magazine anyway.
-  ```
-  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 16%]: Firmly Planted
-  Perks 2 [ 33%]: Timed Payload, Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Expanded Range" CE 🏔🌱(Relaxed Magazine and Planting) (1.9% chance)**: Same as the above, again minus Firmly Planted.
-  ```
-  Barrels [ 22%]: Hammer-Forged Rifling
-  Mags    [100%]: *
-  Perks 1 [100%]: *
-  Perks 2 [ 33%]: Timed Payload, Vorpal
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvP) "Expanded Range" CE 🏔🌱(Relaxed Planting and Masterwork) (4.9% chance)**: Same as the above, again minus Firmly Planted.
-  ```
-  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 33%]: Timed Payload, Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvP) Slif's "Ticking Timebomb" ⏰ Collector's Edition (1.2% chance)**: Interested in Timed Payload? Let's broaden Drewsky's roll above and include any decent Barrel or Magazine.
-  ```
-  Barrels [ 91%]: Fluted Barrel, Arrowhead Brake, Smallbore, Polygonal Rifling, Corkscrew Rifling, Hammer-Forged Rifling
-  Mags    [ 64%]: Accurized Rounds, Flared Magwell, Tactical Mag
-  Perks 1 [ 16%]: Firmly Planted
-  Perks 2 [ 16%]: Timed Payload
-  MWorks  [ 75%]: Range MW, Handling MW, Stability MW
-  ```
-* **(PvP) "Timebomb" ⏰ CE (7.4% chance)**: Same as the above, relaxing Firmly Planted since that's not going to be to everyone's preference.
-  ```
-  Barrels [ 91%]: Fluted Barrel, Arrowhead Brake, Smallbore, Polygonal Rifling, Corkscrew Rifling, Hammer-Forged Rifling
-  Mags    [ 64%]: Accurized Rounds, Flared Magwell, Tactical Mag
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Timed Payload
-  MWorks  [ 75%]: Range MW, Handling MW, Stability MW
-  ```
-* **(PvP) Slif's "Super Shredder" 💥 Collector's Edition (1.2% chance)**: Interested in shredder supers? Of course you are. Let's broaden Drewsky's roll above and include any decent Barrel or Magazine while basing this around Vorpal.
-  ```
-  Barrels [ 91%]: Fluted Barrel, Arrowhead Brake, Smallbore, Polygonal Rifling, Corkscrew Rifling, Hammer-Forged Rifling
-  Mags    [ 64%]: Accurized Rounds, Flared Magwell, Tactical Mag
-  Perks 1 [ 16%]: Firmly Planted
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [ 75%]: Range MW, Handling MW, Stability MW
-  ```
-* **(PvP) "Super Shredder" 💥CE (7.4% chance)**: Same as the above, relaxing Firmly Planted since that's not going to be to everyone's preference.
-  ```
-  Barrels [ 91%]: Fluted Barrel, Arrowhead Brake, Smallbore, Polygonal Rifling, Corkscrew Rifling, Hammer-Forged Rifling
-  Mags    [ 64%]: Accurized Rounds, Flared Magwell, Tactical Mag
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [ 75%]: Range MW, Handling MW, Stability MW
-  ```
-## Seventh Seraph Officer Revolver - PvE
-There are so many great Hand Cannons for general purpose add shredding that you can skip the Officer's Revolver if you don't feel like adding another one to your vault. Personally I had a perfectly rolled Service Revolver (Rapid-Hit + Kill Clip) and never used it because it couldn't one-tap red bar adds - a 140 or 150 with Kill Clip ends up being my preferred.
-
-"OK Slif, so why do you even have a PvE section here?"
-1. Most importantly, it's a Seraph weapon! If you're running Warmind mods on your armor, Seraph weapons will spawn Warmind Cells.
-1. It can roll with Vorpal, which activates on Champions and in the current Season 10, Hand Cannons can take Overload and Unstoppable mods (and in the future will rotate back around to take Anti-Barrier mods I'm sure).
-
-"Whatevs, I've never been a fan of Vorpal and I don't really care about the seasonal stuff" - all good, stop reading and farm something else! It can also roll with Osmosis but with how great Hard Light and Borealis are, I can't imagine preparing for a difficult Strike or Nightmare Hunt and saying "Oh let me grab my Officer's Revolver with Osmosis to help us out!" 😉
-* **(PvE) Slif's "Butter and Citrus Bar Shredder" 🧈🍊 (2.8% chance)**: This is designed for dumping rounds in to enemies in high(er) end PvE content. We don't need to be any more specific here; the other columns and Masterwork aren't deal-breakers or roll-makers. By itself, Vorpal isn't strong enough to recommend this over other Kinetics. **WARNING**: It's possible that a PvP roll without a preference in the FTTC column will "take" this roll. Bear in mind that might have this roll and it would be lit up as a PvP roll.
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 16%]: Fourth Time's the Charm
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvE) Warmind Cell Generator (Aggressive) ☄️ (3.6% chance)**: You'll do solid work with in lower/middle tier PvE content (e.g. your daily bounty grinds, Vanguard Strike playlist).
-  ```
-  Barrels [100%]: *
-  Mags    [ 64%]: Drop Mag, Alloy Magazine, Flared Magwell
-  Perks 1 [ 33%]: Threat Detector, Ambitious Assassin
-  Perks 2 [ 16%]: Multikill Clip
-  MWorks  [100%]: *
-  ```
-* **(PvE) Warmind Cell Generator (Passive) 🌬 (5.6% chance)**: Similar to the above, but since we have Feeding Frenzy for fast reloads, we can relax our magazines.
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 33%]: Threat Detector, Ambitious Assassin
-  Perks 2 [ 16%]: Feeding Frenzy
-  MWorks  [100%]: *
-  ```
-## Seventh Seraph SAW - PvP
-Drewsky has a great review of the [Bane of Sorrow](https://www.youtube.com/watch?v=G7hqmrV1pk0), another 360 RPM "High-Impact Frame" Machine Gun. From the review, it hits for 48 crit / 38 body (TTK 0.5s / 0.83s). It's got terrific range and flinches like crazy.
-
-That being said, it's still a Machine Gun which tends not to be the pick for PvP... BUT... BUT! The SAW can roll with `Opening Shot` in the final column. Because the rate of fire is so low, you can single tap out shots and get crits across the map. Try out some Machine Gun sniping in Mayhem and let me know how that works out for you 🎯
-
-Otherwise, there's no pressing reason to farm for a SAW for PvP, at least none moreso than any other Machine Gun.
-* **(PvP) Slif's "Sniper MG" 🎯 Collector's Edition (0.5% chance)**: Any basic roll will chew up Guardians with a lot of flinch. Let's add `Range` and `Stability` where we can, while seeing what `Opening Shot` can do.
-  ```
-  Barrels [ 22%]: Hammer-Forged Rifling
-  Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Opening Shot
-  MWorks  [ 50%]: Range MW, Stability MW
-  ```
-* **(PvP) "Sniper MG" 🎯 (Relaxed Barrels) (1.7% chance)**: Same as the above, with any Range/Stability-enhancing Barrel
-  ```
-  Barrels [ 83%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Polygonal Rifling, Fluted Barrel
-  Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Opening Shot
-  MWorks  [ 50%]: Range MW, Stability MW
-  ```
-* **(PvP) "Sniper MG" 🎯 (Relaxed Magazines) (5.5% chance)**: Same as the above, with any Range/Stability-enhancing Magazine
-  ```
-  Barrels [ 83%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Polygonal Rifling, Fluted Barrel
-  Mags    [ 78%]: Ricochet Rounds, High-Caliber Rounds, Light Mag, Armor-Piercing Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Opening Shot
-  MWorks  [ 50%]: Range MW, Stability MW
-  ```
-* **(PvP) "Sniper MG" 🎯 (Relaxed Masterworks) (10.9% chance)**: Same as the above, with any Masterwork
-  ```
-  Barrels [ 83%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Polygonal Rifling, Fluted Barrel
-  Mags    [ 78%]: Ricochet Rounds, High-Caliber Rounds, Light Mag, Armor-Piercing Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Opening Shot
-  MWorks  [100%]: *
-  ```
-## Seventh Seraph SAW - PvE
-The SAW is 360 RPM "High-Impact Frame" Machine Gun and is an absolute monster in PvE. *"But Slif, everyone says Machine Guns are crap for DPS so why do you even have a PvE section?!?"*
-
-Walk with me, grasshopper.
-
-This is going to be a long one because I haven't found any super detailed coverage of the SAW (or any other Seraph weapon save for the Hand Cannon). Fortunately since a High-Impact is a High-Impact (at base), Drewsky has a great review of the [Bane of Sorrow](https://www.youtube.com/watch?v=G7hqmrV1pk0) that's definitely worth watching! The SAW can't roll with most of the perks he discussed in that video, but it's still super solid at its base.
-
-* It's a Seraph weapon which means it generates Warmind Cells if you have Warmind mods equipped (Season 10).
-* As a High-Impact Frame, the SAW keeps anything it doesn't kill practically stun-locked. As the difficulty of PvE content increases, this becomes super important. Even if you're not doing Grandmaster Nightfalls, flinching challenging adds sure makes things more straightforward. Keeping the bosses flinched as they march towards your plate during a Seraph Tower event comes in handy!
-* Its base effecive `Range` is amazing. Damage falloff starts ~45m and is reasonable up to ~50m (-5%). You're talking maximum damage at Scout Rifle ranges. At maximum range, the sight overlaps your target because MGs don't have high-zoom sights/scopes. *This is why I'm not suggesting any `Range` boosting below - when I pushed the `Range` to `93` falloff and floors were unchanged and the recoil/handling will make it challenging to stay on target anyway.*
-* It's the only Machine Gun that can roll with `Vorpal` or `Firing Line` in the final column, which provide 15% and 25% damage boosts, respectively. Those are substantial increases to damage without requiring a kill or reload to activate. 
-
-If you're still not bought in, that's cool 😀👋. If you're still here, let's get those rolls! In order of importance:
-
-* Column 3:
-  * ✅`Field Prep` is far and away the winner. It grants a whopping 25%
-  more in reserve (223 to 278), speeds up your reload time by two seconds
-  (~5.5s to ~3.5s) and increases ready and stow speed. For PvE, nothing
-  else comes close. By the way, within 45m at 1,222 to 1,716 damage,
-  that's an extra 67k - 94k damage available to you.
-
-  * ❌`Auto-Loading Holster` and `Grave Robber` are the other two reload
-  perks in this column and neither is worth giving up the reserve and
-  handling bonuses that `Field Prep` provides.
-
-* Column 4:
-  * ✅`Firing Line`: 25% damage boost when near two teammates. In
-PvE content you're nearly always with your fireteam: Strikes, Raids, Menagerie, Vex Offensive, Sundial, Seraph Towers... I'm comfortable reccomending `Firing Line` in general. It has double utility in dealing with adds and on boss DPS. Granted it's not your go-to for boss damage but since you already have it equipped for adds and Champions, may as well have something to do with all this ammo when you're on the boss!
-
-  * ✅`Vorpal`: 15% damage boost to yellow bars and Champions. It's
-a solid pick if you don't have one with `Firing Line`.
-
-  * ❌`Mulligan`: Nope. You shouldn't be missing many shots and the
-opportunity cost of Mulligan is too high. At maximum range on the Tribute Hall Ogre, I was hitting at least 50% crits at the base `Recoil` and no `Stability` boosts.
-
-  * ❌`Opening Shot`: This is interesting because at 360 RPM you can tap
-out one bullet at a time, turning this in to kind of an incredibly high-impact Scout Rifle. Situationally cool but you can still use the SAW like this just fine without it. Arguably more of an off-meta PvP pick.
-
-  * ❌`Elemental Capacitor`: While large, the effect of any of these
-increases pales in comparison to significantly higher damage output. You can also get each of the benefits through other perks or armor mods. This isn't a case in general against `Capacitor`, just on this particular weapon.
-
-  * ❌`Disruption Break`: A 50% Kinetic damage bonus debuff is nothing to
-sneeze at! This is a niche pick for when you're up against Arc shields because in a Match Game activity, you won't do enough damage to break non-matching shields. Myself, if I'm hopping in to a difficult PvE activity I'm going to get more general, always-on use from Firing Line.
-Otherwise we're shooing for higher Stability
-* **(PvE) Slif's "Together Forever" 🤝♬ Collector's Edition (0.6% chance)**: With other Guardians at your side, you will rip through hordes of aliens no problem. We're taking any Barrel that increases Stability and magazine-extended... Magazines. Extended Magazine would normally be a hot mess with a base `Reload` so low, but with Field Prep it only takes the reload from ~3.5s to ~4.5s (still 1s shorter than the base `Reload`).
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel
-  Mags    [ 46%]: Appended Mag, Extended Mag
-  Perks 1 [ 20%]: Field Prep
-  Perks 2 [ 16%]: Firing Line
-  MWorks  [ 50%]: Stability MW, Range MW
-  ```
-* **(PvE) "Together Forever" 🤝♬ (Relaxed Barrels) (0.8% chance)**: Same as the above, sans Barrels.
-  ```
-  Barrels [100%]: *
-  Mags    [ 46%]: Appended Mag, Extended Mag
-  Perks 1 [ 20%]: Field Prep
-  Perks 2 [ 16%]: Firing Line
-  MWorks  [ 50%]: Stability MW, Range MW
-  ```
-* **(PvE) "Together Forever" 🤝♬ (Relaxed Magazines) (1.2% chance)**: Same as the above, sans Magazines.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Field Prep
-  Perks 2 [ 16%]: Firing Line
-  MWorks  [ 50%]: Stability MW, Range MW
-  ```
-* **(PvE) "Together Forever" 🤝♬ (Relaxed Masterworks) (1.1% chance)**: Same as the above, sans Masterworks.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel
-  Mags    [ 46%]: Appended Mag, Extended Mag
-  Perks 1 [ 20%]: Field Prep
-  Perks 2 [ 16%]: Firing Line
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Together Forever" 🤝♬ (Relaxed Magazines and Masterwork) (2.4% chance)**: Same as the above, sans Magazines and Masterwork requirements.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Field Prep
-  Perks 2 [ 16%]: Firing Line
-  MWorks  [100%]: *
-  ```
-* **(PvE) Slif's "Just... Together" 🤝Baseline Roll (3.3% chance)**: With just the core perks, you have an absolutely phenomenal Machine Gun! If you get this, you can stop farming because the delta between this roll and allll the ones above is minimal.
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Field Prep
-  Perks 2 [ 16%]: Firing Line
-  MWorks  [100%]: *
-  ```
-## Seventh Seraph SI-2 - PvP
-The SI-2 is the 2020 version of the Anonymous Autumn (Kyt: *"which is the best-in-class for lightweight sidearms"*) and is the only other randomly rolled 360 RPM Energy sidearm. Mercules is on the same page: *"It (SI-2) doesn't have great Stability or great Range. I would pick a well-rolled Anonymous Autumn over this every time."* Why do they say that? It's got basically the same stats as an Anonymous Autumn but has 33% less Range and 20% less Stability. On the plus side the SI-2 has 7% better Handling (64 > 69) 🙃
-
-Even TrueVanguard, who absolutely loves the Anonymous Autumn (with over 14,000 kills) depicts the SI-2 as situational, relying primarily on Vorpal to justify using it. Check out [his thoughts](https://www.youtube.com/watch?v=cCtP2PjAEgY).
-
-If you are going to consider the SI-2 for PvP, a few things to keep in mind:
-* The recoil direction is 95, so no need to worry about straightening it out. I.e. the +Recoil barrels shouldn't be your first pick. Instead, focus on Range and Stability.
-* Full Auto is going to be a make-or-break perk for some, as many guardians have a love-it-or-hate-it relationsihp with single-shot sidearms. If that's your thing, know that no other perk in that column is a must-have. I find that 360s are unsuable for me without it, so I'll be picking one of these up to see how it plays with Vorpal. 
-
-On to the rolls!
-* **(PvP) Slif's "Full Auto Super Shredder" 💥Collector's Edition (0.8% chance)**: These rolls aren't super tight on the Barrel and Magazine front because they aren't going to dramatically alter the value of the overall roll. Vorpal is really the key here. Without Vorpal, you're better off using the better-rolled Anonymous Autumn as mentioned above. Otherwise we're going for +Range and +Stability wherever we can get it.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling
-  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
-  Perks 1 [ 16%]: Full Auto Trigger System
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [ 50%]: Stability MW, Range MW
-  ```
-* **(PvP) "Full Auto Super Shredder" 💥(Minus Masterworks) (1.6% chance)**: The presence or lack of the right masterwork isn't a deal-breaker.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling
-  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
-  Perks 1 [ 16%]: Full Auto Trigger System
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Threat Level Super Shredder" 🧵 (0.8% chance)**: Same setup as the above, but we're swapping out Full Auto and bringing in Threat Detector.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling
-  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
-  Perks 1 [ 16%]: Threat Detector
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [ 50%]: Stability MW, Range MW
-  ```
-* **(PvP) "Threat Level" 🧵(Minus Masterworks) (1.6% chance)**: The presence or lack of the right masterwork isn't a deal-breaker.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling
-  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
-  Perks 1 [ 16%]: Threat Detector
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Basic Super Shredder" ⚙️ (4.7% chance)**: No first column perk! If you really want Vorpal on your Energy sidearm, here ya go.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling
-  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [ 50%]: Stability MW, Range MW
-  ```
-* **(PvP) "Basic Shredder" ⚙️ (Minus Masterworks) (9.5% chance)**: Same as the above without a Masterwork restriction.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling
-  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [100%]: *
-  ```
-## Seventh Seraph SI-2 - PvE
-Like all other Seraph weapons, the SI-2 contributes to the generation of Warmind cells in PvE. If that's not your thing, you can pretty much pass on this weapon full stop. Since it can roll with Dragonfly, it could have made beautiful music with the `Wrath of Rasputin` Warmind mod: `Solar splash damage final blows have a chance to create Warmind Cells`. Unfortunately the SI-2 is a Void weapon 👿
-
-That being said, there are a few combos that could prove interesting for the discerning collector / sidearm aficionado.
-* **(PvE) "Sparks Flying" 🎇 (2.8% chance)**: The SI-2 is the only sidearm in the game that can roll with both Demolitionist and Dragonfly. That's exciting because Demolitionist counts the Dragonfly collateral kills towards getting your grenade back. Don't forget the `Dragonfly Spec` mod from Ada-1!
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 16%]: Demolitionist
-  Perks 2 [ 16%]: Dragonfly
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Champion Slayer" 🏆 (2.8% chance)**: Sidearms are all the rage in the Season 10 Artifact, and certainly will be again at some point in the future. If you want to dump rounds in to Champions, you don't have any other options in this slot.
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 16%]: Full Auto Trigger System
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvE) "You're Trapped In Here With Me" 🏢 (2.8% chance)**: Like Grave Robber and Swashbuckler, these two perks play super well off each other. If you love sidearms, considering adding this to your collection. You'll do some serious damage during Seraph Tower events.
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 16%]: Threat Detector
-  Perks 2 [ 16%]: Surrounded
-  MWorks  [100%]: *
-  ```
-## Seventh Seraph VY-7 - PvP
-The VY-7 is a 600 RPM Energy "Precision Frame" SMG. Here's how it compares to all other randomly-rolled 600 RPM SMGs on [light.gg](https://www.light.gg/db/items/compare/?h=trStZ;CYr9QP;CQZu7f;B9hF8b;). It's competitive base-stat-wise but there's a reason you've probably never been killed by any of these weapons (or any SMG for that matter) since the first year of Destiny 2. In Season 10 with the recent Adaptive Auto Rifle buff, Auto Rifles outclass SMGs and failing ARs, both sidearms and shotguns are going to frustrate the hell out of you.
-
-Forget it right? But do you remember this world?
-
-* [Antiope-D's FINAL FORM! (God Roll)](https://www.youtube.com/watch?v=zxnkTvtuXEA) - Destiny Fun Police
-* [The Perfect Antiope-D does exist!](https://www.youtube.com/watch?v=M3tC-IkkFRU) - CammyCakes
-* [Antiope-D and Sniping = New Meta ?](https://www.youtube.com/watch?v=yjG32gyUh_w) - ZkMushroom
-
-The VY-7 is an Energy Antiope-D (the basic stat variances are immaterial in practice). Yes it's not the meta now, but a solid roll might be worth throwing in the vault.
-
-"Why don't any of these rolls value `Range`?" The difference between the base range of `59` and let's say `80` (using Accurized Rounds, etc.) buys you about a whopping one meter of falloff (~16 to ~17m). I don't value buffing Range all that highly on the VY-7. It's not that it's *bad* per se, it's just that the opportunity cost is high.
-* **(PvP) Slif's "Weird Auto Rifle but OK" 🤷‍♂️🌱 Collector's Edition (0.7% chance)**: We're going to use a Counterbalance Mod to get the Recoil to 100, so we can go for Stability-enhancing Barrel options. Wait, what the hell is `Elemental Capacitor` doing in there?! The Handling and Stability bonuses are material. The Stability bonus is the most noticeable,  [estimated](https://youtu.be/D_Mv-AdfYqM?t=36) to be around `20 points`. You *absolutely* feel the difference with `Elemental Capacitor` active (don't forget to swap weapons if you're testing it) so I won't be relaxing it on these rolls. I think there's not much of a point to this SMG above other Energy weapons unless you can flex what makes it unique, and `Elemental Capacitor` certainly does that.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 25%]: Firmly Planted
-  Perks 2 [ 25%]: Elemental Capacitor
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Weird AR" 🤷‍♂️🌱 (Relaxed Barrels) (1.0% chance)**: Same as the above with relaxed Barrels.
-  ```
-  Barrels [100%]: *
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 25%]: Firmly Planted
-  Perks 2 [ 25%]: Elemental Capacitor
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Weird AR" 🤷‍♂️🌱 (Relaxed Magazines) (1.1% chance)**: Same as the above with relaxed Magazines.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 25%]: Firmly Planted
-  Perks 2 [ 25%]: Elemental Capacitor
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Weird AR" 🤷‍♂️🌱 (Relaxed Magazines and Masterworks) (4.5% chance)**: Same as the above with relaxed Magazines and Masterworks.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 25%]: Firmly Planted
-  Perks 2 [ 25%]: Elemental Capacitor
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Weird AR" 🤷‍♂️🌱 (Relaxed Masterworks) (2.9% chance)**: Same as the above with relaxed Masterworks.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 25%]: Firmly Planted
-  Perks 2 [ 25%]: Elemental Capacitor
-  MWorks  [100%]: *
-  ```
-* **(PvP) Slif's "Ain't Nobody Gonna Hold Me Down" 👋 Collector's Edition (2.9% chance)**: Repeating the prior set of rolls without `Firmly Planted`.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 25%]: Elemental Capacitor
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "No Holding" 👋 (Relaxed Barrels) (4.0% chance)**: Same as the above with relaxed Barrels.
-  ```
-  Barrels [100%]: *
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 25%]: Elemental Capacitor
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "No Holding" 👋 (Relaxed Magazines) (4.5% chance)**: Same as the above with relaxed Magazines.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [100%]: *
-  Perks 2 [ 25%]: Elemental Capacitor
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "No Holding" 👋 (Relaxed Masterworks) (11.6% chance)**: Same as the above with relaxed Masterworks.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 25%]: Elemental Capacitor
-  MWorks  [100%]: *
-  ```
-* **(PvP) Slif's "Planted Super Shredder" 💥🌱 Collector's Edition (0.7% chance)**: Same as our initial set of rolls, pivoting around `Vorpal` if you love shredding supers in PvP, which we can all agree is Destiny's National Pasttime.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 25%]: Firmly Planted
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Planted Shredder" 💥🌱 (Relaxed Barrels) (1.0% chance)**: Same as the above with relaxed Barrels.
-  ```
-  Barrels [100%]: *
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 25%]: Firmly Planted
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Planted Shredder" 💥🌱 (Relaxed Magazines) (1.1% chance)**: Same as the above with relaxed Magazines.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 25%]: Firmly Planted
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Planted Shredder" 💥🌱 (Relaxed Masterworks) (2.9% chance)**: Same as the above with relaxed Masterworks.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 25%]: Firmly Planted
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvP) Slif's "Super Shredder" 💥 Collector's Edition (2.9% chance)**: Repeating the same set of rolls as above, without `Firmly Planted`.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Super Shredder" 💥 (Relaxed Barrels) (4.0% chance)**: Same as the above with relaxed Barrels.
-  ```
-  Barrels [100%]: *
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Super Shredder" 💥 (Relaxed Magazines) (4.5% chance)**: Same as the above with relaxed Magazines.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [100%]: *
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Super Shredder" 💥 (Relaxed Masterworks) (11.6% chance)**: Same as the above with relaxed Masterworks.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [100%]: *
-  ```
-## Seventh Seraph VY-7 - PvE
-The VY-7 is the only SMG that's able to roll with Vorpal and you'll want one of these for two reasons:
-
-* The VY-7 is a Seraph weapon and contributes to the generation of Warmind Cells.
-* SMGs are eligible for certain Season 10 Artifact weapon mods.
-
-...so let's come up with some rolls that help shred Champions and generate Warmind Cells (i.e. shred adds).
-
-You must absolutely run a `Counterbalance` Mod or otherwise fix the Recoil with `Arrowhead Brake` or `Chambered Compensator`. Even though its base Recoil is `91` it's still a hot mess to control, esp. with its low Handling. For the rolls below I'm going to assume you're rolling with a `Counterbalance` Mod installed.
-* **(PvE) "Champion Shredder" 🏆💥 Collector's Edition (0.7% chance)**: Whenever SMGs are up on the Artifact, you'll want Vorpal to help shred through Champions. FTTC might seem like a strange choice for an SMG but the rate of fire is so fast, you'd be surprised how often it you end up getting it to proc. I won't be relaxing either Vorpal or FTTC on these rolls because just one of either would mean that it's not worth using this over something else in the Energy slot.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 25%]: Fourth Time's the Charm
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvE) "Champion Shredder" 🏆💥 (Relaxed Barrels) (1.0% chance)**: Same as the above, relaxing Barrels.
-  ```
-  Barrels [100%]: *
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 25%]: Fourth Time's the Charm
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvE) "Champion Shredder" 🏆💥 (Relaxed Magazines) (1.1% chance)**: Same as the above, relaxing Magazines.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 25%]: Fourth Time's the Charm
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvE) "Champion Shredder" 🏆💥 (Relaxed Masterwork) (2.9% chance)**: Same as the above, relaxing the MW since we have so much Stability from other columns.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 25%]: Fourth Time's the Charm
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Champion Shredder" 🏆💥 (Relaxed Magazines and Masterwork) (4.5% chance)**: Same as the above, relaxing the MW and Magazines since we'll get Stability from the Barrels at a higher chance and amount.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 25%]: Fourth Time's the Charm
-  Perks 2 [ 25%]: Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Frenzied Cell Generator" 😡☄️ Collector's Edition (0.7% chance)**: Good for generating Warmind Cells against hordes of enemies. Best for low and mid tier add clear.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 25%]: Ambitious Assassin
-  Perks 2 [ 25%]: Feeding Frenzy
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvE) "Frenzied Generator" 😡☄️ (Relaxed Barrels) (1.0% chance)**: Same as the above, relaxing Barrels.
-  ```
-  Barrels [100%]: *
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 25%]: Ambitious Assassin
-  Perks 2 [ 25%]: Feeding Frenzy
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvE) "Frenzied Generator" 😡☄️ (Relaxed Magazines) (1.1% chance)**: Same as the above, relaxing Magazines.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 25%]: Ambitious Assassin
-  Perks 2 [ 25%]: Feeding Frenzy
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvE) "Frenzied Generator" 😡☄️ (Relaxed Masterwork) (2.9% chance)**: Same as the above, relaxing the MW since we have so much Stability from other columns.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 25%]: Ambitious Assassin
-  Perks 2 [ 25%]: Feeding Frenzy
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Frenzied Generator" 😡☄️ (Relaxed Magazines and Masterwork) (4.5% chance)**: Same as the above, relaxing the MW and Magazines since we'll get Stability from the Barrels at a higher chance and amount.
-  ```
-  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 25%]: Ambitious Assassin
-  Perks 2 [ 25%]: Feeding Frenzy
-  MWorks  [100%]: *
-  ```
 ## Breachlight - PvP
 CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE and PvP but focuses intensely on PvP. Some choice cuts: "I would try other rolls while I was reviewing this and I kept coming back to Vorpal." "Landing shots is more important than accuracy; shouldn't be worried about straight precision. More important to get the recoil straight up and down than it is to add stability because you have to control the stability after every burst anyway." I have to agree - Vorpal is pretty amazing in PvP and I did wish I had it several times. Without Vorpal, it's just another two-burst sidearm. You may as well use a Smuggler's Word with Tap the Trigger, which has one of the lowest TTKs in all of Destiny.
 * **(PvP) Slif's Picky Super Killer 💥 (0.2% chance)**: This is my personal perfect PVP roll. Threat Detector has a far longer range than you'd think (beyond damage falloff) and Vorpal shreds through supers. The rest of this roll is all about maxing out the range.
@@ -2006,6 +1063,950 @@ CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/w
   Perks 2 [ 50%]: Vorpal, Disruption Break
   MWorks  [100%]: *
   ```
+## Seventh Seraph Carbine - PvP
+The Seventh Seraph Carbine (SSC) is a 450 RPM "Precision Frame" Kinetic Auto Rifle. Let's start with a quick comparison to randomly-rolled 450s, over on [light.gg](https://www.light.gg/db/items/compare/?h=BdCxNP;mJ1-6;Bqp0Wx;Fju9i;DmTiv3). In general the 450s are fairly the same stat-wise, with a material deviation in Aim Assist for the SSC; easily addressable with an Aim Assist mod. 
+
+Should you pick one up for use in Season 10? In Season 10, 600 RPM "Adaptive Frame" Auto Rifles are the meta (e.g. SUROS Regime, Monte Carlo, Hard Light). There's no pressing reason to chase SSC rolls for PvP.
+
+I personally love ARs, so I played with a [zero-Recoil, high Stability](https://d2gunsmith.com/w/DY2Aqw8sOokyOvhv0Wv1Ehw9zBP2FwQRxW2Ig9KX1MIo3LEpW) roll for several Iron Banner games, with both Enhanced Targeting and Enhanced Unflinching. I immediately wanted to go back to using my Arc Logic with Moving Target and Tap the Trigger :) The SSC is definitely a bit slower than you'd prefer (as are all 450 RPMs, even the vaunted Uriel's Gift these days). 
+
+That being said, if you enjoy Destiny's National Pasttime of shredding supers in sixes, a Vorpal-rolled SSC could be for you! If you're a fan of ARs or even just the SSC itself, why not pick one up and vault it just in case the meta changes? Here are a few things to keep in mind:
+
+* The lower the RPM the higher the range, and falloff for a base range SSC starts ~30m which is quite far in-game; probably at the maximum range you'd choose to engage with an Auto Rifle anyway.
+* I'm passing on `Threat Detector` because at that engagement range of 15m, you're going to feel like switching to your special weapon.
+* With a base `Recoil` of `74`, you're fine there. I shot a few magazines into a wall with `100` and the pattern was the same. Do not put on a `Counterbalance` mod or else you'll ruin the recoil pattern. 
+* I don't have any rolls featuring `Elemental Capacitor` because at some point you hit diminishing returns on all this `Stability`. I pivot around `Moving Target` because it's not something that many Auto Rifles can roll and it makes it far more lethal by directly addressing target acquisition.
+
+Here's a few rolls worth considering that you can put to work today!
+* **(PvP) Slif's "Pristine, Picture-Perfect Auto Rifle" 🧼📸 Collector's Edition (0.0% chance)**: This is my pristine, picture-perfect Auto Rifle roll. There's less than a 0.1% chance you get this, so if you do please buy us both a lottery ticket.
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Pristine" 🧼📸 CE (Relaxed Barrels) (0.2% chance)**: Same as the above, relaxing the Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Pristine" 🧼📸 CE (Relaxed Magazines) (0.2% chance)**: Same as the above, relaxing the Magazines.
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Pristine" 🧼📸 CE (Relaxed Slideshot) (0.2% chance)**: Slideshot is active for two seconds starting from the slide, so you really only have about one second to put it to use. Without it, this is still a phenomenal roll.
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Pristine" 🧼📸 CE (Relaxed Slideshot and Masterwork) (0.9% chance)**: Same as the above, also relaxing the Masterwork.
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [100%]: *
+  ```
+* **(PvP) Slif's "Classic AR" 🎩Collector's Edition (1.6% chance)**: Let's repeat the above set of rolls by widening the Barrel and Magazine options to anything that boosts `Stability`. We're also going to be removing `Slideshot`. It works for sure, but it's not worth holding us up from banking these rolls.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Classic AR" 🎩 (Relaxed Barrels) (1.9% chance)**: Same as the above, relaxing the Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Classic AR" 🎩 (Relaxed Magazines) (3.5% chance)**: Same as the above, relaxing the Magazines.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
+  Mags    [100%]: *
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Classic AR" 🎩 (Relaxed Masterwork) (6.4% chance)**: Same as the above, relaxing the Masterworks.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [100%]: *
+  ```
+* **(PvP) Slif's "Super Shredder" 💥 Collector's Edition (1.6% chance)**: Shredding supers in 6s is, we can all agree, Destiny's National Pastime. We're repeating the same set of relaxed rolls above, this time pivoting around Vorpal in the final column.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Super Shredder" 💥 (Relaxed Barrels) (1.9% chance)**: Same as the above, relaxing the Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Super Shredder" 💥 (Relaxed Magazines) (3.5% chance)**: Same as the above, relaxing the Magazines.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
+  Mags    [100%]: *
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Super Shredder" 💥 (Relaxed Masterwork) (6.4% chance)**: Same as the above, relaxing the Masterworks.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph Carbine - PvE
+For its base stats and perks, there isn't a whole lot of reason to consider the SSC for PvE. While it does feature Swashbuckler and Rampage, it doesn't combine it with a reload-boosting perk like Feeding Frenzy or Outlaw. Breakneck, the Gambit Pinnacle weapon with the unique perk `Onslaught` is also 450 RPM and recently received a buff in Season 10. It shreds in PvE and since it's a Legendary weapon, it can take the Season 10 Artifact mods.
+Still, there's at least a couple of reasons why you might want to consider a SSC.
+1. It's a Seraph weapon! If you're running Warmind mods on your armor, Seraph weapons will spawn Warmind Cells.
+1. It can roll with `Fourth Time's the Charm` and `Vorpal` together, which activates on Champions and in the current Season 10, Auto Rifles can take Overload mods. In the future things will rotate back around to take Anti-Barrier too. The mag seems endless when dumping in to Champions and bosses; kinda cool :)
+* **(PvE) Slif's "Butter and Citrus Bar Shredder" 🧈🍊 (2.8% chance)**: This is designed for dumping rounds in to enemies in high(er) end PvE content. FTTC and Vorpal make the roll; without both you may as well use another Vorpal weapon. Based on the past two seasons, they won't be hard to come by :)
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Fourth Time's the Charm
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Warmind Cell Generator" ☄️ (6.0% chance)**: Run-of-the-mill Auto-Rifle PvE slayer perk set here. If you like the look, feel and sound of the Carbine as I do, you'll do solid work with this roll.
+  ```
+  Barrels [ 83%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Polygonal Rifling, Fluted Barrel
+  Mags    [ 64%]: Flared Magwell, Light Mag, Alloy Magazine
+  Perks 1 [ 33%]: Threat Detector, Slideshot
+  Perks 2 [ 33%]: Swashbuckler, Rampage
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph CQC-12 - PvP
+The CQC-12 is an 80 RPM "Lightweight Frame" shotgun in the energy slot. Through leveling the season pass, you unlock a chance for it to drop at the conclusion of Gambit, Crucible and Strike activities. You can't really "farm" it per se. The good news is that there's only four perks in the final two columns meaning it's not incredibly difficult to get the perks you might be interested in. See how it compares to other randomly-rolled 80 RPMs over on  [light.gg](https://www.light.gg/db/items/compare/?h=BslVBs;CEKlVP;Brud8B;DmKQYw). Statistically, they're all quite similar and like all shotguns, otherwise identical in barrels and magazines.
+
+Three reasons why the CQC is exciting for PvP:
+
+* Where the CQC-12 stands out from its kin is that it can roll with the vaunted Quickdraw + Snapshot pairing. No other 80 RPM shotgun can do this. Here's  [the list](https://www.light.gg/god-roll/?f=2,10\(Shotgun\),28:0\(706527188;957782887\)) of shotguns that can. Perhaps as a drawback however, it cannot roll with Opening Shot or Moving Target.
+* It can roll with Vorpal which means it can two-shot any super in PvP. If you'd like a little footage of DFP slaying with Vorpal (and an otherwise) near perfect roll, [here you go](https://youtu.be/30b4t1XZdi0?t=110).
+* It looks and sounds *amazing*, and that's like 80% of the reason to use a weapon :)
+
+Our first couple of roll sets will be classic shotgun rolls and the third will feature Vorpal; currently the only shotgun that can roll it!
+* **(PvP) Slif's "SnapDraw" 🖇 Collector's Edition (0.5% chance)**: Classic Destiny 2 shotgun roll.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [ 25%]: Quickdraw
+  Perks 2 [ 25%]: Snapshot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "SnapDraw" 🖇 CE (Relaxed Barrels) (0.8% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+  ```
+  Barrels [100%]: *
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [ 25%]: Quickdraw
+  Perks 2 [ 25%]: Snapshot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "SnapDraw" 🖇 CE (Relaxed Magazines) (0.9% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Quickdraw
+  Perks 2 [ 25%]: Snapshot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "SnapDraw" 🖇 CE (Relaxed Masterwork) (2.0% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [ 25%]: Quickdraw
+  Perks 2 [ 25%]: Snapshot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Slideshot" 🎚Collector's Edition (0.5% chance)**: Quickdraw is great. Slideshot is also great!
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [ 25%]: Slideshot
+  Perks 2 [ 25%]: Snapshot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Slideshot" 🎚 CE (Relaxed Barrels) (0.8% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+  ```
+  Barrels [100%]: *
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [ 25%]: Slideshot
+  Perks 2 [ 25%]: Snapshot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Slideshot" 🎚 CE (Relaxed Magazines) (0.9% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Slideshot
+  Perks 2 [ 25%]: Snapshot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Slideshot" 🎚 CE (Relaxed Masterwork) (2.0% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [ 25%]: Slideshot
+  Perks 2 [ 25%]: Snapshot
+  MWorks  [100%]: *
+  ```
+* **(PvP) Slif's "Super Shredder" 💥 Collector's Edition (1.0% chance)**: Your classic Destiny 2 shotgun roll swapping out Snapshot for Vorpal.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [ 50%]: Quickdraw, Slideshot
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Super Shredder" 💥 CE (Relaxed Barrels) (1.6% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+  ```
+  Barrels [100%]: *
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [ 50%]: Quickdraw, Slideshot
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Super Shredder" 💥 CE (Relaxed Magazines) (1.9% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [100%]: *
+  Perks 1 [ 50%]: Quickdraw, Slideshot
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Super Shredder" 💥 CE (Relaxed Magazines) (2.0% chance)**: Vorpal is the star of the show here; still an amazing roll without Quickdraw!
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Super Shredder" 💥 CE (Relaxed Masterwork) (3.9% chance)**: With a roll this good, you can afford missing out on one of the ranged elements.
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [ 50%]: Quickdraw, Slideshot
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvP) Slif's "Gorilla's Delight" 🦍 (7.9% chance)**: Your basic, max-range shotgun roll for the shotgun ape deep inside all of us :)
+  ```
+  Barrels [ 60%]: Full Choke, Rifled Barrel
+  Mags    [ 52%]: Accurized Rounds, Light Mag
+  Perks 1 [100%]: *
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Range MW
+  ```
+## Seventh Seraph CQC-12 - PvE
+This section will be straightforward :) All of our rolls are toing to be centered around Trench Barrel. It provides a 50% damage boost vs. Vorpal's 15%. Trench Barrel takes a melee to activate, but with shotguns you have to be in melee range anyway, so you're good!
+
+This isn't a "run and gun" shotgun. There are no damage-boosting perks, like Swashbuckler or Rampage, you have Slideshot and Auto-Loading Holster but so do plenty of other shotguns.
+* **(PvE) Slif's "Butter and Citrus Bar Shredder" 🧈🍊Collector's Edition (1.3% chance)**: We're basing these next few rolls around Trench Barrel. Quickdraw will help with swapping from the hits between Trench Barrel activations.
+  ```
+  Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
+  Mags    [ 52%]: Assault Mag, Appended Mag
+  Perks 1 [ 25%]: Quickdraw
+  Perks 2 [ 25%]: Trench Barrel
+  MWorks  [ 50%]: Handling MW, Reload MW
+  ```
+* **(PvE) "Butter Shredder" 🧈🍊 (Relaxed Masterworks) (2.6% chance)**: Same as the above, minus the Masterworks
+  ```
+  Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
+  Mags    [ 52%]: Assault Mag, Appended Mag
+  Perks 1 [ 25%]: Quickdraw
+  Perks 2 [ 25%]: Trench Barrel
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Butter Shredder" 🧈🍊 (Relaxed Perks) (5.2% chance)**: Same as the above, minus Quickdraw
+  ```
+  Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
+  Mags    [ 52%]: Assault Mag, Appended Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Trench Barrel
+  MWorks  [ 50%]: Handling MW, Reload MW
+  ```
+* **(PvE) "Butter Shredder" 🧈🍊 (Fully Relaxed) (10.5% chance)**: Same as the above, minus the Masterworks and Quickdraw
+  ```
+  Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
+  Mags    [ 52%]: Assault Mag, Appended Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Trench Barrel
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Warmind Cell Generator" ☄️ Collector's Edition (10.5% chance)**: Lots of reloading with plenty of handling and stability to go around.
+  ```
+  Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
+  Mags    [ 52%]: Assault Mag, Appended Mag
+  Perks 1 [ 50%]: Auto-Loading Holster, Slideshot
+  Perks 2 [100%]: *
+  MWorks  [ 50%]: Handling MW, Reload MW
+  ```
+* **(PvE) "Warmind Cell Generator" ☄️ CE (Relaxed Masterworks) (21.0% chance)**: You kinda just want one of these to generate Warmind Cells.
+  ```
+  Barrels [ 80%]: Smallbore, Barrel Shroud, Corkscrew Rifling
+  Mags    [ 52%]: Assault Mag, Appended Mag
+  Perks 1 [ 50%]: Auto-Loading Holster, Slideshot
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph Officer Revolver - PvP
+The Officer Revolver is a 180 RPM Kinetic Hand Cannon. See how it compares to other 180 RPM Hand Cannons over on [light.gg](https://www.light.gg/db/items/compare/?h=C1DOIY;xtxS0;DzBRNi) Let's start off with Mercules and Kyt from the latest Massive Breakdown podcast. Turns out they [aren't super hot](https://soundcloud.com/destinymassivebreakdowns/episode-156-seventh-seraph-weapons-breakdown#t=33:44) on the Officer's Revolver.
+
+> **Mercules:** *"Noticably worse than every other Precision hand cannon except for Trust, which has better Aim Assist and Recoil then the Officer's. Statistically, Officer's is not a super impressive hand cannon."*
+
+Personally I think that's overstating things. The Service Revolver isn't **that** much different in terms of base stats. Trust is clearly better but not insanely-so. That being said, it's a 180 and the 180s haven't been part of the PvP meta in quite a while. If they were any stonger they'd be three-tapping and that would make them far too strong. I agree with Mercules' position that given how easy they are to use, they have a balanced TTK.
+
+
+Now let's check out [Drewsky's thoughts](https://www.youtube.com/watch?v=W3kCNDYUnzM), who finds the novel perks like Firmly Planted and Timed Payload worth strong consideration. Notably, he had previously [released a video](https://www.youtube.com/watch?v=IevtKKR_YxM) wishing for more Hand Cannons to have Firmly Planted.
+> **Drewsky:** *"I think this is actually a pretty competitive group of stats especially compared to a lot of the other 180 RPM hand cannons. What makes it special is that it has a group of pretty competitive stats; maybe not the best stats but maybe the best perk pool in combination with those stats available on a 180."*
+
+Vorpal and Timed Payload are uniquely available on the Officer Revolver. I personally love Vorpal in PvP and love the idea of Timed Payload, but I've always liked variety more than than the objective, optimal meta. If that partially describes you and you're interested in bagging a few PvP rolls, read on!
+> **Drewsky:** *"Prioritizing Range while giving the best oveall stat package possible."*
+
+I only partially agree with Drewsky here. Going back to our understanding of the new compressed range on Hand Cannons, we can cite some science from CoolGuy: "(35 Range = 25m falloff, 86 Range = 28m)". I'm not sure I'd want to blow valuable Magazine and Barrel slots for one to three meters of falloff.
+
+The good news is that the wishlist can support multiple perspectives! I'll put together a set of Range-prioritizing rolls representing Drewsky's perspective, and a set of Handling/Stability prioritizing rolls. There is no "baseline" roll for the Officer Revolver because the baseline stats aren't what make this weapon interesting. There are plenty of other 140s and 150s that you'd prioritize over this if you were just looking for a workhorse PvP Hand Cannon.
+* **(PvP) Drewsky's "Planted Range" 🏔🌱🏔🌱🏔🌱Collector's Edition (0.1% chance)**: *"Timed Payload?! That's supposed to be positively horrible. Doesn't it lower your TTK?"* Well, it causes double the flinch and the explosion has no range falloff. On a 180 RPM Hand Cannon, Timed Payload shouldn't lower the TTK (Drewsky didn't have one on hand to verify the math) as you would be getting the kill on the last bullet and not on the last 17 damage from Timed Payload. Vorpal is great for shredding supers.
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 16%]: Firmly Planted
+  Perks 2 [ 33%]: Timed Payload, Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Magazine) (0.3% chance)**: Same as the above, minus Accurized Rounds. We're getting so much additional range from the Magazine and Masterwork, we're ok to lose out on it here.
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Firmly Planted
+  Perks 2 [ 33%]: Timed Payload, Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Planting) (0.5% chance)**: Scratch Firmly Planted which might not be to everyone's playstyle or preference and still leaves you with a super unique roll.
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 33%]: Timed Payload, Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Masterwork) (0.3% chance)**: Scratch the Range MW. We're getting so much range from the Barrel  and Magazine anyway.
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 16%]: Firmly Planted
+  Perks 2 [ 33%]: Timed Payload, Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Magazine and Planting) (1.9% chance)**: Same as the above, again minus Firmly Planted.
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [100%]: *
+  Perks 1 [100%]: *
+  Perks 2 [ 33%]: Timed Payload, Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Range First" CE 🏔🌱🏔🌱🏔🌱(Relaxed Planting and Masterwork) (1.9% chance)**: Same as the above, again minus Firmly Planted and the Masterwork.
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 33%]: Timed Payload, Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Expanded Range" CE 🏔🌱 (0.2% chance)**: Let's add all of the Range-enhancing Barrels and repeat this set of rolls.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 16%]: Firmly Planted
+  Perks 2 [ 33%]: Timed Payload, Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Expanded Range" CE 🏔🌱(Relaxed Magazine) (0.8% chance)**: Same as the above, minus Accurized Rounds. We're getting so much additional range from the Magazine and Masterwork, we're ok to lose out on it here.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Firmly Planted
+  Perks 2 [ 33%]: Timed Payload, Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Expanded Range" CE 🏔🌱(Relaxed Planting) (1.2% chance)**: Scratch Firmly Planted which might not be to everyone's playstyle or preference and still leaves you with a super unique roll.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 33%]: Timed Payload, Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Expanded Range" CE 🏔🌱(Relaxed Masterwork) (0.8% chance)**: Scratch the Range MW. We're getting so much range from the Barrel  and Magazine anyway.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 16%]: Firmly Planted
+  Perks 2 [ 33%]: Timed Payload, Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Expanded Range" CE 🏔🌱(Relaxed Magazine and Planting) (1.9% chance)**: Same as the above, again minus Firmly Planted.
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [100%]: *
+  Perks 1 [100%]: *
+  Perks 2 [ 33%]: Timed Payload, Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Expanded Range" CE 🏔🌱(Relaxed Planting and Masterwork) (4.9% chance)**: Same as the above, again minus Firmly Planted.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 33%]: Timed Payload, Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvP) Slif's "Ticking Timebomb" ⏰ Collector's Edition (1.2% chance)**: Interested in Timed Payload? Let's broaden Drewsky's roll above and include any decent Barrel or Magazine.
+  ```
+  Barrels [ 91%]: Fluted Barrel, Arrowhead Brake, Smallbore, Polygonal Rifling, Corkscrew Rifling, Hammer-Forged Rifling
+  Mags    [ 64%]: Accurized Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 16%]: Firmly Planted
+  Perks 2 [ 16%]: Timed Payload
+  MWorks  [ 75%]: Range MW, Handling MW, Stability MW
+  ```
+* **(PvP) "Timebomb" ⏰ CE (7.4% chance)**: Same as the above, relaxing Firmly Planted since that's not going to be to everyone's preference.
+  ```
+  Barrels [ 91%]: Fluted Barrel, Arrowhead Brake, Smallbore, Polygonal Rifling, Corkscrew Rifling, Hammer-Forged Rifling
+  Mags    [ 64%]: Accurized Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Timed Payload
+  MWorks  [ 75%]: Range MW, Handling MW, Stability MW
+  ```
+* **(PvP) Slif's "Super Shredder" 💥 Collector's Edition (1.2% chance)**: Interested in shredder supers? Of course you are. Let's broaden Drewsky's roll above and include any decent Barrel or Magazine while basing this around Vorpal.
+  ```
+  Barrels [ 91%]: Fluted Barrel, Arrowhead Brake, Smallbore, Polygonal Rifling, Corkscrew Rifling, Hammer-Forged Rifling
+  Mags    [ 64%]: Accurized Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 16%]: Firmly Planted
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 75%]: Range MW, Handling MW, Stability MW
+  ```
+* **(PvP) "Super Shredder" 💥CE (7.4% chance)**: Same as the above, relaxing Firmly Planted since that's not going to be to everyone's preference.
+  ```
+  Barrels [ 91%]: Fluted Barrel, Arrowhead Brake, Smallbore, Polygonal Rifling, Corkscrew Rifling, Hammer-Forged Rifling
+  Mags    [ 64%]: Accurized Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 75%]: Range MW, Handling MW, Stability MW
+  ```
+## Seventh Seraph Officer Revolver - PvE
+There are so many great Hand Cannons for general purpose add shredding that you can skip the Officer's Revolver if you don't feel like adding another one to your vault. Personally I had a perfectly rolled Service Revolver (Rapid-Hit + Kill Clip) and never used it because it couldn't one-tap red bar adds - a 140 or 150 with Kill Clip ends up being my preferred.
+
+"OK Slif, so why do you even have a PvE section here?"
+1. Most importantly, it's a Seraph weapon! If you're running Warmind mods on your armor, Seraph weapons will spawn Warmind Cells.
+1. It can roll with Vorpal, which activates on Champions and in the current Season 10, Hand Cannons can take Overload and Unstoppable mods (and in the future will rotate back around to take Anti-Barrier mods I'm sure).
+
+"Whatevs, I've never been a fan of Vorpal and I don't really care about the seasonal stuff" - all good, stop reading and farm something else! It can also roll with Osmosis but with how great Hard Light and Borealis are, I can't imagine preparing for a difficult Strike or Nightmare Hunt and saying "Oh let me grab my Officer's Revolver with Osmosis to help us out!" 😉
+* **(PvE) Slif's "Butter and Citrus Bar Shredder" 🧈🍊 (2.8% chance)**: This is designed for dumping rounds in to enemies in high(er) end PvE content. We don't need to be any more specific here; the other columns and Masterwork aren't deal-breakers or roll-makers. By itself, Vorpal isn't strong enough to recommend this over other Kinetics. **WARNING**: It's possible that a PvP roll without a preference in the FTTC column will "take" this roll. Bear in mind that might have this roll and it would be lit up as a PvP roll.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Fourth Time's the Charm
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvE) Warmind Cell Generator (Aggressive) ☄️ (3.6% chance)**: You'll do solid work with in lower/middle tier PvE content (e.g. your daily bounty grinds, Vanguard Strike playlist).
+  ```
+  Barrels [100%]: *
+  Mags    [ 64%]: Drop Mag, Alloy Magazine, Flared Magwell
+  Perks 1 [ 33%]: Threat Detector, Ambitious Assassin
+  Perks 2 [ 16%]: Multikill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) Warmind Cell Generator (Passive) 🌬 (5.6% chance)**: Similar to the above, but since we have Feeding Frenzy for fast reloads, we can relax our magazines.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Threat Detector, Ambitious Assassin
+  Perks 2 [ 16%]: Feeding Frenzy
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph SAW - PvP
+Drewsky has a great review of the [Bane of Sorrow](https://www.youtube.com/watch?v=G7hqmrV1pk0), another 360 RPM "High-Impact Frame" Machine Gun. From the review, it hits for 48 crit / 38 body (TTK 0.5s / 0.83s). It's got terrific range and flinches like crazy.
+
+That being said, it's still a Machine Gun which tends not to be the pick for PvP... BUT... BUT! The SAW can roll with `Opening Shot` in the final column. Because the rate of fire is so low, you can single tap out shots and get crits across the map. Try out some Machine Gun sniping in Mayhem and let me know how that works out for you 🎯
+
+Otherwise, there's no pressing reason to farm for a SAW for PvP, at least none moreso than any other Machine Gun.
+* **(PvP) Slif's "Sniper MG" 🎯 Collector's Edition (0.5% chance)**: Any basic roll will chew up Guardians with a lot of flinch. Let's add `Range` and `Stability` where we can, while seeing what `Opening Shot` can do.
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 50%]: Range MW, Stability MW
+  ```
+* **(PvP) "Sniper MG" 🎯 (Relaxed Barrels) (1.7% chance)**: Same as the above, with any Range/Stability-enhancing Barrel
+  ```
+  Barrels [ 83%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Polygonal Rifling, Fluted Barrel
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 50%]: Range MW, Stability MW
+  ```
+* **(PvP) "Sniper MG" 🎯 (Relaxed Magazines) (5.5% chance)**: Same as the above, with any Range/Stability-enhancing Magazine
+  ```
+  Barrels [ 83%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Polygonal Rifling, Fluted Barrel
+  Mags    [ 78%]: Ricochet Rounds, High-Caliber Rounds, Light Mag, Armor-Piercing Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 50%]: Range MW, Stability MW
+  ```
+* **(PvP) "Sniper MG" 🎯 (Relaxed Masterworks) (10.9% chance)**: Same as the above, with any Masterwork
+  ```
+  Barrels [ 83%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Polygonal Rifling, Fluted Barrel
+  Mags    [ 78%]: Ricochet Rounds, High-Caliber Rounds, Light Mag, Armor-Piercing Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph SAW - PvE
+The SAW is 360 RPM "High-Impact Frame" Machine Gun and is an absolute monster in PvE. *"But Slif, everyone says Machine Guns are crap for DPS so why do you even have a PvE section?!?"*
+
+Walk with me, grasshopper.
+
+This is going to be a long one because I haven't found any super detailed coverage of the SAW (or any other Seraph weapon save for the Hand Cannon). Fortunately since a High-Impact is a High-Impact (at base), Drewsky has a great review of the [Bane of Sorrow](https://www.youtube.com/watch?v=G7hqmrV1pk0) that's definitely worth watching! The SAW can't roll with most of the perks he discussed in that video, but it's still super solid at its base.
+
+* It's a Seraph weapon which means it generates Warmind Cells if you have Warmind mods equipped (Season 10).
+* As a High-Impact Frame, the SAW keeps anything it doesn't kill practically stun-locked. As the difficulty of PvE content increases, this becomes super important. Even if you're not doing Grandmaster Nightfalls, flinching challenging adds sure makes things more straightforward. Keeping the bosses flinched as they march towards your plate during a Seraph Tower event comes in handy!
+* Its base effecive `Range` is amazing. Damage falloff starts ~45m and is reasonable up to ~50m (-5%). You're talking maximum damage at Scout Rifle ranges. At maximum range, the sight overlaps your target because MGs don't have high-zoom sights/scopes. *This is why I'm not suggesting any `Range` boosting below - when I pushed the `Range` to `93` falloff and floors were unchanged and the recoil/handling will make it challenging to stay on target anyway.*
+* It's the only Machine Gun that can roll with `Vorpal` or `Firing Line` in the final column, which provide 15% and 25% damage boosts, respectively. Those are substantial increases to damage without requiring a kill or reload to activate. 
+
+If you're still not bought in, that's cool 😀👋. If you're still here, let's get those rolls! In order of importance:
+
+* Column 3:
+  * ✅`Field Prep` is far and away the winner. It grants a whopping 25%
+  more in reserve (223 to 278), speeds up your reload time by two seconds
+  (~5.5s to ~3.5s) and increases ready and stow speed. For PvE, nothing
+  else comes close. By the way, within 45m at 1,222 to 1,716 damage,
+  that's an extra 67k - 94k damage available to you.
+
+  * ❌`Auto-Loading Holster` and `Grave Robber` are the other two reload
+  perks in this column and neither is worth giving up the reserve and
+  handling bonuses that `Field Prep` provides.
+
+* Column 4:
+  * ✅`Firing Line`: 25% damage boost when near two teammates. In
+PvE content you're nearly always with your fireteam: Strikes, Raids, Menagerie, Vex Offensive, Sundial, Seraph Towers... I'm comfortable reccomending `Firing Line` in general. It has double utility in dealing with adds and on boss DPS. Granted it's not your go-to for boss damage but since you already have it equipped for adds and Champions, may as well have something to do with all this ammo when you're on the boss!
+
+  * ✅`Vorpal`: 15% damage boost to yellow bars and Champions. It's
+a solid pick if you don't have one with `Firing Line`.
+
+  * ❌`Mulligan`: Nope. You shouldn't be missing many shots and the
+opportunity cost of Mulligan is too high. At maximum range on the Tribute Hall Ogre, I was hitting at least 50% crits at the base `Recoil` and no `Stability` boosts.
+
+  * ❌`Opening Shot`: This is interesting because at 360 RPM you can tap
+out one bullet at a time, turning this in to kind of an incredibly high-impact Scout Rifle. Situationally cool but you can still use the SAW like this just fine without it. Arguably more of an off-meta PvP pick.
+
+  * ❌`Elemental Capacitor`: While large, the effect of any of these
+increases pales in comparison to significantly higher damage output. You can also get each of the benefits through other perks or armor mods. This isn't a case in general against `Capacitor`, just on this particular weapon.
+
+  * ❌`Disruption Break`: A 50% Kinetic damage bonus debuff is nothing to
+sneeze at! This is a niche pick for when you're up against Arc shields because in a Match Game activity, you won't do enough damage to break non-matching shields. Myself, if I'm hopping in to a difficult PvE activity I'm going to get more general, always-on use from Firing Line.
+Otherwise we're shooing for higher Stability
+* **(PvE) Slif's "Together Forever" 🤝♬ Collector's Edition (0.6% chance)**: With other Guardians at your side, you will rip through hordes of aliens no problem. We're taking any Barrel that increases Stability and magazine-extended... Magazines. Extended Magazine would normally be a hot mess with a base `Reload` so low, but with Field Prep it only takes the reload from ~3.5s to ~4.5s (still 1s shorter than the base `Reload`).
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel
+  Mags    [ 46%]: Appended Mag, Extended Mag
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 16%]: Firing Line
+  MWorks  [ 50%]: Stability MW, Range MW
+  ```
+* **(PvE) "Together Forever" 🤝♬ (Relaxed Barrels) (0.8% chance)**: Same as the above, sans Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 46%]: Appended Mag, Extended Mag
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 16%]: Firing Line
+  MWorks  [ 50%]: Stability MW, Range MW
+  ```
+* **(PvE) "Together Forever" 🤝♬ (Relaxed Magazines) (1.2% chance)**: Same as the above, sans Magazines.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 16%]: Firing Line
+  MWorks  [ 50%]: Stability MW, Range MW
+  ```
+* **(PvE) "Together Forever" 🤝♬ (Relaxed Masterworks) (1.1% chance)**: Same as the above, sans Masterworks.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel
+  Mags    [ 46%]: Appended Mag, Extended Mag
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 16%]: Firing Line
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Together Forever" 🤝♬ (Relaxed Magazines and Masterwork) (2.4% chance)**: Same as the above, sans Magazines and Masterwork requirements.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 16%]: Firing Line
+  MWorks  [100%]: *
+  ```
+* **(PvE) Slif's "Just... Together" 🤝Baseline Roll (3.3% chance)**: With just the core perks, you have an absolutely phenomenal Machine Gun! If you get this, you can stop farming because the delta between this roll and allll the ones above is minimal.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 16%]: Firing Line
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph SI-2 - PvP
+The SI-2 is the 2020 version of the Anonymous Autumn (Kyt: *"which is the best-in-class for lightweight sidearms"*) and is the only other randomly rolled 360 RPM Energy sidearm. Mercules is on the same page: *"It (SI-2) doesn't have great Stability or great Range. I would pick a well-rolled Anonymous Autumn over this every time."* Why do they say that? It's got basically the same stats as an Anonymous Autumn but has 33% less Range and 20% less Stability. On the plus side the SI-2 has 7% better Handling (64 > 69) 🙃
+
+Even TrueVanguard, who absolutely loves the Anonymous Autumn (with over 14,000 kills) depicts the SI-2 as situational, relying primarily on Vorpal to justify using it. Check out [his thoughts](https://www.youtube.com/watch?v=cCtP2PjAEgY).
+
+If you are going to consider the SI-2 for PvP, a few things to keep in mind:
+* The recoil direction is 95, so no need to worry about straightening it out. I.e. the +Recoil barrels shouldn't be your first pick. Instead, focus on Range and Stability.
+* Full Auto is going to be a make-or-break perk for some, as many guardians have a love-it-or-hate-it relationsihp with single-shot sidearms. If that's your thing, know that no other perk in that column is a must-have. I find that 360s are unsuable for me without it, so I'll be picking one of these up to see how it plays with Vorpal. 
+
+On to the rolls!
+* **(PvP) Slif's "Full Auto Super Shredder" 💥Collector's Edition (0.9% chance)**: These rolls aren't super tight on the Barrel and Magazine front because they aren't going to dramatically alter the value of the overall roll. Vorpal is really the key here. Without Vorpal, you're better off using the better-rolled Anonymous Autumn as mentioned above. Otherwise we're going for +Range and +Stability wherever we can get it.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling
+  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 16%]: Full Auto Trigger System
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 50%]: Stability MW, Range MW
+  ```
+* **(PvP) "Full Auto Super Shredder" 💥(Minus Masterworks) (1.8% chance)**: The presence or lack of the right masterwork isn't a deal-breaker.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling
+  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 16%]: Full Auto Trigger System
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Threat Level Super Shredder" 🧵 (0.9% chance)**: Same setup as the above, but we're swapping out Full Auto and bringing in Threat Detector.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling
+  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 16%]: Threat Detector
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 50%]: Stability MW, Range MW
+  ```
+* **(PvP) "Threat Level" 🧵(Minus Masterworks) (1.8% chance)**: The presence or lack of the right masterwork isn't a deal-breaker.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling
+  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 16%]: Threat Detector
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Basic Super Shredder" ⚙️ (5.5% chance)**: No first column perk! If you really want Vorpal on your Energy sidearm, here ya go.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling
+  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [ 50%]: Stability MW, Range MW
+  ```
+* **(PvP) "Basic Shredder" ⚙️ (Minus Masterworks) (10.9% chance)**: Same as the above without a Masterwork restriction.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling
+  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph SI-2 - PvE
+Like all other Seraph weapons, the SI-2 contributes to the generation of Warmind cells in PvE. If that's not your thing, you can pretty much pass on this weapon full stop. Since it can roll with Dragonfly, it could have made beautiful music with the `Wrath of Rasputin` Warmind mod: `Solar splash damage final blows have a chance to create Warmind Cells`. Unfortunately the SI-2 is a Void weapon 👿
+
+That being said, there are a few combos that could prove interesting for the discerning collector / sidearm aficionado.
+* **(PvE) "Sparks Flying" 🎇 (2.8% chance)**: The SI-2 is the only sidearm in the game that can roll with both Demolitionist and Dragonfly. That's exciting because Demolitionist counts the Dragonfly collateral kills towards getting your grenade back. Don't forget the `Dragonfly Spec` mod from Ada-1!
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Demolitionist
+  Perks 2 [ 16%]: Dragonfly
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Champion Slayer" 🏆 (2.8% chance)**: Sidearms are all the rage in the Season 10 Artifact, and certainly will be again at some point in the future. If you want to dump rounds in to Champions, you don't have any other options in this slot.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Full Auto Trigger System
+  Perks 2 [ 16%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvE) "You're Trapped In Here With Me" 🏢 (2.8% chance)**: Like Grave Robber and Swashbuckler, these two perks play super well off each other. If you love sidearms, considering adding this to your collection. You'll do some serious damage during Seraph Tower events.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Threat Detector
+  Perks 2 [ 16%]: Surrounded
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph VY-7 - PvP
+The VY-7 is a 600 RPM Energy "Precision Frame" SMG. Here's how it compares to all other randomly-rolled 600 RPM SMGs on [light.gg](https://www.light.gg/db/items/compare/?h=trStZ;CYr9QP;CQZu7f;B9hF8b;). It's competitive base-stat-wise but there's a reason you've probably never been killed by any of these weapons (or any SMG for that matter) since the first year of Destiny 2. In Season 10 with the recent Adaptive Auto Rifle buff, Auto Rifles outclass SMGs and failing ARs, both sidearms and shotguns are going to frustrate the hell out of you.
+
+Forget it right? But do you remember this world?
+
+* [Antiope-D's FINAL FORM! (God Roll)](https://www.youtube.com/watch?v=zxnkTvtuXEA) - Destiny Fun Police
+* [The Perfect Antiope-D does exist!](https://www.youtube.com/watch?v=M3tC-IkkFRU) - CammyCakes
+* [Antiope-D and Sniping = New Meta ?](https://www.youtube.com/watch?v=yjG32gyUh_w) - ZkMushroom
+
+The VY-7 is an Energy Antiope-D (the basic stat variances are immaterial in practice). Yes it's not the meta now, but a solid roll might be worth throwing in the vault.
+
+"Why don't any of these rolls value `Range`?" The difference between the base range of `59` and let's say `80` (using Accurized Rounds, etc.) buys you about a whopping one meter of falloff (~16 to ~17m). I don't value buffing Range all that highly on the VY-7. It's not that it's *bad* per se, it's just that the opportunity cost is high.
+* **(PvP) Slif's "Weird Auto Rifle but OK" 🤷‍♂️🌱 Collector's Edition (0.7% chance)**: We're going to use a Counterbalance Mod to get the Recoil to 100, so we can go for Stability-enhancing Barrel options. Wait, what the hell is `Elemental Capacitor` doing in there?! The Handling and Stability bonuses are material. The Stability bonus is the most noticeable,  [estimated](https://youtu.be/D_Mv-AdfYqM?t=36) to be around `20 points`. You *absolutely* feel the difference with `Elemental Capacitor` active (don't forget to swap weapons if you're testing it) so I won't be relaxing it on these rolls. I think there's not much of a point to this SMG above other Energy weapons unless you can flex what makes it unique, and `Elemental Capacitor` certainly does that.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [ 25%]: Elemental Capacitor
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Weird AR" 🤷‍♂️🌱 (Relaxed Barrels) (1.0% chance)**: Same as the above with relaxed Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [ 25%]: Elemental Capacitor
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Weird AR" 🤷‍♂️🌱 (Relaxed Magazines) (1.1% chance)**: Same as the above with relaxed Magazines.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [ 25%]: Elemental Capacitor
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Weird AR" 🤷‍♂️🌱 (Relaxed Magazines and Masterworks) (4.5% chance)**: Same as the above with relaxed Magazines and Masterworks.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [ 25%]: Elemental Capacitor
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Weird AR" 🤷‍♂️🌱 (Relaxed Masterworks) (2.9% chance)**: Same as the above with relaxed Masterworks.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [ 25%]: Elemental Capacitor
+  MWorks  [100%]: *
+  ```
+* **(PvP) Slif's "Ain't Nobody Gonna Hold Me Down" 👋 Collector's Edition (2.9% chance)**: Repeating the prior set of rolls without `Firmly Planted`.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Elemental Capacitor
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "No Holding" 👋 (Relaxed Barrels) (4.0% chance)**: Same as the above with relaxed Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Elemental Capacitor
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "No Holding" 👋 (Relaxed Magazines) (4.5% chance)**: Same as the above with relaxed Magazines.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Elemental Capacitor
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "No Holding" 👋 (Relaxed Masterworks) (11.6% chance)**: Same as the above with relaxed Masterworks.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Elemental Capacitor
+  MWorks  [100%]: *
+  ```
+* **(PvP) Slif's "Planted Super Shredder" 💥🌱 Collector's Edition (0.7% chance)**: Same as our initial set of rolls, pivoting around `Vorpal` if you love shredding supers in PvP, which we can all agree is Destiny's National Pasttime.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Planted Shredder" 💥🌱 (Relaxed Barrels) (1.0% chance)**: Same as the above with relaxed Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Planted Shredder" 💥🌱 (Relaxed Magazines) (1.1% chance)**: Same as the above with relaxed Magazines.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Planted Shredder" 💥🌱 (Relaxed Masterworks) (2.9% chance)**: Same as the above with relaxed Masterworks.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 25%]: Firmly Planted
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvP) Slif's "Super Shredder" 💥 Collector's Edition (2.9% chance)**: Repeating the same set of rolls as above, without `Firmly Planted`.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Super Shredder" 💥 (Relaxed Barrels) (4.0% chance)**: Same as the above with relaxed Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Super Shredder" 💥 (Relaxed Magazines) (4.5% chance)**: Same as the above with relaxed Magazines.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Super Shredder" 💥 (Relaxed Masterworks) (11.6% chance)**: Same as the above with relaxed Masterworks.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph VY-7 - PvE
+The VY-7 is the only SMG that's able to roll with Vorpal and you'll want one of these for two reasons:
+
+* The VY-7 is a Seraph weapon and contributes to the generation of Warmind Cells.
+* SMGs are eligible for certain Season 10 Artifact weapon mods.
+
+...so let's come up with some rolls that help shred Champions and generate Warmind Cells (i.e. shred adds).
+
+You must absolutely run a `Counterbalance` Mod or otherwise fix the Recoil with `Arrowhead Brake` or `Chambered Compensator`. Even though its base Recoil is `91` it's still a hot mess to control, esp. with its low Handling. For the rolls below I'm going to assume you're rolling with a `Counterbalance` Mod installed.
+* **(PvE) "Champion Shredder" 🏆💥 Collector's Edition (0.7% chance)**: Whenever SMGs are up on the Artifact, you'll want Vorpal to help shred through Champions. FTTC might seem like a strange choice for an SMG but the rate of fire is so fast, you'd be surprised how often it you end up getting it to proc. I won't be relaxing either Vorpal or FTTC on these rolls because just one of either would mean that it's not worth using this over something else in the Energy slot.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 25%]: Fourth Time's the Charm
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvE) "Champion Shredder" 🏆💥 (Relaxed Barrels) (1.0% chance)**: Same as the above, relaxing Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 25%]: Fourth Time's the Charm
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvE) "Champion Shredder" 🏆💥 (Relaxed Magazines) (1.1% chance)**: Same as the above, relaxing Magazines.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Fourth Time's the Charm
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvE) "Champion Shredder" 🏆💥 (Relaxed Masterwork) (2.9% chance)**: Same as the above, relaxing the MW since we have so much Stability from other columns.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 25%]: Fourth Time's the Charm
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Champion Shredder" 🏆💥 (Relaxed Magazines and Masterwork) (4.5% chance)**: Same as the above, relaxing the MW and Magazines since we'll get Stability from the Barrels at a higher chance and amount.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Fourth Time's the Charm
+  Perks 2 [ 25%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Frenzied Cell Generator" 😡☄️ Collector's Edition (0.7% chance)**: Good for generating Warmind Cells against hordes of enemies. Best for low and mid tier add clear.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 25%]: Ambitious Assassin
+  Perks 2 [ 25%]: Feeding Frenzy
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvE) "Frenzied Generator" 😡☄️ (Relaxed Barrels) (1.0% chance)**: Same as the above, relaxing Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 25%]: Ambitious Assassin
+  Perks 2 [ 25%]: Feeding Frenzy
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvE) "Frenzied Generator" 😡☄️ (Relaxed Magazines) (1.1% chance)**: Same as the above, relaxing Magazines.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Ambitious Assassin
+  Perks 2 [ 25%]: Feeding Frenzy
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvE) "Frenzied Generator" 😡☄️ (Relaxed Masterwork) (2.9% chance)**: Same as the above, relaxing the MW since we have so much Stability from other columns.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 25%]: Ambitious Assassin
+  Perks 2 [ 25%]: Feeding Frenzy
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Frenzied Generator" 😡☄️ (Relaxed Magazines and Masterwork) (4.5% chance)**: Same as the above, relaxing the MW and Magazines since we'll get Stability from the Barrels at a higher chance and amount.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Ambitious Assassin
+  Perks 2 [ 25%]: Feeding Frenzy
+  MWorks  [100%]: *
+  ```
 ## Black Scorpion-4sr - PvP
 [CoolGuy's review (8/2019)](https://www.youtube.com/watch?v=lFQt0MDS9JY) is great source of info for the Black Scorpion, as well as the Massive  Breakdown Podcast [Ep. 148](https://soundcloud.com/destinymassivebreakdowns/episode-148-bygones-last-perdition-and-black-scorpion-4sr-breakdowns). There are seven perks in the final two columns (versus the usual four to six) and during Season 9, this weapon does not benefit from the Rank 92 extra-final-column-perk bonus. That means these rolls are going to be super challenging to get, so we're going to relax a few constraints along the way.
 * Recoil is `60`, so using a Counterbalance mod to make it vertical is a slam dunk. Check out CoolGuy's video for a [before/after](https://www.youtube.com/watch?v=lFQt0MDS9JY&t=400).
@@ -2263,6 +2264,61 @@ We're going for sustained DPS and maximum range. Stability is already high enoug
   Mags    [100%]: *
   Perks 1 [ 40%]: Kill Clip, Rampage
   Perks 2 [ 20%]: Outlaw
+  MWorks  [100%]: *
+  ```
+## Interference VI - PvE
+Grenade Launchers haven't been meta PvE DPS for some time, so why record wishlist rolls for this? A couple of reasons:
+
+* This reissued IVI can now roll Full Court. The only other GLs that can roll Full Court are `Doomsday` and `Love and Death`, both of which are capped at end of Season 11 (i.e. 1060PL). Full Court, at max range (> 50m) has a 25% damage increase. It's worth picking up!
+* The perk pool is really small, with only four possibilities in the final two columns, which slightly offsets the number of perks in the first and second columns.
+
+The Power weapon pool is so small that you're going to buried under mountains of these. Chances are without even trying you're going to get a pretty decent roll. Enjoy your New Monarchy Grenader Launcher! :)
+* **(PvE) "From Dooowwwwntown" 🏀🏀🏀Collector's Edition (0.2% chance)**: If the stars align, you'll get one that bumps Velocity as high as possible.
+  ```
+  Barrels [ 71%]: Quick Launch, Linear Compensator, Smart Drift Control
+  Mags    [ 25%]: Spike Grenades
+  Perks 1 [ 25%]: Field Prep
+  Perks 2 [ 25%]: Full Court
+  MWorks  [ 20%]: Velocity MW
+  ```
+* **(PvE) "Downtown" 🏀🏀CE (Relaxed Barrels) (0.3% chance)**: Same as the CE, minus Barrel requirement.
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Spike Grenades
+  Perks 1 [ 25%]: Field Prep
+  Perks 2 [ 25%]: Full Court
+  MWorks  [ 20%]: Velocity MW
+  ```
+* **(PvE) "Downtown" 🏀🏀CE (Relaxed Perks) (0.9% chance)**: Same as the CE, minus Field Prep.
+  ```
+  Barrels [ 71%]: Quick Launch, Linear Compensator, Smart Drift Control
+  Mags    [ 25%]: Spike Grenades
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Full Court
+  MWorks  [ 20%]: Velocity MW
+  ```
+* **(PvE) "Downtown" 🏀🏀CE (Relaxed Masterwork) (1.1% chance)**: Same as the CE, minus Masterwork requirement.
+  ```
+  Barrels [ 71%]: Quick Launch, Linear Compensator, Smart Drift Control
+  Mags    [ 25%]: Spike Grenades
+  Perks 1 [ 25%]: Field Prep
+  Perks 2 [ 25%]: Full Court
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Downtown" 🏀🏀CE (Relaxed Barrels and Masterwork) (1.6% chance)**: Same as the CE, minus Barrels and Masterwork requirements.
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Spike Grenades
+  Perks 1 [ 25%]: Field Prep
+  Perks 2 [ 25%]: Full Court
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Downtown" 🏀CE (Baseline) (6.2% chance)**: These form the core of the roll. Without them, there isn't much reason to run the IVI 😀
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Spike Grenades
+  Perks 1 [100%]: *
+  Perks 2 [ 25%]: Full Court
   MWorks  [100%]: *
   ```
 ## Last Perdition - PvP
