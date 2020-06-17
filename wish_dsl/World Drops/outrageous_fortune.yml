@@ -1,0 +1,54 @@
+name: Outrageous Fortune
+item_id: 4146702548
+lightgg: https://www.light.gg/db/items/4146702548/outrageous-fortune/
+d2gunsmith: https://d2gunsmith.com/w/VoG5Rp5
+slots:
+  barrels:     {t: 7, c: 2}
+  magazines:   {t: 9, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 4, c: 1}
+  masterworks: {t: 5, c: 1}
+groups: 
+  - 
+    name: PvE
+    summary: >
+      The Outrageous Fortune Grenade Launcher is a Season 11 re-issue of
+      it Season 4 counterpart. Grenade Launchers haven't been meta PvE DPS for
+      some time, so why record wishlist rolls for this?
+      
+      
+      It's one of the small number of Power weapons in the World
+      Drop loot pool. You're going to buried under mountains of these by the
+      end of S11. Chances are without even trying you're going to get
+      a pretty decent roll. Enjoy your Outrageous Fortune Grenader Launcher! :)
+    rolls:
+      - &ofclassic
+        name: (PvE) "Jackpot" 💸💸💸 Collector's Edition 
+        desc: >
+          If the stars align, you'll get one that bumps Velocity as high as
+          possible.
+        barrels: [Quick Launch, Linear Compensator, Smart Drift Control]
+        magazines: [Spike Grenades]
+        perks1: [Field Prep]
+        perks2: []
+        masterworks: [Velocity MW]
+      -
+        <<: *ofclassic
+        name: (PvE) "Jackpot" 💸💸 CE (Relaxed Barrels)
+        desc: >
+          Same as the CE, minus Barrel requirement.
+        barrels: []
+      -
+        <<: *ofclassic
+        name: (PvE) "Jackpot" 💸💸 CE (Relaxed Masterwork)
+        desc: >
+          Same as the CE, minus Masterwork requirement.
+        masterworks: []
+      -
+        <<: *ofclassic
+        name: (PvE) "Jackpot" 💸 CE (Baseline)
+        desc: >
+          These form the core of the roll. Without them, there isn't much
+          reason to run the OF 😀
+        barrels: []
+        masterworks: []
