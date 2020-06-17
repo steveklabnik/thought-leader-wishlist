@@ -1,0 +1,78 @@
+name: Interference VI
+item_id: 2257180473
+lightgg: https://www.light.gg/db/items/2257180473/interference-vi/
+d2gunsmith: https://d2gunsmith.com/w/VoG5Rp5
+slots:
+  barrels:     {t: 7, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 4, c: 1}
+  perks2:      {t: 4, c: 1}
+  masterworks: {t: 5, c: 1}
+groups: 
+  - 
+    name: PvE
+    summary: >
+      Grenade Launchers haven't been meta PvE DPS for some time, so why record
+      wishlist rolls for this? A couple of reasons:
+      
+      
+      * This reissued IVI can now roll Full Court. The only other GLs that can
+      roll Full Court are `Doomsday` and `Love and Death`, both of which are
+      capped at end of Season 11 (i.e. 1060PL). Full Court, at max range
+      (> 50m) has a 25% damage increase. It's worth picking up!
+
+      * The perk pool is really small, with only four possibilities in the
+      final two columns, which slightly offsets the number of perks in the
+      first and second columns.
+
+      
+      The Power weapon pool is so small that you're going to buried under
+      mountains of these. Chances are without even trying you're going to get
+      a pretty decent roll. Enjoy your New Monarchy Grenader Launcher! :)
+
+    rolls:
+      - &i6classic
+        name: (PvE) "From Dooowwwwntown" 🏀🏀🏀Collector's Edition 
+        desc: >
+          If the stars align, you'll get one that bumps Velocity as high as
+          possible.
+        barrels: [Quick Launch, Linear Compensator, Smart Drift Control]
+        magazines: [Spike Grenades]
+        perks1: [Field Prep]
+        perks2: [Full Court]
+        masterworks: [Velocity MW]
+      -
+        <<: *i6classic
+        name: (PvE) "Downtown" 🏀🏀CE (Relaxed Barrels)
+        desc: >
+          Same as the CE, minus Barrel requirement.
+        barrels: []
+      -
+        <<: *i6classic
+        name: (PvE) "Downtown" 🏀🏀CE (Relaxed Perks)
+        desc: >
+          Same as the CE, minus Field Prep.
+        perks1: []
+      -
+        <<: *i6classic
+        name: (PvE) "Downtown" 🏀🏀CE (Relaxed Masterwork)
+        desc: >
+          Same as the CE, minus Masterwork requirement.
+        masterworks: []
+      -
+        <<: *i6classic
+        name: (PvE) "Downtown" 🏀🏀CE (Relaxed Barrels and Masterwork)
+        desc: >
+          Same as the CE, minus Barrels and Masterwork requirements.
+        barrels: []
+        masterworks: []
+      -
+        <<: *i6classic
+        name: (PvE) "Downtown" 🏀CE (Baseline)
+        desc: >
+          These form the core of the roll. Without them, there isn't much
+          reason to run the IVI 😀
+        barrels: []
+        perks1: []
+        masterworks: []
+
