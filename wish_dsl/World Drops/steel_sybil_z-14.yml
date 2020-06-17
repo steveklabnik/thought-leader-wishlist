@@ -51,7 +51,7 @@ groups:
         magazines: []
       -
         <<: *ss14classic
-        name: (PvE) Baseline DPS 🗡
+        name: (PvE) Sustained DPS 🗡 (Baseline)
         desc: >
           You really only need these two to do phenomenal amounts of sustained
           damage and fortunately they're pretty easy to find!
