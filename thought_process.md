@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-06-17 04:42:00 +00:00`. The most recent
+created on `2020-06-17 11:59:51 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -43,12 +43,16 @@ I'm of the opinion it's not worth chasing ツ
 * Seventh Seraph SI-2 ([PvP](#seventh-seraph-si-2---pvp), [PvE](#seventh-seraph-si-2---pve))
 * Seventh Seraph VY-7 ([PvP](#seventh-seraph-vy-7---pvp), [PvE](#seventh-seraph-vy-7---pve))
 
+**Season 11 - Season of Arrivals**
+* False Promises ([PvP](#false-promises---pvp), [PvE](#false-promises---pve))
+
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
 * Bygones ([PvP](#bygones---pvp), [PvE](#bygones---pve))
 * Interference VI ([PvE](#interference-vi---pve))
 * Last Perdition ([PvP](#last-perdition---pvp), [PvE](#last-perdition---pve))
 * Outrageous Fortune ([PvE](#outrageous-fortune---pve))
+* Steel Sybil Z-14 ([PvE](#steel-sybil-z-14---pve))
 
 ---
 ## Breachlight - PvP
@@ -2008,6 +2012,146 @@ You must absolutely run a `Counterbalance` Mod or otherwise fix the Recoil with 
   Perks 2 [ 25%]: Feeding Frenzy
   MWorks  [100%]: *
   ```
+## False Promises - PvP
+False Promises (FP) is a 360 RPM "High-Impact Frame" Kinetic Auto Rifle. Let's start with a quick comparison to randomly-rolled 450s, over on [light.gg](https://www.light.gg/db/items/compare/?h=BdCxNP;mJ1-6;Bqp0Wx;Fju9i;DmTiv3). In general the 450s are fairly the same stat-wise, with a material deviation in Aim Assist for the SSC; easily addressable with an Aim Assist mod. 
+
+Should you pick one up for use in Season 10? In Season 10, 600 RPM "Adaptive Frame" Auto Rifles are the meta (e.g. SUROS Regime, Monte Carlo, Hard Light). There's no pressing reason to chase SSC rolls for PvP.
+
+I personally love ARs, so I played with a [zero-Recoil, high Stability](https://d2gunsmith.com/w/DY2Aqw8sOokyOvhv0Wv1Ehw9zBP2FwQRxW2Ig9KX1MIo3LEpW) roll for several Iron Banner games, with both Enhanced Targeting and Enhanced Unflinching. I immediately wanted to go back to using my Arc Logic with Moving Target and Tap the Trigger :) The SSC is definitely a bit slower than you'd prefer (as are all 450 RPMs, even the vaunted Uriel's Gift these days). 
+
+That being said, if you enjoy Destiny's National Pasttime of shredding supers in sixes, a Vorpal-rolled SSC could be for you! If you're a fan of ARs or even just the SSC itself, why not pick one up and vault it just in case the meta changes? Here are a few things to keep in mind:
+
+* The lower the RPM the higher the range, and falloff for a base range SSC starts ~30m which is quite far in-game; probably at the maximum range you'd choose to engage with an Auto Rifle anyway.
+* I'm passing on `Threat Detector` because at that engagement range of 15m, you're going to feel like switching to your special weapon.
+* With a base `Recoil` of `74`, you're fine there. I shot a few magazines into a wall with `100` and the pattern was the same. Do not put on a `Counterbalance` mod or else you'll ruin the recoil pattern. 
+* I don't have any rolls featuring `Elemental Capacitor` because at some point you hit diminishing returns on all this `Stability`. I pivot around `Moving Target` because it's not something that many Auto Rifles can roll and it makes it far more lethal by directly addressing target acquisition.
+
+Here's a few rolls worth considering that you can put to work today!
+* **(PvP) Slif's "Pristine, Picture-Perfect Auto Rifle" 🧼📸 Collector's Edition (0.1% chance)**: This is my pristine, picture-perfect Auto Rifle roll. There's less than a 0.1% chance you get this, so if you do please buy us both a lottery ticket.
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 14%]: Slideshot
+  Perks 2 [ 28%]: Moving Target
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Pristine" 🧼📸 CE (Relaxed Barrels) (0.3% chance)**: Same as the above, relaxing the Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 14%]: Slideshot
+  Perks 2 [ 28%]: Moving Target
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Pristine" 🧼📸 CE (Relaxed Magazines) (0.3% chance)**: Same as the above, relaxing the Magazines.
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 14%]: Slideshot
+  Perks 2 [ 28%]: Moving Target
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Pristine" 🧼📸 CE (Relaxed Slideshot) (0.4% chance)**: Slideshot is active for two seconds starting from the slide, so you really only have about one second to put it to use. Without it, this is still a phenomenal roll.
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 28%]: Moving Target
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Pristine" 🧼📸 CE (Relaxed Slideshot and Masterwork) (1.6% chance)**: Same as the above, also relaxing the Masterwork.
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 28%]: Moving Target
+  MWorks  [100%]: *
+  ```
+* **(PvP) Slif's "Classic AR" 🎩Collector's Edition (2.8% chance)**: Let's repeat the above set of rolls by widening the Barrel and Magazine options to anything that boosts `Stability`. We're also going to be removing `Slideshot`. It works for sure, but it's not worth holding us up from banking these rolls.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 28%]: Moving Target
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Classic AR" 🎩 (Relaxed Barrels) (3.3% chance)**: Same as the above, relaxing the Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 28%]: Moving Target
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Classic AR" 🎩 (Relaxed Magazines) (6.0% chance)**: Same as the above, relaxing the Magazines.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
+  Mags    [100%]: *
+  Perks 1 [100%]: *
+  Perks 2 [ 28%]: Moving Target
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Classic AR" 🎩 (Relaxed Masterwork) (11.1% chance)**: Same as the above, relaxing the Masterworks.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 28%]: Moving Target
+  MWorks  [100%]: *
+  ```
+* **(PvP) Slif's "Super Shredder" 💥 Collector's Edition (2.8% chance)**: Shredding supers in 6s is, we can all agree, Destiny's National Pastime. We're repeating the same set of relaxed rolls above, this time pivoting around Vorpal in the final column.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 28%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Super Shredder" 💥 (Relaxed Barrels) (3.3% chance)**: Same as the above, relaxing the Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 28%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Super Shredder" 💥 (Relaxed Magazines) (6.0% chance)**: Same as the above, relaxing the Magazines.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
+  Mags    [100%]: *
+  Perks 1 [100%]: *
+  Perks 2 [ 28%]: Vorpal
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Super Shredder" 💥 (Relaxed Masterwork) (11.1% chance)**: Same as the above, relaxing the Masterworks.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 28%]: Vorpal
+  MWorks  [100%]: *
+  ```
+## False Promises - PvE
+For its base stats and perks, there isn't a whole lot of reason to consider the SSC for PvE. While it does feature Swashbuckler and Rampage, it doesn't combine it with a reload-boosting perk like Feeding Frenzy or Outlaw. Breakneck, the Gambit Pinnacle weapon with the unique perk `Onslaught` is also 450 RPM and recently received a buff in Season 10. It shreds in PvE and since it's a Legendary weapon, it can take the Season 10 Artifact mods.
+Still, there's at least a couple of reasons why you might want to consider a SSC.
+1. It's a Seraph weapon! If you're running Warmind mods on your armor, Seraph weapons will spawn Warmind Cells.
+1. It can roll with `Fourth Time's the Charm` and `Vorpal` together, which activates on Champions and in the current Season 10, Auto Rifles can take Overload mods. In the future things will rotate back around to take Anti-Barrier too. The mag seems endless when dumping in to Champions and bosses; kinda cool :)
+* **(PvE) Slif's "Butter and Citrus Bar Shredder" 🧈🍊 (4.1% chance)**: This is designed for dumping rounds in to enemies in high(er) end PvE content. FTTC and Vorpal make the roll; without both you may as well use another Vorpal weapon. Based on the past two seasons, they won't be hard to come by :)
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Fourth Time's the Charm
+  Perks 2 [ 28%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Warmind Cell Generator" ☄️ (8.0% chance)**: Run-of-the-mill Auto-Rifle PvE slayer perk set here. If you like the look, feel and sound of the Carbine as I do, you'll do solid work with this roll.
+  ```
+  Barrels [ 83%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Polygonal Rifling, Fluted Barrel
+  Mags    [ 64%]: Flared Magwell, Light Mag, Alloy Magazine
+  Perks 1 [ 28%]: Threat Detector, Slideshot
+  Perks 2 [ 52%]: Swashbuckler, Rampage
+  MWorks  [100%]: *
+  ```
 ## Black Scorpion-4sr - PvP
 [CoolGuy's review (8/2019)](https://www.youtube.com/watch?v=lFQt0MDS9JY) is great source of info for the Black Scorpion, as well as the Massive  Breakdown Podcast [Ep. 148](https://soundcloud.com/destinymassivebreakdowns/episode-148-bygones-last-perdition-and-black-scorpion-4sr-breakdowns). There are seven perks in the final two columns (versus the usual four to six) and during Season 9, this weapon does not benefit from the Rank 92 extra-final-column-perk bonus. That means these rolls are going to be super challenging to get, so we're going to relax a few constraints along the way.
 * Recoil is `60`, so using a Counterbalance mod to make it vertical is a slam dunk. Check out CoolGuy's video for a [before/after](https://www.youtube.com/watch?v=lFQt0MDS9JY&t=400).
@@ -2474,5 +2618,35 @@ It's one of the small number of Power weapons in the World Drop loot pool. You'r
   Mags    [ 22%]: Spike Grenades
   Perks 1 [ 20%]: Field Prep
   Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+## Steel Sybil Z-14 - PvE
+The Steel Sybil is a re-issue of the Crucible sword from the launch of Forsaken back in Season 4. The perks are the same as they've always been so unfortunately this Season (Season 11) will be about (re?)chasing your best roll from the past nearly two years. Whomp whomp.
+
+Fortunately the perk set is very small and chances are you'll get the roll you're after relatively quickly? When you do, rejoice! That roll will keep you all the way through Season 14.
+
+Note that swords only have one possible Masterwork (Impact) hence the appearance of "any MW will do" in the wishlist; which isn't really the case :)
+* **(PvE) Sustained DPS 🗡🗡🗡 Collector's Edition (2.7% chance)**: With Whirlwind and Relentless you'll be slicing for what seems like forever. C/o [this analysis](https://www.reddit.com/r/DestinyTheGame/comments/a2mjez/sword_awareness_1_jagged_edge_vs_honed_edge/), Jagged Edge is the clear choice for the first column, but you'll want to make sure your reserves are increased in armor. Heavy Guard sacrifices Charge Rate and massive increased all the other important sword stats, but that's fine because Charge Rate is such a compressed stat you won't notice the difference.
+  ```
+  Barrels [ 40%]: Jagged Edge
+  Mags    [ 40%]: Heavy Guard
+  Perks 1 [ 50%]: Relentless Strikes
+  Perks 2 [ 33%]: Whirlwind Blade
+  MWorks  [100%]: *
+  ```
+* **(PvE) Sustained DPS 🗡🗡 (Minus Magazines) (6.7% chance)**: Same as the CE, minus Heavy Guard. That's OK because you won't be doing all that much defending while slicing away with your sword.
+  ```
+  Barrels [ 40%]: Jagged Edge
+  Mags    [100%]: *
+  Perks 1 [ 50%]: Relentless Strikes
+  Perks 2 [ 33%]: Whirlwind Blade
+  MWorks  [100%]: *
+  ```
+* **(PvE) Sustained DPS 🗡 (Baseline) (16.7% chance)**: You really only need these two to do phenomenal amounts of sustained damage and fortunately they're pretty easy to find!
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 50%]: Relentless Strikes
+  Perks 2 [ 33%]: Whirlwind Blade
   MWorks  [100%]: *
   ```
