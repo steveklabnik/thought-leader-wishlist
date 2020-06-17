@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-06-17 04:15:16 +00:00`. The most recent
+created on `2020-06-17 04:23:16 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -2267,10 +2267,11 @@ We're going for sustained DPS and maximum range. Stability is already high enoug
   MWorks  [100%]: *
   ```
 ## Interference VI - PvE
-Grenade Launchers haven't been meta PvE DPS for some time, so why record wishlist rolls for this? A couple of reasons:
+The Interference VI (IVI) is not a Season 11 re-issue, but it is one of small number of weapons in the World Drop Power Weapon loot pool. Grenade Launchers haven't been meta PvE DPS for some time, so why record wishlist rolls for this? A couple of reasons:
 
 * This reissued IVI can now roll Full Court. The only other GLs that can roll Full Court are `Doomsday` and `Love and Death`, both of which are capped at end of Season 11 (i.e. 1060PL). Full Court, at max range (> 50m) has a 25% damage increase. It's worth picking up!
 * The perk pool is really small, with only four possibilities in the final two columns, which slightly offsets the number of perks in the first and second columns.
+* While it's not a S11 re-issue (i.e. power cap of 1310 and not 1360), it will still be useful for the next two seaons, so if you get a decent roll then it will have some longevity to it.
 
 The Power weapon pool is so small that you're going to buried under mountains of these. Chances are without even trying you're going to get a pretty decent roll. Enjoy your New Monarchy Grenader Launcher! :)
 * **(PvE) "From Dooowwwwntown" 🏀🏀🏀Collector's Edition (0.2% chance)**: If the stars align, you'll get one that bumps Velocity as high as possible.
