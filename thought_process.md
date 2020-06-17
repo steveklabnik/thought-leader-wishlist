@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-06-17 04:23:16 +00:00`. The most recent
+created on `2020-06-17 04:42:00 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -48,6 +48,7 @@ I'm of the opinion it's not worth chasing ツ
 * Bygones ([PvP](#bygones---pvp), [PvE](#bygones---pve))
 * Interference VI ([PvE](#interference-vi---pve))
 * Last Perdition ([PvP](#last-perdition---pvp), [PvE](#last-perdition---pve))
+* Outrageous Fortune ([PvE](#outrageous-fortune---pve))
 
 ---
 ## Breachlight - PvP
@@ -2437,5 +2438,41 @@ When Last Perdition was brought back with random rolls in the Season of the Drif
   Mags    [100%]: *
   Perks 1 [ 16%]: Outlaw
   Perks 2 [ 28%]: Kill Clip, Rampage
+  MWorks  [100%]: *
+  ```
+## Outrageous Fortune - PvE
+The Outrageous Fortune Grenade Launcher is a Season 11 re-issue of it Season 4 counterpart. Grenade Launchers haven't been meta PvE DPS for some time, so why record wishlist rolls for this?
+
+It's one of the small number of Power weapons in the World Drop loot pool. You're going to buried under mountains of these by the end of S11. Chances are without even trying you're going to get a pretty decent roll. Enjoy your Outrageous Fortune Grenader Launcher! :)
+* **(PvE) "Jackpot" 💸💸💸 Collector's Edition (0.6% chance)**: If the stars align, you'll get one that bumps Velocity as high as possible.
+  ```
+  Barrels [ 71%]: Quick Launch, Linear Compensator, Smart Drift Control
+  Mags    [ 22%]: Spike Grenades
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [100%]: *
+  MWorks  [ 20%]: Velocity MW
+  ```
+* **(PvE) "Jackpot" 💸💸 CE (Relaxed Barrels) (0.9% chance)**: Same as the CE, minus Barrel requirement.
+  ```
+  Barrels [100%]: *
+  Mags    [ 22%]: Spike Grenades
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [100%]: *
+  MWorks  [ 20%]: Velocity MW
+  ```
+* **(PvE) "Jackpot" 💸💸 CE (Relaxed Masterwork) (3.2% chance)**: Same as the CE, minus Masterwork requirement.
+  ```
+  Barrels [ 71%]: Quick Launch, Linear Compensator, Smart Drift Control
+  Mags    [ 22%]: Spike Grenades
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Jackpot" 💸 CE (Baseline) (4.4% chance)**: These form the core of the roll. Without them, there isn't much reason to run the OF 😀
+  ```
+  Barrels [100%]: *
+  Mags    [ 22%]: Spike Grenades
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
