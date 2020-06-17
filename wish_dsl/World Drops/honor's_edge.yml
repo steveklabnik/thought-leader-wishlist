@@ -1,0 +1,102 @@
+name: Honor's Edge
+item_id: 2857348871
+lightgg: https://www.light.gg/db/items/2857348871/honors-edge/
+slots:
+  barrels:     {t: 5, c: 2}
+  magazines:   {t: 5, c: 2}
+  perks1:      {t: 3, c: 1}
+  perks2:      {t: 5, c: 1}
+  masterworks: {t: 1, c: 1}
+groups: 
+  - 
+    name: PvE
+    summary: >
+      Honor's Edge (HE) is available in the World Drops loot pool in Season 11,
+      originally being re-issued back in Season 10. The main difference between
+      HE and SS14 is that HE can roll with `Surrounded` and `Flash Counter`,
+      two both amazing perks.
+
+
+      * `Surrounded` + `Surrounded Spec` ends up giving you a massive 35%
+      damage increase and since a Sword is in-your-face there's a high chance
+      you'll proc this regularly.
+
+      * `Flash Counter` not only disorients but 
+      [applies a 20% debuff](https://youtu.be/b9HcFqLdlyQ?t=1477)!
+      This means
+      *all incoming damange* is upped by 20%. You can imagine how helpful this
+      would be in Public Events (like the S11 Contact event), to debuff the
+      boss with up to eleven other Guardians attacking. The debuff lasts for
+      five seconds, so you'll need to periodically switch to blocking for this
+      to take effect. Given that every boss in the game stomps, this is a great
+      way to take out your anti-stomp rage 😡
+
+
+
+      Fortunately the perk set is very small and chances are you'll get the
+      roll you're after relatively quickly? When you do, rejoice! That roll
+      will keep you all the way through Season 13.
+
+
+      *Note that swords only have one possible Masterwork (Impact) hence the
+      appearance of "any MW will do" in the wishlist; which isn't really the
+      case*
+    rolls:
+      - &heclassic
+        name: (PvE) "Lawnmower Man" 🚜🚜🚜 Collector's Edition 
+        desc: >
+          With Surrounded up, you'll be mowing through hordes of adds in no
+          time.
+          C/o
+          [this analysis](https://www.reddit.com/r/DestinyTheGame/comments/a2mjez/sword_awareness_1_jagged_edge_vs_honed_edge/),
+          Jagged Edge is the clear choice for the first column, but you'll want
+          to make sure your reserves are increased in armor. Heavy Guard
+          sacrifices Charge Rate and massive increased all the other important
+          sword stats, but that's fine because Charge Rate is such a compressed
+          stat you won't notice the difference.
+        barrels: [Jagged Edge]
+        magazines: [Heavy Guard]
+        perks1: [Relentless Strikes]
+        perks2: [Surrounded]
+        masterworks: [Impact MW]
+      -
+        <<: *heclassic
+        name: (PvE) "Lawnmower Man" 🚜🚜 CE 
+        desc: >
+          Same as the CE, minus Heavy Guard. That's OK because you won't be
+          doing all that much defending while slicing away with your sword.
+        magazines: []
+      -
+        <<: *heclassic
+        name: (PvE) "Lawnmower Man" 🚜 Baseline
+        desc: >
+          You really only need these two to do phenomenal amounts of 
+          damage and fortunately they're pretty easy to find!
+        barrels: []
+        magazines: []
+      - &heparry
+        <<: *heclassic
+        name: (PvE) "Perfect Parry" ⚔️⚔️⚔️ Collector's Edition
+        desc: >
+          `Flash Counter` is akin to parrying in many games, where a perfectly
+          timed block will stagger your attacker. Same set of rolls as above,
+          but with `Flash Counter` in the final column.
+        magazines: [Burst Guard, Enduring Guard]
+        perks2: [Flash Counter]
+      -
+        <<: *heparry
+        name: (PvE) "Perfect Parry" ⚔️⚔️ CE (Expanded Magazines)
+        desc: >
+          Same as the CE, minus Heavy Guard. That's OK because you won't be
+          doing all that much defending while slicing away with your sword.
+        magazines: [Burst Guard, Enduring Guard, Heavy Guard, Balanced Guard]
+      -
+        <<: *heparry
+        name: (PvE) "Perfect Parry" ⚔️ Baseline
+        desc: >
+          Baseline `Guard Efficiency` is pretty awful, but if you're able to
+          time it right, you won't have to keep it up for long so maybe you're
+          OK with it?
+        barrels: []
+        magazines: []
+
