@@ -1,0 +1,137 @@
+name: Line in the Sand
+item_id: 946443267
+lightgg: https://www.light.gg/db/items/946443267/line-in-the-sand/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 2}
+  masterworks: {t: 5, c: 1}
+groups:
+  - 
+    name: PvP
+    summary: >
+      Ages ago, Fallout put out a
+      [Crooked Fang God Roll video](https://www.youtube.com/watch?v=TB-s1IYDpeQ)
+      and lo' and behold, Line in the Sand is basically an Arc Crooked Fang! So
+      let's get to taking their command out one by... We can rely on that review
+      for some solid tips. Is it a PvP workhorse? Nah but fun is fun so if you
+      like LFRs, go nuts.
+    rolls:
+      - &lpvppicky
+        name: (PvP) Fallout's Arc Fang Collector's Edition ☢️
+        desc: >
+          "The" God Roll from Fallout's video above.
+        barrels: [Hammer-Forged Rifling, Full Bore]
+        magazines: [Accelerated Coils]
+        perks1: [Moving Target]
+        perks2: [Backup Plan]
+        masterworks: [Charge MW]
+      - 
+        <<: *lpvppicky
+        name: (PvP) Arc Fang CE ☢️ (Relaxed Magazines)
+        desc: >
+          Without Accelerated Coils, still amazing.
+        magazines: []
+      - 
+        <<: *lpvppicky
+        name: (PvP) Arc Fang CE ☢️ (Relaxed Perks)
+        desc: >
+          Without Backup Plan, still amazing.
+        perks2: []
+      - 
+        <<: *lpvppicky
+        name: (PvP) Arc Fang CE ☢️ (Relaxed Masterwork)
+        desc: >
+          Without Charge Time, it's still amazing.
+        masterworks: []
+      - &lpreasonable
+        <<: *lpvppicky
+        name: (PvP) A Reasonable Fang, Slif's Edition 👨‍🌾
+        desc: >
+          Let's widen Fallout's a bit. Any Range barrel and Range magazine are
+          totally fine. Unfortunately there are no other perks in the other
+          columns that are usable.
+        barrels: [Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Full Bore]
+        magazines: [Accelerated Coils, Projection Fuse]
+      - 
+        <<: *lpreasonable
+        name: (PvP) Reasonable Fang 👨‍🌾(Relaxed Perks)
+        desc: >
+          Without Backup Plan, still amazing.
+        perks2: []
+      - 
+        <<: *lpreasonable
+        name: (PvP) Reasonable Fang 👨‍🌾(Relaxed Masterwork)
+        desc: >
+          Without Charge Time, it's still amazing.
+        masterworks: []
+      -
+        <<: *lpreasonable
+        name: (PvP) Reasonable Fang 👨‍🌾 (Totally Relaxed)
+        desc: >
+          Sans Backup Plan and Masterwork
+        perks2: []
+        masterworks: []
+  - 
+    name: PvE
+    summary: >
+      Datto posted some in-depth comparisons between LitS and other DPS weapons
+      [earlier in Season 9](https://www.youtube.com/watch?v=ltzDK0NWMgM). As we
+      approach the final third of Season 9, it's still not a great DPS choice,
+      but it "can compete with the likes of Sole Survivor" but who knows what
+      will happen in the future? Since it's so easy to farm and S92 gives you
+      an extra perk in the final slot, why not hang on to these?
+    rolls:
+      - &lsuperpicky
+        name: (PvE) Super Picky DPS
+        desc: >
+          The full suite of perks to maximize DPS on a big ol' target. We're
+          looking for some Stability-enhancing barrels as well.
+        barrels: [Fluted Barrel, Corkscrew Rifling, Smallbore, Chambered Compensator, Polygonal Rifling]
+        magazines: [Accelerated Coils]
+        perks1: [Rapid Hit]
+        perks2: [Firing Line]
+        masterworks: [Charge MW]
+      -
+        <<: *lsuperpicky
+        name: (PvE) Super Picky DPS (Relaxed Masterwork)
+        desc: >
+          Same as the above, minus masterworks.
+        masterworks: []
+      -
+        <<: *lsuperpicky
+        name: (PvE) Super Picky DPS (Relaxed Mags)
+        desc: >
+          Same as the above, with more Magazines.
+        magazines: [Accelerated Coils, Particle Repeater, Projection Fuse]
+      -
+        <<: *lsuperpicky
+        name: (PvE) Super Picky DPS (Relaxed Mags and Masterwork)
+        desc: >
+          Same as the above, minus masterworks.
+        magazines: [Accelerated Coils, Particle Repeater, Projection Fuse]
+        masterworks: []
+      - 
+        <<: *lsuperpicky
+        name: (PvE) Baseline / Future-Proofing
+        desc: >
+          Really, any roll with these two perks is Good Enough(tm).
+        magazines: []
+        masterworks: []
+      - &lzapper
+        name: (PvE) Arc Bug Zapper 🐞
+        desc: >
+          General purpose PvE roll, taking advantage of the only damage perk
+          on offer. We're looking for Stability wherever we can find it.
+        barrels: [Fluted Barrel, Corkscrew Rifling, Smallbore, Chambered Compensator, Polygonal Rifling]
+        magazines: [Enhanced Battery, Ionized Battery, Particle Repeater, Projection Fuse]
+        perks1: [Rapid Hit]
+        perks2: [Rampage]
+        masterworks: [Handling MW, Reload MW, Range MW, Stability MW]
+      -
+        <<: *lzapper
+        name: (PvE) Arc Bug Zapper 🐞(Relaxed Masterwork)
+        desc: >
+          Same as the above, minus masterworks.
+        masterworks: []

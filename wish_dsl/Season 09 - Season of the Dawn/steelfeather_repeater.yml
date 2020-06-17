@@ -1,0 +1,85 @@
+name: Steelfeather Repeater
+item_id: 1251729046
+lightgg: https://www.light.gg/db/items/1251729046/steelfeather-repeater/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 5, c: 2}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: PvP
+    summary: >
+      CoolGuy does a [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI)
+      of Steelfeather and it doesn't have super high marks for PvP. The base
+      Stability at `38` is abysmal, so for a decent PvP roll we're looking to
+      correct that. If we fix Recoil, it mitigates such low Stability. A base
+      Recoil of `57` means we're not going to be able to bring it under control
+      unless we use Arrowhead Brake with a Counterbalance mod. From there on out,
+      we're going for as much Stability as we can. Without Stability and Recoil
+      mitigation, there's not a lot of reason to use this weapon, hence the small
+      number of PvP rolls. If you want to see firsthand why Firmly Planted is so
+      amazing, [check out this timestamp](https://youtu.be/anp5VBGfhmI?t=214) for
+      PvE testing and [this timestamp](https://www.youtube.com/watch?v=anp5VBGfhmI&feature=youtu.be&t=689)
+      for PvP. "I feel it's a decent weapon. I personally don't crown it anything
+      beyond it's a fun AR to have in your rotation."
+    rolls:
+      - &sfrecoil
+        name: (PvP) Super Picky Straight-Up Recoil 
+        desc: >
+          We're looking to max Stability and Range after maxing recoil.
+          The roll is built around `Arrowhead Brake` and `Firmly Planted`. Other
+          sources of stability are gravy.
+        barrels: [Arrowhead Brake]
+        magazines: [High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Light Mag]
+        perks1: [Firmly Planted]
+        perks2: [Vorpal]
+        masterworks: [Range MW]
+      - 
+        <<: *sfrecoil
+        name: (PvP) Super Picky Max Range
+        desc: >
+          Most of our stability will come from Firmly Planted so lets use the
+          barrels and magazines to push out the range. 
+        barrels: [Hammer-Forged Rifling, Smallbore, Extended Barrel, Full Bore, Corkscrew Rifling]
+
+  - 
+    name: PvE
+    summary: >
+      There are two long form Steelfeather reviews kicking around. CoolGuy does a
+      [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI) of the
+      weapon overall with PvE and PvP thoughts. [Aztecross](https://www.youtube.com/watch?v=zdhugEZT1C4)
+      has one as well and per usual, has a bit more excited yelling :) Interestingly
+      they both compare it to a "higher range SMG". They also both comment on its
+      applicability (or lack of) to anything beyond slaying red-bar enemies. In
+      Sundial for example, it runs out of steam. Oddly enough, Breachlight performs
+      better in that role; go figure. "I feel it's a decent weapon. I personally
+      don't crown it anything beyond it's a fun AR to have in your rotation."
+    rolls:
+      - &sfsuperpicky
+        name: (PvE) Super Picky
+        desc: > 
+          How can we keep DPS up as long as possible while preserving as much Range
+          and Stability as possible?
+        barrels: [Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore]
+        magazines: [Ricochet Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag]
+        perks1: [Feeding Frenzy, Subsistence]
+        perks2: [Swashbuckler, Multikill Clip]
+        masterworks: [Stability MW, Range MW]
+      -
+        <<: *sfsuperpicky
+        name: (PvE) Super Punchy Picky 👊
+        desc: >
+          Classic punchy combo!
+        perks1: [Grave Robber]
+        perks2: [Swashbuckler]
+      -
+        <<: *sfsuperpicky
+        name: (PvE) Shieldbreaker / Future-Proofing
+        desc: >
+          With artifacts all over the map, it's possible we get another Barrier mod
+          that applies to Auto Rifles. This could be a fun one to bank.
+        magazines: [Armor-Piercing Rounds]
+        perks2: [Osmosis]
+        masterworks: []

@@ -1,0 +1,135 @@
+name: Breachlight
+item_id: 1289997971
+lightgg: https://www.light.gg/db/items/1289997971/breachlight/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 2}
+  masterworks: {t: 4, c: 1}
+groups:
+  - 
+    name: PvP
+    summary: >
+      CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is
+      both PvE and PvP but focuses intensely on PvP. Some choice cuts: "I
+      would try other rolls while I was reviewing this and I kept coming back to
+      Vorpal." "Landing shots is more important than accuracy; shouldn't be
+      worried about straight precision. More important to get the recoil
+      straight up and down than it is to add stability because you have to
+      control the stability after every burst anyway." I have to agree - Vorpal
+      is pretty amazing in PvP and I did wish I had it several times. Without
+      Vorpal, it's just another two-burst sidearm. You may as well use a
+      Smuggler's Word with Tap the Trigger, which has one of the lowest TTKs in
+      all of Destiny.
+    rolls:
+      - &slifs
+        name: (PvP) Slif's Picky Super Killer 💥
+        desc: >
+          This is my personal perfect PVP roll. Threat Detector has a far longer
+          range than you'd think (beyond damage falloff) and Vorpal shreds through
+          supers. The rest of this roll is all about maxing out the range.
+        barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+        magazines: [Accurized Rounds]
+        perks1: [Threat Detector]
+        perks2: [Vorpal]
+        masterworks: [Range MW]
+      - 
+        <<: *slifs
+        name: (PvP) Slif's Picky Super Killer 💥(Minus Accurized)
+        desc: >
+          With a Range Masterwork, you can make up for not having Accurized
+        magazines: []
+      - 
+        <<: *slifs
+        name: (PvP) Slif's Picky Super Killer 💥(Minus Range MW)
+        desc: >
+          With Accurized, we're not as worried about the Range Masterwork.
+        masterworks: []
+      - 
+        <<: *slifs
+        name: (PvP) Slif's Picky Super Killer 💥(Minus Threat)
+        desc: >
+          While Threat Detector is solid, missing it doesn't change how amazing
+          this roll would otherwise be.
+        perks1: []
+      - &superpicky
+        <<: *slifs
+        name: (PvP) Picky Super Killer
+        desc: >
+          Let's reboot by widening our acceptable barrels.
+        barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel, Full Bore]
+      -
+        <<: *superpicky
+        name: (PvP) Picky Super Killer (Minus Magazines)
+        desc: >
+          Same as before, minus magazines. Still a phenomenal roll without any
+          particular magazine.
+        magazines: []
+      - 
+        <<: *superpicky
+        name: (PvP) Picky Super Killer (Minus Threat Detector)
+        desc: >
+          Same as before, minus Threat Detector since the roll is amazing
+          without it.
+        perks1: []
+      - 
+        <<: *superpicky
+        name: (PvP) Picky Super Killer (Minus Threat Detector and Magazines)
+        desc: >
+          Same as before, minus Threat Detector since the roll is amazing
+          without it.
+        magazines: []
+        perks1: []
+
+  - 
+    name: PvE
+    summary: >
+      Ehroar focuses on Breachlight - ["This Sidearm Might Just Be The New Recluse"](https://www.youtube.com/watch?v=TrYRPglvMHY)
+      "I truly believe this weapon is better than Recluse and I believe it will be
+      the new meta for PvE." He mentions three amazing rolls (well four kinda)
+      that I'll capture below. You won't see obviously good rolls here (e.g.
+      Outlaw + MKC) because the combination is so straightforward and easy to
+      roll. I.e. you don't need to come to a DIM wishlist to tell you that these
+      perks pair well togther :)
+    rolls:
+      - &gunslinger
+        name: (PvE) Picky Gunslinger
+        desc: >
+          Ehroar: "Great for basic add clear. Once you get MKC going you can
+          shred Majors and Ultras." We're going for max range with some extra
+          perks and a Masterwork, but those are just icing on this shredding
+          cake. The lack of a Range Masterwork, or any specific Masterwork
+          doesn't make or break this roll so I'm leaving it out.
+        barrels: [Hammer-Forged Rifling, Smallbore, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling]
+        magazines: [Tactical Mag, Accurized Rounds, Flared Magwell]
+        perks1: [Outlaw]
+        perks2: [Multikill Clip]
+        masterworks: []
+      - 
+        <<: *gunslinger
+        name: (PvE) Picky Never-Reloader
+        desc: >
+          Once you get on a tear, the damage perks will recharge your grenade
+          quickly and by throwing it, you'll reload the mag. Rinse and repeat.
+          This is especially spicy when paired with Devour-lock.
+        perks1: [Demolitionist]
+        perks2: [Rampage, Multikill Clip]
+      - 
+        <<: *gunslinger
+        name: (PvE) Picky Master of the Void
+        desc: >
+          Pair with Devour-lock and Nezarac's sin and you'll be flush with health,
+          grenades and ability energy.
+        perks1: [Demolitionist]
+        perks2: [Osmosis]
+      -
+        <<: *gunslinger
+        name: (PvE) Picky (Mini)Boss Shredder
+        desc: >
+          With a Major or Boss spec, Breachlight surprisingly wrecks. Throw this
+          on in Sundial and watch what happens to Champions and Bosses.
+        perks1: []
+        perks2: [Vorpal]
+        masterworks: [Range MW]
+        

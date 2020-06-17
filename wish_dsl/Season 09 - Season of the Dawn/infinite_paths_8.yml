@@ -1,0 +1,124 @@
+name: Infinite Paths 8
+item_id: 3233390913
+lightgg: https://www.light.gg/db/items/3233390913/infinite-paths-8/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:
+  - 
+    name: PvP
+    summary: >
+      CoolGuy reviews IP8 for both PvP and PvE, which is where these rolls
+      originate. He discusses the State of the Union with respect to these frames
+      [timestamped here](https://www.youtube.com/watch?v=-ZnUT63RgnE&t=1023)
+      and it makes for super interesting listening. TL;DR - Of all the Pulse
+      Rifle frames, the lightweights require you to be the most precise yet reward
+      you with the second slowest TTK. They're the only ones he feels are not
+      currently competitive. Given that they used to be the best frames in D1
+      (remember Hawksaw?), file one away for a future date.
+
+    rolls:
+      - &ipmiddle
+        name: (PvP) "CoolGuy's Middle Child" Collector's Edition
+        desc: >
+          In the video above, CoolGuy makes a strong case for some buffs to this
+          "middle" archetype of Pulse Rifle. "On console, Zen Moment and Eye of
+          the Storm are great but you're going to get more utility from Zen
+          Moment." We'll add EotS in later as a fallback.
+        barrels: [Chambered Compensator]
+        magazines: [Accurized Rounds]
+        perks1: [Moving Target]
+        perks2: [Zen Moment]
+        masterworks: [Stability MW]
+      -
+        <<: *ipmiddle
+        name: (PvP) "Middle Child" CE (No Masterwork)
+        desc: >
+          We have so much Stability and accuracy from other perks, this is a
+          terrific roll even without it.
+        masterworks: []
+      -
+        <<: *ipmiddle
+        name: (PvP) "Middle Child" CE (No Zen)
+        desc: >
+          We have so much Stability and accuracy from other perks, this is a
+          terrific roll even without it.
+        perks2: []
+      - &ipbarrels
+        <<: *ipmiddle
+        name: (PvP) "Middle Child" CE (Relaxed Barrels)
+        desc: >
+          Same as the above with all Stability-enhancing barrels
+        barrels: [Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling, Smallbore]
+      - &ipmags
+        <<: *ipbarrels
+        name: (PvP) "Middle Child" CE (Relaxed Magazines)
+        desc: >
+          Same as the above with any Range or Stability-enhancing magazine.
+        magazines: [Accurized Rounds, Tactical Mag, Steady Rounds, Flared Magwell]
+      -
+        <<: *ipmags
+        name: (PvP) "Middle Child" CE (Relaxed Zen)
+        desc: >
+          We have so much Stability and accuracy from other perks, this is a
+          terrific roll even without it.
+        perks2: []
+      -
+        <<: *ipmags
+        name: (PvP) "Middle Child" CE (Relaxed Masterwork)
+        desc: >
+          Another +10 Stability from the Masterwork would be terrific but if we
+          get everything else, we're still in good shape.
+        masterworks: []
+      - &iphurricane
+        <<: *ipmags
+        name: (PvP) "Middle Child" CE (Hurricane)
+        desc: >
+          EotS is our second choice; perhaps a bit less helpful than Zen, but
+          still a beast.
+        perks2: [Zen Moment, Eye of the Storm]
+      -
+        <<: *iphurricane
+        name: (PvP) "Middle Child" CE (Relaxed Masterwork)
+        desc: >
+          Sans Masterwork, still an interesting roll.
+        masterworks: []
+
+  - 
+    name: PvE
+    summary: >
+      Here we're featuring a few rolls from the CoolGuy [video](https://www.youtube.com/watch?v=-ZnUT63RgnE)
+      mentioned above. I would put these pretty low on my list but if you're a
+      fan of the aesthetic of the Osiris weapons, why not grab a few of these
+      while they're still available? "It performs as expected. Great for mid-
+      and low-tier adds. It does really well."
+
+
+      These rolls are just north of 2% because of the number of perks in the
+      final two columns `(0.16 * 0.16 = 0.02)`, and the fact that they don't
+      benefit from the Season 9 Rank 92 bonus of an additional perk in the
+      final column.
+    rolls:
+      - &ipdragon
+        name: (PvE) Explosive Dragon 🐉
+        desc: >
+          This is the one of the few weapons in the game that can roll with
+          Demolitionist + Dragonfly. Each enemy that dies to Dragonfly (don't
+          forget Dragonfly Spec!) will count as an additional kill for
+          Demolitionist.
+        barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Smallbore, Fluted Barrel, Extended Barrel, Hammer-Forged Rifling, Polygonal Rifling]
+        magazines: [Tactical Mag, Appended Mag, Drop Mag, Alloy Magazine]
+        perks1: [Demolitionist]
+        perks2: [Dragonfly]
+        masterworks: []
+      - 
+        <<: *ipdragon
+        name: (PvE) Punchy 👊
+        desc: >
+          Classic punching. Not sure why you'd be punching enemies with your
+          Pulse Rifle equipped but I'm not the boss of you. 👊PUNCH AWAY!👊
+        perks1: [Grave Robber]
+        perks2: [Swashbuckler]

@@ -1,0 +1,202 @@
+name: Perfect Paradox
+item_id: 3393519051
+lightgg: https://www.light.gg/db/items/3393519051/perfect-paradox/
+slots:
+  barrels:     {t: 6, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 2}
+  masterworks: {t: 4, c: 1}
+groups:   
+  - 
+    name: PvP
+    summary: >
+      Rapid-fire frames in PvP are a different breed. They're not like
+      Aggressive or Precision Frames for the spicy, consistent one-hit kills.
+      If you want something like that in this slot, you want to farm Menagerie
+      for
+      [Dust Rock Blues](https://www.light.gg/db/items/636912560/dust-rock-blues/)
+      or even
+      [Toil and Trouble](https://www.light.gg/db/items/2957367743/toil-and-trouble/).
+
+
+      The big debate here will be Opening Shot or Rampage. Many folks, like Sheikh
+      (aka [Destiny Fun Police](https://www.youtube.com/watch?v=njEmXDccobw))
+      prefer Rampage + Rampage Spec in the final slot. I don't and here's why:
+
+
+      1. Rapid-fire frames require 12 pellets to kill. Each tier of Rampage
+      decreases the number of pellets needed by one. Here's DFP going on a
+      [killing spree](https://youtu.be/OSTDpEo7_D4?t=187) with Rampage x 2, the
+      tier where you need 10 pellets to kill (i.e. a Dust Rock Blues pellet
+      count). If you're going to two-tap basically no matter what, I'd rather
+      have Opening Shot to increase the chance more of my pellets hit. Even
+      DFP says, "Using a Rapid-Fire shotgun you're going to have to double-tap
+      most people."
+
+      2. I prefer to use Icarus Grip in my mod slot. That doesn't negate
+      the power of Rampage in general but if you're not going to run Rampage
+      Spec, that's even less of a reason to consider running Rampage.
+
+
+      Based on the YouTube content creator hive mind, I'm in the minority on this
+      opinion. It's easy to farm; be your own judge :)
+      
+    rolls:
+      - &ppaztec
+        name: (PvP) Aztecross Collector's Edition 🌶
+        desc: >
+          Alright, here's a spicy take. Firmly Planted works while sliding and
+          increases Accuracy **specifically**, not indirectly via Range. We
+          discussed Opening Shot above and how I value hitting more pellets all
+          the time versus doing a negligible additional amount of damage
+          when Rampage is active, some of the time. This is the first roll that
+          [Aztecross](https://www.youtube.com/watch?v=vGe3z2doHbQ)
+          uses in his video review (among others). It cleans up!
+        barrels: [Full Choke]
+        magazines: [Accurized Rounds]
+        perks1: [Firmly Planted]
+        perks2: [Opening Shot]
+        masterworks: [Range MW]
+      - &ppaztecperk1
+        <<: *ppaztec
+        name: (PvP) Aztecross CE 🌶(Relaxed First Perk)
+        desc: >
+          Slideshot will be juuuuust fine here.
+        perks1: [Firmly Planted, Slideshot]
+      - 
+        <<: *ppaztec
+        name: (PvP) Aztecross CE 🌶(Relaxed Barrel)
+        desc: >
+          Rifled Barrel will be juuuuust fine here.
+        barrels: [Full Choke, Rifled Barrel]
+      - 
+        <<: *ppaztecperk1
+        name: (PvP) Aztecross CE 🌶(Relaxed First Perk and Barrel)
+        desc: >
+          Combining the previous two rolls.
+        barrels: [Full Choke, Rifled Barrel]
+      -
+        <<: *ppaztec
+        name: (PvP) Aztecross CE 🌶(Totally Relaxed)
+        desc: >
+          Amazing roll still.
+        barrels: [Full Choke, Rifled Barrel]
+        perks1: [Firmly Planted, Slideshot]
+        masterworks: []
+      - &ppdfp
+        name: (PvP) Destiny Fun Police Collector's Edition 👮‍♂️
+        desc: >
+          DFP's favourite roll!
+        barrels: [Full Choke]
+        magazines: [Accurized Rounds]
+        perks1: [Slideshot]
+        perks2: [Rampage]
+        masterworks: [Range MW]
+      - &ppdfpperk1
+        <<: *ppdfp
+        name: (PvP) DFP CE 👮‍♂️(Relaxed First Perk)
+        desc: >
+          Slideshot will be juuuuust fine here.
+        perks1: [Firmly Planted, Slideshot]
+      - 
+        <<: *ppdfp
+        name: (PvP) DFP CE 👮‍♂️(Relaxed Barrel)
+        desc: >
+          Rifled Barrel will be juuuuust fine here.
+        barrels: [Full Choke, Rifled Barrel]
+      - 
+        <<: *ppdfpperk1
+        name: (PvP) DFP CE 👮‍♂️(Relaxed First Perk and Barrel)
+        desc: >
+          Combining the previous two rolls.
+        barrels: [Full Choke, Rifled Barrel]
+      -
+        <<: *ppdfp
+        name: (PvP) DFP CE 👮‍♂️(Totally Relaxed)
+        desc: >
+          Amazing roll still.
+        barrels: [Full Choke, Rifled Barrel]
+        perks1: [Firmly Planted, Slideshot]
+        masterworks: []
+  - 
+    name: PvE
+    summary: >
+      There's a good bit of [cargo-culting](https://en.wiktionary.org/wiki/cargo_culting)
+      when it comes to shotgun "God Rolls" and while I don't think there's any
+      outright awful damage perks here, I do think you're better off with some
+      than with others. [Aztecross](https://www.youtube.com/watch?v=vGe3z2doHbQ)
+      is a good balance of science and excitement in terms of roll knowledge, so
+      check it out; he's one of the rare folks to see the value in the
+      criminally underrated Firmly Planted on shotguns.
+      
+
+      There are a ton of damage-boosting perks on Perfect Paradox! We have
+      Swashbuckler, One-Two Punch, Trench Barrel and Rampage. Let's go!
+      
+      * **One-Two Punch**: If you're going to be using One-Two, you're better off
+      with a high(er) impact shotgun. Your flow is shoot-punch-punch-shoot-...
+      and with a Rapid Fire frame, your "shoot" is doing very little damage,
+      comparatively. The perk is solid, but not on this frame IMHO.
+
+      * **Trench Barrel**: Post-Warmind, Trench Barrel took it on the chin. It was
+      limited to a few seconds or three shots. Given that Bungie has never gone
+      back on a nerf, feel free to pick one of these up for posterity but it's
+      not all that great. It's kind of like the reverse One-Two Punch. Your flow
+      is punch-shoot-shoot-shoot-punch-... so it's better for large(r) add clear
+      but if you're dealing with larger adds/bosses you're getting stomped away
+      so yeah, it's fine but not anyone's go-to at the moment.
+      
+      * **Rampage**: Solid! Not much to say here; same as it ever was. Throw a
+      Rampage Spec mod on to extend the duration by 1s.
+      
+      * **Swashbuckler**: I prefer Swashbuckler here because it lasts as long as
+      Rampage + Rampage Spec and you can shortcut the with a melee to Swash x 5.
+      
+
+      BONUS! From Ehroar, a pretty slick [Infinite Ammo Perfect Paradox Build](https://www.youtube.com/watch?v=xlqw1OEGVl0)!
+      
+    rolls:
+      - &ppdemo
+        name: (PvE) Super Picky Demolitionist 💣
+        desc: >
+          With an extra one in the mag from Appended and Demolitionist, you're
+          going to be constantly reloading your magazine.
+        barrels: [Smallbore, Barrel Shroud, Corkscrew Rifling, Full Choke]
+        magazines: [Appended Mag]
+        perks1: [Demolitionist]
+        perks2: [Swashbuckler]
+        masterworks: []
+      -
+        <<: *ppdemo
+        name: (PvE) Demolitionist 💣 (Relaxed Mags)
+        desc: >
+          Same as the above, but the mags aren't harmful so we're relaxing.
+        magazines: [Appended Mag, Light Mag, Accurized Rounds]
+      - 
+        name: (PvE) Runner and Gunner 🏃‍♂️
+        desc: >
+          Keep sliding and shooting and sliding and shooting...
+        barrels: [Smallbore, Barrel Shroud, Corkscrew Rifling, Full Choke]
+        magazines: [Appended Mag, Light Mag, Accurized Rounds]
+        perks1: [Slideshot]
+        perks2: [Swashbuckler, Rampage]
+        masterworks: []
+      - &pptrench
+        name: (PvE) Fiiine, Trench Barrel 🤷‍♂️
+        desc: >
+          You really want a Trench Barrel roll don't you? Let's go with 
+          Appended for a larger mag (presumably you're dyyying to throw a Boss
+          or Major Spec mod on here) and Field Prep for faster reload when
+          you're crouched in front of a boss/major.
+        barrels: [Smallbore, Barrel Shroud, Corkscrew Rifling, Full Choke]
+        magazines: [Appended Mag]
+        perks1: [Field Prep]
+        perks2: [Trench Barrel]
+        masterworks: []
+      -
+        <<: *pptrench
+        name: (PvE) Fiiine, Trench Barrel 🤷‍♂️(Relaxed Magazines)
+        desc: >
+          Losing one in the mag will be fine, go nuts with your TB roll.
+        magazines: [Appended Mag, Light Mag, Accurized Rounds]

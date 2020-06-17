@@ -1,0 +1,110 @@
+name: Trophy Hunter
+item_id: 4166221755
+lightgg: https://www.light.gg/db/items/4166221755/trophy-hunter/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 4, c: 1}
+  perks2:      {t: 4, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: PvP
+    summary: >
+      More of a PvE sniper, so we aren't going to have much to lay down here for
+      a great roll. If you're hungry for a PvP Energy sniper, you want the 
+      Beloved (Menagerie), Apostate (Altar of Sorrows) or Twilight Oath
+      (Dreaming City). CoolGuy: ["It's OK, nothing special."](https://www.youtube.com/watch?v=dGHNinCK3HI)
+      Handling additions are appreciated because it's such a clunky weapon.
+      I toyed with not even having rolls here but it's easy to farm and only
+      here this season; why not grab a decent roll?
+    rolls:
+      - &thpsion
+        name: (PvP) "Snipe Like a Psion!" 🐲
+        desc: >
+          Psions use Trophy Hunter - who knew? "Pulse Monitor"?! Yeah, there's
+          only four perks in the third column and it's the only one applicable
+          to PvP. The is the only randomly-rolled sniper in the game with Pulse
+          Monitor. Everythig else is attempting to buff the Handling so it
+          doesn't feel so sluggish.
+        barrels: [Arrowhead Brake, Corkscrew Rifling, Fluted Barrel]
+        magazines: [Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell]
+        perks1: [Pulse Monitor]
+        perks2: [Snapshot]
+        masterworks: [Handling MW]
+      - &thnopulse
+        <<: *thpsion
+        name: (PvP) "Snipe Like a Psion!" (Relaxed Pulse) 🐲
+        desc: >
+          Same as the above, minus `Pulse Monitor` which really is not a big
+          deal in the first place, but neat to have if you're burning through
+          Fractaline for these rolls.
+        perks1: []
+      - &thbarrels
+        <<: *thnopulse
+        name: (PvP) "Snipe Like a Psion!" (Relaxed Barrels) 🐲
+        desc: >
+          Same as the above, with a more permissive set of barrels expanded to
+          anything that doesn't reduce Handling.
+        barrels: [Arrowhead Brake, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Smallbore, Hammer-Forged Rifling]
+      
+  - 
+    name: PvE
+    summary: >
+      CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/watch?v=dGHNinCK3HI)
+      "Solo" also means "playing solo with a random group" (i.e. not coordinated).
+      Nearly a perfect sniper for Gambit, especially paired with Malfeasance.
+      You'll note these rolls are pretty strict, and that's because there are
+      so few perks in the final two columns. Handling is so, so low on this
+      sniper that I think you absolutely want the +20-25 Handling from a combo
+      of the barrel perk and Masterwork.
+    rolls:
+      - &thseven
+        name: (PvE) "Triple Tap Your Way to Seven"
+        desc: >
+          That's a quote from CoolGuy's review :) Throw a `Backup Mag` mod on here
+          to be able to do that.
+        barrels: [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling]
+        magazines: [Appended Mag, Extended Mag]
+        perks1: [Triple Tap]
+        perks2: [Vorpal]
+        masterworks: [Handling MW]
+      - 
+        <<: *thseven
+        name: (PvE) "Triple Tap Your Way to Seven" (Sans MW)
+        desc: >
+          Same as the above, minus the Masterwork.
+        masterworks: []      
+      - &thgambit
+        name: (PvE) Gambit Shieldbreaker
+        desc: >
+          Yep it works great outside of Gambit, but even better within. Pair it
+          with Malfeasance. Shoot shields, break them and it refills the mag. Then
+          switch to Malfeasance (Kinetic with bonus Taken damage) and MELT.
+        barrels: [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling]
+        magazines: [Appended Mag, Tactical Mag, Extended Mag, Accurized Rounds, Alloy Magazine, Flared Magwell]
+        perks1: [Genesis]
+        perks2: [Disruption Break]
+        masterworks: [Handling MW]
+      -
+        <<: *thgambit
+        name: (PvE) Gambit Shieldbreaker (Sans MW)
+        desc: >
+          Same as the above, minus the Masterwork.
+        masterworks: []      
+      - &thinfinite
+        name: (PvE) Infinite Ammo
+        desc: >
+          Heavyweight modifier? Never run out of ammo. Famine modifier? That rare
+          Heavy brick is like finding a Special brick at the same time.
+        barrels: [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling]
+        magazines: [Appended Mag, Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell]
+        perks1: [Lead from Gold]
+        perks2: [Vorpal, Disruption Break]
+        masterworks: [Handling MW]
+      -
+        <<: *thinfinite
+        name: (PvE) Infinite Ammo (Sans MW)
+        desc: >
+          Same as the above, minus the Masterwork.
+        masterworks: [] 

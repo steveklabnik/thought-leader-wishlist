@@ -1,0 +1,137 @@
+name: Traveler's Judgement 5
+item_id: 4149758318
+lightgg: https://www.light.gg/db/items/4149758318/travelers-judgment-5/
+slots:
+  barrels: {t: 6, c: 2}
+  magazines: {t: 8, c: 2}
+  perks1: {t: 6, c: 1}
+  perks2: {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: PvP
+    summary: >
+      CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZQdY4)!
+      There isn't a bad sight and it has little to no recoil. It can roll with
+      Disruption Break which works in PvP (?!) as well as a combo of Rapid Hit
+      and Tap the Trigger, which is a rare combo. 
+      Keep in mind TJ5 doesn't benefit from from the Season 9 R92 additional
+      perk in the last slot, so these rolls are *tough* to get. Recently, True
+      Vanguard [released a video](https://www.youtube.com/watch?v=9QXBw6NFi08)
+      and that reminded me to get a little more specific on the picky rolls.
+    rolls:
+      - &t5perfect
+        name: (PvP) "Perfectly Balanced, As All Things Should Be" 🦹‍♂️
+        desc: >
+          With an `84` base Stability and two Stability perks in the third and
+          fourth columns, let's focus on increasing Range (not at the cost of
+          Stability).
+        barrels: [Quickdot SAS, Control SAS, Tactic SAS, Shortspec SAS]
+        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds]
+        perks1: [Rapid Hit]
+        perks2: [Tap the Trigger]
+        masterworks: [Range MW]
+      - &t5perfectmags
+        <<: *t5perfect
+        name: (PvP) "Perfectly Balanced" (Relaxed Magazines) 🦹‍♂️ 
+        desc: >
+          Same as the above, minus the magazines. These magazines add very
+          little Range, so we're not missing out on much.
+        magazines: []
+      -
+        <<: *t5perfectmags
+        name: (PvP) "Perfectly Balanced" (Relaxed MW) 🦹‍♂️ 
+        desc: >
+          Same as the above, minus the Masterwork
+        masterworks: []
+      - &t5hip
+        <<: *t5perfect
+        name: (PvP) "I Like to shoot from the hip" 🕺
+        desc: >
+          `Hip-Fire Grip` is totally reasonable here, especially if you're a
+          bouncy Hunter or floofy Warlock.
+        perks1: [Hip-Fire Grip]
+      - &t5perfecthip
+        <<: *t5hip
+        name: (PvP) "Hip Shooter" (Relaxed Magazines) 🕺 
+        desc: >
+          Same as the above, minus the magazines. These magazines add very
+          little Range, so we're not missing out on much.
+        magazines: []
+      -
+        <<: *t5perfecthip
+        name: (PvP) "Hip Shooter" (Relaxed MW) 🕺 
+        desc: >
+          Same as the above, minus the Masterwork
+        masterworks: []
+      - &t5shield
+        <<: *t5perfect
+        name: (PvP) "Shieldbreaker" 🛡
+        desc: >
+          Huge props to CoolGuy for calling out that Disruption Break not only
+          works in PvP but that the debuff works for your teammates.
+        perks2: [Disruption Break]
+      - &t5shieldmags
+        <<: *t5shield
+        name: (PvP) "Shieldbreaker" (Relaxed Magazines) 🛡 
+        desc: >
+          Same as the above, minus the magazines. These magazines add very
+          little Range, so we're not missing out on much.
+        magazines: []
+      -
+        <<: *t5shieldmags
+        name: (PvP) "Shieldbreaker" (Relaxed MW) 🛡 
+        desc: >
+          Same as the above, minus the Masterwork
+        masterworks: []
+      - 
+        name: (PvP) Baseline Tapping
+        desc: >
+          Whatever you do, depart Season 9 with at least this roll!
+        barrels: []
+        magazines: []
+        perks1: [Rapid Hit]
+        perks2: [Tap the Trigger]
+        masterworks: []      
+  - 
+    name: PvE
+    summary: >
+      These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=J4HGIAZQdY4)
+      above. Disruption Break, who knew? CoolGuy makes a great point: we might
+      see a "season of the sidearm" where artifact perks like Barrier can be
+      applied to sidearms and since Barrier is a shield, Disruption Break will
+      be great to pair with it. If you don't use Disruption Break, you're better
+      off using another Energy weapon with damage-increasing perks.
+    rolls:
+      - &t5shield
+        name: (PvE) Super Picky Shieldbreaker
+        desc: >
+          That could mean breaking Barriers with Disruption Break, and
+          not many weapons can roll with that perk! We're adding ALH because
+          to use Disruption Break you need to switch to your Kinetic weapon,
+          which means ALH will proc and TJ5 will be reloaded and ready to go.
+        barrels: [Quickdot SAS, Control SAS, Shortspec SAS]
+        magazines: [Armor-Piercing Rounds]
+        perks1: [Rapid Hit, Feeding Frenzy, Auto-Loading Holster]
+        perks2: [Disruption Break]
+        masterworks: [Range MW]
+      - &t5barrels
+        <<: *t5shield
+        name: (PvE) Shieldbreaker (Minus Barrels)
+        desc: >
+          Same as the above, minus barrel preference. Removing these leaves us
+          with a still absolutely phenomenal roll.
+        barrels: []
+      - &t5master
+        <<: *t5barrels
+        name: (PvE) Shieldbreaker (Minus Masterworks)
+        desc: >
+          Same as the above, minus the masterwork. All of the TJ5 base stats are
+          so good that any MW will be helpful.
+        masterworks: []
+      -
+        <<: *t5master
+        name: (PvE) Shieldbreaker (Relaxed Magazines)
+        desc: >
+          Same as the above, with any magazine that helps range.
+        magazines: [High-Caliber Rounds, Ricochet Rounds, Light Mag]

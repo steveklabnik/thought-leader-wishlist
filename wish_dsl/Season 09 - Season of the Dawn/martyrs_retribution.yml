@@ -1,0 +1,72 @@
+name: Martyr's Retribution
+item_id: 3850168899
+lightgg: https://www.light.gg/db/items/3850168899/martyrs-retribution/
+slots:
+  barrels:     {t: 7, c: 2}
+  magazines:   {t: 2, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 5, c: 2}
+  masterworks: {t: 5, c: 1}
+groups: 
+  - 
+    name: PvP
+    summary: >
+      I absolutely love this new "Wave Frame" (i.e. Thermite Jr.) archetype!
+      Our roll choices below might seem a little odd, but here we go. For
+      PvP I want this always ready, loaded and moving quickly. That means I'm
+      looking for Reload and Velocity in that order. The base
+      Velocity @ `86` and Reload @ `77` (thanks to `High-Velocity Rounds` being
+      one of two fixed barrels) seems more than good enough, so lets
+      focus on Reload and Handling. I don't require Demolitionist because like
+      Fighting Lion, I see Martyr's more as a starter than a finisher. By all
+      means, roll with it, but I'm more excited about the perks below because
+      I think we'll get more consistent utility from them.
+      With breach-load launchers, we're going to run `Quick Access Sling`,
+      which buffs swapping speed and since the Martyr's Handling stat is
+      already so high, I don't think we need too much more Handling here.
+      Let's look for Velocity-based barrels and since there's only two
+      available magazines, that choice is easy ;)
+    rolls:
+      - &mrsuperpicky
+        name: (PvP) Super Picky
+        desc: >
+          Elemental Capacitor's +Reload and +Handling buffs (Solar and Arc
+          respectively) are pheneomenal attributes to bump on breach load
+          launchers.
+        barrels: [Countermass, Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch]
+        magazines: [High-Velocity Rounds]
+        perks1: [Auto-Loading Holster]
+        perks2: [Elemental Capacitor]
+        masterworks: [Reload MW]
+      - 
+        <<: *mrsuperpicky
+        name: (PvP) Super Picky (Minus Capacitor)
+        desc: >
+          Same as above, minus Elemental Capacitor. It helps but it's totally
+          optional.
+        perks2: []
+  - 
+    name: PvE
+    summary: >
+      This is one of my favourite weapons in all of Destiny! Pretty much any roll
+      is fine but if you want to push your roll criteria, here we go.
+    rolls:
+      - &mshieldbreaker
+        name: (PvE) Shieldbreaker
+        desc: >
+          Martyr's absolutely shreds shields and a shieldsplosion roll like this
+          will be super fun. Those hopefully chained kills should keep your grenade
+          rolling from Demolitionist and upon activating it will reload your weapon
+          and so on...
+        barrels: [Countermass, Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch]
+        magazines: [High-Velocity Rounds]
+        perks1: [Genesis]
+        perks2: [Demolitionist, Lead from Gold]    
+        masterworks: [Reload MW, Handling MW]
+      - 
+        <<: *mshieldbreaker
+        name: (PvE) The Instant Reloader
+        desc: >
+          We're doing everything we can to reload as quickly as possible with this
+          roll. How do we keep one in the chamber constantly?
+        perks1: [Auto-Loading Holster, Threat Detector]

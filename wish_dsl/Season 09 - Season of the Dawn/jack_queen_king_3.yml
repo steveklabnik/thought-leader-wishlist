@@ -1,0 +1,136 @@
+name: Jack Queen King 3
+item_id: 410996590
+lightgg: https://www.light.gg/db/items/410996590/jack-queen-king-3/
+slots:
+  barrels:     {t: 6, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: PvP
+    summary: >
+      This is going to blow your mind... but JQK3 and Waking Vigil (via Dreaming
+      City) are the only two randomly rolled 150 RPM Hand Cannons and the only
+      other Energy HCs apart from
+      Luna's Howl (RIP Luna) and Not Forgotten. Its base stats are [among the
+      best of all of these](https://www.light.gg/db/items/compare/?h=JLYoE;JLYoH;T6w4n;Yf09u)
+      with `96` AA (91+Sight) and `73` Handling! For analysis and gameplay,
+      check out this [CammyCakes review](https://www.youtube.com/watch?v=oHIhi5fkxDw).
+      One interesting bit that stood out: "The diffence between a max range JKQ3
+      and medium range one is about half a meter". Yes for falloff that's true,
+      but since Range affects stickyness, it's still got value here. For some of
+      us (myself included), [CoolGuy's take](https://www.youtube.com/watch?v=XI5CjuOonRc)
+      on the JKQ3 might be more up your alley, PvP-wise: "For Crucible it isn’t
+      necessarily bad, but it’s kind of an acquired taste." It's never clicked
+      with me but some people absolutely love it. IMHO similar to Sunshot - it's
+      great on paper but the model is so chunky that it obscures where you're
+      aiming when it kicks up. Its stiff competition and model/kick funkyness
+      are why these rolls are so narrow. It needs a lot to compete with Luna's,
+      Not Forgotten and Waking Vigil (which can be farmed from Menagerie with a
+      predetermined Masterwork). The second set of these rolls is meant to be
+      slightly more forgiving if you really want Demo and/or Snapshot.
+    rolls:
+      - &jqk3insane
+        name: (PvP) Incredibly, Hilariously Picky
+        desc: >
+          Be sure to let me know how many dieties you prayed to in order to get 
+          this roll. I'd suggest also buying a lottery ticket post-haste. As much
+          Stability and Handling as we can get.
+        barrels: [Steadyhand HCS]
+        magazines: [Ricochet Rounds]
+        perks1: [Demolitionist]
+        perks2: [Snapshot]
+        masterworks: [Stability MW] 
+      - &jqk3isansdemo
+        <<: *jqk3insane 
+        name: (PvP) Incredibly, Hilariously Picky (Sans Demo)
+        desc: >
+          The first thing we're going to do is remove Demo from the list of
+          required perks. The roll is top-tier without it.
+        perks1: []
+      - 
+        <<: *jqk3isansdemo 
+        name: (PvP) Incredibly, Hilariously Picky (w/Handling MW)
+        desc: >
+          Same as above, but we're adding in Handling MW.
+        masterworks: [Stability MW, Handling MW]
+      - &jqk3isanssnap
+        <<: *jqk3isansdemo 
+        name: (PvP) Incredibly, Hilariously Picky (Sans Perks)
+        desc: >
+          Same as above, minus Snapshot. Snapshot is terrific but it doesn't
+          make or break the roll.
+        perks2: []
+      - &jqk3not
+        name: (PvP) Super Picky
+        desc: >
+          Let's reboot this set of rolls around all Stability-enhancing sights
+          and magazines. 
+        barrels: [Truesight HCS, Fastdraw HCS, Steadyhand HCS]
+        magazines: [Ricochet Rounds, Flared Magwell]
+        perks1: [Demolitionist]
+        perks2: [Snapshot]
+        masterworks: [Stability MW]
+      - &jqk3notsansdemo
+        <<: *jqk3not
+        name: (PvP) Super Picky (Sans Demo)
+        desc: >
+          The first thing we're going to do is remove Demo from the list of
+          required perks. The roll is solid without it.
+        perks1: []
+      -
+        <<: *jqk3notsansdemo
+        name: (PvP) Super Picky (w/Handling MW)
+        desc: >
+          Same as above, but we're adding in Handling MW.
+        masterworks: [Stability MW, Handling MW]
+  - 
+    name: PvE
+    summary: >
+      [Ehroar](https://www.youtube.com/watch?v=OVXNkbyfBrQ):
+      "I definitely think this will be one of the best hand cannons in PvE and
+      probably PvP in the energy slot." In general we're sticking with Rampage so
+      we can throw on Rampage Spec and ride it out. Sure Swashbuckler and 
+      Surrounded + Surrounded Spec are awesome but it's a Hand Cannon and you're
+      probably not punching enemies if you're trying to work in its effective
+      range. Those perks work better on sidearms, SMGs and shotguns. CoolGuy
+      has a [great set of rolls](https://youtu.be/XI5CjuOonRc?t=463) I'm
+      incorporating here as well. "Very stout PvE hand cannon; top-tier."
+    rolls:
+      - &jqk3sparksflying
+        name: (PvE) Sparks Flying (Super Picky)
+        desc: >
+          Both Demolitionist and Subistence will proc once for each Dragonfly
+          explosion kill. Use in situations where you can one-shot enemies. Don't
+          forget Dragonfly Spec! Per CoolGuy, this is a rarely available combo;
+          pick it up.
+        barrels: [Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS]
+        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag]
+        perks1: [Demolitionist, Subsistence]
+        perks2: [Dragonfly]
+        masterworks: [Stability MW, Handling MW]
+      - 
+        <<: *jqk3sparksflying
+        name: (PvE) Sparks Flying (Sans Masterworks)
+        desc: >
+          Same as the above with relaxed masterworks. Neither good nor
+          bad enough to tank or make the roll.
+        masterworks: []
+      - &jqk3neverending
+        <<: *jqk3sparksflying
+        name: (PvE) The Never-Ending Reloader (Super Picky)
+        desc: >
+          You'll almost never have to reload here, because getting kills with the
+          sustained DPS perks will give you your grenade back and using your
+          grenade will reload the magazine.
+        perks1: [Demolitionist]
+        perks2: [Rampage, Swashbuckler]
+      -
+        <<: *jqk3neverending
+        name: (PvE) The Never-Ending Reloader (Sans Masterworks)
+        desc: >
+          Same as the above with relaxed masterworks. Neither good nor
+          bad enough to tank or make the roll.
+        masterworks: []

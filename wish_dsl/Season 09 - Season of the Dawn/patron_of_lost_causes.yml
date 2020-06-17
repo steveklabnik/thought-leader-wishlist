@@ -1,0 +1,105 @@
+name: Patron of Lost Causes
+item_id: 2723241847
+lightgg: https://www.light.gg/db/items/2723241847/patron-of-lost-causes/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 2}
+  masterworks: {t: 4, c: 1} 
+groups: 
+  - 
+    name: PvP / PvE
+    summary: >
+      CoolGuy absolutely loves his Patron, and has a great [video review of it](https://www.youtube.com/watch?v=GTcp4JQD1fI).
+      Since this is a controller wishlist, these rolls are all about maxing
+      Stability. All of these PvP rolls would be perfectly fine rolls in PvE
+      as well.
+    rolls:
+      - &prapid
+        name: (PvP/PvE) "Rapid Hitstability" 
+        desc: >
+          This is all about stability. Yes, Explosive Rounds and Vorpal don't
+          increase stability but they would make this already great roll even
+          better.
+        barrels: [Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Polygonal Rifling]
+        magazines: [Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell]
+        perks1: [Rapid Hit]
+        perks2: [Explosive Rounds, Vorpal]
+        masterworks: [Stability MW]
+      - 
+        <<: *prapid
+        name: (PvP/PvE) "Rapid Hitstability" (Minus Barrels)
+        desc: >
+          Same as the best, minus the barrels
+        barrels: []
+      - 
+        <<: *prapid
+        name: (PvP/PvE) "Rapid Hitstability" (Minus Masterwork)
+        desc: >
+          Same as the best, minus Masterworks.
+        masterworks: []
+      - &prapidrange
+        name: (PvP/PvE) Rapid Rangestability
+        desc: >
+          Maybe even though you're on controller, you like your Stability with a
+          side of Range? Listen, I'm not the boss of you. Range barrels are a
+          great option with this roll as well, but I think, less desirable hence
+          their place in the batting order.
+        barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Extended Barrel]
+        magazines: [Tactical Mag, Accurized Rounds, Steady Rounds, Flared Magwell]
+        perks1: [Rapid Hit]
+        perks2: [Explosive Rounds, Vorpal]
+        masterworks: [Stability MW]
+      - 
+        <<: *prapidrange
+        name: (PvP/PvE) Rapid Rangestability (Minus Masterwork)
+        desc: >
+          Same as the best, minus Masterworks.
+        masterworks: []        
+      - &pfullauto
+        <<: *prapid
+        name: (PvP/PvE) "Index Finger Saver" 👌
+        desc: >
+          Same as our other rolls, but with Full Auto instead of Rapid Hit
+        perks1: [Full Auto]
+      - 
+        <<: *pfullauto
+        name: (PvP/PvE) "Index Saver" 👌(Minus Barrels)
+        desc: >
+          Same as the best, minus the barrels
+        barrels: []
+      - 
+        <<: *pfullauto
+        name: (PvP/PvE) "Index Saver" 👌(Minus Masterwork)
+        desc: >
+          Same as the best, minus Masterworks.
+        masterworks: []        
+      - &pfullautorange
+        <<: *prapidrange
+        name: (PvP/PvE) "Index Finger Saver w/Range" 👌
+        desc: >
+          Same as our other rolls, but with Full Auto instead of Rapid Hit
+        perks1: [Full Auto]
+      - 
+        <<: *pfullautorange
+        name: (PvP/PvE) "Index Saver w/Range" 👌(Minus Masterwork)
+        desc: >
+          Same as the best, minus Masterworks.
+        masterworks: []        
+  - 
+    name: PvE
+    summary: >
+      This section only exists because of Osmosis, for future-proofing/high-end
+      PvE with Match Game.
+    rolls:
+      - &pfuture
+        name: (PvE) The Future-Proofer
+        desc: >
+          Low-priority, future-proofing setup here or if you want a Scout Rifle for
+          high-end PvE Match Game.
+        barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake, Chambered Compensator, Polygonal Rifling]
+        magazines: [Tactical Mag, Accurized Rounds, Flared Magwell]
+        perks1: [Rapid Hit, Full Auto]
+        perks2: [Osmosis]
+        masterworks: []
