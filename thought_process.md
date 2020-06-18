@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-06-17 23:10:58 +00:00`. The most recent
+created on `2020-06-18 14:18:37 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -52,6 +52,7 @@ I'm of the opinion it's not worth chasing ツ
 * Honor's Edge ([PvE](#honors-edge---pve))
 * Interference VI ([PvE](#interference-vi---pve))
 * Last Perdition ([PvP](#last-perdition---pvp), [PvE](#last-perdition---pve))
+* Night Watch ([PvP](#night-watch---pvp), [PvE](#night-watch---pve))
 * Outrageous Fortune ([PvE](#outrageous-fortune---pve))
 * Steel Sybil Z-14 ([PvE](#steel-sybil-z-14---pve))
 
@@ -2586,6 +2587,220 @@ When Last Perdition was brought back with random rolls in the Season of the Drif
   Mags    [100%]: *
   Perks 1 [ 16%]: Outlaw
   Perks 2 [ 28%]: Kill Clip, Rampage
+  MWorks  [100%]: *
+  ```
+## Night Watch - PvP
+Night Watch is a 200 RPM Scout Rifle that dropped during Season of the Drifter (S6). It has been re-issued in Season of Arrivals (S11) and is the only 200 RPM Scout Rifle in the game that is currently available. [CoolGuy's review (5/2019)](https://www.youtube.com/watch?v=H1KGJ7WU9es) remains a great source of info for Night Watch. It's a bit over a year old, but the sandbox hasn't changed materially around 200 RPM Scouts (for better or worse) or the perks he talks through.
+
+200 RPM Scouts (including the Night Watch) are far from meta. Even the strongest of the bunch (MIDA) you never see. The maps aren't really designed for Scouts, perhaps save for Rusted Lands? and 200 RPM Scouts struggle against the powerhouses like Jade Rabbit.
+
+And now the section where I feel like I have to justify not just picking Outlaw + Rampage/Kill Clip on every weapon in the game 😃
+
+* I am not suggesting Outlaw because the base `Reload` is already plenty fast. Outlaw isn't bad here per se, there's just not a strong reason to choose it.
+* Conversely, I am suggesting Rapid Hit because even though it was [changed in S11](https://www.bungie.net/en/News/Article/49126), it's still a solid perk.
+* I am not suggesting Rampage because at x1 it does not alter the TTK (it does at x2).
+* Conversely, I am suggesting Multikill Clip because it does alter the TTK (3H1B > 3H0B).
+
+Similar to my thoughts on 180 RPM Hand Cannons, I do think Explosive Rounds is very strong here. The explosions have no damage falloff and with the high rate of fire, it means your target is constantly flinched (almost annoying so). Here's a  [video](https://www.youtube.com/watch?v=n0uI-KZnD70) from Drewsky demonstrating how High Caliber Rounds and Explosive Rounds work.
+> "[Explosive Rounds] made the crosshairs jerk horizontally while rising and reaching its peak resulting in more irregular and disorienting flinch patterns [than High-Caliber Rounds]."
+
+This was the same basis of my suggestion for Explosive Rounds on the Patron of Lost Causes back in Season of the Dawn (S9). I think it's similarly strong here, especially in sixes where you're likely to get additional assist points from Explosive Rounds when people are clumped together.
+
+Because of the high RPM, I'm also going to suggest we shoot for as much `Stability` as we can get to increase the recovery of the Aim Assist cone between shots.
+* **(PvP) Explosive Stability 💥💥💥 Collector's Edition (0.1% chance)**: As much Stability as we can get from everywhere we can get it. This roll is basically impossible to get.
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Rapid Hit
+  Perks 2 [ 40%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Explosive Stability 💥💥💥 CE (Relaxed Barrels) (0.4% chance)**: Same as the CE, with a few more Barrels.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Rapid Hit
+  Perks 2 [ 40%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Explosive Stability 💥💥💥 CE (Relaxed Magazines) (0.3% chance)**: Same as the CE, with a few more Magazines.
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 20%]: Rapid Hit
+  Perks 2 [ 40%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Explosive Stability 💥💥💥 CE (Relaxed Masterwork) (0.4% chance)**: Same as the CE, with a few more Masterworks.
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Rapid Hit
+  Perks 2 [ 40%]: Explosive Rounds
+  MWorks  [100%]: *
+  ```
+* **(PvP) Explosive Stability 💥💥 CE (Relaxed Barrels and Magazines) (1.1% chance)**: Same as the CE, with a few more Barrels and Magazines.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 20%]: Rapid Hit
+  Perks 2 [ 40%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Explosive Stability 💥💥 CE (Relaxed Everything) (8.6% chance)**: Same as the CE, with a few more Barrels, Magazines and Masterworks.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 40%]: Rapid Hit, Snapshot
+  Perks 2 [ 40%]: Explosive Rounds
+  MWorks  [100%]: *
+  ```
+* **(PvP) Explosive Stability 💥 CE (Baseline) (13.3% chance)**: Our core perks with some easy to obtain Barrels.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 40%]: Rapid Hit, Snapshot
+  Perks 2 [ 40%]: Explosive Rounds
+  MWorks  [100%]: *
+  ```
+* **(PvP) MIDA Multi-kills ☠️☠️☠️ Collector's Edition (0.1% chance)**: As much Stability as we can get from everywhere we can get it. This roll is basically impossible to get.
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Rapid Hit
+  Perks 2 [ 40%]: Multikill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) MIDA Multi-kills ☠️☠️☠️ CE (Relaxed Barrels) (0.4% chance)**: Same as the CE, with a few more Barrels.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Rapid Hit
+  Perks 2 [ 40%]: Multikill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) MIDA Multi-kills ☠️☠️☠️ CE (Relaxed Magazines) (0.3% chance)**: Same as the CE, with a few more Magazines.
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 20%]: Rapid Hit
+  Perks 2 [ 40%]: Multikill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) MIDA Multi-kills ☠️☠️☠️ CE (Relaxed Masterwork) (0.4% chance)**: Same as the CE, with a few more Masterworks.
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Rapid Hit
+  Perks 2 [ 40%]: Multikill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) MIDA Multi-kills ☠️☠️☠ CE (Relaxed Barrels and Magazines) (1.1% chance)**: Same as the CE, with a few more Barrels and Magazines.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 20%]: Rapid Hit
+  Perks 2 [ 40%]: Multikill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) MIDA Multi-kills ☠️☠️☠ CE (Relaxed Everything) (8.6% chance)**: Same as the CE, with a few more Barrels, Magazines and Masterworks.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 40%]: Rapid Hit, Snapshot
+  Perks 2 [ 40%]: Multikill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) MIDA Multi-kills ☠️ CE (Baseline) (13.3% chance)**: Our core perks with some easy to obtain Barrels.
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 40%]: Rapid Hit, Snapshot
+  Perks 2 [ 40%]: Multikill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) Recoil/Stability/Precision 🎯🎯🎯 Collector's Edition (0.2% chance)**: The +30 Recoil we get from Arrowhead Brake will allow us to hit 100 Recoil with a Counterbalance mod.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Rapid Hit
+  Perks 2 [ 70%]: Multikill Clip, Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Recoil/Stability/Precision 🎯🎯🎯 CE (Relaxed Magazines) (0.5% chance)**: Same as the CE, with a few more Magazines.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 20%]: Rapid Hit
+  Perks 2 [ 70%]: Multikill Clip, Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Recoil/Stability/Precision 🎯🎯🎯 CE (Relaxed Masterwork) (0.8% chance)**: Same as the CE, with a few more Masterworks.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Rapid Hit
+  Perks 2 [ 70%]: Multikill Clip, Explosive Rounds
+  MWorks  [100%]: *
+  ```
+* **(PvP) Recoil/Stability/Precision 🎯🎯 CE (Relaxed Everything) (4.0% chance)**: Same as the CE, with a few more Barrels, Magazines and Masterworks.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 40%]: Rapid Hit, Snapshot
+  Perks 2 [ 70%]: Multikill Clip, Explosive Rounds
+  MWorks  [100%]: *
+  ```
+* **(PvP) Recoil/Stability/Precision 🎯 CE (Baseline) (6.2% chance)**: Our core perks, with everything else relaxed.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [ 40%]: Rapid Hit, Snapshot
+  Perks 2 [ 70%]: Multikill Clip, Explosive Rounds
+  MWorks  [100%]: *
+  ```
+## Night Watch - PvE
+Night Watch is a 200 RPM Scout Rifle that dropped during Season of the Drifter (S6). It has been re-issued in Season of Arrivals (S11) and is the only 200 RPM Scout Rifle in the game that is currently available. [CoolGuy's review (5/2019)](https://www.youtube.com/watch?v=H1KGJ7WU9es) remains a great source of info for Night Watch. It's a bit over a year old, but the sandbox hasn't changed materially around 200 RPM Scouts (for better or worse) or the perks he talks through.
+
+Classic combos carry the day here - reload perks combined with damage boosting perks, and as much Range as we can get.
+* **(PvP) Ranged Assassin 👻👻👻 Collector's Edition (0.4% chance)**: As much Range as we can get from everywhere we can get it. This roll is basically impossible to get.
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 40%]: Rapid Hit, Outlaw
+  Perks 2 [ 70%]: Multikill Clip, Rampage
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) Ranged Assassin 👻👻👻 CE (Relaxed Barrels) (1.0% chance)**: Same as the CE, with a few more Barrels.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 40%]: Rapid Hit, Outlaw
+  Perks 2 [ 70%]: Multikill Clip, Rampage
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) Ranged Assassin 👻👻👻 CE (Relaxed Masterworks) (1.6% chance)**: Same as the CE, with a few more Masterworks.
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 40%]: Rapid Hit, Outlaw
+  Perks 2 [ 70%]: Multikill Clip, Rampage
+  MWorks  [100%]: *
+  ```
+* **(PvP) Ranged Assassin 👻👻 CE (Relaxed Barrels and Magazines) (4.1% chance)**: Same as the CE, with a few more Masterworks.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 40%]: Rapid Hit, Outlaw
+  Perks 2 [ 70%]: Multikill Clip, Rampage
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) Ranged Assassin 👻👻 CE (Relaxed Everything) (16.3% chance)**: Same as the CE, with a few more Masterworks.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 40%]: Rapid Hit, Outlaw
+  Perks 2 [ 70%]: Multikill Clip, Rampage
   MWorks  [100%]: *
   ```
 ## Outrageous Fortune - PvE
