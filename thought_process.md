@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-06-18 14:18:37 +00:00`. The most recent
+created on `2020-06-19 17:02:41 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -2019,7 +2019,7 @@ Temptation's Hook is an absolutely EN FUEGO Season 11 sword that has all the per
 
 What makes this even better is that as with all other swords, the perk pool is super small, and with the Recaster perk `Umbral Enhancement III`, all of your Focused Umbral weapons get an additional final-column perk. As of this writing it appears to be bugged and I'm getting an extra final perk on unfocused drops 🤷‍♂️ (but also bugged in that I'm not getting a second perk on Cold Denial or Falling Guillotine 🤪)
 
-* "Why no roll w/`Vorpal Weapon`?" It is an immediate increase in damage of 15% against majors/bosses; sounds pretty awesome right? Well yeah, but not considering the other available perks. After each strike, Whirlwind is +6% so after two hits, you've basically got Vorpal beat *and* it works on all enemies, not just majors/bosses. Once you get Whirlwind up to x5 you're at a 30% bonus. So yeah, Vorpal is a pass here.
+* "Why no roll w/`Whirlwind`?" If you're going up against hordes of adds, you'll benefit best from Surrounded (see below). If you want to whack on a single target, then this sword isn't the choice; you want Falling Guillotine instead.
 * `Surrounded` + `Surrounded Spec` ends up giving you a massive 36% damage increase ("only" 25% w/out Spec) and since a Sword is in-your-face there's a high chance you'll proc this regularly. Classically great perk on swords.
 * `Flash Counter` not only disorients but  [applies a 20% debuff](https://youtu.be/b9HcFqLdlyQ?t=1477)! This means *all incoming damange* is upped by 20%. You can imagine how helpful this would be in Public Events (like the S11 Contact event), to debuff the boss with up to eleven other Guardians attacking. The debuff lasts for five seconds, so you'll need to periodically switch to blocking for this to take effect. Given that every boss in the game stomps, this is a great way to take out your anti-stomp rage 😡
 
@@ -2027,28 +2027,28 @@ What makes this even better is that as with all other swords, the perk pool is s
 Fortunately the perk set is very small and chances are you'll get the roll you're after relatively quickly? When you do, rejoice! That roll will keep you all the way through Season 14.
 
 *Note that swords only have one possible Masterwork (Impact) hence the appearance of "any MW will do" in the wishlist; which isn't really the case*
-* **(PvE) Sustained DPS 🗡🗡🗡 Collector's Edition (2.1% chance)**: With Whirlwind and Relentless you'll be slicing for what seems like forever. C/o [this analysis](https://www.reddit.com/r/DestinyTheGame/comments/a2mjez/sword_awareness_1_jagged_edge_vs_honed_edge/), Jagged Edge is the clear choice for the first column, but you'll want to make sure your reserves are increased in armor. Heavy Guard sacrifices Charge Rate and massive increased all the other important sword stats, but that's fine because Charge Rate is such a compressed stat you won't notice the difference.
+* **(PvE) Swiss Army 🇨🇭🇨🇭🇨🇭 Collector's Edition (2.1% chance)**: Vorpal is a solid tool to have here. This roll won't do the most single-target damage against bosses, but that's not why you have it; you have it for the utility it brings. Being able to slice through adds **and** throw a heavy attack at a Champion or Boss is 😙 C/o [this analysis](https://www.reddit.com/r/DestinyTheGame/comments/a2mjez/sword_awareness_1_jagged_edge_vs_honed_edge/), Jagged Edge is the clear choice for the first column, but you'll want to make sure your reserves are increased in armor. Heavy Guard sacrifices Charge Rate and massive increased all the other important sword stats, but that's fine because Charge Rate is such a compressed stat you won't notice the difference.
   ```
   Barrels [ 40%]: Jagged Edge
   Mags    [ 40%]: Heavy Guard
   Perks 1 [ 33%]: Relentless Strikes
-  Perks 2 [ 40%]: Whirlwind Blade
+  Perks 2 [ 40%]: Vorpal
   MWorks  [100%]: *
   ```
-* **(PvE) Sustained DPS 🗡🗡 (Minus Magazines) (5.3% chance)**: Same as the CE, minus Heavy Guard. That's OK because you won't be doing all that much defending while slicing away with your sword.
+* **(PvE) Swiss Army 🇨🇭🇨🇭 (Minus Magazines) (5.3% chance)**: Same as the CE, minus Heavy Guard. That's OK because you won't be doing all that much defending while slicing away with your sword.
   ```
   Barrels [ 40%]: Jagged Edge
   Mags    [100%]: *
   Perks 1 [ 33%]: Relentless Strikes
-  Perks 2 [ 40%]: Whirlwind Blade
+  Perks 2 [ 40%]: Vorpal
   MWorks  [100%]: *
   ```
-* **(PvE) Sustained DPS 🗡 (Baseline) (13.3% chance)**: You really only need these two to do phenomenal amounts of sustained damage and fortunately they're pretty easy to find!
+* **(PvE) Swiss Army 🇨🇭 (Baseline) (13.3% chance)**: You really only need these two and fortunately they're pretty easy to find!
   ```
   Barrels [100%]: *
   Mags    [100%]: *
   Perks 1 [ 33%]: Relentless Strikes
-  Perks 2 [ 40%]: Whirlwind Blade
+  Perks 2 [ 40%]: Vorpal
   MWorks  [100%]: *
   ```
 * **(PvE) "Lawnmower Man" 🚜🚜🚜 Collector's Edition (2.1% chance)**: With Surrounded up, you'll be mowing through hordes of adds in no time. C/o [this analysis](https://www.reddit.com/r/DestinyTheGame/comments/a2mjez/sword_awareness_1_jagged_edge_vs_honed_edge/), Jagged Edge is the clear choice for the first column, but you'll want to make sure your reserves are increased in armor. Heavy Guard sacrifices Charge Rate and massive increased all the other important sword stats, but that's fine because Charge Rate is such a compressed stat you won't notice the difference.
