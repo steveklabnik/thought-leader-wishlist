@@ -25,12 +25,10 @@ groups:
       second perk on Cold Denial or Falling Guillotine 🤪)
 
 
-      * "Why no roll w/`Vorpal Weapon`?" It is an immediate increase in damage
-      of 15% against majors/bosses; sounds pretty awesome right? Well yeah, but
-      not considering the other available perks. After each strike, Whirlwind
-      is +6% so after two hits, you've basically got Vorpal beat *and* it works
-      on all enemies, not just majors/bosses. Once you get Whirlwind up to x5
-      you're at a 30% bonus. So yeah, Vorpal is a pass here.
+      * "Why no roll w/`Whirlwind`?" If you're going up against hordes of adds,
+      you'll benefit best from Surrounded (see below). If you want to whack on
+      a single target, then this sword isn't the choice; you want Falling
+      Guillotine instead.
 
       * `Surrounded` + `Surrounded Spec` ends up giving you a massive 36%
       damage increase ("only" 25% w/out Spec) and since a Sword is in-your-face
@@ -58,10 +56,13 @@ groups:
       case*
     rolls:
       - &thclassic
-        name: (PvE) Sustained DPS 🗡🗡🗡 Collector's Edition 
+        name: (PvE) Swiss Army 🇨🇭🇨🇭🇨🇭 Collector's Edition 
         desc: >
-          With Whirlwind and Relentless you'll be slicing for what seems like
-          forever. C/o
+          Vorpal is a solid tool to have here. This roll won't do the most
+          single-target damage against bosses, but that's not why you have it;
+          you have it for the utility it brings. Being able to slice through
+          adds **and** throw a heavy attack at a Champion or Boss is 😙
+          C/o
           [this analysis](https://www.reddit.com/r/DestinyTheGame/comments/a2mjez/sword_awareness_1_jagged_edge_vs_honed_edge/),
           Jagged Edge is the clear choice for the first column, but you'll want
           to make sure your reserves are increased in armor. Heavy Guard
@@ -71,21 +72,21 @@ groups:
         barrels: [Jagged Edge]
         magazines: [Heavy Guard]
         perks1: [Relentless Strikes]
-        perks2: [Whirlwind Blade]
+        perks2: [Vorpal]
         masterworks: [Impact MW]
       -
         <<: *thclassic
-        name: (PvE) Sustained DPS 🗡🗡 (Minus Magazines)
+        name: (PvE) Swiss Army 🇨🇭🇨🇭 (Minus Magazines)
         desc: >
           Same as the CE, minus Heavy Guard. That's OK because you won't be
           doing all that much defending while slicing away with your sword.
         magazines: []
       -
         <<: *thclassic
-        name: (PvE) Sustained DPS 🗡 (Baseline)
+        name: (PvE) Swiss Army 🇨🇭 (Baseline)
         desc: >
-          You really only need these two to do phenomenal amounts of sustained
-          damage and fortunately they're pretty easy to find!
+          You really only need these two and fortunately they're pretty easy
+          to find!
         barrels: []
         magazines: []    
       - &thsurrounded
