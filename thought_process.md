@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-06-19 17:02:41 +00:00`. The most recent
+created on `2020-06-19 17:57:47 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -44,6 +44,7 @@ I'm of the opinion it's not worth chasing ツ
 * Seventh Seraph VY-7 ([PvP](#seventh-seraph-vy-7---pvp), [PvE](#seventh-seraph-vy-7---pve))
 
 **Season 11 - Season of Arrivals**
+* Falling Guillotine ([PvE](#falling-guillotine---pve))
 * Temptation's Hook ([PvE](#temptations-hook---pve))
 
 **World Drops**
@@ -2012,6 +2013,62 @@ You must absolutely run a `Counterbalance` Mod or otherwise fix the Recoil with 
   Mags    [100%]: *
   Perks 1 [ 25%]: Ambitious Assassin
   Perks 2 [ 25%]: Feeding Frenzy
+  MWorks  [100%]: *
+  ```
+## Falling Guillotine - PvE
+[Dark Drinker 2.0](https://youtu.be/W_ObIqaGhvM?t=305) is... sorry I mean Falling Guillotine... is a new "Vortex Frame" sword in S11. It does a [ridiculous](https://youtu.be/DxlrZnH7C1g?t=344) -  [amount](https://youtu.be/hWzifDFNww0?t=30) -  of -  [damage](https://youtu.be/SbBOCOJpMaE?t=103) and is also just [weird](https://youtu.be/YRcZ9IglcZM?t=31).
+
+What makes this even better is that as with all other swords, the perk pool is super small, and with the Recaster perk `Umbral Enhancement III`, all of your Focused Umbral weapons get an additional final-column perk. As of this writing it appears to be bugged and I'm getting an extra final perk on unfocused drops 🤷‍♂️ (but also bugged in that I'm not getting a second perk on Cold Denial or Falling Guillotine 🤪) Chances are you'll get the roll you're after relatively quickly? When you do, rejoice! That roll will keep you all the way through Season 14.
+
+We're going for the classics here: Whirlwind and Surrounded. Maybe you'll get insanely lucky and get both Whirlwind and Surrounded as the perks in the final column?
+
+*Note that swords only have one possible Masterwork (Impact) hence the appearance of "any MW will do" in the wishlist; which isn't really the case*
+* **(PvE) Sustained DPS 🗡🗡🗡 Collector's Edition (2.7% chance)**: With Whirlwind and Relentless you'll be slicing for what seems like forever. C/o [this analysis](https://www.reddit.com/r/DestinyTheGame/comments/a2mjez/sword_awareness_1_jagged_edge_vs_honed_edge/), Jagged Edge is the clear choice for the first column, but you'll want to make sure your reserves are increased in armor. Heavy Guard sacrifices Charge Rate and massive increased all the other important sword stats, but that's fine because Charge Rate is such a compressed stat you won't notice the difference.
+  ```
+  Barrels [ 40%]: Jagged Edge
+  Mags    [ 40%]: Heavy Guard
+  Perks 1 [ 33%]: Relentless Strikes
+  Perks 2 [ 50%]: Whirlwind Blade
+  MWorks  [100%]: *
+  ```
+* **(PvE) Sustained DPS 🗡🗡 (Minus Magazines) (6.7% chance)**: Same as the CE, minus Heavy Guard. That's OK because you won't be doing all that much defending while slicing away with your sword.
+  ```
+  Barrels [ 40%]: Jagged Edge
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Relentless Strikes
+  Perks 2 [ 50%]: Whirlwind Blade
+  MWorks  [100%]: *
+  ```
+* **(PvE) Sustained DPS 🗡 (Baseline) (16.7% chance)**: You really only need these two to do phenomenal amounts of sustained damage and fortunately they're pretty easy to find!
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Relentless Strikes
+  Perks 2 [ 50%]: Whirlwind Blade
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Lawnmower Man" 🚜🚜🚜 Collector's Edition (2.7% chance)**: With Surrounded up, you'll be mowing through hordes of adds in no time. C/o [this analysis](https://www.reddit.com/r/DestinyTheGame/comments/a2mjez/sword_awareness_1_jagged_edge_vs_honed_edge/), Jagged Edge is the clear choice for the first column, but you'll want to make sure your reserves are increased in armor. Heavy Guard sacrifices Charge Rate and massive increased all the other important sword stats, but that's fine because Charge Rate is such a compressed stat you won't notice the difference.
+  ```
+  Barrels [ 40%]: Jagged Edge
+  Mags    [ 40%]: Heavy Guard
+  Perks 1 [ 33%]: Relentless Strikes
+  Perks 2 [ 50%]: Surrounded
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Lawnmower Man" 🚜🚜 (Minus Magazines) (6.7% chance)**: Same as the CE, minus Heavy Guard. That's OK because you won't be doing all that much defending while slicing away with your sword.
+  ```
+  Barrels [ 40%]: Jagged Edge
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Relentless Strikes
+  Perks 2 [ 50%]: Surrounded
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Lawnmower Man" 🚜 Baseline (16.7% chance)**: You really only need these two to do phenomenal amounts of  damage and fortunately they're pretty easy to find!
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Relentless Strikes
+  Perks 2 [ 50%]: Surrounded
   MWorks  [100%]: *
   ```
 ## Temptation's Hook - PvE
