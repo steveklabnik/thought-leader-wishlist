@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-06-19 17:59:50 +00:00`. The most recent
+created on `2020-06-20 06:37:13 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -44,6 +44,7 @@ I'm of the opinion it's not worth chasing ツ
 * Seventh Seraph VY-7 ([PvP](#seventh-seraph-vy-7---pvp), [PvE](#seventh-seraph-vy-7---pve))
 
 **Season 11 - Season of Arrivals**
+* Cold Denial ([PvP](#cold-denial---pvp), [PvE](#cold-denial---pve))
 * Falling Guillotine ([PvE](#falling-guillotine---pve))
 * Temptation's Hook ([PvE](#temptations-hook---pve))
 
@@ -2013,6 +2014,200 @@ You must absolutely run a `Counterbalance` Mod or otherwise fix the Recoil with 
   Mags    [100%]: *
   Perks 1 [ 25%]: Ambitious Assassin
   Perks 2 [ 25%]: Feeding Frenzy
+  MWorks  [100%]: *
+  ```
+## Cold Denial - PvP
+Cold Denial is a 340 RPM "High-Impact Frame" Kinetic Pulse Rifle introduced in Season 11. See [how it compares](https://www.light.gg/db/items/compare/?h=BIfK-Z;C-tvt8;BFN60K;MZyyP) to the existing High-Impacts. The major difference might seem like a minor one, but check out the `Zoom:14` compared to the others with `Zoom:18`. The lower zoom means you've got a wider FOV while zoomed in, and that small(er) thumbstick movements don't kick your reticle as much. It makes way more of a difference than it might seem like on paper.
+
+Everyone is covering this Pulse Rifle because it's absolutely amazing. Check out [Drewksy](https://www.youtube.com/watch?v=vKTOCEijawI&feature=youtu.be&t=119), [Mtashed](https://www.youtube.com/watch?v=RtJeiwwGII0), and [Aztecross](https://www.youtube.com/watch?v=j1jKsnDD6Ss) and I'm sure you'll see more coverage in the coming weeks as more folks get their hands on various rolls.
+
+The headline perk here is Killing Wind, the go-to in column three. The decent Stability and low Zoom factor downplay the need for the only other alternative - `Zen Moment`. Check out [CoolGuy's overview](https://www.youtube.com/watch?v=go1TYsXCopc&feature=youtu.be&t=420) for a quick primer. Here's are the benefits as he describes them:
+
+* Killing Wind has a five second duration. Additional kills refresh the duration.
+* It adds roughly five tiers of Mobility with the attendant benefits (strafe speed, etc.).
+* It adds roughly a 4m increase in damage falloff.
+      
+* The Range boost it provides "is like a sustained version of `Opening Shot`".
+   
+* Handling increase is on par with Snapshot and vastly improved stow speed.
+
+The last column is interesting. A handful of perks elevate the roll but in my opinion, none are essential. Headseeker might seem strange but with the High-Impact buff in S11, it means a 4H2B kill instead of 5H2B on 6 resilience or less. Think about it as making your initial engagement  more forgiving whereas Multikill Clip and Swashbuckler make your follow-on engagements more forgiving.
+* **(PvP) Verticality 🏔🏔🏔🌟 Collector's Edition (0.2% chance)**: You have to see Cold Denial with 100 `Recoil` and bumped up Stability to believe it. It will require that you use a Counterbalance mod, which is par for the course on Scattershot weapons (Autos, SMGs, etc.). It's completely vertical and barely moves during the burst. This roll even without the Stability MW, felt broken when I used it; really nuts.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Verticality 🏔🏔🏔CE (Relaxed Masterwork) (0.7% chance)**: The core of this roll is so amazing that it honestly doesn't matter nearly as much what the Masterwork is.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
+  MWorks  [100%]: *
+  ```
+* **(PvP) Verticality 🏔🏔🏔CE (Relaxed Perks) (0.2% chance)**: As I stated in the intro - the perks in this column are just icing.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Verticality 🏔🏔🏔CE (Relaxed Perks and Masterworks) (0.9% chance)**: Same as the above with relaxed masterworks.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+* **(PvP) Verticality 🏔🏔CE (Relaxed Magazines) (0.3% chance)**: We'll take a little less Stability; that's still amazing.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Verticality 🏔🏔CE (Relaxed Magazines and Masterwork) (1.4% chance)**: Same as the above with relaxed Masterworks.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
+  MWorks  [100%]: *
+  ```
+* **(PvP) Verticality 🏔🏔CE (Relaxed Magazines, Perks and Masterwork) (1.7% chance)**: Same as the above with relaxed Perks and Masterworks.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+* **(PvP) Verticality 🏔CE (Fully Relaxed Magazines) (0.7% chance)**: We're going to have an absolutely phenomenal roll regardless of what we get in this column.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Verticality 🏔CE (Fully Relaxed Magazines and Masterwork) (3.0% chance)**: Same as the above with relaxed Masterworks.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
+  MWorks  [100%]: *
+  ```
+* **(PvP) Verticality 🏔CE (Baseline) (3.7% chance)**: Being fully vertical, I think you're in a real good place.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+* **(PvP) Best Grip 🧤🧤🧤🌟 Collector's Edition (0.7% chance)**: Similar to the Verticality set, this has a practically gauranteed set of barrels to play off of, drastically increasing your chances.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Best Grip 🧤🧤🧤CE (Relaxed Masterwork) (2.8% chance)**: The core of this roll is so amazing that it honestly doesn't matter nearly as much what the Masterwork is.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
+  MWorks  [100%]: *
+  ```
+* **(PvP) Best Grip 🧤🧤🧤CE (Relaxed Perks) (0.9% chance)**: As I stated in the intro - the perks in this column are just icing.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Best Grip 🧤🧤🧤CE (Relaxed Perks and Masterworks) (3.5% chance)**: Same as the above with relaxed masterworks.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+* **(PvP) Best Grip 🧤🧤CE (Relaxed Magazines) (1.3% chance)**: We'll take a little less Stability; that's still amazing.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Best Grip 🧤🧤CE (Relaxed Magazines and Masterwork) (5.2% chance)**: Same as the above with relaxed Masterworks.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
+  MWorks  [100%]: *
+  ```
+* **(PvP) Best Grip 🧤🧤 (Relaxed Magazines, Perks and Masterwork) (6.4% chance)**: Same as the above with relaxed Perks and Masterworks.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+* **(PvP) Foundational 🏠Baseline (4.6% chance)**: With all this Stability, this is a phenomenal roll. Zen Moment would be your next best bet to Killing Wind in column three, but Cold Denial has so much Stability that I don't think having Zen Moment makes or breaks it.
+  ```
+  Barrels [ 91%]: Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
+  MWorks  [ 25%]: Stability MW
+  ```
+## Cold Denial - PvE
+There's not much to puzzle out here. In PvE you're going for as much `Range` as you can get with sustained damage upkeep. I think `Unrelenting` is a super interesting perk, I would just prefer to have the large damage bonuses active from damage-boosting perks.
+* **(PvE) Classic Pairings 🍷🍷🍷🌟 Collector's Edition (1.1% chance)**: All Range and all damage.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 60%]: Multikill Clip, Swashbuckler
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) Classic Pairings 🍷🍷🍷 (Relaxed Masterwork) (4.6% chance)**: Same as the above with relaxed Masterworks.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 60%]: Multikill Clip, Swashbuckler
+  MWorks  [100%]: *
+  ```
+* **(PvP) Classic Pairings 🍷🍷 (Relaxed Magazines) (5.8% chance)**: Same as the above with relaxed Masterworks.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 60%]: Multikill Clip, Swashbuckler
+  MWorks  [100%]: *
+  ```
+* **(PvP) Classic Pairings 🍷 (Relaxed Barrels) (10.0% chance)**: Same as the above with relaxed Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 60%]: Multikill Clip, Swashbuckler
   MWorks  [100%]: *
   ```
 ## Falling Guillotine - PvE
