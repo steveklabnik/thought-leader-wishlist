@@ -227,7 +227,7 @@ groups:
         <<: *cdclassic
         name: (PvP) Classic Pairings 🍷🍷 (Relaxed Magazines)
         desc: >
-          Same as the above with relaxed Masterworks.
+          Same as the above with relaxed Magazines.
         magazines: []
         masterworks: []
       -
