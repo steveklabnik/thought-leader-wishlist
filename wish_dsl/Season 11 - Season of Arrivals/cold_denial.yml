@@ -1,0 +1,240 @@
+name: Cold Denial
+item_id: 1216130969
+lightgg: https://www.light.gg/db/items/1216130969/cold-denial/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 2}
+  masterworks: {t: 4, c: 1}
+groups: 
+  - 
+    name: PvP
+    summary: >
+      Cold Denial is a 340 RPM "High-Impact Frame" Kinetic Pulse Rifle
+      introduced in Season 11. See
+      [how it compares](https://www.light.gg/db/items/compare/?h=BIfK-Z;C-tvt8;BFN60K;MZyyP)
+      to the existing High-Impacts. The major difference might seem like a minor
+      one, but check out the `Zoom:14` compared to the others with `Zoom:18`.
+      The lower zoom means you've got a wider FOV while zoomed in, and that
+      small(er) thumbstick movements don't kick your reticle as much. It makes
+      way more of a difference than it might seem like on paper.
+
+
+      Everyone is covering this Pulse Rifle because it's absolutely amazing.
+      Check out
+      [Drewksy](https://www.youtube.com/watch?v=vKTOCEijawI&feature=youtu.be&t=119),
+      [Mtashed](https://www.youtube.com/watch?v=RtJeiwwGII0),
+      and
+      [Aztecross](https://www.youtube.com/watch?v=j1jKsnDD6Ss)
+      and I'm sure you'll see more coverage in the coming weeks as more folks
+      get their hands on various rolls.
+
+
+      The headline perk here is Killing Wind, the go-to in column three. The
+      decent Stability and low Zoom factor downplay the need for the only other
+      alternative - `Zen Moment`. Check out
+      [CoolGuy's overview](https://www.youtube.com/watch?v=go1TYsXCopc&feature=youtu.be&t=420)
+      for a quick primer. Here's are the benefits as he describes them:
+
+
+      * Killing Wind has a five second duration. Additional kills refresh the
+      duration.
+      
+      * It adds roughly five tiers of Mobility with the attendant benefits
+      (strafe speed, etc.).
+      
+      * It adds roughly a 4m increase in damage falloff.
+            
+      * The Range boost it provides "is like a sustained version of `Opening
+      Shot`".
+         
+      * Handling increase is on par with Snapshot and vastly improved stow
+      speed.
+
+
+      The last column is interesting. A handful of perks elevate the roll but
+      in my opinion, none are essential. Headseeker might seem strange but
+      with the High-Impact buff in S11, it means a 4H2B kill instead of 5H2B on
+      6 resilience or less. Think about it as making your initial engagement 
+      more forgiving whereas Multikill Clip and Swashbuckler make your follow-on
+      engagements more forgiving.
+    rolls:
+      - &cdvertical
+        name: (PvP) Verticality 🏔🏔🏔🌟 Collector's Edition
+        desc: >
+          You have to see Cold Denial with 100 `Recoil` and bumped up Stability
+          to believe it. It will require that you use a Counterbalance mod,
+          which is par for the course on Scattershot weapons (Autos, SMGs,
+          etc.). It's completely vertical and barely moves during the burst.
+          This roll even without the Stability MW, felt broken when I used it;
+          really nuts.
+        barrels: [Arrowhead Brake]
+        magazines: [Ricochet Rounds]
+        perks1: [Killing Wind]
+        perks2: [Headseeker, Multikill Clip, Swashbuckler]
+        masterworks: [Stability MW]
+      -
+        <<: *cdvertical
+        name: (PvP) Verticality 🏔🏔🏔CE (Relaxed Masterwork)
+        desc: >
+          The core of this roll is so amazing that it honestly doesn't matter
+          nearly as much what the Masterwork is.
+        masterworks: []
+      -
+        <<: *cdvertical
+        name: (PvP) Verticality 🏔🏔🏔CE (Relaxed Perks)
+        desc: >
+          As I stated in the intro - the perks in this column are just icing.
+        perks2: []
+      -
+        <<: *cdvertical
+        name: (PvP) Verticality 🏔🏔🏔CE (Relaxed Perks and Masterworks)
+        desc: >
+          Same as the above with relaxed masterworks.
+        perks2: []
+        masterworks: []
+      -
+        <<: *cdvertical
+        name: (PvP) Verticality 🏔🏔CE (Relaxed Magazines)
+        desc: >
+          We'll take a little less Stability; that's still amazing.
+        magazines: [Ricochet Rounds, Flared Magwell]
+      -
+        <<: *cdvertical
+        name: (PvP) Verticality 🏔🏔CE (Relaxed Magazines and Masterwork)
+        desc: >
+          Same as the above with relaxed Masterworks.
+        magazines: [Ricochet Rounds, Flared Magwell]
+        masterworks: []
+      -
+        <<: *cdvertical
+        name: (PvP) Verticality 🏔🏔CE (Relaxed Magazines, Perks and Masterwork)
+        desc: >
+          Same as the above with relaxed Perks and Masterworks.
+        magazines: [Ricochet Rounds, Flared Magwell]
+        perks2: []
+        masterworks: []
+      -
+        <<: *cdvertical
+        name: (PvP) Verticality 🏔CE (Fully Relaxed Magazines)
+        desc: >
+          We're going to have an absolutely phenomenal roll regardless of what
+          we get in this column.
+        magazines: []
+      -
+        <<: *cdvertical
+        name: (PvP) Verticality 🏔CE (Fully Relaxed Magazines and Masterwork)
+        desc: >
+          Same as the above with relaxed Masterworks.
+        magazines: []
+        masterworks: []
+      -
+        <<: *cdvertical
+        name: (PvP) Verticality 🏔CE (Baseline)
+        desc: >
+          Being fully vertical, I think you're in a real good place.
+        magazines: []
+        perks2: []
+        masterworks: []
+      - &cdgrip
+        name: (PvP) Best Grip 🧤🧤🧤🌟 Collector's Edition
+        desc: >
+          Similar to the Verticality set, this has a practically gauranteed set
+          of barrels to play off of, drastically increasing your chances.
+        barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+        magazines: [Ricochet Rounds]
+        perks1: [Killing Wind]
+        perks2: [Headseeker, Multikill Clip, Swashbuckler]
+        masterworks: [Stability MW]
+      -
+        <<: *cdgrip
+        name: (PvP) Best Grip 🧤🧤🧤CE (Relaxed Masterwork)
+        desc: >
+          The core of this roll is so amazing that it honestly doesn't matter
+          nearly as much what the Masterwork is.
+        masterworks: []
+      -
+        <<: *cdgrip
+        name: (PvP) Best Grip 🧤🧤🧤CE (Relaxed Perks)
+        desc: >
+          As I stated in the intro - the perks in this column are just icing.
+        perks2: []
+      -
+        <<: *cdgrip
+        name: (PvP) Best Grip 🧤🧤🧤CE (Relaxed Perks and Masterworks)
+        desc: >
+          Same as the above with relaxed masterworks.
+        perks2: []
+        masterworks: []
+      -
+        <<: *cdgrip
+        name: (PvP) Best Grip 🧤🧤CE (Relaxed Magazines)
+        desc: >
+          We'll take a little less Stability; that's still amazing.
+        magazines: [Ricochet Rounds, Flared Magwell]
+      -
+        <<: *cdgrip
+        name: (PvP) Best Grip 🧤🧤CE (Relaxed Magazines and Masterwork)
+        desc: >
+          Same as the above with relaxed Masterworks.
+        magazines: [Ricochet Rounds, Flared Magwell]
+        masterworks: []
+      -
+        <<: *cdgrip
+        name: (PvP) Best Grip 🧤🧤 (Relaxed Magazines, Perks and Masterwork)
+        desc: >
+          Same as the above with relaxed Perks and Masterworks.
+        magazines: [Ricochet Rounds, Flared Magwell]
+        perks2: []
+        masterworks: []
+      - 
+        name: (PvP) Foundational 🏠Baseline
+        desc: >
+          With all this Stability, this is a phenomenal roll. Zen Moment would
+          be your next best bet to Killing Wind in column three, but Cold Denial
+          has so much Stability that I don't think having Zen Moment makes or
+          breaks it.
+        barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+        magazines: [Ricochet Rounds]
+        perks1: []
+        perks2: [Headseeker, Multikill Clip, Swashbuckler]
+        masterworks: [Stability MW]
+  - 
+    name: PvE
+    summary: >
+      There's not much to puzzle out here. In PvE you're going for as much
+      `Range` as you can get with sustained damage upkeep. I think `Unrelenting`
+      is a super interesting perk, I would just prefer to have the large damage
+      bonuses active from damage-boosting perks.
+    rolls:
+      - &cdclassic
+        name: (PvE) Classic Pairings 🍷🍷🍷🌟 Collector's Edition
+        desc: >
+          All Range and all damage.
+        barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+        magazines: [High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag]
+        perks1: [Feeding Frenzy]
+        perks2: [Multikill Clip, Swashbuckler]
+        masterworks: [Range MW]
+      -
+        <<: *cdclassic
+        name: (PvP) Classic Pairings 🍷🍷🍷 (Relaxed Masterwork)
+        desc: >
+          Same as the above with relaxed Masterworks.
+        masterworks: []
+      -
+        <<: *cdclassic
+        name: (PvP) Classic Pairings 🍷🍷 (Relaxed Magazines)
+        desc: >
+          Same as the above with relaxed Masterworks.
+        magazines: []
+        masterworks: []
+      -
+        <<: *cdclassic
+        name: (PvP) Classic Pairings 🍷 (Relaxed Barrels)
+        desc: >
+          Same as the above with relaxed Barrels.
+        barrels: []
+        magazines: []
+        masterworks: []                
