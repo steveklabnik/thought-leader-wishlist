@@ -23,8 +23,13 @@ groups:
       TL;DW: Range is
       [compressed](https://youtu.be/CYhJU9NN_iU?t=350),
       perhaps moreso than hand cannons were. The end result is steep falloff
-      after 17m for all types quickly pushing you out of reasonable OHK range
-      Stat-wise, you're only left with Stability and Handling to focus on.
+      after 17m for all types, quickly pushing you out of reasonable OHK range.
+      
+      
+      With the effect of bumping Range so negligible, you're only left with
+      Stability and Handling to focus on. Higher Stability will result in less
+      bolt spread as the burst completes, which is why we're going to focus on
+      it. 
 
 
       So why are we here? Why even bother with PvP rolls of a Precision
@@ -37,6 +42,7 @@ groups:
       
       * **If you only break their shields** then `Disruption Break` activates
       and you can quickly swap to your primary and finish them off.
+
 
       Without both of these perks, you may as well run a High-Impact Frame. I
       think it's possible to have Killing Wind and a bunch of Range perks, but
@@ -96,8 +102,9 @@ groups:
         <<: *hwwindbreaker
         name: (PvP) Windbreaker (Baseline)
         desc: >
-          Here are you two core perks. They still work great together, but you
-          might miss out on some of the great Stability possible on this roll.
+          With just these baseline perks, they still work great together, but
+          you might miss out on some of the great Stability possible on this
+          roll.
         barrels: []
         magazines: []
         masterworks: []
