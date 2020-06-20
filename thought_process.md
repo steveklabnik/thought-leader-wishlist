@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-06-20 06:37:13 +00:00`. The most recent
+created on `2020-06-20 09:23:42 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -46,6 +46,7 @@ I'm of the opinion it's not worth chasing ツ
 **Season 11 - Season of Arrivals**
 * Cold Denial ([PvP](#cold-denial---pvp), [PvE](#cold-denial---pve))
 * Falling Guillotine ([PvE](#falling-guillotine---pve))
+* Hollow Words ([PvP](#hollow-words---pvp))
 * Temptation's Hook ([PvE](#temptations-hook---pve))
 
 **World Drops**
@@ -2264,6 +2265,78 @@ We're going for the classics here: Whirlwind and Surrounded. Maybe you'll get in
   Mags    [100%]: *
   Perks 1 [ 33%]: Relentless Strikes
   Perks 2 [ 50%]: Surrounded
+  MWorks  [100%]: *
+  ```
+## Hollow Words - PvP
+Hollow Words is a "Precision Frame" 740ms-charge-time Fusion Rifle released in Season 11. That means it shoots seven bolts and you need five of those to connect for a OHK.
+Fusions have been my favourite special since Destiny 1. I have an Erentil with 1,082 kills on it 😱Currently fusions are not in a good place in the sandbox after a sweeping nerf that just went in. If you want the complete story, check out [CoolGuy's video](https://www.youtube.com/watch?v=CYhJU9NN_iU). TL;DW: Range is [compressed](https://youtu.be/CYhJU9NN_iU?t=350), perhaps moreso than hand cannons were. The end result is steep falloff after 17m for all types quickly pushing you out of reasonable OHK range Stat-wise, you're only left with Stability and Handling to focus on.
+
+So why are we here? Why even bother with PvP rolls of a Precision Frame when only High-Impacts are worth pursuing? Two reasons: `Killing Wind` and `Disruption Break`. Combined, you've got great benefits.
+* **If you get a final blow** then `Killing Wind` procs and you can begin [mapping Guardians](https://www.youtube.com/watch?v=8qfhrTicLbU) at Erentil-like ranges with your Hollow Words.
+* **If you only break their shields** then `Disruption Break` activates and you can quickly swap to your primary and finish them off.
+Without both of these perks, you may as well run a High-Impact Frame. I think it's possible to have Killing Wind and a bunch of Range perks, but you don't need a wishlist to tell you to take a single perk ;)
+* **(PvP) Windbreaker 🧥🧥🧥🌟 Collector's Edition (0.3% chance)**: Let's bring in as much Stability as we can paired with our two superstar perks. I'm also willing to forego Stability in the barrel if it means having completely vertical recoil w/Arrowhead.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Arrowhead Brake
+  Mags    [ 33%]: Particle Repeater
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Disruption Break
+  MWorks  [ 20%]: Stability MW
+  ```
+* **(PvP) Windbreaker 🧥🧥(Minus Barrels) (0.4% chance)**: Same as above, minus the Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 33%]: Particle Repeater
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Disruption Break
+  MWorks  [ 20%]: Stability MW
+  ```
+* **(PvP) Windbreaker 🧥🧥(Minus Magazines) (0.8% chance)**: Same as above, minus the Magazines.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Disruption Break
+  MWorks  [ 20%]: Stability MW
+  ```
+* **(PvP) Windbreaker 🧥🧥(Minus Masterwork) (1.3% chance)**: Same as above, minus the Masterworks.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Arrowhead Brake
+  Mags    [ 33%]: Particle Repeater
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Disruption Break
+  MWorks  [100%]: *
+  ```
+* **(PvP) Windbreaker 🧥(Minus Barrels and Magazines) (1.1% chance)**: Same as above, minus the Barrels and Magazines.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Disruption Break
+  MWorks  [ 20%]: Stability MW
+  ```
+* **(PvP) Windbreaker 🧥(Minus Barrels and Masterworks) (1.9% chance)**: Same as above, minus the Barrels and Masterworks.
+  ```
+  Barrels [100%]: *
+  Mags    [ 33%]: Particle Repeater
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Disruption Break
+  MWorks  [100%]: *
+  ```
+* **(PvP) Windbreaker 🧥(Minus Magazines and Masterworks) (4.0% chance)**: Same as above, minus the Magazines and Masterworks.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Corkscrew Rifling, Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Disruption Break
+  MWorks  [100%]: *
+  ```
+* **(PvP) Windbreaker (Baseline) (5.6% chance)**: Here are you two core perks. They still work great together, but you might miss out on some of the great Stability possible on this roll.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Disruption Break
   MWorks  [100%]: *
   ```
 ## Temptation's Hook - PvE
