@@ -57,9 +57,14 @@ PREAMBLE
     thoughts.puts("\n---\n")
 
     weapons.each do |weapon|
-
       weapon['groups'].each do |group|
+
         thoughts.puts("## #{weapon['name']} - #{group['name']}")
+
+        thoughts.puts("*For all possible perks, check out **#{weapon['name']}** over on [light.gg](#{weapon['lightgg']})*")
+        thoughts.puts
+        thoughts.puts
+
         thoughts.puts(group['summary'])
 
         group['rolls'].each do |r|
