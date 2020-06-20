@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-06-20 16:00:44 +00:00`. The most recent
+created on `2020-06-20 18:04:10 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -61,6 +61,9 @@ I'm of the opinion it's not worth chasing ツ
 
 ---
 ## Breachlight - PvP
+*For all possible perks, check out **Breachlight** over on [light.gg](https://www.light.gg/db/items/1289997971/breachlight/)*
+
+
 CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE and PvP but focuses intensely on PvP. Some choice cuts: "I would try other rolls while I was reviewing this and I kept coming back to Vorpal." "Landing shots is more important than accuracy; shouldn't be worried about straight precision. More important to get the recoil straight up and down than it is to add stability because you have to control the stability after every burst anyway." I have to agree - Vorpal is pretty amazing in PvP and I did wish I had it several times. Without Vorpal, it's just another two-burst sidearm. You may as well use a Smuggler's Word with Tap the Trigger, which has one of the lowest TTKs in all of Destiny.
 * **(PvP) Slif's Picky Super Killer 💥 (0.2% chance)**: This is my personal perfect PVP roll. Threat Detector has a far longer range than you'd think (beyond damage falloff) and Vorpal shreds through supers. The rest of this roll is all about maxing out the range.
   ```
@@ -127,6 +130,9 @@ CoolGuy's video [here](https://www.youtube.com/watch?v=GXwdAQGOfeY) is both PvE 
   MWorks  [ 25%]: Range MW
   ```
 ## Breachlight - PvE
+*For all possible perks, check out **Breachlight** over on [light.gg](https://www.light.gg/db/items/1289997971/breachlight/)*
+
+
 Ehroar focuses on Breachlight - ["This Sidearm Might Just Be The New Recluse"](https://www.youtube.com/watch?v=TrYRPglvMHY) "I truly believe this weapon is better than Recluse and I believe it will be the new meta for PvE." He mentions three amazing rolls (well four kinda) that I'll capture below. You won't see obviously good rolls here (e.g. Outlaw + MKC) because the combination is so straightforward and easy to roll. I.e. you don't need to come to a DIM wishlist to tell you that these perks pair well togther :)
 * **(PvE) Picky Gunslinger (3.0% chance)**: Ehroar: "Great for basic add clear. Once you get MKC going you can shred Majors and Ultras." We're going for max range with some extra perks and a Masterwork, but those are just icing on this shredding cake. The lack of a Range Masterwork, or any specific Masterwork doesn't make or break this roll so I'm leaving it out.
   ```
@@ -161,6 +167,9 @@ Ehroar focuses on Breachlight - ["This Sidearm Might Just Be The New Recluse"](h
   MWorks  [ 25%]: Range MW
   ```
 ## Gallant Charge - PvP
+*For all possible perks, check out **Gallant Charge** over on [light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/)*
+
+
 Fallout has an interesting, [pro-Stability take](https://www.youtube.com/watch?v=pVVLwg1pVs4) on the Gallant. "This might be THE fusion rifle for controller players". It's bolt grouping isn't as tight, but you can get Recoil to 100 (with a Counterbalance mod). Go for Stability! With respect to the magazine, I prefer the unaltered charge time. There's not too many rolls here because it's not really worth running unless you get enough stat differentiation to make it more valuable than your dozens of alternatives in this crowded Energy slot.
 * **(PvP) Fallout Stabile Zapper Collector's Edition ✨ (1.3% chance)**: Bringing all of our stability and range tools to bear here. We want to first "fix" the recoil by getting it as close to ending in a `5` as we can. Then we go for Stability!
   ```
@@ -187,6 +196,9 @@ Fallout has an interesting, [pro-Stability take](https://www.youtube.com/watch?v
   MWorks  [100%]: *
   ```
 ## Gallant Charge - PvE
+*For all possible perks, check out **Gallant Charge** over on [light.gg](https://www.light.gg/db/items/1706206669/gallant-charge/)*
+
+
 CoolGuy has a [terrific PvE review](https://www.youtube.com/watch?v=q6BPg-W8z9g) of the Gallant. It has a PvP perspective but that part isn't as strong as Fallout's (IMHO, on this particular weapon). The important perks are your third and fourth column for these rolls, so really any of them are fine.
 * **(PvE) Sustained DPS (2.1% chance)**: How can we maximize damage uptime and bolt hits while minimizing falloff?
   ```
@@ -261,6 +273,9 @@ CoolGuy has a [terrific PvE review](https://www.youtube.com/watch?v=q6BPg-W8z9g)
   MWorks  [100%]: *
   ```
 ## Infinite Paths 8 - PvP
+*For all possible perks, check out **Infinite Paths 8** over on [light.gg](https://www.light.gg/db/items/3233390913/infinite-paths-8/)*
+
+
 CoolGuy reviews IP8 for both PvP and PvE, which is where these rolls originate. He discusses the State of the Union with respect to these frames [timestamped here](https://www.youtube.com/watch?v=-ZnUT63RgnE&t=1023) and it makes for super interesting listening. TL;DR - Of all the Pulse Rifle frames, the lightweights require you to be the most precise yet reward you with the second slowest TTK. They're the only ones he feels are not currently competitive. Given that they used to be the best frames in D1 (remember Hawksaw?), file one away for a future date.
 * **(PvP) "CoolGuy's Middle Child" Collector's Edition (0.0% chance)**: In the video above, CoolGuy makes a strong case for some buffs to this "middle" archetype of Pulse Rifle. "On console, Zen Moment and Eye of the Storm are great but you're going to get more utility from Zen Moment." We'll add EotS in later as a fallback.
   ```
@@ -335,6 +350,9 @@ CoolGuy reviews IP8 for both PvP and PvE, which is where these rolls originate. 
   MWorks  [100%]: *
   ```
 ## Infinite Paths 8 - PvE
+*For all possible perks, check out **Infinite Paths 8** over on [light.gg](https://www.light.gg/db/items/3233390913/infinite-paths-8/)*
+
+
 Here we're featuring a few rolls from the CoolGuy [video](https://www.youtube.com/watch?v=-ZnUT63RgnE) mentioned above. I would put these pretty low on my list but if you're a fan of the aesthetic of the Osiris weapons, why not grab a few of these while they're still available? "It performs as expected. Great for mid- and low-tier adds. It does really well."
 
 These rolls are just north of 2% because of the number of perks in the final two columns `(0.16 * 0.16 = 0.02)`, and the fact that they don't benefit from the Season 9 Rank 92 bonus of an additional perk in the final column.
@@ -355,6 +373,9 @@ These rolls are just north of 2% because of the number of perks in the final two
   MWorks  [100%]: *
   ```
 ## Jack Queen King 3 - PvP
+*For all possible perks, check out **Jack Queen King 3** over on [light.gg](https://www.light.gg/db/items/410996590/jack-queen-king-3/)*
+
+
 This is going to blow your mind... but JQK3 and Waking Vigil (via Dreaming City) are the only two randomly rolled 150 RPM Hand Cannons and the only other Energy HCs apart from Luna's Howl (RIP Luna) and Not Forgotten. Its base stats are [among the best of all of these](https://www.light.gg/db/items/compare/?h=JLYoE;JLYoH;T6w4n;Yf09u) with `96` AA (91+Sight) and `73` Handling! For analysis and gameplay, check out this [CammyCakes review](https://www.youtube.com/watch?v=oHIhi5fkxDw). One interesting bit that stood out: "The diffence between a max range JKQ3 and medium range one is about half a meter". Yes for falloff that's true, but since Range affects stickyness, it's still got value here. For some of us (myself included), [CoolGuy's take](https://www.youtube.com/watch?v=XI5CjuOonRc) on the JKQ3 might be more up your alley, PvP-wise: "For Crucible it isn’t necessarily bad, but it’s kind of an acquired taste." It's never clicked with me but some people absolutely love it. IMHO similar to Sunshot - it's great on paper but the model is so chunky that it obscures where you're aiming when it kicks up. Its stiff competition and model/kick funkyness are why these rolls are so narrow. It needs a lot to compete with Luna's, Not Forgotten and Waking Vigil (which can be farmed from Menagerie with a predetermined Masterwork). The second set of these rolls is meant to be slightly more forgiving if you really want Demo and/or Snapshot.
 * **(PvP) Incredibly, Hilariously Picky (0.1% chance)**: Be sure to let me know how many dieties you prayed to in order to get  this roll. I'd suggest also buying a lottery ticket post-haste. As much Stability and Handling as we can get.
   ```
@@ -413,6 +434,9 @@ This is going to blow your mind... but JQK3 and Waking Vigil (via Dreaming City)
   MWorks  [ 50%]: Stability MW, Handling MW
   ```
 ## Jack Queen King 3 - PvE
+*For all possible perks, check out **Jack Queen King 3** over on [light.gg](https://www.light.gg/db/items/410996590/jack-queen-king-3/)*
+
+
 [Ehroar](https://www.youtube.com/watch?v=OVXNkbyfBrQ): "I definitely think this will be one of the best hand cannons in PvE and probably PvP in the energy slot." In general we're sticking with Rampage so we can throw on Rampage Spec and ride it out. Sure Swashbuckler and  Surrounded + Surrounded Spec are awesome but it's a Hand Cannon and you're probably not punching enemies if you're trying to work in its effective range. Those perks work better on sidearms, SMGs and shotguns. CoolGuy has a [great set of rolls](https://youtu.be/XI5CjuOonRc?t=463) I'm incorporating here as well. "Very stout PvE hand cannon; top-tier."
 * **(PvE) Sparks Flying (Super Picky) (2.0% chance)**: Both Demolitionist and Subistence will proc once for each Dragonfly explosion kill. Use in situations where you can one-shot enemies. Don't forget Dragonfly Spec! Per CoolGuy, this is a rarely available combo; pick it up.
   ```
@@ -447,6 +471,9 @@ This is going to blow your mind... but JQK3 and Waking Vigil (via Dreaming City)
   MWorks  [100%]: *
   ```
 ## Line in the Sand - PvP
+*For all possible perks, check out **Line in the Sand** over on [light.gg](https://www.light.gg/db/items/946443267/line-in-the-sand/)*
+
+
 Ages ago, Fallout put out a [Crooked Fang God Roll video](https://www.youtube.com/watch?v=TB-s1IYDpeQ) and lo' and behold, Line in the Sand is basically an Arc Crooked Fang! So let's get to taking their command out one by... We can rely on that review for some solid tips. Is it a PvP workhorse? Nah but fun is fun so if you like LFRs, go nuts.
 * **(PvP) Fallout's Arc Fang Collector's Edition ☢️ (0.2% chance)**: "The" God Roll from Fallout's video above.
   ```
@@ -513,6 +540,9 @@ Ages ago, Fallout put out a [Crooked Fang God Roll video](https://www.youtube.co
   MWorks  [100%]: *
   ```
 ## Line in the Sand - PvE
+*For all possible perks, check out **Line in the Sand** over on [light.gg](https://www.light.gg/db/items/946443267/line-in-the-sand/)*
+
+
 Datto posted some in-depth comparisons between LitS and other DPS weapons [earlier in Season 9](https://www.youtube.com/watch?v=ltzDK0NWMgM). As we approach the final third of Season 9, it's still not a great DPS choice, but it "can compete with the likes of Sole Survivor" but who knows what will happen in the future? Since it's so easy to farm and S92 gives you an extra perk in the final slot, why not hang on to these?
 * **(PvE) Super Picky DPS (0.3% chance)**: The full suite of perks to maximize DPS on a big ol' target. We're looking for some Stability-enhancing barrels as well.
   ```
@@ -571,6 +601,9 @@ Datto posted some in-depth comparisons between LitS and other DPS weapons [earli
   MWorks  [100%]: *
   ```
 ## Martyr's Retribution - PvP
+*For all possible perks, check out **Martyr's Retribution** over on [light.gg](https://www.light.gg/db/items/3850168899/martyrs-retribution/)*
+
+
 I absolutely love this new "Wave Frame" (i.e. Thermite Jr.) archetype! Our roll choices below might seem a little odd, but here we go. For PvP I want this always ready, loaded and moving quickly. That means I'm looking for Reload and Velocity in that order. The base Velocity @ `86` and Reload @ `77` (thanks to `High-Velocity Rounds` being one of two fixed barrels) seems more than good enough, so lets focus on Reload and Handling. I don't require Demolitionist because like Fighting Lion, I see Martyr's more as a starter than a finisher. By all means, roll with it, but I'm more excited about the perks below because I think we'll get more consistent utility from them. With breach-load launchers, we're going to run `Quick Access Sling`, which buffs swapping speed and since the Martyr's Handling stat is already so high, I don't think we need too much more Handling here. Let's look for Velocity-based barrels and since there's only two available magazines, that choice is easy ;)
 * **(PvP) Super Picky (1.5% chance)**: Elemental Capacitor's +Reload and +Handling buffs (Solar and Arc respectively) are pheneomenal attributes to bump on breach load launchers.
   ```
@@ -589,6 +622,9 @@ I absolutely love this new "Wave Frame" (i.e. Thermite Jr.) archetype! Our roll 
   MWorks  [ 20%]: Reload MW
   ```
 ## Martyr's Retribution - PvE
+*For all possible perks, check out **Martyr's Retribution** over on [light.gg](https://www.light.gg/db/items/3850168899/martyrs-retribution/)*
+
+
 This is one of my favourite weapons in all of Destiny! Pretty much any roll is fine but if you want to push your roll criteria, here we go.
 * **(PvE) Shieldbreaker (5.3% chance)**: Martyr's absolutely shreds shields and a shieldsplosion roll like this will be super fun. Those hopefully chained kills should keep your grenade rolling from Demolitionist and upon activating it will reload your weapon and so on...
   ```
@@ -607,6 +643,9 @@ This is one of my favourite weapons in all of Destiny! Pretty much any roll is f
   MWorks  [ 40%]: Reload MW, Handling MW
   ```
 ## Patron of Lost Causes - PvP / PvE
+*For all possible perks, check out **Patron of Lost Causes** over on [light.gg](https://www.light.gg/db/items/2723241847/patron-of-lost-causes/)*
+
+
 CoolGuy absolutely loves his Patron, and has a great [video review of it](https://www.youtube.com/watch?v=GTcp4JQD1fI). Since this is a controller wishlist, these rolls are all about maxing Stability. All of these PvP rolls would be perfectly fine rolls in PvE as well.
 * **(PvP/PvE) "Rapid Hitstability" (1.6% chance)**: This is all about stability. Yes, Explosive Rounds and Vorpal don't increase stability but they would make this already great roll even better.
   ```
@@ -689,6 +728,9 @@ CoolGuy absolutely loves his Patron, and has a great [video review of it](https:
   MWorks  [100%]: *
   ```
 ## Patron of Lost Causes - PvE
+*For all possible perks, check out **Patron of Lost Causes** over on [light.gg](https://www.light.gg/db/items/2723241847/patron-of-lost-causes/)*
+
+
 This section only exists because of Osmosis, for future-proofing/high-end PvE with Match Game.
 * **(PvE) The Future-Proofer (6.9% chance)**: Low-priority, future-proofing setup here or if you want a Scout Rifle for high-end PvE Match Game.
   ```
@@ -699,6 +741,9 @@ This section only exists because of Osmosis, for future-proofing/high-end PvE wi
   MWorks  [100%]: *
   ```
 ## Perfect Paradox - PvP
+*For all possible perks, check out **Perfect Paradox** over on [light.gg](https://www.light.gg/db/items/3393519051/perfect-paradox/)*
+
+
 Rapid-fire frames in PvP are a different breed. They're not like Aggressive or Precision Frames for the spicy, consistent one-hit kills. If you want something like that in this slot, you want to farm Menagerie for [Dust Rock Blues](https://www.light.gg/db/items/636912560/dust-rock-blues/) or even [Toil and Trouble](https://www.light.gg/db/items/2957367743/toil-and-trouble/).
 
 The big debate here will be Opening Shot or Rampage. Many folks, like Sheikh (aka [Destiny Fun Police](https://www.youtube.com/watch?v=njEmXDccobw)) prefer Rampage + Rampage Spec in the final slot. I don't and here's why:
@@ -788,6 +833,9 @@ Based on the YouTube content creator hive mind, I'm in the minority on this opin
   MWorks  [100%]: *
   ```
 ## Perfect Paradox - PvE
+*For all possible perks, check out **Perfect Paradox** over on [light.gg](https://www.light.gg/db/items/3393519051/perfect-paradox/)*
+
+
 There's a good bit of [cargo-culting](https://en.wiktionary.org/wiki/cargo_culting) when it comes to shotgun "God Rolls" and while I don't think there's any outright awful damage perks here, I do think you're better off with some than with others. [Aztecross](https://www.youtube.com/watch?v=vGe3z2doHbQ) is a good balance of science and excitement in terms of roll knowledge, so check it out; he's one of the rare folks to see the value in the criminally underrated Firmly Planted on shotguns.
 
 There are a ton of damage-boosting perks on Perfect Paradox! We have Swashbuckler, One-Two Punch, Trench Barrel and Rampage. Let's go!
@@ -838,6 +886,9 @@ BONUS! From Ehroar, a pretty slick [Infinite Ammo Perfect Paradox Build](https:/
   MWorks  [100%]: *
   ```
 ## Steelfeather Repeater - PvP
+*For all possible perks, check out **Steelfeather Repeater** over on [light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/)*
+
+
 CoolGuy does a [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI) of Steelfeather and it doesn't have super high marks for PvP. The base Stability at `38` is abysmal, so for a decent PvP roll we're looking to correct that. If we fix Recoil, it mitigates such low Stability. A base Recoil of `57` means we're not going to be able to bring it under control unless we use Arrowhead Brake with a Counterbalance mod. From there on out, we're going for as much Stability as we can. Without Stability and Recoil mitigation, there's not a lot of reason to use this weapon, hence the small number of PvP rolls. If you want to see firsthand why Firmly Planted is so amazing, [check out this timestamp](https://youtu.be/anp5VBGfhmI?t=214) for PvE testing and [this timestamp](https://www.youtube.com/watch?v=anp5VBGfhmI&feature=youtu.be&t=689) for PvP. "I feel it's a decent weapon. I personally don't crown it anything beyond it's a fun AR to have in your rotation."
 * **(PvP) Super Picky Straight-Up Recoil (0.3% chance)**: We're looking to max Stability and Range after maxing recoil. The roll is built around `Arrowhead Brake` and `Firmly Planted`. Other sources of stability are gravy.
   ```
@@ -856,6 +907,9 @@ CoolGuy does a [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI)
   MWorks  [ 25%]: Range MW
   ```
 ## Steelfeather Repeater - PvE
+*For all possible perks, check out **Steelfeather Repeater** over on [light.gg](https://www.light.gg/db/items/1251729046/steelfeather-repeater/)*
+
+
 There are two long form Steelfeather reviews kicking around. CoolGuy does a [terrific breakdown](https://www.youtube.com/watch?v=anp5VBGfhmI) of the weapon overall with PvE and PvP thoughts. [Aztecross](https://www.youtube.com/watch?v=zdhugEZT1C4) has one as well and per usual, has a bit more excited yelling :) Interestingly they both compare it to a "higher range SMG". They also both comment on its applicability (or lack of) to anything beyond slaying red-bar enemies. In Sundial for example, it runs out of steam. Oddly enough, Breachlight performs better in that role; go figure. "I feel it's a decent weapon. I personally don't crown it anything beyond it's a fun AR to have in your rotation."
 * **(PvE) Super Picky (10.1% chance)**: How can we keep DPS up as long as possible while preserving as much Range and Stability as possible?
   ```
@@ -882,6 +936,9 @@ There are two long form Steelfeather reviews kicking around. CoolGuy does a [ter
   MWorks  [100%]: *
   ```
 ## Traveler's Judgement 5 - PvP
+*For all possible perks, check out **Traveler's Judgement 5** over on [light.gg](https://www.light.gg/db/items/4149758318/travelers-judgment-5/)*
+
+
 CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZQdY4)! There isn't a bad sight and it has little to no recoil. It can roll with Disruption Break which works in PvP (?!) as well as a combo of Rapid Hit and Tap the Trigger, which is a rare combo.  Keep in mind TJ5 doesn't benefit from from the Season 9 R92 additional perk in the last slot, so these rolls are *tough* to get. Recently, True Vanguard [released a video](https://www.youtube.com/watch?v=9QXBw6NFi08) and that reminded me to get a little more specific on the picky rolls.
 * **(PvP) "Perfectly Balanced, As All Things Should Be" 🦹‍♂️ (0.4% chance)**: With an `84` base Stability and two Stability perks in the third and fourth columns, let's focus on increasing Range (not at the cost of Stability).
   ```
@@ -964,6 +1021,9 @@ CoolGuy with another [phenomenal review](https://www.youtube.com/watch?v=J4HGIAZ
   MWorks  [100%]: *
   ```
 ## Traveler's Judgement 5 - PvE
+*For all possible perks, check out **Traveler's Judgement 5** over on [light.gg](https://www.light.gg/db/items/4149758318/travelers-judgment-5/)*
+
+
 These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=J4HGIAZQdY4) above. Disruption Break, who knew? CoolGuy makes a great point: we might see a "season of the sidearm" where artifact perks like Barrier can be applied to sidearms and since Barrier is a shield, Disruption Break will be great to pair with it. If you don't use Disruption Break, you're better off using another Energy weapon with damage-increasing perks.
 * **(PvE) Super Picky Shieldbreaker (0.4% chance)**: That could mean breaking Barriers with Disruption Break, and not many weapons can roll with that perk! We're adding ALH because to use Disruption Break you need to switch to your Kinetic weapon, which means ALH will proc and TJ5 will be reloaded and ready to go.
   ```
@@ -998,6 +1058,9 @@ These rolls are pulled from the CoolGuy [video](https://www.youtube.com/watch?v=
   MWorks  [100%]: *
   ```
 ## Trophy Hunter - PvP
+*For all possible perks, check out **Trophy Hunter** over on [light.gg](https://www.light.gg/db/items/4166221755/trophy-hunter/)*
+
+
 More of a PvE sniper, so we aren't going to have much to lay down here for a great roll. If you're hungry for a PvP Energy sniper, you want the  Beloved (Menagerie), Apostate (Altar of Sorrows) or Twilight Oath (Dreaming City). CoolGuy: ["It's OK, nothing special."](https://www.youtube.com/watch?v=dGHNinCK3HI) Handling additions are appreciated because it's such a clunky weapon. I toyed with not even having rolls here but it's easy to farm and only here this season; why not grab a decent roll?
 * **(PvP) "Snipe Like a Psion!" 🐲 (0.8% chance)**: Psions use Trophy Hunter - who knew? "Pulse Monitor"?! Yeah, there's only four perks in the third column and it's the only one applicable to PvP. The is the only randomly-rolled sniper in the game with Pulse Monitor. Everythig else is attempting to buff the Handling so it doesn't feel so sluggish.
   ```
@@ -1024,6 +1087,9 @@ More of a PvE sniper, so we aren't going to have much to lay down here for a gre
   MWorks  [ 25%]: Handling MW
   ```
 ## Trophy Hunter - PvE
+*For all possible perks, check out **Trophy Hunter** over on [light.gg](https://www.light.gg/db/items/4166221755/trophy-hunter/)*
+
+
 CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/watch?v=dGHNinCK3HI) "Solo" also means "playing solo with a random group" (i.e. not coordinated). Nearly a perfect sniper for Gambit, especially paired with Malfeasance. You'll note these rolls are pretty strict, and that's because there are so few perks in the final two columns. Handling is so, so low on this sniper that I think you absolutely want the +20-25 Handling from a combo of the barrel perk and Masterwork.
 * **(PvE) "Triple Tap Your Way to Seven" (0.8% chance)**: That's a quote from CoolGuy's review :) Throw a `Backup Mag` mod on here to be able to do that.
   ```
@@ -1074,6 +1140,9 @@ CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/w
   MWorks  [100%]: *
   ```
 ## Seventh Seraph Carbine - PvP
+*For all possible perks, check out **Seventh Seraph Carbine** over on [light.gg](https://www.light.gg/db/items/1561006927/seventh-seraph-carbine/)*
+
+
 The Seventh Seraph Carbine (SSC) is a 450 RPM "Precision Frame" Kinetic Auto Rifle. Let's start with a quick comparison to randomly-rolled 450s, over on [light.gg](https://www.light.gg/db/items/compare/?h=BdCxNP;mJ1-6;Bqp0Wx;Fju9i;DmTiv3). In general the 450s are fairly the same stat-wise, with a material deviation in Aim Assist for the SSC; easily addressable with an Aim Assist mod. 
 
 Should you pick one up for use in Season 10? In Season 10, 600 RPM "Adaptive Frame" Auto Rifles are the meta (e.g. SUROS Regime, Monte Carlo, Hard Light). There's no pressing reason to chase SSC rolls for PvP.
@@ -1193,6 +1262,9 @@ Here's a few rolls worth considering that you can put to work today!
   MWorks  [100%]: *
   ```
 ## Seventh Seraph Carbine - PvE
+*For all possible perks, check out **Seventh Seraph Carbine** over on [light.gg](https://www.light.gg/db/items/1561006927/seventh-seraph-carbine/)*
+
+
 For its base stats and perks, there isn't a whole lot of reason to consider the SSC for PvE. While it does feature Swashbuckler and Rampage, it doesn't combine it with a reload-boosting perk like Feeding Frenzy or Outlaw. Breakneck, the Gambit Pinnacle weapon with the unique perk `Onslaught` is also 450 RPM and recently received a buff in Season 10. It shreds in PvE and since it's a Legendary weapon, it can take the Season 10 Artifact mods.
 Still, there's at least a couple of reasons why you might want to consider a SSC.
 1. It's a Seraph weapon! If you're running Warmind mods on your armor, Seraph weapons will spawn Warmind Cells.
@@ -1214,6 +1286,9 @@ Still, there's at least a couple of reasons why you might want to consider a SSC
   MWorks  [100%]: *
   ```
 ## Seventh Seraph CQC-12 - PvP
+*For all possible perks, check out **Seventh Seraph CQC-12** over on [light.gg](https://www.light.gg/db/items/1821724780/seventh-seraph-cqc-12/)*
+
+
 The CQC-12 is an 80 RPM "Lightweight Frame" shotgun in the energy slot. Through leveling the season pass, you unlock a chance for it to drop at the conclusion of Gambit, Crucible and Strike activities. You can't really "farm" it per se. The good news is that there's only four perks in the final two columns meaning it's not incredibly difficult to get the perks you might be interested in. See how it compares to other randomly-rolled 80 RPMs over on  [light.gg](https://www.light.gg/db/items/compare/?h=BslVBs;CEKlVP;Brud8B;DmKQYw). Statistically, they're all quite similar and like all shotguns, otherwise identical in barrels and magazines.
 
 Three reasons why the CQC is exciting for PvP:
@@ -1336,6 +1411,9 @@ Our first couple of roll sets will be classic shotgun rolls and the third will f
   MWorks  [ 25%]: Range MW
   ```
 ## Seventh Seraph CQC-12 - PvE
+*For all possible perks, check out **Seventh Seraph CQC-12** over on [light.gg](https://www.light.gg/db/items/1821724780/seventh-seraph-cqc-12/)*
+
+
 This section will be straightforward :) All of our rolls are toing to be centered around Trench Barrel. It provides a 50% damage boost vs. Vorpal's 15%. Trench Barrel takes a melee to activate, but with shotguns you have to be in melee range anyway, so you're good!
 
 This isn't a "run and gun" shotgun. There are no damage-boosting perks, like Swashbuckler or Rampage, you have Slideshot and Auto-Loading Holster but so do plenty of other shotguns.
@@ -1388,6 +1466,9 @@ This isn't a "run and gun" shotgun. There are no damage-boosting perks, like Swa
   MWorks  [100%]: *
   ```
 ## Seventh Seraph Officer Revolver - PvP
+*For all possible perks, check out **Seventh Seraph Officer Revolver** over on [light.gg](https://www.light.gg/db/items/3037520408/seventh-seraph-officer-revolver/)*
+
+
 The Officer Revolver is a 180 RPM Kinetic Hand Cannon. See how it compares to other 180 RPM Hand Cannons over on [light.gg](https://www.light.gg/db/items/compare/?h=C1DOIY;xtxS0;DzBRNi) Let's start off with Mercules and Kyt from the latest Massive Breakdown podcast. Turns out they [aren't super hot](https://soundcloud.com/destinymassivebreakdowns/episode-156-seventh-seraph-weapons-breakdown#t=33:44) on the Officer's Revolver.
 
 > **Mercules:** *"Noticably worse than every other Precision hand cannon except for Trust, which has better Aim Assist and Recoil then the Officer's. Statistically, Officer's is not a super impressive hand cannon."*
@@ -1533,6 +1614,9 @@ The good news is that the wishlist can support multiple perspectives! I'll put t
   MWorks  [ 75%]: Range MW, Handling MW, Stability MW
   ```
 ## Seventh Seraph Officer Revolver - PvE
+*For all possible perks, check out **Seventh Seraph Officer Revolver** over on [light.gg](https://www.light.gg/db/items/3037520408/seventh-seraph-officer-revolver/)*
+
+
 There are so many great Hand Cannons for general purpose add shredding that you can skip the Officer's Revolver if you don't feel like adding another one to your vault. Personally I had a perfectly rolled Service Revolver (Rapid-Hit + Kill Clip) and never used it because it couldn't one-tap red bar adds - a 140 or 150 with Kill Clip ends up being my preferred.
 
 "OK Slif, so why do you even have a PvE section here?"
@@ -1565,6 +1649,9 @@ There are so many great Hand Cannons for general purpose add shredding that you 
   MWorks  [100%]: *
   ```
 ## Seventh Seraph SAW - PvP
+*For all possible perks, check out **Seventh Seraph SAW** over on [light.gg](https://www.light.gg/db/items/2582755344/seventh-seraph-saw/)*
+
+
 Drewsky has a great review of the [Bane of Sorrow](https://www.youtube.com/watch?v=G7hqmrV1pk0), another 360 RPM "High-Impact Frame" Machine Gun. From the review, it hits for 48 crit / 38 body (TTK 0.5s / 0.83s). It's got terrific range and flinches like crazy.
 
 That being said, it's still a Machine Gun which tends not to be the pick for PvP... BUT... BUT! The SAW can roll with `Opening Shot` in the final column. Because the rate of fire is so low, you can single tap out shots and get crits across the map. Try out some Machine Gun sniping in Mayhem and let me know how that works out for you 🎯
@@ -1603,6 +1690,9 @@ Otherwise, there's no pressing reason to farm for a SAW for PvP, at least none m
   MWorks  [100%]: *
   ```
 ## Seventh Seraph SAW - PvE
+*For all possible perks, check out **Seventh Seraph SAW** over on [light.gg](https://www.light.gg/db/items/2582755344/seventh-seraph-saw/)*
+
+
 The SAW is 360 RPM "High-Impact Frame" Machine Gun and is an absolute monster in PvE. *"But Slif, everyone says Machine Guns are crap for DPS so why do you even have a PvE section?!?"*
 
 Walk with me, grasshopper.
@@ -1695,6 +1785,9 @@ Otherwise we're shooing for higher Stability
   MWorks  [100%]: *
   ```
 ## Seventh Seraph SI-2 - PvP
+*For all possible perks, check out **Seventh Seraph SI-2** over on [light.gg](https://www.light.gg/db/items/3937866388/seventh-seraph-si-2/)*
+
+
 The SI-2 is the 2020 version of the Anonymous Autumn (Kyt: *"which is the best-in-class for lightweight sidearms"*) and is the only other randomly rolled 360 RPM Energy sidearm. Mercules is on the same page: *"It (SI-2) doesn't have great Stability or great Range. I would pick a well-rolled Anonymous Autumn over this every time."* Why do they say that? It's got basically the same stats as an Anonymous Autumn but has 33% less Range and 20% less Stability. On the plus side the SI-2 has 7% better Handling (64 > 69) 🙃
 
 Even TrueVanguard, who absolutely loves the Anonymous Autumn (with over 14,000 kills) depicts the SI-2 as situational, relying primarily on Vorpal to justify using it. Check out [his thoughts](https://www.youtube.com/watch?v=cCtP2PjAEgY).
@@ -1753,6 +1846,9 @@ On to the rolls!
   MWorks  [100%]: *
   ```
 ## Seventh Seraph SI-2 - PvE
+*For all possible perks, check out **Seventh Seraph SI-2** over on [light.gg](https://www.light.gg/db/items/3937866388/seventh-seraph-si-2/)*
+
+
 Like all other Seraph weapons, the SI-2 contributes to the generation of Warmind cells in PvE. If that's not your thing, you can pretty much pass on this weapon full stop. Since it can roll with Dragonfly, it could have made beautiful music with the `Wrath of Rasputin` Warmind mod: `Solar splash damage final blows have a chance to create Warmind Cells`. Unfortunately the SI-2 is a Void weapon 👿
 
 That being said, there are a few combos that could prove interesting for the discerning collector / sidearm aficionado.
@@ -1781,6 +1877,9 @@ That being said, there are a few combos that could prove interesting for the dis
   MWorks  [100%]: *
   ```
 ## Seventh Seraph VY-7 - PvP
+*For all possible perks, check out **Seventh Seraph VY-7** over on [light.gg](https://www.light.gg/db/items/766323545/seventh-seraph-vy-7/)*
+
+
 The VY-7 is a 600 RPM Energy "Precision Frame" SMG. Here's how it compares to all other randomly-rolled 600 RPM SMGs on [light.gg](https://www.light.gg/db/items/compare/?h=trStZ;CYr9QP;CQZu7f;B9hF8b;). It's competitive base-stat-wise but there's a reason you've probably never been killed by any of these weapons (or any SMG for that matter) since the first year of Destiny 2. In Season 10 with the recent Adaptive Auto Rifle buff, Auto Rifles outclass SMGs and failing ARs, both sidearms and shotguns are going to frustrate the hell out of you.
 
 Forget it right? But do you remember this world?
@@ -1929,6 +2028,9 @@ The VY-7 is an Energy Antiope-D (the basic stat variances are immaterial in prac
   MWorks  [100%]: *
   ```
 ## Seventh Seraph VY-7 - PvE
+*For all possible perks, check out **Seventh Seraph VY-7** over on [light.gg](https://www.light.gg/db/items/766323545/seventh-seraph-vy-7/)*
+
+
 The VY-7 is the only SMG that's able to roll with Vorpal and you'll want one of these for two reasons:
 
 * The VY-7 is a Seraph weapon and contributes to the generation of Warmind Cells.
@@ -2018,6 +2120,9 @@ You must absolutely run a `Counterbalance` Mod or otherwise fix the Recoil with 
   MWorks  [100%]: *
   ```
 ## Cold Denial - PvP
+*For all possible perks, check out **Cold Denial** over on [light.gg](https://www.light.gg/db/items/1216130969/cold-denial/)*
+
+
 Cold Denial is a 340 RPM "High-Impact Frame" Kinetic Pulse Rifle introduced in Season 11. See [how it compares](https://www.light.gg/db/items/compare/?h=BIfK-Z;C-tvt8;BFN60K;MZyyP) to the existing High-Impacts. The major difference might seem like a minor one, but check out the `Zoom:14` compared to the others with `Zoom:18`. The lower zoom means you've got a wider FOV while zoomed in, and that small(er) thumbstick movements don't kick your reticle as much. It makes way more of a difference than it might seem like on paper.
 
 Everyone is covering this Pulse Rifle because it's absolutely amazing. Check out [Drewksy](https://www.youtube.com/watch?v=vKTOCEijawI&feature=youtu.be&t=119), [Mtashed](https://www.youtube.com/watch?v=RtJeiwwGII0), and [Aztecross](https://www.youtube.com/watch?v=j1jKsnDD6Ss) and I'm sure you'll see more coverage in the coming weeks as more folks get their hands on various rolls.
@@ -2178,6 +2283,9 @@ The last column is interesting. A handful of perks elevate the roll but in my op
   MWorks  [ 25%]: Stability MW
   ```
 ## Cold Denial - PvE
+*For all possible perks, check out **Cold Denial** over on [light.gg](https://www.light.gg/db/items/1216130969/cold-denial/)*
+
+
 There's not much to puzzle out here. In PvE you're going for as much `Range` as you can get with sustained damage upkeep. I think `Unrelenting` is a super interesting perk, I would just prefer to have the large damage bonuses active from damage-boosting perks.
 * **(PvE) Classic Pairings 🍷🍷🍷🌟 Collector's Edition (1.1% chance)**: All Range and all damage.
   ```
@@ -2212,6 +2320,9 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   MWorks  [100%]: *
   ```
 ## Falling Guillotine - PvE
+*For all possible perks, check out **Falling Guillotine** over on [light.gg](https://www.light.gg/db/items/614426548/falling-guillotine/)*
+
+
 [Dark Drinker 2.0](https://youtu.be/W_ObIqaGhvM?t=305) is... sorry I mean Falling Guillotine... is a new "Vortex Frame" sword in S11. It does a [ridiculous](https://youtu.be/DxlrZnH7C1g?t=344) -  [amount](https://youtu.be/hWzifDFNww0?t=30) -  of -  [damage](https://youtu.be/SbBOCOJpMaE?t=103) and is also just [weird](https://youtu.be/YRcZ9IglcZM?t=31).
 
 What makes this even better is that as with all other swords, the perk pool is super small, and with the Recaster perk `Umbral Enhancement III`, all of your Focused Umbral weapons get an additional final-column perk. As of this writing it appears to be bugged and I'm getting an extra final perk on unfocused drops 🤷‍♂️ (but also bugged in that I'm not getting a second perk on Cold Denial or Falling Guillotine 🤪) Chances are you'll get the roll you're after relatively quickly? When you do, rejoice! That roll will keep you all the way through Season 14.
@@ -2268,6 +2379,9 @@ We're going for the classics here: Whirlwind and Surrounded. Maybe you'll get in
   MWorks  [100%]: *
   ```
 ## Hollow Words - PvP
+*For all possible perks, check out **Hollow Words** over on [light.gg](https://www.light.gg/db/items/607191995/hollow-words/)*
+
+
 Hollow Words is a "Precision Frame" 740ms-charge-time Fusion Rifle released in Season 11. That means it shoots seven bolts and you need five of those to connect for a OHK.
 Fusions have been my favourite special since Destiny 1. I have an Erentil with 1,082 kills on it 😱Currently fusions are not in a good place in the sandbox after a sweeping nerf that just went in. If you want the complete story, check out [CoolGuy's video](https://www.youtube.com/watch?v=CYhJU9NN_iU). TL;DW: Range is [compressed](https://youtu.be/CYhJU9NN_iU?t=350), perhaps moreso than hand cannons were. The end result is steep falloff after 17m for all types, quickly pushing you out of reasonable OHK range.
 
@@ -2343,6 +2457,9 @@ Without both of these perks, you may as well run a High-Impact Frame. I think it
   MWorks  [100%]: *
   ```
 ## Temptation's Hook - PvE
+*For all possible perks, check out **Temptation's Hook** over on [light.gg](https://www.light.gg/db/items/35794111/temptations-hook/)*
+
+
 Temptation's Hook is an absolutely EN FUEGO Season 11 sword that has all the perks you'd have to get separately from Honor's Edge, Steel Sybil, Stryker's Sure-Hand, etc. It's got Surrounded, Flash Counter, Whirlwind Blade... AND VORPAL WEAPON folks!
 
 What makes this even better is that as with all other swords, the perk pool is super small, and with the Recaster perk `Umbral Enhancement III`, all of your Focused Umbral weapons get an additional final-column perk. As of this writing it appears to be bugged and I'm getting an extra final perk on unfocused drops 🤷‍♂️ (but also bugged in that I'm not getting a second perk on Cold Denial or Falling Guillotine 🤪)
@@ -2428,6 +2545,9 @@ Fortunately the perk set is very small and chances are you'll get the roll you'r
   MWorks  [100%]: *
   ```
 ## Black Scorpion-4sr - PvP
+*For all possible perks, check out **Black Scorpion-4sr** over on [light.gg](https://www.light.gg/db/items/525750263/black-scorpion-4sr/)*
+
+
 [CoolGuy's review (8/2019)](https://www.youtube.com/watch?v=lFQt0MDS9JY) is great source of info for the Black Scorpion, as well as the Massive  Breakdown Podcast [Ep. 148](https://soundcloud.com/destinymassivebreakdowns/episode-148-bygones-last-perdition-and-black-scorpion-4sr-breakdowns). There are seven perks in the final two columns (versus the usual four to six) and during Season 9, this weapon does not benefit from the Rank 92 extra-final-column-perk bonus. That means these rolls are going to be super challenging to get, so we're going to relax a few constraints along the way.
 * Recoil is `60`, so using a Counterbalance mod to make it vertical is a slam dunk. Check out CoolGuy's video for a [before/after](https://www.youtube.com/watch?v=lFQt0MDS9JY&t=400).
 * All these rolls will recommend Rampage in the final column because "Rampage x 1 will kill with four crits in 0.7s."
@@ -2581,6 +2701,9 @@ Check out [ZkMushroom](https://www.youtube.com/watch?v=tdnJWuiUF2k) and [nKuch](
   MWorks  [100%]: *
   ```
 ## Bygones - PvP
+*For all possible perks, check out **Bygones** over on [light.gg](https://www.light.gg/db/items/2712244741/bygones/)*
+
+
 You don't actually need all that much for a "great" Bygones roll because, well, it's just a solid weapon at its baseline. Throw on a Counterbalance mod to bring the recoil to `84` and you're golden. You can see [Fallout's video](https://www.youtube.com/watch?v=atkJYoL6E1U) for reference. Just recently CoolGuy  [updated his prior review](https://www.youtube.com/watch?v=FwMBASjJDwQ) of Bygones and those thoughts have been incorporated in to the rolls below.
 
 Why bother with Bygones in 2020? It's the only 390 RPM kinetic Pulse Rifle and the only other randomly rolled one apart from Last Perdition and the raid pulses. If this archetype gets buffed, it will be nice to have one in your vault!
@@ -2658,6 +2781,9 @@ If you want to see a Stability-focused roll do work, check out [ZkMushroom](http
   MWorks  [100%]: *
   ```
 ## Bygones - PvE
+*For all possible perks, check out **Bygones** over on [light.gg](https://www.light.gg/db/items/2712244741/bygones/)*
+
+
 The perk pool for Bygones is from 2018, so we lose out on some of the barn burners like Multikill Clip, Swashbuckler and Vorpal.
 
 Why farm for one? Well, it's the only 390 RPM kinetic Pulse Rifle and the only other randomly rolled one apart from Last Perdition and the raid pulses. If this archetype gets buffed, it will be nice to have one in your vault.
@@ -2687,6 +2813,9 @@ We're going for sustained DPS and maximum range. Stability is already high enoug
   MWorks  [100%]: *
   ```
 ## Honor's Edge - PvE
+*For all possible perks, check out **Honor's Edge** over on [light.gg](https://www.light.gg/db/items/2857348871/honors-edge/)*
+
+
 Honor's Edge (HE) is available in the World Drops loot pool in Season 11, originally being re-issued back in Season 10. The main difference between HE and SS14 is that HE can roll with `Surrounded` and `Flash Counter`, two both amazing perks.
 
 * `Surrounded` + `Surrounded Spec` ends up giving you a massive 35% damage increase and since a Sword is in-your-face there's a high chance you'll proc this regularly.
@@ -2745,6 +2874,9 @@ Fortunately the perk set is very small and chances are you'll get the roll you'r
   MWorks  [100%]: *
   ```
 ## Interference VI - PvE
+*For all possible perks, check out **Interference VI** over on [light.gg](https://www.light.gg/db/items/2257180473/interference-vi/)*
+
+
 The Interference VI (IVI) is not a Season 11 re-issue, but it is one of small number of weapons in the World Drop Power Weapon loot pool. Grenade Launchers haven't been meta PvE DPS for some time, so why record wishlist rolls for this? A couple of reasons:
 
 * This reissued IVI can now roll Full Court. The only other GLs that can roll Full Court are `Doomsday` and `Love and Death`, both of which are capped at end of Season 11 (i.e. 1060PL). Full Court, at max range (> 50m) has a 25% damage increase. It's worth picking up!
@@ -2801,6 +2933,9 @@ The Power weapon pool is so small that you're going to buried under mountains of
   MWorks  [100%]: *
   ```
 ## Last Perdition - PvP
+*For all possible perks, check out **Last Perdition** over on [light.gg](https://www.light.gg/db/items/188882152/last-perdition/)*
+
+
 A randomly-rolled 390RPM Adaptive Pulse Rifle; here we go! If you like Bygones in the primary slot, Last Perdition is right up your alley. It was brought back in Season of the Drifter with random rolls, and it unfortunately kept a pretty baseline set of perks. There's so much magic happening in the Energy slot now that we're so deep into Destiny 2 that we're going to have a pretty high bar for rolls here.
 
 Lots of resources for this one, including the [Destiny Massive Breakdowns](https://www.destinymassivebreakdowns.com/) [podcast](https://soundcloud.com/destinymassivebreakdowns). I'll be quoting (or paraphrasing if I couldn't keep up :) Kyt_Kucha and Mercules904 quite a bit in here.
@@ -2908,6 +3043,9 @@ For some general slaying footage, ZkMushroom loves his Last Perdition! Here he i
   MWorks  [100%]: *
   ```
 ## Last Perdition - PvE
+*For all possible perks, check out **Last Perdition** over on [light.gg](https://www.light.gg/db/items/188882152/last-perdition/)*
+
+
 When Last Perdition was brought back with random rolls in the Season of the Drifter, it came back with the standard perk pool from Destiny 2 Year 1. Not a ton of finesse here in the rolls we're looking for :)
 * **(PvE) Baseline DPS (4.8% chance)**: There are so many amazing PvE weapons in the energy slot and this perk set is so dated that even with this combo, you may choose to use something else :)
   ```
@@ -2918,6 +3056,9 @@ When Last Perdition was brought back with random rolls in the Season of the Drif
   MWorks  [100%]: *
   ```
 ## Night Watch - PvP
+*For all possible perks, check out **Night Watch** over on [light.gg](https://www.light.gg/db/items/3504336176/night-watch/)*
+
+
 Night Watch is a 200 RPM Scout Rifle that dropped during Season of the Drifter (S6). It has been re-issued in Season of Arrivals (S11) and is the only 200 RPM Scout Rifle in the game that is currently available. [CoolGuy's review (5/2019)](https://www.youtube.com/watch?v=H1KGJ7WU9es) remains a great source of info for Night Watch. It's a bit over a year old, but the sandbox hasn't changed materially around 200 RPM Scouts (for better or worse) or the perks he talks through.
 
 200 RPM Scouts (including the Night Watch) are far from meta. Even the strongest of the bunch (MIDA) you never see. The maps aren't really designed for Scouts, perhaps save for Rusted Lands? and 200 RPM Scouts struggle against the powerhouses like Jade Rabbit.
@@ -3088,6 +3229,9 @@ Because of the high RPM, I'm also going to suggest we shoot for as much `Stabili
   MWorks  [100%]: *
   ```
 ## Night Watch - PvE
+*For all possible perks, check out **Night Watch** over on [light.gg](https://www.light.gg/db/items/3504336176/night-watch/)*
+
+
 Night Watch is a 200 RPM Scout Rifle that dropped during Season of the Drifter (S6). It has been re-issued in Season of Arrivals (S11) and is the only 200 RPM Scout Rifle in the game that is currently available. [CoolGuy's review (5/2019)](https://www.youtube.com/watch?v=H1KGJ7WU9es) remains a great source of info for Night Watch. It's a bit over a year old, but the sandbox hasn't changed materially around 200 RPM Scouts (for better or worse) or the perks he talks through.
 
 Classic combos carry the day here - reload perks combined with damage boosting perks, and as much Range as we can get.
@@ -3132,6 +3276,9 @@ Classic combos carry the day here - reload perks combined with damage boosting p
   MWorks  [100%]: *
   ```
 ## Outrageous Fortune - PvE
+*For all possible perks, check out **Outrageous Fortune** over on [light.gg](https://www.light.gg/db/items/4146702548/outrageous-fortune/)*
+
+
 The Outrageous Fortune Grenade Launcher is a Season 11 re-issue of it Season 4 counterpart. Grenade Launchers haven't been meta PvE DPS for some time, so why record wishlist rolls for this?
 
 It's one of the small number of Power weapons in the World Drop loot pool. You're going to buried under mountains of these by the end of S11. Chances are without even trying you're going to get a pretty decent roll. Enjoy your Outrageous Fortune Grenader Launcher! :)
@@ -3168,6 +3315,9 @@ It's one of the small number of Power weapons in the World Drop loot pool. You'r
   MWorks  [100%]: *
   ```
 ## Steel Sybil Z-14 - PvE
+*For all possible perks, check out **Steel Sybil Z-14** over on [light.gg](https://www.light.gg/db/items/4230993599/steel-sybil-z-14/)*
+
+
 The Steel Sybil is a re-issue of the Crucible sword from the launch of Forsaken back in Season 4. The perks are the same as they've always been so unfortunately this Season (Season 11) will be about (re?)chasing your best roll from the past nearly two years. Whomp whomp.
 
 Fortunately the perk set is very small and chances are you'll get the roll you're after relatively quickly? When you do, rejoice! That roll will keep you all the way through Season 14.
