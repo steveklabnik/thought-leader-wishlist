@@ -294,7 +294,7 @@ groups:
       boosting perks, and as much Range as we can get.
     rolls:
       - &ghhose
-        name: (PvP) Bullet Hose 💦💦💦🌟 Collector's Edition
+        name: (PvE) Bullet Hose 💦💦💦🌟 Collector's Edition
         desc: >
           As much Range as we can get from everywhere we can get it. We're
           combining Subsistence with Swashbuckler or Rampage because those two
@@ -307,33 +307,33 @@ groups:
         masterworks: [Range MW]
       - &ghhosebarrels
         <<: *ghhose
-        name: (PvP) Bullet Hose 💦💦💦 CE (Relaxed Barrels)
+        name: (PvE) Bullet Hose 💦💦💦 CE (Relaxed Barrels)
         desc: >
           Same as the CE, with a few more Barrels.
         barrels: [Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling]
       - 
         <<: *ghhosebarrels
-        name: (PvP) Bullet Hose 💦💦 CE (Relaxed Magazines)
+        name: (PvE) Bullet Hose 💦💦 CE (Relaxed Magazines)
         desc: >
           Same as the above, minus the Magazine requirement.
         magazines: []
       - 
         <<: *ghhosebarrels
-        name: (PvP) Bullet Hose 💦💦 CE (Relaxed Masterwork)
+        name: (PvE) Bullet Hose 💦💦 CE (Relaxed Masterwork)
         desc: >
           Same as the above, minus Masterworks.
         magazines: []
         masterworks: []
       - 
         <<: *ghhosebarrels
-        name: (PvP) Bullet Hose 💦 (Baseline)
+        name: (PvE) Bullet Hose 💦 (Baseline)
         desc: >
           Same as the above, minus Masterworks.
         barrels: []
         magazines: []
         masterworks: []
       - &ghassassin
-        name: (PvP) Ranged Assassin 👻👻👻🌟 Collector's Edition
+        name: (PvE) Ranged Assassin 👻👻👻🌟 Collector's Edition
         desc: >
           As much Range as we can get from everywhere we can get it. We're
           relying on fast-reload magazines to synergize with either of the Kill
@@ -345,19 +345,19 @@ groups:
         masterworks: [Range MW]
       - &ghassbarrels
         <<: *ghassassin
-        name: (PvP) Ranged Assassin 👻👻👻 CE (Relaxed Barrels)
+        name: (PvE) Ranged Assassin 👻👻👻 CE (Relaxed Barrels)
         desc: >
           Same as the CE, with a few more Barrels.
         barrels: [Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling]
       - 
         <<: *ghassbarrels
-        name: (PvP) Ranged Assassin 👻👻 CE (Relaxed Masterwork)
+        name: (PvE) Ranged Assassin 👻👻 CE (Relaxed Masterwork)
         desc: >
           Same as the above, minus Masterworks.
         masterworks: []
       - 
         <<: *ghassbarrels
-        name: (PvP) Ranged Assassin 👻 (Baseline)
+        name: (PvE) Ranged Assassin 👻 (Baseline)
         desc: >
           Same as the above, minus Masterworks.
         barrels: []
