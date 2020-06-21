@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-06-20 18:04:10 +00:00`. The most recent
+created on `2020-06-21 00:25:15 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -52,6 +52,7 @@ I'm of the opinion it's not worth chasing ツ
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
 * Bygones ([PvP](#bygones---pvp), [PvE](#bygones---pve))
+* Gnawing Hunger ([PvP](#gnawing-hunger---pvp), [PvE](#gnawing-hunger---pve))
 * Honor's Edge ([PvE](#honors-edge---pve))
 * Interference VI ([PvE](#interference-vi---pve))
 * Last Perdition ([PvP](#last-perdition---pvp), [PvE](#last-perdition---pve))
@@ -2810,6 +2811,369 @@ We're going for sustained DPS and maximum range. Stability is already high enoug
   Mags    [100%]: *
   Perks 1 [ 40%]: Kill Clip, Rampage
   Perks 2 [ 20%]: Outlaw
+  MWorks  [100%]: *
+  ```
+## Gnawing Hunger - PvP
+*For all possible perks, check out **Gnawing Hunger** over on [light.gg](https://www.light.gg/db/items/821154603/gnawing-hunger/)*
+
+
+Gnawing Hunger is a 600 RPM "Adaptive Frame" Energy Auto Rifle first introduced in Season 6. It has been reissued in Season 11, meaning it will be capable of going up to the Season 14 power level cap. Adaptives were buffed Season 10 and unless something changes, will remain very strong through Season 11.
+
+For grins, [check out ZkMushroom](https://www.youtube.com/watch?v=qmbJdlYpD-s) using the generally agreed-upon "God roll" roll with `Tap the Trigger`, `Kill Clip` and a Stability Masterwork.
+> "Is there a bug with this gun or is it just really good? I feel like I'm killing too fast right now... like a little bit too fast. I don't get it."
+
+> "This... it feels better than Summoner and SUROS. I can't believe there's a weapon like this in the game and I didn't know about it. I've never seen something like this."
+
+> "Dude what is this TTK? I don't get it! This TTK is a little too fast Bungie."
+
+I hopped in to the Tribute Hall and ran several Recoil pattern tests with various Barrels, Magazines, Perks and Masterworks (Arrowhead, Steady Rounds, Tap the Trigger, etc.). At base Stability and Recoil (on console at least), it's pretty hard to control.
+
+There are two ways to get Gnawing Hunger to hone in for you:
+1. **Tap the Trigger**: The most noticeable difference in bullet concentration comes from TtT. If you want a laser beam, you want TtT. That being said, if you *only* get TtT and no other Stability or Recoil perks, it's not nearly as easy to control as it could be.
+2. **Arrowhead + Counterbalance**: This combo *absolutely works* as well. I was able to cluster rounds around small targets just fine, without TtT. If you don't get Zen Moment or Tap the Trigger in the third column, but you do get Arrowhead Brake in the first column, you might find it totally capable, especially if you're on PC.
+
+What you **really** want is to slam all these perks together for maximum Stability and minimal Recoil, and that's what we're going to break down below.
+* **(PvP) Drifter Hungry 🧟‍♂️🧟‍♂️🧟‍♂️🌟 Collector's Edition (0.1% chance)**: With a Counterbalance mod, this roll will be `Recoil:99` and once you apply the Masterwork, `Stability:71`. Layered on top of `Tap the Trigger`, it's a thing of beauty.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Drifter Hungry 🧟‍♂️🧟‍♂️🧟‍♂️ CE (Relaxed Masterwork) (0.4% chance)**: Same as the CE, with no Masterwork requirement.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) Drifter Hungry 🧟‍♂️🧟‍♂️🧟‍♂️ CE (Relaxed Perk) (0.3% chance)**: Same as the CE, with no Perk requirement.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Drifter Hungry 🧟‍♂️🧟‍♂️🧟‍♂️ CE (Relaxed Magazine) (0.3% chance)**: Same as the CE, with relaxed Magazines.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Drifter Hungry 🧟‍♂️🧟‍♂️🧟‍♂️ CE (Relaxed Magazines and Masterwork) (1.1% chance)**: Same as the CE, with no Masterwork requirement.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) Drifter Hungry 🧟‍♂️🧟‍♂️🧟‍♂️ CE (Relaxed Magazines and Masterwork) (0.7% chance)**: Same as the CE, with no Masterwork requirement.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Drifter Hungry 🧟‍♂️🧟‍♂️ CE (Fully Relaxed Magazines) (0.4% chance)**: Same as the CE, with no Magazine requirement.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Drifter Hungry 🧟‍♂️🧟‍♂️ CE (Relaxed Masterworks) (1.8% chance)**: Same as the roll above, minus Masterworks.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) Drifter Hungry 🧟‍♂️ CE (Baseline) (4.4% chance)**: With these two and a Counterbalance mod, you're still in business.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+* **(PvP) All-out Gnawing 🦷🦷🦷🌟 Collector's Edition (0.4% chance)**: This will be a similar set of rolls to the above, but with pretty much gauranteed barrels. This should dramatically increase the  chance that you pick up one of them.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) All-out Gnawing 🦷🦷🦷 CE (Relaxed Masterwork) (1.7% chance)**: Same as the CE, with no Masterwork requirement.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) All-out Gnawing 🦷🦷🦷 CE (Relaxed Perk) (1.0% chance)**: Same as the CE, with no Perk requirement.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) All-out Gnawing 🦷🦷🦷 CE (Relaxed Magazine) (1.1% chance)**: Same as the CE, with relaxed Magazines.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) All-out Gnawing 🦷🦷🦷 CE (Relaxed Magazines and Masterwork) (4.3% chance)**: Same as the CE, with no Masterwork requirement.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) All-out Gnawing 🦷🦷🦷 CE (Relaxed Magazines and Masterwork) (2.7% chance)**: Same as the CE, with no Masterwork requirement.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 64%]: Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) All-out Gnawing 🦷🦷 CE (Fully Relaxed Magazines) (1.7% chance)**: Same as the CE, with no Magazine requirement.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) All-out Gnawing 🦷 CE (Relaxed Masterworks) (6.7% chance)**: Same as the roll above, minus Masterworks.
+  ```
+  Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) Drifter Zen 🧘‍♂️🧘‍♂️🧘‍♂️🌟 Collector's Edition (0.1% chance)**: With a Counterbalance mod, this roll will be `Recoil:99` and once you apply the Masterwork, `Stability:71`. Layered on top of `Zen Moment`, you've got a great roll.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Zen Moment
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Drifter Zen 🧘‍♂️🧘‍♂️🧘‍♂️ CE (Relaxed Masterwork) (0.4% chance)**: Same as the CE, with no Masterwork requirement.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Zen Moment
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) Drifter Zen 🧘‍♂️🧘‍♂️🧘‍♂️ CE (Relaxed Perk) (0.3% chance)**: Same as the CE, with no Perk requirement.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Zen Moment
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Drifter Zen 🧘‍♂️🧘‍♂️🧘‍♂️ CE (Relaxed Magazine) (0.3% chance)**: Same as the CE, with relaxed Magazines.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 20%]: Zen Moment
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Drifter Zen 🧘‍♂️🧘‍♂️🧘‍♂️ CE (Relaxed Magazines and Masterwork) (1.1% chance)**: Same as the CE, with no Masterwork requirement.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 20%]: Zen Moment
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) Drifter Zen 🧘‍♂️🧘‍♂️🧘‍♂️ CE (Relaxed Magazines and Masterwork) (0.7% chance)**: Same as the CE, with no Masterwork requirement.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 20%]: Zen Moment
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Drifter Zen 🧘‍♂️🧘‍♂️ CE (Fully Relaxed Magazines) (0.4% chance)**: Same as the CE, with no Magazine requirement.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Zen Moment
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Drifter Zen 🧘‍♂️🧘‍♂️ CE (Relaxed Masterworks) (1.8% chance)**: Same as the roll above, minus Masterworks.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Zen Moment
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) Drifter Zen 🧘‍♂️ CE (Baseline) (4.4% chance)**: With these two and a Counterbalance mod, you're still in business.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Zen Moment
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+* **(PvP) Ramshackle Weapon 🛠🛠🛠🌟 Collector's Edition (0.6% chance)**: If you don't get `Tap the Trigger` or `Zen Moment`, you can still make this work with `Arrowhead Brake` and a Counterbalance mod. That will push your `Recoil` to `99` and then you're looking for at least one other material source of `Stability`.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Ramshackle Weapon 🛠🛠🛠 CE (Relaxed Masterwork) (2.2% chance)**: Same as the CE, with no Masterwork requirement.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) Ramshackle Weapon 🛠🛠🛠 CE (Relaxed Perk) (1.4% chance)**: Same as the CE, with no Perk requirement.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [100%]: *
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Ramshackle Weapon 🛠🛠🛠 CE (Relaxed Magazine) (1.4% chance)**: Same as the CE, with relaxed Magazines.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Ramshackle Weapon 🛠🛠🛠 CE (Relaxed Magazines and Masterwork) (5.7% chance)**: Same as the CE, with no Masterwork requirement.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) Ramshackle Weapon 🛠🛠🛠 CE (Relaxed Magazines and Masterwork) (3.6% chance)**: Same as the CE, with no Masterwork requirement.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [100%]: *
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Ramshackle Weapon 🛠🛠 CE (Fully Relaxed Magazines) (2.2% chance)**: Same as the CE, with no Magazine requirement.
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [100%]: *
+  Perks 2 [ 40%]: Kill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+## Gnawing Hunger - PvE
+*For all possible perks, check out **Gnawing Hunger** over on [light.gg](https://www.light.gg/db/items/821154603/gnawing-hunger/)*
+
+
+The best PvE roll of Gnawing Hunger is currently in limbo. It was previously available as the curated roll from the Reckoning, which is the only time it will drop with Overflow in the third slot (and Rampage in the fourth). Early reports are mixed on whether or not starting with Season 11, the curated roll is still dropping with the old light level cap. If so, that would mean it would not be useful beyond the current season for power-level-enabled activities.
+
+Classic combos carry the day here - reload perks combined with damage boosting perks, and as much Range as we can get.
+* **(PvP) Bullet Hose 💦💦💦🌟 Collector's Edition (0.2% chance)**: As much Range as we can get from everywhere we can get it. We're combining Subsistence with Swashbuckler or Rampage because those two (versus the two kill clips) can be refreshed/extended without reloading.
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Subsistence
+  Perks 2 [ 70%]: Swashbuckler, Rampage
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) Bullet Hose 💦💦💦 CE (Relaxed Barrels) (0.6% chance)**: Same as the CE, with a few more Barrels.
+  ```
+  Barrels [ 72%]: Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Subsistence
+  Perks 2 [ 70%]: Swashbuckler, Rampage
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) Bullet Hose 💦💦 CE (Relaxed Magazines) (2.5% chance)**: Same as the above, minus the Magazine requirement.
+  ```
+  Barrels [ 72%]: Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Subsistence
+  Perks 2 [ 70%]: Swashbuckler, Rampage
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) Bullet Hose 💦💦 CE (Relaxed Masterwork) (10.1% chance)**: Same as the above, minus Masterworks.
+  ```
+  Barrels [ 72%]: Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Subsistence
+  Perks 2 [ 70%]: Swashbuckler, Rampage
+  MWorks  [100%]: *
+  ```
+* **(PvP) Bullet Hose 💦 (Baseline) (14.0% chance)**: Same as the above, minus Masterworks.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Subsistence
+  Perks 2 [ 70%]: Swashbuckler, Rampage
+  MWorks  [100%]: *
+  ```
+* **(PvP) Ranged Assassin 👻👻👻🌟 Collector's Edition (1.8% chance)**: As much Range as we can get from everywhere we can get it. We're relying on fast-reload magazines to synergize with either of the Kill Clip options.
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 46%]: Drop Mag, Alloy Magazine
+  Perks 1 [100%]: *
+  Perks 2 [ 70%]: Multikill Clip, Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) Ranged Assassin 👻👻👻 CE (Relaxed Barrels) (5.9% chance)**: Same as the CE, with a few more Barrels.
+  ```
+  Barrels [ 72%]: Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling
+  Mags    [ 46%]: Drop Mag, Alloy Magazine
+  Perks 1 [100%]: *
+  Perks 2 [ 70%]: Multikill Clip, Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) Ranged Assassin 👻👻 CE (Relaxed Masterwork) (23.5% chance)**: Same as the above, minus Masterworks.
+  ```
+  Barrels [ 72%]: Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling
+  Mags    [ 46%]: Drop Mag, Alloy Magazine
+  Perks 1 [100%]: *
+  Perks 2 [ 70%]: Multikill Clip, Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) Ranged Assassin 👻 (Baseline) (32.5% chance)**: Same as the above, minus Masterworks.
+  ```
+  Barrels [100%]: *
+  Mags    [ 46%]: Drop Mag, Alloy Magazine
+  Perks 1 [100%]: *
+  Perks 2 [ 70%]: Multikill Clip, Kill Clip
   MWorks  [100%]: *
   ```
 ## Honor's Edge - PvE
