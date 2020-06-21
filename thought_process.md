@@ -1,6 +1,6 @@
 # Welcome to the Sliflist!
 This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `2020-06-21 00:25:15 +00:00`. The most recent
+created on `2020-06-21 02:19:02 +00:00`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
 These rolls are applied in order for each weapon, so the ordering is important.
@@ -3104,7 +3104,7 @@ What you **really** want is to slam all these perks together for maximum Stabili
 The best PvE roll of Gnawing Hunger is currently in limbo. It was previously available as the curated roll from the Reckoning, which is the only time it will drop with Overflow in the third slot (and Rampage in the fourth). Early reports are mixed on whether or not starting with Season 11, the curated roll is still dropping with the old light level cap. If so, that would mean it would not be useful beyond the current season for power-level-enabled activities.
 
 Classic combos carry the day here - reload perks combined with damage boosting perks, and as much Range as we can get.
-* **(PvP) Bullet Hose 💦💦💦🌟 Collector's Edition (0.2% chance)**: As much Range as we can get from everywhere we can get it. We're combining Subsistence with Swashbuckler or Rampage because those two (versus the two kill clips) can be refreshed/extended without reloading.
+* **(PvE) Bullet Hose 💦💦💦🌟 Collector's Edition (0.2% chance)**: As much Range as we can get from everywhere we can get it. We're combining Subsistence with Swashbuckler or Rampage because those two (versus the two kill clips) can be refreshed/extended without reloading.
   ```
   Barrels [ 22%]: Hammer-Forged Rifling
   Mags    [ 25%]: Accurized Rounds
@@ -3112,7 +3112,7 @@ Classic combos carry the day here - reload perks combined with damage boosting p
   Perks 2 [ 70%]: Swashbuckler, Rampage
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) Bullet Hose 💦💦💦 CE (Relaxed Barrels) (0.6% chance)**: Same as the CE, with a few more Barrels.
+* **(PvE) Bullet Hose 💦💦💦 CE (Relaxed Barrels) (0.6% chance)**: Same as the CE, with a few more Barrels.
   ```
   Barrels [ 72%]: Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling
   Mags    [ 25%]: Accurized Rounds
@@ -3120,7 +3120,7 @@ Classic combos carry the day here - reload perks combined with damage boosting p
   Perks 2 [ 70%]: Swashbuckler, Rampage
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) Bullet Hose 💦💦 CE (Relaxed Magazines) (2.5% chance)**: Same as the above, minus the Magazine requirement.
+* **(PvE) Bullet Hose 💦💦 CE (Relaxed Magazines) (2.5% chance)**: Same as the above, minus the Magazine requirement.
   ```
   Barrels [ 72%]: Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling
   Mags    [100%]: *
@@ -3128,7 +3128,7 @@ Classic combos carry the day here - reload perks combined with damage boosting p
   Perks 2 [ 70%]: Swashbuckler, Rampage
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) Bullet Hose 💦💦 CE (Relaxed Masterwork) (10.1% chance)**: Same as the above, minus Masterworks.
+* **(PvE) Bullet Hose 💦💦 CE (Relaxed Masterwork) (10.1% chance)**: Same as the above, minus Masterworks.
   ```
   Barrels [ 72%]: Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling
   Mags    [100%]: *
@@ -3136,7 +3136,7 @@ Classic combos carry the day here - reload perks combined with damage boosting p
   Perks 2 [ 70%]: Swashbuckler, Rampage
   MWorks  [100%]: *
   ```
-* **(PvP) Bullet Hose 💦 (Baseline) (14.0% chance)**: Same as the above, minus Masterworks.
+* **(PvE) Bullet Hose 💦 (Baseline) (14.0% chance)**: Same as the above, minus Masterworks.
   ```
   Barrels [100%]: *
   Mags    [100%]: *
@@ -3144,7 +3144,7 @@ Classic combos carry the day here - reload perks combined with damage boosting p
   Perks 2 [ 70%]: Swashbuckler, Rampage
   MWorks  [100%]: *
   ```
-* **(PvP) Ranged Assassin 👻👻👻🌟 Collector's Edition (1.8% chance)**: As much Range as we can get from everywhere we can get it. We're relying on fast-reload magazines to synergize with either of the Kill Clip options.
+* **(PvE) Ranged Assassin 👻👻👻🌟 Collector's Edition (1.8% chance)**: As much Range as we can get from everywhere we can get it. We're relying on fast-reload magazines to synergize with either of the Kill Clip options.
   ```
   Barrels [ 22%]: Hammer-Forged Rifling
   Mags    [ 46%]: Drop Mag, Alloy Magazine
@@ -3152,7 +3152,7 @@ Classic combos carry the day here - reload perks combined with damage boosting p
   Perks 2 [ 70%]: Multikill Clip, Kill Clip
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) Ranged Assassin 👻👻👻 CE (Relaxed Barrels) (5.9% chance)**: Same as the CE, with a few more Barrels.
+* **(PvE) Ranged Assassin 👻👻👻 CE (Relaxed Barrels) (5.9% chance)**: Same as the CE, with a few more Barrels.
   ```
   Barrels [ 72%]: Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling
   Mags    [ 46%]: Drop Mag, Alloy Magazine
@@ -3160,7 +3160,7 @@ Classic combos carry the day here - reload perks combined with damage boosting p
   Perks 2 [ 70%]: Multikill Clip, Kill Clip
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) Ranged Assassin 👻👻 CE (Relaxed Masterwork) (23.5% chance)**: Same as the above, minus Masterworks.
+* **(PvE) Ranged Assassin 👻👻 CE (Relaxed Masterwork) (23.5% chance)**: Same as the above, minus Masterworks.
   ```
   Barrels [ 72%]: Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling
   Mags    [ 46%]: Drop Mag, Alloy Magazine
@@ -3168,7 +3168,7 @@ Classic combos carry the day here - reload perks combined with damage boosting p
   Perks 2 [ 70%]: Multikill Clip, Kill Clip
   MWorks  [100%]: *
   ```
-* **(PvP) Ranged Assassin 👻 (Baseline) (32.5% chance)**: Same as the above, minus Masterworks.
+* **(PvE) Ranged Assassin 👻 (Baseline) (32.5% chance)**: Same as the above, minus Masterworks.
   ```
   Barrels [100%]: *
   Mags    [ 46%]: Drop Mag, Alloy Magazine
