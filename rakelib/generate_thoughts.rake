@@ -21,22 +21,23 @@ This document is generated from a custom Destiny Item Manager "wishlist" and was
 created on `#{DateTime.now.strftime("%Y-%m-%d %H:%M:%S %:z")}`. The most recent
 version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
-These rolls are applied in order for each weapon, so the ordering is important.
-This means the better rolls will match first, in much the same you would decide
-on a roll yourself. For example Steelfeather PvE rolls at the top of the list are
-`Feeding Frenzy + Swashbuckler + lots of other cool stuff` and the last on the
-list requires only `Feeding Frenzy + Swashbuckler` because if all else fails,
-those are the two perks you'll need; otherwise it's just cool-looking random
-kinetic Auto Rifle.
+**Why are some rolls missing PvE or PvP sections?**
 
-This also means that, if your PvP and PvE rolls are similar (they usually aren't)
-that there's a chance a match is flagged and commented as a PvP roll in the DIM
-"Wishlist Notes" section (searchable in DIM via `wishlistnotes:`), when it could
-do double-duty. That's just how the wishlist feature currently works, so use your
-own discretion.
+Likely it means that there's no standout roll to be chasing there and/or there
+are other better options for the slot. You see this most often for
+Energy/Secondary weapons because that slot is in such high contention. Another
+example would be swords: no sword roll has a PvP section.
 
-**Some rolls are missing PvE or PvP sections. What gives?** If that's the case,
-I'm of the opinion it's not worth chasing ツ
+**Why are the rolls in the order they are?**
+
+Weapons are "matched" as soon as they are found in the list, from top to bottom.
+Generally speaking I work to ensure rolls don't overlap, but sometimes they will
+and I'll call those out (e.g. Last Perdition has/had a similar PvE and PvP roll).
+
+**You're crazy and are missing rolls!**
+
+By all means, let me know how my reasoning is off. We're all in pursuit of the same
+objective!
 PREAMBLE
 
     weapons = []
