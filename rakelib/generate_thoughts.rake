@@ -17,34 +17,23 @@ task :generate_thoughts, [:environment] do |t, args|
   File.open(thoughts_filename(args.environment), 'w') do |thoughts|
     thoughts.puts <<-PREAMBLE
 # Welcome to the Sliflist!
-This document is generated from a custom Destiny Item Manager "wishlist" and was
-created on `#{DateTime.now.strftime("%Y-%m-%d %H:%M:%S %:z")}`. The most recent
-version of this document can always be found [here](https://github.com/rslifka/wishlist/).
 
-**Why are some rolls missing PvE or PvP sections?**
+These are my recommended rolls for weapons in Destiny 2. There is a focus on
+weapons from the current season (starting with Season 9). As time permits,
+I go back and fill in world drops.
 
-Likely it means that there's no standout roll to be chasing there and/or there
-are other better options for the slot. You see this most often for
-Energy/Secondary weapons because that slot is in such high contention. Another
-example would be swords: no sword roll has a PvP section.
+* This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
+* It was generated `#{DateTime.now.strftime("%Y-%m-%d %H:%M:%S %:z")}`.
+* The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
-**Why are the rolls in the order they are?**
-
-Weapons are "matched" as soon as they are found in the list, from top to bottom.
-Generally speaking I work to ensure rolls don't overlap, but sometimes they will
-and I'll call those out (e.g. Last Perdition has/had a similar PvE and PvP roll).
-
-**You're crazy and are missing rolls!**
-
-By all means, let me know how my reasoning is off. We're all in pursuit of the same
-objective!
+---
 PREAMBLE
 
     weapons = []
 
-    thoughts.puts("\n---\n")
-    Dir.children('wish_dsl').sort.each do |collection|
-      thoughts.puts("\n**#{collection}**")
+    TOC = YAML.load_file('toc.yml')
+    TOC['ordering'].each do |collection|
+      thoughts.puts("\n**#{TOC['naming'][collection]}**")
       Dir.children(File.join('wish_dsl', collection)).sort.each do |weapon|
         w = YAML.load_file(File.join('wish_dsl', collection, weapon))
         weapons << w
@@ -55,6 +44,7 @@ PREAMBLE
         thoughts.puts("* #{w['name']} (#{group_links.join(', ')})")
       end
     end
+
     thoughts.puts("\n---\n")
 
     weapons.each do |weapon|
