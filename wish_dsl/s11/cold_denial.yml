@@ -219,20 +219,20 @@ groups:
         masterworks: [Range MW]
       -
         <<: *cdclassic
-        name: (PvP) Classic Pairings 🍷🍷🍷 (Relaxed Masterwork)
+        name: (PvE) Classic Pairings 🍷🍷🍷 (Relaxed Masterwork)
         desc: >
           Same as the above with relaxed Masterworks.
         masterworks: []
       -
         <<: *cdclassic
-        name: (PvP) Classic Pairings 🍷🍷 (Relaxed Magazines)
+        name: (PvE) Classic Pairings 🍷🍷 (Relaxed Magazines)
         desc: >
           Same as the above with relaxed Magazines.
         magazines: []
         masterworks: []
       -
         <<: *cdclassic
-        name: (PvP) Classic Pairings 🍷 (Relaxed Barrels)
+        name: (PvE) Classic Pairings 🍷 (Relaxed Barrels)
         desc: >
           Same as the above with relaxed Barrels.
         barrels: []
