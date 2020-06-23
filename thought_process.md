@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-06-22 00:33:11 +00:00`.
+* It was generated `2020-06-23 13:38:29 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -225,7 +225,7 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Perks 2 [ 60%]: Multikill Clip, Swashbuckler
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) Classic Pairings 🍷🍷🍷 (Relaxed Masterwork) (4.6% chance)**: Same as the above with relaxed Masterworks.
+* **(PvE) Classic Pairings 🍷🍷🍷 (Relaxed Masterwork) (4.6% chance)**: Same as the above with relaxed Masterworks.
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
@@ -233,7 +233,7 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Perks 2 [ 60%]: Multikill Clip, Swashbuckler
   MWorks  [100%]: *
   ```
-* **(PvP) Classic Pairings 🍷🍷 (Relaxed Magazines) (5.8% chance)**: Same as the above with relaxed Magazines.
+* **(PvE) Classic Pairings 🍷🍷 (Relaxed Magazines) (5.8% chance)**: Same as the above with relaxed Magazines.
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [100%]: *
@@ -241,7 +241,7 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Perks 2 [ 60%]: Multikill Clip, Swashbuckler
   MWorks  [100%]: *
   ```
-* **(PvP) Classic Pairings 🍷 (Relaxed Barrels) (10.0% chance)**: Same as the above with relaxed Barrels.
+* **(PvE) Classic Pairings 🍷 (Relaxed Barrels) (10.0% chance)**: Same as the above with relaxed Barrels.
   ```
   Barrels [100%]: *
   Mags    [100%]: *

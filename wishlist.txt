@@ -1,5 +1,5 @@
 title: SlifSF's Sliflist
-description: Generated 2020-06-22 00:33:11 +00:00
+description: Generated 2020-06-23 13:38:29 +00:00
 //notes:(PvP) Slif's "Pristine, Picture-Perfect Auto Rifle" 🧼📸 Collector's Edition / 0.0% chance
 dimwishlist:item=1561006927&perks=1392496348,1885400500,3161816588,588594999,1590375901
 dimwishlist:item=1561006927&perks=1392496348,1885400500,3161816588,588594999,1590375902
@@ -8412,7 +8412,7 @@ dimwishlist:item=1216130969&perks=4090651448,679225683,2779035018,4082225868,150
 dimwishlist:item=1216130969&perks=4090651448,679225683,2779035018,4082225868,150943614
 dimwishlist:item=1216130969&perks=4090651448,679225683,2779035018,4082225868,150943615
 dimwishlist:item=1216130969&perks=4090651448,679225683,2779035018,4082225868,2697220197
-//notes:(PvP) Classic Pairings 🍷🍷🍷 (Relaxed Masterwork) / 4.6% chance
+//notes:(PvE) Classic Pairings 🍷🍷🍷 (Relaxed Masterwork) / 4.6% chance
 dimwishlist:item=1216130969&perks=3250034553,1561002382,2779035018,2458213969
 dimwishlist:item=1216130969&perks=3250034553,1561002382,2779035018,4082225868
 dimwishlist:item=1216130969&perks=3250034553,1885400500,2779035018,2458213969
@@ -8437,14 +8437,14 @@ dimwishlist:item=1216130969&perks=4090651448,1968497646,2779035018,2458213969
 dimwishlist:item=1216130969&perks=4090651448,1968497646,2779035018,4082225868
 dimwishlist:item=1216130969&perks=4090651448,679225683,2779035018,2458213969
 dimwishlist:item=1216130969&perks=4090651448,679225683,2779035018,4082225868
-//notes:(PvP) Classic Pairings 🍷🍷 (Relaxed Magazines) / 5.8% chance
+//notes:(PvE) Classic Pairings 🍷🍷 (Relaxed Magazines) / 5.8% chance
 dimwishlist:item=1216130969&perks=3250034553,2779035018,2458213969
 dimwishlist:item=1216130969&perks=3250034553,2779035018,4082225868
 dimwishlist:item=1216130969&perks=1482024992,2779035018,2458213969
 dimwishlist:item=1216130969&perks=1482024992,2779035018,4082225868
 dimwishlist:item=1216130969&perks=4090651448,2779035018,2458213969
 dimwishlist:item=1216130969&perks=4090651448,2779035018,4082225868
-//notes:(PvP) Classic Pairings 🍷 (Relaxed Barrels) / 10.0% chance
+//notes:(PvE) Classic Pairings 🍷 (Relaxed Barrels) / 10.0% chance
 dimwishlist:item=1216130969&perks=2779035018,2458213969
 dimwishlist:item=1216130969&perks=2779035018,4082225868
 //notes:(PvE) Sustained DPS 🗡🗡🗡 Collector's Edition / 2.7% chance
