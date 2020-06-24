@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-06-24 16:48:40 +00:00`.
+* It was generated `2020-06-24 18:46:33 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -313,7 +313,9 @@ We're going for the classics here: Whirlwind and Surrounded. Maybe you'll get in
 *For all possible perks, check out **False Promises** over on [light.gg](https://www.light.gg/db/items/3143732432/false-promises/)*
 
 
-False Promises is a 360 RPM Kinetic Auto Rifle introduced in Season 11. Apart from the Age-Old Bond (from the Last Wish raid), it's the only other High-Impact Frame Auto Rifle in the game. The High-Impacts all generally have quite good `Range` and pretty awful `Stability`, and False Promises is no exception. What we're going to want to focus on is increasing the Stability because with no Stability-enhancing perks, it can be quite difficult to control.
+False Promises is a 360 RPM Kinetic Auto Rifle introduced in Season 11. Apart from the Age-Old Bond (from the Last Wish raid), it's the only other High-Impact Frame Auto Rifle in the game that will be able to go past Season 11's `1060` power cap. Gahlran's Right Hand is still available from the Crown of Sorrow raid, but will be capped at this season's power levels and vaulted next season.
+
+The High-Impacts all generally have quite good `Range` and pretty awful `Stability`, and False Promises is no exception. What we're going to want to focus on is increasing the Stability because with no Stability-enhancing perks, it can be quite difficult to control.
 
 This is a case where the difference between console and PC is pretty clear with respect to Stability. On PC, Stability is far less of an issue, so on YouTube you'll see what looks like an entirely different weapon being used. On console, False Promises is pretty tough to control. Even at vertical, there's still a lot of bounce in the reticle.
 
@@ -326,53 +328,53 @@ Here's a couple of videos that talk about Stability, esp. with respect to Dynami
 
 I'm recommending, nay **requiring** 🧐DSR for any False Promises roll I'd consider using in PvP. The reason is that the False Promises has the worst base stats of any 360 RPM Auto Rifle and needs a lot of help getting to a usable place in PvP, considering its competition. DSR is so good now that it almost obviates the need for any other Stability.
 
-I'm also only including rolls that feature Eye of the Storm as well, mostly because if you just want a roll with a single perk (e.g. DSR) then you don't need a wishlist to help you with that. I also don't think DSR alone would make the False Promises worth using in PvP; it would just raise it up from the bar of not-worth-using 😀
-* **(PvP) Bullet Storm ⛈⛈⛈🌟Collector's Edition (0.1% chance)**: With how significanly DSR ramps, you're really basing your playstyle around it. You know how everyone pre-fires with SUROS? Well I'm suggesting a set of rolls based on pre-firing with DSR on Auto Rifles. This means instead of a Counterbalance Mod, I want to see room for a Backup Mag mod here. This set of rolls is based around "fixing" Recoil with barrels, leaving room for a Backup Mag mod to give you more pre-firing leeway. Eye of the Storm is terrific for increased accuracy during gunfights and the rest of the roll is about adding as much Stability as we can.
+All of the following rolls feature Eye of the Storm, Rampage and Swashbuckler. Think about this from a "forgiveness" perspective. If you want more forgiveness during your first exchange, choose Eye of the Storm. If you want more foregiveness during follow-on encounters, choose Rampage or Swashbuckler.
+* **(PvP) Bullet Storm ⛈⛈⛈🌟Collector's Edition (0.3% chance)**: With how significanly DSR ramps, you're really basing your playstyle around it. You know how everyone pre-fires with SUROS? Well I'm suggesting a set of rolls based on pre-firing with DSR on Auto Rifles. This means instead of a Counterbalance Mod, I want to see room for a Backup Mag mod here. This set of rolls is based around "fixing" Recoil with barrels, leaving room for a Backup Mag mod to give you more pre-firing leeway. Eye of the Storm is terrific for increased accuracy during gunfights and the rest of the roll is about adding as much Stability as we can.
   ```
   Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
+  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Bullet Storm ⛈⛈⛈ (Relaxed Magazines) (0.2% chance)**: Same as the CE, broadening the Magazines
+* **(PvP) Bullet Storm ⛈⛈⛈ (Relaxed Magazines) (0.5% chance)**: Same as the CE, broadening the Magazines
   ```
   Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
+  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Bullet Storm ⛈⛈⛈ (Relaxed Masterwork) (0.4% chance)**: Same as the CE, minus the Masterwork
+* **(PvP) Bullet Storm ⛈⛈⛈ (Relaxed Masterwork) (1.1% chance)**: Same as the CE, minus the Masterwork
   ```
   Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
+  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
   MWorks  [100%]: *
   ```
-* **(PvP) Bullet Storm ⛈⛈⛈ (Relaxed Masterwork and Magazines) (0.8% chance)**: Same as the CE, minus the Masterwork
+* **(PvP) Bullet Storm ⛈⛈⛈ (Relaxed Masterwork and Magazines) (2.0% chance)**: Same as the CE, minus the Masterwork
   ```
   Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
+  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
   MWorks  [100%]: *
   ```
-* **(PvP) Bullet Storm ⛈⛈⛈ (Relaxed Magazines) (0.4% chance)**: Same as the CE, minus the Magazines
+* **(PvP) Bullet Storm ⛈⛈⛈ (Relaxed Magazines) (1.1% chance)**: Same as the CE, minus the Magazines
   ```
   Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
   Mags    [100%]: *
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
+  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Bullet Storm ⛈⛈ (Relaxed Magazines and Mastework) (1.7% chance)**: Same as the CE, minus the Magazines and Masterworks
+* **(PvP) Bullet Storm ⛈⛈ (Relaxed Magazines and Mastework) (4.3% chance)**: Same as the CE, minus the Magazines and Masterworks
   ```
   Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
   Mags    [100%]: *
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
+  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
   MWorks  [100%]: *
   ```
 * **(PvP) Stable Storm 🌦🌦🌦🌟Collector's Edition (0.1% chance)**: Similar set of rolls to the above, but around Stability instead of Recoil in the first column, which means there's a slightly increased chance of getting one of these to drop (emphasis on 'slightly' 🤪).
@@ -380,63 +382,63 @@ I'm also only including rolls that feature Eye of the Storm as well, mostly beca
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
+  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Stable Storm 🌦🌦🌦 (Relaxed Magazines) (0.1% chance)**: Same as the CE, with all Stability-enhancing Magazines.
+* **(PvP) Stable Storm 🌦🌦🌦 (Relaxed Magazines) (0.3% chance)**: Same as the CE, with all Stability-enhancing Magazines.
   ```
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
+  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Stable Storm 🌦🌦🌦 (Relaxed Barrels) (0.2% chance)**: Same as the CE, with all Stability-enhancing Barrels.
+* **(PvP) Stable Storm 🌦🌦🌦 (Relaxed Barrels) (0.5% chance)**: Same as the CE, with all Stability-enhancing Barrels.
   ```
   Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
+  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Stable Storm 🌦🌦🌦 (Relaxed Barrels and Magazines) (0.3% chance)**: Same as the CE, with all Stability-enhancing Barrels and Magazines.
+* **(PvP) Stable Storm 🌦🌦🌦 (Relaxed Barrels and Magazines) (0.9% chance)**: Same as the CE, with all Stability-enhancing Barrels and Magazines.
   ```
   Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
+  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Stable Storm 🌦🌦 (Relaxed Magazines) (0.7% chance)**: Same as the above with relaxed Magazines.
+* **(PvP) Stable Storm 🌦🌦 (Relaxed Magazines) (1.8% chance)**: Same as the above with relaxed Magazines.
   ```
   Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [100%]: *
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
+  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Stable Storm 🌦🌦 (Relaxed Masterwork) (1.4% chance)**: Same as the above with relaxed Masterworks.
+* **(PvP) Stable Storm 🌦🌦 (Relaxed Masterwork) (3.4% chance)**: Same as the above with relaxed Masterworks.
   ```
   Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
+  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
   MWorks  [100%]: *
   ```
-* **(PvP) Stable Storm 🌦 (Relaxed Magazines and Masterwork) (2.9% chance)**: Same as the above with relaxed Magazines and Masterworks.
+* **(PvP) Stable Storm 🌦 (Relaxed Magazines and Masterwork) (7.4% chance)**: Same as the above with relaxed Magazines and Masterworks.
   ```
   Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [100%]: *
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
+  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
   MWorks  [100%]: *
   ```
-* **(PvP) Sway/.Storm (Baseline) (4.1% chance)**: With just these two and a Counterbalance mod, you've got an asbolutely serviceable Auto Rifle.
+* **(PvP) Sway/.Storm (Baseline) (10.2% chance)**: With just these two and a Counterbalance mod, you've got an asbolutely serviceable Auto Rifle.
   ```
   Barrels [100%]: *
   Mags    [100%]: *
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 28%]: Eye of the Storm
+  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
   MWorks  [100%]: *
   ```
 ## False Promises - PvE
