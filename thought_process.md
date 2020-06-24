@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-06-23 13:38:29 +00:00`.
+* It was generated `2020-06-24 16:48:40 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -13,6 +13,7 @@ I go back and fill in world drops.
 **Season 11 - Season of Arrivals (June 9th - Sept. 22, 2020)**
 * Cold Denial ([PvP](#cold-denial---pvp), [PvE](#cold-denial---pve))
 * Falling Guillotine ([PvE](#falling-guillotine---pve))
+* False Promises ([PvP](#false-promises---pvp), [PvE](#false-promises---pve))
 * Hollow Words ([PvP](#hollow-words---pvp))
 * Temptation's Hook ([PvE](#temptations-hook---pve))
 
@@ -306,6 +307,237 @@ We're going for the classics here: Whirlwind and Surrounded. Maybe you'll get in
   Mags    [100%]: *
   Perks 1 [ 33%]: Relentless Strikes
   Perks 2 [ 50%]: Surrounded
+  MWorks  [100%]: *
+  ```
+## False Promises - PvP
+*For all possible perks, check out **False Promises** over on [light.gg](https://www.light.gg/db/items/3143732432/false-promises/)*
+
+
+False Promises is a 360 RPM Kinetic Auto Rifle introduced in Season 11. Apart from the Age-Old Bond (from the Last Wish raid), it's the only other High-Impact Frame Auto Rifle in the game. The High-Impacts all generally have quite good `Range` and pretty awful `Stability`, and False Promises is no exception. What we're going to want to focus on is increasing the Stability because with no Stability-enhancing perks, it can be quite difficult to control.
+
+This is a case where the difference between console and PC is pretty clear with respect to Stability. On PC, Stability is far less of an issue, so on YouTube you'll see what looks like an entirely different weapon being used. On console, False Promises is pretty tough to control. Even at vertical, there's still a lot of bounce in the reticle.
+
+Here's a couple of videos that talk about Stability, esp. with respect to Dynamic Sway Reduction. Note that DSR was [buffed in S11](https://www.bungie.net/en/News/Article/49126):
+> Dynamic Sway Reduction: Adds 10 Stability over time in addition to accuracy (this is way more powerful than it sounds). Reduced reticle movement from Stability should now tell players this is working.
+
+...so some of these may be a little out of date depending on which part of the content you're referring to.
+* [Dynamic Sway Reduction on Auto Rifles & Zoom Effect | Destiny 2 Season of the Worthy](https://www.youtube.com/watch?v=S71_munFJYE)
+* [Stability In Depth | Stat Review and Guide - The Heart of Destiny 2](https://www.youtube.com/watch?v=DmQEFdjwzcw&feature=youtu.be)
+
+I'm recommending, nay **requiring** 🧐DSR for any False Promises roll I'd consider using in PvP. The reason is that the False Promises has the worst base stats of any 360 RPM Auto Rifle and needs a lot of help getting to a usable place in PvP, considering its competition. DSR is so good now that it almost obviates the need for any other Stability.
+
+I'm also only including rolls that feature Eye of the Storm as well, mostly because if you just want a roll with a single perk (e.g. DSR) then you don't need a wishlist to help you with that. I also don't think DSR alone would make the False Promises worth using in PvP; it would just raise it up from the bar of not-worth-using 😀
+* **(PvP) Bullet Storm ⛈⛈⛈🌟Collector's Edition (0.1% chance)**: With how significanly DSR ramps, you're really basing your playstyle around it. You know how everyone pre-fires with SUROS? Well I'm suggesting a set of rolls based on pre-firing with DSR on Auto Rifles. This means instead of a Counterbalance Mod, I want to see room for a Backup Mag mod here. This set of rolls is based around "fixing" Recoil with barrels, leaving room for a Backup Mag mod to give you more pre-firing leeway. Eye of the Storm is terrific for increased accuracy during gunfights and the rest of the roll is about adding as much Stability as we can.
+  ```
+  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [ 28%]: Eye of the Storm
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Bullet Storm ⛈⛈⛈ (Relaxed Magazines) (0.2% chance)**: Same as the CE, broadening the Magazines
+  ```
+  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [ 28%]: Eye of the Storm
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Bullet Storm ⛈⛈⛈ (Relaxed Masterwork) (0.4% chance)**: Same as the CE, minus the Masterwork
+  ```
+  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [ 28%]: Eye of the Storm
+  MWorks  [100%]: *
+  ```
+* **(PvP) Bullet Storm ⛈⛈⛈ (Relaxed Masterwork and Magazines) (0.8% chance)**: Same as the CE, minus the Masterwork
+  ```
+  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [ 28%]: Eye of the Storm
+  MWorks  [100%]: *
+  ```
+* **(PvP) Bullet Storm ⛈⛈⛈ (Relaxed Magazines) (0.4% chance)**: Same as the CE, minus the Magazines
+  ```
+  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [ 28%]: Eye of the Storm
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Bullet Storm ⛈⛈ (Relaxed Magazines and Mastework) (1.7% chance)**: Same as the CE, minus the Magazines and Masterworks
+  ```
+  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [ 28%]: Eye of the Storm
+  MWorks  [100%]: *
+  ```
+* **(PvP) Stable Storm 🌦🌦🌦🌟Collector's Edition (0.1% chance)**: Similar set of rolls to the above, but around Stability instead of Recoil in the first column, which means there's a slightly increased chance of getting one of these to drop (emphasis on 'slightly' 🤪).
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [ 28%]: Eye of the Storm
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Stable Storm 🌦🌦🌦 (Relaxed Magazines) (0.1% chance)**: Same as the CE, with all Stability-enhancing Magazines.
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [ 28%]: Eye of the Storm
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Stable Storm 🌦🌦🌦 (Relaxed Barrels) (0.2% chance)**: Same as the CE, with all Stability-enhancing Barrels.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [ 28%]: Eye of the Storm
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Stable Storm 🌦🌦🌦 (Relaxed Barrels and Magazines) (0.3% chance)**: Same as the CE, with all Stability-enhancing Barrels and Magazines.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [ 28%]: Eye of the Storm
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Stable Storm 🌦🌦 (Relaxed Magazines) (0.7% chance)**: Same as the above with relaxed Magazines.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [ 28%]: Eye of the Storm
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Stable Storm 🌦🌦 (Relaxed Masterwork) (1.4% chance)**: Same as the above with relaxed Masterworks.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [ 28%]: Eye of the Storm
+  MWorks  [100%]: *
+  ```
+* **(PvP) Stable Storm 🌦 (Relaxed Magazines and Masterwork) (2.9% chance)**: Same as the above with relaxed Magazines and Masterworks.
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [ 28%]: Eye of the Storm
+  MWorks  [100%]: *
+  ```
+* **(PvP) Sway/.Storm (Baseline) (4.1% chance)**: With just these two and a Counterbalance mod, you've got an asbolutely serviceable Auto Rifle.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [ 28%]: Eye of the Storm
+  MWorks  [100%]: *
+  ```
+## False Promises - PvE
+*For all possible perks, check out **False Promises** over on [light.gg](https://www.light.gg/db/items/3143732432/false-promises/)*
+
+
+There's not much to puzzle out here. In PvE you're going for as much `Range` as you can get with sustained damage upkeep. I think `Unrelenting` is a super interesting perk, I would just prefer to have the large damage bonuses active from damage-boosting perks.
+* **(PvE) Overflowing Rage 🚰🚰🚰🌟 Collector's Edition (0.9% chance)**: All Range and all damage.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 14%]: Overflow
+  Perks 2 [ 52%]: Rampage, Swashbuckler
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) Overflowing Rage 🚰🚰🚰 (Relaxed Barrels) (1.5% chance)**: Same as the CE, minus the Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 14%]: Overflow
+  Perks 2 [ 52%]: Rampage, Swashbuckler
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) Overflowing Rage 🚰🚰🚰 (Relaxed Masterwork) (3.4% chance)**: Same as the CE, minus the Masterwork.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 14%]: Overflow
+  Perks 2 [ 52%]: Rampage, Swashbuckler
+  MWorks  [100%]: *
+  ```
+* **(PvE) Overflowing Rage 🚰🚰🚰 (Relaxed Magazines) (1.1% chance)**: Same as the CE, minus the Magazines.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Overflow
+  Perks 2 [ 52%]: Rampage, Swashbuckler
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) Overflowing Rage 🚰🚰 (Relaxed Barrels and Magazines) (1.9% chance)**: Same as the CE, minus the Magazines.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Overflow
+  Perks 2 [ 52%]: Rampage, Swashbuckler
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) Overflowing Rage 🚰 (Baseline) (7.5% chance)**: Three great perks that go great together. In PvE pretty much everything else is gravy.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Overflow
+  Perks 2 [ 52%]: Rampage, Swashbuckler
+  MWorks  [100%]: *
+  ```
+* **(PvE) Frenzied Rage 😡😡😡🌟 Collector's Edition (0.9% chance)**: All Range and all damage.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 14%]: Feeding Frenzy
+  Perks 2 [ 52%]: Rampage, Swashbuckler
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) Frenzied Rage 😡😡😡 (Relaxed Barrels) (1.5% chance)**: Same as the CE, minus the Barrels.
+  ```
+  Barrels [100%]: *
+  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 14%]: Feeding Frenzy
+  Perks 2 [ 52%]: Rampage, Swashbuckler
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) Frenzied Rage 😡😡😡 (Relaxed Masterwork) (3.4% chance)**: Same as the CE, minus the Masterwork.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 14%]: Feeding Frenzy
+  Perks 2 [ 52%]: Rampage, Swashbuckler
+  MWorks  [100%]: *
+  ```
+* **(PvE) Frenzied Rage 😡😡😡 (Relaxed Magazines) (1.1% chance)**: Same as the CE, minus the Magazines.
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Feeding Frenzy
+  Perks 2 [ 52%]: Rampage, Swashbuckler
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) Frenzied Rage 😡😡 (Relaxed Barrels and Magazines) (1.9% chance)**: Same as the CE, minus the Magazines.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Feeding Frenzy
+  Perks 2 [ 52%]: Rampage, Swashbuckler
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) Frenzied Rage 😡 (Baseline) (7.5% chance)**: Three great perks that go great together. In PvE pretty much everything else is gravy.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Feeding Frenzy
+  Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [100%]: *
   ```
 ## Hollow Words - PvP
