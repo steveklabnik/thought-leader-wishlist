@@ -57,11 +57,11 @@ groups:
       it almost obviates the need for any other Stability.
 
 
-      I'm also only including rolls that feature Eye of the Storm as
-      well, mostly because if you just want a roll with a single perk (e.g.
-      DSR) then you don't need a wishlist to help you with that. I also don't
-      think DSR alone would make the False Promises worth using in PvP; it
-      would just raise it up from the bar of not-worth-using 😀
+      All of the following rolls feature Eye of the Storm, Rampage and
+      Swashbuckler. Think about this from a "forgiveness" perspective. If you
+      want more forgiveness during your first exchange, choose Eye of the Storm.
+      If you want more foregiveness during follow-on encounters, choose Rampage
+      or Swashbuckler.
     rolls:
       - &fpstorm
         name: (PvP) Bullet Storm ⛈⛈⛈🌟Collector's Edition
@@ -78,7 +78,7 @@ groups:
         barrels: [Arrowhead Brake, Chambered Compensator]
         magazines: [Ricochet Rounds]
         perks1: [Dynamic Sway Reduction]
-        perks2: [Eye of the Storm]
+        perks2: [Eye of the Storm, Rampage, Swashbuckler]
         masterworks: [Stability MW]
       -
         <<: *fpstorm
@@ -121,7 +121,7 @@ groups:
         barrels: [Polygonal Rifling]
         magazines: [Ricochet Rounds]
         perks1: [Dynamic Sway Reduction]
-        perks2: [Eye of the Storm]
+        perks2: [Eye of the Storm, Rampage, Swashbuckler]
         masterworks: [Stability MW]
       -
         <<: *fpstable
@@ -169,7 +169,7 @@ groups:
         barrels: []
         magazines: []
         perks1: [Dynamic Sway Reduction]
-        perks2: [Eye of the Storm]
+        perks2: [Eye of the Storm, Rampage, Swashbuckler]
         masterworks: []
   - 
     name: PvE
