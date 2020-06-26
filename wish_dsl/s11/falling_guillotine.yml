@@ -66,6 +66,12 @@ groups:
         magazines: []
       -
         <<: *fgclassic
+        name: (PvE) Sustained DPS 🗡🗡 (Minus Barrels)
+        desc: >
+          Same as the CE, minus Jagged Edge. Still an absolutely great roll.
+        barrels: []
+      -
+        <<: *fgclassic
         name: (PvE) Sustained DPS 🗡 (Baseline)
         desc: >
           You really only need these two to do phenomenal amounts of sustained
@@ -93,6 +99,12 @@ groups:
           Same as the CE, minus Heavy Guard. That's OK because you won't be
           doing all that much defending while slicing away with your sword.
         magazines: []
+      -
+        <<: *fgsurrounded
+        name: (PvE) "Lawnmower Man" 🚜🚜 (Minus Barrels)
+        desc: >
+          Same as the CE, minus Jagged Edge. Still an absolutely great roll.
+        barrels: []
       -
         <<: *fgsurrounded
         name: (PvE) "Lawnmower Man" 🚜 Baseline
