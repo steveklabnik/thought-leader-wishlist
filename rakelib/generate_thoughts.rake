@@ -11,6 +11,8 @@ TRAITS = [
   {:key => 'masterworks', :label => 'MWorks ', :fallback => '(Any masterwork)'},
 ]
 
+TOC = YAML.load_file('toc.yml')
+
 desc "Format notes from our roll data"
 task :generate_thoughts, [:environment] do |t, args|
 
@@ -31,7 +33,6 @@ PREAMBLE
 
     weapons = []
 
-    TOC = YAML.load_file('toc.yml')
     TOC['ordering'].each do |collection|
       thoughts.puts("\n**#{TOC['naming'][collection]}**")
       Dir.children(File.join('wish_dsl', collection)).sort.each do |weapon|
