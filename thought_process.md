@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-06-24 18:46:33 +00:00`.
+* It was generated `2020-06-26 04:55:27 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -277,6 +277,14 @@ We're going for the classics here: Whirlwind and Surrounded. Maybe you'll get in
   Perks 2 [ 50%]: Whirlwind Blade
   MWorks  [100%]: *
   ```
+* **(PvE) Sustained DPS 🗡🗡 (Minus Barrels) (6.7% chance)**: Same as the CE, minus Jagged Edge. Still an absolutely great roll.
+  ```
+  Barrels [100%]: *
+  Mags    [ 40%]: Heavy Guard
+  Perks 1 [ 33%]: Relentless Strikes
+  Perks 2 [ 50%]: Whirlwind Blade
+  MWorks  [100%]: *
+  ```
 * **(PvE) Sustained DPS 🗡 (Baseline) (16.7% chance)**: You really only need these two to do phenomenal amounts of sustained damage and fortunately they're pretty easy to find!
   ```
   Barrels [100%]: *
@@ -297,6 +305,14 @@ We're going for the classics here: Whirlwind and Surrounded. Maybe you'll get in
   ```
   Barrels [ 40%]: Jagged Edge
   Mags    [100%]: *
+  Perks 1 [ 33%]: Relentless Strikes
+  Perks 2 [ 50%]: Surrounded
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Lawnmower Man" 🚜🚜 (Minus Barrels) (6.7% chance)**: Same as the CE, minus Jagged Edge. Still an absolutely great roll.
+  ```
+  Barrels [100%]: *
+  Mags    [ 40%]: Heavy Guard
   Perks 1 [ 33%]: Relentless Strikes
   Perks 2 [ 50%]: Surrounded
   MWorks  [100%]: *
@@ -433,7 +449,7 @@ All of the following rolls feature Eye of the Storm, Rampage and Swashbuckler. T
   Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
   MWorks  [100%]: *
   ```
-* **(PvP) Sway/.Storm (Baseline) (10.2% chance)**: With just these two and a Counterbalance mod, you've got an asbolutely serviceable Auto Rifle.
+* **(PvP) Sway/.Storm (Baseline) (10.2% chance)**: With just any of these combos and a Counterbalance mod, you've got an asbolutely serviceable Auto Rifle.
   ```
   Barrels [100%]: *
   Mags    [100%]: *
@@ -441,60 +457,84 @@ All of the following rolls feature Eye of the Storm, Rampage and Swashbuckler. T
   Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
   MWorks  [100%]: *
   ```
+* **(PvP) Perkless Wonder 🤷🤷🤷🌟Collector's Edition (0.5% chance)**: If you manage to get every perk but the final column, you have a super solid base Auto Rifle. This will be a series of rolls around Dynamic Sway Reduction and without the reliance on final-column perks.
+  ```
+  Barrels [ 58%]: Arrowhead Brake, Chambered Compensator, Polygonal Rifling
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Perkless Wonder 🤷🤷🤷 (Relaxed Magazines) (1.0% chance)**: Same as the above with relaxed Magazines.
+  ```
+  Barrels [ 58%]: Arrowhead Brake, Chambered Compensator, Polygonal Rifling
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Perkless Wonder 🤷🤷 (Relaxed Barrels and Mags) (1.5% chance)**: Same as the above with relaxed Barrels and Magazines.
+  ```
+  Barrels [ 91%]: Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
 ## False Promises - PvE
 *For all possible perks, check out **False Promises** over on [light.gg](https://www.light.gg/db/items/3143732432/false-promises/)*
 
 
 There's not much to puzzle out here. In PvE you're going for as much `Range` as you can get with sustained damage upkeep. I think `Unrelenting` is a super interesting perk, I would just prefer to have the large damage bonuses active from damage-boosting perks.
-* **(PvE) Overflowing Rage 🚰🚰🚰🌟 Collector's Edition (0.9% chance)**: All Range and all damage.
+* **(PvE) Overflowing Rage 🚰🚰🚰🌟 Collector's Edition (1.7% chance)**: All Range and all damage, focused on Overflow and Subsistence.
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
-  Perks 1 [ 14%]: Overflow
+  Perks 1 [ 28%]: Overflow, Subsistence
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Overflowing Rage 🚰🚰🚰 (Relaxed Barrels) (1.5% chance)**: Same as the CE, minus the Barrels.
+* **(PvE) Overflowing Rage 🚰🚰🚰 (Relaxed Barrels) (2.9% chance)**: Same as the CE, minus the Barrels.
   ```
   Barrels [100%]: *
   Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
-  Perks 1 [ 14%]: Overflow
+  Perks 1 [ 28%]: Overflow, Subsistence
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Overflowing Rage 🚰🚰🚰 (Relaxed Masterwork) (3.4% chance)**: Same as the CE, minus the Masterwork.
+* **(PvE) Overflowing Rage 🚰🚰🚰 (Relaxed Masterwork) (6.9% chance)**: Same as the CE, minus the Masterwork.
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
-  Perks 1 [ 14%]: Overflow
+  Perks 1 [ 28%]: Overflow, Subsistence
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [100%]: *
   ```
-* **(PvE) Overflowing Rage 🚰🚰🚰 (Relaxed Magazines) (1.1% chance)**: Same as the CE, minus the Magazines.
+* **(PvE) Overflowing Rage 🚰🚰🚰 (Relaxed Magazines) (2.2% chance)**: Same as the CE, minus the Magazines.
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [100%]: *
-  Perks 1 [ 14%]: Overflow
+  Perks 1 [ 28%]: Overflow, Subsistence
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Overflowing Rage 🚰🚰 (Relaxed Barrels and Magazines) (1.9% chance)**: Same as the CE, minus the Magazines.
+* **(PvE) Overflowing Rage 🚰🚰 (Relaxed Barrels and Magazines) (3.7% chance)**: Same as the CE, minus the Magazines.
   ```
   Barrels [100%]: *
   Mags    [100%]: *
-  Perks 1 [ 14%]: Overflow
+  Perks 1 [ 28%]: Overflow, Subsistence
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Overflowing Rage 🚰 (Baseline) (7.5% chance)**: Three great perks that go great together. In PvE pretty much everything else is gravy.
+* **(PvE) Overflowing Rage 🚰 (Baseline) (15.0% chance)**: Four great perks that go great together. In PvE pretty much everything else is gravy.
   ```
   Barrels [100%]: *
   Mags    [100%]: *
-  Perks 1 [ 14%]: Overflow
+  Perks 1 [ 28%]: Overflow, Subsistence
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [100%]: *
   ```
-* **(PvE) Frenzied Rage 😡😡😡🌟 Collector's Edition (0.9% chance)**: All Range and all damage.
+* **(PvE) Frenzied Rage 😡😡😡🌟 Collector's Edition (0.9% chance)**: All Range and all damage, focused on Feeding Frenzy.
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
@@ -526,7 +566,7 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Frenzied Rage 😡😡 (Relaxed Barrels and Magazines) (1.9% chance)**: Same as the CE, minus the Magazines.
+* **(PvE) Frenzied Rage 😡😡 (Relaxed Barrels and Magazines) (1.9% chance)**: Same as the CE, minus the Barrels and Magazines.
   ```
   Barrels [100%]: *
   Mags    [100%]: *
