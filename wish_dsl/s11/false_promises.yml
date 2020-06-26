@@ -171,6 +171,30 @@ groups:
         perks1: [Dynamic Sway Reduction]
         perks2: [Eye of the Storm, Rampage, Swashbuckler]
         masterworks: []
+      - &fpperkless
+        name: (PvP) Perkless Wonder 🤷🤷🤷🌟Collector's Edition
+        desc: >
+          If you manage to get every perk but the final column, you have a
+          super solid base Auto Rifle. This will be a series of rolls around
+          Dynamic Sway Reduction and without the reliance on final-column perks.
+        barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling]
+        magazines: [Ricochet Rounds]
+        perks1: [Dynamic Sway Reduction]
+        perks2: []
+        masterworks: [Stability MW]
+      -
+        <<: *fpperkless
+        name: (PvP) Perkless Wonder 🤷🤷🤷 (Relaxed Magazines)
+        desc: >
+          Same as the above with relaxed Magazines.
+        magazines: [Ricochet Rounds, Flared Magwell]
+      - &fpperkrelaxed
+        <<: *fpperkless
+        name: (PvP) Perkless Wonder 🤷🤷 (Relaxed Barrels and Mags)
+        desc: >
+          Same as the above with relaxed Barrels and Magazines.
+        barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+        magazines: [Ricochet Rounds, Flared Magwell]
   - 
     name: PvE
     summary: >
