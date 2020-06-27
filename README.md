@@ -142,3 +142,13 @@ This will have its own section both because of how popular they are, how confusi
 * Ammo Regeneration Perks
   * **Tireless Blade**: Only gives you `1` ammo back after multiple heavy attacks. Pass.
   * **Relentless Strikes**: Gives you back sword ammo on repeated hits. Seems like it's bugged currently and giving you more ammo back than it should. Pairs great with *Whirlwind Blade*.
+
+## Weapon Focus: Bows
+
+*6/26/2020 - This section is nascent; needs a lot of work. Unfortunately not a ton of bow 'science' out there, so this will be slow going.*
+
+  * **`Draw Time`** Is the one unique stat for bows.
+    * Every twenty points in Draw Time equates to 0.03 seconds, or one frame at 30 fps.
+    * Lightweight bows are the fastest and have a floor of 540 (i.e. any decrease beyond this will not take affect).
+    * It does not affect Bow impact in the way that `Charge Time` affects Fusion Rifle impact.
+  
