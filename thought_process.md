@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-06-28 22:28:50 +00:00`.
+* It was generated `2020-06-28 22:30:40 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -892,7 +892,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 40%]: Accuracy MW, Draw Time MW
   ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐(Baseline) (5.6% chance)**: These form the core value of the roll.
+* **(PvP) GuiltySpark's Reserved Slab 🧐(Baseline) (5.6% chance)**: These form the core value of the roll.
   ```
   Barrels [100%]: *
   Mags    [100%]: *
