@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-06-28 22:39:07 +00:00`.
+* It was generated `2020-06-28 22:42:24 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -798,7 +798,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 20%]: Accuracy MW
   ```
-* **(PvP) GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Bowstrings) (0.2% chance)**: Widening acceptable Bowstrings.
+* **(PvP) GuiltySpark's Aggro Slab 😡😡😡 CE (Relaxed Bowstrings) (0.2% chance)**: Widening acceptable Bowstrings.
   ```
   Barrels [ 52%]: Elastic String, Polymer String
   Mags    [ 33%]: Fiberglass Arrow Shaft
@@ -806,7 +806,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 20%]: Accuracy MW
   ```
-* **(PvP) GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Arrows) (0.2% chance)**: Widening acceptable Arrows.
+* **(PvP) GuiltySpark's Aggro Slab 😡😡😡 CE (Relaxed Arrows) (0.2% chance)**: Widening acceptable Arrows.
   ```
   Barrels [ 28%]: Elastic String
   Mags    [ 60%]: Fiberglass Arrow Shaft, Straight Fletching
@@ -814,7 +814,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 20%]: Accuracy MW
   ```
-* **(PvP) GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Masterwork) (0.2% chance)**: Widening acceptable Masterworks.
+* **(PvP) GuiltySpark's Aggro Slab 😡😡😡 CE (Relaxed Masterwork) (0.2% chance)**: Widening acceptable Masterworks.
   ```
   Barrels [ 28%]: Elastic String
   Mags    [ 33%]: Fiberglass Arrow Shaft
@@ -822,7 +822,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 40%]: Accuracy MW, Draw Time MW
   ```
-* **(PvP) GuiltySpark's Aggro Slab 😡😡CE (Fully Relaxed) (0.7% chance)**: Widening both Bowstrings, Arrows and Masterworks.
+* **(PvP) GuiltySpark's Aggro Slab 😡😡 CE (Fully Relaxed) (0.7% chance)**: Widening both Bowstrings, Arrows and Masterworks.
   ```
   Barrels [ 52%]: Elastic String, Polymer String
   Mags    [ 60%]: Fiberglass Arrow Shaft, Straight Fletching
@@ -830,7 +830,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 40%]: Accuracy MW, Draw Time MW
   ```
-* **(PvP) GuiltySpark's Aggro Slab 😡(Baseline) (3.3% chance)**: These form the core value of the roll.
+* **(PvP) GuiltySpark's Aggro Slab 😡 (Baseline) (3.3% chance)**: These form the core value of the roll.
   ```
   Barrels [100%]: *
   Mags    [100%]: *
@@ -838,20 +838,17 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 60%]: Accuracy MW, Draw Time MW, Handling MW
   ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐🌟 Collector's Edition (0.1% chance)**: Here's the ideal "reserved" playstyle loadout:
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐🌟 Collector's Edition (0.1% chance)**: The objective of this loadout is to max it's Accuracy as high as it can go, so that the player can use it at longer distances and not feel forced to engage at closer ranges.
 
   * `High Tension String`: We're going for max accuracy with this
     loadout.
-  * `Fiberglass Arrow Shaft`: Again, the best arrow type for any bow.
-  * `Archer's Tempo`: High Tension gives an increase to draw speed,
-    tempo acts to negate its effects while still lowering the draw
-    time to a reasonable degree.
-  * `Opening Shot`: further increases accuracy and bullet magnetism to
-    the head, making the bow more reliable at longer distances. The
-    objective of this loadout is to max it's accuracy as high as it
-    can go, so that the player can use it at longer distances and not
-    feel forced to engage at closer ranges
-  * `Accuracy Masterwork`: Again, going for as high of an accuracy
+  * `Fiberglass Arrow Shaft`: Again, the best Arrow type for any bow.
+  * `Archer's Tempo`: High Tension String gives an increase to draw
+    speed, and Archer's Tempo will act to negate its effects while
+    still lowering Draw Time to a reasonable degree.
+  * `Opening Shot`: Further increases Accuracy and bullet magnetism to
+    the head, making the bow more reliable at longer distances.
+  * `Accuracy Masterwork`: Again, going for as high of an Accuracy
     stat as we can.
   ```
   Barrels [ 28%]: High Tension String
@@ -860,7 +857,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Opening Shot
   MWorks  [ 20%]: Accuracy MW
   ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Bowstrings) (0.2% chance)**: Widening acceptable Bowstrings.
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (Relaxed Bowstrings) (0.2% chance)**: Widening acceptable Bowstrings.
   ```
   Barrels [ 52%]: High Tension String, Polymer String
   Mags    [ 33%]: Fiberglass Arrow Shaft
@@ -868,7 +865,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Opening Shot
   MWorks  [ 20%]: Accuracy MW
   ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Arrows) (0.2% chance)**: Widening acceptable Arrows.
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (Relaxed Arrows) (0.2% chance)**: Widening acceptable Arrows.
   ```
   Barrels [ 28%]: High Tension String
   Mags    [ 60%]: Fiberglass Arrow Shaft, Straight Fletching
@@ -876,7 +873,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Opening Shot
   MWorks  [ 20%]: Accuracy MW
   ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Masterwork) (0.2% chance)**: Widening acceptable Masterworks.
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (Relaxed Masterwork) (0.2% chance)**: Widening acceptable Masterworks.
   ```
   Barrels [ 28%]: High Tension String
   Mags    [ 33%]: Fiberglass Arrow Shaft
@@ -884,7 +881,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Opening Shot
   MWorks  [ 40%]: Accuracy MW, Draw Time MW
   ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐CE (Fully Relaxed) (0.7% chance)**: Widening both Bowstrings, Arrows and Masterworks.
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐 CE (Fully Relaxed) (0.7% chance)**: Widening both Bowstrings, Arrows and Masterworks.
   ```
   Barrels [ 52%]: High Tension String, Polymer String
   Mags    [ 60%]: Fiberglass Arrow Shaft, Straight Fletching
@@ -892,7 +889,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Opening Shot
   MWorks  [ 40%]: Accuracy MW, Draw Time MW
   ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐(Baseline) (5.6% chance)**: These form the core value of the roll.
+* **(PvP) GuiltySpark's Reserved Slab 🧐 (Baseline) (5.6% chance)**: These form the core value of the roll.
   ```
   Barrels [100%]: *
   Mags    [100%]: *
