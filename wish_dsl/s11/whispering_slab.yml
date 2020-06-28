@@ -145,33 +145,33 @@ groups:
         perks2: [Opening Shot]
         masterworks: [Accuracy MW]
       -
-        <<: *wsaggro
+        <<: *wschill
         name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Bowstrings)
         desc: >
           Widening acceptable Bowstrings.
         barrels: [High Tension String, Polymer String]
       -
-        <<: *wsaggro
+        <<: *wschill
         name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Arrows)
         desc: >
           Widening acceptable Arrows.
         magazines: [Fiberglass Arrow Shaft, Straight Fletching]
       -
-        <<: *wsaggro
+        <<: *wschill
         name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Masterwork)
         desc: >
           Widening acceptable Masterworks.
         masterworks: [Accuracy MW, Draw Time MW]
       -
-        <<: *wsaggro
+        <<: *wschill
         name: (PvP) GuiltySpark's Reserved Slab 🧐🧐CE (Fully Relaxed)
         desc: >
           Widening both Bowstrings, Arrows and Masterworks.
-        barrels: [Elastic String, Polymer String]
+        barrels: [High Tension String, Polymer String]
         magazines: [Fiberglass Arrow Shaft, Straight Fletching]
         masterworks: [Accuracy MW, Draw Time MW]
       -
-        <<: *wsaggro
+        <<: *wschill
         name: (PvP) GuiltySpark's Reserved Slab 🧐(Baseline)
         desc: >
           These form the core value of the roll.
