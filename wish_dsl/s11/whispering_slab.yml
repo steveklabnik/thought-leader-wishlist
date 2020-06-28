@@ -89,25 +89,25 @@ groups:
         masterworks: [Accuracy MW]
       -
         <<: *wsaggro
-        name: (PvP) GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Bowstrings)
+        name: (PvP) GuiltySpark's Aggro Slab 😡😡😡 CE (Relaxed Bowstrings)
         desc: >
           Widening acceptable Bowstrings.
         barrels: [Elastic String, Polymer String]
       -
         <<: *wsaggro
-        name: (PvP) GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Arrows)
+        name: (PvP) GuiltySpark's Aggro Slab 😡😡😡 CE (Relaxed Arrows)
         desc: >
           Widening acceptable Arrows.
         magazines: [Fiberglass Arrow Shaft, Straight Fletching]
       -
         <<: *wsaggro
-        name: (PvP) GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Masterwork)
+        name: (PvP) GuiltySpark's Aggro Slab 😡😡😡 CE (Relaxed Masterwork)
         desc: >
           Widening acceptable Masterworks.
         masterworks: [Accuracy MW, Draw Time MW]
       -
         <<: *wsaggro
-        name: (PvP) GuiltySpark's Aggro Slab 😡😡CE (Fully Relaxed)
+        name: (PvP) GuiltySpark's Aggro Slab 😡😡 CE (Fully Relaxed)
         desc: >
           Widening both Bowstrings, Arrows and Masterworks.
         barrels: [Elastic String, Polymer String]
@@ -115,7 +115,7 @@ groups:
         masterworks: [Accuracy MW, Draw Time MW]
       -
         <<: *wsaggro
-        name: (PvP) GuiltySpark's Aggro Slab 😡(Baseline)
+        name: (PvP) GuiltySpark's Aggro Slab 😡 (Baseline)
         desc: >
           These form the core value of the roll.
         barrels: []
@@ -124,20 +124,19 @@ groups:
       - &wschill
         name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐🌟 Collector's Edition 
         desc: >
-          Here's the ideal "reserved" playstyle loadout:
+          The objective of this loadout is to max it's Accuracy as high as it
+          can go, so that the player can use it at longer distances and not feel
+          forced to engage at closer ranges.
 
             * `High Tension String`: We're going for max accuracy with this
               loadout.
-            * `Fiberglass Arrow Shaft`: Again, the best arrow type for any bow.
-            * `Archer's Tempo`: High Tension gives an increase to draw speed,
-              tempo acts to negate its effects while still lowering the draw
-              time to a reasonable degree.
-            * `Opening Shot`: further increases accuracy and bullet magnetism to
-              the head, making the bow more reliable at longer distances. The
-              objective of this loadout is to max it's accuracy as high as it
-              can go, so that the player can use it at longer distances and not
-              feel forced to engage at closer ranges
-            * `Accuracy Masterwork`: Again, going for as high of an accuracy
+            * `Fiberglass Arrow Shaft`: Again, the best Arrow type for any bow.
+            * `Archer's Tempo`: High Tension String gives an increase to draw
+              speed, and Archer's Tempo will act to negate its effects while
+              still lowering Draw Time to a reasonable degree.
+            * `Opening Shot`: Further increases Accuracy and bullet magnetism to
+              the head, making the bow more reliable at longer distances.
+            * `Accuracy Masterwork`: Again, going for as high of an Accuracy
               stat as we can.
         barrels: [High Tension String]
         magazines: [Fiberglass Arrow Shaft]
@@ -146,25 +145,25 @@ groups:
         masterworks: [Accuracy MW]
       -
         <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Bowstrings)
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (Relaxed Bowstrings)
         desc: >
           Widening acceptable Bowstrings.
         barrels: [High Tension String, Polymer String]
       -
         <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Arrows)
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (Relaxed Arrows)
         desc: >
           Widening acceptable Arrows.
         magazines: [Fiberglass Arrow Shaft, Straight Fletching]
       -
         <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Masterwork)
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (Relaxed Masterwork)
         desc: >
           Widening acceptable Masterworks.
         masterworks: [Accuracy MW, Draw Time MW]
       -
         <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐CE (Fully Relaxed)
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐 CE (Fully Relaxed)
         desc: >
           Widening both Bowstrings, Arrows and Masterworks.
         barrels: [High Tension String, Polymer String]
@@ -172,7 +171,7 @@ groups:
         masterworks: [Accuracy MW, Draw Time MW]
       -
         <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐(Baseline)
+        name: (PvP) GuiltySpark's Reserved Slab 🧐 (Baseline)
         desc: >
           These form the core value of the roll.
         barrels: []
