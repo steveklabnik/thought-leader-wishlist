@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-06-26 04:55:27 +00:00`.
+* It was generated `2020-06-28 22:14:11 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -16,6 +16,7 @@ I go back and fill in world drops.
 * False Promises ([PvP](#false-promises---pvp), [PvE](#false-promises---pve))
 * Hollow Words ([PvP](#hollow-words---pvp))
 * Temptation's Hook ([PvE](#temptations-hook---pve))
+* Whispering Slab ([PvP](#whispering-slab---pvp))
 
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
@@ -746,6 +747,157 @@ Fortunately the perk set is very small and chances are you'll get the roll you'r
   Mags    [100%]: *
   Perks 1 [ 33%]: Relentless Strikes
   Perks 2 [ 40%]: Flash Counter
+  MWorks  [100%]: *
+  ```
+## Whispering Slab - PvP
+*For all possible perks, check out **Whispering Slab** over on [light.gg](https://www.light.gg/db/items/211938782/whispering-slab/)*
+
+
+**🌟💥🎉 BOW HYPE TIME 🌟💥🎉 BOW HYPE TIME 🌟💥🎉 BOW HYPE TIME 🌟💥🎉**
+
+Remember when we all thought Wish-Ender would break the Crucible because you could see through walls? That's the last time I thought bows might break the sandbox, or really even ever thought about using bows in PvP at all. Did you even know you can see through walls with Wish-Ender? I digress...
+
+Many months ago, I saved a post by [/u/TheGuiltySpark117](https://www.reddit.com/user/TheGuiltySpark117) in the off chance I ever wanted to give bows a real shot in PvP. Over that time I've read and re-read it, every time I'm trying to figure out if I have a good bow roll. *I strongy suggest you check this out; it's phenomenal!*
+
+[An In-Depth Guide to Using a Bow in Competitive PvP (Console or PC)](https://www.reddit.com/r/CruciblePlaybook/comments/fkgm0k/an_indepth_guide_to_using_a_bow_in_competitive/)
+
+I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls for Whispering Slab. All of the content that follows is courtesy of TheGuiltySpark117. Plese head over to the [latest edition](https://www.reddit.com/r/CruciblePlaybook/comments/fkgm0k/an_indepth_guide_to_using_a_bow_in_competitive/) of the guide and show your appreciation.
+> I have two possible loadouts that I would consider a god roll for pvp. I don’t see a loadout for whispering slab that would be great for PvE, however.
+
+> You might’ve noticed that these aren’t specialized to the two types of playstyles I mention in my post. I did this on purpose because there are a much larger amount of players who aren’t bow mains, and care less about that kind of thing. These two are the best generalized god rolls that are tailored to the perspective of the majority. Both loadouts, however, are something that even I as a bow main in the crucible would be interested in acquiring.
+
+> There are two versions of this bow that I would consider a god roll depending on two different play styles: one being `Aggressive`, and the other being more `Reserved`.
+* **(PvP) GuiltySpark's Aggro Slab 😡😡😡🌟 Collector's Edition (0.1% chance)**: Here's a breakdown of what we're going for:
+
+
+  * `Elastic String`: Sacrifices accuracy to increase draw speed,
+    meaning you can pull it back and fire it faster. Aka, lowers ttk
+    for the weapon by a small fraction. With this loadout we're not
+    too concerned about accuracy as engagements will be at closer
+    ranges.
+  * `Fiberglass Arrow Shaft`: Lowers stability, which is not
+    concerning for a bow, but increases accuracy considerably. This is
+    the best type of arrow any bow can have because there are no
+    noticeable drawbacks of having it.
+  * `Killing Wind`: Adds five tiers of movement speed to your guardian
+    when the trait is active, meaning you will feel much quicker and
+    lighter, allowing you to play more aggressively.
+  * `Unrelenting`: Rewards an aggressive playstyle by granting a small
+    amount of health on top of triggering health regeneration. In the
+    Crucible, every other guardian kill will trigger this trait.
+    Triggering this trait means you'll have less downtime between
+    engagements, and you'll have some room to perform interesting
+    plays in 1v2/3 or more scenarios.
+  * `Accuracy Masterwork`: This helps conteract the reduction in
+    accuracy that Elastic string has, making the bow feel a little
+    more reliable when shooting.
+  ```
+  Barrels [ 28%]: Elastic String
+  Mags    [ 33%]: Fiberglass Arrow Shaft
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Unrelenting
+  MWorks  [ 20%]: Accuracy MW
+  ```
+* **GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Bowstrings) (0.2% chance)**: Widening acceptable Bowstrings.
+  ```
+  Barrels [ 52%]: Elastic String, Polymer String
+  Mags    [ 33%]: Fiberglass Arrow Shaft
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Unrelenting
+  MWorks  [ 20%]: Accuracy MW
+  ```
+* **GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Arrows) (0.2% chance)**: Widening acceptable Arrows.
+  ```
+  Barrels [ 28%]: Elastic String
+  Mags    [ 60%]: Fiberglass Arrow Shaft, Straight Fletching
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Unrelenting
+  MWorks  [ 20%]: Accuracy MW
+  ```
+* **GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Masterwork) (0.2% chance)**: Widening acceptable Masterworks.
+  ```
+  Barrels [ 28%]: Elastic String
+  Mags    [ 33%]: Fiberglass Arrow Shaft
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Unrelenting
+  MWorks  [ 40%]: Accuracy MW, Draw Time MW
+  ```
+* **GuiltySpark's Aggro Slab 😡😡CE (Fully Relaxed) (0.7% chance)**: Widening both Bowstrings, Arrows and Masterworks.
+  ```
+  Barrels [ 52%]: Elastic String, Polymer String
+  Mags    [ 60%]: Fiberglass Arrow Shaft, Straight Fletching
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Unrelenting
+  MWorks  [ 40%]: Accuracy MW, Draw Time MW
+  ```
+* **GuiltySpark's Aggro Slab 😡(Baseline) (3.3% chance)**: These form the core value of the roll.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Unrelenting
+  MWorks  [ 60%]: Accuracy MW, Draw Time MW, Handling MW
+  ```
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐🌟 Collector's Edition (0.1% chance)**: Here's the ideal "reserved" playstyle loadout:
+
+  * `High Tension String`: We're going for max accuracy with this
+    loadout.
+  * `Fiberglass Arrow Shaft`: Again, the best arrow type for any bow.
+  * `Archer's Tempo`: High Tension gives an increase to draw speed,
+    tempo acts to negate its effects while still lowering the draw
+    time to a reasonable degree.
+  * `Opening Shot`: further increases accuracy and bullet magnetism to
+    the head, making the bow more reliable at longer distances. The
+    objective of this loadout is to max it's accuracy as high as it
+    can go, so that the player can use it at longer distances and not
+    feel forced to engage at closer ranges
+  * `Accuracy Masterwork`: Again, going for as high of an accuracy
+    stat as we can.
+  ```
+  Barrels [ 28%]: High Tension String
+  Mags    [ 33%]: Fiberglass Arrow Shaft
+  Perks 1 [ 16%]: Archer's Tempo
+  Perks 2 [ 33%]: Opening Shot
+  MWorks  [ 20%]: Accuracy MW
+  ```
+* **GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Bowstrings) (0.2% chance)**: Widening acceptable Bowstrings.
+  ```
+  Barrels [ 52%]: High Tension String, Polymer String
+  Mags    [ 33%]: Fiberglass Arrow Shaft
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Unrelenting
+  MWorks  [ 20%]: Accuracy MW
+  ```
+* **GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Arrows) (0.2% chance)**: Widening acceptable Arrows.
+  ```
+  Barrels [ 28%]: Elastic String
+  Mags    [ 60%]: Fiberglass Arrow Shaft, Straight Fletching
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Unrelenting
+  MWorks  [ 20%]: Accuracy MW
+  ```
+* **GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Masterwork) (0.2% chance)**: Widening acceptable Masterworks.
+  ```
+  Barrels [ 28%]: Elastic String
+  Mags    [ 33%]: Fiberglass Arrow Shaft
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Unrelenting
+  MWorks  [ 40%]: Accuracy MW, Draw Time MW
+  ```
+* **GuiltySpark's Reserved Slab 🧐🧐CE (Fully Relaxed) (0.7% chance)**: Widening both Bowstrings, Arrows and Masterworks.
+  ```
+  Barrels [ 52%]: Elastic String, Polymer String
+  Mags    [ 60%]: Fiberglass Arrow Shaft, Straight Fletching
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Unrelenting
+  MWorks  [ 40%]: Accuracy MW, Draw Time MW
+  ```
+* **GuiltySpark's Reserved Slab 🧐🧐(Baseline) (5.6% chance)**: These form the core value of the roll.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 33%]: Unrelenting
   MWorks  [100%]: *
   ```
 ## Black Scorpion-4sr - PvP
