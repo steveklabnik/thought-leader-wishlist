@@ -89,25 +89,25 @@ groups:
         masterworks: [Accuracy MW]
       -
         <<: *wsaggro
-        name: GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Bowstrings)
+        name: (PvP) GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Bowstrings)
         desc: >
           Widening acceptable Bowstrings.
         barrels: [Elastic String, Polymer String]
       -
         <<: *wsaggro
-        name: GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Arrows)
+        name: (PvP) GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Arrows)
         desc: >
           Widening acceptable Arrows.
         magazines: [Fiberglass Arrow Shaft, Straight Fletching]
       -
         <<: *wsaggro
-        name: GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Masterwork)
+        name: (PvP) GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Masterwork)
         desc: >
           Widening acceptable Masterworks.
         masterworks: [Accuracy MW, Draw Time MW]
       -
         <<: *wsaggro
-        name: GuiltySpark's Aggro Slab 😡😡CE (Fully Relaxed)
+        name: (PvP) GuiltySpark's Aggro Slab 😡😡CE (Fully Relaxed)
         desc: >
           Widening both Bowstrings, Arrows and Masterworks.
         barrels: [Elastic String, Polymer String]
@@ -115,7 +115,7 @@ groups:
         masterworks: [Accuracy MW, Draw Time MW]
       -
         <<: *wsaggro
-        name: GuiltySpark's Aggro Slab 😡(Baseline)
+        name: (PvP) GuiltySpark's Aggro Slab 😡(Baseline)
         desc: >
           These form the core value of the roll.
         barrels: []
@@ -146,25 +146,25 @@ groups:
         masterworks: [Accuracy MW]
       -
         <<: *wsaggro
-        name: GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Bowstrings)
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Bowstrings)
         desc: >
           Widening acceptable Bowstrings.
         barrels: [High Tension String, Polymer String]
       -
         <<: *wsaggro
-        name: GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Arrows)
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Arrows)
         desc: >
           Widening acceptable Arrows.
         magazines: [Fiberglass Arrow Shaft, Straight Fletching]
       -
         <<: *wsaggro
-        name: GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Masterwork)
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Masterwork)
         desc: >
           Widening acceptable Masterworks.
         masterworks: [Accuracy MW, Draw Time MW]
       -
         <<: *wsaggro
-        name: GuiltySpark's Reserved Slab 🧐🧐CE (Fully Relaxed)
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐CE (Fully Relaxed)
         desc: >
           Widening both Bowstrings, Arrows and Masterworks.
         barrels: [Elastic String, Polymer String]
@@ -172,7 +172,7 @@ groups:
         masterworks: [Accuracy MW, Draw Time MW]
       -
         <<: *wsaggro
-        name: GuiltySpark's Reserved Slab 🧐🧐(Baseline)
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐(Baseline)
         desc: >
           These form the core value of the roll.
         barrels: []
