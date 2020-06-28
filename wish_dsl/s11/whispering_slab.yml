@@ -172,7 +172,7 @@ groups:
         masterworks: [Accuracy MW, Draw Time MW]
       -
         <<: *wsaggro
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐(Baseline)
+        name: (PvP) GuiltySpark's Reserved Slab 🧐(Baseline)
         desc: >
           These form the core value of the roll.
         barrels: []
