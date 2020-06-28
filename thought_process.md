@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-06-28 22:14:11 +00:00`.
+* It was generated `2020-06-28 22:28:50 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -798,7 +798,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 20%]: Accuracy MW
   ```
-* **GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Bowstrings) (0.2% chance)**: Widening acceptable Bowstrings.
+* **(PvP) GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Bowstrings) (0.2% chance)**: Widening acceptable Bowstrings.
   ```
   Barrels [ 52%]: Elastic String, Polymer String
   Mags    [ 33%]: Fiberglass Arrow Shaft
@@ -806,7 +806,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 20%]: Accuracy MW
   ```
-* **GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Arrows) (0.2% chance)**: Widening acceptable Arrows.
+* **(PvP) GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Arrows) (0.2% chance)**: Widening acceptable Arrows.
   ```
   Barrels [ 28%]: Elastic String
   Mags    [ 60%]: Fiberglass Arrow Shaft, Straight Fletching
@@ -814,7 +814,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 20%]: Accuracy MW
   ```
-* **GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Masterwork) (0.2% chance)**: Widening acceptable Masterworks.
+* **(PvP) GuiltySpark's Aggro Slab 😡😡😡CE (Relaxed Masterwork) (0.2% chance)**: Widening acceptable Masterworks.
   ```
   Barrels [ 28%]: Elastic String
   Mags    [ 33%]: Fiberglass Arrow Shaft
@@ -822,7 +822,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 40%]: Accuracy MW, Draw Time MW
   ```
-* **GuiltySpark's Aggro Slab 😡😡CE (Fully Relaxed) (0.7% chance)**: Widening both Bowstrings, Arrows and Masterworks.
+* **(PvP) GuiltySpark's Aggro Slab 😡😡CE (Fully Relaxed) (0.7% chance)**: Widening both Bowstrings, Arrows and Masterworks.
   ```
   Barrels [ 52%]: Elastic String, Polymer String
   Mags    [ 60%]: Fiberglass Arrow Shaft, Straight Fletching
@@ -830,7 +830,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 40%]: Accuracy MW, Draw Time MW
   ```
-* **GuiltySpark's Aggro Slab 😡(Baseline) (3.3% chance)**: These form the core value of the roll.
+* **(PvP) GuiltySpark's Aggro Slab 😡(Baseline) (3.3% chance)**: These form the core value of the roll.
   ```
   Barrels [100%]: *
   Mags    [100%]: *
@@ -860,7 +860,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Opening Shot
   MWorks  [ 20%]: Accuracy MW
   ```
-* **GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Bowstrings) (0.2% chance)**: Widening acceptable Bowstrings.
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Bowstrings) (0.2% chance)**: Widening acceptable Bowstrings.
   ```
   Barrels [ 52%]: High Tension String, Polymer String
   Mags    [ 33%]: Fiberglass Arrow Shaft
@@ -868,7 +868,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 20%]: Accuracy MW
   ```
-* **GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Arrows) (0.2% chance)**: Widening acceptable Arrows.
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Arrows) (0.2% chance)**: Widening acceptable Arrows.
   ```
   Barrels [ 28%]: Elastic String
   Mags    [ 60%]: Fiberglass Arrow Shaft, Straight Fletching
@@ -876,7 +876,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 20%]: Accuracy MW
   ```
-* **GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Masterwork) (0.2% chance)**: Widening acceptable Masterworks.
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐CE (Relaxed Masterwork) (0.2% chance)**: Widening acceptable Masterworks.
   ```
   Barrels [ 28%]: Elastic String
   Mags    [ 33%]: Fiberglass Arrow Shaft
@@ -884,7 +884,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 40%]: Accuracy MW, Draw Time MW
   ```
-* **GuiltySpark's Reserved Slab 🧐🧐CE (Fully Relaxed) (0.7% chance)**: Widening both Bowstrings, Arrows and Masterworks.
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐CE (Fully Relaxed) (0.7% chance)**: Widening both Bowstrings, Arrows and Masterworks.
   ```
   Barrels [ 52%]: Elastic String, Polymer String
   Mags    [ 60%]: Fiberglass Arrow Shaft, Straight Fletching
@@ -892,7 +892,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 40%]: Accuracy MW, Draw Time MW
   ```
-* **GuiltySpark's Reserved Slab 🧐🧐(Baseline) (5.6% chance)**: These form the core value of the roll.
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐(Baseline) (5.6% chance)**: These form the core value of the roll.
   ```
   Barrels [100%]: *
   Mags    [100%]: *
