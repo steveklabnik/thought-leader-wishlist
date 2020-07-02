@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-06-28 22:42:24 +00:00`.
+* It was generated `2020-07-02 14:15:36 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -17,6 +17,9 @@ I go back and fill in world drops.
 * Hollow Words ([PvP](#hollow-words---pvp))
 * Temptation's Hook ([PvE](#temptations-hook---pve))
 * Whispering Slab ([PvP](#whispering-slab---pvp))
+
+**Iron Banner**
+* Bite of the Fox ([PvP](#bite-of-the-fox---pvp))
 
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
@@ -895,6 +898,97 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Mags    [100%]: *
   Perks 1 [ 16%]: Archer's Tempo
   Perks 2 [ 33%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+## Bite of the Fox - PvP
+*For all possible perks, check out **Bite of the Fox** over on [light.gg](https://www.light.gg/db/items/3169616514/bite-of-the-fox/)*
+
+
+Bite of the Fox is a Kinetic-slot, Aggressive Frame sniper. It's been in the Iron Banner loot pool since Season 4 and has been re-issued in Season 11. This means if you *had* a BOTF, it will hit the level cap this season, so you'll want to get a new roll to take you past Season 11.
+
+Aggressive Frame snipers are the only ones that can one-shot every super in the Crucible. Every super has a different damage-resistance tier that affects your ability to do that however Aggressive Frames do not care about such things.
+
+The perk pool is unchanged in the re-issue, so we have a pretty simple set of rolls we're chasing.
+
+With respect to PvE below, there's no Triple- Tap, Fourth Time's the Charm, Vorpal, etc. so I'd suggest you use something else in PvE in the Kinetic slot. If you absolutely had to have one, maybe [`Firmly Planted` + `Field Prep`]?
+* **(PvP) "Dragger's Delight" 🛫🛫🛫🌟 Collector's Edition (0.3% chance)**: If you like to drag snipe  [like I do](https://twitter.com/CrucibleFootage/status/1266915926240227330) then this `Moving Target` roll is going to be for you. We're looking for as much `Range` and `Handling` as we can get. What a lot of people don't notice about the `Moving Target` perk description is that its benefits are conferred occur only **while moving**. We take this for granted in PvP ("of course I'm not going to be standing still") but  depending on your sniper playstyle, you might or might not be.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **(PvP) "Dragger's Delight" 🛫🛫🛫 CE (- Magazines) (1.4% chance)**: Same as the CE, minus Magazines.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **(PvP) "Dragger's Delight" 🛫🛫🛫 CE (- Masterworks) (0.7% chance)**: Same as the CE, minus Masterworks.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Dragger's Delight" 🛫🛫 CE (- Magazines - Masterworks) (2.8% chance)**: Same as the CE, minus Magazines and Masterworks.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Dragger's Delight" 🛫 (Baseline) (3.3% chance)**: These two perks form the core of the roll.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [100%]: *
+  ```
+* **(PvP) "The Opener" 🚪🚪🚪🌟 Collector's Edition (0.3% chance)**: Same as the set of rolls we have above, but focused around `Opening Shot` instead of `Moving Target`.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **(PvP) "The Opener" 🚪🚪🚪 CE (- Magazines) (1.4% chance)**: Same as the CE, minus Magazines.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **(PvP) "The Opener" 🚪🚪🚪 CE (- Masterworks) (0.7% chance)**: Same as the CE, minus Masterworks.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "The Opener" 🚪🚪 CE (- Magazines - Masterworks) (2.8% chance)**: Same as the CE, minus Magazines and Masterworks.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "The Opener" 🚪 🛫 (Baseline) (3.3% chance)**: These two perks form the core of the roll.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Opening Shot
   MWorks  [100%]: *
   ```
 ## Black Scorpion-4sr - PvP
