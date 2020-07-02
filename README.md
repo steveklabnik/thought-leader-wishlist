@@ -34,10 +34,12 @@ If I come across interesting content with respect to how the sandbox basics func
 ## Core Mechanics
 
 * [Accuracy, Aim Assist & Range Explained In-Depth](https://www.[YouTube]().com/watch?v=qrJv7mj7Ab4) - [Drewsky](https://www.[YouTube]().com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-02-15
+* [Moving Target Doesn't Work Like You Think](https://www.youtube.com/watch?v=AcpJWC039m8) - [Drewsky](https://www.[YouTube]().com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-05-20
+* [Every Accuracy Perk in Destiny 2 Explained](https://www.youtube.com/watch?v=wGckn3PPAnw) - [Drewsky](https://www.[YouTube]().com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-05-08
 * [Stability Explained! (In-Depth Guide)](https://www.[YouTube]().com/watch?v=a7BUhYnhGz0) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2020-02-14
+* [Mobility, Resilience, Recovery & Ability Stats Guide](https://www.youtube.com/watch?v=7sq_GmbXins) - [Drewsky](https://www.[YouTube]().com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-01-20
 * [Does Quickdraw Max Handling? How Does Slideshot Work?](https://www.[YouTube]().com/watch?v=SE_RXbc7RZ4) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2020-01-09
 * [Barrel Length MATTERS!](https://www.[YouTube]().com/watch?v=Ef-I7zPirRU) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-07-26
-* [Mobility, Resilience, Recovery & Ability Stats Guide](https://www.youtube.com/watch?v=7sq_GmbXins) - [Drewsky](https://www.[YouTube]().com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-01-20
 
 ## Weapon Mods
 
