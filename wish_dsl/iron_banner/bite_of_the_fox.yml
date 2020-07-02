@@ -32,81 +32,152 @@ groups:
       something else in PvE in the Kinetic slot. If you absolutely had to have
       one, maybe [`Firmly Planted` + `Field Prep`]?
     rolls:
-      - &bfdrag
-        name: (PvP) "Dragger's Delight" 🛫🛫🛫🌟 Collector's Edition
+      - &bfsnappy
+        name: (PvP) "Snappy Opener" 🤞🤞🤞🌟 Collector's Edition
         desc: >
-          If you like to drag snipe 
-          [like I do](https://twitter.com/CrucibleFootage/status/1266915926240227330)
-          then this `Moving Target` roll is going to be for you. We're looking
-          for as much `Range` and `Handling` as we can get. What a lot of people
-          don't notice about the `Moving Target` perk description is that its
-          benefits are conferred occur only **while moving**. We take this for
-          granted in PvP ("of course I'm not going to be standing still") but 
-          depending on your sniper playstyle, you might or might not be.
-        barrels: [Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
-        magazines: [Accurized Rounds]
-        perks1: [Snapshot]
-        perks2: [Moving Target]
-        masterworks: [Range MW, Handling MW]
-      - 
-        <<: *bfdrag
-        name: (PvP) "Dragger's Delight" 🛫🛫🛫 CE (- Magazines)
-        desc: >
-          Same as the CE, minus Magazines.
-        magazines: []
-      - 
-        <<: *bfdrag
-        name: (PvP) "Dragger's Delight" 🛫🛫🛫 CE (- Masterworks)
-        desc: >
-          Same as the CE, minus Masterworks.
-        masterworks: []
-      - 
-        <<: *bfdrag
-        name: (PvP) "Dragger's Delight" 🛫🛫 CE (- Magazines - Masterworks)
-        desc: >
-          Same as the CE, minus Magazines and Masterworks.
-        magazines: []
-        masterworks: []
-      - 
-        <<: *bfdrag
-        name: (PvP) "Dragger's Delight" 🛫 (Baseline)
-        desc: >
-          These two perks form the core of the roll.
-        barrels: []
-        magazines: []
-        masterworks: []
-      - &bfopener
-        name: (PvP) "The Opener" 🚪🚪🚪🌟 Collector's Edition
-        desc: >
-          Same as the set of rolls we have above, but focused around `Opening
-          Shot` instead of `Moving Target`.
+          This series of rolls is based around Snapshot and Accuracy-increasing
+          final-column perks. After that, we're looking for as much `Range` and
+          `Handling` as we can get.
         barrels: [Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
         magazines: [Accurized Rounds]
         perks1: [Snapshot]
         perks2: [Opening Shot]
         masterworks: [Range MW, Handling MW]
       - 
-        <<: *bfopener
-        name: (PvP) "The Opener" 🚪🚪🚪 CE (- Magazines)
-        desc: >
-          Same as the CE, minus Magazines.
-        magazines: []
-      - 
-        <<: *bfopener
-        name: (PvP) "The Opener" 🚪🚪🚪 CE (- Masterworks)
+        <<: *bfsnappy
+        name: (PvP) "Snappy Opener" 🤞🤞🤞 CE (- Masterworks)
         desc: >
           Same as the CE, minus Masterworks.
         masterworks: []
       - 
-        <<: *bfopener
-        name: (PvP) "The Opener" 🚪🚪 CE (- Magazines - Masterworks)
+        <<: *bfsnappy
+        name: (PvP) "Snappy  Opener" 🤞🤞🤞 CE (- Magazines)
+        desc: >
+          Same as the CE, minus Magazines.
+        magazines: []
+      - 
+        <<: *bfsnappy
+        name: (PvP) "Snappy  Opener" 🤞🤞 CE (- Magazines - Masterworks)
         desc: >
           Same as the CE, minus Magazines and Masterworks.
         magazines: []
         masterworks: []
       - 
-        <<: *bfopener
-        name: (PvP) "The Opener" 🚪 🛫 (Baseline)
+        <<: *bfsnappy
+        name: (PvP) "Snappy  Opener" 🤞 (Baseline)
+        desc: >
+          These two perks form the core of the roll.
+        barrels: []
+        magazines: []
+        masterworks: []
+      - &bfmover
+        name: (PvP) "Mobile Opener" 🏃‍♂️🏃‍♂️🏃‍♂️🌟 Collector's Edition
+        desc: >
+          Same as the above set of rolls, but with `Moving Target` instead of
+          `Opening Shot`.
+        barrels: [Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+        magazines: [Accurized Rounds]
+        perks1: [Snapshot]
+        perks2: [Moving Target]
+        masterworks: [Range MW, Handling MW]
+      - 
+        <<: *bfmover
+        name: (PvP) "Mobile Opener" 🏃‍♂️🏃‍♂️🏃‍♂️ CE (- Masterworks)
+        desc: >
+          Same as the CE, minus Masterworks.
+        masterworks: []
+      - 
+        <<: *bfmover
+        name: (PvP) "Mobile Opener" 🏃‍♂️🏃‍♂️🏃‍♂️ CE (- Magazines)
+        desc: >
+          Same as the CE, minus Magazines.
+        magazines: []
+      - 
+        <<: *bfmover
+        name: (PvP) "Mobile Opener" 🏃‍♂️🏃‍♂️ CE (- Magazines - Masterworks)
+        desc: >
+          Same as the CE, minus Magazines and Masterworks.
+        magazines: []
+        masterworks: []
+      - 
+        <<: *bfmover
+        name: (PvP) "Mobile Opener" 🏃‍♂️ (Baseline)
+        desc: >
+          These two perks form the core of the roll.
+        barrels: []
+        magazines: []
+        masterworks: []        
+      - &bfplanted
+        name: (PvP) Drewsky's "Planted Opener" 🌱🌱🌱🌟 Collector's Edition
+        desc: >
+          As suggested by Drewsky in his
+          [Bite of the Fox Has a Unique "God Roll" to Farm For](https://www.youtube.com/watch?v=3GLfGLa-oYg)
+          video, here's a similar set of rolls based on `Firmly Planted`.
+        barrels: [Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+        magazines: [Accurized Rounds]
+        perks1: [Firmly Planted]
+        perks2: [Opening Shot]
+        masterworks: [Range MW, Handling MW]
+      - 
+        <<: *bfplanted
+        name: (PvP) Drewsky's "Planted Opener" 🌱🌱🌱 CE (- Masterworks)
+        desc: >
+          Same as the CE, minus Masterworks.
+        masterworks: []
+      - 
+        <<: *bfplanted
+        name: (PvP) Drewsky's "Planted Opener" 🌱🌱🌱 CE (- Magazines)
+        desc: >
+          Same as the CE, minus Magazines.
+        magazines: []
+      - 
+        <<: *bfplanted
+        name: (PvP) Drewsky's "Planted Opener" 🌱🌱 CE (- Magazines - Masterworks)
+        desc: >
+          Same as the CE, minus Magazines and Masterworks.
+        magazines: []
+        masterworks: []
+      - 
+        <<: *bfplanted
+        name: (PvP) Drewsky's "Planted Opener" 🌱 (Baseline)
+        desc: >
+          These two perks form the core of the roll.
+        barrels: []
+        magazines: []
+        masterworks: []
+      - &bfdiss
+        name: (PvP) "Planted Dissonance" 🤔🤔🤔🌟 Collector's Edition
+        desc: >
+          Similar to the above set of `Firmly Planted`-based rolls, but this
+          time with `Moving Target` in the final slot. Oddly, you get the
+          `Accuracy` benefit of `Moving Target` without actually moving.
+        barrels: [Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+        magazines: [Accurized Rounds]
+        perks1: [Firmly Planted]
+        perks2: [Moving Target]
+        masterworks: [Range MW, Handling MW]
+      - 
+        <<: *bfdiss
+        name: (PvP) "Planted Dissonance" 🤔🤔🤔 CE (- Masterworks)
+        desc: >
+          Same as the CE, minus Masterworks.
+        masterworks: []
+      - 
+        <<: *bfdiss
+        name: (PvP) "Planted Dissonance" 🤔🤔🤔 CE (- Magazines)
+        desc: >
+          Same as the CE, minus Magazines.
+        magazines: []
+      - 
+        <<: *bfdiss
+        name: (PvP) "Planted Dissonance" 🤔🤔 CE (- Magazines - Masterworks)
+        desc: >
+          Same as the CE, minus Magazines and Masterworks.
+        magazines: []
+        masterworks: []
+      - 
+        <<: *bfdiss
+        name: (PvP) "Planted Dissonance" 🤔 (Baseline)
         desc: >
           These two perks form the core of the roll.
         barrels: []
