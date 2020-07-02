@@ -33,19 +33,19 @@ If I come across interesting content with respect to how the sandbox basics func
 
 ## Core Mechanics
 
-* [Accuracy, Aim Assist & Range Explained In-Depth](https://www.[YouTube]().com/watch?v=qrJv7mj7Ab4) - [Drewsky](https://www.[YouTube]().com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-02-15
-* [Moving Target Doesn't Work Like You Think](https://www.youtube.com/watch?v=AcpJWC039m8) - [Drewsky](https://www.[YouTube]().com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-05-20
-* [Every Accuracy Perk in Destiny 2 Explained](https://www.youtube.com/watch?v=wGckn3PPAnw) - [Drewsky](https://www.[YouTube]().com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-05-08
-* [Stability Explained! (In-Depth Guide)](https://www.[YouTube]().com/watch?v=a7BUhYnhGz0) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2020-02-14
-* [Mobility, Resilience, Recovery & Ability Stats Guide](https://www.youtube.com/watch?v=7sq_GmbXins) - [Drewsky](https://www.[YouTube]().com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-01-20
-* [Does Quickdraw Max Handling? How Does Slideshot Work?](https://www.[YouTube]().com/watch?v=SE_RXbc7RZ4) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2020-01-09
-* [Barrel Length MATTERS!](https://www.[YouTube]().com/watch?v=Ef-I7zPirRU) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-07-26
+* [Accuracy, Aim Assist & Range Explained In-Depth](https://www.youtube.com/watch?v=qrJv7mj7Ab4) - [Drewsky](https://www.youtube.com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-02-15
+* [Moving Target Doesn't Work Like You Think](https://www.youtube.com/watch?v=AcpJWC039m8) - [Drewsky](https://www.youtube.com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-05-20
+* [Every Accuracy Perk in Destiny 2 Explained](https://www.youtube.com/watch?v=wGckn3PPAnw) - [Drewsky](https://www.youtube.com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-05-08
+* [Stability Explained! (In-Depth Guide)](https://www.youtube.com/watch?v=a7BUhYnhGz0) - [Fallout Plays](https://www.youtube.com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2020-02-14
+* [Mobility, Resilience, Recovery & Ability Stats Guide](https://www.youtube.com/watch?v=7sq_GmbXins) - [Drewsky](https://www.youtube.com/channel/UCJ5xzA0BTJjxEk4h0Q1IoLg), 2020-01-20
+* [Does Quickdraw Max Handling? How Does Slideshot Work?](https://www.youtube.com/watch?v=SE_RXbc7RZ4) - [Fallout Plays](https://www.youtube.com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2020-01-09
+* [Barrel Length MATTERS!](https://www.youtube.com/watch?v=Ef-I7zPirRU) - [Fallout Plays](https://www.youtube.com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-07-26
 
 ## Weapon Mods
 
-* [What Does ICARUS GRIP Do?](https://www.[YouTube]().com/watch?v=odxL4uN4jp4) -  [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-08-19
-* [What Does TARGETING ADJUSTER Do?](https://www.[YouTube]().com/watch?v=kCzVK0am6sM) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-08-06
-* [What Does COUNTERBALANCE Do? Recoil Direction EXPLAINED!](https://www.[YouTube]().com/watch?v=xts9utLbYiQ) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-07-16
+* [What Does ICARUS GRIP Do?](https://www.youtube.com/watch?v=odxL4uN4jp4) -  [Fallout Plays](https://www.youtube.com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-08-19
+* [What Does TARGETING ADJUSTER Do?](https://www.youtube.com/watch?v=kCzVK0am6sM) - [Fallout Plays](https://www.youtube.com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-08-06
+* [What Does COUNTERBALANCE Do? Recoil Direction EXPLAINED!](https://www.youtube.com/watch?v=xts9utLbYiQ) - [Fallout Plays](https://www.youtube.com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-07-16
 
 ## Weapon Focus: Hand Cannons
 
@@ -70,15 +70,15 @@ If I come across interesting content with respect to how the sandbox basics func
 ## Weapon Focus: Shotguns
 This will have its own section both because of how popular they are, how confusing they are and how much misconception/misinformation there is floating around. Notice the timestamps on these videos. I'll do my best to call out when information changes over time.
 
-  * [Rifled Barrel vs Full Choke, Which is Better?](https://www.[YouTube]().com/watch?v=NbH45R4LBYY) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-09-19
+  * [Rifled Barrel vs Full Choke, Which is Better?](https://www.youtube.com/watch?v=NbH45R4LBYY) - [Fallout Plays](https://www.youtube.com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-09-19
     * Tested both barrels on all four shotgun archetypes because there was a common misconception that barrels perform differently on different archetypes (they do not).
     * "I wouldn't say there's a clear cut winner but I would say that `Full Choke` seems *more likely* to get a better pellet spread. It's possible to use `Rifled Barrel` and get a better pellet spread than Full Choke, by chance. ... The winner by a hair is `Full Choke`."
     * "Both barrels are great. If you're chasing a God Roll Dust Rock with an almost perfect roll and `Rifled Barrel`, you should feel great about that."
     * "Want a good OHK PvP Shotgun? You want: (1) high impact (2) `Full Choke` (`Rifled Barrel` also fine) (3) the highest possible range for that archetype (4) A long barrel."
-  * [Range Does Nothing? (on Shotguns)](https://www.[YouTube]().com/watch?v=AmONoAaw95I) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-07-22
+  * [Range Does Nothing? (on Shotguns)](https://www.youtube.com/watch?v=AmONoAaw95I) - [Fallout Plays](https://www.youtube.com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-07-22
     * Tested two high-impact shotguns with different ranges and a third with lower impact and higher range and "The higher-ranged shotguns were able to more consistently deal more damage."
     * "It's not that range doesn't matter, it's that it doesn't matter as much as a high impact stat or a good pellet spread. It's not a make or break stat. If you have a shotgun with gigantic impact, you should feel good about it even if it doesn't have max range for its category. It can still get the job done for sure, barring a little bit of RNG here and there. I will continue continue to reccomend Range Masterworks on most shotguns in my God Roll videos not because it's wildly amazing, just because it's kinda the best option out of everything on the table."
-  * [Shotgun OHK Range Nerf, Before & After](https://www.[YouTube]().com/watch?v=GygQj90cTRY) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-03-07
+  * [Shotgun OHK Range Nerf, Before & After](https://www.youtube.com/watch?v=GygQj90cTRY) - [Fallout Plays](https://www.youtube.com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2019-03-07
     * In Season of the Drifter (March 2019) there were [several material changes to shotguns](https://www.bungie.net/en/News/Article/47638).
       * *Full Auto rate-of-fire bonus for Shotguns is now +10%, down from +100%.*
       * *In addition, it no longer increases the Shotgun pellet spread.*
@@ -101,7 +101,7 @@ This will have its own section both because of how popular they are, how confusi
       * "Losing precision damage with `Full Choke` from close to medium range hardly matters. Precision pellet damage is minor (Slif: 24 versus 26 in the screenshot he showed), and more often than not your goal is to just hit as many pellets as you can, anywhere on the target that you can."
       * "The extra damage is nothing compared to how many more pellets you'll hit with with `Full Choke` on average."
     * "Aggressive Frame shotguns benefit way more from `Full Choke` due to their naturally low range. Precision Frame shotguns that already have very high range (and I mean very high, like a God Roll Dust Rock Blues or Retold Tale) may not need `Full Choke` after a certain point. Don't quote me on that though; more research is needed."
-  * [Destiny 2: Every Shotgun OHK Range, Ever (Updated Shotgun Testing)](https://www.[YouTube]().com/watch?v=kZBtbrUsXD4) - [Fallout Plays](https://www.[YouTube]().com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2018-06-06
+  * [Destiny 2: Every Shotgun OHK Range, Ever (Updated Shotgun Testing)](https://www.youtube.com/watch?v=kZBtbrUsXD4) - [Fallout Plays](https://www.youtube.com/channel/UCMlqYSFcNTrxDQO_T9GCsjg), 2018-06-06
     * Holy Trinity: Impact > Pellet Spread >>>>> Range
     * "It's not that Range does nothing, it's just at the bottom of the totem pole. Impact is king; it always trumps Range."
 
