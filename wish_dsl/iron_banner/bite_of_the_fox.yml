@@ -1,0 +1,114 @@
+name: Bite of the Fox
+item_id: 3169616514
+lightgg: https://www.light.gg/db/items/3169616514/bite-of-the-fox/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: PvP
+    summary: >
+      Bite of the Fox is a Kinetic-slot, Aggressive Frame sniper. It's been in
+      the Iron Banner loot pool since Season 4 and has been re-issued in Season
+      11. This means if you *had* a BOTF, it will hit the level cap this season,
+      so you'll want to get a new roll to take you past Season 11.
+
+
+      Aggressive Frame snipers are the only ones that can one-shot every super
+      in the Crucible. Every super has a different damage-resistance tier that
+      affects your ability to do that however Aggressive Frames do not care
+      about such things.
+
+
+      The perk pool is unchanged in the re-issue, so we have a pretty simple
+      set of rolls we're chasing.
+      
+      
+      With respect to PvE below, there's no Triple-
+      Tap, Fourth Time's the Charm, Vorpal, etc. so I'd suggest you use
+      something else in PvE in the Kinetic slot. If you absolutely had to have
+      one, maybe [`Firmly Planted` + `Field Prep`]?
+    rolls:
+      - &bfdrag
+        name: (PvP) "Dragger's Delight" 🛫🛫🛫🌟 Collector's Edition
+        desc: >
+          If you like to drag snipe 
+          [like I do](https://twitter.com/CrucibleFootage/status/1266915926240227330)
+          then this `Moving Target` roll is going to be for you. We're looking
+          for as much `Range` and `Handling` as we can get. What a lot of people
+          don't notice about the `Moving Target` perk description is that its
+          benefits are conferred occur only **while moving**. We take this for
+          granted in PvP ("of course I'm not going to be standing still") but 
+          depending on your sniper playstyle, you might or might not be.
+        barrels: [Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+        magazines: [Accurized Rounds]
+        perks1: [Snapshot]
+        perks2: [Moving Target]
+        masterworks: [Range MW, Handling MW]
+      - 
+        <<: *bfdrag
+        name: (PvP) "Dragger's Delight" 🛫🛫🛫 CE (- Magazines)
+        desc: >
+          Same as the CE, minus Magazines.
+        magazines: []
+      - 
+        <<: *bfdrag
+        name: (PvP) "Dragger's Delight" 🛫🛫🛫 CE (- Masterworks)
+        desc: >
+          Same as the CE, minus Masterworks.
+        masterworks: []
+      - 
+        <<: *bfdrag
+        name: (PvP) "Dragger's Delight" 🛫🛫 CE (- Magazines - Masterworks)
+        desc: >
+          Same as the CE, minus Magazines and Masterworks.
+        magazines: []
+        masterworks: []
+      - 
+        <<: *bfdrag
+        name: (PvP) "Dragger's Delight" 🛫 (Baseline)
+        desc: >
+          These two perks form the core of the roll.
+        barrels: []
+        magazines: []
+        masterworks: []
+      - &bfopener
+        name: (PvP) "The Opener" 🚪🚪🚪🌟 Collector's Edition
+        desc: >
+          Same as the set of rolls we have above, but focused around `Opening
+          Shot` instead of `Moving Target`.
+        barrels: [Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+        magazines: [Accurized Rounds]
+        perks1: [Snapshot]
+        perks2: [Opening Shot]
+        masterworks: [Range MW, Handling MW]
+      - 
+        <<: *bfopener
+        name: (PvP) "The Opener" 🚪🚪🚪 CE (- Magazines)
+        desc: >
+          Same as the CE, minus Magazines.
+        magazines: []
+      - 
+        <<: *bfopener
+        name: (PvP) "The Opener" 🚪🚪🚪 CE (- Masterworks)
+        desc: >
+          Same as the CE, minus Masterworks.
+        masterworks: []
+      - 
+        <<: *bfopener
+        name: (PvP) "The Opener" 🚪🚪 CE (- Magazines - Masterworks)
+        desc: >
+          Same as the CE, minus Magazines and Masterworks.
+        magazines: []
+        masterworks: []
+      - 
+        <<: *bfopener
+        name: (PvP) "The Opener" 🚪 🛫 (Baseline)
+        desc: >
+          These two perks form the core of the roll.
+        barrels: []
+        magazines: []
+        masterworks: []
