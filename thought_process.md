@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-02 15:24:03 +00:00`.
+* It was generated `2020-07-02 23:08:46 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -20,6 +20,7 @@ I go back and fill in world drops.
 
 **Iron Banner**
 * Bite of the Fox ([PvP](#bite-of-the-fox---pvp))
+* Crimil's Dagger ([PvP](#crimils-dagger---pvp), [PvE](#crimils-dagger---pve))
 
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
@@ -911,7 +912,47 @@ Aggressive Frame snipers are the only ones that can one-shot every super in the 
 The perk pool is unchanged in the re-issue, so we have a pretty simple set of rolls we're chasing.
 
 With respect to PvE below, there's no Triple- Tap, Fourth Time's the Charm, Vorpal, etc. so I'd suggest you use something else in PvE in the Kinetic slot. If you absolutely had to have one, maybe [`Firmly Planted` + `Field Prep`]?
-* **(PvP) "Dragger's Delight" 🛫🛫🛫🌟 Collector's Edition (0.3% chance)**: If you like to drag snipe  [like I do](https://twitter.com/CrucibleFootage/status/1266915926240227330) then this `Moving Target` roll is going to be for you. We're looking for as much `Range` and `Handling` as we can get. What a lot of people don't notice about the `Moving Target` perk description is that its benefits are conferred occur only **while moving**. We take this for granted in PvP ("of course I'm not going to be standing still") but  depending on your sniper playstyle, you might or might not be.
+* **(PvP) "Snappy Opener" 🤞🤞🤞🌟 Collector's Edition (0.3% chance)**: This series of rolls is based around Snapshot and Accuracy-increasing final-column perks. After that, we're looking for as much `Range` and `Handling` as we can get.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **(PvP) "Snappy Opener" 🤞🤞🤞 CE (- Masterworks) (0.7% chance)**: Same as the CE, minus Masterworks.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Snappy  Opener" 🤞🤞🤞 CE (- Magazines) (1.4% chance)**: Same as the CE, minus Magazines.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **(PvP) "Snappy  Opener" 🤞🤞 CE (- Magazines - Masterworks) (2.8% chance)**: Same as the CE, minus Magazines and Masterworks.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Snappy  Opener" 🤞 (Baseline) (3.3% chance)**: These two perks form the core of the roll.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Mobile Opener" 🏃‍♂️🏃‍♂️🏃‍♂️🌟 Collector's Edition (0.3% chance)**: Same as the above set of rolls, but with `Moving Target` instead of `Opening Shot`.
   ```
   Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 25%]: Accurized Rounds
@@ -919,15 +960,7 @@ With respect to PvE below, there's no Triple- Tap, Fourth Time's the Charm, Vorp
   Perks 2 [ 16%]: Moving Target
   MWorks  [ 50%]: Range MW, Handling MW
   ```
-* **(PvP) "Dragger's Delight" 🛫🛫🛫 CE (- Magazines) (1.4% chance)**: Same as the CE, minus Magazines.
-  ```
-  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Snapshot
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [ 50%]: Range MW, Handling MW
-  ```
-* **(PvP) "Dragger's Delight" 🛫🛫🛫 CE (- Masterworks) (0.7% chance)**: Same as the CE, minus Masterworks.
+* **(PvP) "Mobile Opener" 🏃‍♂️🏃‍♂️🏃‍♂️ CE (- Masterworks) (0.7% chance)**: Same as the CE, minus Masterworks.
   ```
   Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 25%]: Accurized Rounds
@@ -935,7 +968,15 @@ With respect to PvE below, there's no Triple- Tap, Fourth Time's the Charm, Vorp
   Perks 2 [ 16%]: Moving Target
   MWorks  [100%]: *
   ```
-* **(PvP) "Dragger's Delight" 🛫🛫 CE (- Magazines - Masterworks) (2.8% chance)**: Same as the CE, minus Magazines and Masterworks.
+* **(PvP) "Mobile Opener" 🏃‍♂️🏃‍♂️🏃‍♂️ CE (- Magazines) (1.4% chance)**: Same as the CE, minus Magazines.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **(PvP) "Mobile Opener" 🏃‍♂️🏃‍♂️ CE (- Magazines - Masterworks) (2.8% chance)**: Same as the CE, minus Magazines and Masterworks.
   ```
   Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [100%]: *
@@ -943,7 +984,7 @@ With respect to PvE below, there's no Triple- Tap, Fourth Time's the Charm, Vorp
   Perks 2 [ 16%]: Moving Target
   MWorks  [100%]: *
   ```
-* **(PvP) "Dragger's Delight" 🛫 (Baseline) (3.3% chance)**: These two perks form the core of the roll.
+* **(PvP) "Mobile Opener" 🏃‍♂️ (Baseline) (3.3% chance)**: These two perks form the core of the roll.
   ```
   Barrels [100%]: *
   Mags    [100%]: *
@@ -951,44 +992,184 @@ With respect to PvE below, there's no Triple- Tap, Fourth Time's the Charm, Vorp
   Perks 2 [ 16%]: Moving Target
   MWorks  [100%]: *
   ```
-* **(PvP) "The Opener" 🚪🚪🚪🌟 Collector's Edition (0.3% chance)**: Same as the set of rolls we have above, but focused around `Opening Shot` instead of `Moving Target`.
+* **(PvP) Drewsky's "Planted Opener" 🌱🌱🌱🌟 Collector's Edition (0.3% chance)**: As suggested by Drewsky in his [Bite of the Fox Has a Unique "God Roll" to Farm For](https://www.youtube.com/watch?v=3GLfGLa-oYg) video, here's a similar set of rolls based on `Firmly Planted`.
   ```
   Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 20%]: Snapshot
+  Perks 1 [ 20%]: Firmly Planted
   Perks 2 [ 16%]: Opening Shot
   MWorks  [ 50%]: Range MW, Handling MW
   ```
-* **(PvP) "The Opener" 🚪🚪🚪 CE (- Magazines) (1.4% chance)**: Same as the CE, minus Magazines.
-  ```
-  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Snapshot
-  Perks 2 [ 16%]: Opening Shot
-  MWorks  [ 50%]: Range MW, Handling MW
-  ```
-* **(PvP) "The Opener" 🚪🚪🚪 CE (- Masterworks) (0.7% chance)**: Same as the CE, minus Masterworks.
+* **(PvP) Drewsky's "Planted Opener" 🌱🌱🌱 CE (- Masterworks) (0.7% chance)**: Same as the CE, minus Masterworks.
   ```
   Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 20%]: Snapshot
+  Perks 1 [ 20%]: Firmly Planted
   Perks 2 [ 16%]: Opening Shot
   MWorks  [100%]: *
   ```
-* **(PvP) "The Opener" 🚪🚪 CE (- Magazines - Masterworks) (2.8% chance)**: Same as the CE, minus Magazines and Masterworks.
+* **(PvP) Drewsky's "Planted Opener" 🌱🌱🌱 CE (- Magazines) (1.4% chance)**: Same as the CE, minus Magazines.
   ```
   Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [100%]: *
-  Perks 1 [ 20%]: Snapshot
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **(PvP) Drewsky's "Planted Opener" 🌱🌱 CE (- Magazines - Masterworks) (2.8% chance)**: Same as the CE, minus Magazines and Masterworks.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Firmly Planted
   Perks 2 [ 16%]: Opening Shot
   MWorks  [100%]: *
   ```
-* **(PvP) "The Opener" 🚪 🛫 (Baseline) (3.3% chance)**: These two perks form the core of the roll.
+* **(PvP) Drewsky's "Planted Opener" 🌱 (Baseline) (3.3% chance)**: These two perks form the core of the roll.
   ```
   Barrels [100%]: *
   Mags    [100%]: *
-  Perks 1 [ 20%]: Snapshot
+  Perks 1 [ 20%]: Firmly Planted
   Perks 2 [ 16%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Planted Dissonance" 🤔🤔🤔🌟 Collector's Edition (0.3% chance)**: Similar to the above set of `Firmly Planted`-based rolls, but this time with `Moving Target` in the final slot. Oddly, you get the `Accuracy` benefit of `Moving Target` without actually moving.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **(PvP) "Planted Dissonance" 🤔🤔🤔 CE (- Masterworks) (0.7% chance)**: Same as the CE, minus Masterworks.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Planted Dissonance" 🤔🤔🤔 CE (- Magazines) (1.4% chance)**: Same as the CE, minus Magazines.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **(PvP) "Planted Dissonance" 🤔🤔 CE (- Magazines - Masterworks) (2.8% chance)**: Same as the CE, minus Magazines and Masterworks.
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Planted Dissonance" 🤔 (Baseline) (3.3% chance)**: These two perks form the core of the roll.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [100%]: *
+  ```
+## Crimil's Dagger - PvP
+*For all possible perks, check out **Crimil's Dagger** over on [light.gg](https://www.light.gg/db/items/4292849692/crimils-dagger/)*
+
+
+Crimil's is a 110 RPM Kinetic, Aggressive Frame Hand Cannon that has been re-issued in Season 11 with a higher power cap. It features the same perk pool its always had and since 110s haven't been touched over the years dince Destiny 2's launch, it's going to be a pretty limited set of perks we're interested in.
+
+I wouldn't call 110s the meta (far from it) or really all that competitive at the moment. There is one niche where they **really** shine, and that's if you want to use them for cleanup kills after zinging someone with a bow or sniper body shot. They are the only Hand Cannon archetype where a crit can OHK-cleanup in that playstyle. In terms of 1:1 duels, they punish you for missing and you will not adequately flinch your opponents compared to ARs, 150 HCs, Pulses, etc.
+* **(PvP) Incredibly, Hilariously Picky (0.0% chance)**: Be sure to let me know how many dieties you prayed to in order to get  this roll. I'd suggest also buying a lottery ticket post-haste. As much Stability and Handling as we can get.
+  ```
+  Barrels [ 33%]: Steadyhand HCS
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 14%]: Demolitionist
+  Perks 2 [ 14%]: Snapshot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Incredibly, Hilariously Picky (Sans Demo) (0.3% chance)**: The first thing we're going to do is remove Demo from the list of required perks. The roll is top-tier without it.
+  ```
+  Barrels [ 33%]: Steadyhand HCS
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 14%]: Snapshot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Incredibly, Hilariously Picky (w/Handling MW) (0.6% chance)**: Same as above, but we're adding in Handling MW.
+  ```
+  Barrels [ 33%]: Steadyhand HCS
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 14%]: Snapshot
+  MWorks  [ 50%]: Stability MW, Handling MW
+  ```
+* **(PvP) Incredibly, Hilariously Picky (Sans Perks) (2.1% chance)**: Same as above, minus Snapshot. Snapshot is terrific but it doesn't make or break the roll.
+  ```
+  Barrels [ 33%]: Steadyhand HCS
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Super Picky (0.2% chance)**: Let's reboot this set of rolls around all Stability-enhancing sights and magazines.
+  ```
+  Barrels [ 80%]: Truesight HCS, Fastdraw HCS, Steadyhand HCS
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 14%]: Demolitionist
+  Perks 2 [ 14%]: Snapshot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Super Picky (Sans Demo) (1.3% chance)**: The first thing we're going to do is remove Demo from the list of required perks. The roll is solid without it.
+  ```
+  Barrels [ 80%]: Truesight HCS, Fastdraw HCS, Steadyhand HCS
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 14%]: Snapshot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Super Picky (w/Handling MW) (2.7% chance)**: Same as above, but we're adding in Handling MW.
+  ```
+  Barrels [ 80%]: Truesight HCS, Fastdraw HCS, Steadyhand HCS
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 14%]: Snapshot
+  MWorks  [ 50%]: Stability MW, Handling MW
+  ```
+## Crimil's Dagger - PvE
+*For all possible perks, check out **Crimil's Dagger** over on [light.gg](https://www.light.gg/db/items/4292849692/crimils-dagger/)*
+
+
+[Ehroar](https://www.youtube.com/watch?v=OVXNkbyfBrQ): "I definitely think this will be one of the best hand cannons in PvE and probably PvP in the energy slot." In general we're sticking with Rampage so we can throw on Rampage Spec and ride it out. Sure Swashbuckler and  Surrounded + Surrounded Spec are awesome but it's a Hand Cannon and you're probably not punching enemies if you're trying to work in its effective range. Those perks work better on sidearms, SMGs and shotguns. CoolGuy has a [great set of rolls](https://youtu.be/XI5CjuOonRc?t=463) I'm incorporating here as well. "Very stout PvE hand cannon; top-tier."
+* **(PvE) Sparks Flying (Super Picky) (1.5% chance)**: Both Demolitionist and Subistence will proc once for each Dragonfly explosion kill. Use in situations where you can one-shot enemies. Don't forget Dragonfly Spec! Per CoolGuy, this is a rarely available combo; pick it up.
+  ```
+  Barrels [ 93%]: Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS
+  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 28%]: Demolitionist, Subsistence
+  Perks 2 [ 14%]: Dragonfly
+  MWorks  [ 50%]: Stability MW, Handling MW
+  ```
+* **(PvE) Sparks Flying (Sans Masterworks) (3.0% chance)**: Same as the above with relaxed masterworks. Neither good nor bad enough to tank or make the roll.
+  ```
+  Barrels [ 93%]: Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS
+  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 28%]: Demolitionist, Subsistence
+  Perks 2 [ 14%]: Dragonfly
+  MWorks  [100%]: *
+  ```
+* **(PvE) The Never-Ending Reloader (Super Picky) (1.5% chance)**: You'll almost never have to reload here, because getting kills with the sustained DPS perks will give you your grenade back and using your grenade will reload the magazine.
+  ```
+  Barrels [ 93%]: Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS
+  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 14%]: Demolitionist
+  Perks 2 [ 28%]: Rampage, Swashbuckler
+  MWorks  [ 50%]: Stability MW, Handling MW
+  ```
+* **(PvE) The Never-Ending Reloader (Sans Masterworks) (3.0% chance)**: Same as the above with relaxed masterworks. Neither good nor bad enough to tank or make the roll.
+  ```
+  Barrels [ 93%]: Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS
+  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 14%]: Demolitionist
+  Perks 2 [ 28%]: Rampage, Swashbuckler
   MWorks  [100%]: *
   ```
 ## Black Scorpion-4sr - PvP
