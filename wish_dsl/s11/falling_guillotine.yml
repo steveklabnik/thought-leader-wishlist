@@ -5,7 +5,7 @@ slots:
   barrels:     {t: 5, c: 2}
   magazines:   {t: 5, c: 2}
   perks1:      {t: 3, c: 1}
-  perks2:      {t: 4, c: 2}
+  perks2:      {t: 4, c: 1}
   masterworks: {t: 1, c: 1}
 groups: 
   - 
