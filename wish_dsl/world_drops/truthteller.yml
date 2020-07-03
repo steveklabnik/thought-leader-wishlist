@@ -40,7 +40,7 @@ groups:
       and let us more quickly clean up what we've started.
     rolls:
       - &shieldbreaker
-        name: (PvP) Sheildbreaker - Super Picky
+        name: (PvP) "Sheildbreaker" 🛡🛡🛡🌟 Collector's Edition
         desc: >
           Break their shields with Disruption Break and clean them up with a
           kinetic. We're looking for velocity and blast radius here.
@@ -51,7 +51,7 @@ groups:
         masterworks: [Velocity MW, Handling MW]
       - 
         <<: *shieldbreaker
-        name: (PvP) Shieldbreaker - Relaxed
+        name: (PvP) "Shieldbreaker" 🛡Baseline
         desc: >
           Don't sweat the barrels, magazines, and masterworks too much, just get
           Auto-Loading Holster and Disruption Break.
@@ -103,7 +103,7 @@ groups:
       to have an Anti-Barrier mod, this would be _amazing_).
     rolls:
       - &blindedbyscience
-        name: (PvE) Blinded by Science - Super Picky
+        name: (PvE) "Blinded by Science" 🧪🧪🧪🌟 Collector's Edition
         desc: >
           Open up an engagement on a group of enemies by suppressing them all with blindness
         barrels: [Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch]
@@ -113,7 +113,7 @@ groups:
         masterworks: [Velocity MW, Handling MW]
       - 
         <<: *blindedbyscience
-        name: (PvE) Blinded by Science - Relaxed
+        name: (PvE) "Blinded by Science" 🧪 Baseline
         desc: >
           Get those core attributes of Blinding Grenades paired with an Auto-Loading Holster,
           don't sweat the small stuff.
@@ -122,7 +122,7 @@ groups:
         masterworks: []
 
       - &welcometotheboomtown
-        name: (PvE) Welcome to the Boomtown - Super Picky
+        name: (PvE) Welcome to the Boomtown 💥💥💥🌟 Collector's Edition
         desc: >
           Maximize direct damage on larger enemies with Spike Grenades
         barrels: [Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch]
@@ -131,7 +131,7 @@ groups:
         perks2: [Demolitionist, Disruption Break]
         masterworks: [Velocity MW, Handling MW]
       - <<: *welcometotheboomtown
-        name: (PvE) Welcome to the Boomtown - Relaxed
+        name: (PvE) Welcome to the Boomtown 💥 Baseline
         desc: >
           Spike grenades and a decent reload perk, that's all we're looking for here.
         barrels: []
