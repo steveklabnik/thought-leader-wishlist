@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-03 03:01:00 +00:00`.
+* It was generated `2020-07-03 03:10:58 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -21,6 +21,7 @@ I go back and fill in world drops.
 **Iron Banner**
 * Bite of the Fox ([PvP](#bite-of-the-fox---pvp))
 * Crimil's Dagger ([PvP](#crimils-dagger---pvp), [PvE](#crimils-dagger---pve))
+* Swarm of the Raven ([PvE](#swarm-of-the-raven---pve))
 
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
@@ -1334,6 +1335,43 @@ Part of the added challenge with these old weapons is that the perk pools are so
   Mags    [ 25%]: Drop Mag
   Perks 1 [100%]: *
   Perks 2 [ 14%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+## Swarm of the Raven - PvE
+*For all possible perks, check out **Swarm of the Raven** over on [light.gg](https://www.light.gg/db/items/1972985595/swarm-of-the-raven/)*
+
+
+For a moment in time, Swarm of the Raven was a legit DPS option. It's a Void Grenade Launcher and the buff from Tractor Cannon made it a beast. It's not super hot anymore, but why not secure yourself a good one just in case? Chances are without even trying you're going to get a pretty decent roll. Enjoy!
+* **(PvE) "Dive Bomb" 🦅🦅🦅🌟 Collector's Edition (0.2% chance)**: More impact damage and ammo reserves, along with bumped `Velocity`.
+  ```
+  Barrels [ 71%]: Quick Launch, Linear Compensator, Smart Drift Control
+  Mags    [ 25%]: Spike Grenades
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 25%]: Quickdraw
+  MWorks  [ 20%]: Velocity MW
+  ```
+* **(PvE) "Dive Bomb" 🦅🦅🦅 CE (- Perks) (0.7% chance)**: ...
+  ```
+  Barrels [ 71%]: Quick Launch, Linear Compensator, Smart Drift Control
+  Mags    [ 25%]: Spike Grenades
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [100%]: *
+  MWorks  [ 20%]: Velocity MW
+  ```
+* **(PvE) "Dive Bomb" 🦅🦅 CE (- Masterwork) (3.6% chance)**: ...
+  ```
+  Barrels [ 71%]: Quick Launch, Linear Compensator, Smart Drift Control
+  Mags    [ 25%]: Spike Grenades
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Dive Bomb" 🦅 (Baseline) (5.0% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Spike Grenades
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
 ## Black Scorpion-4sr - PvP
