@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-03 03:10:58 +00:00`.
+* It was generated `2020-07-03 21:57:21 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -33,6 +33,7 @@ I go back and fill in world drops.
 * Night Watch ([PvP](#night-watch---pvp), [PvE](#night-watch---pve))
 * Outrageous Fortune ([PvE](#outrageous-fortune---pve))
 * Steel Sybil Z-14 ([PvE](#steel-sybil-z-14---pve))
+* Truthteller ([PvP](#truthteller---pvp), [PvE](#truthteller---pve))
 
 **Season 10 - Season of the Worthy (Concluded)**
 * Seventh Seraph Carbine ([PvP](#seventh-seraph-carbine---pvp), [PvE](#seventh-seraph-carbine---pve))
@@ -2538,6 +2539,91 @@ Note that swords only have one possible Masterwork (Impact) hence the appearance
   Mags    [100%]: *
   Perks 1 [ 50%]: Relentless Strikes
   Perks 2 [ 33%]: Whirlwind Blade
+  MWorks  [100%]: *
+  ```
+## Truthteller - PvP
+*For all possible perks, check out **Truthteller** over on [light.gg](https://www.light.gg/db/items/1946491241/truthteller/)*
+
+
+If you're a member of the [Fighting Lion Club](https://www.fightinglion.club/) are looking for a replacement once your Mountaintop can no longer be infused, give Truthteller a try.
+
+Truthteller is part of the "Lightweight Frame" breach-loaded (single shot) grenade launchers.  Lightweight grenade launchers all have a "remote detonation" ability where they detonate when you release the trigger (or you get a direct hit). These weapons have a very high skill ceiling, allowing banked shots and shots that explode next to enemies in cover.
+
+In PvP, this weapon excels at starting engagements rather than finishing them. We want Truthteller to soften our enemies up, even if we don't get a direct hit.
+
+There are a couple of perks that help us meet this goal:
+- Auto Loading Holster - be ready for that next engagement with a fully loaded weapon
+- Disruption Break - breaking an opponents shield gives kinetic weapons a 50% buff.
+   Quick swapping to a kinetic primary ammo weapon will allow for quick cleanup (likely
+   a one-shot/one-burst)
+
+
+I'll be pairing this with the `Quick Access Sling` mod as it'll proc with every shot and let us more quickly clean up what we've started.
+* **(PvP) Sheildbreaker - Super Picky (1.1% chance)**: Break their shields with Disruption Break and clean them up with a kinetic. We're looking for velocity and blast radius here.
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 80%]: Spike Grenades, Proximity Grenades, High-Velocity Rounds
+  Perks 1 [ 20%]: Auto-Loading Holster
+  Perks 2 [ 20%]: Disruption Break
+  MWorks  [ 40%]: Velocity MW, Handling MW
+  ```
+* **(PvP) Shieldbreaker - Relaxed (4.0% chance)**: Don't sweat the barrels, magazines, and masterworks too much, just get Auto-Loading Holster and Disruption Break.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Auto-Loading Holster
+  Perks 2 [ 20%]: Disruption Break
+  MWorks  [100%]: *
+  ```
+## Truthteller - PvE
+*For all possible perks, check out **Truthteller** over on [light.gg](https://www.light.gg/db/items/1946491241/truthteller/)*
+
+
+In PvE there are a couple of roles that Truthteller can fill, and a number of great perks to look for.
+
+Blinding grenades have a 10 meter radius on a 5 second suppression effect which works on all non-Boss creatures.  In high-level PvE content, this can be really useful for suppressing a large area and having an entire fireteam do damage without worrying about retaliation.
+
+As of Season 11, it feels like there's some sort of bug or issue with Concussion Grenades.  They have the same -50 penalty to blast radius of Blinding Grenades and also have the same 5s duration to the effect, but their area of effect is only a 5 meter radius (~25% of the total area impacted).
+
+Spike Grenades can also be good if you're looking to do direct damage.  Truthteller isn't quite at Mountaintop levels of damage, but it's probably the best thing we have as a replacement.   In testing, Mountaintop with Spike Grenades does 21,048 damage.  Truthteller with Spike Grenades does 15,185, so about 28% less.
+
+Auto-loading Holster is the best 3rd column perk for almost every situation, the only possible exception is using Field Prep and crouching for faster reload if you're looking to spam this weapon.
+
+Normally, damage boosting perks like Swashbuckler and Multi-Kill clip are highly sought after on weapons, but for this archetype, it's fairly hard to keep those chains going enough to make them worth their while.
+
+Demolitionist is the best 4th column PvE pick as it has the dual effect of increasing the number of grenades you get, and filling the chamber with a shell after throwing a grenade.
+
+Disruption Break is also viable and for some situations would be amazing to help bring a blinded tough enemy down (now if Bungie would ever allow grenade launchers to have an Anti-Barrier mod, this would be _amazing_).
+* **(PvE) Blinded by Science - Super Picky (0.9% chance)**: Open up an engagement on a group of enemies by suppressing them all with blindness
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Blinding Grenades
+  Perks 1 [ 20%]: Auto-Loading Holster
+  Perks 2 [ 40%]: Demolitionist, Disruption Break
+  MWorks  [ 40%]: Velocity MW, Handling MW
+  ```
+* **(PvE) Blinded by Science - Relaxed (6.7% chance)**: Get those core attributes of Blinding Grenades paired with an Auto-Loading Holster, don't sweat the small stuff.
+  ```
+  Barrels [100%]: *
+  Mags    [ 33%]: Blinding Grenades
+  Perks 1 [ 20%]: Auto-Loading Holster
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+* **(PvE) Welcome to the Boomtown - Super Picky (1.8% chance)**: Maximize direct damage on larger enemies with Spike Grenades
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Spike Grenades
+  Perks 1 [ 40%]: Auto-Loading Holster, Field Prep
+  Perks 2 [ 40%]: Demolitionist, Disruption Break
+  MWorks  [ 40%]: Velocity MW, Handling MW
+  ```
+* **(PvE) Welcome to the Boomtown - Relaxed (13.3% chance)**: Spike grenades and a decent reload perk, that's all we're looking for here.
+  ```
+  Barrels [100%]: *
+  Mags    [ 33%]: Spike Grenades
+  Perks 1 [ 40%]: Auto-Loading Holster, Field Prep
+  Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
 ## Seventh Seraph Carbine - PvP
