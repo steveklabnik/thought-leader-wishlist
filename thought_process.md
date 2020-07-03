@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-02 23:08:46 +00:00`.
+* It was generated `2020-07-03 02:58:59 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -1078,98 +1078,262 @@ With respect to PvE below, there's no Triple- Tap, Fourth Time's the Charm, Vorp
 
 Crimil's is a 110 RPM Kinetic, Aggressive Frame Hand Cannon that has been re-issued in Season 11 with a higher power cap. It features the same perk pool its always had and since 110s haven't been touched over the years dince Destiny 2's launch, it's going to be a pretty limited set of perks we're interested in.
 
-I wouldn't call 110s the meta (far from it) or really all that competitive at the moment. There is one niche where they **really** shine, and that's if you want to use them for cleanup kills after zinging someone with a bow or sniper body shot. They are the only Hand Cannon archetype where a crit can OHK-cleanup in that playstyle. In terms of 1:1 duels, they punish you for missing and you will not adequately flinch your opponents compared to ARs, 150 HCs, Pulses, etc.
-* **(PvP) Incredibly, Hilariously Picky (0.0% chance)**: Be sure to let me know how many dieties you prayed to in order to get  this roll. I'd suggest also buying a lottery ticket post-haste. As much Stability and Handling as we can get.
+I wouldn't call 110s the meta (far from it) or really all that competitive at the moment. My guess is that new perks will appear on these to create interesting or alternative options, because the 110s hit so hard it would be tough to imagine how they could otherwise make them stronger without unbalancing them.
+
+There is one niche where they **really** shine, and that's if you want to use them for cleanup kills after zinging someone with a bow or sniper body shot. They are the only Hand Cannon archetype where a crit can OHK-cleanup in that playstyle. In terms of 1:1 duels, they punish you for missing and you will not adequately flinch your opponents compared to ARs, 150 HCs, Pulses, etc.
+* **(PvP) "Magnetic Bullets" 🧲🧲🧲🌟 Collector's Edition (0.0% chance)**: One of the rare weapons that can roll with both `Moving Target` and `Opening Shot` at the same time. The 110s have a punishing kick so after that, we're going for `Stability`.
   ```
   Barrels [ 33%]: Steadyhand HCS
-  Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 14%]: Demolitionist
-  Perks 2 [ 14%]: Snapshot
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Incredibly, Hilariously Picky (Sans Demo) (0.3% chance)**: The first thing we're going to do is remove Demo from the list of required perks. The roll is top-tier without it.
+* **(PvP) "Magnetic Bullets" 🧲🧲🧲 (- Masterwork) (0.2% chance)**: ...
   ```
   Barrels [ 33%]: Steadyhand HCS
-  Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 14%]: Snapshot
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Magnetic Bullets" 🧲🧲🧲 (- Sights) (0.1% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Incredibly, Hilariously Picky (w/Handling MW) (0.6% chance)**: Same as above, but we're adding in Handling MW.
+* **(PvP) "Magnetic Bullets" 🧲🧲🧲 (- Magazines) (0.2% chance)**: ...
   ```
   Barrels [ 33%]: Steadyhand HCS
-  Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 14%]: Snapshot
-  MWorks  [ 50%]: Stability MW, Handling MW
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Incredibly, Hilariously Picky (Sans Perks) (2.1% chance)**: Same as above, minus Snapshot. Snapshot is terrific but it doesn't make or break the roll.
+* **(PvP) "Magnetic Bullets" 🧲🧲🧲 (+ Sights) (0.1% chance)**: ...
+  ```
+  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Magnetic Bullets" 🧲🧲🧲 (+ Magazines) (0.1% chance)**: ...
   ```
   Barrels [ 33%]: Steadyhand HCS
-  Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [100%]: *
-  Perks 2 [100%]: *
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Super Picky (0.2% chance)**: Let's reboot this set of rolls around all Stability-enhancing sights and magazines.
+* **(PvP) "Magnetic Bullets" 🧲🧲🧲 (+ Sights + Magazines) (0.3% chance)**: ...
   ```
-  Barrels [ 80%]: Truesight HCS, Fastdraw HCS, Steadyhand HCS
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [ 14%]: Demolitionist
-  Perks 2 [ 14%]: Snapshot
+  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Super Picky (Sans Demo) (1.3% chance)**: The first thing we're going to do is remove Demo from the list of required perks. The roll is solid without it.
+* **(PvP) "Magnetic Bullets" 🧲🧲 (+ Sights + Magazines - Masterworks) (1.0% chance)**: ...
   ```
-  Barrels [ 80%]: Truesight HCS, Fastdraw HCS, Steadyhand HCS
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 14%]: Snapshot
+  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Magnetic Bullets" 🧲🧲 (+ Sights - Magazines - Masterworks) (1.6% chance)**: ...
+  ```
+  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Magnetic Bullets" 🧲 (Baseline) (2.0% chance)**: These two perks form the core of this roll and without them, you've got a slow, clunky, punishing 110 RPM HC. I mean even with them, it's still pretty slow and clunky. YMMV 🤪
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Fast Action" ⏩⏩⏩🌟 Collector's Edition (0.0% chance)**: The 110s have low Handling because they're supposed to embody the "Cannon" part of "Hand Cannon". Adding Snapshot to the mix can make all the difference in how a 110 feels.
+  ```
+  Barrels [ 33%]: Steadyhand HCS
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 14%]: Snapshot
+  Perks 2 [ 14%]: Opening Shot
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Super Picky (w/Handling MW) (2.7% chance)**: Same as above, but we're adding in Handling MW.
+* **(PvP) "Fast Action" ⏩⏩⏩ (- Masterwork) (0.2% chance)**: ...
   ```
-  Barrels [ 80%]: Truesight HCS, Fastdraw HCS, Steadyhand HCS
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 14%]: Snapshot
-  MWorks  [ 50%]: Stability MW, Handling MW
+  Barrels [ 33%]: Steadyhand HCS
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 14%]: Snapshot
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Fast Action" ⏩⏩⏩ (- Sights) (0.1% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 14%]: Snapshot
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Fast Action" ⏩⏩⏩ (- Magazines) (0.2% chance)**: ...
+  ```
+  Barrels [ 33%]: Steadyhand HCS
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Snapshot
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Fast Action" ⏩⏩⏩ (+ Sights) (0.1% chance)**: ...
+  ```
+  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 14%]: Snapshot
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Fast Action" ⏩⏩⏩ (+ Sights + Magazines) (0.3% chance)**: ...
+  ```
+  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 14%]: Snapshot
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Fast Action" ⏩⏩ (+ Sights + Magazines - Masterworks) (1.0% chance)**: ...
+  ```
+  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 14%]: Snapshot
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Fast Action" ⏩⏩ (+ Sights - Magazines - Masterworks) (1.6% chance)**: ...
+  ```
+  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Snapshot
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Fast Action" ⏩ (Baseline) (2.0% chance)**: These two perks form the core of this roll and without them, you've got a slow, clunky, punishing 110 RPM HC. I mean even with them, it's still pretty slow and clunky. YMMV 🤪
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Snapshot
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [100%]: *
   ```
 ## Crimil's Dagger - PvE
 *For all possible perks, check out **Crimil's Dagger** over on [light.gg](https://www.light.gg/db/items/4292849692/crimils-dagger/)*
 
 
-[Ehroar](https://www.youtube.com/watch?v=OVXNkbyfBrQ): "I definitely think this will be one of the best hand cannons in PvE and probably PvP in the energy slot." In general we're sticking with Rampage so we can throw on Rampage Spec and ride it out. Sure Swashbuckler and  Surrounded + Surrounded Spec are awesome but it's a Hand Cannon and you're probably not punching enemies if you're trying to work in its effective range. Those perks work better on sidearms, SMGs and shotguns. CoolGuy has a [great set of rolls](https://youtu.be/XI5CjuOonRc?t=463) I'm incorporating here as well. "Very stout PvE hand cannon; top-tier."
-* **(PvE) Sparks Flying (Super Picky) (1.5% chance)**: Both Demolitionist and Subistence will proc once for each Dragonfly explosion kill. Use in situations where you can one-shot enemies. Don't forget Dragonfly Spec! Per CoolGuy, this is a rarely available combo; pick it up.
+The perk pool here is before the new good stuff started rolling out, so there's not too many surprises. The only damage-dealing perk is `Kill Clip` but we have a few ways to reload quickly.
+
+Part of the added challenge with these old weapons is that the perk pools are so large the chances of getting what you want is quite low.
+* **(PvE) "Gunslinger" 🤠🤠🤠🌟 Collector's Edition (0.0% chance)**: Fast reload and as much `Range` as we can get.
   ```
-  Barrels [ 93%]: Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS
-  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
-  Perks 1 [ 28%]: Demolitionist, Subsistence
-  Perks 2 [ 14%]: Dragonfly
-  MWorks  [ 50%]: Stability MW, Handling MW
+  Barrels [ 33%]: Sureshot HCS
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 14%]: Outlaw
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Sparks Flying (Sans Masterworks) (3.0% chance)**: Same as the above with relaxed masterworks. Neither good nor bad enough to tank or make the roll.
+* **(PvE) "Gunslinger" 🤠🤠🤠 CE (+ Sights) (0.1% chance)**: ...
   ```
-  Barrels [ 93%]: Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS
-  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
-  Perks 1 [ 28%]: Demolitionist, Subsistence
-  Perks 2 [ 14%]: Dragonfly
+  Barrels [ 93%]: Sureshot HCS, Crossfire HCS, Hitmark HCS, Truesight HCS
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 14%]: Outlaw
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Gunslinger" 🤠🤠🤠 CE (- Masterwork) (0.5% chance)**: ...
+  ```
+  Barrels [ 93%]: Sureshot HCS, Crossfire HCS, Hitmark HCS, Truesight HCS
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 14%]: Outlaw
+  Perks 2 [ 14%]: Kill Clip
   MWorks  [100%]: *
   ```
-* **(PvE) The Never-Ending Reloader (Super Picky) (1.5% chance)**: You'll almost never have to reload here, because getting kills with the sustained DPS perks will give you your grenade back and using your grenade will reload the magazine.
+* **(PvE) "Gunslinger" 🤠🤠🤠 CE (- Magazines) (0.5% chance)**: ...
   ```
-  Barrels [ 93%]: Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS
-  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
-  Perks 1 [ 14%]: Demolitionist
-  Perks 2 [ 28%]: Rampage, Swashbuckler
-  MWorks  [ 50%]: Stability MW, Handling MW
+  Barrels [ 93%]: Sureshot HCS, Crossfire HCS, Hitmark HCS, Truesight HCS
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Outlaw
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [ 25%]: Range MW
   ```
-* **(PvE) The Never-Ending Reloader (Sans Masterworks) (3.0% chance)**: Same as the above with relaxed masterworks. Neither good nor bad enough to tank or make the roll.
+* **(PvE) "Gunslinger" 🤠🤠🤠 CE (- Sights) (0.1% chance)**: ...
   ```
-  Barrels [ 93%]: Truesight HCS, Hitmark HCS, Fastdraw HCS, Steadyhand HCS
-  Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
-  Perks 1 [ 14%]: Demolitionist
-  Perks 2 [ 28%]: Rampage, Swashbuckler
+  Barrels [100%]: *
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 14%]: Outlaw
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Gunslinger" 🤠🤠 CE (- Sights - Mags) (0.5% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Outlaw
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Gunslinger" 🤠 (Baseline) (2.0% chance)**: Baseline combo to make this usable in PvE.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Outlaw
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Ammo Waster" 🗑🗑🗑🌟 Collector's Edition (0.3% chance)**: Replacing our need for `Outlaw` with `Drop Mag`, then as much `Range` as we can get.
+  ```
+  Barrels [ 33%]: Sureshot HCS
+  Mags    [ 25%]: Drop Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Ammo Waster" 🗑🗑🗑 CE (+ Sights) (0.8% chance)**: ...
+  ```
+  Barrels [ 93%]: Sureshot HCS, Crossfire HCS, Hitmark HCS, Truesight HCS
+  Mags    [ 25%]: Drop Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Ammo Waster" 🗑🗑🗑 CE (- Masterwork) (3.3% chance)**: ...
+  ```
+  Barrels [ 93%]: Sureshot HCS, Crossfire HCS, Hitmark HCS, Truesight HCS
+  Mags    [ 25%]: Drop Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Ammo Waster" 🗑🗑🗑 CE (- Sights) (0.9% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Drop Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Ammo Waster" 🗑🗑 (Baseline) (3.6% chance)**: Baseline combo to make this usable in PvE.
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Drop Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 14%]: Kill Clip
   MWorks  [100%]: *
   ```
 ## Black Scorpion-4sr - PvP
