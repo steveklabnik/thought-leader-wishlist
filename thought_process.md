@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-03 22:15:32 +00:00`.
+* It was generated `2020-07-03 22:39:10 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -2559,7 +2559,7 @@ There are a couple of perks that help us meet this goal:
 
 
 I'll be pairing this with the `Quick Access Sling` mod as it'll proc with every shot and let us more quickly clean up what we've started.
-* **(PvP) Sheildbreaker - Super Picky (1.1% chance)**: Break their shields with Disruption Break and clean them up with a kinetic. We're looking for velocity and blast radius here.
+* **(PvP) "Sheildbreaker" 🛡🛡🛡🌟 Collector's Edition (1.1% chance)**: Break their shields with Disruption Break and clean them up with a kinetic. We're looking for velocity and blast radius here.
   ```
   Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
   Mags    [ 80%]: Spike Grenades, Proximity Grenades, High-Velocity Rounds
@@ -2567,7 +2567,7 @@ I'll be pairing this with the `Quick Access Sling` mod as it'll proc with every 
   Perks 2 [ 20%]: Disruption Break
   MWorks  [ 40%]: Velocity MW, Handling MW
   ```
-* **(PvP) Shieldbreaker - Relaxed (4.0% chance)**: Don't sweat the barrels, magazines, and masterworks too much, just get Auto-Loading Holster and Disruption Break.
+* **(PvP) "Shieldbreaker" 🛡Baseline (4.0% chance)**: Don't sweat the barrels, magazines, and masterworks too much, just get Auto-Loading Holster and Disruption Break.
   ```
   Barrels [100%]: *
   Mags    [100%]: *
@@ -2594,7 +2594,7 @@ Normally, damage boosting perks like Swashbuckler and Multi-Kill clip are highly
 Demolitionist is the best 4th column PvE pick as it has the dual effect of increasing the number of grenades you get, and filling the chamber with a shell after throwing a grenade.
 
 Disruption Break is also viable and for some situations would be amazing to help bring a blinded tough enemy down (now if Bungie would ever allow grenade launchers to have an Anti-Barrier mod, this would be _amazing_).
-* **(PvE) Blinded by Science - Super Picky (0.9% chance)**: Open up an engagement on a group of enemies by suppressing them all with blindness
+* **(PvE) "Blinded by Science" 🧪🧪🧪🌟 Collector's Edition (0.9% chance)**: Open up an engagement on a group of enemies by suppressing them all with blindness
   ```
   Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
   Mags    [ 33%]: Blinding Grenades
@@ -2602,7 +2602,7 @@ Disruption Break is also viable and for some situations would be amazing to help
   Perks 2 [ 40%]: Demolitionist, Disruption Break
   MWorks  [ 40%]: Velocity MW, Handling MW
   ```
-* **(PvE) Blinded by Science - Relaxed (6.7% chance)**: Get those core attributes of Blinding Grenades paired with an Auto-Loading Holster, don't sweat the small stuff.
+* **(PvE) "Blinded by Science" 🧪 Baseline (6.7% chance)**: Get those core attributes of Blinding Grenades paired with an Auto-Loading Holster, don't sweat the small stuff.
   ```
   Barrels [100%]: *
   Mags    [ 33%]: Blinding Grenades
@@ -2610,7 +2610,7 @@ Disruption Break is also viable and for some situations would be amazing to help
   Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
-* **(PvE) Welcome to the Boomtown - Super Picky (1.8% chance)**: Maximize direct damage on larger enemies with Spike Grenades
+* **(PvE) Welcome to the Boomtown 💥💥💥🌟 Collector's Edition (1.8% chance)**: Maximize direct damage on larger enemies with Spike Grenades
   ```
   Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
   Mags    [ 33%]: Spike Grenades
@@ -2618,7 +2618,7 @@ Disruption Break is also viable and for some situations would be amazing to help
   Perks 2 [ 40%]: Demolitionist, Disruption Break
   MWorks  [ 40%]: Velocity MW, Handling MW
   ```
-* **(PvE) Welcome to the Boomtown - Relaxed (13.3% chance)**: Spike grenades and a decent reload perk, that's all we're looking for here.
+* **(PvE) Welcome to the Boomtown 💥 Baseline (13.3% chance)**: Spike grenades and a decent reload perk, that's all we're looking for here.
   ```
   Barrels [100%]: *
   Mags    [ 33%]: Spike Grenades
