@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-03 22:39:10 +00:00`.
+* It was generated `2020-07-04 01:18:38 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -2545,9 +2545,9 @@ Note that swords only have one possible Masterwork (Impact) hence the appearance
 *For all possible perks, check out **Truthteller** over on [light.gg](https://www.light.gg/db/items/1946491241/truthteller/)*
 
 
-If you're a member of the [Fighting Lion Club](https://www.fightinglion.club/) are looking for a replacement once your Mountaintop can no longer be infused, give Truthteller a try.
+If you're a member of the [Fighting Lion Club](https://www.fightinglion.club/) or are looking for a replacement once your Mountaintop can no longer be infused, give Truthteller a try.
 
-Truthteller is part of the "Lightweight Frame" breach-loaded (single shot) grenade launchers.  Lightweight grenade launchers all have a "remote detonation" ability where they detonate when you release the trigger (or you get a direct hit). These weapons have a very high skill ceiling, allowing banked shots and shots that explode next to enemies in cover.
+Truthteller is part of the "Lightweight Frame" grenade launchers (breach-loaded, single shot). Lightweight grenade launchers all have a "remote detonation" ability where they detonate when you release the trigger (or you get a direct hit). These weapons have a very high skill ceiling, allowing banked shots and shots that explode next to enemies in cover.
 
 In PvP, this weapon excels at starting engagements rather than finishing them. We want Truthteller to soften our enemies up, even if we don't get a direct hit.
 
@@ -2566,6 +2566,14 @@ I'll be pairing this with the `Quick Access Sling` mod as it'll proc with every 
   Perks 1 [ 20%]: Auto-Loading Holster
   Perks 2 [ 20%]: Disruption Break
   MWorks  [ 40%]: Velocity MW, Handling MW
+  ```
+* **(PvP) "Shieldbreaker" 🛡🛡🛡 - Quite Picky (2.7% chance)**: Relaxed Masterwork but we really want Auto-Loading Holster and Disruption Break with velocity and blast radius focused barrels and magazines.
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 80%]: Spike Grenades, Proximity Grenades, High-Velocity Rounds
+  Perks 1 [ 20%]: Auto-Loading Holster
+  Perks 2 [ 20%]: Disruption Break
+  MWorks  [100%]: *
   ```
 * **(PvP) "Shieldbreaker" 🛡Baseline (4.0% chance)**: Don't sweat the barrels, magazines, and masterworks too much, just get Auto-Loading Holster and Disruption Break.
   ```
@@ -2593,8 +2601,16 @@ Normally, damage boosting perks like Swashbuckler and Multi-Kill clip are highly
 
 Demolitionist is the best 4th column PvE pick as it has the dual effect of increasing the number of grenades you get, and filling the chamber with a shell after throwing a grenade.
 
-Disruption Break is also viable and for some situations would be amazing to help bring a blinded tough enemy down (now if Bungie would ever allow grenade launchers to have an Anti-Barrier mod, this would be _amazing_).
-* **(PvE) "Blinded by Science" 🧪🧪🧪🌟 Collector's Edition (0.9% chance)**: Open up an engagement on a group of enemies by suppressing them all with blindness
+Disruption Break is also viable and for some situations would be amazing to help bring a tough blinded enemy down (now if Bungie would ever allow grenade launchers to have an Anti-Barrier mod, this would be _amazing_).
+* **(PvE) "Blinded by Science" 🧪🧪🧪🌟 Collector's Edition (0.2% chance)**: Open up an engagement on a group of enemies by suppressing them all with blindness
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Blinding Grenades
+  Perks 1 [ 20%]: Auto-Loading Holster
+  Perks 2 [ 20%]: Demolitionist
+  MWorks  [ 20%]: Handling MW
+  ```
+* **(PvE) Blinded by Science 🧪🧪🧪 - Super Picky (0.9% chance)**: Disruption Break is about as good as Demolitionist, we'll also take a Velocity MW here.
   ```
   Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
   Mags    [ 33%]: Blinding Grenades
@@ -2602,27 +2618,51 @@ Disruption Break is also viable and for some situations would be amazing to help
   Perks 2 [ 40%]: Demolitionist, Disruption Break
   MWorks  [ 40%]: Velocity MW, Handling MW
   ```
-* **(PvE) "Blinded by Science" 🧪 Baseline (6.7% chance)**: Get those core attributes of Blinding Grenades paired with an Auto-Loading Holster, don't sweat the small stuff.
+* **(PvE) Blinded by Science 🧪🧪 - Picky (2.7% chance)**: You've got Blinding Grenades paired with some other solid perks, nice!
   ```
   Barrels [100%]: *
   Mags    [ 33%]: Blinding Grenades
   Perks 1 [ 20%]: Auto-Loading Holster
+  Perks 2 [ 40%]: Demolitionist, Disruption Break
+  MWorks  [100%]: *
+  ```
+* **(PvE) Blinded by Science 🧪 - Relaxed (20.0% chance)**: Get those core attributes of Blinding Grenades paired with a reload perk, don't sweat the small stuff.
+  ```
+  Barrels [100%]: *
+  Mags    [ 33%]: Blinding Grenades
+  Perks 1 [ 60%]: Auto-Loading Holster, Field Prep, Feeding Frenzy
   Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
-* **(PvE) Welcome to the Boomtown 💥💥💥🌟 Collector's Edition (1.8% chance)**: Maximize direct damage on larger enemies with Spike Grenades
+* **(PvE) Welcome to the Boomtown 💥💥💥🌟 Collector's Edition (0.2% chance)**: Maximize direct damage on larger enemies with Spike Grenades, reload perks and masterwork as you're relying on this weapon and not others.
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Spike Grenades
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 20%]: Disruption Break
+  MWorks  [ 20%]: Reload MW
+  ```
+* **(PvE) Welcome to the Boomtown 💥💥💥 - The Discriminating Choice for Indiscriminant Explosions (2.7% chance)**: Spike grenades and demolitionist for more grenades or disruption break to destroy your enemies
   ```
   Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
   Mags    [ 33%]: Spike Grenades
   Perks 1 [ 40%]: Auto-Loading Holster, Field Prep
   Perks 2 [ 40%]: Demolitionist, Disruption Break
-  MWorks  [ 40%]: Velocity MW, Handling MW
+  MWorks  [ 60%]: Reload MW, Velocity MW, Handling MW
   ```
-* **(PvE) Welcome to the Boomtown 💥 Baseline (13.3% chance)**: Spike grenades and a decent reload perk, that's all we're looking for here.
+* **(PvE) Welcome to the Boomtown 💥💥 - Relaxed Loading Perks (6.9% chance)**: Spike grenades and demolitionist for more grenades or disruption break to destroy your enemies
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Spike Grenades
+  Perks 1 [100%]: *
+  Perks 2 [ 40%]: Demolitionist, Disruption Break
+  MWorks  [ 60%]: Reload MW, Velocity MW, Handling MW
+  ```
+* **(PvE) Welcome to the Boomtown 💥 - Well... Maybe the Suburbs of Boomtown (Relaxed) (20.0% chance)**: Spike grenades and some sort of reload perk, that's all we're looking for here.
   ```
   Barrels [100%]: *
   Mags    [ 33%]: Spike Grenades
-  Perks 1 [ 40%]: Auto-Loading Holster, Field Prep
+  Perks 1 [ 60%]: Field Prep, Auto-Loading Holster, Feeding Frenzy
   Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
