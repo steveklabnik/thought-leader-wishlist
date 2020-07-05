@@ -72,9 +72,15 @@ groups:
 
 
       Blinding grenades have a 10 meter radius on a 5 second suppression effect which
-      works on all non-Boss creatures.  In high-level PvE content, this can be really
+      works on all non-Ultra/Champion mobs.  In high-level PvE content, this can be really
       useful for suppressing a large area and having an entire fireteam do damage
-      without worrying about retaliation.
+      without worrying about retaliation.  [Ehroar](https://youtu.be/8cA0X0yptco?t=70)
+      calls Blinding Grenades:
+
+
+      > Blinding Grenades are one of the most underrated pieces of utility in the
+      game...[Truthteller] is something I'm going to definitely consider taking into
+      the next raid.
 
 
       As of Season 11, it feels like there's some sort of bug or issue with Concussion
@@ -107,6 +113,15 @@ groups:
       Disruption Break is also viable and for some situations would be amazing to help
       bring a tough blinded enemy down (now if Bungie would ever allow grenade launchers
       to have an Anti-Barrier mod, this would be _amazing_).
+
+
+      This weapon is void and works really well for Voidlocks running Nezarac's Sin.  I've
+      had a lot of fun pairing it with Falling Guillotine (also void) and Bad Juju for
+      very fast grenade and super regeneration.  Add in some mods like Blast Radius (get
+      Charged with Light for GL kills), Lucent Blade (extra sword damage), Protective Light
+      (50% damage received when your shield breaks), Dire Artillery (extra super on GL kills),
+      and Oppressive Darkness (enemies take 35% more damage).   This is the build I'll be
+      running for the rest of the season.
     rolls:
       - &blindedbyscience
         name: (PvE) "Blinded by Science" 🧪🧪🧪🌟 Collector's Edition
