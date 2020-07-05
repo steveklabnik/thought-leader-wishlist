@@ -31,14 +31,18 @@ groups:
       get their hands on various rolls.
 
 
-      The headline perk here is Killing Wind, the go-to in column three. The
-      decent Stability and low Zoom factor downplay the need for the only other
-      alternative - `Zen Moment`. Check out
-      [CoolGuy's overview](https://www.youtube.com/watch?v=go1TYsXCopc&feature=youtu.be&t=420)
-      for a quick primer. Here's are the benefits as he describes them:
+      The headline perks here are `Killing Wind` and Shaxx-help-me - the
+      reworked `Pulse Monitor`. The decent Stability and low Zoom factor
+      downplay the need for the only other alternative: `Zen Moment`. CoolGuy
+      has videos about each both 
+      [Killing Wind](https://www.youtube.com/watch?v=go1TYsXCopc&feature=youtu.be&t=420)
+      and
+      [Pulse Monitor](https://www.youtube.com/watch?v=T5uGlzAoS3E)
+      `Pulse Monitor` does what's on the tin whereas `Killing Wind` could use a
+      little more clarity. Here's are the benefits as he describes them:
 
 
-      * Killing Wind has a five second duration. Additional kills refresh the
+      * `Killing Wind` has a five second duration. Additional kills refresh the
       duration.
       
       * It adds roughly five tiers of Mobility with the attendant benefits
@@ -71,7 +75,7 @@ groups:
           really nuts.
         barrels: [Arrowhead Brake]
         magazines: [Ricochet Rounds]
-        perks1: [Killing Wind]
+        perks1: [Killing Wind, Pulse Monitor]
         perks2: [Headseeker, Multikill Clip, Swashbuckler]
         masterworks: [Stability MW]
       -
@@ -144,7 +148,7 @@ groups:
           of barrels to play off of, drastically increasing your chances.
         barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
         magazines: [Ricochet Rounds]
-        perks1: [Killing Wind]
+        perks1: [Killing Wind, Pulse Monitor]
         perks2: [Headseeker, Multikill Clip, Swashbuckler]
         masterworks: [Stability MW]
       -
