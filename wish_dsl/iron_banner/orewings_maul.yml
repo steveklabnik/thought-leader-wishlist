@@ -60,7 +60,7 @@ groups:
 
       In the immortal words of
       [@tednaleid](https://github.com/tednaleid)
-      "I'm not sure why bungie created both of these weapons" and it's true!
+      "I'm not sure why Bungie created both of these weapons" and it's true!
       It's hard to see why you'd run an Orewing's over a Truthteller. Heck it's
       hard to see why you'd run an Orewing's at all given the two most important
       slots have near zero utility in PvP.
@@ -69,8 +69,8 @@ groups:
       Remember to pair this with the `Quick Access Sling` mod as it'll proc with
       every shot and let us more quickly clean up what we've started.
     rolls:
-      - &omblind
-        name: (PvP/PvE) "Blinded by the Light" 🙈🙈🙈🌟 Collector's Edition
+      - &omblinddraw
+        name: (PvP/PvE) "Blinded by the Light" 🙈🙈🙈🌟🌟 Collector's Edition
         desc: >
           
         barrels: [Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch]
@@ -78,24 +78,24 @@ groups:
         perks1: [Quickdraw]
         perks2: [Auto-Loading Holster]
         masterworks: [Velocity MW]
+      - &omblind
+        <<: *omblinddraw
+        name: (PvP/PvE) "Blinded by the Light" 🙈🙈🙈🌟 Collector's Edition
+        desc: >
+          The rest of the rolls won't feature `Quickdraw`. It's fine but with
+          `Quick Access Sling` you won't miss it.
+        perks1: []
       -
         <<: *omblind
-        name: (PvP/PvE) "Blinded" 🙈🙈🙈 CE (- Barrels)
+        name: (PvP/PvE) "Blinded" 🙈🙈 CE (- Barrels)
         desc: >
           ...
         barrels: []
       -
         <<: *omblind
-        name: (PvP/PvE) "Blinded" 🙈🙈🙈 CE (- Masterworks)
+        name: (PvP/PvE) "Blinded" 🙈🙈 CE (- Masterworks)
         desc: >
           ...
-        masterworks: []
-      -
-        <<: *omblind
-        name: (PvP/PvE) "Blinded" 🙈🙈 CE (- Barrels - Masterworks)
-        desc: >
-          ...
-        barrels: []
         masterworks: []
       -
         <<: *omblind
@@ -103,7 +103,6 @@ groups:
         desc: >
           ...
         barrels: []
-        perks1: []
         masterworks: []
   -
     name: PvE
