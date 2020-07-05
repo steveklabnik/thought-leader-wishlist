@@ -1,0 +1,213 @@
+name: Fool's Remedy
+item_id: 65611680
+lightgg: https://www.light.gg/db/items/65611680/the-fools-remedy/
+slots:
+  barrels:     {t: 6, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:
+  - 
+    name: PvP
+    summary: >
+      Fool's Remedy is "SUROS Rapid-Fire" (i.e. fully automatic) 450 RPM Sidearm
+      that has been re-issued in Season 11's Iron Banner. The Remedy is the only
+      SUROS-RF sidearm in the game apart from `Dead Man Walking` whose power cap
+      is the current Season (11).
+      
+      
+      If you're going to chase a single weapon from Season 11 Iron Banner (thus
+      far), the Fool's Remedy is the one to go for. People are raving about it
+      because of how it performs at base, its available perks, and that those
+      perks now include the new Iron Banner specific perks: `Iron Gaze` and
+      `Iron Grip`.
+
+
+      * Aztecross - ["Fools Remedy Review (Fantastic Sidearm)"](https://www.youtube.com/watch?v=rOqRgxg1dIA)
+
+      * Destiny Fun Police - ["The Fools Remedy - Returning Iron Banner Sidearm"](https://www.youtube.com/watch?v=4zeeXHNls1M)
+
+      * IFrostBolt - ["The Must Have Sidearm (Fool's Remedy)"](https://www.youtube.com/watch?v=g_6qeCktTYY)
+
+      * MTashed - ["This Sidearm Suprised Me! The Fool's Remedy Iron Banner Sidearm"](https://www.youtube.com/watch?v=vmIhv_j7Yuo)
+
+      * TrueVanguard - ["This New Iron Banner Sidearm is NUTS"](https://www.youtube.com/watch?v=frkRY-HSUQE)
+
+      
+      As is pleasantly becoming the norm in Season 11, it's hard to pick a single
+      "god roll" for this sidearm. We're trending towards a lack of
+      unequivocally "best" rolls (or even best-per-input-type) and that's going
+      to make the Destiny sandbox a lot more interesting, especially as the
+      first batch of weapons sunset this season.
+
+
+      We're going to proceed with these starting from the last perk and working
+      our way backwards. I agree with CoolGuy that the two most important perks
+      are the final columns and you build the rest of the roll around them.
+      Fortunately there are so many great possibilities here, you stand a good
+      chance of landing multiple rolls!
+    rolls:
+      - &frsights
+        name: (PvP) "In my Sights" 👓👓👓🌟 Collector's Edition
+        desc: >
+          Working backwards from `Iron Gaze` (+20 AA), we're going for as much
+          `Stability` as we can. We'd end choosing the rest of the roll
+          similarly if we landed `Kill Clip` or `Eye of the Storm` in the final
+          slot, so we'll combine these rolls.
+        barrels: [Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS]
+        magazines: [Ricochet Rounds]
+        perks1: [Moving Target, Pulse Monitor]
+        perks2: [Iron Gaze, Eye of the Storm, Kill Clip]
+        masterworks: [Stability MW]
+      -
+        <<: *frsights
+        name: (PvP) "In my Sights" 👓👓👓 CE (- Magazines)
+        desc: >
+          ...
+        magazines: []
+      -
+        <<: *frsights
+        name: (PvP) "In my Sights" 👓👓👓 CE (- Masterworks)
+        desc: >
+          ...
+        masterworks: []
+      -
+        <<: *frsights
+        name: (PvP) "In my Sights" 👓👓 CE (- Magazines - Masterworks)
+        desc: >
+          ...
+        magazines: []
+        masterworks: []
+      - &frgrip
+        name: (PvP) "Sticky Fingers" 🧤🧤🧤🌟 Collector's Edition
+        desc: >
+          Working backwards from `Iron Grip` (+20 Stability), we can free up
+          some of our other columns for non-Stability enhancing perks.
+        barrels: [Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS]
+        magazines: [High-Caliber Rounds, Ricochet Rounds]
+        perks1: [Moving Target, Pulse Monitor]
+        perks2: [Iron Grip]
+        masterworks: [Stability MW]
+      -
+        <<: *frgrip
+        name: (PvP) "Sticky Fingers" 🧤🧤🧤 CE (- Magazines)
+        desc: >
+          ...
+        magazines: []
+      -
+        <<: *frgrip
+        name: (PvP) "Sticky Fingers" 🧤🧤🧤 CE (- Masterworks)
+        desc: >
+          ...
+        masterworks: []
+      -
+        <<: *frgrip
+        name: (PvP) "Sticky Fingers" 🧤🧤 CE (- Magazines - Masterworks)
+        desc: >
+          ...
+        magazines: []
+        masterworks: []
+  - 
+    name: PvE
+    summary: >
+      There's only one damage-boosting perk in the final column, so this will
+      be a straightforward set of rolls.
+    rolls:
+      - &frfrenzy
+        name: (PvE) "Gunslinger's Frenzy" 🤠🤠🤠🌟 Collector's Edition
+        desc: >
+          Fast reload and as much `Range` as we can get.
+        barrels: [Target SAS, Tactic SAS, Shortspec SAS]
+        magazines: [High-Caliber Rounds, Armor-Piercing Rounds, Light Mag]
+        perks1: [Feeding Frenzy]
+        perks2: [Kill Clip]
+        masterworks: [Range MW]
+      -
+        <<: *frfrenzy
+        name: (PvE) "Frenzy" 🤠🤠🤠 CE (- Barrels)
+        desc: >
+          ...
+        barrels: []
+      - &frfrenzymags
+        <<: *frfrenzy
+        name: (PvE) "Frenzy" 🤠🤠🤠 CE (+ Magazines)
+        desc: >
+          ...
+        magazines: [High-Caliber Rounds, Armor-Piercing Rounds, Light Mag, Appended Mag, Flared Magwell, Ricochet Rounds]
+      -
+        <<: *frfrenzy
+        name: (PvE) "Frenzy" 🤠🤠🤠 CE (- Masterworks)
+        desc: >
+          ...
+        masterworks: []
+      -
+        <<: *frfrenzy
+        name: (PvE) "Frenzy" 🤠🤠 CE (- Barrels - Masterworks)
+        desc: >
+          ...
+        barrels: []
+        masterworks: []
+      -
+        <<: *frfrenzymags
+        name: (PvE) "Frenzy" 🤠🤠 CE (- Barrels + Magazines)
+        desc: >
+          ...
+        barrels: []
+      -
+        <<: *frfrenzymags
+        name: (PvE) "Frenzy" 🤠🤠 CE (+ Magazines - Masterworks)
+        desc: >
+          ...
+        masterworks: []
+      -
+        <<: *frfrenzymags
+        name: (PvE) "Frenzy" 🤠 (Baseline)
+        desc: >
+          ...
+        barrels: []
+        masterworks: []
+      - &frempty
+        name: (PvE) "Running on Empty" ⛽️⛽️⛽️🌟 Collector's Edition
+        desc: >
+          This is a weird one... we're draining the mag to get the reload
+          boost from `Alloy Magazine` so we have to watch out for other
+          perks that might short-circuit this way of using it.
+        barrels: [Target SAS, Tactic SAS, Shortspec SAS]
+        magazines: [Alloy Magazine]
+        perks1: [Feeding Frenzy, Moving Target, Hip-Fire Grip]
+        perks2: [Kill Clip]
+        masterworks: [Range MW]
+      -
+        <<: *frempty
+        name: (PvE) "Running on Empty" ⛽️⛽️⛽️ CE (- Barrels)
+        desc: >
+          ...
+        barrels: []
+      -
+        <<: *frempty
+        name: (PvE) "Running on Empty" ⛽️⛽️⛽️ CE (- Perks)
+        desc: >
+          ...
+        perks1: []
+      -
+        <<: *frempty
+        name: (PvE) "Running on Empty" ⛽️⛽️⛽️ CE (- Masterworks)
+        desc: >
+          ...
+        masterworks: []
+      -
+        <<: *frempty
+        name: (PvE) "Running on Empty" ⛽️⛽️ CE (- Barrels - Masterworks)
+        desc: >
+          ...
+        barrels: []
+        masterworks: []
+      -
+        <<: *frempty
+        name: (PvE) "Running on Empty" ⛽️ (Baseline)
+        desc: >
+          ...
+        barrels: []
+        perks1: []
+        masterworks: []
