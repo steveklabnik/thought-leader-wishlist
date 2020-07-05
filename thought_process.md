@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-05 04:15:31 +00:00`.
+* It was generated `2020-07-05 04:46:16 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -1354,10 +1354,10 @@ Let's talk perks, and why you probably want a Truthteller instead ;)
 * **Column 3**: Only one perk in this column has utility in PvP and that's `Quickdraw`.
 * **Column 4** : Only one perk in this column has utility in PvP and that's Auto-Loading Holster. `Rangefinder`, `Moving Target` and `Snapshot` don't help us at all, because you're always hip-firing. `Demolitionist` only procs on kills and we're using these to open, not to close. If you get any other perk than ALH in this slot, it will unfortunately go to waste.
 
-In the immortal words of [@tednaleid](https://github.com/tednaleid) "I'm not sure why bungie created both of these weapons" and it's true! It's hard to see why you'd run an Orewing's over a Truthteller. Heck it's hard to see why you'd run an Orewing's at all given the two most important slots have near zero utility in PvP.
+In the immortal words of [@tednaleid](https://github.com/tednaleid) "I'm not sure why Bungie created both of these weapons" and it's true! It's hard to see why you'd run an Orewing's over a Truthteller. Heck it's hard to see why you'd run an Orewing's at all given the two most important slots have near zero utility in PvP.
 
 Remember to pair this with the `Quick Access Sling` mod as it'll proc with every shot and let us more quickly clean up what we've started.
-* **(PvP/PvE) "Blinded by the Light" 🙈🙈🙈🌟 Collector's Edition (0.2% chance)**: 
+* **(PvP/PvE) "Blinded by the Light" 🙈🙈🙈🌟🌟 Collector's Edition (0.2% chance)**: 
   ```
   Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
   Mags    [ 33%]: Blinding Grenades
@@ -1365,27 +1365,27 @@ Remember to pair this with the `Quick Access Sling` mod as it'll proc with every
   Perks 2 [ 20%]: Auto-Loading Holster
   MWorks  [ 20%]: Velocity MW
   ```
-* **(PvP/PvE) "Blinded" 🙈🙈🙈 CE (- Barrels) (0.3% chance)**: ...
-  ```
-  Barrels [100%]: *
-  Mags    [ 33%]: Blinding Grenades
-  Perks 1 [ 20%]: Quickdraw
-  Perks 2 [ 20%]: Auto-Loading Holster
-  MWorks  [ 20%]: Velocity MW
-  ```
-* **(PvP/PvE) "Blinded" 🙈🙈🙈 CE (- Masterworks) (1.1% chance)**: ...
+* **(PvP/PvE) "Blinded by the Light" 🙈🙈🙈🌟 Collector's Edition (1.1% chance)**: The rest of the rolls won't feature `Quickdraw`. It's fine but with `Quick Access Sling` you won't miss it.
   ```
   Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
   Mags    [ 33%]: Blinding Grenades
-  Perks 1 [ 20%]: Quickdraw
+  Perks 1 [100%]: *
   Perks 2 [ 20%]: Auto-Loading Holster
-  MWorks  [100%]: *
+  MWorks  [ 20%]: Velocity MW
   ```
-* **(PvP/PvE) "Blinded" 🙈🙈 CE (- Barrels - Masterworks) (1.3% chance)**: ...
+* **(PvP/PvE) "Blinded" 🙈🙈 CE (- Barrels) (1.3% chance)**: ...
   ```
   Barrels [100%]: *
   Mags    [ 33%]: Blinding Grenades
-  Perks 1 [ 20%]: Quickdraw
+  Perks 1 [100%]: *
+  Perks 2 [ 20%]: Auto-Loading Holster
+  MWorks  [ 20%]: Velocity MW
+  ```
+* **(PvP/PvE) "Blinded" 🙈🙈 CE (- Masterworks) (5.7% chance)**: ...
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Blinding Grenades
+  Perks 1 [100%]: *
   Perks 2 [ 20%]: Auto-Loading Holster
   MWorks  [100%]: *
   ```
