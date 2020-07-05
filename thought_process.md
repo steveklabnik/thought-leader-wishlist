@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-04 01:22:23 +00:00`.
+* It was generated `2020-07-05 01:30:32 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -2589,7 +2589,9 @@ I'll be pairing this with the `Quick Access Sling` mod as it'll proc with every 
 
 In PvE there are a couple of roles that Truthteller can fill, and a number of great perks to look for.
 
-Blinding grenades have a 10 meter radius on a 5 second suppression effect which works on all non-Boss creatures.  In high-level PvE content, this can be really useful for suppressing a large area and having an entire fireteam do damage without worrying about retaliation.
+Blinding grenades have a 10 meter radius on a 5 second suppression effect which works on all non-Ultra/Champion mobs.  In high-level PvE content, this can be really useful for suppressing a large area and having an entire fireteam do damage without worrying about retaliation.  [Ehroar](https://youtu.be/8cA0X0yptco?t=70) calls Blinding Grenades:
+
+> Blinding Grenades are one of the most underrated pieces of utility in the game...[Truthteller] is something I'm going to definitely consider taking into the next raid.
 
 As of Season 11, it feels like there's some sort of bug or issue with Concussion Grenades.  They have the same -50 penalty to blast radius of Blinding Grenades and also have the same 5s duration to the effect, but their area of effect is only a 5 meter radius (~25% of the total area impacted).
 
@@ -2602,6 +2604,8 @@ Normally, damage boosting perks like Swashbuckler and Multi-Kill clip are highly
 Demolitionist is the best 4th column PvE pick as it has the dual effect of increasing the number of grenades you get, and filling the chamber with a shell after throwing a grenade.
 
 Disruption Break is also viable and for some situations would be amazing to help bring a tough blinded enemy down (now if Bungie would ever allow grenade launchers to have an Anti-Barrier mod, this would be _amazing_).
+
+This weapon is void and works really well for Voidlocks running Nezarac's Sin.  I've had a lot of fun pairing it with Falling Guillotine (also void) and Bad Juju for very fast grenade and super regeneration.  Add in some mods like Blast Radius (get Charged with Light for GL kills), Lucent Blade (extra sword damage), Protective Light (50% damage received when your shield breaks), Dire Artillery (extra super on GL kills), and Oppressive Darkness (enemies take 35% more damage).   This is the build I'll be running for the rest of the season.
 * **(PvE) "Blinded by Science" 🧪🧪🧪🌟 Collector's Edition (0.2% chance)**: Open up an engagement on a group of enemies by suppressing them all with blindness
   ```
   Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
