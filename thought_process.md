@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-05 04:46:16 +00:00`.
+* It was generated `2020-07-05 14:17:38 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -66,9 +66,9 @@ Cold Denial is a 340 RPM "High-Impact Frame" Kinetic Pulse Rifle introduced in S
 
 Everyone is covering this Pulse Rifle because it's absolutely amazing. Check out [Drewksy](https://www.youtube.com/watch?v=vKTOCEijawI&feature=youtu.be&t=119), [Mtashed](https://www.youtube.com/watch?v=RtJeiwwGII0), and [Aztecross](https://www.youtube.com/watch?v=j1jKsnDD6Ss) and I'm sure you'll see more coverage in the coming weeks as more folks get their hands on various rolls.
 
-The headline perk here is Killing Wind, the go-to in column three. The decent Stability and low Zoom factor downplay the need for the only other alternative - `Zen Moment`. Check out [CoolGuy's overview](https://www.youtube.com/watch?v=go1TYsXCopc&feature=youtu.be&t=420) for a quick primer. Here's are the benefits as he describes them:
+The headline perks here are `Killing Wind` and Shaxx-help-me - the reworked `Pulse Monitor`. The decent Stability and low Zoom factor downplay the need for the only other alternative: `Zen Moment`. CoolGuy has videos about each both  [Killing Wind](https://www.youtube.com/watch?v=go1TYsXCopc&feature=youtu.be&t=420) and [Pulse Monitor](https://www.youtube.com/watch?v=T5uGlzAoS3E) `Pulse Monitor` does what's on the tin whereas `Killing Wind` could use a little more clarity. Here's are the benefits as he describes them:
 
-* Killing Wind has a five second duration. Additional kills refresh the duration.
+* `Killing Wind` has a five second duration. Additional kills refresh the duration.
 * It adds roughly five tiers of Mobility with the attendant benefits (strafe speed, etc.).
 * It adds roughly a 4m increase in damage falloff.
       
@@ -77,139 +77,139 @@ The headline perk here is Killing Wind, the go-to in column three. The decent St
 * Handling increase is on par with Snapshot and vastly improved stow speed.
 
 The last column is interesting. A handful of perks elevate the roll but in my opinion, none are essential. Headseeker might seem strange but with the High-Impact buff in S11, it means a 4H2B kill instead of 5H2B on 6 resilience or less. Think about it as making your initial engagement  more forgiving whereas Multikill Clip and Swashbuckler make your follow-on engagements more forgiving.
-* **(PvP) Verticality 🏔🏔🏔🌟 Collector's Edition (0.1% chance)**: You have to see Cold Denial with 100 `Recoil` and bumped up Stability to believe it. It will require that you use a Counterbalance mod, which is par for the course on Scattershot weapons (Autos, SMGs, etc.). It's completely vertical and barely moves during the burst. This roll even without the Stability MW, felt broken when I used it; really nuts.
+* **(PvP) Verticality 🏔🏔🏔🌟 Collector's Edition (0.2% chance)**: You have to see Cold Denial with 100 `Recoil` and bumped up Stability to believe it. It will require that you use a Counterbalance mod, which is par for the course on Scattershot weapons (Autos, SMGs, etc.). It's completely vertical and barely moves during the burst. This roll even without the Stability MW, felt broken when I used it; really nuts.
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 16%]: Killing Wind
+  Perks 1 [ 33%]: Killing Wind, Pulse Monitor
   Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Verticality 🏔🏔🏔CE (Relaxed Masterwork) (0.5% chance)**: The core of this roll is so amazing that it honestly doesn't matter nearly as much what the Masterwork is.
+* **(PvP) Verticality 🏔🏔🏔CE (Relaxed Masterwork) (0.9% chance)**: The core of this roll is so amazing that it honestly doesn't matter nearly as much what the Masterwork is.
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 16%]: Killing Wind
+  Perks 1 [ 33%]: Killing Wind, Pulse Monitor
   Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [100%]: *
   ```
-* **(PvP) Verticality 🏔🏔🏔CE (Relaxed Perks) (0.2% chance)**: As I stated in the intro - the perks in this column are just icing.
+* **(PvP) Verticality 🏔🏔🏔CE (Relaxed Perks) (0.5% chance)**: As I stated in the intro - the perks in this column are just icing.
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 16%]: Killing Wind
+  Perks 1 [ 33%]: Killing Wind, Pulse Monitor
   Perks 2 [100%]: *
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Verticality 🏔🏔🏔CE (Relaxed Perks and Masterworks) (0.9% chance)**: Same as the above with relaxed masterworks.
+* **(PvP) Verticality 🏔🏔🏔CE (Relaxed Perks and Masterworks) (1.9% chance)**: Same as the above with relaxed masterworks.
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 16%]: Killing Wind
+  Perks 1 [ 33%]: Killing Wind, Pulse Monitor
   Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
-* **(PvP) Verticality 🏔🏔CE (Relaxed Magazines) (0.2% chance)**: We'll take a little less Stability; that's still amazing.
+* **(PvP) Verticality 🏔🏔CE (Relaxed Magazines) (0.4% chance)**: We'll take a little less Stability; that's still amazing.
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [ 16%]: Killing Wind
+  Perks 1 [ 33%]: Killing Wind, Pulse Monitor
   Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Verticality 🏔🏔CE (Relaxed Magazines and Masterwork) (0.9% chance)**: Same as the above with relaxed Masterworks.
+* **(PvP) Verticality 🏔🏔CE (Relaxed Magazines and Masterwork) (1.7% chance)**: Same as the above with relaxed Masterworks.
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [ 16%]: Killing Wind
+  Perks 1 [ 33%]: Killing Wind, Pulse Monitor
   Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [100%]: *
   ```
-* **(PvP) Verticality 🏔🏔CE (Relaxed Magazines, Perks and Masterwork) (1.7% chance)**: Same as the above with relaxed Perks and Masterworks.
+* **(PvP) Verticality 🏔🏔CE (Relaxed Magazines, Perks and Masterwork) (3.4% chance)**: Same as the above with relaxed Perks and Masterworks.
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [ 16%]: Killing Wind
+  Perks 1 [ 33%]: Killing Wind, Pulse Monitor
   Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
-* **(PvP) Verticality 🏔CE (Fully Relaxed Magazines) (0.5% chance)**: We're going to have an absolutely phenomenal roll regardless of what we get in this column.
+* **(PvP) Verticality 🏔CE (Fully Relaxed Magazines) (0.9% chance)**: We're going to have an absolutely phenomenal roll regardless of what we get in this column.
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [100%]: *
-  Perks 1 [ 16%]: Killing Wind
+  Perks 1 [ 33%]: Killing Wind, Pulse Monitor
   Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Verticality 🏔CE (Fully Relaxed Magazines and Masterwork) (1.9% chance)**: Same as the above with relaxed Masterworks.
+* **(PvP) Verticality 🏔CE (Fully Relaxed Magazines and Masterwork) (3.7% chance)**: Same as the above with relaxed Masterworks.
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [100%]: *
-  Perks 1 [ 16%]: Killing Wind
+  Perks 1 [ 33%]: Killing Wind, Pulse Monitor
   Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [100%]: *
   ```
-* **(PvP) Verticality 🏔CE (Baseline) (3.7% chance)**: Being fully vertical, I think you're in a real good place.
+* **(PvP) Verticality 🏔CE (Baseline) (7.4% chance)**: Being fully vertical, I think you're in a real good place.
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [100%]: *
-  Perks 1 [ 16%]: Killing Wind
+  Perks 1 [ 33%]: Killing Wind, Pulse Monitor
   Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
-* **(PvP) Best Grip 🧤🧤🧤🌟 Collector's Edition (0.4% chance)**: Similar to the Verticality set, this has a practically gauranteed set of barrels to play off of, drastically increasing your chances.
+* **(PvP) Best Grip 🧤🧤🧤🌟 Collector's Edition (0.9% chance)**: Similar to the Verticality set, this has a practically gauranteed set of barrels to play off of, drastically increasing your chances.
   ```
   Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 16%]: Killing Wind
+  Perks 1 [ 33%]: Killing Wind, Pulse Monitor
   Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Best Grip 🧤🧤🧤CE (Relaxed Masterwork) (1.7% chance)**: The core of this roll is so amazing that it honestly doesn't matter nearly as much what the Masterwork is.
+* **(PvP) Best Grip 🧤🧤🧤CE (Relaxed Masterwork) (3.5% chance)**: The core of this roll is so amazing that it honestly doesn't matter nearly as much what the Masterwork is.
   ```
   Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 16%]: Killing Wind
+  Perks 1 [ 33%]: Killing Wind, Pulse Monitor
   Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [100%]: *
   ```
-* **(PvP) Best Grip 🧤🧤🧤CE (Relaxed Perks) (0.9% chance)**: As I stated in the intro - the perks in this column are just icing.
+* **(PvP) Best Grip 🧤🧤🧤CE (Relaxed Perks) (1.7% chance)**: As I stated in the intro - the perks in this column are just icing.
   ```
   Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 16%]: Killing Wind
+  Perks 1 [ 33%]: Killing Wind, Pulse Monitor
   Perks 2 [100%]: *
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Best Grip 🧤🧤🧤CE (Relaxed Perks and Masterworks) (3.5% chance)**: Same as the above with relaxed masterworks.
+* **(PvP) Best Grip 🧤🧤🧤CE (Relaxed Perks and Masterworks) (6.9% chance)**: Same as the above with relaxed masterworks.
   ```
   Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 16%]: Killing Wind
+  Perks 1 [ 33%]: Killing Wind, Pulse Monitor
   Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
-* **(PvP) Best Grip 🧤🧤CE (Relaxed Magazines) (0.8% chance)**: We'll take a little less Stability; that's still amazing.
+* **(PvP) Best Grip 🧤🧤CE (Relaxed Magazines) (1.6% chance)**: We'll take a little less Stability; that's still amazing.
   ```
   Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [ 16%]: Killing Wind
+  Perks 1 [ 33%]: Killing Wind, Pulse Monitor
   Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Best Grip 🧤🧤CE (Relaxed Magazines and Masterwork) (3.2% chance)**: Same as the above with relaxed Masterworks.
+* **(PvP) Best Grip 🧤🧤CE (Relaxed Magazines and Masterwork) (6.4% chance)**: Same as the above with relaxed Masterworks.
   ```
   Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [ 16%]: Killing Wind
+  Perks 1 [ 33%]: Killing Wind, Pulse Monitor
   Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [100%]: *
   ```
-* **(PvP) Best Grip 🧤🧤 (Relaxed Magazines, Perks and Masterwork) (6.4% chance)**: Same as the above with relaxed Perks and Masterworks.
+* **(PvP) Best Grip 🧤🧤 (Relaxed Magazines, Perks and Masterwork) (12.9% chance)**: Same as the above with relaxed Perks and Masterworks.
   ```
   Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [ 16%]: Killing Wind
+  Perks 1 [ 33%]: Killing Wind, Pulse Monitor
   Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
