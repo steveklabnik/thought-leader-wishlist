@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-05 01:35:42 +00:00`.
+* It was generated `2020-07-05 04:15:31 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -21,6 +21,7 @@ I go back and fill in world drops.
 **Iron Banner**
 * Bite of the Fox ([PvP](#bite-of-the-fox---pvp))
 * Crimil's Dagger ([PvP](#crimils-dagger---pvp), [PvE](#crimils-dagger---pve))
+* Orewing's Maul ([PvP](#orewings-maul---pvp), [PvE](#orewings-maul---pve))
 * Swarm of the Raven ([PvE](#swarm-of-the-raven---pve))
 
 **World Drops**
@@ -1336,6 +1337,111 @@ Part of the added challenge with these old weapons is that the perk pools are so
   Mags    [ 25%]: Drop Mag
   Perks 1 [100%]: *
   Perks 2 [ 14%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+## Orewing's Maul - PvP
+*For all possible perks, check out **Orewing's Maul** over on [light.gg](https://www.light.gg/db/items/2108920981/orewings-maul/)*
+
+
+Orewing's is almost identical to the [Truthteller](#truthteller---pvp) in every way, save for a much less excellent perk pool. Truthteller has more interesting combinations, but if you're swimming in GL's from Iron Banner and really want to keep one, read on.
+
+[Destiny Fun Police](https://www.youtube.com/watch?v=gXhfIXnPTT4) (aka DFP) first popularized these back in Year 1 of Destiny 2 when he used the Fighting Lion to great affect.
+
+Like Truthteller, Orewing's is part of the "Lightweight Frame" grenade launchers (breach-loaded, single shot). Lightweight grenade launchers all have a "remote detonation" ability where they detonate when you release the trigger (or you get a direct hit). These weapons have a very high skill ceiling, allowing banked shots and shots that explode next to enemies in cover. In PvP, these weapons excel at starting engagements rather than finishing them. We want Orewing's to soften our enemies up, even if we don't get a direct hit.
+
+Let's talk perks, and why you probably want a Truthteller instead ;)
+* **Column 2**: Here you have a choice between `Spike`, `Blinding` and `Concussion` grenades. Blinding grenades flash your screen white and slowly subside whereas Concussion grenades jerk your camera dramatically, like being hit by a tether. Either Concussion or Blinding grenades are bugged because Blinding's radius is massive whereas Concussion requires a near direct hit. With such a wide radius, you can practically gaurantee that you'll be able to blind folks in PvP so I tend to suggest `Blinding`. What about `Promixity`? The proximity detonation radius is so miniscule that you may as well use `Spike` if you're that accurate. Firing at enemies in the Tribute Hall and you have to give them a buzz cut for `Proximity` to proc.
+* **Column 3**: Only one perk in this column has utility in PvP and that's `Quickdraw`.
+* **Column 4** : Only one perk in this column has utility in PvP and that's Auto-Loading Holster. `Rangefinder`, `Moving Target` and `Snapshot` don't help us at all, because you're always hip-firing. `Demolitionist` only procs on kills and we're using these to open, not to close. If you get any other perk than ALH in this slot, it will unfortunately go to waste.
+
+In the immortal words of [@tednaleid](https://github.com/tednaleid) "I'm not sure why bungie created both of these weapons" and it's true! It's hard to see why you'd run an Orewing's over a Truthteller. Heck it's hard to see why you'd run an Orewing's at all given the two most important slots have near zero utility in PvP.
+
+Remember to pair this with the `Quick Access Sling` mod as it'll proc with every shot and let us more quickly clean up what we've started.
+* **(PvP/PvE) "Blinded by the Light" 🙈🙈🙈🌟 Collector's Edition (0.2% chance)**: 
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Blinding Grenades
+  Perks 1 [ 20%]: Quickdraw
+  Perks 2 [ 20%]: Auto-Loading Holster
+  MWorks  [ 20%]: Velocity MW
+  ```
+* **(PvP/PvE) "Blinded" 🙈🙈🙈 CE (- Barrels) (0.3% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 33%]: Blinding Grenades
+  Perks 1 [ 20%]: Quickdraw
+  Perks 2 [ 20%]: Auto-Loading Holster
+  MWorks  [ 20%]: Velocity MW
+  ```
+* **(PvP/PvE) "Blinded" 🙈🙈🙈 CE (- Masterworks) (1.1% chance)**: ...
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Blinding Grenades
+  Perks 1 [ 20%]: Quickdraw
+  Perks 2 [ 20%]: Auto-Loading Holster
+  MWorks  [100%]: *
+  ```
+* **(PvP/PvE) "Blinded" 🙈🙈 CE (- Barrels - Masterworks) (1.3% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 33%]: Blinding Grenades
+  Perks 1 [ 20%]: Quickdraw
+  Perks 2 [ 20%]: Auto-Loading Holster
+  MWorks  [100%]: *
+  ```
+* **(PvP/PvE) "Blinded" 🙈 (Baseline) (6.7% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 33%]: Blinding Grenades
+  Perks 1 [100%]: *
+  Perks 2 [ 20%]: Auto-Loading Holster
+  MWorks  [100%]: *
+  ```
+## Orewing's Maul - PvE
+*For all possible perks, check out **Orewing's Maul** over on [light.gg](https://www.light.gg/db/items/2108920981/orewings-maul/)*
+
+
+This section is the same as the Truthteller PvE writeup. [Have a look](#truthteller---pve) and come on back!
+
+The main difference is that the perks on Orewing's are in different columns, so we don't have as many choices.
+* **(PvE) "Welcome to the Boomtown" 💥💥💥🌟 Collector's Edition (0.5% chance)**: Maximize direct damage on larger enemies with Spike Grenades, reload perks and masterwork as you're relying on this weapon and not others.
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Spike Grenades
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 40%]: Auto-Loading Holster, Demolitionist
+  MWorks  [ 20%]: Reload MW
+  ```
+* **(PvE) "Boomtown" 💥💥💥 (+ Masterworks) (1.4% chance)**: ...
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Spike Grenades
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 40%]: Auto-Loading Holster, Demolitionist
+  MWorks  [ 60%]: Reload MW, Velocity MW, Handling MW
+  ```
+* **(PvE) "Boomtown" 💥💥💥 (- Perks) (2.3% chance)**: ...
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Spike Grenades
+  Perks 1 [100%]: *
+  Perks 2 [ 40%]: Auto-Loading Holster, Demolitionist
+  MWorks  [ 20%]: Reload MW
+  ```
+* **(PvE) "Boomtown" 💥💥 (- Perks + Masterworks) (6.9% chance)**: ...
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Spike Grenades
+  Perks 1 [100%]: *
+  Perks 2 [ 40%]: Auto-Loading Holster, Demolitionist
+  MWorks  [ 60%]: Reload MW, Velocity MW, Handling MW
+  ```
+* **(PvE) "Boomtown" 💥 (Baseline) (13.3% chance)**: Spike grenades and some sort of reload perk, that's all we're looking for here.
+  ```
+  Barrels [100%]: *
+  Mags    [ 33%]: Spike Grenades
+  Perks 1 [100%]: *
+  Perks 2 [ 40%]: Auto-Loading Holster, Demolitionist
   MWorks  [100%]: *
   ```
 ## Swarm of the Raven - PvE
