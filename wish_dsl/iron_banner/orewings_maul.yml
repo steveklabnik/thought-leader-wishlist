@@ -1,0 +1,153 @@
+name: Orewing's Maul
+item_id: 2108920981
+lightgg: https://www.light.gg/db/items/2108920981/orewings-maul/
+slots:
+  barrels:     {t: 7, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 5, c: 1}
+  masterworks: {t: 5, c: 1}
+groups: 
+  - 
+    name: PvP
+    summary: >
+      Orewing's is almost identical to the
+      [Truthteller](#truthteller---pvp)
+      in every way, save for a much less excellent perk pool. Truthteller has
+      more interesting combinations, but if you're swimming in GL's from Iron
+      Banner and really want to keep one, read on.
+
+
+      [Destiny Fun Police](https://www.youtube.com/watch?v=gXhfIXnPTT4)
+      (aka DFP) first popularized these back in Year 1 of Destiny 2 when he
+      used the Fighting Lion to great affect.
+
+
+      Like Truthteller, Orewing's is part of the "Lightweight Frame" grenade
+      launchers (breach-loaded, single shot). Lightweight grenade launchers all
+      have a "remote detonation" ability where they detonate when you release
+      the trigger (or you get a direct hit). These weapons have a very high
+      skill ceiling, allowing banked shots and shots that explode next to
+      enemies in cover. In PvP, these weapons excel at starting engagements
+      rather than finishing them. We want Orewing's to soften our enemies up,
+      even if we don't get a direct hit.
+
+
+      Let's talk perks, and why you probably want a Truthteller instead ;)
+
+      * **Column 2**: Here you have a choice between `Spike`, `Blinding` and
+      `Concussion` grenades. Blinding grenades flash your screen white and
+      slowly subside whereas Concussion grenades jerk your camera dramatically,
+      like being hit by a tether. Either Concussion or Blinding grenades are
+      bugged because Blinding's radius is massive whereas Concussion requires
+      a near direct hit. With such a wide radius, you can practically gaurantee
+      that you'll be able to blind folks in PvP so I tend to suggest `Blinding`.
+      What about `Promixity`? The proximity detonation radius is so miniscule
+      that you may as well use `Spike` if you're that accurate. Firing at
+      enemies in the Tribute Hall and you have to give them a buzz cut for
+      `Proximity` to proc.
+
+      * **Column 3**: Only one perk in this column has utility in PvP and
+      that's `Quickdraw`.
+      
+      * **Column 4** : Only one perk in this column has utility in PvP and
+      that's Auto-Loading Holster. `Rangefinder`, `Moving Target` and `Snapshot`
+      don't help us at all, because you're always hip-firing. `Demolitionist`
+      only procs on kills and we're using these to open, not to close. If you
+      get any other perk than ALH in this slot, it will unfortunately go to
+      waste.
+
+
+      In the immortal words of
+      [@tednaleid](https://github.com/tednaleid)
+      "I'm not sure why bungie created both of these weapons" and it's true!
+      It's hard to see why you'd run an Orewing's over a Truthteller. Heck it's
+      hard to see why you'd run an Orewing's at all given the two most important
+      slots have near zero utility in PvP.
+
+
+      Remember to pair this with the `Quick Access Sling` mod as it'll proc with
+      every shot and let us more quickly clean up what we've started.
+    rolls:
+      - &omblind
+        name: (PvP/PvE) "Blinded by the Light" 🙈🙈🙈🌟 Collector's Edition
+        desc: >
+          
+        barrels: [Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch]
+        magazines: [Blinding Grenades]
+        perks1: [Quickdraw]
+        perks2: [Auto-Loading Holster]
+        masterworks: [Velocity MW]
+      -
+        <<: *omblind
+        name: (PvP/PvE) "Blinded" 🙈🙈🙈 CE (- Barrels)
+        desc: >
+          ...
+        barrels: []
+      -
+        <<: *omblind
+        name: (PvP/PvE) "Blinded" 🙈🙈🙈 CE (- Masterworks)
+        desc: >
+          ...
+        masterworks: []
+      -
+        <<: *omblind
+        name: (PvP/PvE) "Blinded" 🙈🙈 CE (- Barrels - Masterworks)
+        desc: >
+          ...
+        barrels: []
+        masterworks: []
+      -
+        <<: *omblind
+        name: (PvP/PvE) "Blinded" 🙈 (Baseline)
+        desc: >
+          ...
+        barrels: []
+        perks1: []
+        masterworks: []
+  -
+    name: PvE
+    summary: >
+      This section is the same as the Truthteller PvE writeup.
+      [Have a look](#truthteller---pve)
+      and come on back!
+
+
+      The main difference is that the perks on Orewing's are in different
+      columns, so we don't have as many choices.
+    rolls:
+      - &omboomtown
+        name: (PvE) "Welcome to the Boomtown" 💥💥💥🌟 Collector's Edition
+        desc: >
+          Maximize direct damage on larger enemies with Spike Grenades, reload
+          perks and masterwork as you're relying on this weapon and not others.
+        barrels: [Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch]
+        magazines: [Spike Grenades]
+        perks1: [Field Prep]
+        perks2: [Auto-Loading Holster, Demolitionist]
+        masterworks: [Reload MW]
+      - <<: *omboomtown
+        name: (PvE) "Boomtown" 💥💥💥 (+ Masterworks)
+        desc: >
+          ...
+        masterworks: [Reload MW, Velocity MW, Handling MW]
+      - <<: *omboomtown
+        name: (PvE) "Boomtown" 💥💥💥 (- Perks)
+        desc: >
+          ...
+        perks1: []
+      - <<: *omboomtown
+        name: (PvE) "Boomtown" 💥💥 (- Perks + Masterworks)
+        desc: >
+          ...
+        perks1: []
+        masterworks: [Reload MW, Velocity MW, Handling MW]
+      - <<: *omboomtown
+        name: (PvE) "Boomtown" 💥 (Baseline)
+        desc: >
+          Spike grenades and some sort of reload perk, that's all we're looking
+          for here.
+        barrels: []
+        perks1: []
+        perks2: [Auto-Loading Holster, Demolitionist]
+        masterworks: []
