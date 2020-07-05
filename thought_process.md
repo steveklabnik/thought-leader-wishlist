@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-05 14:17:38 +00:00`.
+* It was generated `2020-07-05 21:26:35 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -21,6 +21,7 @@ I go back and fill in world drops.
 **Iron Banner**
 * Bite of the Fox ([PvP](#bite-of-the-fox---pvp))
 * Crimil's Dagger ([PvP](#crimils-dagger---pvp), [PvE](#crimils-dagger---pve))
+* Fool's Remedy ([PvP](#fools-remedy---pvp), [PvE](#fools-remedy---pve))
 * Orewing's Maul ([PvP](#orewings-maul---pvp), [PvE](#orewings-maul---pve))
 * Swarm of the Raven ([PvE](#swarm-of-the-raven---pve))
 
@@ -1337,6 +1338,204 @@ Part of the added challenge with these old weapons is that the perk pools are so
   Mags    [ 25%]: Drop Mag
   Perks 1 [100%]: *
   Perks 2 [ 14%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+## Fool's Remedy - PvP
+*For all possible perks, check out **Fool's Remedy** over on [light.gg](https://www.light.gg/db/items/65611680/the-fools-remedy/)*
+
+
+Fool's Remedy is "SUROS Rapid-Fire" (i.e. fully automatic) 450 RPM Sidearm that has been re-issued in Season 11's Iron Banner. The Remedy is the only SUROS-RF sidearm in the game apart from `Dead Man Walking` whose power cap is the current Season (11).
+
+If you're going to chase a single weapon from Season 11 Iron Banner (thus far), the Fool's Remedy is the one to go for. People are raving about it because of how it performs at base, its available perks, and that those perks now include the new Iron Banner specific perks: `Iron Gaze` and `Iron Grip`.
+
+* Aztecross - ["Fools Remedy Review (Fantastic Sidearm)"](https://www.youtube.com/watch?v=rOqRgxg1dIA)
+* Destiny Fun Police - ["The Fools Remedy - Returning Iron Banner Sidearm"](https://www.youtube.com/watch?v=4zeeXHNls1M)
+* IFrostBolt - ["The Must Have Sidearm (Fool's Remedy)"](https://www.youtube.com/watch?v=g_6qeCktTYY)
+* MTashed - ["This Sidearm Suprised Me! The Fool's Remedy Iron Banner Sidearm"](https://www.youtube.com/watch?v=vmIhv_j7Yuo)
+* TrueVanguard - ["This New Iron Banner Sidearm is NUTS"](https://www.youtube.com/watch?v=frkRY-HSUQE)
+
+As is pleasantly becoming the norm in Season 11, it's hard to pick a single "god roll" for this sidearm. We're trending towards a lack of unequivocally "best" rolls (or even best-per-input-type) and that's going to make the Destiny sandbox a lot more interesting, especially as the first batch of weapons sunset this season.
+
+We're going to proceed with these starting from the last perk and working our way backwards. I agree with CoolGuy that the two most important perks are the final columns and you build the rest of the roll around them. Fortunately there are so many great possibilities here, you stand a good chance of landing multiple rolls!
+* **(PvP) "In my Sights" 👓👓👓🌟 Collector's Edition (1.0% chance)**: Working backwards from `Iron Gaze` (+20 AA), we're going for as much `Stability` as we can. We'd end choosing the rest of the roll similarly if we landed `Kill Clip` or `Eye of the Storm` in the final slot, so we'll combine these rolls.
+  ```
+  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 33%]: Moving Target, Pulse Monitor
+  Perks 2 [ 50%]: Iron Gaze, Eye of the Storm, Kill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "In my Sights" 👓👓👓 CE (- Magazines) (3.9% chance)**: ...
+  ```
+  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Moving Target, Pulse Monitor
+  Perks 2 [ 50%]: Iron Gaze, Eye of the Storm, Kill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "In my Sights" 👓👓👓 CE (- Masterworks) (3.9% chance)**: ...
+  ```
+  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 33%]: Moving Target, Pulse Monitor
+  Perks 2 [ 50%]: Iron Gaze, Eye of the Storm, Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) "In my Sights" 👓👓 CE (- Magazines - Masterworks) (15.6% chance)**: ...
+  ```
+  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Moving Target, Pulse Monitor
+  Perks 2 [ 50%]: Iron Gaze, Eye of the Storm, Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Sticky Fingers" 🧤🧤🧤🌟 Collector's Edition (0.6% chance)**: Working backwards from `Iron Grip` (+20 Stability), we can free up some of our other columns for non-Stability enhancing perks.
+  ```
+  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
+  Mags    [ 46%]: High-Caliber Rounds, Ricochet Rounds
+  Perks 1 [ 33%]: Moving Target, Pulse Monitor
+  Perks 2 [ 16%]: Iron Grip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Sticky Fingers" 🧤🧤🧤 CE (- Magazines) (1.3% chance)**: ...
+  ```
+  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Moving Target, Pulse Monitor
+  Perks 2 [ 16%]: Iron Grip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Sticky Fingers" 🧤🧤🧤 CE (- Masterworks) (2.4% chance)**: ...
+  ```
+  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
+  Mags    [ 46%]: High-Caliber Rounds, Ricochet Rounds
+  Perks 1 [ 33%]: Moving Target, Pulse Monitor
+  Perks 2 [ 16%]: Iron Grip
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Sticky Fingers" 🧤🧤 CE (- Magazines - Masterworks) (5.2% chance)**: ...
+  ```
+  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Moving Target, Pulse Monitor
+  Perks 2 [ 16%]: Iron Grip
+  MWorks  [100%]: *
+  ```
+## Fool's Remedy - PvE
+*For all possible perks, check out **Fool's Remedy** over on [light.gg](https://www.light.gg/db/items/65611680/the-fools-remedy/)*
+
+
+There's only one damage-boosting perk in the final column, so this will be a straightforward set of rolls.
+* **(PvE) "Gunslinger's Frenzy" 🤠🤠🤠🌟 Collector's Edition (0.4% chance)**: Fast reload and as much `Range` as we can get.
+  ```
+  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
+  Mags    [ 64%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Frenzy" 🤠🤠🤠 CE (- Barrels) (0.4% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 64%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Frenzy" 🤠🤠🤠 CE (+ Magazines) (0.5% chance)**: ...
+  ```
+  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
+  Mags    [ 96%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag, Appended Mag, Flared Magwell, Ricochet Rounds
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Frenzy" 🤠🤠🤠 CE (- Masterworks) (1.4% chance)**: ...
+  ```
+  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
+  Mags    [ 64%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Frenzy" 🤠🤠 CE (- Barrels - Masterworks) (1.8% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 64%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Frenzy" 🤠🤠 CE (- Barrels + Magazines) (0.7% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 96%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag, Appended Mag, Flared Magwell, Ricochet Rounds
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Frenzy" 🤠🤠 CE (+ Magazines - Masterworks) (2.1% chance)**: ...
+  ```
+  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
+  Mags    [ 96%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag, Appended Mag, Flared Magwell, Ricochet Rounds
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Frenzy" 🤠 (Baseline) (2.7% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 96%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag, Appended Mag, Flared Magwell, Ricochet Rounds
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Running on Empty" ⛽️⛽️⛽️🌟 Collector's Edition (0.4% chance)**: This is a weird one... we're draining the mag to get the reload boost from `Alloy Magazine` so we have to watch out for other perks that might short-circuit this way of using it.
+  ```
+  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
+  Mags    [ 25%]: Alloy Magazine
+  Perks 1 [ 50%]: Feeding Frenzy, Moving Target, Hip-Fire Grip
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Running on Empty" ⛽️⛽️⛽️ CE (- Barrels) (0.5% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Alloy Magazine
+  Perks 1 [ 50%]: Feeding Frenzy, Moving Target, Hip-Fire Grip
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Running on Empty" ⛽️⛽️⛽️ CE (- Perks) (0.8% chance)**: ...
+  ```
+  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
+  Mags    [ 25%]: Alloy Magazine
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Running on Empty" ⛽️⛽️⛽️ CE (- Masterworks) (1.7% chance)**: ...
+  ```
+  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
+  Mags    [ 25%]: Alloy Magazine
+  Perks 1 [ 50%]: Feeding Frenzy, Moving Target, Hip-Fire Grip
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Running on Empty" ⛽️⛽️ CE (- Barrels - Masterworks) (2.1% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Alloy Magazine
+  Perks 1 [ 50%]: Feeding Frenzy, Moving Target, Hip-Fire Grip
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Running on Empty" ⛽️ (Baseline) (4.2% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Alloy Magazine
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Kill Clip
   MWorks  [100%]: *
   ```
 ## Orewing's Maul - PvP
