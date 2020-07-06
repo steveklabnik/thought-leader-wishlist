@@ -145,30 +145,59 @@ groups:
         masterworks: [Accuracy MW]
       -
         <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (Relaxed Bowstrings)
-        desc: >
-          Widening acceptable Bowstrings.
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (+ Bowstrings)
+        desc: ...
         barrels: [High Tension String, Polymer String]
       -
         <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (Relaxed Arrows)
-        desc: >
-          Widening acceptable Arrows.
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (+ Arrows)
+        desc: ...
         magazines: [Fiberglass Arrow Shaft, Straight Fletching]
       -
         <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (Relaxed Masterwork)
-        desc: >
-          Widening acceptable Masterworks.
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (+ Masterworks)
+        desc: ...
         masterworks: [Accuracy MW, Draw Time MW]
       -
         <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐 CE (Fully Relaxed)
-        desc: >
-          Widening both Bowstrings, Arrows and Masterworks.
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (+ Bowstrings + Arrows + Masterworks)
+        desc: ...
         barrels: [High Tension String, Polymer String]
         magazines: [Fiberglass Arrow Shaft, Straight Fletching]
         masterworks: [Accuracy MW, Draw Time MW]
+      -
+        <<: *wschill
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (- Bowstrings)
+        desc: ...
+        barrels: []
+      -
+        <<: *wschill
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (- Arrows)
+        desc: ...
+        magazines: []
+      -
+        <<: *wschill
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (- Masterworks)
+        desc: ...
+        masterworks: []
+      -
+        <<: *wschill
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐 CE (- Bowstrings - Arrows)
+        desc: ...
+        barrels: []
+        magazines: []
+      -
+        <<: *wschill
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐 CE (- Bowstrings - Masterworks)
+        desc: ...
+        barrels: []
+        masterworks: []
+      -
+        <<: *wschill
+        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐 CE (- Arrows - Masterworks)
+        desc: ...
+        magazines: []
+        masterworks: []
       -
         <<: *wschill
         name: (PvP) GuiltySpark's Reserved Slab 🧐 (Baseline)
