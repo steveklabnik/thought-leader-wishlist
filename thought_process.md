@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-05 21:26:35 +00:00`.
+* It was generated `2020-07-06 05:08:50 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -865,7 +865,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Opening Shot
   MWorks  [ 20%]: Accuracy MW
   ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (Relaxed Bowstrings) (0.2% chance)**: Widening acceptable Bowstrings.
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (+ Bowstrings) (0.2% chance)**: ...
   ```
   Barrels [ 52%]: High Tension String, Polymer String
   Mags    [ 33%]: Fiberglass Arrow Shaft
@@ -873,7 +873,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Opening Shot
   MWorks  [ 20%]: Accuracy MW
   ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (Relaxed Arrows) (0.2% chance)**: Widening acceptable Arrows.
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (+ Arrows) (0.2% chance)**: ...
   ```
   Barrels [ 28%]: High Tension String
   Mags    [ 60%]: Fiberglass Arrow Shaft, Straight Fletching
@@ -881,7 +881,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Opening Shot
   MWorks  [ 20%]: Accuracy MW
   ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (Relaxed Masterwork) (0.2% chance)**: Widening acceptable Masterworks.
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (+ Masterworks) (0.2% chance)**: ...
   ```
   Barrels [ 28%]: High Tension String
   Mags    [ 33%]: Fiberglass Arrow Shaft
@@ -889,13 +889,61 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
   Perks 2 [ 33%]: Opening Shot
   MWorks  [ 40%]: Accuracy MW, Draw Time MW
   ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐 CE (Fully Relaxed) (0.7% chance)**: Widening both Bowstrings, Arrows and Masterworks.
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (+ Bowstrings + Arrows + Masterworks) (0.7% chance)**: ...
   ```
   Barrels [ 52%]: High Tension String, Polymer String
   Mags    [ 60%]: Fiberglass Arrow Shaft, Straight Fletching
   Perks 1 [ 16%]: Archer's Tempo
   Perks 2 [ 33%]: Opening Shot
   MWorks  [ 40%]: Accuracy MW, Draw Time MW
+  ```
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (- Bowstrings) (0.4% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 33%]: Fiberglass Arrow Shaft
+  Perks 1 [ 16%]: Archer's Tempo
+  Perks 2 [ 33%]: Opening Shot
+  MWorks  [ 20%]: Accuracy MW
+  ```
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (- Arrows) (0.3% chance)**: ...
+  ```
+  Barrels [ 28%]: High Tension String
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Archer's Tempo
+  Perks 2 [ 33%]: Opening Shot
+  MWorks  [ 20%]: Accuracy MW
+  ```
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (- Masterworks) (0.5% chance)**: ...
+  ```
+  Barrels [ 28%]: High Tension String
+  Mags    [ 33%]: Fiberglass Arrow Shaft
+  Perks 1 [ 16%]: Archer's Tempo
+  Perks 2 [ 33%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐 CE (- Bowstrings - Arrows) (1.1% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Archer's Tempo
+  Perks 2 [ 33%]: Opening Shot
+  MWorks  [ 20%]: Accuracy MW
+  ```
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐 CE (- Bowstrings - Masterworks) (1.9% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 33%]: Fiberglass Arrow Shaft
+  Perks 1 [ 16%]: Archer's Tempo
+  Perks 2 [ 33%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) GuiltySpark's Reserved Slab 🧐🧐 CE (- Arrows - Masterworks) (1.6% chance)**: ...
+  ```
+  Barrels [ 28%]: High Tension String
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Archer's Tempo
+  Perks 2 [ 33%]: Opening Shot
+  MWorks  [100%]: *
   ```
 * **(PvP) GuiltySpark's Reserved Slab 🧐 (Baseline) (5.6% chance)**: These form the core value of the roll.
   ```
