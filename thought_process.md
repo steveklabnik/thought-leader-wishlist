@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-11 03:34:16 +00:00`.
+* It was generated `2020-07-11 04:24:52 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -1735,77 +1735,61 @@ For a moment in time, Swarm of the Raven was a legit DPS option. It's a Void Gre
 
 Talons of the Eagle is a 150 RPM "High-Impact Frame" Kinetic Scout Rifle. It originally appeared wayyy back in Season 4 (aka Forsaken). It's been recently re-issued in the first Season 11 Iron Banner. As part of this re-issue, the perk pool is unchanged, so we have years' worth of knowledge about how these work and years' worth of confusion as to why Scout Rifles can roll with `Threat Detector` and `Hip-Fire Grip`.
 
-The general drawback of 150s is their low `Stability` and `Handling` so we're going to address those in our rolls.
-* **(PvP) "Firmly Scouting" 👀👀👀🌟Collector's Edition (0.0% chance)**: `Firmly Planted` is your best bet here. It's terrific on long-range weapons like Pulse Rifles and Scouts where you can post up in relative cover and ping foes from a distance. There's also not much else terrific in that slot. Zen Moment is good, but Firmly Planted outclasses it.
+The general drawbacks of 150s is their low `Stability` and `Handling` so we're going to address those in our rolls.
+* **(PvP) "Confident Exploder" 💣💣💣🌟Collector's Edition (0.0% chance)**: Here's an odd pairing: `Firmly Planted` and `Explosive Rounds`. If you're contending with Snipers and Arbalests, you need flinch and at base I personally don't feel 150 RPM Scouts cause enough of it. Add in a little `Explosive Rounds` and you got a stew going! `Firmly Planted` is terrific on long-range weapons like Pulse Rifles and  Scouts where you can post up in cover and peek shoot from a distance. There's also not much else terrific in that slot. Zen Moment is good, but Firmly Planted outclasses it.
   ```
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 25%]: Steady Rounds
   Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Moving Target
+  Perks 2 [ 16%]: Explosive Rounds
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Firmly Scouting" 👀👀👀 CE (+ Barrels) (0.2% chance)**: ...
+* **(PvP) "Exploder" 💣💣💣 CE (+ Barrels) (0.2% chance)**: ...
   ```
   Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
   Mags    [ 25%]: Steady Rounds
   Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Moving Target
+  Perks 2 [ 16%]: Explosive Rounds
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Firmly Scouting" 👀👀👀 CE (+ Magazines) (0.1% chance)**: ...
+* **(PvP) "Exploder" 💣💣💣 CE (+ Magazines) (0.1% chance)**: ...
   ```
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Moving Target
+  Perks 2 [ 16%]: Explosive Rounds
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Firmly Scouting" 👀👀👀 CE (+ Magazines + Barrels) (0.4% chance)**: ...
+* **(PvP) "Exploder" 💣💣💣 CE (+ Barrels + Magazines) (0.4% chance)**: ...
   ```
   Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Moving Target
+  Perks 2 [ 16%]: Explosive Rounds
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Firmly Scouting" 👀👀👀 CE (+ Magazines - Barrels) (0.7% chance)**: ...
+* **(PvP) "Exploder" 💣💣💣 CE (+ Barrels - Magazines) (0.7% chance)**: ...
   ```
   Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
   Mags    [100%]: *
   Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Moving Target
+  Perks 2 [ 16%]: Explosive Rounds
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Firmly Scouting" 👀👀👀 CE (+ Magazines + Barrels - Masterworks) (1.8% chance)**: ...
+* **(PvP) "Exploder" 💣💣 (+ Magazines + Barrels + Perks - Masterworks) (1.8% chance)**: ...
   ```
   Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Moving Target
+  Perks 2 [ 16%]: Explosive Rounds
   MWorks  [100%]: *
   ```
-* **(PvP) "Firmly Scouting" 👀👀 CE (+ Magazines + Barrels + Perks) (1.3% chance)**: ...
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 50%]: Moving Target, Opening Shot, Explosive Rounds
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Firmly Scouting" 👀👀 CE (+ Magazines + Barrels + Perks - Masterworks) (5.4% chance)**: ...
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 50%]: Moving Target, Opening Shot, Explosive Rounds
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Firmly Scouting" 👀 (Baseline) (8.3% chance)**: ...
+* **(PvP) "Exploder" 💣 (Baseline) (2.8% chance)**: ...
   ```
   Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
   Mags    [100%]: *
   Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 50%]: Moving Target, Opening Shot, Explosive Rounds
+  Perks 2 [ 16%]: Explosive Rounds
   MWorks  [100%]: *
   ```
 ## Talons of the Eagle - PvE
@@ -1853,7 +1837,7 @@ As mentioned in the PvP summary, Talons is still rocking that Season 4 perk pool
   Perks 2 [ 16%]: Rampage
   MWorks  [100%]: *
   ```
-* **(PvE) "Gunslinger" 🤠🤠 CE (- Barrels - Magazines) (0.8% chance)**: ...
+* **(PvE) "Gunslinger" 🤠🤠 (- Barrels - Magazines) (0.8% chance)**: ...
   ```
   Barrels [100%]: *
   Mags    [100%]: *
@@ -1861,7 +1845,7 @@ As mentioned in the PvP summary, Talons is still rocking that Season 4 perk pool
   Perks 2 [ 16%]: Rampage
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) "Gunslinger" 🤠🤠 CE (- Barrels - Masterworks) (0.8% chance)**: ...
+* **(PvE) "Gunslinger" 🤠🤠 (- Barrels - Masterworks) (0.8% chance)**: ...
   ```
   Barrels [100%]: *
   Mags    [ 25%]: Accurized Rounds
@@ -1869,7 +1853,7 @@ As mentioned in the PvP summary, Talons is still rocking that Season 4 perk pool
   Perks 2 [ 16%]: Rampage
   MWorks  [100%]: *
   ```
-* **(PvE) "Gunslinger" 🤠🤠 CE (- Magazines - Masterworks) (1.9% chance)**: ...
+* **(PvE) "Gunslinger" 🤠🤠 (- Magazines - Masterworks) (1.9% chance)**: ...
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [100%]: *
