@@ -19,73 +19,62 @@ groups:
       can roll with `Threat Detector` and `Hip-Fire Grip`.
 
       
-      The general drawback of 150s is their low `Stability` and `Handling` so
+      The general drawbacks of 150s is their low `Stability` and `Handling` so
       we're going to address those in our rolls.
     rolls:
       - &tefirmly
-        name: (PvP) "Firmly Scouting" 👀👀👀🌟Collector's Edition 
+        name: (PvP) "Confident Exploder" 💣💣💣🌟Collector's Edition 
         desc: >
-          `Firmly Planted` is your best bet here. It's terrific on long-range
-          weapons like Pulse Rifles and Scouts where you can post up in
-          relative cover and ping foes from a distance. There's also not much
-          else terrific in that slot. Zen Moment is good, but Firmly Planted
-          outclasses it.
+          Here's an odd pairing: `Firmly Planted` and `Explosive Rounds`. If
+          you're contending with Snipers and Arbalests, you need flinch and
+          at base I personally don't feel 150 RPM Scouts cause enough of it.
+          Add in a little `Explosive Rounds` and you got a stew going! `Firmly
+          Planted` is terrific on long-range weapons like Pulse Rifles and 
+          Scouts where you can post up in cover and peek shoot from a
+          distance. There's also not much else terrific in that slot. Zen
+          Moment is good, but Firmly Planted outclasses it.
         barrels: [Polygonal Rifling]
         magazines: [Steady Rounds]
         perks1: [Firmly Planted]
-        perks2: [Moving Target]
+        perks2: [Explosive Rounds]
         masterworks: [Stability MW]
       - 
         <<: *tefirmly
-        name: (PvP) "Firmly Scouting" 👀👀👀 CE (+ Barrels)
+        name: (PvP) "Exploder" 💣💣💣 CE (+ Barrels)
         desc: >
           ...
         barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
       - 
         <<: *tefirmly
-        name: (PvP) "Firmly Scouting" 👀👀👀 CE (+ Magazines)
+        name: (PvP) "Exploder" 💣💣💣 CE (+ Magazines)
         desc: >
           ...
         magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
       - &tefirmlynice
         <<: *tefirmly
-        name: (PvP) "Firmly Scouting" 👀👀👀 CE (+ Magazines + Barrels)
+        name: (PvP) "Exploder" 💣💣💣 CE (+ Barrels + Magazines)
         desc: >
           ...
         barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
         magazines: [Steady Rounds, Tactical Mag, Flared Magwell]      
       -
         <<: *tefirmlynice
-        name: (PvP) "Firmly Scouting" 👀👀👀 CE (+ Magazines - Barrels)
+        name: (PvP) "Exploder" 💣💣💣 CE (+ Barrels - Magazines)
         desc: >
           ...
         magazines: []
       -
         <<: *tefirmlynice
-        name: (PvP) "Firmly Scouting" 👀👀👀 CE (+ Magazines + Barrels - Masterworks)
+        name: (PvP) "Exploder" 💣💣 (+ Magazines + Barrels + Perks - Masterworks)
         desc: >
           ...
         masterworks: []
       -
         <<: *tefirmlynice
-        name: (PvP) "Firmly Scouting" 👀👀 CE (+ Magazines + Barrels + Perks)
-        desc: >
-          ...
-        perks2: [Moving Target, Opening Shot, Explosive Rounds]
-      -
-        <<: *tefirmlynice
-        name: (PvP) "Firmly Scouting" 👀👀 CE (+ Magazines + Barrels + Perks - Masterworks)
-        desc: >
-          ...
-        perks2: [Moving Target, Opening Shot, Explosive Rounds]
-        masterworks: []
-      -
-        <<: *tefirmlynice
-        name: (PvP) "Firmly Scouting" 👀 (Baseline)
+        name: (PvP) "Exploder" 💣 (Baseline)
         desc: >
           ...
         magazines: []
-        perks2: [Moving Target, Opening Shot, Explosive Rounds]
         masterworks: []
   - 
     name: PvE
@@ -129,21 +118,21 @@ groups:
         masterworks: []
       -
         <<: *temagazines
-        name: (PvE) "Gunslinger" 🤠🤠 CE (- Barrels - Magazines)
+        name: (PvE) "Gunslinger" 🤠🤠 (- Barrels - Magazines)
         desc: >
           ...
         barrels: []
         magazines: []
       -
         <<: *temagazines
-        name: (PvE) "Gunslinger" 🤠🤠 CE (- Barrels - Masterworks)
+        name: (PvE) "Gunslinger" 🤠🤠 (- Barrels - Masterworks)
         desc: >
           ...
         barrels: []
         masterworks: []
       -
         <<: *temagazines
-        name: (PvE) "Gunslinger" 🤠🤠 CE (- Magazines - Masterworks)
+        name: (PvE) "Gunslinger" 🤠🤠 (- Magazines - Masterworks)
         desc: >
           ...
         magazines: []
