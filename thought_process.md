@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-11 04:24:52 +00:00`.
+* It was generated `2020-07-11 22:13:01 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -1735,8 +1735,10 @@ For a moment in time, Swarm of the Raven was a legit DPS option. It's a Void Gre
 
 Talons of the Eagle is a 150 RPM "High-Impact Frame" Kinetic Scout Rifle. It originally appeared wayyy back in Season 4 (aka Forsaken). It's been recently re-issued in the first Season 11 Iron Banner. As part of this re-issue, the perk pool is unchanged, so we have years' worth of knowledge about how these work and years' worth of confusion as to why Scout Rifles can roll with `Threat Detector` and `Hip-Fire Grip`.
 
-The general drawbacks of 150s is their low `Stability` and `Handling` so we're going to address those in our rolls.
-* **(PvP) "Confident Exploder" 💣💣💣🌟Collector's Edition (0.0% chance)**: Here's an odd pairing: `Firmly Planted` and `Explosive Rounds`. If you're contending with Snipers and Arbalests, you need flinch and at base I personally don't feel 150 RPM Scouts cause enough of it. Add in a little `Explosive Rounds` and you got a stew going! `Firmly Planted` is terrific on long-range weapons like Pulse Rifles and  Scouts where you can post up in cover and peek shoot from a distance. There's also not much else terrific in that slot. Zen Moment is good, but Firmly Planted outclasses it.
+In order to beat out other long-range options in the Kinetic slot for PvP, I think you really want `Explosive Rounds` here. 150s are the slowest-firing, heaviest-hitting scouts but when you're competing against snipers and Arbalests, I think you need more flinch than they can put out at base.
+
+The general drawbacks of 150s is their low `Stability` and `Handling` so we're going to address those as a secondary focus in all in all of our rolls.
+* **(PvP) "Planting Bombs" 🌿🌿🌿💣🌟Collector's Edition (0.0% chance)**: `Firmly Planted` is terrific on long-range weapons like Pulse and Scout Rifles where you can post up in cover and peek shoot from a distance. There's also not much else terrific in that slot. Zen Moment is good, but Firmly Planted outclasses it.
   ```
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 25%]: Steady Rounds
@@ -1744,7 +1746,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Perks 2 [ 16%]: Explosive Rounds
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Exploder" 💣💣💣 CE (+ Barrels) (0.2% chance)**: ...
+* **(PvP) "Planting Bombs" 🌿🌿🌿💣 CE (+ Barrels) (0.2% chance)**: ...
   ```
   Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
   Mags    [ 25%]: Steady Rounds
@@ -1752,7 +1754,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Perks 2 [ 16%]: Explosive Rounds
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Exploder" 💣💣💣 CE (+ Magazines) (0.1% chance)**: ...
+* **(PvP) "Planting Bombs" 🌿🌿🌿💣 CE (+ Magazines) (0.1% chance)**: ...
   ```
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
@@ -1760,7 +1762,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Perks 2 [ 16%]: Explosive Rounds
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Exploder" 💣💣💣 CE (+ Barrels + Magazines) (0.4% chance)**: ...
+* **(PvP) "Planting Bombs" 🌿🌿🌿💣 CE (+ Barrels + Magazines) (0.4% chance)**: ...
   ```
   Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
@@ -1768,7 +1770,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Perks 2 [ 16%]: Explosive Rounds
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Exploder" 💣💣💣 CE (+ Barrels - Magazines) (0.7% chance)**: ...
+* **(PvP) "Planting Bombs" 🌿🌿🌿💣 (+ Barrels - Magazines) (0.7% chance)**: ...
   ```
   Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
   Mags    [100%]: *
@@ -1776,7 +1778,7 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Perks 2 [ 16%]: Explosive Rounds
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) "Exploder" 💣💣 (+ Magazines + Barrels + Perks - Masterworks) (1.8% chance)**: ...
+* **(PvP) "Planting Bombs" 🌿🌿💣 (+ Magazines + Barrels + Perks - Masterworks) (1.8% chance)**: ...
   ```
   Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
   Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
@@ -1784,11 +1786,83 @@ The general drawbacks of 150s is their low `Stability` and `Handling` so we're g
   Perks 2 [ 16%]: Explosive Rounds
   MWorks  [100%]: *
   ```
-* **(PvP) "Exploder" 💣 (Baseline) (2.8% chance)**: ...
+* **(PvP) "Planting Bombs" 🌿💣 (Baseline) (3.3% chance)**: ...
   ```
-  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
+  Barrels [100%]: *
   Mags    [100%]: *
   Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Raining Fire" 🌧🌧🌧🔥🌟Collector's Edition (0.0% chance)**: We're going to repeat the same set of rolls that we have above, minus `Firmly Planted` which is a pretty big playstyle preference that some folks are not super keen on. It's not a make-or-break here, so we're also going to feature rolls without it.
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Zen Moment
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (- Perks) (0.2% chance)**: ...
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Barrels) (0.2% chance)**: ...
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Zen Moment
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Barrels - Perks) (0.9% chance)**: ...
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Magazines) (0.1% chance)**: ...
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 20%]: Zen Moment
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Magazines - Perks) (0.6% chance)**: ...
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Barrels + Magazines) (0.4% chance)**: ...
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 20%]: Zen Moment
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Barrels + Magazines - Perks) (2.2% chance)**: ...
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Raining Fire" 🌧🌧🔥 (+ Barrles + Magazines - Perks) (8.9% chance)**: ...
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [100%]: *
   Perks 2 [ 16%]: Explosive Rounds
   MWorks  [100%]: *
   ```
