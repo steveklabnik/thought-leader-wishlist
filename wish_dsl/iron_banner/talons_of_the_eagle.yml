@@ -1,0 +1,159 @@
+name: Talons of the Eagle
+item_id: 1982711279
+lightgg: https://www.light.gg/db/items/1982711279/talons-of-the-eagle/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1} 
+groups: 
+  - 
+    name: PvP
+    summary: >
+      Talons of the Eagle is a 150 RPM "High-Impact Frame" Kinetic Scout Rifle.
+      It originally appeared wayyy back in Season 4 (aka Forsaken). It's been
+      recently re-issued in the first Season 11 Iron Banner. As part of this
+      re-issue, the perk pool is unchanged, so we have years' worth of knowledge
+      about how these work and years' worth of confusion as to why Scout Rifles
+      can roll with `Threat Detector` and `Hip-Fire Grip`.
+
+      
+      The general drawback of 150s is their low `Stability` and `Handling` so
+      we're going to address those in our rolls.
+    rolls:
+      - &tefirmly
+        name: (PvP) "Firmly Scouting" 👀👀👀🌟Collector's Edition 
+        desc: >
+          `Firmly Planted` is your best bet here. It's terrific on long-range
+          weapons like Pulse Rifles and Scouts where you can post up in
+          relative cover and ping foes from a distance. There's also not much
+          else terrific in that slot. Zen Moment is good, but Firmly Planted
+          outclasses it.
+        barrels: [Polygonal Rifling]
+        magazines: [Steady Rounds]
+        perks1: [Firmly Planted]
+        perks2: [Moving Target]
+        masterworks: [Stability MW]
+      - 
+        <<: *tefirmly
+        name: (PvP) "Firmly Scouting" 👀👀👀 CE (+ Barrels)
+        desc: >
+          ...
+        barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
+      - 
+        <<: *tefirmly
+        name: (PvP) "Firmly Scouting" 👀👀👀 CE (+ Magazines)
+        desc: >
+          ...
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+      - &tefirmlynice
+        <<: *tefirmly
+        name: (PvP) "Firmly Scouting" 👀👀👀 CE (+ Magazines + Barrels)
+        desc: >
+          ...
+        barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]      
+      -
+        <<: *tefirmlynice
+        name: (PvP) "Firmly Scouting" 👀👀👀 CE (+ Magazines - Barrels)
+        desc: >
+          ...
+        magazines: []
+      -
+        <<: *tefirmlynice
+        name: (PvP) "Firmly Scouting" 👀👀👀 CE (+ Magazines + Barrels - Masterworks)
+        desc: >
+          ...
+        masterworks: []
+      -
+        <<: *tefirmlynice
+        name: (PvP) "Firmly Scouting" 👀👀 CE (+ Magazines + Barrels + Perks)
+        desc: >
+          ...
+        perks2: [Moving Target, Opening Shot, Explosive Rounds]
+      -
+        <<: *tefirmlynice
+        name: (PvP) "Firmly Scouting" 👀👀 CE (+ Magazines + Barrels + Perks - Masterworks)
+        desc: >
+          ...
+        perks2: [Moving Target, Opening Shot, Explosive Rounds]
+        masterworks: []
+      -
+        <<: *tefirmlynice
+        name: (PvP) "Firmly Scouting" 👀 (Baseline)
+        desc: >
+          ...
+        magazines: []
+        perks2: [Moving Target, Opening Shot, Explosive Rounds]
+        masterworks: []
+  - 
+    name: PvE
+    summary: >
+      As mentioned in the PvP summary, Talons is still rocking that Season 4
+      perk pool, meaning we're back to our tried-and-true combinations.
+    rolls:
+      - &teclassic
+        name: (PvE) "Gunslinger" 🤠🤠🤠🌟 Collector's Edition 
+        desc: >
+          `Outlaw` + `Rampage`, same as it ever was! Going for the classic DPS
+          combo with as much `Range` as we can get.
+        barrels: [Hammer-Forged Rifling]
+        magazines: [Accurized Rounds]
+        perks1: [Outlaw]
+        perks2: [Rampage]
+        masterworks: [Range MW]
+      - &temagazines
+        <<: *teclassic
+        name: (PvE) "Gunslinger" 🤠🤠🤠 CE (+ Barrels)
+        desc: >
+          ...
+        barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+      -
+        <<: *temagazines
+        name: (PvE) "Gunslinger" 🤠🤠🤠 CE (- Barrels)
+        desc: >
+          ...
+        barrels: []
+      -
+        <<: *temagazines
+        name: (PvE) "Gunslinger" 🤠🤠🤠 CE (- Magazines)
+        desc: >
+          ...
+        magazines: []
+      -
+        <<: *temagazines
+        name: (PvE) "Gunslinger" 🤠🤠🤠 CE (- Masterwork)
+        desc: >
+          ...
+        masterworks: []
+      -
+        <<: *temagazines
+        name: (PvE) "Gunslinger" 🤠🤠 CE (- Barrels - Magazines)
+        desc: >
+          ...
+        barrels: []
+        magazines: []
+      -
+        <<: *temagazines
+        name: (PvE) "Gunslinger" 🤠🤠 CE (- Barrels - Masterworks)
+        desc: >
+          ...
+        barrels: []
+        masterworks: []
+      -
+        <<: *temagazines
+        name: (PvE) "Gunslinger" 🤠🤠 CE (- Magazines - Masterworks)
+        desc: >
+          ...
+        magazines: []
+        masterworks: []
+      -
+        <<: *temagazines
+        name: (PvE) "Gunslinger" 🤠 (Baseline)
+        desc: >
+          ...
+        barrels: []
+        magazines: []
+        masterworks: []
+        
