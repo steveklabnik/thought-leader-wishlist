@@ -1,0 +1,51 @@
+name: Berenger's Memory
+item_id: 407621213
+lightgg: https://www.light.gg/db/items/407621213/berengers-memory/
+slots:
+  barrels:     {t: 7, c: 2}
+  magazines:   {t: 9, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 2}
+  masterworks: {t: 5, c: 1}
+groups: 
+  - 
+    name: PvE
+    summary: >
+      Season 11 is the first time we've seen Berenger's Memory since Destiny 2
+      Year 1 (i.e. Season 1). It's the first time it's been available with
+      random rolls. Grenade Launchers haven't been meta PvE DPS for some time,
+      so why record wishlist rolls for this?
+      
+      
+      It's part of the Umbral Engram pool, and part of a focused roll with the
+      IKELOS Sniper, so you're likely to be swimming in these just by doing the
+      weekly evac quests by the end of S11. Chances are without even trying
+      you're going to get a pretty decent roll.
+    rolls:
+      - &bmclassic
+        name: (PvE) "Forgetful" 🤔🤔🤔🌟 Collector's Edition 
+        desc: >
+          If you want a GL for sticking 'nades on a boss, this is the roll for
+          you. All GLs are basically the same these days, so this set of rolls
+          applies for Outrageous Fortune, Swarm of the Raven, etc.
+        barrels: [Quick Launch, Linear Compensator, Smart Drift Control]
+        magazines: [Spike Grenades]
+        perks1: [Field Prep]
+        perks2: []
+        masterworks: [Velocity MW]
+      -
+        <<: *bmclassic
+        name: (PvE) "Forgetful" 🤔🤔 CE (- Barrels)
+        desc: ...
+        barrels: []
+      -
+        <<: *bmclassic
+        name: (PvE) "Forgetful" 🤔🤔 CE (- Masterworks)
+        desc: ...
+        masterworks: []
+      -
+        <<: *bmclassic
+        name: (PvE) "Forgetful" 🤔 (Baseline)
+        desc: ...
+        barrels: []
+        masterworks: []
