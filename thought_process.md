@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-18 17:47:26 +00:00`.
+* It was generated `2020-07-18 18:01:32 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -742,9 +742,9 @@ All that being said, it's a solid weapon with some solid rolls. Absolutely down 
   Perks 2 [ 40%]: Opening Shot
   MWorks  [ 25%]: Range MW
   ```
-* **(PvP) "Hip Shooter" 🕺🕺🕺CE (+ Magazines) (1.0% chance)**: ...
+* **(PvP) "Hip Shooter" 🕺🕺🕺CE (+ Magazines) (0.3% chance)**: ...
   ```
-  Barrels [ 72%]: Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Barrels [ 22%]: Full Bore
   Mags    [ 71%]: Accurized Rounds, Light Mag, Assault Mag
   Perks 1 [ 20%]: Hip-Fire Grip
   Perks 2 [ 40%]: Opening Shot
@@ -754,6 +754,14 @@ All that being said, it's a solid weapon with some solid rolls. Absolutely down 
   ```
   Barrels [ 72%]: Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 71%]: Accurized Rounds, Light Mag, Assault Mag
+  Perks 1 [ 20%]: Hip-Fire Grip
+  Perks 2 [ 40%]: Opening Shot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Hip Shooter" 🕺🕺🕺CE (+ Barrels - Magazines) (1.4% chance)**: ...
+  ```
+  Barrels [ 72%]: Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
   Perks 1 [ 20%]: Hip-Fire Grip
   Perks 2 [ 40%]: Opening Shot
   MWorks  [ 25%]: Range MW
@@ -818,6 +826,14 @@ All that being said, it's a solid weapon with some solid rolls. Absolutely down 
   ```
   Barrels [ 72%]: Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 71%]: Accurized Rounds, Light Mag, Assault Mag
+  Perks 1 [ 20%]: Slideshot
+  Perks 2 [ 40%]: Opening Shot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Slug Thrower" 🐛🐛🐛 (+ Barrels - Magazines) (1.4% chance)**: ...
+  ```
+  Barrels [ 72%]: Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
   Perks 1 [ 20%]: Slideshot
   Perks 2 [ 40%]: Opening Shot
   MWorks  [ 25%]: Range MW
@@ -3299,6 +3315,9 @@ It's one of the small number of Power weapons in the World Drop loot pool. You'r
 The Steel Sybil is a re-issue of the Crucible sword from the launch of Forsaken back in Season 4. The perks are the same as they've always been so unfortunately this Season (Season 11) will be about (re?)chasing your best roll from the past nearly two years. Whomp whomp.
 
 Fortunately the perk set is very small and chances are you'll get the roll you're after relatively quickly? When you do, rejoice! That roll will keep you all the way through Season 14.
+
+"But Slif, Falling Guillotine is void and is way better DPS. Why would I keep a Steel Sybil around?" Great question, let's turn it over to Joe:
+> Futureproofing if they better differentiate the role of the two frames. But given the small sword perk pool, it's never really been hard to scrounge up a serviceable weapon at the time you need it. I'd imagine guillotine will become better for wide damage, sybil better for single target. But as of today, you only need guillotine.
 
 Note that swords only have one possible Masterwork (Impact) hence the appearance of "any MW will do" in the wishlist; which isn't really the case :)
 * **(PvE) Sustained DPS 🗡🗡🗡 Collector's Edition (2.7% chance)**: With Whirlwind and Relentless you'll be slicing for what seems like forever. C/o [this analysis](https://www.reddit.com/r/DestinyTheGame/comments/a2mjez/sword_awareness_1_jagged_edge_vs_honed_edge/), Jagged Edge is the clear choice for the first column, but you'll want to make sure your reserves are increased in armor. Heavy Guard sacrifices Charge Rate and massive increased all the other important sword stats, but that's fine because Charge Rate is such a compressed stat you won't notice the difference.
