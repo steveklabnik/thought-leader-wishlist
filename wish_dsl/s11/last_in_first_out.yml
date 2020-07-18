@@ -11,7 +11,19 @@ groups:
   - 
     name: PvP
     summary: >
-      TODO
+      "Last In, First Out" was released for the first time in Season 11 since
+      its initial drop at the launch of Destiny 2 - Season 1! It's the first
+      time we've seen this with random rolls, so it does have a contemporary
+      set of perks available (e.g. Demoiltionist and Vorpal). Once the
+      gear-pocalypse hits after Season 11 and everything is sunset, it will be
+      the only slug shotgun in the game apart from Chaperone.
+
+
+      All that being said, it's a solid weapon with some solid rolls. Absolutely
+      down the fairway for the sandbox and shotguns - grab some range and
+      accuracy perks and you'll be all set. Slug shotguns have always been an
+      acquired taste and nothing about LIFO changes that. It's not amazing, it's
+      not terrible; it can do great work in the right hands.
     rolls:
       - &aztechipfire
         name: (PvP) Aztecross' "Hip Shooter" 🕺🕺🕺🌟 Collector's Edition
@@ -48,6 +60,12 @@ groups:
         barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
       - 
         <<: *aztechbarrels
+        name: (PvP) "Hip Shooter" 🕺🕺🕺CE (+ Magazines)
+        desc: >
+          ...
+        magazines: [Accurized Rounds, Light Mag, Assault Mag]
+      - 
+        <<: *aztechbarrels
         name: (PvP) "Hip Shooter" 🕺🕺🕺CE (+ Barrels + Magazines)
         desc: >
           ...
@@ -75,7 +93,66 @@ groups:
         barrels: []
         magazines: []
         masterworks: []
-  - 
+      - &lifoslug
+        name: (PvP) "Slug Thrower" 🐛🐛🐛🌟Collector's Edition 
+        desc: >
+          `Range`- and `Accuracy`-boosting perks surrounded by Range-boosters
+          in all the other columns. `Assault Mag` is also amazing in the second
+          column when you're getting so much additional `Range` everywhere else!
+        barrels: [Full Bore]
+        magazines: [Accurized Rounds, Assault Mag]
+        perks1: [Slideshot]
+        perks2: [Opening Shot]
+        masterworks: [Range MW]
+      - 
+        <<: *lifoslug
+        name: (PvP) "Slug Thrower" 🐛🐛🐛 (- Masterworks)
+        desc: >
+          ...
+        masterworks: []
+      - 
+        <<: *lifoslug
+        name: (PvP) "Slug Thrower" 🐛🐛🐛 (+ Barrels)
+        desc: >
+          ...
+        barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+      - 
+        <<: *lifoslug
+        name: (PvP) "Slug Thrower" 🐛🐛🐛 (+ Magazines)
+        desc: >
+          ...
+        magazines: [Accurized Rounds, Light Mag, Assault Mag]
+      - 
+        <<: *lifoslug
+        name: (PvP) "Slug Thrower" 🐛🐛🐛 (+ Barrels + Magazines)
+        desc: >
+          ...
+        barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+        magazines: [Accurized Rounds, Light Mag, Assault Mag]
+      - 
+        <<: *lifoslug
+        name: (PvP) "Slug Thrower" 🐛🐛🐛 (+ Barrels - Masterworks)
+        desc: >
+          ...
+        barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+        masterworks: []
+      - 
+        <<: *lifoslug
+        name: (PvP) "Slug Thrower" 🐛🐛 (+ Barrels - Magazines - Masterworks)
+        desc: >
+          ...
+        barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+        magazines: []
+        masterworks: []
+      - 
+        <<: *lifoslug
+        name: (PvP) "Slug Thrower" 🐛 (Baseline)
+        desc: >
+          ...
+        barrels: []
+        magazines: []
+        masterworks: []
+  -
     name: PvE
     summary: >
       In the 5/21/2020 TWAB, Bungie announced a surprising buff to slug
