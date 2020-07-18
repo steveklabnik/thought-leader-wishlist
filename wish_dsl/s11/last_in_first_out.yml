@@ -1,0 +1,122 @@
+name: Last In, First Out
+item_id: 3616586446
+lightgg: https://www.light.gg/db/items/3616586446/first-in-last-out/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 5, c: 1}
+  masterworks: {t: 4, c: 1}
+groups: 
+  - 
+    name: PvP
+    summary: >
+      TODO
+    rolls:
+      - &aztechipfire
+        name: (PvP) Aztecross' "Hip Shooter" 🕺🕺🕺🌟 Collector's Edition
+        desc: >
+          To quote my friend Lenny, "This is the kind of stupid idea I am fond
+          of."
+          [Aztec's contention](https://www.youtube.com/watch?v=Vj1tNWkP9Fg)
+          is that slug shotguns struggle because of
+          high enemy mobility combined with having to zoom means a much tighter
+          field of view that makes them even harder to track. This is precisely
+          why I stop using Chaperone around 4000 Glory in Comp. Hunters with
+          high mobility (the stat and the skill to do so) and charging shotgun
+          rushers become nearly impossible to hit (for me at least!). This is a
+          series of rolls based around Hip-Fire Grip and Opening Shot. It's a
+          totally different way of playing and I love the idea of it! I doubt
+          it will become meta, but this list is all about fun, specific rolls so
+          here you go 😃
+        barrels: [Full Bore]
+        magazines: [Accurized Rounds, Assault Mag]
+        perks1: [Hip-Fire Grip]
+        perks2: [Opening Shot]
+        masterworks: [Range MW]
+      - 
+        <<: *aztechipfire
+        name: (PvP) "Hip Shooter" 🕺🕺🕺CE (- Masterworks)
+        desc: >
+          ...
+        masterworks: []
+      - &aztechbarrels
+        <<: *aztechipfire
+        name: (PvP) "Hip Shooter" 🕺🕺🕺CE (+ Barrels)
+        desc: >
+          ...
+        barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+      - 
+        <<: *aztechbarrels
+        name: (PvP) "Hip Shooter" 🕺🕺🕺CE (+ Barrels + Magazines)
+        desc: >
+          ...
+        magazines: [Accurized Rounds, Light Mag, Assault Mag]
+      - 
+        <<: *aztechbarrels
+        name: (PvP) "Hip Shooter" 🕺🕺🕺CE (+ Barrels - Masterworks)
+        desc: >
+          ...
+        masterworks: []
+      - 
+        <<: *aztechbarrels
+        name: (PvP) "Hip Shooter" 🕺🕺CE (+ Barrels - Magazines - Masterworks)
+        desc: >
+          ...
+        magazines: []
+        masterworks: []
+      - 
+        <<: *aztechipfire
+        name: (PvP) "Hip Shooter" 🕺(Baseline)
+        desc: >
+          I'm unsure if the `Range` you're giving up here would tank the roll,
+          but if you want the two most important perks to play around with, this
+          is the stuff.
+        barrels: []
+        magazines: []
+        masterworks: []
+  - 
+    name: PvE
+    summary: >
+      In the 5/21/2020 TWAB, Bungie announced a surprising buff to slug
+      shotguns:
+
+      > Slug Shotguns are underused in PvE, because they require crits to
+      maximize damage, and didn’t reward that precision with higher damage
+      per second: `Slug Shotgun PvE Damage + 30%`.
+
+
+      With this buff, they hit much harder and are totally viable in low-
+      to mid-tier PvE. In high-tier PvE you tend not to sidle up to enemies
+      but that's not the fault of slug shotguns :)
+    rolls:
+      - &lifofino
+        name: (PvE) "First In, Never Out" 🥾🥾🥾🚪🌟 Collector's Edition
+        desc: >
+          All of the reloading options are interesting in their own way, so we
+          have one general set of rolls revolving around `Assault Mag` and
+          `Surrounded`.
+        barrels: [Full Bore]
+        magazines: [Assault Mag]
+        perks1: [Auto-Loading Holster, Outlaw, Pulse Monitor]
+        perks2: [Surrounded]
+        masterworks: [Range MW]
+      - &lifofinobarrels
+        <<: *lifofino
+        name: (PvE) "Never Out" 🥾🥾🥾🚪 (+ Barrels)
+        desc: >
+          ...
+        barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+      -
+        <<: *lifofinobarrels
+        name: (PvE) "Never Out" 🥾🥾🥾🚪 (- Masterworks)
+        desc: >
+          ...
+        masterworks: []
+      -
+        <<: *lifofino
+        name: (PvE) "Never Out" 🥾🚪 (Baseline)
+        desc: >
+          ...
+        barrels: []
+        masterworks: []
