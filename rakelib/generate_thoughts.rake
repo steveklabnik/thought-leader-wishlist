@@ -39,7 +39,7 @@ PREAMBLE
         w = YAML.load_file(File.join('wish_dsl', collection, weapon))
         weapons << w
         group_links = w['groups'].map do |g|
-          link = "#{w['name'].downcase} - #{g['name'].downcase}".gsub(/'/,'').gsub(/\//,'').gsub(/,/,'').gsub(/\W/,'-')
+          link = "#{w['name'].downcase} - #{g['name'].downcase}".gsub(/'/,'').gsub(/\//,'').gsub(/,/,'').gsub(/\./,'').gsub(/\W/,'-')
           "[#{g['name']}](##{link})"
         end
         thoughts.puts("* #{w['name']} (#{group_links.join(', ')})")
