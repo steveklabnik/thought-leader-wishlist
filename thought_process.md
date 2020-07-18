@@ -5,12 +5,13 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-18 04:38:22 +00:00`.
+* It was generated `2020-07-18 17:47:26 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
 
-**Season 11 - Season of Arrivals (June 9th - Sept. 22, 2020)**
+**Season 11 - Season of Arrivals (June 9th - Nov. 9, 2020)**
+* Berenger's Memory ([PvE](#berengers-memory---pve))
 * Cold Denial ([PvP](#cold-denial---pvp), [PvE](#cold-denial---pve))
 * Falling Guillotine ([PvE](#falling-guillotine---pve))
 * False Promises ([PvP](#false-promises---pvp), [PvE](#false-promises---pve))
@@ -61,6 +62,45 @@ I go back and fill in world drops.
 * Trophy Hunter ([PvP](#trophy-hunter---pvp), [PvE](#trophy-hunter---pve))
 
 ---
+## Berenger's Memory - PvE
+*For all possible perks, check out **Berenger's Memory** over on [light.gg](https://www.light.gg/db/items/407621213/berengers-memory/)*
+
+
+Season 11 is the first time we've seen Berenger's Memory since Destiny 2 Year 1 (i.e. Season 1). It's the first time it's been available with random rolls. Grenade Launchers haven't been meta PvE DPS for some time, so why record wishlist rolls for this?
+
+It's part of the Umbral Engram pool, and part of a focused roll with the IKELOS Sniper, so you're likely to be swimming in these just by doing the weekly evac quests by the end of S11. Chances are without even trying you're going to get a pretty decent roll.
+* **(PvE) "Forgetful" 🤔🤔🤔🌟 Collector's Edition (0.5% chance)**: If you want a GL for sticking 'nades on a boss, this is the roll for you. All GLs are basically the same these days, so this set of rolls applies for Outrageous Fortune, Swarm of the Raven, etc.
+  ```
+  Barrels [ 71%]: Quick Launch, Linear Compensator, Smart Drift Control
+  Mags    [ 22%]: Spike Grenades
+  Perks 1 [ 16%]: Field Prep
+  Perks 2 [100%]: *
+  MWorks  [ 20%]: Velocity MW
+  ```
+* **(PvE) "Forgetful" 🤔🤔 CE (- Barrels) (0.7% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 22%]: Spike Grenades
+  Perks 1 [ 16%]: Field Prep
+  Perks 2 [100%]: *
+  MWorks  [ 20%]: Velocity MW
+  ```
+* **(PvE) "Forgetful" 🤔🤔 CE (- Masterworks) (2.6% chance)**: ...
+  ```
+  Barrels [ 71%]: Quick Launch, Linear Compensator, Smart Drift Control
+  Mags    [ 22%]: Spike Grenades
+  Perks 1 [ 16%]: Field Prep
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Forgetful" 🤔 (Baseline) (3.7% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 22%]: Spike Grenades
+  Perks 1 [ 16%]: Field Prep
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
 ## Cold Denial - PvP
 *For all possible perks, check out **Cold Denial** over on [light.gg](https://www.light.gg/db/items/1216130969/cold-denial/)*
 
@@ -80,20 +120,20 @@ The headline perks here are `Killing Wind` and Shaxx-help-me - the reworked `Pul
 * Handling increase is on par with Snapshot and vastly improved stow speed.
 
 The last column is interesting. A handful of perks elevate the roll but in my opinion, none are essential. Headseeker might seem strange but with the High-Impact buff in S11, it means a 4H2B kill instead of 5H2B on 6 resilience or less. Think about it as making your initial engagement  more forgiving whereas Multikill Clip and Swashbuckler make your follow-on engagements more forgiving.
-* **(PvP) Verticality 🏔🏔🏔🌟 Collector's Edition (0.2% chance)**: You have to see Cold Denial with 100 `Recoil` and bumped up Stability to believe it. It will require that you use a Counterbalance mod, which is par for the course on Scattershot weapons (Autos, SMGs, etc.). It's completely vertical and barely moves during the burst. This roll even without the Stability MW, felt broken when I used it; really nuts.
+* **(PvP) Verticality 🏔🏔🏔🌟 Collector's Edition (0.4% chance)**: You have to see Cold Denial with 100 `Recoil` and bumped up Stability to believe it. It will require that you use a Counterbalance mod, which is par for the course on Scattershot weapons (Autos, SMGs, etc.). It's completely vertical and barely moves during the burst. This roll even without the Stability MW, felt broken when I used it; really nuts.
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [ 33%]: Killing Wind, Pulse Monitor
-  Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Verticality 🏔🏔🏔CE (Relaxed Masterwork) (0.9% chance)**: The core of this roll is so amazing that it honestly doesn't matter nearly as much what the Masterwork is.
+* **(PvP) Verticality 🏔🏔🏔CE (Relaxed Masterwork) (1.5% chance)**: The core of this roll is so amazing that it honestly doesn't matter nearly as much what the Masterwork is.
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [ 33%]: Killing Wind, Pulse Monitor
-  Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [100%]: *
   ```
 * **(PvP) Verticality 🏔🏔🏔CE (Relaxed Perks) (0.5% chance)**: As I stated in the intro - the perks in this column are just icing.
@@ -112,20 +152,20 @@ The last column is interesting. A handful of perks elevate the roll but in my op
   Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
-* **(PvP) Verticality 🏔🏔CE (Relaxed Magazines) (0.4% chance)**: We'll take a little less Stability; that's still amazing.
+* **(PvP) Verticality 🏔🏔CE (Relaxed Magazines) (0.7% chance)**: We'll take a little less Stability; that's still amazing.
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
   Perks 1 [ 33%]: Killing Wind, Pulse Monitor
-  Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Verticality 🏔🏔CE (Relaxed Magazines and Masterwork) (1.7% chance)**: Same as the above with relaxed Masterworks.
+* **(PvP) Verticality 🏔🏔CE (Relaxed Magazines and Masterwork) (2.8% chance)**: Same as the above with relaxed Masterworks.
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
   Perks 1 [ 33%]: Killing Wind, Pulse Monitor
-  Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [100%]: *
   ```
 * **(PvP) Verticality 🏔🏔CE (Relaxed Magazines, Perks and Masterwork) (3.4% chance)**: Same as the above with relaxed Perks and Masterworks.
@@ -136,20 +176,20 @@ The last column is interesting. A handful of perks elevate the roll but in my op
   Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
-* **(PvP) Verticality 🏔CE (Fully Relaxed Magazines) (0.9% chance)**: We're going to have an absolutely phenomenal roll regardless of what we get in this column.
+* **(PvP) Verticality 🏔CE (Fully Relaxed Magazines) (1.5% chance)**: We're going to have an absolutely phenomenal roll regardless of what we get in this column.
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [100%]: *
   Perks 1 [ 33%]: Killing Wind, Pulse Monitor
-  Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Verticality 🏔CE (Fully Relaxed Magazines and Masterwork) (3.7% chance)**: Same as the above with relaxed Masterworks.
+* **(PvP) Verticality 🏔CE (Fully Relaxed Magazines and Masterwork) (5.9% chance)**: Same as the above with relaxed Masterworks.
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [100%]: *
   Perks 1 [ 33%]: Killing Wind, Pulse Monitor
-  Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [100%]: *
   ```
 * **(PvP) Verticality 🏔CE (Baseline) (7.4% chance)**: Being fully vertical, I think you're in a real good place.
@@ -160,20 +200,20 @@ The last column is interesting. A handful of perks elevate the roll but in my op
   Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
-* **(PvP) Best Grip 🧤🧤🧤🌟 Collector's Edition (0.9% chance)**: Similar to the Verticality set, this has a practically gauranteed set of barrels to play off of, drastically increasing your chances.
+* **(PvP) Best Grip 🧤🧤🧤🌟 Collector's Edition (1.4% chance)**: Similar to the Verticality set, this has a practically gauranteed set of barrels to play off of, drastically increasing your chances.
   ```
   Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [ 33%]: Killing Wind, Pulse Monitor
-  Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Best Grip 🧤🧤🧤CE (Relaxed Masterwork) (3.5% chance)**: The core of this roll is so amazing that it honestly doesn't matter nearly as much what the Masterwork is.
+* **(PvP) Best Grip 🧤🧤🧤CE (Relaxed Masterwork) (5.6% chance)**: The core of this roll is so amazing that it honestly doesn't matter nearly as much what the Masterwork is.
   ```
   Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [ 33%]: Killing Wind, Pulse Monitor
-  Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [100%]: *
   ```
 * **(PvP) Best Grip 🧤🧤🧤CE (Relaxed Perks) (1.7% chance)**: As I stated in the intro - the perks in this column are just icing.
@@ -192,20 +232,20 @@ The last column is interesting. A handful of perks elevate the roll but in my op
   Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
-* **(PvP) Best Grip 🧤🧤CE (Relaxed Magazines) (1.6% chance)**: We'll take a little less Stability; that's still amazing.
+* **(PvP) Best Grip 🧤🧤CE (Relaxed Magazines) (2.6% chance)**: We'll take a little less Stability; that's still amazing.
   ```
   Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
   Perks 1 [ 33%]: Killing Wind, Pulse Monitor
-  Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Best Grip 🧤🧤CE (Relaxed Magazines and Masterwork) (6.4% chance)**: Same as the above with relaxed Masterworks.
+* **(PvP) Best Grip 🧤🧤CE (Relaxed Magazines and Masterwork) (10.3% chance)**: Same as the above with relaxed Masterworks.
   ```
   Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
   Perks 1 [ 33%]: Killing Wind, Pulse Monitor
-  Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [100%]: *
   ```
 * **(PvP) Best Grip 🧤🧤 (Relaxed Magazines, Perks and Masterwork) (12.9% chance)**: Same as the above with relaxed Perks and Masterworks.
@@ -216,12 +256,12 @@ The last column is interesting. A handful of perks elevate the roll but in my op
   Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
-* **(PvP) Foundational 🏠Baseline (2.9% chance)**: With all this Stability, this is a phenomenal roll. Zen Moment would be your next best bet to Killing Wind in column three, but Cold Denial has so much Stability that I don't think having Zen Moment makes or breaks it.
+* **(PvP) Foundational 🏠Baseline (4.6% chance)**: With all this Stability, this is a phenomenal roll. Zen Moment would be your next best bet to Killing Wind in column three, but Cold Denial has so much Stability that I don't think having Zen Moment makes or breaks it.
   ```
   Barrels [ 91%]: Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [100%]: *
-  Perks 2 [ 50%]: Headseeker, Multikill Clip, Swashbuckler
+  Perks 2 [ 80%]: Headseeker, Multikill Clip, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
 ## Cold Denial - PvE
@@ -229,36 +269,36 @@ The last column is interesting. A handful of perks elevate the roll but in my op
 
 
 There's not much to puzzle out here. In PvE you're going for as much `Range` as you can get with sustained damage upkeep. I think `Unrelenting` is a super interesting perk, I would just prefer to have the large damage bonuses active from damage-boosting perks.
-* **(PvE) Classic Pairings 🍷🍷🍷🌟 Collector's Edition (0.6% chance)**: All Range and all damage.
+* **(PvE) Classic Pairings 🍷🍷🍷🌟 Collector's Edition (1.1% chance)**: All Range and all damage.
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
   Perks 1 [ 16%]: Feeding Frenzy
-  Perks 2 [ 33%]: Multikill Clip, Swashbuckler
+  Perks 2 [ 60%]: Multikill Clip, Swashbuckler
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Classic Pairings 🍷🍷🍷 (Relaxed Masterwork) (2.5% chance)**: Same as the above with relaxed Masterworks.
+* **(PvE) Classic Pairings 🍷🍷🍷 (Relaxed Masterwork) (4.6% chance)**: Same as the above with relaxed Masterworks.
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 78%]: High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds, Light Mag
   Perks 1 [ 16%]: Feeding Frenzy
-  Perks 2 [ 33%]: Multikill Clip, Swashbuckler
+  Perks 2 [ 60%]: Multikill Clip, Swashbuckler
   MWorks  [100%]: *
   ```
-* **(PvE) Classic Pairings 🍷🍷 (Relaxed Magazines) (3.2% chance)**: Same as the above with relaxed Magazines.
+* **(PvE) Classic Pairings 🍷🍷 (Relaxed Magazines) (5.8% chance)**: Same as the above with relaxed Magazines.
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [100%]: *
   Perks 1 [ 16%]: Feeding Frenzy
-  Perks 2 [ 33%]: Multikill Clip, Swashbuckler
+  Perks 2 [ 60%]: Multikill Clip, Swashbuckler
   MWorks  [100%]: *
   ```
-* **(PvE) Classic Pairings 🍷 (Relaxed Barrels) (5.6% chance)**: Same as the above with relaxed Barrels.
+* **(PvE) Classic Pairings 🍷 (Relaxed Barrels) (10.0% chance)**: Same as the above with relaxed Barrels.
   ```
   Barrels [100%]: *
   Mags    [100%]: *
   Perks 1 [ 16%]: Feeding Frenzy
-  Perks 2 [ 33%]: Multikill Clip, Swashbuckler
+  Perks 2 [ 60%]: Multikill Clip, Swashbuckler
   MWorks  [100%]: *
   ```
 ## Falling Guillotine - PvE
@@ -272,68 +312,68 @@ What makes this even better is that as with all other swords, the perk pool is s
 We're going for the classics here: Whirlwind and Surrounded. Maybe you'll get insanely lucky and get both Whirlwind and Surrounded as the perks in the final column?
 
 *Note that swords only have one possible Masterwork (Impact) hence the appearance of "any MW will do" in the wishlist; which isn't really the case*
-* **(PvE) Sustained DPS 🗡🗡🗡 Collector's Edition (1.3% chance)**: With Whirlwind and Relentless you'll be slicing for what seems like forever. C/o [this analysis](https://www.reddit.com/r/DestinyTheGame/comments/a2mjez/sword_awareness_1_jagged_edge_vs_honed_edge/), Jagged Edge is the clear choice for the first column, but you'll want to make sure your reserves are increased in armor. Heavy Guard sacrifices Charge Rate and massive increased all the other important sword stats, but that's fine because Charge Rate is such a compressed stat you won't notice the difference.
+* **(PvE) Sustained DPS 🗡🗡🗡 Collector's Edition (2.7% chance)**: With Whirlwind and Relentless you'll be slicing for what seems like forever. C/o [this analysis](https://www.reddit.com/r/DestinyTheGame/comments/a2mjez/sword_awareness_1_jagged_edge_vs_honed_edge/), Jagged Edge is the clear choice for the first column, but you'll want to make sure your reserves are increased in armor. Heavy Guard sacrifices Charge Rate and massive increased all the other important sword stats, but that's fine because Charge Rate is such a compressed stat you won't notice the difference.
   ```
   Barrels [ 40%]: Jagged Edge
   Mags    [ 40%]: Heavy Guard
   Perks 1 [ 33%]: Relentless Strikes
-  Perks 2 [ 25%]: Whirlwind Blade
+  Perks 2 [ 50%]: Whirlwind Blade
   MWorks  [100%]: *
   ```
-* **(PvE) Sustained DPS 🗡🗡 (Minus Magazines) (3.3% chance)**: Same as the CE, minus Heavy Guard. That's OK because you won't be doing all that much defending while slicing away with your sword.
+* **(PvE) Sustained DPS 🗡🗡 (Minus Magazines) (6.7% chance)**: Same as the CE, minus Heavy Guard. That's OK because you won't be doing all that much defending while slicing away with your sword.
   ```
   Barrels [ 40%]: Jagged Edge
   Mags    [100%]: *
   Perks 1 [ 33%]: Relentless Strikes
-  Perks 2 [ 25%]: Whirlwind Blade
+  Perks 2 [ 50%]: Whirlwind Blade
   MWorks  [100%]: *
   ```
-* **(PvE) Sustained DPS 🗡🗡 (Minus Barrels) (3.3% chance)**: Same as the CE, minus Jagged Edge. Still an absolutely great roll.
+* **(PvE) Sustained DPS 🗡🗡 (Minus Barrels) (6.7% chance)**: Same as the CE, minus Jagged Edge. Still an absolutely great roll.
   ```
   Barrels [100%]: *
   Mags    [ 40%]: Heavy Guard
   Perks 1 [ 33%]: Relentless Strikes
-  Perks 2 [ 25%]: Whirlwind Blade
+  Perks 2 [ 50%]: Whirlwind Blade
   MWorks  [100%]: *
   ```
-* **(PvE) Sustained DPS 🗡 (Baseline) (8.3% chance)**: You really only need these two to do phenomenal amounts of sustained damage and fortunately they're pretty easy to find!
+* **(PvE) Sustained DPS 🗡 (Baseline) (16.7% chance)**: You really only need these two to do phenomenal amounts of sustained damage and fortunately they're pretty easy to find!
   ```
   Barrels [100%]: *
   Mags    [100%]: *
   Perks 1 [ 33%]: Relentless Strikes
-  Perks 2 [ 25%]: Whirlwind Blade
+  Perks 2 [ 50%]: Whirlwind Blade
   MWorks  [100%]: *
   ```
-* **(PvE) "Lawnmower Man" 🚜🚜🚜 Collector's Edition (1.3% chance)**: With Surrounded up, you'll be mowing through hordes of adds in no time. C/o [this analysis](https://www.reddit.com/r/DestinyTheGame/comments/a2mjez/sword_awareness_1_jagged_edge_vs_honed_edge/), Jagged Edge is the clear choice for the first column, but you'll want to make sure your reserves are increased in armor. Heavy Guard sacrifices Charge Rate and massive increased all the other important sword stats, but that's fine because Charge Rate is such a compressed stat you won't notice the difference.
+* **(PvE) "Lawnmower Man" 🚜🚜🚜 Collector's Edition (2.7% chance)**: With Surrounded up, you'll be mowing through hordes of adds in no time. C/o [this analysis](https://www.reddit.com/r/DestinyTheGame/comments/a2mjez/sword_awareness_1_jagged_edge_vs_honed_edge/), Jagged Edge is the clear choice for the first column, but you'll want to make sure your reserves are increased in armor. Heavy Guard sacrifices Charge Rate and massive increased all the other important sword stats, but that's fine because Charge Rate is such a compressed stat you won't notice the difference.
   ```
   Barrels [ 40%]: Jagged Edge
   Mags    [ 40%]: Heavy Guard
   Perks 1 [ 33%]: Relentless Strikes
-  Perks 2 [ 25%]: Surrounded
+  Perks 2 [ 50%]: Surrounded
   MWorks  [100%]: *
   ```
-* **(PvE) "Lawnmower Man" 🚜🚜 (Minus Magazines) (3.3% chance)**: Same as the CE, minus Heavy Guard. That's OK because you won't be doing all that much defending while slicing away with your sword.
+* **(PvE) "Lawnmower Man" 🚜🚜 (Minus Magazines) (6.7% chance)**: Same as the CE, minus Heavy Guard. That's OK because you won't be doing all that much defending while slicing away with your sword.
   ```
   Barrels [ 40%]: Jagged Edge
   Mags    [100%]: *
   Perks 1 [ 33%]: Relentless Strikes
-  Perks 2 [ 25%]: Surrounded
+  Perks 2 [ 50%]: Surrounded
   MWorks  [100%]: *
   ```
-* **(PvE) "Lawnmower Man" 🚜🚜 (Minus Barrels) (3.3% chance)**: Same as the CE, minus Jagged Edge. Still an absolutely great roll.
+* **(PvE) "Lawnmower Man" 🚜🚜 (Minus Barrels) (6.7% chance)**: Same as the CE, minus Jagged Edge. Still an absolutely great roll.
   ```
   Barrels [100%]: *
   Mags    [ 40%]: Heavy Guard
   Perks 1 [ 33%]: Relentless Strikes
-  Perks 2 [ 25%]: Surrounded
+  Perks 2 [ 50%]: Surrounded
   MWorks  [100%]: *
   ```
-* **(PvE) "Lawnmower Man" 🚜 Baseline (8.3% chance)**: You really only need these two to do phenomenal amounts of  damage and fortunately they're pretty easy to find!
+* **(PvE) "Lawnmower Man" 🚜 Baseline (16.7% chance)**: You really only need these two to do phenomenal amounts of  damage and fortunately they're pretty easy to find!
   ```
   Barrels [100%]: *
   Mags    [100%]: *
   Perks 1 [ 33%]: Relentless Strikes
-  Perks 2 [ 25%]: Surrounded
+  Perks 2 [ 50%]: Surrounded
   MWorks  [100%]: *
   ```
 ## False Promises - PvP
