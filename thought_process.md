@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-11 22:13:01 +00:00`.
+* It was generated `2020-07-18 03:50:11 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -15,6 +15,7 @@ I go back and fill in world drops.
 * Falling Guillotine ([PvE](#falling-guillotine---pve))
 * False Promises ([PvP](#false-promises---pvp), [PvE](#false-promises---pve))
 * Hollow Words ([PvP](#hollow-words---pvp))
+* Last In, First Out ([PvP](#last-in-first-out---pvp), [PvE](#last-in-first-out---pve))
 * Temptation's Hook ([PvE](#temptations-hook---pve))
 * Whispering Slab ([PvP](#whispering-slab---pvp))
 
@@ -668,6 +669,107 @@ Without both of these perks, you may as well run a High-Impact Frame. I think it
   Mags    [100%]: *
   Perks 1 [ 16%]: Killing Wind
   Perks 2 [ 33%]: Disruption Break
+  MWorks  [100%]: *
+  ```
+## Last In, First Out - PvP
+*For all possible perks, check out **Last In, First Out** over on [light.gg](https://www.light.gg/db/items/3616586446/first-in-last-out/)*
+
+
+TODO
+* **(PvP) Aztecross' "Hip Shooter" 🕺🕺🕺🌟 Collector's Edition (0.1% chance)**: To quote my friend Lenny, "This is the kind of stupid idea I am fond of." [Aztec's contention](https://www.youtube.com/watch?v=Vj1tNWkP9Fg) is that slug shotguns struggle because of high enemy mobility combined with having to zoom means a much tighter field of view that makes them even harder to track. This is precisely why I stop using Chaperone around 4000 Glory in Comp. Hunters with high mobility (the stat and the skill to do so) and charging shotgun rushers become nearly impossible to hit (for me at least!). This is a series of rolls based around Hip-Fire Grip and Opening Shot. It's a totally different way of playing and I love the idea of it! I doubt it will become meta, but this list is all about fun, specific rolls so here you go 😃
+  ```
+  Barrels [ 22%]: Full Bore
+  Mags    [ 52%]: Accurized Rounds, Assault Mag
+  Perks 1 [ 20%]: Hip-Fire Grip
+  Perks 2 [ 20%]: Opening Shot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Hip Shooter" 🕺🕺🕺CE (- Masterworks) (0.5% chance)**: ...
+  ```
+  Barrels [ 22%]: Full Bore
+  Mags    [ 52%]: Accurized Rounds, Assault Mag
+  Perks 1 [ 20%]: Hip-Fire Grip
+  Perks 2 [ 20%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Hip Shooter" 🕺🕺🕺CE (+ Barrels) (0.4% chance)**: ...
+  ```
+  Barrels [ 72%]: Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 52%]: Accurized Rounds, Assault Mag
+  Perks 1 [ 20%]: Hip-Fire Grip
+  Perks 2 [ 20%]: Opening Shot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Hip Shooter" 🕺🕺🕺CE (+ Barrels + Magazines) (0.5% chance)**: ...
+  ```
+  Barrels [ 72%]: Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 71%]: Accurized Rounds, Light Mag, Assault Mag
+  Perks 1 [ 20%]: Hip-Fire Grip
+  Perks 2 [ 20%]: Opening Shot
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) "Hip Shooter" 🕺🕺🕺CE (+ Barrels - Masterworks) (1.5% chance)**: ...
+  ```
+  Barrels [ 72%]: Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 52%]: Accurized Rounds, Assault Mag
+  Perks 1 [ 20%]: Hip-Fire Grip
+  Perks 2 [ 20%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Hip Shooter" 🕺🕺CE (+ Barrels - Magazines - Masterworks) (2.9% chance)**: ...
+  ```
+  Barrels [ 72%]: Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Hip-Fire Grip
+  Perks 2 [ 20%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Hip Shooter" 🕺(Baseline) (4.0% chance)**: I'm unsure if the `Range` you're giving up here would tank the roll, but if you want the two most important perks to play around with, this is the stuff.
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Hip-Fire Grip
+  Perks 2 [ 20%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+## Last In, First Out - PvE
+*For all possible perks, check out **Last In, First Out** over on [light.gg](https://www.light.gg/db/items/3616586446/first-in-last-out/)*
+
+
+In the 5/21/2020 TWAB, Bungie announced a surprising buff to slug shotguns:
+> Slug Shotguns are underused in PvE, because they require crits to maximize damage, and didn’t reward that precision with higher damage per second: `Slug Shotgun PvE Damage + 30%`.
+
+With this buff, they hit much harder and are totally viable in low- to mid-tier PvE. In high-tier PvE you tend not to sidle up to enemies but that's not the fault of slug shotguns :)
+* **(PvE) "First In, Never Out" 🥾🥾🥾🚪🌟 Collector's Edition (0.2% chance)**: All of the reloading options are interesting in their own way, so we have one general set of rolls revolving around `Assault Mag` and `Surrounded`.
+  ```
+  Barrels [ 22%]: Full Bore
+  Mags    [ 28%]: Assault Mag
+  Perks 1 [ 60%]: Auto-Loading Holster, Outlaw, Pulse Monitor
+  Perks 2 [ 20%]: Surrounded
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Never Out" 🥾🥾🥾🚪 (+ Barrels) (0.6% chance)**: ...
+  ```
+  Barrels [ 72%]: Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 28%]: Assault Mag
+  Perks 1 [ 60%]: Auto-Loading Holster, Outlaw, Pulse Monitor
+  Perks 2 [ 20%]: Surrounded
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Never Out" 🥾🥾🥾🚪 (- Masterworks) (2.5% chance)**: ...
+  ```
+  Barrels [ 72%]: Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 28%]: Assault Mag
+  Perks 1 [ 60%]: Auto-Loading Holster, Outlaw, Pulse Monitor
+  Perks 2 [ 20%]: Surrounded
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Never Out" 🥾🚪 (Baseline) (3.4% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 28%]: Assault Mag
+  Perks 1 [ 60%]: Auto-Loading Holster, Outlaw, Pulse Monitor
+  Perks 2 [ 20%]: Surrounded
   MWorks  [100%]: *
   ```
 ## Temptation's Hook - PvE
