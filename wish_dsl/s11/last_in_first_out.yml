@@ -59,7 +59,7 @@ groups:
           ...
         barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
       - 
-        <<: *aztechbarrels
+        <<: *aztechipfire
         name: (PvP) "Hip Shooter" 🕺🕺🕺CE (+ Magazines)
         desc: >
           ...
@@ -70,6 +70,12 @@ groups:
         desc: >
           ...
         magazines: [Accurized Rounds, Light Mag, Assault Mag]
+      - 
+        <<: *aztechbarrels
+        name: (PvP) "Hip Shooter" 🕺🕺🕺CE (+ Barrels - Magazines)
+        desc: >
+          ...
+        magazines: []
       - 
         <<: *aztechbarrels
         name: (PvP) "Hip Shooter" 🕺🕺🕺CE (+ Barrels - Masterworks)
@@ -110,7 +116,7 @@ groups:
         desc: >
           ...
         masterworks: []
-      - 
+      - &lifoslugbarrels
         <<: *lifoslug
         name: (PvP) "Slug Thrower" 🐛🐛🐛 (+ Barrels)
         desc: >
@@ -123,25 +129,28 @@ groups:
           ...
         magazines: [Accurized Rounds, Light Mag, Assault Mag]
       - 
-        <<: *lifoslug
+        <<: *lifoslugbarrels
         name: (PvP) "Slug Thrower" 🐛🐛🐛 (+ Barrels + Magazines)
         desc: >
           ...
-        barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
         magazines: [Accurized Rounds, Light Mag, Assault Mag]
       - 
-        <<: *lifoslug
+        <<: *lifoslugbarrels
+        name: (PvP) "Slug Thrower" 🐛🐛🐛 (+ Barrels - Magazines)
+        desc: >
+          ...
+        magazines: []
+      - 
+        <<: *lifoslugbarrels
         name: (PvP) "Slug Thrower" 🐛🐛🐛 (+ Barrels - Masterworks)
         desc: >
           ...
-        barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
         masterworks: []
       - 
-        <<: *lifoslug
+        <<: *lifoslugbarrels
         name: (PvP) "Slug Thrower" 🐛🐛 (+ Barrels - Magazines - Masterworks)
         desc: >
           ...
-        barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
         magazines: []
         masterworks: []
       - 
@@ -178,22 +187,20 @@ groups:
         perks1: [Auto-Loading Holster, Outlaw, Pulse Monitor]
         perks2: [Surrounded]
         masterworks: [Range MW]
-      - &lifofinobarrels
+      - 
         <<: *lifofino
         name: (PvE) "Never Out" 🥾🥾🥾🚪 (+ Barrels)
-        desc: >
-          ...
+        desc: ...
         barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
       -
-        <<: *lifofinobarrels
+        <<: *lifofino
         name: (PvE) "Never Out" 🥾🥾🥾🚪 (- Masterworks)
-        desc: >
-          ...
+        desc: ...
+        barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
         masterworks: []
       -
         <<: *lifofino
         name: (PvE) "Never Out" 🥾🚪 (Baseline)
-        desc: >
-          ...
+        desc: ...
         barrels: []
         masterworks: []
