@@ -1,4 +1,4 @@
-name: Last In, First Out
+name: First In, Last Out
 item_id: 3616586446
 lightgg: https://www.light.gg/db/items/3616586446/first-in-last-out/
 slots:
@@ -11,7 +11,7 @@ groups:
   - 
     name: PvP
     summary: >
-      "Last In, First Out" was released for the first time in Season 11 since
+      "First In, Last Out" was released for the first time in Season 11 since
       its initial drop at the launch of Destiny 2 - Season 1! It's the first
       time we've seen this with random rolls, so it does have a contemporary
       set of perks available (e.g. Demoiltionist and Vorpal). Once the
@@ -22,7 +22,7 @@ groups:
       All that being said, it's a solid weapon with some solid rolls. Absolutely
       down the fairway for the sandbox and shotguns - grab some range and
       accuracy perks and you'll be all set. Slug shotguns have always been an
-      acquired taste and nothing about LIFO changes that. It's not amazing, it's
+      acquired taste and nothing about filo changes that. It's not amazing, it's
       not terrible; it can do great work in the right hands.
     rolls:
       - &aztechipfire
@@ -99,7 +99,7 @@ groups:
         barrels: []
         magazines: []
         masterworks: []
-      - &lifoslug
+      - &filoslug
         name: (PvP) "Slug Thrower" 🐛🐛🐛🌟Collector's Edition 
         desc: >
           `Range`- and `Accuracy`-boosting perks surrounded by Range-boosters
@@ -111,50 +111,50 @@ groups:
         perks2: [Opening Shot]
         masterworks: [Range MW]
       - 
-        <<: *lifoslug
+        <<: *filoslug
         name: (PvP) "Slug Thrower" 🐛🐛🐛 (- Masterworks)
         desc: >
           ...
         masterworks: []
-      - &lifoslugbarrels
-        <<: *lifoslug
+      - &filoslugbarrels
+        <<: *filoslug
         name: (PvP) "Slug Thrower" 🐛🐛🐛 (+ Barrels)
         desc: >
           ...
         barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
       - 
-        <<: *lifoslug
+        <<: *filoslug
         name: (PvP) "Slug Thrower" 🐛🐛🐛 (+ Magazines)
         desc: >
           ...
         magazines: [Accurized Rounds, Light Mag, Assault Mag]
       - 
-        <<: *lifoslugbarrels
+        <<: *filoslugbarrels
         name: (PvP) "Slug Thrower" 🐛🐛🐛 (+ Barrels + Magazines)
         desc: >
           ...
         magazines: [Accurized Rounds, Light Mag, Assault Mag]
       - 
-        <<: *lifoslugbarrels
+        <<: *filoslugbarrels
         name: (PvP) "Slug Thrower" 🐛🐛🐛 (+ Barrels - Magazines)
         desc: >
           ...
         magazines: []
       - 
-        <<: *lifoslugbarrels
+        <<: *filoslugbarrels
         name: (PvP) "Slug Thrower" 🐛🐛🐛 (+ Barrels - Masterworks)
         desc: >
           ...
         masterworks: []
       - 
-        <<: *lifoslugbarrels
+        <<: *filoslugbarrels
         name: (PvP) "Slug Thrower" 🐛🐛 (+ Barrels - Magazines - Masterworks)
         desc: >
           ...
         magazines: []
         masterworks: []
       - 
-        <<: *lifoslug
+        <<: *filoslug
         name: (PvP) "Slug Thrower" 🐛 (Baseline)
         desc: >
           ...
@@ -176,7 +176,7 @@ groups:
       to mid-tier PvE. In high-tier PvE you tend not to sidle up to enemies
       but that's not the fault of slug shotguns :)
     rolls:
-      - &lifofino
+      - &filofino
         name: (PvE) "First In, Never Out" 🥾🥾🥾🚪🌟 Collector's Edition
         desc: >
           All of the reloading options are interesting in their own way, so we
@@ -188,18 +188,18 @@ groups:
         perks2: [Surrounded]
         masterworks: [Range MW]
       - 
-        <<: *lifofino
+        <<: *filofino
         name: (PvE) "Never Out" 🥾🥾🥾🚪 (+ Barrels)
         desc: ...
         barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
       -
-        <<: *lifofino
+        <<: *filofino
         name: (PvE) "Never Out" 🥾🥾🥾🚪 (- Masterworks)
         desc: ...
         barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
         masterworks: []
       -
-        <<: *lifofino
+        <<: *filofino
         name: (PvE) "Never Out" 🥾🚪 (Baseline)
         desc: ...
         barrels: []
