@@ -1,0 +1,325 @@
+name: IKELOS_SMG_V1.0.2
+item_id: 2222560548
+lightgg: https://www.light.gg/db/items/2222560548/ikelos-smg-v102/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 5, c: 2}
+  masterworks: {t: 4, c: 1}
+groups:
+  -
+    name: PvP
+    summary: >
+      The IKELOS SMG 1.0.2 is an Aggressive Frame, Energy-slot 750 RPM SMG.
+      Back during the
+      Warmind times (Season 3) its statically-rolled predecessor was a
+      seriously legit part of the PvP meta. Apart from the original IKELOS SMG,
+      in the history of Destiny 2, this archetype has had an unfortunate time
+      of things. The only
+      [other Aggressive Frames](https://www.light.gg/db/items/compare/?h=CEeZUk;BZzrdV;GStUF;)
+      have punishingly, unusably poor `Stability` so they never saw any
+      play, not even on the fringes of the meta.
+
+
+      A few weeks into Season 11 an Bungie drops the new version of the IKELOS
+      SMG, now called the IKELOS_SMG_V1.0.2 (compared to S3's V1.0.1). It now
+      features random rolls with the new Y3 perks like Vorpal Weapon and
+      Demolitionist. It also has a tremendous amount of Stability compared to
+      its brethren, about triple.
+
+
+      * **`Seraph Rounds`**: The streamer~youtuberati are all abuzz about this
+      perk. It has HCR built-in and does increased flinch! It increases
+      Stability! It increases Range! One of those
+      is correct - it does give a boost to damage falloff range. When I
+      tested `Seraph Rounds` in the Tribute Hall, it pushed the range out by
+      ~1m. Yep, a whole one meter. When I swapped in Accurized Rounds, it was
+      basically the same, with a difference of less than a meter. I wouldn't 
+      lose sleep about missing out on `Seraph Rounds`. Since this is a console
+      wishlist and these Aggressive Frame SMGs have huge kick, we're going to
+      prefer `Steady Rounds` and the attendant 38% increase in `Stability`.
+      
+      * **`Threat Detector`**: The only evidence I've been able to find of how
+      this perk works is present in this video:
+      ["Threat Detector In Depth"](https://www.youtube.com/watch?v=EB7Fgvgchq8)
+      which deduces a massive +20 to Stability at TDx1. The range for TDx1 is
+      14.8M (and below of course) which means a laser-like boost to Stability
+      to where you could practically hip-fire the darn thing (no it does not
+      drop with Hip-Fire Grip in its perk pool :)
+
+      
+      Which set of rolls you go for depends on whether or not you want to keep
+      your mod slot open for `Icarus Grip` or `Freehand Grip`. If you don't
+      care for either of those, that's going to free up your choice of Barrels
+      and you'll be able to throw a `Counterbalance Stock` mod in to fix the
+      recoil.
+      
+
+      Umbrals drop so regularly and since the season has been extended to
+      November, I'm crossing my fingers you get the roll you want!
+    rolls:
+      - &ismgrf
+        name: (PvP) "Rasputin's Choice; Mod Slot Free" 🤖🤖🤖🟢🌟 Collector's Edition
+        desc: >
+          Any time you see Dynamic Sway and Tap the Trigger available in both
+          columns, that's a tough one to pass up. TtT keeps you steady on the
+          initial burst and DSR keeps you steady afterwards. After that it's
+          all `Stability`. This roll would push Stability from 39 to 74 (?!) and
+          that's not including the additional Stability from DSR and TtT! With a
+          Recoil-fixing Barrel, the mod slot is free for you.
+        barrels: [Chambered Compensator]
+        magazines: [Steady Rounds]
+        perks1: [Dynamic Sway Reduction]
+        perks2: [Tap the Trigger]
+        masterworks: [Stability MW]
+      - &ismgrfbarrels
+        <<: *ismgrf
+        name: (PvP) "Rasputin's; Freed" (+ Barrels) 🤖🤖🤖🟢 CE
+        desc: ...
+        barrels: [Chambered Compensator, Arrowhead Brake]
+      - 
+        <<: *ismgrf
+        name: (PvP) "Rasputin's; Freed" (+ Magazines) 🤖🤖🤖🟢 CE
+        desc: ...
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+      - 
+        <<: *ismgrf
+        name: (PvP) "Rasputin's; Freed" (- Magazines) 🤖🤖🤖🟢 CE
+        desc: ...
+        magazines: []
+      - 
+        <<: *ismgrfbarrels
+        name: (PvP) "Rasputin's; Freed" (+ Barrels - Magazines) 🤖🤖🤖🟢 CE
+        desc: ...
+        magazines: []
+      - 
+        <<: *ismgrfbarrels
+        name: (PvP) "Rasputin's; Freed" (+ Barrels + Magazines) 🤖🤖🤖🟢 CE
+        desc: ...
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+      - 
+        <<: *ismgrfbarrels
+        name: (PvP) "Rasputin's; Freed" (+ Barrels + Magazines - Masterworks) 🤖🤖🤖🟢 CE
+        desc: ...
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+        masterworks: []
+      - 
+        <<: *ismgrfbarrels
+        name: (PvP) "Rasputin's; Freed" (Baseline) 🤖🟢
+        desc: ...
+        magazines: []
+        masterworks: []
+      - &ismgru
+        name: (PvP) "Rasputin's Choice (Mod Slot Used)" 🤖🤖🤖🔴🌟 Collector's Edition
+        desc: >
+          Similar to the above roll set, except we'll need to use our mod slot
+          for `Counterbalance Stock` to fix the `Recoil` (from 90 > 100).
+        barrels: [Polygonal Rifling]
+        magazines: [Steady Rounds]
+        perks1: [Dynamic Sway Reduction]
+        perks2: [Tap the Trigger]
+        masterworks: [Stability MW]     
+      - &ismgrubarrels
+        <<: *ismgru
+        name: (PvP) "Rasputin's; Used" (+ Barrels) 🤖🤖🤖🔴 CE
+        desc: ...
+        barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+      - 
+        <<: *ismgru
+        name: (PvP) "Rasputin's; Used" (+ Magazines) 🤖🤖🤖🔴 CE
+        desc: ...
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+      - 
+        <<: *ismgru
+        name: (PvP) "Rasputin's; Used" (- Magazines) 🤖🤖🤖🔴 CE
+        desc: ...
+        magazines: []
+      - 
+        <<: *ismgrubarrels
+        name: (PvP) "Rasputin's; Used" (+ Barrels - Magazines) 🤖🤖🤖🔴 CE
+        desc: ...
+        magazines: []
+      - 
+        <<: *ismgrubarrels
+        name: (PvP) "Rasputin's; Used" (+ Barrels + Magazines) 🤖🤖🤖🔴 CE
+        desc: ...
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+      - 
+        <<: *ismgrubarrels
+        name: (PvP) "Rasputin's; Used" (+ Barrels + Magazines - Masterworks) 🤖🤖🤖🔴 CE
+        desc: ...
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+        masterworks: []
+      - 
+        <<: *ismgrubarrels
+        name: (PvP) "Rasputin's; Used" (Baseline) 🤖🔴
+        desc: ...
+        magazines: []
+        masterworks: []        
+      - &ismgaf
+        name: (PvP) "Ana's Choice (Mod Slot Free)" ❄️❄️❄️🟢🌟 Collector's Edition
+        desc: >
+          Similar to the above, but valuing Threat Detector for countering
+          shotgun rushers and being able to hip-fire reliably in CQC.
+        barrels: [Chambered Compensator]
+        magazines: [Steady Rounds]
+        perks1: [Threat Detector]
+        perks2: [Tap the Trigger]
+        masterworks: [Stability MW]
+      - &ismgafbarrels
+        <<: *ismgaf
+        name: (PvP) "Ana's; Freed" (+ Barrels) ❄️❄️❄️🟢 CE
+        desc: ...
+        barrels: [Chambered Compensator, Arrowhead Brake]
+      - 
+        <<: *ismgaf
+        name: (PvP) "Ana's; Freed" (+ Magazines) ❄️❄️❄️🟢 CE
+        desc: ...
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+      - 
+        <<: *ismgaf
+        name: (PvP) "Ana's; Freed" (- Magazines) ❄️❄️❄️🟢 CE
+        desc: ...
+        magazines: []
+      - 
+        <<: *ismgafbarrels
+        name: (PvP) "Ana's; Freed" (+ Barrels - Magazines) ❄️❄️❄️🟢 CE
+        desc: ...
+        magazines: []
+      - 
+        <<: *ismgafbarrels
+        name: (PvP) "Ana's; Freed" (+ Barrels + Magazines) ❄️❄️❄️🟢 CE
+        desc: ...
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+      - 
+        <<: *ismgafbarrels
+        name: (PvP) "Ana's; Freed" (+ Barrels + Magazines - Masterworks) ❄️❄️❄️🟢 CE
+        desc: ...
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+        masterworks: []
+      - 
+        <<: *ismgafbarrels
+        name: (PvP) "Ana's; Freed" (Baseline) ❄️🟢
+        desc: ...
+        magazines: []
+        masterworks: []        
+      - &ismgau
+        name: (PvP) "Ana's Choice (Mod Slot Used)" ❄️❄️❄️🔴🌟 Collector's Edition
+        desc: >
+          Similar to the above, but valuing Threat Detector for countering
+          shotgun rushers and being able to hip-fire reliably in CQC.
+        barrels: [Polygonal Rifling]
+        magazines: [Steady Rounds]
+        perks1: [Threat Detector]
+        perks2: [Tap the Trigger]
+        masterworks: [Stability MW]
+      - &ismgaubarrels
+        <<: *ismgau
+        name: (PvP) "Ana's; Used" (+ Barrels) ❄️❄️❄️🔴 CE
+        desc: ...
+        barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+      - 
+        <<: *ismgau
+        name: (PvP) "Ana's; Used" (+ Magazines) ❄️❄️❄️🔴 CE
+        desc: ...
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+      - 
+        <<: *ismgau
+        name: (PvP) "Ana's; Used" (- Magazines) ❄️❄️❄️🔴 CE
+        desc: ...
+        magazines: []
+      - 
+        <<: *ismgaubarrels
+        name: (PvP) "Ana's; Used" (+ Barrels - Magazines) ❄️❄️❄️🔴 CE
+        desc: ...
+        magazines: []
+      - 
+        <<: *ismgaubarrels
+        name: (PvP) "Ana's; Used" (+ Barrels + Magazines) ❄️❄️❄️🔴 CE
+        desc: ...
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+      - 
+        <<: *ismgaubarrels
+        name: (PvP) "Ana's; Used" (+ Barrels + Magazines - Masterworks) ❄️❄️❄️🔴 CE
+        desc: ...
+        magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+        masterworks: []
+      - 
+        <<: *ismgaubarrels
+        name: (PvP) "Ana's; Used" (Baseline) ❄️🔴
+        desc: ...
+        magazines: []
+        masterworks: []                
+  -
+    name: PvE
+    summary: >
+      Ehroar thinks the IKELOS_SMG_V1.0.2 might be the
+      [best PvE primary in Destiny 2](https://www.youtube.com/watch?v=1sgVvsCK2BM)
+      mostly because it can generate Warmind Cells and it has a great perk
+      pool. He makes a strong case and with Reach, the nukes are nukey.
+      
+      
+      Note that the IKELOS_SMG also has `Disruption Break` will will proc when
+      breaking a Barrier Champion's shield. However no other perks play off of
+      it, so I won't feature a set of rolls here for it. Same goes for
+      `Demolitionist` which is a great perk but doesn't overtly synergize with
+      any of the other perks. As Ehroar points out, `Subsistence` wrecks the
+      reserves on the IKELOS, by a whopping 44% (!) so I'm not recommending it
+      as a perk.
+    rolls:
+      - &ismgseraph
+        name: (PvE) "Seraph's Choice" 😇😇😇🌟 Collector's Edition
+        desc: >
+          Pair this roll with a `Surrounded Spec` mod and you are positively
+          shredding through adds. Throw on a single Warmind Cell mod on to your
+          armor and you become a nuclear bomb generating Guardian.
+        barrels: [Hammer-Forged Rifling]
+        magazines: [Seraph Rounds]
+        perks1: [Threat Detector]
+        perks2: [Surrounded]
+        masterworks: [Range MW]
+      - 
+        <<: *ismgseraph
+        name: (PvE) "Seraph's Choice" (- Masterworks) 😇😇😇 CE
+        desc: ...
+        masterworks: []
+      - &ismgsbarrels
+        <<: *ismgseraph
+        name: (PvE) "Seraph's Choice" (+ Barrels) 😇😇😇 CE
+        desc: ...
+        barrels: [Hammer-Forged Rifling, Extended Barrel, Smallbore, Corkscrew Rifling]
+      - 
+        <<: *ismgsbarrels
+        name: (PvE) "Seraph's Choice" (+ Barrels - Masterworks) 😇😇😇 CE
+        desc: ...
+        masterworks: []
+      - 
+        <<: *ismgsbarrels
+        name: (PvE) "Seraph's Choice" (+ Barrels + Magazines) 😇😇😇 CE
+        desc: ...
+        magazines: [Seraph Rounds, Accurized Rounds]
+      - 
+        <<: *ismgsbarrels
+        name: (PvE) "Seraph's Choice" (+ Barrels + Magazines - Masterworks) 😇😇😇 CE
+        desc: ...
+        magazines: [Seraph Rounds, Accurized Rounds]
+        masterworks: []
+      - 
+        <<: *ismgsbarrels
+        name: (PvE) "Seraph's Choice" (+ Barrels + Any Decent Magazine) 😇😇😇 CE
+        desc: ...
+        magazines: [Seraph Rounds, Accurized Rounds, Appended Mag, Tactical Mag, Flared Magwell, Alloy Magazine]
+      - 
+        <<: *ismgsbarrels
+        name: (PvE) "Seraph's Choice" (+ Barrels + Any Decent Magazine - Masterworks) 😇😇😇 CE
+        desc: ...
+        magazines: [Seraph Rounds, Accurized Rounds, Appended Mag, Tactical Mag, Flared Magwell, Alloy Magazine]
+        masterworks: []
+      -
+        <<: *ismgseraph
+        name: (PvE) "Seraph's Choice" (Baseline) 😇
+        desc: ...
+        barrels: []
+        magazines: []
+        masterworks: []
