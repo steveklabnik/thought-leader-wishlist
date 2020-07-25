@@ -1,0 +1,98 @@
+name: IKELOS_SR_V1.0.2
+item_id: 1253087083
+lightgg: https://www.light.gg/db/items/1253087083/ikelos-sr-v102/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 5, c: 2}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: PvP
+    summary: >
+      TODO
+    rolls:
+      - &bfsnappy
+        name: (PvP) "Snappy Opener" 🤞🤞🤞🌟 Collector's Edition
+        desc: >
+          TODO
+        barrels: []
+        magazines: []
+        perks1: [Moving Target]
+        perks2: [Opening Shot]
+        masterworks: [Range MW]
+      - 
+        <<: *bfsnappy
+        name: (PvP) "Snappy Opener" 🤞🤞🤞 CE (- Masterworks)
+        desc: ...
+        masterworks: []
+  - 
+    name: PvE
+    summary: >
+      Ehroar and Kackis both review the IKELOS 1.0.2 and land on similar
+      reccomendations which I'll capture here. Ehroar's take is a little more
+      thorough so I'm expanding the Collector's Edition with his thoughts.
+
+      * [Ikelos Sniper is Back! What is the God Roll?](https://www.youtube.com/watch?v=waOR-IuhIIc) - Ehroar
+
+      * [The Sniper Meta is BACK!? - Best New PvE Sniper](https://www.youtube.com/watch?v=AQSfa96KoO4) - Kackis
+
+      
+      The core perks are fine, so even though the Baseline is pretty easily
+      obtainable, don't let that dissuade you; it's solid!
+    rolls:
+      - &isrep
+        name: (PvE) "Ehroar's Pick" 🦁🦁🦁🌟 Collector's Edition
+        desc: >
+          TODO
+        barrels: [Hammer-Forged Rifling]
+        magazines: [Appended Mag]
+        perks1: [Fourth Time's the Charm]
+        perks2: [High-Impact Reserves]
+        masterworks: [Range MW]
+      - 
+        <<: *isrep
+        name: (PvE) "Ehroar's Pick" (+ Barrels) 🦁🦁🦁 CE
+        desc: ...
+        barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+      - 
+        <<: *isrep
+        name: (PvE) "Ehroar's Pick" (+ Magazines) 🦁🦁🦁 CE
+        desc: ...
+        magazines: [Appended Mag, Extended Mag]
+      - 
+        <<: *isrep
+        name: (PvE) "Ehroar's Pick" (+ Barrels + Magazines) 🦁🦁🦁 CE
+        desc: ...
+        barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+        magazines: [Appended Mag, Extended Mag]
+      - 
+        <<: *isrep
+        name: (PvE) "Ehroar's Pick" (+ Barrels + Magazines - Masterworks) 🦁🦁🦁 CE
+        desc: ...
+        barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+        magazines: [Appended Mag, Extended Mag]
+        masterworks: []
+      - 
+        <<: *isrep
+        name: (PvE) "Ehroar's Pick" (- Barrels - Masterworks) 🦁🦁 CE
+        desc: ...
+        barrels: []
+        masterworks: []
+      - 
+        <<: *isrep
+        name: (PvE) "Ehroar's Pick" (- Barrels + Magazines - Masterworks) 🦁🦁 CE
+        desc: ...
+        barrels: []
+        magazines: [Appended Mag, Extended Mag]
+        masterworks: []
+      - 
+        <<: *isrep
+        name: (PvE) "Ehroar's Pick" (Baseline) 🦁
+        desc: ...
+        barrels: []
+        magazines: []
+        perks1: [Fourth Time's the Charm, Triple Tap]
+        perks2: [High-Impact Reserves]
+        masterworks: []
