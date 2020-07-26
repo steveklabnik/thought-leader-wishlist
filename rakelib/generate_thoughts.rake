@@ -60,7 +60,13 @@ PREAMBLE
         thoughts.puts(group['summary'])
 
         group['rolls'].each do |r|
-          thoughts.puts("* **%s (%0.1f%% chance)**: %s" % [r['name'], calculate_probability(weapon, r), r['desc'].strip])
+          description = r['desc'].strip
+          headline = if (description == '...')
+            thoughts.puts("* **%s (%0.1f%% chance)**" % [r['name'], calculate_probability(weapon, r)])
+          else
+            thoughts.puts("* **%s (%0.1f%% chance)**: %s" % [r['name'], calculate_probability(weapon, r), description])
+          end
+          thoughts.puts(headline)
           thoughts.puts('  ```')
           TRAITS.each do |t|
             p = column_probability(weapon, r, t[:key])
