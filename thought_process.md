@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-24 23:54:08 +00:00`.
+* It was generated `2020-07-26 02:55:39 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -18,6 +18,7 @@ I go back and fill in world drops.
 * First In, Last Out ([PvP](#first-in-last-out---pvp), [PvE](#first-in-last-out---pve))
 * Hollow Words ([PvP](#hollow-words---pvp))
 * IKELOS_SMG_V1.0.2 ([PvP](#ikelos_smg_v102---pvp), [PvE](#ikelos_smg_v102---pve))
+* IKELOS_SR_V1.0.2 ([PvP](#ikelos_sr_v102---pvp), [PvE](#ikelos_sr_v102---pve))
 * Temptation's Hook ([PvE](#temptations-hook---pve))
 * Whispering Slab ([PvP](#whispering-slab---pvp))
 
@@ -1250,6 +1251,173 @@ Note that the IKELOS_SMG also has `Disruption Break` will will proc when breakin
   Mags    [100%]: *
   Perks 1 [ 20%]: Threat Detector
   Perks 2 [ 40%]: Surrounded
+  MWorks  [100%]: *
+  ```
+## IKELOS_SR_V1.0.2 - PvP
+*For all possible perks, check out **IKELOS_SR_V1.0.2** over on [light.gg](https://www.light.gg/db/items/1253087083/ikelos-sr-v102/)*
+
+
+The IKELOS_SR_V1.0.2 is a 140 RPM Rapid-Fire Frame sniper. Stat-wise, the currently available batch are [mostly the same](https://www.light.gg/db/items/compare/?h=BKsJdr;o8g0X;DN5NWh;BLxysY) and unfortunately none can roll with both `Snapshot` and `Quickdraw` 😱 Note that the IKELOS does have a slightly higher Zoom (40 > 45) than half of the bunch. This may or may not work with your playstyle.
+
+Let's get this out of the way - "What roll will replace my Beloved?" Unfortunately none of them. No 140 RPM sniper beyond the S11 power cap can roll like Beloved, Tatara Gaze, Apostate, etc. It looks like they're almost purposefully decoupling the great perks we're used to seeing together: Snapshot + Quickdraw, Snapshot + Opening Shot, etc.
+
+Some thoughts on the perks I've selected:
+
+* I value `Moving Target` over `No Distractions` for a few reasons. Contrary to the name, `Moving Target` procs [whether or not you're moving](https://www.youtube.com/watch?v=AcpJWC039m8). `No Distractions` takes 1.5-2s to activate. That is an eternity and basically unusable in Comp or Trials. Even when it does activate, `No Distractions` doesn't reduce flinch by that much. Here, check out [Fallout's testing](https://youtu.be/cUE4W03qPVY?t=171).
+* `Seraph Rounds`, has just about every hidden benefit you can imagine ascribed to it. The only one I'm able to find definitive evidence for is that it increases range falloff by about 2m. When I compared it with `Accurized Rounds` on the IKELOS SMG, it pushed it about 1m further. That's the only reason I prefer it here, but they're basically the same in that one aspect. IMHO Bungie could definitely stand to redefine this perk if they're planning on keeping IKELOS weapons around.
+
+There aren't a ton of great perks here, so I'm only featuring one roll. 
+* **(PvP) "Seraph Sharpshooter" 🎯🎯🎯🌟 Collector's Edition (0.2% chance)**: The IKELOS has `73` Aim Assist and with `Moving Target`, a `Targeting Adjuster` mod and `Enhanced Sniper Targeting` on your helm, you're plenty good on AA. Whatever tiny part of the `Range` stat affects AA is outweighed by faster Handling contributing to faster ADS and faster stow speed for cleanups.
+  ```
+  Barrels [ 22%]: Fluted Barrel
+  Mags    [ 46%]: Seraph Rounds, Accurized Rounds
+  Perks 1 [ 20%]: Moving Target
+  Perks 2 [ 40%]: Quickdraw
+  MWorks  [ 25%]: Handling MW
+  ```
+* **(PvP) "Seraph Sharpshooter" (+ Barrels) 🎯🎯🎯 CE (0.5% chance)**: ...
+  ```
+  Barrels [ 58%]: Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
+  Mags    [ 46%]: Seraph Rounds, Accurized Rounds
+  Perks 1 [ 20%]: Moving Target
+  Perks 2 [ 40%]: Quickdraw
+  MWorks  [ 25%]: Handling MW
+  ```
+* **(PvP) "Seraph Sharpshooter" (- Barrels) 🎯🎯🎯 CE (0.9% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 46%]: Seraph Rounds, Accurized Rounds
+  Perks 1 [ 20%]: Moving Target
+  Perks 2 [ 40%]: Quickdraw
+  MWorks  [ 25%]: Handling MW
+  ```
+* **(PvP) "Seraph Sharpshooter" (- Magazines) 🎯🎯🎯 CE (0.4% chance)**: ...
+  ```
+  Barrels [ 22%]: Fluted Barrel
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Moving Target
+  Perks 2 [ 40%]: Quickdraw
+  MWorks  [ 25%]: Handling MW
+  ```
+* **(PvP) "Seraph Sharpshooter" (+ Masterworks) 🎯🎯🎯 CE (0.4% chance)**: ...
+  ```
+  Barrels [ 22%]: Fluted Barrel
+  Mags    [ 46%]: Seraph Rounds, Accurized Rounds
+  Perks 1 [ 20%]: Moving Target
+  Perks 2 [ 40%]: Quickdraw
+  MWorks  [ 50%]: Handling MW, Range MW
+  ```
+* **(PvP) "Seraph Sharpshooter" (- Masterworks) 🎯🎯🎯 CE (0.8% chance)**: ...
+  ```
+  Barrels [ 22%]: Fluted Barrel
+  Mags    [ 46%]: Seraph Rounds, Accurized Rounds
+  Perks 1 [ 20%]: Moving Target
+  Perks 2 [ 40%]: Quickdraw
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Seraph Sharpshooter" (+ Barrels + Masterworks) 🎯🎯🎯 CE (1.1% chance)**: ...
+  ```
+  Barrels [ 58%]: Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
+  Mags    [ 46%]: Seraph Rounds, Accurized Rounds
+  Perks 1 [ 20%]: Moving Target
+  Perks 2 [ 40%]: Quickdraw
+  MWorks  [ 50%]: Handling MW, Range MW
+  ```
+* **(PvP) "Seraph Sharpshooter" (- Barrels - Magazines) 🎯🎯 CE (2.0% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Moving Target
+  Perks 2 [ 40%]: Quickdraw
+  MWorks  [ 25%]: Handling MW
+  ```
+* **(PvP) "Seraph Sharpshooter" (- Barrels - Magazines + Masterworks) 🎯🎯 CE (4.0% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Moving Target
+  Perks 2 [ 40%]: Quickdraw
+  MWorks  [ 50%]: Handling MW, Range MW
+  ```
+* **(PvP) "Seraph Sharpshooter" (Baseline) 🎯 CE (8.0% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Moving Target
+  Perks 2 [ 40%]: Quickdraw
+  MWorks  [100%]: *
+  ```
+## IKELOS_SR_V1.0.2 - PvE
+*For all possible perks, check out **IKELOS_SR_V1.0.2** over on [light.gg](https://www.light.gg/db/items/1253087083/ikelos-sr-v102/)*
+
+
+Ehroar and Kackis both review the IKELOS 1.0.2 and land on similar reccomendations which I'll capture here. Ehroar's take is a little more thorough so I'm expanding the Collector's Edition with his thoughts.
+* [Ikelos Sniper is Back! What is the God Roll?](https://www.youtube.com/watch?v=waOR-IuhIIc) - Ehroar
+* [The Sniper Meta is BACK!? - Best New PvE Sniper](https://www.youtube.com/watch?v=AQSfa96KoO4) - Kackis
+
+The core perks are fine, so even though the Baseline is pretty easily obtainable, don't let that dissuade you; it's solid!
+* **(PvE) "Ehroar's Pick" 🦁🦁🦁🌟 Collector's Edition (0.1% chance)**: TODO
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: Appended Mag
+  Perks 1 [ 20%]: Fourth Time's the Charm
+  Perks 2 [ 40%]: High-Impact Reserves
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Ehroar's Pick" (+ Barrels) 🦁🦁🦁 CE (0.3% chance)**: ...
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Appended Mag
+  Perks 1 [ 20%]: Fourth Time's the Charm
+  Perks 2 [ 40%]: High-Impact Reserves
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Ehroar's Pick" (+ Magazines) 🦁🦁🦁 CE (0.2% chance)**: ...
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 46%]: Appended Mag, Extended Mag
+  Perks 1 [ 20%]: Fourth Time's the Charm
+  Perks 2 [ 40%]: High-Impact Reserves
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Ehroar's Pick" (+ Barrels + Magazines) 🦁🦁🦁 CE (0.5% chance)**: ...
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 46%]: Appended Mag, Extended Mag
+  Perks 1 [ 20%]: Fourth Time's the Charm
+  Perks 2 [ 40%]: High-Impact Reserves
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Ehroar's Pick" (+ Barrels + Magazines - Masterworks) 🦁🦁🦁 CE (2.2% chance)**: ...
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 46%]: Appended Mag, Extended Mag
+  Perks 1 [ 20%]: Fourth Time's the Charm
+  Perks 2 [ 40%]: High-Impact Reserves
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Ehroar's Pick" (- Barrels - Masterworks) 🦁🦁 CE (2.0% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Appended Mag
+  Perks 1 [ 20%]: Fourth Time's the Charm
+  Perks 2 [ 40%]: High-Impact Reserves
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Ehroar's Pick" (- Barrels + Magazines - Masterworks) 🦁🦁 CE (3.7% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [ 46%]: Appended Mag, Extended Mag
+  Perks 1 [ 20%]: Fourth Time's the Charm
+  Perks 2 [ 40%]: High-Impact Reserves
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Ehroar's Pick" (Baseline) 🦁 (16.0% chance)**: ...
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 40%]: Fourth Time's the Charm, Triple Tap
+  Perks 2 [ 40%]: High-Impact Reserves
   MWorks  [100%]: *
   ```
 ## Temptation's Hook - PvE
