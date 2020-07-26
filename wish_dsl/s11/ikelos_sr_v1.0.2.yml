@@ -46,10 +46,11 @@ groups:
       perk if they're planning on keeping IKELOS weapons around.
 
 
-      There aren't a ton of great perks here, so I'm only featuring one roll. 
+      There aren't a ton of great perks here, so I'm only featuring one roll
+      with two variations: favouring `Handling` and favouring `Range`. 
     rolls:
       - &isrss
-        name: (PvP) "Seraph Sharpshooter" 🎯🎯🎯🌟 Collector's Edition
+        name: (PvP) "Seraph Sharpshooter / Handling" 🎯🎯🎯🌟 Collector's Edition
         desc: >
           The IKELOS has `73` Aim Assist and with `Moving Target`, a `Targeting
           Adjuster` mod and `Enhanced Sniper Targeting` on your helm, you're
@@ -63,55 +64,99 @@ groups:
         masterworks: [Handling MW]
       - 
         <<: *isrss
-        name: (PvP) "Seraph Sharpshooter" (+ Barrels) 🎯🎯🎯 CE
+        name: (PvP) "Seraph Sharpshooter/H" (+ Barrels) 🎯🎯🎯 CE
         desc: ...
         barrels: [Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
       - 
         <<: *isrss
-        name: (PvP) "Seraph Sharpshooter" (- Barrels) 🎯🎯🎯 CE
+        name: (PvP) "Seraph Sharpshooter/H" (- Barrels) 🎯🎯🎯 CE
         desc: ...
         barrels: []
       - 
         <<: *isrss
-        name: (PvP) "Seraph Sharpshooter" (- Magazines) 🎯🎯🎯 CE
+        name: (PvP) "Seraph Sharpshooter/H" (- Magazines) 🎯🎯🎯 CE
         desc: ...
         magazines: []
       - 
         <<: *isrss
-        name: (PvP) "Seraph Sharpshooter" (+ Masterworks) 🎯🎯🎯 CE
+        name: (PvP) "Seraph Sharpshooter/H" (+ Masterworks) 🎯🎯🎯 CE
         desc: ...
         masterworks: [Handling MW, Range MW]
       - 
         <<: *isrss
-        name: (PvP) "Seraph Sharpshooter" (- Masterworks) 🎯🎯🎯 CE
+        name: (PvP) "Seraph Sharpshooter/H" (- Masterworks) 🎯🎯🎯 CE
         desc: ...
         masterworks: []
       - 
         <<: *isrss
-        name: (PvP) "Seraph Sharpshooter" (+ Barrels + Masterworks) 🎯🎯🎯 CE
+        name: (PvP) "Seraph Sharpshooter/H" (+ Barrels + Masterworks) 🎯🎯🎯 CE
         desc: ...
         barrels: [Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
         masterworks: [Handling MW, Range MW]
       - 
         <<: *isrss
-        name: (PvP) "Seraph Sharpshooter" (- Barrels - Magazines) 🎯🎯 CE
+        name: (PvP) "Seraph Sharpshooter/H" (- Barrels - Magazines) 🎯🎯 CE
         desc: ...
         barrels: []
         magazines: []
       - 
         <<: *isrss
-        name: (PvP) "Seraph Sharpshooter" (- Barrels - Magazines + Masterworks) 🎯🎯 CE
+        name: (PvP) "Seraph Sharpshooter/H" (- Barrels - Magazines + Masterworks) 🎯🎯 CE
         desc: ...
         barrels: []
         magazines: []
         masterworks: [Handling MW, Range MW]
       - 
         <<: *isrss
-        name: (PvP) "Seraph Sharpshooter" (Baseline) 🎯 CE
+        name: (PvP) "Seraph Sharpshooter/H" (Baseline) 🎯 CE
         desc: ...
         barrels: []
         magazines: []
         masterworks: []
+      - &isrssr
+        name: (PvP) "Seraph Sharpshooter / Range" 🔭🔭🔭🌟 Collector's Edition
+        desc: >
+          The 140s tend to have quite high `Handling`. If you're solid with the
+          base level of `Handling` maybe you prefer all-out `Range`? Let's keep
+          the same set of rolls above and swap in`Range`-boosters. Some of the
+          rolls overlap, so there will be fewer rolls here as they will be
+          'caught' by the above set of rolls.
+        barrels: [Hammer-Forged Rifling]
+        magazines: [Seraph Rounds, Accurized Rounds]
+        perks1: [Moving Target]
+        perks2: [Quickdraw]
+        masterworks: [Range MW]
+      - 
+        <<: *isrssr
+        name: (PvP) "Seraph Sharpshooter/R" (+ Barrels) 🔭🔭🔭 CE
+        desc: ...
+        barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+      - 
+        <<: *isrssr
+        name: (PvP) "Seraph Sharpshooter/R" (- Barrels) 🔭🔭🔭 CE
+        desc: ...
+        barrels: []
+      - 
+        <<: *isrssr
+        name: (PvP) "Seraph Sharpshooter/R" (- Magazines) 🔭🔭🔭 CE
+        desc: ...
+        magazines: []
+      - 
+        <<: *isrssr
+        name: (PvP) "Seraph Sharpshooter/R" (+ Masterworks) 🔭🔭🔭 CE
+        desc: ...
+        masterworks: [Handling MW, Range MW]
+      - 
+        <<: *isrssr
+        name: (PvP) "Seraph Sharpshooter/R" (- Masterworks) 🔭🔭🔭 CE
+        desc: ...
+        masterworks: []
+      - 
+        <<: *isrssr
+        name: (PvP) "Seraph Sharpshooter/R" (+ Barrels + Masterworks) 🔭🔭🔭 CE
+        desc: ...
+        barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+        masterworks: [Handling MW, Range MW]
   - 
     name: PvE
     summary: >
