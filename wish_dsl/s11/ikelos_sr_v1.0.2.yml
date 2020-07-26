@@ -11,21 +11,106 @@ groups:
   - 
     name: PvP
     summary: >
-      TODO
+      The IKELOS_SR_V1.0.2 is a 140 RPM Rapid-Fire Frame sniper. Stat-wise, the
+      currently available batch are
+      [mostly the same](https://www.light.gg/db/items/compare/?h=BKsJdr;o8g0X;DN5NWh;BLxysY)
+      and unfortunately none can roll with both `Snapshot` and `Quickdraw` 😱
+      Note that the IKELOS does have a slightly higher Zoom (40 > 45) than half
+      of the bunch. This may or may not work with your playstyle.
+
+
+      Let's get this out of the way - "What roll will replace my Beloved?"
+      Unfortunately none of them. No 140 RPM sniper beyond the S11 power cap
+      can roll like Beloved, Tatara Gaze, Apostate, etc. It looks like they're
+      almost purposefully decoupling the great perks we're used to seeing
+      together: Snapshot + Quickdraw, Snapshot + Opening Shot, etc.
+
+
+      Some thoughts on the perks I've selected:
+      
+      
+      * I value `Moving Target` over `No Distractions` for a few reasons.
+      Contrary to the name, `Moving Target` procs
+      [whether or not you're moving](https://www.youtube.com/watch?v=AcpJWC039m8).
+      `No Distractions` takes 1.5-2s to activate. That is an eternity and
+      basically unusable in Comp or Trials. Even when it does activate, `No
+      Distractions` doesn't reduce flinch by that much. Here, check out
+      [Fallout's testing](https://youtu.be/cUE4W03qPVY?t=171).
+
+      * `Seraph Rounds`, has just about every hidden benefit you can imagine
+      ascribed to it. The only one I'm able to find definitive evidence for
+      is that it increases range falloff by about 2m. When I compared it with
+      `Accurized Rounds` on the IKELOS SMG, it pushed it about 1m further.
+      That's the only reason I prefer it here, but they're basically the same
+      in that one aspect. IMHO Bungie could definitely stand to redefine this
+      perk if they're planning on keeping IKELOS weapons around.
+
+
+      There aren't a ton of great perks here, so I'm only featuring one roll. 
     rolls:
-      - &bfsnappy
-        name: (PvP) "Snappy Opener" 🤞🤞🤞🌟 Collector's Edition
+      - &isrss
+        name: (PvP) "Seraph Sharpshooter" 🎯🎯🎯🌟 Collector's Edition
         desc: >
-          TODO
+          The IKELOS has `73` Aim Assist and with `Moving Target`, a `Targeting
+          Adjuster` mod and `Enhanced Sniper Targeting` on your helm, you're
+          plenty good on AA. Whatever tiny part of the `Range` stat affects
+          AA is outweighed by faster Handling contributing to faster ADS and
+          faster stow speed for cleanups.
+        barrels: [Fluted Barrel]
+        magazines: [Seraph Rounds, Accurized Rounds]
+        perks1: [Moving Target]
+        perks2: [Quickdraw]
+        masterworks: [Handling MW]
+      - 
+        <<: *isrss
+        name: (PvP) "Seraph Sharpshooter" (+ Barrels) 🎯🎯🎯 CE
+        desc: ...
+        barrels: [Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
+      - 
+        <<: *isrss
+        name: (PvP) "Seraph Sharpshooter" (- Barrels) 🎯🎯🎯 CE
+        desc: ...
+        barrels: []
+      - 
+        <<: *isrss
+        name: (PvP) "Seraph Sharpshooter" (- Magazines) 🎯🎯🎯 CE
+        desc: ...
+        magazines: []
+      - 
+        <<: *isrss
+        name: (PvP) "Seraph Sharpshooter" (+ Masterworks) 🎯🎯🎯 CE
+        desc: ...
+        masterworks: [Handling MW, Range MW]
+      - 
+        <<: *isrss
+        name: (PvP) "Seraph Sharpshooter" (- Masterworks) 🎯🎯🎯 CE
+        desc: ...
+        masterworks: []
+      - 
+        <<: *isrss
+        name: (PvP) "Seraph Sharpshooter" (+ Barrels + Masterworks) 🎯🎯🎯 CE
+        desc: ...
+        barrels: [Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
+        masterworks: [Handling MW, Range MW]
+      - 
+        <<: *isrss
+        name: (PvP) "Seraph Sharpshooter" (- Barrels - Magazines) 🎯🎯 CE
+        desc: ...
         barrels: []
         magazines: []
-        perks1: [Moving Target]
-        perks2: [Opening Shot]
-        masterworks: [Range MW]
       - 
-        <<: *bfsnappy
-        name: (PvP) "Snappy Opener" 🤞🤞🤞 CE (- Masterworks)
+        <<: *isrss
+        name: (PvP) "Seraph Sharpshooter" (- Barrels - Magazines + Masterworks) 🎯🎯 CE
         desc: ...
+        barrels: []
+        magazines: []
+        masterworks: [Handling MW, Range MW]
+      - 
+        <<: *isrss
+        name: (PvP) "Seraph Sharpshooter" (Baseline) 🎯 CE
+        desc: ...
+        barrels: []
+        magazines: []
         masterworks: []
   - 
     name: PvE
