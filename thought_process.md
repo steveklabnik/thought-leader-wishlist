@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-26 14:37:23 +00:00`.
+* It was generated `2020-07-29 01:50:32 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -1742,7 +1742,7 @@ Remember when we all thought Wish-Ender would break the Crucible because you cou
 
 Many months ago, I saved a post by [/u/TheGuiltySpark117](https://www.reddit.com/user/TheGuiltySpark117) in the off chance I ever wanted to give bows a real shot in PvP. Over that time I've read and re-read it, every time I'm trying to figure out if I have a good bow roll. *I strongy suggest you check this out; it's phenomenal!*
 
-[An In-Depth Guide to Using a Bow in Competitive PvP (Console or PC)](https://www.reddit.com/r/CruciblePlaybook/comments/fkgm0k/an_indepth_guide_to_using_a_bow_in_competitive/)
+[An In-Depth Guide to Using a Bow in Competitive PvP (Console or PC)](https://www.reddit.com/r/CruciblePlaybook/comments/hjvoka/an_indepth_guide_to_using_a_bow_in_competitive/)
 
 I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls for Whispering Slab. All of the content that follows is courtesy of TheGuiltySpark117. Plese head over to the [latest edition](https://www.reddit.com/r/CruciblePlaybook/comments/fkgm0k/an_indepth_guide_to_using_a_bow_in_competitive/) of the guide and show your appreciation.
 > I have two possible loadouts that I would consider a god roll for pvp. I don’t see a loadout for whispering slab that would be great for PvE, however.
