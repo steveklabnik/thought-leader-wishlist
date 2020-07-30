@@ -42,7 +42,7 @@ groups:
       case*
     rolls:
       - &fgclassic
-        name: (PvE) Sustained DPS 🗡🗡🗡 Collector's Edition 
+        name: (PvE) Sustained DPS 🗡🗡🗡 🌟Collector's Edition 
         desc: >
           With Whirlwind and Relentless you'll be slicing for what seems like
           forever. C/o
@@ -53,29 +53,24 @@ groups:
           sword stats, but that's fine because Charge Rate is such a compressed
           stat you won't notice the difference.
         barrels: [Jagged Edge]
-        magazines: [Heavy Guard]
+        magazines: [Swordmaster's Guard]
         perks1: [Relentless Strikes]
         perks2: [Whirlwind Blade]
         masterworks: [Impact MW]
       -
         <<: *fgclassic
-        name: (PvE) Sustained DPS 🗡🗡 (Minus Magazines)
-        desc: >
-          Same as the CE, minus Heavy Guard. That's OK because you won't be
-          doing all that much defending while slicing away with your sword.
-        magazines: []
-      -
-        <<: *fgclassic
-        name: (PvE) Sustained DPS 🗡🗡 (Minus Barrels)
-        desc: >
-          Same as the CE, minus Jagged Edge. Still an absolutely great roll.
+        name: (PvE) Sustained DPS 🗡🗡 (- Edges)
+        desc: ...
         barrels: []
       -
         <<: *fgclassic
+        name: (PvE) Sustained DPS 🗡🗡 (- Guards)
+        desc: ...
+        magazines: []
+      -
+        <<: *fgclassic
         name: (PvE) Sustained DPS 🗡 (Baseline)
-        desc: >
-          You really only need these two to do phenomenal amounts of sustained
-          damage and fortunately they're pretty easy to find!
+        desc: ...
         barrels: []
         magazines: []
       - &fgsurrounded
@@ -94,22 +89,17 @@ groups:
         perks2: [Surrounded]
       -
         <<: *fgsurrounded
-        name: (PvE) "Lawnmower Man" 🚜🚜 (Minus Magazines)
-        desc: >
-          Same as the CE, minus Heavy Guard. That's OK because you won't be
-          doing all that much defending while slicing away with your sword.
-        magazines: []
-      -
-        <<: *fgsurrounded
-        name: (PvE) "Lawnmower Man" 🚜🚜 (Minus Barrels)
-        desc: >
-          Same as the CE, minus Jagged Edge. Still an absolutely great roll.
+        name: (PvE) "Lawnmower Man" 🚜🚜 (- Edges)
+        desc: ...
         barrels: []
       -
         <<: *fgsurrounded
+        name: (PvE) "Lawnmower Man" 🚜🚜 (- Guards)
+        desc: ...
+        magazines: []
+      -
+        <<: *fgsurrounded
         name: (PvE) "Lawnmower Man" 🚜 Baseline
-        desc: >
-          You really only need these two to do phenomenal amounts of 
-          damage and fortunately they're pretty easy to find!
+        desc: ...
         barrels: []
         magazines: []
