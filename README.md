@@ -115,7 +115,8 @@ This will have its own section both because of how popular they are, how confusi
   * **Aggressive**: Usable only by Titans. There are two of these as well.
 
 * Attributes unique to swords
-  * **Charge Rate**: How fast your Sword Energy replenishes. Throw-away stat in its current state. Delta between worst and best recharge rates is less than 1s.
+  * **Charge Rate**: How fast your Sword Energy replenishes, which is
+  what gates your ability to block and perform heavy attacks. Swordmaster's Guard is the only Guard that increases Charge Rate which (for Falling Guillotine at least) means you can use your Heavy Attack ~0.5s more often.
   * **Guard Endurance**: How fast your Sword Energy depletes *while in the guard animation*.
   * **Guard Efficiency**: How fast your Sword Energy depletes *while getting shot*.
   * **Guard Resistance**: How much damage your Guardian takes while... guarding.
