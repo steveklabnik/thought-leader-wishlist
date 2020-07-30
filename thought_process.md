@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-07-29 01:50:32 +00:00`.
+* It was generated `2020-07-30 21:32:34 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -340,16 +340,25 @@ What makes this even better is that as with all other swords, the perk pool is s
 We're going for the classics here: Whirlwind and Surrounded. Maybe you'll get insanely lucky and get both Whirlwind and Surrounded as the perks in the final column?
 
 *Note that swords only have one possible Masterwork (Impact) hence the appearance of "any MW will do" in the wishlist; which isn't really the case*
-* **(PvE) Sustained DPS 🗡🗡🗡 Collector's Edition (2.7% chance)**: With Whirlwind and Relentless you'll be slicing for what seems like forever. C/o [this analysis](https://www.reddit.com/r/DestinyTheGame/comments/a2mjez/sword_awareness_1_jagged_edge_vs_honed_edge/), Jagged Edge is the clear choice for the first column, but you'll want to make sure your reserves are increased in armor. Heavy Guard sacrifices Charge Rate and massive increased all the other important sword stats, but that's fine because Charge Rate is such a compressed stat you won't notice the difference.
+* **(PvE) Sustained DPS 🗡🗡🗡 🌟Collector's Edition (2.7% chance)**: With Whirlwind and Relentless you'll be slicing for what seems like forever. C/o [this analysis](https://www.reddit.com/r/DestinyTheGame/comments/a2mjez/sword_awareness_1_jagged_edge_vs_honed_edge/), Jagged Edge is the clear choice for the first column, but you'll want to make sure your reserves are increased in armor. Heavy Guard sacrifices Charge Rate and massive increased all the other important sword stats, but that's fine because Charge Rate is such a compressed stat you won't notice the difference.
 
   ```
   Barrels [ 40%]: Jagged Edge
-  Mags    [ 40%]: Heavy Guard
+  Mags    [ 40%]: Swordmaster's Guard
   Perks 1 [ 33%]: Relentless Strikes
   Perks 2 [ 50%]: Whirlwind Blade
   MWorks  [100%]: *
   ```
-* **(PvE) Sustained DPS 🗡🗡 (Minus Magazines) (6.7% chance)**: Same as the CE, minus Heavy Guard. That's OK because you won't be doing all that much defending while slicing away with your sword.
+* **(PvE) Sustained DPS 🗡🗡 (- Edges) (6.7% chance)**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 40%]: Swordmaster's Guard
+  Perks 1 [ 33%]: Relentless Strikes
+  Perks 2 [ 50%]: Whirlwind Blade
+  MWorks  [100%]: *
+  ```
+* **(PvE) Sustained DPS 🗡🗡 (- Guards) (6.7% chance)**
 
   ```
   Barrels [ 40%]: Jagged Edge
@@ -358,16 +367,7 @@ We're going for the classics here: Whirlwind and Surrounded. Maybe you'll get in
   Perks 2 [ 50%]: Whirlwind Blade
   MWorks  [100%]: *
   ```
-* **(PvE) Sustained DPS 🗡🗡 (Minus Barrels) (6.7% chance)**: Same as the CE, minus Jagged Edge. Still an absolutely great roll.
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 40%]: Heavy Guard
-  Perks 1 [ 33%]: Relentless Strikes
-  Perks 2 [ 50%]: Whirlwind Blade
-  MWorks  [100%]: *
-  ```
-* **(PvE) Sustained DPS 🗡 (Baseline) (16.7% chance)**: You really only need these two to do phenomenal amounts of sustained damage and fortunately they're pretty easy to find!
+* **(PvE) Sustained DPS 🗡 (Baseline) (16.7% chance)**
 
   ```
   Barrels [100%]: *
@@ -380,12 +380,21 @@ We're going for the classics here: Whirlwind and Surrounded. Maybe you'll get in
 
   ```
   Barrels [ 40%]: Jagged Edge
-  Mags    [ 40%]: Heavy Guard
+  Mags    [ 40%]: Swordmaster's Guard
   Perks 1 [ 33%]: Relentless Strikes
   Perks 2 [ 50%]: Surrounded
   MWorks  [100%]: *
   ```
-* **(PvE) "Lawnmower Man" 🚜🚜 (Minus Magazines) (6.7% chance)**: Same as the CE, minus Heavy Guard. That's OK because you won't be doing all that much defending while slicing away with your sword.
+* **(PvE) "Lawnmower Man" 🚜🚜 (- Edges) (6.7% chance)**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 40%]: Swordmaster's Guard
+  Perks 1 [ 33%]: Relentless Strikes
+  Perks 2 [ 50%]: Surrounded
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Lawnmower Man" 🚜🚜 (- Guards) (6.7% chance)**
 
   ```
   Barrels [ 40%]: Jagged Edge
@@ -394,16 +403,7 @@ We're going for the classics here: Whirlwind and Surrounded. Maybe you'll get in
   Perks 2 [ 50%]: Surrounded
   MWorks  [100%]: *
   ```
-* **(PvE) "Lawnmower Man" 🚜🚜 (Minus Barrels) (6.7% chance)**: Same as the CE, minus Jagged Edge. Still an absolutely great roll.
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 40%]: Heavy Guard
-  Perks 1 [ 33%]: Relentless Strikes
-  Perks 2 [ 50%]: Surrounded
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Lawnmower Man" 🚜 Baseline (16.7% chance)**: You really only need these two to do phenomenal amounts of  damage and fortunately they're pretty easy to find!
+* **(PvE) "Lawnmower Man" 🚜 Baseline (16.7% chance)**
 
   ```
   Barrels [100%]: *
