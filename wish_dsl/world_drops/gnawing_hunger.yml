@@ -281,18 +281,26 @@ groups:
   - 
     name: PvE
     summary: >
-      The best PvE roll of Gnawing Hunger is currently in limbo. It was
-      previously available as the curated roll from the Reckoning, which is
-      the only time it will drop with Overflow in the third slot (and Rampage
-      in the fourth). Early reports are mixed on whether or not starting with
-      Season 11, the curated roll is still dropping with the old light level
-      cap. If so, that would mean it would not be useful beyond the current
-      season for power-level-enabled activities.
+      The best PvE roll of Gnawing Hunger is the curated one, and the only way
+      to get it (as of Season 11) is via grinding T3 Reckoning.
 
-
-      Classic combos carry the day here - reload perks combined with damage
-      boosting perks, and as much Range as we can get.
+      If that's off the table, then classic combos will carry the day here -
+      reload perks combined with damage boosting perks, and as much Range as we
+      can get.
     rolls:
+      - &ghcurated
+        name: (PvE) Curated ‼️🌟🌟🌟🌟‼️
+        desc: >
+          The curated roll! Overflow and Rampage let you kill enemies for hours¹
+          without reloading!  Arrowhead Brake gives you almost totally vertical
+          recoil direction.  This is the best legendary auto for PvE in the game.
+
+          (¹ not actually hours, but 2x as long as normal)
+        barrels: [Arrowhead Brake]
+        magazines: [Appended Mag]
+        perks1: [Overflow]
+        perks2: [Rampage]
+        masterworks: [Handling MW]
       - &ghhose
         name: (PvE) Bullet Hose 💦💦💦🌟 Collector's Edition
         desc: >
