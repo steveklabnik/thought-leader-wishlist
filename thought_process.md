@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-08-01 19:56:31 +00:00`.
+* It was generated `2020-08-01 21:45:17 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -3667,7 +3667,7 @@ What you **really** want is to slam all these perks together for maximum Stabili
 
 The best PvE roll of Gnawing Hunger is the curated one, and the only way to get it (as of Season 11) is via grinding T3 Reckoning.
 If that's off the table, then classic combos will carry the day here - reload perks combined with damage boosting perks, and as much Range as we can get.
-* **(PvE) Curated ‼️🌟🌟🌟🌟‼️ (0.1% chance)**: The curated roll! Overflow and Rampage let you kill enemies for hours¹ without reloading!  Arrowhead Brake gives you almost totally vertical recoil direction.  This is the best legendary auto for PvE in the game.
+* **(PvE) Curated ‼️🌟🌟🌟🌟‼️ (0.4% chance)**: The curated roll! Overflow and Rampage let you kill enemies for hours¹ without reloading!  Arrowhead Brake gives you almost totally vertical recoil direction.  This is the best legendary auto for PvE in the game.
 (¹ not actually hours, but 2x as long as normal)
 
   ```
@@ -3675,7 +3675,7 @@ If that's off the table, then classic combos will carry the day here - reload pe
   Mags    [ 25%]: Appended Mag
   Perks 1 [ 20%]: Overflow
   Perks 2 [ 40%]: Rampage
-  MWorks  [ 25%]: Handling MW
+  MWorks  [100%]: *
   ```
 * **(PvE) Bullet Hose 💦💦💦🌟 Collector's Edition (0.2% chance)**: As much Range as we can get from everywhere we can get it. We're combining Subsistence with Swashbuckler or Rampage because those two (versus the two kill clips) can be refreshed/extended without reloading.
 
