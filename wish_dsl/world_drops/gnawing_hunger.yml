@@ -300,7 +300,7 @@ groups:
         magazines: [Appended Mag]
         perks1: [Overflow]
         perks2: [Rampage]
-        masterworks: [Handling MW]
+        masterworks: []
       - &ghhose
         name: (PvE) Bullet Hose 💦💦💦🌟 Collector's Edition
         desc: >
