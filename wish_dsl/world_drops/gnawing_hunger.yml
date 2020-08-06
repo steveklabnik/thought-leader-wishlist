@@ -58,7 +58,7 @@ groups:
       below.
     rolls:
       - &ghhungry
-        name: (PvP) Drifter Hungry 🧟‍♂️🧟‍♂️🧟‍♂️🌟 Collector's Edition
+        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️🌟 Collector's Edition
         desc: >
           With a Counterbalance mod, this roll will be `Recoil:99` and once you
           apply the Masterwork, `Stability:71`. Layered on top of `Tap the
@@ -70,51 +70,47 @@ groups:
         masterworks: [Stability MW]
       - 
         <<: *ghhungry
-        name: (PvP) Drifter Hungry 🧟‍♂️🧟‍♂️🧟‍♂️ CE (Relaxed Masterwork)
-        desc: >
-          Same as the CE, with no Masterwork requirement.
+        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (- Masterworks)
+        desc: ...
         masterworks: []
       - 
         <<: *ghhungry
-        name: (PvP) Drifter Hungry 🧟‍♂️🧟‍♂️🧟‍♂️ CE (Relaxed Perk)
-        desc: >
-          Same as the CE, with no Perk requirement.
+        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (- Perk)
+        desc: ...
         perks2: []
       - &ghhungrymags
         <<: *ghhungry
-        name: (PvP) Drifter Hungry 🧟‍♂️🧟‍♂️🧟‍♂️ CE (Relaxed Magazine)
-        desc: >
-          Same as the CE, with relaxed Magazines.
+        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (+ Magazines)
+        desc: ...
         magazines: [Steady Rounds, Flared Magwell, Tactical Mag]
       - 
         <<: *ghhungrymags
-        name: (PvP) Drifter Hungry 🧟‍♂️🧟‍♂️🧟‍♂️ CE (Relaxed Magazines and Masterwork)
-        desc: >
-          Same as the CE, with no Masterwork requirement.
+        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (+ Magazines - Masterworks)
+        desc: ...
         masterworks: []
       - 
         <<: *ghhungrymags
-        name: (PvP) Drifter Hungry 🧟‍♂️🧟‍♂️🧟‍♂️ CE (Relaxed Magazines and Masterwork)
-        desc: >
-          Same as the CE, with no Masterwork requirement.
+        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (+ Magazines - Perk)
+        desc: ...
         perks2: []
-      - &ghhungryfully
-        <<: *ghhungry
-        name: (PvP) Drifter Hungry 🧟‍♂️🧟‍♂️ CE (Fully Relaxed Magazines)
-        desc: >
-          Same as the CE, with no Magazine requirement.
-        magazines: []
-      -
-        <<: *ghhungryfully
-        name: (PvP) Drifter Hungry 🧟‍♂️🧟‍♂️ CE (Relaxed Masterworks)
-        desc: >
-          Same as the roll above, minus Masterworks.
+      - 
+        <<: *ghhungrymags
+        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️ CE (+ Magazines - Perk - Masterworks)
+        desc: ...
+        perks2: []
         masterworks: []
       -
-        <<: *ghhungryfully
-        name: (PvP) Drifter Hungry 🧟‍♂️ CE (Baseline)
+        <<: *ghhungry
+        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️ CE (- Magazines - Masterworks)
+        desc: ...
+        magazines: []
+        masterworks: []
+      -
+        <<: *ghhungry
+        name: (PvP) "Drifter Hungry" 🧟‍♂️ CE (Baseline)
         desc: >
           With these two and a Counterbalance mod, you're still in business.
+        magazines: []
         perks2: []
         masterworks: []
       - &ghallout
