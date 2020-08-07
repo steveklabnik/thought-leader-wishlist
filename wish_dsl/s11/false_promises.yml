@@ -53,8 +53,7 @@ groups:
       I'm recommending, nay **requiring** 🧐DSR for any False Promises roll I'd
       consider using in PvP. The reason is that the False Promises has the worst
       base stats of any 360 RPM Auto Rifle and needs a lot of help getting to a
-      usable place in PvP, considering its competition. DSR is so good now that
-      it almost obviates the need for any other Stability.
+      usable place in PvP, considering its competition.
 
 
       All of the following rolls feature Eye of the Storm, Rampage and
@@ -63,61 +62,11 @@ groups:
       If you want more foregiveness during follow-on encounters, choose Rampage
       or Swashbuckler.
     rolls:
-      - &fpstorm
-        name: (PvP) Bullet Storm ⛈⛈⛈🌟Collector's Edition
-        desc: >
-          With how significanly DSR ramps, you're really basing your playstyle
-          around it. You know how everyone pre-fires with SUROS? Well I'm
-          suggesting a set of rolls based on pre-firing with DSR on Auto Rifles.
-          This means instead of a Counterbalance Mod, I want to see room for a
-          Backup Mag mod here. This set of rolls is based around "fixing" Recoil
-          with barrels, leaving room for a Backup Mag mod to give you more
-          pre-firing leeway. Eye of the Storm is terrific for increased accuracy
-          during gunfights and the rest of the roll is about adding as much
-          Stability as we can.
-        barrels: [Arrowhead Brake, Chambered Compensator]
-        magazines: [Ricochet Rounds]
-        perks1: [Dynamic Sway Reduction]
-        perks2: [Eye of the Storm, Rampage, Swashbuckler]
-        masterworks: [Stability MW]
-      -
-        <<: *fpstorm
-        name: (PvP) Bullet Storm ⛈⛈⛈ (Relaxed Magazines)
-        desc: >
-          Same as the CE, broadening the Magazines
-        magazines: [Ricochet Rounds, Flared Magwell]
-      -
-        <<: *fpstorm
-        name: (PvP) Bullet Storm ⛈⛈⛈ (Relaxed Masterwork)
-        desc: >
-          Same as the CE, minus the Masterwork
-        masterworks: []
-      -
-        <<: *fpstorm
-        name: (PvP) Bullet Storm ⛈⛈⛈ (Relaxed Masterwork and Magazines)
-        desc: >
-          Same as the CE, minus the Masterwork
-        magazines: [Ricochet Rounds, Flared Magwell]
-        masterworks: []
-      -
-        <<: *fpstorm
-        name: (PvP) Bullet Storm ⛈⛈⛈ (Relaxed Magazines)
-        desc: >
-          Same as the CE, minus the Magazines
-        magazines: []
-      -
-        <<: *fpstorm
-        name: (PvP) Bullet Storm ⛈⛈ (Relaxed Magazines and Mastework)
-        desc: >
-          Same as the CE, minus the Magazines and Masterworks
-        magazines: []
-        masterworks: []
       - &fpstable
         name: (PvP) Stable Storm 🌦🌦🌦🌟Collector's Edition
         desc: >
-          Similar set of rolls to the above, but around Stability instead of
-          Recoil in the first column, which means there's a slightly increased
-          chance of getting one of these to drop (emphasis on 'slightly' 🤪).
+          These 360s are primarily hampered by their ultra-low Stability, so
+          we're going to do everything we can to correct it.
         barrels: [Polygonal Rifling]
         magazines: [Ricochet Rounds]
         perks1: [Dynamic Sway Reduction]
@@ -125,76 +74,37 @@ groups:
         masterworks: [Stability MW]
       -
         <<: *fpstable
-        name: (PvP) Stable Storm 🌦🌦🌦 (Relaxed Magazines)
-        desc: >
-          Same as the CE, with all Stability-enhancing Magazines.
+        name: (PvP) Stable Storm 🌦🌦🌦 (+ Magazines)
+        desc: ...
         magazines: [Ricochet Rounds, Flared Magwell]
       -
         <<: *fpstable
-        name: (PvP) Stable Storm 🌦🌦🌦 (Relaxed Barrels)
-        desc: >
-          Same as the CE, with all Stability-enhancing Barrels.
+        name: (PvP) Stable Storm 🌦🌦🌦 (+ Barrels)
+        desc: ...
         barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
       - &fprelaxed
         <<: *fpstable
-        name: (PvP) Stable Storm 🌦🌦🌦 (Relaxed Barrels and Magazines)
-        desc: >
-          Same as the CE, with all Stability-enhancing Barrels and Magazines.
+        name: (PvP) Stable Storm 🌦🌦🌦 (+ Barrels + Magazines)
+        desc: ...
         barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
         magazines: [Ricochet Rounds, Flared Magwell]
       -
         <<: *fprelaxed
-        name: (PvP) Stable Storm 🌦🌦 (Relaxed Magazines)
-        desc: >
-          Same as the above with relaxed Magazines.
+        name: (PvP) Stable Storm 🌦🌦 (- Magazines)
+        desc: ...
         magazines: []
       -
         <<: *fprelaxed
-        name: (PvP) Stable Storm 🌦🌦 (Relaxed Masterwork)
-        desc: >
-          Same as the above with relaxed Masterworks.
+        name: (PvP) Stable Storm 🌦🌦 (- Masterwork)
+        desc: ...
         masterworks: []
       -
         <<: *fprelaxed
-        name: (PvP) Stable Storm 🌦 (Relaxed Magazines and Masterwork)
+        name: (PvP) Stable Storm 🌦 (- Magazines - Masterwork)
         desc: >
           Same as the above with relaxed Magazines and Masterworks.
         magazines: []
         masterworks: []
-      - 
-        name: (PvP) Sway/.Storm (Baseline)
-        desc: >
-          With just any of these combos and a Counterbalance mod, you've got
-          an asbolutely serviceable Auto Rifle.
-        barrels: []
-        magazines: []
-        perks1: [Dynamic Sway Reduction]
-        perks2: [Eye of the Storm, Rampage, Swashbuckler]
-        masterworks: []
-      - &fpperkless
-        name: (PvP) Perkless Wonder 🤷🤷🤷🌟Collector's Edition
-        desc: >
-          If you manage to get every perk but the final column, you have a
-          super solid base Auto Rifle. This will be a series of rolls around
-          Dynamic Sway Reduction and without the reliance on final-column perks.
-        barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling]
-        magazines: [Ricochet Rounds]
-        perks1: [Dynamic Sway Reduction]
-        perks2: []
-        masterworks: [Stability MW]
-      -
-        <<: *fpperkless
-        name: (PvP) Perkless Wonder 🤷🤷🤷 (Relaxed Magazines)
-        desc: >
-          Same as the above with relaxed Magazines.
-        magazines: [Ricochet Rounds, Flared Magwell]
-      - &fpperkrelaxed
-        <<: *fpperkless
-        name: (PvP) Perkless Wonder 🤷🤷 (Relaxed Barrels and Mags)
-        desc: >
-          Same as the above with relaxed Barrels and Magazines.
-        barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
-        magazines: [Ricochet Rounds, Flared Magwell]
   - 
     name: PvE
     summary: >
@@ -214,35 +124,29 @@ groups:
         masterworks: [Range MW]
       - 
         <<: *fprage
-        name: (PvE) Overflowing Rage 🚰🚰🚰 (Relaxed Barrels)
-        desc: >
-          Same as the CE, minus the Barrels.
+        name: (PvE) Overflowing Rage 🚰🚰🚰 (- Barrels)
+        desc: ...
         barrels: []
       - 
         <<: *fprage
-        name: (PvE) Overflowing Rage 🚰🚰🚰 (Relaxed Masterwork)
-        desc: >
-          Same as the CE, minus the Masterwork.
+        name: (PvE) Overflowing Rage 🚰🚰🚰 (- Masterwork)
+        desc: ...
         masterworks: []
       - 
         <<: *fprage
-        name: (PvE) Overflowing Rage 🚰🚰🚰 (Relaxed Magazines)
-        desc: >
-          Same as the CE, minus the Magazines.
+        name: (PvE) Overflowing Rage 🚰🚰🚰 (- Magazines)
+        desc: ...
         magazines: []
       - 
         <<: *fprage
-        name: (PvE) Overflowing Rage 🚰🚰 (Relaxed Barrels and Magazines)
-        desc: >
-          Same as the CE, minus the Magazines.
+        name: (PvE) Overflowing Rage 🚰🚰 (- Barrels - Magazines)
+        desc: ...
         barrels: []
         magazines: []
       - 
         <<: *fprage
         name: (PvE) Overflowing Rage 🚰 (Baseline)
-        desc: >
-          Four great perks that go great together. In PvE pretty much everything
-          else is gravy.
+        desc: ...
         barrels: []
         magazines: []
         masterworks: []
@@ -257,35 +161,29 @@ groups:
         masterworks: [Range MW]
       - 
         <<: *fpfrenzy
-        name: (PvE) Frenzied Rage 😡😡😡 (Relaxed Barrels)
-        desc: >
-          Same as the CE, minus the Barrels.
+        name: (PvE) Frenzied Rage 😡😡😡 (- Barrels)
+        desc: ...
         barrels: []
       - 
         <<: *fpfrenzy
-        name: (PvE) Frenzied Rage 😡😡😡 (Relaxed Masterwork)
-        desc: >
-          Same as the CE, minus the Masterwork.
+        name: (PvE) Frenzied Rage 😡😡😡 (- Masterwork)
+        desc: ...
         masterworks: []
       - 
         <<: *fpfrenzy
-        name: (PvE) Frenzied Rage 😡😡😡 (Relaxed Magazines)
-        desc: >
-          Same as the CE, minus the Magazines.
+        name: (PvE) Frenzied Rage 😡😡😡 (- Magazines)
+        desc: ...
         magazines: []
       - 
         <<: *fpfrenzy
-        name: (PvE) Frenzied Rage 😡😡 (Relaxed Barrels and Magazines)
-        desc: >
-          Same as the CE, minus the Barrels and Magazines.
+        name: (PvE) Frenzied Rage 😡😡 (- Barrels - Magazines)
+        desc: ...
         barrels: []
         magazines: []
       - 
         <<: *fpfrenzy
         name: (PvE) Frenzied Rage 😡 (Baseline)
-        desc: >
-          Three great perks that go great together. In PvE pretty much everything
-          else is gravy.
+        desc: ...
         barrels: []
         magazines: []
         masterworks: []
