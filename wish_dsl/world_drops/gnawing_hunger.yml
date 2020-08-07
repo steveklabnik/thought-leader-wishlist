@@ -93,17 +93,28 @@ groups:
         name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (+ Magazines - Perk)
         desc: ...
         perks2: []
-      - 
-        <<: *ghhungrymags
-        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️ CE (+ Magazines - Perk - Masterworks)
+      -
+        <<: *ghhungry
+        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (- Magazines)
         desc: ...
-        perks2: []
-        masterworks: []
+        magazines: []
       -
         <<: *ghhungry
         name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️ CE (- Magazines - Masterworks)
         desc: ...
         magazines: []
+        masterworks: []
+      -
+        <<: *ghhungry
+        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️ CE (- Magazines - Perk)
+        desc: ...
+        magazines: []
+        perks2: []
+      - 
+        <<: *ghhungrymags
+        name: (PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️ CE (+ Magazines - Perk - Masterworks)
+        desc: ...
+        perks2: []
         masterworks: []
       -
         <<: *ghhungry
