@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-08-06 00:16:38 +00:00`.
+* It was generated `2020-08-07 05:57:13 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -429,161 +429,134 @@ Here's a couple of videos that talk about Stability, esp. with respect to Dynami
 * [Dynamic Sway Reduction on Auto Rifles & Zoom Effect | Destiny 2 Season of the Worthy](https://www.youtube.com/watch?v=S71_munFJYE)
 * [Stability In Depth | Stat Review and Guide - The Heart of Destiny 2](https://www.youtube.com/watch?v=DmQEFdjwzcw&feature=youtu.be)
 
-I'm recommending, nay **requiring** 🧐DSR for any False Promises roll I'd consider using in PvP. The reason is that the False Promises has the worst base stats of any 360 RPM Auto Rifle and needs a lot of help getting to a usable place in PvP, considering its competition. DSR is so good now that it almost obviates the need for any other Stability.
+I'm recommending, nay 🧐 **requiring** DSR for any False Promises roll I'd consider using in PvP. The reason is that False Promises has the worst base stats of any 360 RPM Auto Rifle and needs a lot of help getting to a usable place in PvP, considering its competition.
 
 All of the following rolls feature Eye of the Storm, Rampage and Swashbuckler. Think about this from a "forgiveness" perspective. If you want more forgiveness during your first exchange, choose Eye of the Storm. If you want more foregiveness during follow-on encounters, choose Rampage or Swashbuckler.
-* **(PvP) Bullet Storm ⛈⛈⛈🌟Collector's Edition (0.3% chance)**: With how significanly DSR ramps, you're really basing your playstyle around it. You know how everyone pre-fires with SUROS? Well I'm suggesting a set of rolls based on pre-firing with DSR on Auto Rifles. This means instead of a Counterbalance Mod, I want to see room for a Backup Mag mod here. This set of rolls is based around "fixing" Recoil with barrels, leaving room for a Backup Mag mod to give you more pre-firing leeway. Eye of the Storm is terrific for increased accuracy during gunfights and the rest of the roll is about adding as much Stability as we can.
-
-  ```
-  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
-  Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Bullet Storm ⛈⛈⛈ (Relaxed Magazines) (0.5% chance)**: Same as the CE, broadening the Magazines
-
-  ```
-  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Bullet Storm ⛈⛈⛈ (Relaxed Masterwork) (1.1% chance)**: Same as the CE, minus the Masterwork
-
-  ```
-  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
-  Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
-  MWorks  [100%]: *
-  ```
-* **(PvP) Bullet Storm ⛈⛈⛈ (Relaxed Masterwork and Magazines) (2.0% chance)**: Same as the CE, minus the Masterwork
-
-  ```
-  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
-  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
-  MWorks  [100%]: *
-  ```
-* **(PvP) Bullet Storm ⛈⛈⛈ (Relaxed Magazines) (1.1% chance)**: Same as the CE, minus the Magazines
-
-  ```
-  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) Bullet Storm ⛈⛈ (Relaxed Magazines and Mastework) (4.3% chance)**: Same as the CE, minus the Magazines and Masterworks
-
-  ```
-  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
-  MWorks  [100%]: *
-  ```
-* **(PvP) Stable Storm 🌦🌦🌦🌟Collector's Edition (0.1% chance)**: Similar set of rolls to the above, but around Stability instead of Recoil in the first column, which means there's a slightly increased chance of getting one of these to drop (emphasis on 'slightly' 🤪).
+* **(PvP) Stormfront 🌦🌦🌦🌟Collector's Edition (0.1% chance)**: These 360s are primarily hampered by their ultra-low Stability, so we're going to do everything we can to correct it. `EotS` is part of that as it hones in progressively more as your health gets low. Be sure to swap in Counterbalance mod push the `Recoil` to `100`.
 
   ```
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
+  Perks 2 [ 28%]: Eye of the Storm
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Stable Storm 🌦🌦🌦 (Relaxed Magazines) (0.3% chance)**: Same as the CE, with all Stability-enhancing Magazines.
+* **(PvP) Stormfront 🌦🌦🌦 (+ Magazines) (0.1% chance)**
 
   ```
   Barrels [ 22%]: Polygonal Rifling
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
+  Perks 2 [ 28%]: Eye of the Storm
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Stable Storm 🌦🌦🌦 (Relaxed Barrels) (0.5% chance)**: Same as the CE, with all Stability-enhancing Barrels.
+* **(PvP) Stormfront 🌦🌦🌦 (+ Barrels) (0.2% chance)**
 
   ```
   Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
+  Perks 2 [ 28%]: Eye of the Storm
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Stable Storm 🌦🌦🌦 (Relaxed Barrels and Magazines) (0.9% chance)**: Same as the CE, with all Stability-enhancing Barrels and Magazines.
+* **(PvP) Stormfront 🌦🌦🌦 (+ Barrels + Magazines) (0.3% chance)**
 
   ```
   Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
+  Perks 2 [ 28%]: Eye of the Storm
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Stable Storm 🌦🌦 (Relaxed Magazines) (1.8% chance)**: Same as the above with relaxed Magazines.
+* **(PvP) Stormfront 🌦🌦 (- Magazines) (0.7% chance)**
 
   ```
   Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [100%]: *
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
+  Perks 2 [ 28%]: Eye of the Storm
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Stable Storm 🌦🌦 (Relaxed Masterwork) (3.4% chance)**: Same as the above with relaxed Masterworks.
+* **(PvP) Stormfront 🌦🌦 (- Masterwork) (1.4% chance)**
 
   ```
   Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
+  Perks 2 [ 28%]: Eye of the Storm
   MWorks  [100%]: *
   ```
-* **(PvP) Stable Storm 🌦 (Relaxed Magazines and Masterwork) (7.4% chance)**: Same as the above with relaxed Magazines and Masterworks.
+* **(PvP) Stormfront 🌦 (Baseline) (2.9% chance)**
 
   ```
   Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [100%]: *
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
+  Perks 2 [ 28%]: Eye of the Storm
   MWorks  [100%]: *
   ```
-* **(PvP) Sway/.Storm (Baseline) (10.2% chance)**: With just any of these combos and a Counterbalance mod, you've got an asbolutely serviceable Auto Rifle.
+* **(PvP) Aftershocks ⚡️⚡️⚡️🌟Collector's Edition (0.1% chance)**: Same as the above roll, but helps you chain kills.
 
   ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [ 71%]: Eye of the Storm, Rampage, Swashbuckler
-  MWorks  [100%]: *
-  ```
-* **(PvP) Perkless Wonder 🤷🤷🤷🌟Collector's Edition (0.5% chance)**: If you manage to get every perk but the final column, you have a super solid base Auto Rifle. This will be a series of rolls around Dynamic Sway Reduction and without the reliance on final-column perks.
-
-  ```
-  Barrels [ 58%]: Arrowhead Brake, Chambered Compensator, Polygonal Rifling
+  Barrels [ 22%]: Polygonal Rifling
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [100%]: *
+  Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Perkless Wonder 🤷🤷🤷 (Relaxed Magazines) (1.0% chance)**: Same as the above with relaxed Magazines.
+* **(PvP) Aftershocks ⚡️⚡️⚡️ (+ Magazines) (0.2% chance)**
 
   ```
-  Barrels [ 58%]: Arrowhead Brake, Chambered Compensator, Polygonal Rifling
+  Barrels [ 22%]: Polygonal Rifling
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [100%]: *
+  Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Perkless Wonder 🤷🤷 (Relaxed Barrels and Mags) (1.5% chance)**: Same as the above with relaxed Barrels and Magazines.
+* **(PvP) Aftershocks ⚡️⚡️⚡️ (+ Barrels) (0.3% chance)**
 
   ```
-  Barrels [ 91%]: Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [ 52%]: Rampage, Swashbuckler
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Aftershocks ⚡️⚡️⚡️ (+ Barrels + Magazines) (0.6% chance)**
+
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 46%]: Ricochet Rounds, Flared Magwell
   Perks 1 [ 14%]: Dynamic Sway Reduction
-  Perks 2 [100%]: *
+  Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Aftershocks ⚡️⚡️ (- Magazines) (1.4% chance)**
+
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [ 52%]: Rampage, Swashbuckler
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) Aftershocks ⚡️⚡️ (- Masterwork) (2.5% chance)**
+
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [ 52%]: Rampage, Swashbuckler
+  MWorks  [100%]: *
+  ```
+* **(PvP) Aftershocks ⚡️ (Baseline) (5.4% chance)**
+
+  ```
+  Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Dynamic Sway Reduction
+  Perks 2 [ 52%]: Rampage, Swashbuckler
+  MWorks  [100%]: *
   ```
 ## False Promises - PvE
 *For all possible perks, check out **False Promises** over on [light.gg](https://www.light.gg/db/items/3143732432/false-promises/)*
@@ -599,7 +572,7 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Overflowing Rage 🚰🚰🚰 (Relaxed Barrels) (2.9% chance)**: Same as the CE, minus the Barrels.
+* **(PvE) Overflowing Rage 🚰🚰🚰 (- Barrels) (2.9% chance)**
 
   ```
   Barrels [100%]: *
@@ -608,7 +581,7 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Overflowing Rage 🚰🚰🚰 (Relaxed Masterwork) (6.9% chance)**: Same as the CE, minus the Masterwork.
+* **(PvE) Overflowing Rage 🚰🚰🚰 (- Masterwork) (6.9% chance)**
 
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
@@ -617,7 +590,7 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [100%]: *
   ```
-* **(PvE) Overflowing Rage 🚰🚰🚰 (Relaxed Magazines) (2.2% chance)**: Same as the CE, minus the Magazines.
+* **(PvE) Overflowing Rage 🚰🚰🚰 (- Magazines) (2.2% chance)**
 
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
@@ -626,7 +599,7 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Overflowing Rage 🚰🚰 (Relaxed Barrels and Magazines) (3.7% chance)**: Same as the CE, minus the Magazines.
+* **(PvE) Overflowing Rage 🚰🚰 (- Barrels - Magazines) (3.7% chance)**
 
   ```
   Barrels [100%]: *
@@ -635,7 +608,7 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Overflowing Rage 🚰 (Baseline) (15.0% chance)**: Four great perks that go great together. In PvE pretty much everything else is gravy.
+* **(PvE) Overflowing Rage 🚰 (Baseline) (15.0% chance)**
 
   ```
   Barrels [100%]: *
@@ -653,7 +626,7 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Frenzied Rage 😡😡😡 (Relaxed Barrels) (1.5% chance)**: Same as the CE, minus the Barrels.
+* **(PvE) Frenzied Rage 😡😡😡 (- Barrels) (1.5% chance)**
 
   ```
   Barrels [100%]: *
@@ -662,7 +635,7 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Frenzied Rage 😡😡😡 (Relaxed Masterwork) (3.4% chance)**: Same as the CE, minus the Masterwork.
+* **(PvE) Frenzied Rage 😡😡😡 (- Masterwork) (3.4% chance)**
 
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
@@ -671,7 +644,7 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [100%]: *
   ```
-* **(PvE) Frenzied Rage 😡😡😡 (Relaxed Magazines) (1.1% chance)**: Same as the CE, minus the Magazines.
+* **(PvE) Frenzied Rage 😡😡😡 (- Magazines) (1.1% chance)**
 
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
@@ -680,7 +653,7 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Frenzied Rage 😡😡 (Relaxed Barrels and Magazines) (1.9% chance)**: Same as the CE, minus the Barrels and Magazines.
+* **(PvE) Frenzied Rage 😡😡 (- Barrels - Magazines) (1.9% chance)**
 
   ```
   Barrels [100%]: *
@@ -689,7 +662,7 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Frenzied Rage 😡 (Baseline) (7.5% chance)**: Three great perks that go great together. In PvE pretty much everything else is gravy.
+* **(PvE) Frenzied Rage 😡 (Baseline) (7.5% chance)**
 
   ```
   Barrels [100%]: *
@@ -3364,7 +3337,7 @@ There are two ways to get Gnawing Hunger to hone in for you:
 2. **Arrowhead + Counterbalance**: This combo *absolutely works* as well. I was able to cluster rounds around small targets just fine, without TtT. If you don't get Zen Moment or Tap the Trigger in the third column, but you do get Arrowhead Brake in the first column, you might find it totally capable, especially if you're on PC.
 
 What you **really** want is to slam all these perks together for maximum Stability and minimal Recoil, and that's what we're going to break down below.
-* **(PvP) Drifter Hungry 🧟‍♂️🧟‍♂️🧟‍♂️🌟 Collector's Edition (0.1% chance)**: With a Counterbalance mod, this roll will be `Recoil:99` and once you apply the Masterwork, `Stability:71`. Layered on top of `Tap the Trigger`, it's a thing of beauty.
+* **(PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️🌟 Collector's Edition (0.1% chance)**: With a Counterbalance mod, this roll will be `Recoil:99` and once you apply the Masterwork, `Stability:71`. Layered on top of `Tap the Trigger`, it's a thing of beauty.
 
   ```
   Barrels [ 22%]: Arrowhead Brake
@@ -3373,7 +3346,7 @@ What you **really** want is to slam all these perks together for maximum Stabili
   Perks 2 [ 40%]: Kill Clip
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Drifter Hungry 🧟‍♂️🧟‍♂️🧟‍♂️ CE (Relaxed Masterwork) (0.4% chance)**: Same as the CE, with no Masterwork requirement.
+* **(PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (- Masterworks) (0.4% chance)**
 
   ```
   Barrels [ 22%]: Arrowhead Brake
@@ -3382,7 +3355,7 @@ What you **really** want is to slam all these perks together for maximum Stabili
   Perks 2 [ 40%]: Kill Clip
   MWorks  [100%]: *
   ```
-* **(PvP) Drifter Hungry 🧟‍♂️🧟‍♂️🧟‍♂️ CE (Relaxed Perk) (0.3% chance)**: Same as the CE, with no Perk requirement.
+* **(PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (- Perk) (0.3% chance)**
 
   ```
   Barrels [ 22%]: Arrowhead Brake
@@ -3391,7 +3364,7 @@ What you **really** want is to slam all these perks together for maximum Stabili
   Perks 2 [100%]: *
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Drifter Hungry 🧟‍♂️🧟‍♂️🧟‍♂️ CE (Relaxed Magazine) (0.3% chance)**: Same as the CE, with relaxed Magazines.
+* **(PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (+ Magazines) (0.3% chance)**
 
   ```
   Barrels [ 22%]: Arrowhead Brake
@@ -3400,7 +3373,7 @@ What you **really** want is to slam all these perks together for maximum Stabili
   Perks 2 [ 40%]: Kill Clip
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Drifter Hungry 🧟‍♂️🧟‍♂️🧟‍♂️ CE (Relaxed Magazines and Masterwork) (1.1% chance)**: Same as the CE, with no Masterwork requirement.
+* **(PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (+ Magazines - Masterworks) (1.1% chance)**
 
   ```
   Barrels [ 22%]: Arrowhead Brake
@@ -3409,7 +3382,7 @@ What you **really** want is to slam all these perks together for maximum Stabili
   Perks 2 [ 40%]: Kill Clip
   MWorks  [100%]: *
   ```
-* **(PvP) Drifter Hungry 🧟‍♂️🧟‍♂️🧟‍♂️ CE (Relaxed Magazines and Masterwork) (0.7% chance)**: Same as the CE, with no Masterwork requirement.
+* **(PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (+ Magazines - Perk) (0.7% chance)**
 
   ```
   Barrels [ 22%]: Arrowhead Brake
@@ -3418,7 +3391,7 @@ What you **really** want is to slam all these perks together for maximum Stabili
   Perks 2 [100%]: *
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Drifter Hungry 🧟‍♂️🧟‍♂️ CE (Fully Relaxed Magazines) (0.4% chance)**: Same as the CE, with no Magazine requirement.
+* **(PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️🧟‍♂️ CE (- Magazines) (0.4% chance)**
 
   ```
   Barrels [ 22%]: Arrowhead Brake
@@ -3427,7 +3400,7 @@ What you **really** want is to slam all these perks together for maximum Stabili
   Perks 2 [ 40%]: Kill Clip
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Drifter Hungry 🧟‍♂️🧟‍♂️ CE (Relaxed Masterworks) (1.8% chance)**: Same as the roll above, minus Masterworks.
+* **(PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️ CE (- Magazines - Masterworks) (1.8% chance)**
 
   ```
   Barrels [ 22%]: Arrowhead Brake
@@ -3436,7 +3409,25 @@ What you **really** want is to slam all these perks together for maximum Stabili
   Perks 2 [ 40%]: Kill Clip
   MWorks  [100%]: *
   ```
-* **(PvP) Drifter Hungry 🧟‍♂️ CE (Baseline) (4.4% chance)**: With these two and a Counterbalance mod, you're still in business.
+* **(PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️ CE (- Magazines - Perk) (1.1% chance)**
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Drifter Hungry" 🧟‍♂️🧟‍♂️ CE (+ Magazines - Perk - Masterworks) (2.9% chance)**
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Flared Magwell, Tactical Mag
+  Perks 1 [ 20%]: Tap the Trigger
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Drifter Hungry" 🧟‍♂️ CE (Baseline) (4.4% chance)**: With these two and a Counterbalance mod, you're still in business.
 
   ```
   Barrels [ 22%]: Arrowhead Brake
