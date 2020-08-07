@@ -92,12 +92,12 @@ groups:
         magazines: [Ricochet Rounds, Flared Magwell]
       -
         <<: *fprelaxed
-        name: (PvP) Stormfront 🌦🌦 (- Magazines)
+        name: (PvP) Stormfront 🌦🌦 (+ Barrels - Magazines)
         desc: ...
         magazines: []
       -
         <<: *fprelaxed
-        name: (PvP) Stormfront 🌦🌦 (- Masterwork)
+        name: (PvP) Stormfront 🌦🌦 (+ Barrels - Masterwork)
         desc: ...
         masterworks: []
       -
@@ -133,12 +133,12 @@ groups:
         magazines: [Ricochet Rounds, Flared Magwell]
       -
         <<: *fpafterrelaxed
-        name: (PvP) Aftershocks ⚡️⚡️ (- Magazines)
+        name: (PvP) Aftershocks ⚡️⚡️ (+ Barrels - Magazines)
         desc: ...
         magazines: []
       -
         <<: *fpafterrelaxed
-        name: (PvP) Aftershocks ⚡️⚡️ (- Masterwork)
+        name: (PvP) Aftershocks ⚡️⚡️ (+ Barrels - Masterwork)
         desc: ...
         masterworks: []
       -
