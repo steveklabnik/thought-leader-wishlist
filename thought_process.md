@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-08-07 05:57:13 +00:00`.
+* It was generated `2020-08-07 06:00:50 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -468,7 +468,7 @@ All of the following rolls feature Eye of the Storm, Rampage and Swashbuckler. T
   Perks 2 [ 28%]: Eye of the Storm
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Stormfront 🌦🌦 (- Magazines) (0.7% chance)**
+* **(PvP) Stormfront 🌦🌦 (+ Barrels - Magazines) (0.7% chance)**
 
   ```
   Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
@@ -477,7 +477,7 @@ All of the following rolls feature Eye of the Storm, Rampage and Swashbuckler. T
   Perks 2 [ 28%]: Eye of the Storm
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Stormfront 🌦🌦 (- Masterwork) (1.4% chance)**
+* **(PvP) Stormfront 🌦🌦 (+ Barrels - Masterwork) (1.4% chance)**
 
   ```
   Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
@@ -531,7 +531,7 @@ All of the following rolls feature Eye of the Storm, Rampage and Swashbuckler. T
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Aftershocks ⚡️⚡️ (- Magazines) (1.4% chance)**
+* **(PvP) Aftershocks ⚡️⚡️ (+ Barrels - Magazines) (1.4% chance)**
 
   ```
   Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
@@ -540,7 +540,7 @@ All of the following rolls feature Eye of the Storm, Rampage and Swashbuckler. T
   Perks 2 [ 52%]: Rampage, Swashbuckler
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Aftershocks ⚡️⚡️ (- Masterwork) (2.5% chance)**
+* **(PvP) Aftershocks ⚡️⚡️ (+ Barrels - Masterwork) (2.5% chance)**
 
   ```
   Barrels [ 72%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
