@@ -50,8 +50,8 @@ groups:
       * [Stability In Depth | Stat Review and Guide - The Heart of Destiny 2](https://www.youtube.com/watch?v=DmQEFdjwzcw&feature=youtu.be)
 
 
-      I'm recommending, nay **requiring** 🧐DSR for any False Promises roll I'd
-      consider using in PvP. The reason is that the False Promises has the worst
+      I'm recommending, nay 🧐 **requiring** DSR for any False Promises roll I'd
+      consider using in PvP. The reason is that False Promises has the worst
       base stats of any 360 RPM Auto Rifle and needs a lot of help getting to a
       usable place in PvP, considering its competition.
 
@@ -63,48 +63,90 @@ groups:
       or Swashbuckler.
     rolls:
       - &fpstable
-        name: (PvP) Stable Storm 🌦🌦🌦🌟Collector's Edition
+        name: (PvP) Stormfront 🌦🌦🌦🌟Collector's Edition
         desc: >
           These 360s are primarily hampered by their ultra-low Stability, so
-          we're going to do everything we can to correct it.
+          we're going to do everything we can to correct it. `EotS` is part of
+          that as it hones in progressively more as your health gets low. Be
+          sure to swap in Counterbalance mod push the `Recoil` to `100`.
         barrels: [Polygonal Rifling]
         magazines: [Ricochet Rounds]
         perks1: [Dynamic Sway Reduction]
-        perks2: [Eye of the Storm, Rampage, Swashbuckler]
+        perks2: [Eye of the Storm]
         masterworks: [Stability MW]
       -
         <<: *fpstable
-        name: (PvP) Stable Storm 🌦🌦🌦 (+ Magazines)
+        name: (PvP) Stormfront 🌦🌦🌦 (+ Magazines)
         desc: ...
         magazines: [Ricochet Rounds, Flared Magwell]
       -
         <<: *fpstable
-        name: (PvP) Stable Storm 🌦🌦🌦 (+ Barrels)
+        name: (PvP) Stormfront 🌦🌦🌦 (+ Barrels)
         desc: ...
         barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
       - &fprelaxed
         <<: *fpstable
-        name: (PvP) Stable Storm 🌦🌦🌦 (+ Barrels + Magazines)
+        name: (PvP) Stormfront 🌦🌦🌦 (+ Barrels + Magazines)
         desc: ...
         barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
         magazines: [Ricochet Rounds, Flared Magwell]
       -
         <<: *fprelaxed
-        name: (PvP) Stable Storm 🌦🌦 (- Magazines)
+        name: (PvP) Stormfront 🌦🌦 (- Magazines)
         desc: ...
         magazines: []
       -
         <<: *fprelaxed
-        name: (PvP) Stable Storm 🌦🌦 (- Masterwork)
+        name: (PvP) Stormfront 🌦🌦 (- Masterwork)
         desc: ...
         masterworks: []
       -
         <<: *fprelaxed
-        name: (PvP) Stable Storm 🌦 (- Magazines - Masterwork)
+        name: (PvP) Stormfront 🌦 (Baseline)
+        desc: ...
+        magazines: []
+        masterworks: []
+      - &fpafter
+        name: (PvP) Aftershocks ⚡️⚡️⚡️🌟Collector's Edition
         desc: >
-          Same as the above with relaxed Magazines and Masterworks.
+          Same as the above roll, but helps you chain kills.
+        barrels: [Polygonal Rifling]
+        magazines: [Ricochet Rounds]
+        perks1: [Dynamic Sway Reduction]
+        perks2: [Rampage, Swashbuckler]
+        masterworks: [Stability MW]
+      -
+        <<: *fpafter
+        name: (PvP) Aftershocks ⚡️⚡️⚡️ (+ Magazines)
+        desc: ...
+        magazines: [Ricochet Rounds, Flared Magwell]
+      -
+        <<: *fpafter
+        name: (PvP) Aftershocks ⚡️⚡️⚡️ (+ Barrels)
+        desc: ...
+        barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+      - &fpafterrelaxed
+        <<: *fpafter
+        name: (PvP) Aftershocks ⚡️⚡️⚡️ (+ Barrels + Magazines)
+        desc: ...
+        barrels: [Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+        magazines: [Ricochet Rounds, Flared Magwell]
+      -
+        <<: *fpafterrelaxed
+        name: (PvP) Aftershocks ⚡️⚡️ (- Magazines)
+        desc: ...
         magazines: []
+      -
+        <<: *fpafterrelaxed
+        name: (PvP) Aftershocks ⚡️⚡️ (- Masterwork)
+        desc: ...
         masterworks: []
+      -
+        <<: *fpafterrelaxed
+        name: (PvP) Aftershocks ⚡️ (Baseline)
+        desc: ...
+        magazines: []
+        masterworks: []        
   - 
     name: PvE
     summary: >
