@@ -5,7 +5,7 @@ weapons from the current season (starting with Season 9). As time permits,
 I go back and fill in world drops.
 
 * This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-08-07 06:00:50 +00:00`.
+* It was generated `2020-08-07 15:48:28 +00:00`.
 * The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
 
 ---
@@ -416,22 +416,21 @@ We're going for the classics here: Whirlwind and Surrounded. Maybe you'll get in
 *For all possible perks, check out **False Promises** over on [light.gg](https://www.light.gg/db/items/3143732432/false-promises/)*
 
 
-False Promises is a 360 RPM Kinetic Auto Rifle introduced in Season 11. Apart from the Age-Old Bond (from the Last Wish raid), it's the only other High-Impact Frame Auto Rifle in the game that will be able to go past Season 11's `1060` power cap. Gahlran's Right Hand is still available from the Crown of Sorrow raid, but will be capped at this season's power levels and vaulted next season.
+False Promises is a 360 RPM Kinetic Auto Rifle introduced in Season 11. Apart from the Age-Old Bond (from the Last Wish raid), it's the only other High-Impact Frame Auto Rifle in the game that will be able to go past Season 11's `1060` power cap.
 
-The High-Impacts all generally have quite good `Range` and pretty awful `Stability`, and False Promises is no exception. What we're going to want to focus on is increasing the Stability because with no Stability-enhancing perks, it can be quite difficult to control.
+The High-Impacts are notable by their extremely long `Range` and extremely poor `Stability` and False Promises is no exception. On console, False Promises is pretty tough to control. Even with vertical `Recoil`, there's still a lot of bounce in the reticle because the `Stability` is so low.
 
-This is a case where the difference between console and PC is pretty clear with respect to Stability. On PC, Stability is far less of an issue, so on YouTube you'll see what looks like an entirely different weapon being used. On console, False Promises is pretty tough to control. Even at vertical, there's still a lot of bounce in the reticle.
+I'm recommending, nay requiring `Dynamic Sway Reduction` for any False Promises roll I'd consider using in PvP, because of its marked affect on `Stability` and `Accuracy`. Here's what [Bungie had to say](https://www.bungie.net/en/News/Article/49126) about DSR prior to S11:
 
-Here's a couple of videos that talk about Stability, esp. with respect to Dynamic Sway Reduction. Note that DSR was [buffed in S11](https://www.bungie.net/en/News/Article/49126):
-> Dynamic Sway Reduction: Adds 10 Stability over time in addition to accuracy (this is way more powerful than it sounds). Reduced reticle movement from Stability should now tell players this is working.
+> **Dynamic Sway Reduction**: Adds 10 Stability over time in addition to accuracy (this is way more powerful than it sounds). Reduced reticle movement from Stability should now tell players this is working.
 
-...so some of these may be a little out of date depending on which part of the content you're referring to.
+Here's a couple of videos examining Stability, including the effects of DSR. These were recorded before the aforementioned buff, so some of these may be a little out of date depending on which part of the content you're referring to.
 * [Dynamic Sway Reduction on Auto Rifles & Zoom Effect | Destiny 2 Season of the Worthy](https://www.youtube.com/watch?v=S71_munFJYE)
 * [Stability In Depth | Stat Review and Guide - The Heart of Destiny 2](https://www.youtube.com/watch?v=DmQEFdjwzcw&feature=youtu.be)
 
-I'm recommending, nay 🧐 **requiring** DSR for any False Promises roll I'd consider using in PvP. The reason is that False Promises has the worst base stats of any 360 RPM Auto Rifle and needs a lot of help getting to a usable place in PvP, considering its competition.
-
 All of the following rolls feature Eye of the Storm, Rampage and Swashbuckler. Think about this from a "forgiveness" perspective. If you want more forgiveness during your first exchange, choose Eye of the Storm. If you want more foregiveness during follow-on encounters, choose Rampage or Swashbuckler.
+
+**Closing Remarks**: S11 continues the S10 600 RPM Auto Rifle meta. If you're planning on using an AR, I'd suggest any of the 600s kicking around, notably the Gnawing Hunger since it's so easily farmable via the Recaster. Alternatively, wait until The Summoner is up as the three-win reward in Trials and grab on there. As far as False Promises is concerned, I'll be holding on to a good PvP roll in the hopes that the sandbox is updated in S12 or beyond.
 * **(PvP) Stormfront 🌦🌦🌦🌟Collector's Edition (0.1% chance)**: These 360s are primarily hampered by their ultra-low Stability, so we're going to do everything we can to correct it. `EotS` is part of that as it hones in progressively more as your health gets low. Be sure to swap in Counterbalance mod push the `Recoil` to `100`.
 
   ```
