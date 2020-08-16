@@ -1,5 +1,5 @@
 title: SlifSF's Sliflist
-description: Generated 2020-08-16 17:49:42 +00:00
+description: Generated 2020-08-16 21:35:23 +00:00
 //notes:(PvP) "Snappy Opener" 🤞🤞🤞🌟 Collector's Edition / 0.3% chance
 dimwishlist:item=3169616514&perks=1840239774,3142289711,957782887,47981717,150943607
 dimwishlist:item=3169616514&perks=1840239774,3142289711,957782887,47981717,150943604
