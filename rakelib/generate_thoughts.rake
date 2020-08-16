@@ -4,32 +4,35 @@ require 'yaml'
 require_relative 'helpers'
 
 TRAITS = [
-  {:key => 'barrels',     :label => 'Barrels', :fallback => '(Any barrel)'},
-  {:key => 'magazines',   :label => 'Mags   ', :fallback => '(Any magazine)'},
-  {:key => 'perks1',      :label => 'Perks 1', :fallback => '(Any perk)'},
-  {:key => 'perks2',      :label => 'Perks 2', :fallback => '(Any perk)'},
-  {:key => 'masterworks', :label => 'MWorks ', :fallback => '(Any masterwork)'},
+  {:key => 'barrels',     :label => 'Barrels'},
+  {:key => 'magazines',   :label => 'Mags   '},
+  {:key => 'perks1',      :label => 'Perks 1'},
+  {:key => 'perks2',      :label => 'Perks 2'},
+  {:key => 'masterworks', :label => 'MWorks '},
 ]
 
 TOC = YAML.load_file('toc.yml')
 
-desc "Format notes from our roll data"
+PREAMBLE = <<-PRE
+# **Welcome to the Sliflist!**
+
+To use this wishlist in DIM, copy and paste this URL in the Settings
+page under "Wish List"
+
+```
+https://raw.githubusercontent.com/rslifka/wishlist/master/wishlist.txt
+```
+
+Check out the [README](https://github.com/rslifka/wishlist/) for more info.
+
+---
+PRE
+
+desc "Generate human-readable thoughts from our roll data"
 task :generate_thoughts, [:environment] do |t, args|
 
   File.open(thoughts_filename(args.environment), 'w') do |thoughts|
-    thoughts.puts <<-PREAMBLE
-# Welcome to the Sliflist!
-
-These are my recommended rolls for weapons in Destiny 2. There is a focus on
-weapons from the current season (starting with Season 9). As time permits,
-I go back and fill in world drops.
-
-* This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `#{DateTime.now.strftime("%Y-%m-%d %H:%M:%S %:z")}`.
-* The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
-
----
-PREAMBLE
+    thoughts.puts PREAMBLE
 
     weapons = []
 
