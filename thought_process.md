@@ -1,12 +1,13 @@
-# Welcome to the Sliflist!
+# **Welcome to the Sliflist!**
 
-These are my recommended rolls for weapons in Destiny 2. There is a focus on
-weapons from the current season (starting with Season 9). As time permits,
-I go back and fill in world drops.
+To use this wishlist in DIM, copy and paste this URL in the Settings
+page under "Wish List"
 
-* This document is generated from a custom Destiny Item Manager ["wishlist"](https://www.reddit.com/r/DestinyTheGame/comments/ab7lai/wish_lists_are_live_in_dim/).
-* It was generated `2020-08-07 15:48:28 +00:00`.
-* The most recent version can always be found [here](https://github.com/rslifka/wishlist/).
+```
+https://raw.githubusercontent.com/rslifka/wishlist/master/wishlist.txt
+```
+
+Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 
 ---
 
