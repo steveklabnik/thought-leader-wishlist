@@ -1628,7 +1628,7 @@ Fortunately the perk set is very small and chances are you'll get the roll you'r
 
   ```
   Barrels [ 40%]: Jagged Edge
-  Mags    [ 40%]: Heavy Guard
+  Mags    [ 40%]: Swordmaster's Guard
   Perks 1 [ 33%]: Relentless Strikes
   Perks 2 [ 40%]: Vorpal
   MWorks  [100%]: *
@@ -1655,7 +1655,7 @@ Fortunately the perk set is very small and chances are you'll get the roll you'r
 
   ```
   Barrels [ 40%]: Jagged Edge
-  Mags    [ 40%]: Heavy Guard
+  Mags    [ 40%]: Swordmaster's Guard
   Perks 1 [ 33%]: Relentless Strikes
   Perks 2 [ 40%]: Surrounded
   MWorks  [100%]: *
@@ -3766,7 +3766,7 @@ Fortunately the perk set is very small and chances are you'll get the roll you'r
 
   ```
   Barrels [ 40%]: Jagged Edge
-  Mags    [ 40%]: Heavy Guard
+  Mags    [ 40%]: Swordmaster's Guard
   Perks 1 [ 33%]: Relentless Strikes
   Perks 2 [ 20%]: Surrounded
   MWorks  [100%]: *
@@ -4320,7 +4320,7 @@ Note that swords only have one possible Masterwork (Impact) hence the appearance
 
   ```
   Barrels [ 40%]: Jagged Edge
-  Mags    [ 40%]: Heavy Guard
+  Mags    [ 40%]: Swordmaster's Guard
   Perks 1 [ 50%]: Relentless Strikes
   Perks 2 [ 33%]: Whirlwind Blade
   MWorks  [100%]: *
