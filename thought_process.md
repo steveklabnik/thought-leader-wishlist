@@ -33,6 +33,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
+* BrayTech Werewolf ([PvP](#braytech-werewolf---pvp), [PvE](#braytech-werewolf---pve))
 * Bygones ([PvP](#bygones---pvp), [PvE](#bygones---pve))
 * Gnawing Hunger ([PvP](#gnawing-hunger---pvp), [PvE](#gnawing-hunger---pve))
 * Honor's Edge ([PvE](#honors-edge---pve))
@@ -3192,6 +3193,365 @@ Check out [ZkMushroom](https://www.youtube.com/watch?v=tdnJWuiUF2k) and [nKuch](
   Mags    [ 64%]: Tactical Mag, Steady Rounds, Flared Magwell
   Perks 1 [ 28%]: Moving Target, Zen Moment
   Perks 2 [ 28%]: Opening Shot, Snapshot
+  MWorks  [100%]: *
+  ```
+## BrayTech Werewolf - PvP
+*For all possible perks, check out **BrayTech Werewolf** over on [light.gg](https://www.light.gg/db/items/528834068/braytech-werewolf/)*
+
+
+The BrayTech Werewolf is a 450 RPM "Precision Frame" Kinetic Auto Rifle first introduced in Season 8. It's now available in the 2020 [Festival of the Lost](https://www.bungie.net/7/en/Seasons/Events/FestivalOfTheLost) event, with random rolls. The only competitive AR archetype right now are the 600s, so you're gambling on an eventual sandbox change for this to be more effective in PvP.
+
+Obtaining this Auto Rifle is a pretty grim affair, behind three levels of RNG:
+1. You need Cipher Decoders to drop, which they **have a chance of** doing do at the end of most activities (Ordeal, Strike playlist, Crucible, etc.).
+1. You need the Werewolf to drop from a Haunted Forest chest. The chance appears to be something between "never" and "20%" with most folks reporting closer to 5-10%. There's a thread on [/r/DestinyTheGame](https://www.reddit.com/r/DestinyTheGame/comments/jaeitx/horror_story_werewolf_drop_rate_is_2025_chasing/) about it.
+1. You need to get the roll you're chasing.
+
+While you are more than welcome to run and grind for these, keep in mind that once you obtain a single drop, you can pull a very good PvE static roll from your collections. Given that 450 RPM ARs haven't been competitive in PvP since Year 1 of Destiny 2, you're prrrobably not missing on much.
+* **(PvP) "Werewolves not Swearwolves" 🐺🐺🐺🌟 Collector's Edition (0.0% chance)**: With completely vertical recoil and loads of Stability, this will be an absolutely shredder should 450s get a buff. Hell and even if they don't, you'll do pretty decent work with it. All rolls in this set will feature `Dynamic Sway Reduction` and `Tap the Trigger`.
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: Tap the Trigger
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Swearwolves" 🐺🐺🐺 CE (+ Magazines) (0.1% chance)**
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: Tap the Trigger
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Swearwolves" 🐺🐺🐺 CE (+ Barrels) (0.2% chance)**
+
+  ```
+  Barrels [ 97%]: Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: Tap the Trigger
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Swearwolves" 🐺🐺🐺 CE (- Masterworks) (0.2% chance)**
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: Tap the Trigger
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Swearwolves" 🐺🐺🐺 CE (+ Barrels + Magazines) (0.3% chance)**
+
+  ```
+  Barrels [ 97%]: Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: Tap the Trigger
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Swearwolves" 🐺🐺🐺 CE (+ Barrels + Magazines - Masterworks) (1.3% chance)**
+
+  ```
+  Barrels [ 97%]: Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: Tap the Trigger
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Swearwolves" 🐺🐺🐺 CE (+ Barrels - Magazines - Masterworks) (2.7% chance)**
+
+  ```
+  Barrels [ 97%]: Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: Tap the Trigger
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Swearwolves" 🐺🐺 Baseline (2.8% chance)**
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: Tap the Trigger
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Were-storm" ⛈⛈⛈🌟 Collector's Edition (0.0% chance)**: Same set of rolls as above, but swappig out `Eye of the Storm` for `Tap the Trigger`. You definiely want `Tap the Trigger` but EotS is also legit.
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: Eye of the Storm
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Were-storm" ⛈⛈⛈ CE (+ Magazines) (0.1% chance)**
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: Eye of the Storm
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Were-storm" ⛈⛈⛈ CE (+ Barrels) (0.2% chance)**
+
+  ```
+  Barrels [ 97%]: Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: Eye of the Storm
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Were-storm" ⛈⛈⛈ CE (- Masterworks) (0.2% chance)**
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: Eye of the Storm
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Were-storm" ⛈⛈⛈ CE (+ Barrels + Magazines) (0.3% chance)**
+
+  ```
+  Barrels [ 97%]: Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: Eye of the Storm
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Were-storm" ⛈⛈⛈ CE (+ Barrels + Magazines - Masterworks) (1.3% chance)**
+
+  ```
+  Barrels [ 97%]: Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: Eye of the Storm
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Were-storm" ⛈⛈ (+ Barrels - Magazines - Masterworks) (2.7% chance)**
+
+  ```
+  Barrels [ 97%]: Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: Eye of the Storm
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Were-storm" ⛈ Baseline (2.8% chance)**
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: Eye of the Storm
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Tappy Wolf" 👉👉👉🌟 Collector's Edition (0.2% chance)**: Same set of rolls as above, but taking anything in the third column.
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Tap the Trigger
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Tappy Wolf" 👉👉👉 CE (+ Magazines) (0.4% chance)**
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Tap the Trigger
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Tappy Wolf" 👉👉👉 CE (+ Barrels) (1.0% chance)**
+
+  ```
+  Barrels [ 97%]: Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Tap the Trigger
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Tappy Wolf" 👉👉 (- Masterworks) (0.9% chance)**
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Tap the Trigger
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Tappy Wolf" 👉👉 (+ Barrels + Magazines) (1.9% chance)**
+
+  ```
+  Barrels [ 97%]: Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Tap the Trigger
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Tappy Wolf" 👉👉 (+ Barrels + Magazines - Masterworks) (7.5% chance)**
+
+  ```
+  Barrels [ 97%]: Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Tap the Trigger
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Stay On Target Wolf" 🎯🎯🎯🌟 Collector's Edition (0.2% chance)**: Same set of rolls as above, but taking anything in the final column.
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Stay-wolf" 🎯🎯🎯 CE (+ Magazines) (0.4% chance)**
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Stay-wolf" 🎯🎯🎯 CE (+ Barrels) (1.0% chance)**
+
+  ```
+  Barrels [ 97%]: Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Stay-wolf" 🎯🎯 (- Masterworks) (0.9% chance)**
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Stay-wolf" 🎯🎯 (+ Barrels + Magazines) (1.9% chance)**
+
+  ```
+  Barrels [ 97%]: Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Stay-wolf" 🎯🎯 (+ Barrels + Magazines - Masterworks) (7.5% chance)**
+
+  ```
+  Barrels [ 97%]: Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore
+  Mags    [ 46%]: Ricochet Rounds, Flared Magwell
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+## BrayTech Werewolf - PvE
+*For all possible perks, check out **BrayTech Werewolf** over on [light.gg](https://www.light.gg/db/items/528834068/braytech-werewolf/)*
+
+
+The curated roll will do you just fine, and you can pull it from collections!
+* **(PvE) Curated; from Collections 🌟 (0.0% chance)**: Really, you have 100% chance of getting this 😜
+
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: Armor-Piercing Rounds
+  Perks 1 [ 16%]: Zen Moment
+  Perks 2 [ 16%]: Multikill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Claw Marks" 🩸🩸🩸🌟 Collector's Edition (0.1% chance)**: All Range and damage-boosting featuring `Swashbuckler`. Add on `Mulligan` and `FttC` to help extend the mag.
+
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 46%]: Armor-Piercing Rounds, High-Caliber Rounds
+  Perks 1 [ 33%]: Mulligan, Fourth Time's the Charm
+  Perks 2 [ 16%]: Swashbuckler
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Claw Marks" 🩸🩸🩸 CE (+ Barrels) (0.5% chance)**
+
+  ```
+  Barrels [ 83%]: Hammer-Forged Rifling, Full Bore, Extended Barrel, Smallbore, Corkscrew Rifling
+  Mags    [ 46%]: Armor-Piercing Rounds, High-Caliber Rounds
+  Perks 1 [ 33%]: Mulligan, Fourth Time's the Charm
+  Perks 2 [ 16%]: Swashbuckler
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Claw Marks" 🩸🩸🩸 CE (+ Magazines) (0.2% chance)**
+
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 78%]: Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Light Mag
+  Perks 1 [ 33%]: Mulligan, Fourth Time's the Charm
+  Perks 2 [ 16%]: Swashbuckler
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Claw Marks" 🩸🩸🩸 CE (+ Barrels + Magazines) (0.9% chance)**
+
+  ```
+  Barrels [ 83%]: Hammer-Forged Rifling, Full Bore, Extended Barrel, Smallbore, Corkscrew Rifling
+  Mags    [ 78%]: Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Light Mag
+  Perks 1 [ 33%]: Mulligan, Fourth Time's the Charm
+  Perks 2 [ 16%]: Swashbuckler
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Claw Marks" 🩸🩸 (- Masterworks) (0.6% chance)**
+
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 46%]: Armor-Piercing Rounds, High-Caliber Rounds
+  Perks 1 [ 33%]: Mulligan, Fourth Time's the Charm
+  Perks 2 [ 16%]: Swashbuckler
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Claw Marks" 🩸🩸 (+ Barrels - Masterworks) (2.1% chance)**
+
+  ```
+  Barrels [ 83%]: Hammer-Forged Rifling, Full Bore, Extended Barrel, Smallbore, Corkscrew Rifling
+  Mags    [ 46%]: Armor-Piercing Rounds, High-Caliber Rounds
+  Perks 1 [ 33%]: Mulligan, Fourth Time's the Charm
+  Perks 2 [ 16%]: Swashbuckler
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Claw Marks" 🩸🩸 (+ Magazines - Masterworks) (1.0% chance)**
+
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 78%]: Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Light Mag
+  Perks 1 [ 33%]: Mulligan, Fourth Time's the Charm
+  Perks 2 [ 16%]: Swashbuckler
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Claw Marks" 🩸🩸 (+ Barrels + Magazines - Masterworks) (3.6% chance)**
+
+  ```
+  Barrels [ 83%]: Hammer-Forged Rifling, Full Bore, Extended Barrel, Smallbore, Corkscrew Rifling
+  Mags    [ 78%]: Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Light Mag
+  Perks 1 [ 33%]: Mulligan, Fourth Time's the Charm
+  Perks 2 [ 16%]: Swashbuckler
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Claw Marks" 🩸 Baseline (5.6% chance)**
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Mulligan, Fourth Time's the Charm
+  Perks 2 [ 16%]: Swashbuckler
   MWorks  [100%]: *
   ```
 ## Bygones - PvP
