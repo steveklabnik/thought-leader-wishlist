@@ -23,6 +23,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * Night Watch ([PvP](#night-watch---pvp), [PvE](#night-watch---pve))
 * Outrageous Fortune ([PvE](#outrageous-fortune---pve))
 * Steel Sybil Z-14 ([PvE](#steel-sybil-z-14---pve))
+* Timelines' Vertex ([PvP](#timelines-vertex---pvp))
 * Truthteller ([PvP](#truthteller---pvp), [PvE](#truthteller---pve))
 
 **Iron Banner**
@@ -1846,6 +1847,123 @@ Note that swords only have one possible Masterwork (Impact) hence the appearance
   Mags    [100%]: *
   Perks 1 [ 50%]: Relentless Strikes
   Perks 2 [ 33%]: Whirlwind Blade
+  MWorks  [100%]: *
+  ```
+## Timelines' Vertex - PvP
+*For all possible perks, check out **Timelines' Vertex** over on [light.gg](https://www.light.gg/db/items/3055192515/timelines-vertex/)*
+
+
+This Timelines' Vertex is the randomly-rolled successor to the Future  War Cult version of the same name from days gone by. While it uses a reskinned version of the Erentil, it is unfortunately not also a High- Impact Frame. Fusions had a pretty nasty nerf in S11, discussed in [roll comments](#hollow-words---pvp) on the Hollow Words.
+
+Since it's an Adaptive Frame, you need 6/7 bolts to hit and if you want  to OHK it needs to be within 17m, which is pretty darn close and pretty darn difficult when you factor in opponent mobility. SMGs and sidearms are arguably more effective within this range because they give you more mobility options and can more readily be used against mobile opponents. Increasing the Range will not increase falloff for Fusions at the moment.
+
+I can only really reccomend this type of Fusion Rifle to aficionados.
+* **(PvP) Shieldbreaker 🛡🛡🛡 🌟 Collector's Edition (0.1% chance)**: If you're able to OHK, terrific! If not, chances are you're at least breaking shields and with a quick swap to a primary, you have an interesting combo. Typically I would go for more Stability but you're getting all of that from Firmly Planted so we can opt for Range perks where we can.
+
+  ```
+  Barrels [ 25%]: Torch HS3
+  Mags    [ 33%]: Projection Fuse
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 20%]: Disruption Break
+  MWorks  [ 20%]: Range MW
+  ```
+* **(PvP) Shieldbreaker 🛡🛡🛡 CE (+ Barrels) (0.1% chance)**
+
+  ```
+  Barrels [ 46%]: Torch HS3, Flash HS5
+  Mags    [ 33%]: Projection Fuse
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 20%]: Disruption Break
+  MWorks  [ 20%]: Range MW
+  ```
+* **(PvP) Shieldbreaker 🛡🛡🛡 CE (+ Magazines) (0.1% chance)**
+
+  ```
+  Barrels [ 25%]: Torch HS3
+  Mags    [ 60%]: Projection Fuse, Particle Repeater
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 20%]: Disruption Break
+  MWorks  [ 20%]: Range MW
+  ```
+* **(PvP) Shieldbreaker 🛡🛡🛡 CE (+ Masterworks) (0.2% chance)**
+
+  ```
+  Barrels [ 25%]: Torch HS3
+  Mags    [ 33%]: Projection Fuse
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 20%]: Disruption Break
+  MWorks  [ 60%]: Range MW, Stability MW, Handling MW
+  ```
+* **(PvP) Shieldbreaker 🛡🛡🛡 CE (+ Barrels + Magazines) (0.2% chance)**
+
+  ```
+  Barrels [ 46%]: Torch HS3, Flash HS5
+  Mags    [ 60%]: Projection Fuse, Particle Repeater
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 20%]: Disruption Break
+  MWorks  [ 20%]: Range MW
+  ```
+* **(PvP) Shieldbreaker 🛡🛡🛡 CE (+ Barrels + Masterworks) (0.4% chance)**
+
+  ```
+  Barrels [ 46%]: Torch HS3, Flash HS5
+  Mags    [ 33%]: Projection Fuse
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 20%]: Disruption Break
+  MWorks  [ 60%]: Range MW, Stability MW, Handling MW
+  ```
+* **(PvP) Shieldbreaker 🛡🛡🛡 CE (+ Magazines + Masterworks) (0.4% chance)**
+
+  ```
+  Barrels [ 25%]: Torch HS3
+  Mags    [ 60%]: Projection Fuse, Particle Repeater
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 20%]: Disruption Break
+  MWorks  [ 60%]: Range MW, Stability MW, Handling MW
+  ```
+* **(PvP) Shieldbreaker 🛡🛡🛡 CE (+ Barrels + Magazines + Masterworks) (0.7% chance)**
+
+  ```
+  Barrels [ 46%]: Torch HS3, Flash HS5
+  Mags    [ 60%]: Projection Fuse, Particle Repeater
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 20%]: Disruption Break
+  MWorks  [ 60%]: Range MW, Stability MW, Handling MW
+  ```
+* **(PvP) Shieldbreaker 🛡🛡 CE (- Barrels) (0.3% chance)**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 33%]: Projection Fuse
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 20%]: Disruption Break
+  MWorks  [ 20%]: Range MW
+  ```
+* **(PvP) Shieldbreaker 🛡🛡 CE (- Magazines) (0.2% chance)**
+
+  ```
+  Barrels [ 25%]: Torch HS3
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 20%]: Disruption Break
+  MWorks  [ 20%]: Range MW
+  ```
+* **(PvP) Shieldbreaker 🛡🛡 (- Masterworks) (0.3% chance)**
+
+  ```
+  Barrels [ 25%]: Torch HS3
+  Mags    [ 33%]: Projection Fuse
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 20%]: Disruption Break
+  MWorks  [100%]: *
+  ```
+* **(PvP) Break and Swap 🛡 (Baseline) (4.0% chance)**
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 20%]: Disruption Break
   MWorks  [100%]: *
   ```
 ## Truthteller - PvP
