@@ -1,0 +1,106 @@
+name: Timelines' Vertex
+item_id: 3055192515
+lightgg: https://www.light.gg/db/items/3055192515/timelines-vertex/
+slots:
+  barrels:     {t: 8, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 5, c: 1}
+  masterworks: {t: 5, c: 1}
+groups: 
+  - 
+    name: PvP
+    summary: >
+      This Timelines' Vertex is the randomly-rolled successor to the Future 
+      War Cult version of the same name from days gone by. While it uses a
+      reskinned version of the Erentil, it is unfortunately not also a High-
+      Impact Frame. Fusions had a pretty nasty nerf in S11, discussed in
+      [roll comments](#hollow-words---pvp) on the
+      Hollow Words.
+      
+      
+      Since it's an Adaptive Frame, you need 6/7 bolts to hit and if you want 
+      to OHK it needs to be within 17m, which is pretty darn close and pretty
+      darn difficult when you factor in opponent mobility. SMGs and sidearms
+      are arguably more effective within this range because they give you more
+      mobility options and can more readily be used against mobile opponents.
+      Increasing the Range will not increase falloff for Fusions at the moment.
+      
+      
+      I can only really reccomend this type of Fusion Rifle to aficionados.
+    rolls:
+      - &tvplanted
+        name: (PvP) Shieldbreaker 🛡🛡🛡 🌟 Collector's Edition
+        desc: >
+          If you're able to OHK, terrific! If not, chances are you're at least
+          breaking shields and with a quick swap to a primary, you
+          have an interesting combo. Typically I would go for more Stability but
+          you're getting all of that from Firmly Planted so we can opt for
+          Range perks where we can.
+        barrels: [Torch HS3]
+        magazines: [Projection Fuse]
+        perks1: [Firmly Planted]
+        perks2: [Disruption Break]
+        masterworks: [Range MW]
+      -
+        <<: *tvplanted
+        name: (PvP) Shieldbreaker 🛡🛡🛡 CE (+ Barrels)
+        desc: ...
+        barrels: [Torch HS3, Flash HS5]
+      -
+        <<: *tvplanted
+        name: (PvP) Shieldbreaker 🛡🛡🛡 CE (+ Magazines)
+        desc: ...
+        magazines: [Projection Fuse, Particle Repeater]
+      -
+        <<: *tvplanted
+        name: (PvP) Shieldbreaker 🛡🛡🛡 CE (+ Masterworks)
+        desc: ...
+        masterworks: [Range MW, Stability MW, Handling MW]
+      -
+        <<: *tvplanted
+        name: (PvP) Shieldbreaker 🛡🛡🛡 CE (+ Barrels + Magazines)
+        desc: ...
+        barrels: [Torch HS3, Flash HS5]
+        magazines: [Projection Fuse, Particle Repeater]
+      -
+        <<: *tvplanted
+        name: (PvP) Shieldbreaker 🛡🛡🛡 CE (+ Barrels + Masterworks)
+        desc: ...
+        barrels: [Torch HS3, Flash HS5]
+        masterworks: [Range MW, Stability MW, Handling MW]
+      -
+        <<: *tvplanted
+        name: (PvP) Shieldbreaker 🛡🛡🛡 CE (+ Magazines + Masterworks)
+        desc: ...
+        magazines: [Projection Fuse, Particle Repeater]
+        masterworks: [Range MW, Stability MW, Handling MW]
+      -
+        <<: *tvplanted
+        name: (PvP) Shieldbreaker 🛡🛡🛡 CE (+ Barrels + Magazines + Masterworks)
+        desc: ...
+        barrels: [Torch HS3, Flash HS5]
+        magazines: [Projection Fuse, Particle Repeater]
+        masterworks: [Range MW, Stability MW, Handling MW]
+      -
+        <<: *tvplanted
+        name: (PvP) Shieldbreaker 🛡🛡 CE (- Barrels)
+        desc: ...
+        barrels: []
+      -
+        <<: *tvplanted
+        name: (PvP) Shieldbreaker 🛡🛡 CE (- Magazines)
+        desc: ...
+        magazines: []
+      -
+        <<: *tvplanted
+        name: (PvP) Shieldbreaker 🛡🛡 (- Masterworks)
+        desc: ...
+        masterworks: []
+      -
+        <<: *tvplanted
+        name: (PvP) Break and Swap 🛡 (Baseline)
+        desc: ...
+        barrels: []
+        magazines: []
+        masterworks: []
