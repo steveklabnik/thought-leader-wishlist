@@ -1,0 +1,98 @@
+name: Jian 7 Rifle
+item_id: 1162247618
+lightgg: https://www.light.gg/db/items/1162247618/jian-7-rifle/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 5, c: 1}
+  masterworks: {t: 4, c: 1}
+groups: 
+  - 
+    name: PvP
+    summary: >
+      This Jian 7 is the randomly-rolled successor to the New Monarchy Pulse
+      of the same name from days gone by. It's a 390RPM Adaptive Pulse Rifle
+      which is mostly the same as the Last Perdition which also rolls in this
+      slot. The most important difference is that the Jian's base recoil is
+      `80` which means that with a Counterbalance mod, it will be effectively
+      perfectly vertical at `95`. Contrast with the Last Perdition whose base
+      Recoil is `63` (
+      [detailed comparison](https://www.light.gg/db/items/compare/?h=BFRn3C;LQhzo)
+      on light.gg)
+
+
+      It has notable perk placement differences; perks are mostly similar with
+      some slotting variations. There are no Rampage-based perks here because
+      it doesn't make it any easier to off enemies unless you're at x 2 which
+      is too situational for a solid recommendation.
+
+
+      Everything written in the thoughts for
+      [Last Perdition](#last-perdition---pvp)
+      holds here as well, so I won't repeat all of that.
+    rolls:
+      - &j7planted
+        name: (PvP) Absurdly Planted 🌱🌱🌱 🌟 Collector's Edition
+        desc: >
+          `Firmly Planted` is criminally underrated. It's a difference in
+          playstyle that you have to work at, but you will absolutely be
+          rewarded. This perk alone is why the Jian 7 and Last Perdition have
+          become two of my most-used pulses.
+        barrels: [SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post]
+        magazines: [Ricochet Rounds]
+        perks1: [Firmly Planted]
+        perks2: [Rangefinder]
+        masterworks: [Stability MW]
+      -
+        <<: *j7planted
+        name: (PvP) Absurdly Planted 🌱🌱🌱 CE (+ Magazines)
+        desc: ...
+        magazines: [Ricochet Rounds, Flared Magwell]
+      -
+        <<: *j7planted
+        name: (PvP) Absurdly Planted 🌱🌱🌱 CE (- Magazines)
+        desc: ...
+        magazines: []
+      -
+        <<: *j7planted
+        name: (PvP) Absurdly Planted 🌱🌱🌱 (- Masterworks)
+        desc: ...
+        masterworks: []
+      -
+        <<: *j7planted
+        name: (PvP) Absurdly Planted 🌱🌱 (- Masterworks - Magazines)
+        desc: ...
+        magazines: []
+        masterworks: []
+      - &j7ranged
+        name: (PvP) "Bullseye" 🎯🎯🎯 🌟 Collector's Edition
+        desc: >
+          Similar to the set of rolls above, but we're narrowing our scopes
+          to create a solid low-zoom pairing with `Rangefinder`.
+        barrels: [SLO-10 Post, SPO-26 Front, SLO-12 Post, SLO-21 Post]
+        magazines: [Ricochet Rounds]
+        perks1: [Zen Moment]
+        perks2: [Rangefinder]
+        masterworks: [Stability MW]
+      -
+        <<: *j7ranged
+        name: (PvP) Bullseye 🎯🎯🎯 CE (+ Magazines)
+        desc: ...
+        magazines: [Ricochet Rounds, Flared Magwell]
+      -
+        <<: *j7ranged
+        name: (PvP) Bullseye 🎯🎯🎯 CE (- Magazines)
+        desc: ...
+        magazines: []
+      -
+        <<: *j7ranged
+        name: (PvP) Bullseye 🎯🎯🎯 CE (- Masterworks)
+        desc: ...
+        masterworks: []
+      -
+        <<: *j7ranged
+        name: (PvP) Bullseye 🎯🎯 CE (- Masterworks and Magazines)
+        desc: ...
+        magazines: []
+        masterworks: []        
