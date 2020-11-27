@@ -1,0 +1,210 @@
+name: Stars in Shadow
+item_id: 2050789284
+lightgg: https://www.light.gg/db/items/2050789284/stars-in-shadow/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 12, c: 1}
+  perks2:      {t: 12, c: 1}
+  masterworks: {t: 4, c: 1}
+groups: 
+  - 
+    name: PvP
+    summary: >
+      Stars in Shadow is a 340 RPM "High-Impact Frame" Energy Pulse Rifle
+      introduced in Destiny 2 Year 4 (Beyond Light). See
+      [how it compares](https://www.light.gg/db/items/compare/?h=B6PI-k;BIfK-Z;BFN60K;)
+      to the existing High-Impacts that lit up in Season 11. 
+
+
+      People are loving SiS because it's a solid Pulse Rifle with good base
+      stats, a clean sight and a great feel. I'm sure you'll see more coverage
+      in the coming weeks as people settle in to Beyond Light and Season 12.
+
+
+      These rolls are going to be similar to those we captured in our
+      coverage of
+      [Cold Denial](#cold-denial---pvp)
+      as it's a comparable 340 RPM. All of the rolls are similar save for the
+      final column perks, so we're going to combine them in a single roll rather
+      than repeat them all.
+
+
+      There are two new perks here to consider: Surplus and Thresh. Surplus
+      supports a niche playstyle so we'll craft a roll around it. Thresh doesn't
+      seem to be all that game-changing (1-3% Super bonus on kill) and doesn't
+      synergize with other perks, so we're skipping it.
+    rolls:
+      - &ssvertical
+        name: (PvP) Verticality 🏔🏔🏔🌟 Collector's Edition
+        desc: >
+
+          To hit `100` Recoil you're going to need to use a Counterbalance mod,
+          which is par for the course on scattershot weapons (Autos, SMGs,
+          etc.). There are several perks in the final columns that work well,
+          and any combination of them would be terrific.
+        barrels: [Arrowhead Brake]
+        magazines: [Steady Rounds]
+        perks1: [Killing Wind, Firmly Planted, Surplus]
+        perks2: [Headseeker, Moving Target, Kill Clip, Eye of the Storm]
+        masterworks: [Stability MW]
+      -
+        <<: *ssvertical
+        name: (PvP) Verticality 🏔🏔🏔 CE (+ Magazines)
+        desc: ...
+        magazines: [Steady Rounds, Flared Magwell, Tactical Mag]
+      -
+        <<: *ssvertical
+        name: (PvP) Verticality 🏔🏔🏔 CE (- Magazines)
+        desc: ...
+        magazines: []
+      -
+        <<: *ssvertical
+        name: (PvP) Verticality 🏔🏔🏔 CE (- Masterworks)
+        desc: ...
+        masterworks: []
+      -
+        <<: *ssvertical
+        name: (PvP) Verticality 🏔🏔 CE (- Magazines - Masterworks)
+        desc: ...
+        magazines: []
+        masterworks: []
+      - &ssworkhorse
+        name: (PvP) The Workhorse 🐴🐴🐴🌟 Collector's Edition
+        desc: >
+          Similar to the above but not relying on Arrowhead Brake.
+        barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+        magazines: [Steady Rounds]
+        perks1: [Killing Wind, Firmly Planted, Surplus]
+        perks2: [Headseeker, Moving Target, Kill Clip, Eye of the Storm]
+        masterworks: [Stability MW]
+      -
+        <<: *ssworkhorse
+        name: (PvP) Workhorse 🐴🐴🐴 CE (+ Magazines)
+        desc: ...
+        magazines: [Steady Rounds, Flared Magwell, Tactical Mag]
+      -
+        <<: *ssworkhorse
+        name: (PvP) Workhorse 🐴🐴🐴 CE (- Magazines)
+        desc: ...
+        magazines: []
+      -
+        <<: *ssworkhorse
+        name: (PvP) Workhorse 🐴🐴🐴 CE (- Masterworks)
+        desc: ...
+        masterworks: []
+      -
+        <<: *ssworkhorse
+        name: (PvP) Workhorse 🐴🐴 CE (- Magazines - Masterworks)
+        desc: ...
+        magazines: []
+        masterworks: []        
+  - 
+    name: PvE
+    summary: >
+      There's not much to puzzle out here. In PvE you're going for as much
+      `Range` as you can get with sustained damage upkeep. There are some solid
+      perks here not in our rolls, becase you don't need this wishlist to tell
+      you that Demolitionist is a decent perk!
+    rolls:
+      - &ssv1
+        name: (PvE) Rapid Reload ♻️♻️♻️🌟 Collector's Edition
+        desc: >
+          All Range and all damage.
+        barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+        magazines: [Accurized Rounds, Appended Mag, Extended Mag]
+        perks1: [Outlaw, Feeding Frenzy]
+        perks2: [Kill Clip]
+        masterworks: [Range MW]
+      -
+        <<: *ssv1
+        name: (PvE) Rapid Reload ♻️♻️♻️ CE (- Barrels)
+        desc: ...
+        barrels: []
+      -
+        <<: *ssv1
+        name: (PvE) Rapid Reload ♻️♻️♻️ CE (- Magazines)
+        desc: ...
+        magazines: []
+      -
+        <<: *ssv1
+        name: (PvE) Rapid Reload ♻️♻️♻️ CE (- Masterworks)
+        desc: ...
+        masterworks: []
+      -
+        <<: *ssv1
+        name: (PvE) Rapid Reload ♻️♻️ (- Barrels - Magazines)
+        desc: ...
+        barrels: []
+        magazines: []
+      -
+        <<: *ssv1
+        name: (PvE) Rapid Reload ♻️♻️ (- Barrels - Masterworks)
+        desc: ...
+        barrels: []
+        masterworks: []
+      -
+        <<: *ssv1
+        name: (PvE) Rapid Reload ♻️♻️ (- Magazines - Masterworks)
+        desc: ...
+        magazines: []
+        masterworks: []
+      -
+        <<: *ssv1
+        name: (PvE) Rapid Reload ♻️ (Baseline)
+        desc: ...
+        barrels: []
+        magazines: []
+        masterworks: []           
+      - &sschampion
+        name: (PvE) Barrier Slayer 🏆🏆🏆🌟 Collector's Edition
+        desc: >
+          In seasons where Pulse Rifles end up with Barrier mods, Genesis
+          will proc when the shield breaks while you'll wrecking the champions
+          with Vorpal. Other "shields" will also proc Genesis, for example
+          "Enlightened" enemies in the Garden of Salvation raid.
+        barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+        magazines: [Accurized Rounds, Alloy Magazine, Flared Magwell]
+        perks1: [Genesis]
+        perks2: [Vorpal]
+        masterworks: [Range MW, Reload MW]
+      -
+        <<: *sschampion
+        name: (PvE) Barrier Slayer 🏆🏆🏆 CE (- Barrels)
+        desc: ...
+        barrels: []
+      -
+        <<: *sschampion
+        name: (PvE) Barrier Slayer 🏆🏆🏆 CE (- Magazines)
+        desc: ...
+        magazines: []
+      -
+        <<: *sschampion
+        name: (PvE) Barrier Slayer 🏆🏆🏆 CE (- Masterworks)
+        desc: ...
+        masterworks: []
+      -
+        <<: *sschampion
+        name: (PvE) Barrier Slayer 🏆🏆 (- Barrels - Magazines)
+        desc: ...
+        barrels: []
+        magazines: []
+      -
+        <<: *sschampion
+        name: (PvE) Barrier Slayer 🏆🏆 (- Barrels - Masterworks)
+        desc: ...
+        barrels: []
+        masterworks: []
+      -
+        <<: *sschampion
+        name: (PvE) Barrier Slayer 🏆🏆 (- Magazines - Masterworks)
+        desc: ...
+        magazines: []
+        masterworks: []
+      -
+        <<: *sschampion
+        name: (PvE) Barrier Slayer 🏆 (Baseline)
+        desc: ...
+        barrels: []
+        magazines: []
+        masterworks: []                   
