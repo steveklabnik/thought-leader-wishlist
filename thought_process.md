@@ -1815,100 +1815,252 @@ It's one of the small number of Power weapons in the World Drop loot pool. You'r
 *For all possible perks, check out **Stars in Shadow** over on [light.gg](https://www.light.gg/db/items/2050789284/stars-in-shadow/)*
 
 
-Stars in Shadow is a 340 RPM "High-Impact Frame" Energy Pulse Rifle introduced in Destiny 2 Year 4 (Beyond Light). See [how it compares](https://www.light.gg/db/items/compare/?h=B6PI-k;BIfK-Z;BFN60K;) to the existing High-Impacts that lit up in Season 11. 
+Stars in Shadow is a 340 RPM "High-Impact Frame" Energy Pulse Rifle introduced in Destiny 2 Year 4 (Beyond Light). See [how it compares](https://www.light.gg/db/items/compare/?h=B6PI-k;BIfK-Z;BFN60K;) to the existing High-Impacts that lit up in Season 11. It's a Crucible drop and if you're an avid PvP player, you'll be swimming in these rolls in no time. It's a solid Pulse Rifle with good base stats, a clean sight and a great feel. I'm sure you'll see more coverage in the coming weeks as people settle in to Beyond Light and Season 12.
 
-People are loving SiS because it's a solid Pulse Rifle with good base stats, a clean sight and a great feel. I'm sure you'll see more coverage in the coming weeks as people settle in to Beyond Light and Season 12.
+These rolls are going to be similar to those we captured in our coverage of [Cold Denial](#cold-denial---pvp) as it's a comparable 340 RPM.
 
-These rolls are going to be similar to those we captured in our coverage of [Cold Denial](#cold-denial---pvp) as it's a comparable 340 RPM. All of the rolls are similar save for the final column perks, so we're going to combine them in a single roll rather than repeat them all.
+***"Why are the odds for these rolls so low?"***
 
-There are two new perks here to consider: Surplus and Thresh. Surplus supports a niche playstyle so we'll craft a roll around it. Thresh doesn't seem to be all that game-changing (1-3% Super bonus on kill) and doesn't synergize with other perks, so we're skipping it.
-* **(PvP) Verticality 🏔🏔🏔🌟 Collector's Edition (0.1% chance)**: To hit `100` Recoil you're going to need to use a Counterbalance mod, which is par for the course on scattershot weapons (Autos, SMGs, etc.). There are several perks in the final columns that work well, and any combination of them would be terrific.
+The final two columns typically have four to six perks in them. In the case of Stars in Shadow, they each have twelve.
+
+***"Why don't you have any rolls with Thresh?"***
+
+Thresh doesn't seem to be all that game-changing (1-3% Super bonus on kill) and doesn't synergize with other perks, so we're skipping it.
+
+***"Why don't you have any Outlaw or Feeding Frenzy PvP rolls?"***
+
+Good question! Glove mod slots are inexpensive and not contentious in PvP. If you want much faster reload, throw on a two-Energy Pulse Rifle Reload mod. Feeding Frenzy was changed to provide a noticeable benefit after three successive kills, so I no longer recommend it for PvP.
+* **(PvP) Vertical/Dark Side 🏔🌒🌒🌒🌟 Collector's Edition (0.0% chance)**: This set of rolls is all about maxing out Recoil, and keeps `Arrowhead Brake` constant as our barrel. You have the option of achieving `100` Recoil by slotting in a Counterbalance mod. If not, go nuts with your nearly perfectly vertical `94`. `Killing Wind` is S-tier and you'd be happy to get any of the final column perks.
 
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 28%]: Steady Rounds
-  Perks 1 [ 25%]: Killing Wind, Firmly Planted, Surplus
+  Perks 1 [  8%]: Killing Wind
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Verticality 🏔🏔🏔 CE (+ Magazines) (0.3% chance)**
+* **(PvP) V/Dark Side 🏔🌒🌒🌒 CE (+ Magazines) (0.1% chance)**
 
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 71%]: Steady Rounds, Flared Magwell, Tactical Mag
-  Perks 1 [ 25%]: Killing Wind, Firmly Planted, Surplus
+  Perks 1 [  8%]: Killing Wind
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Verticality 🏔🏔🏔 CE (- Magazines) (0.5% chance)**
+* **(PvP) V/Dark Side 🏔🌒🌒🌒 CE (- Magazines) (0.2% chance)**
 
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [100%]: *
-  Perks 1 [ 25%]: Killing Wind, Firmly Planted, Surplus
+  Perks 1 [  8%]: Killing Wind
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Verticality 🏔🏔🏔 CE (- Masterworks) (0.5% chance)**
+* **(PvP) V/Dark Side 🏔🌒🌒🌒 CE (- Masterworks) (0.2% chance)**
 
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 28%]: Steady Rounds
-  Perks 1 [ 25%]: Killing Wind, Firmly Planted, Surplus
+  Perks 1 [  8%]: Killing Wind
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [100%]: *
   ```
-* **(PvP) Verticality 🏔🏔 CE (- Magazines - Masterworks) (1.9% chance)**
+* **(PvP) V/Dark Side 🏔🌒🌒🌒 CE (- Magazines - Masterworks) (0.6% chance)**
 
   ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [100%]: *
-  Perks 1 [ 25%]: Killing Wind, Firmly Planted, Surplus
+  Perks 1 [  8%]: Killing Wind
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [100%]: *
   ```
-* **(PvP) The Workhorse 🐴🐴🐴🌟 Collector's Edition (0.5% chance)**: Similar to the above but not relying on Arrowhead Brake.
+* **(PvP) Dark Side 🌑🌑🌑🌟 Collector's Edition (0.2% chance)**: Same as above, using any Stability-boosting barrel.
 
   ```
   Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 28%]: Steady Rounds
-  Perks 1 [ 25%]: Killing Wind, Firmly Planted, Surplus
+  Perks 1 [  8%]: Killing Wind
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Workhorse 🐴🐴🐴 CE (+ Magazines) (1.2% chance)**
+* **(PvP) Dark Side 🌑🌑🌑 CE (+ Magazines) (0.4% chance)**
 
   ```
   Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 71%]: Steady Rounds, Flared Magwell, Tactical Mag
-  Perks 1 [ 25%]: Killing Wind, Firmly Planted, Surplus
+  Perks 1 [  8%]: Killing Wind
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Workhorse 🐴🐴🐴 CE (- Magazines) (1.7% chance)**
+* **(PvP) Dark Side 🌑🌑🌑 CE (- Magazines) (0.6% chance)**
 
   ```
   Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [100%]: *
-  Perks 1 [ 25%]: Killing Wind, Firmly Planted, Surplus
+  Perks 1 [  8%]: Killing Wind
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Stability MW
   ```
-* **(PvP) Workhorse 🐴🐴🐴 CE (- Masterworks) (2.0% chance)**
+* **(PvP) Dark Side 🌑🌑🌑 CE (- Masterworks) (0.7% chance)**
 
   ```
   Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [ 28%]: Steady Rounds
-  Perks 1 [ 25%]: Killing Wind, Firmly Planted, Surplus
+  Perks 1 [  8%]: Killing Wind
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [100%]: *
   ```
-* **(PvP) Workhorse 🐴🐴 CE (- Magazines - Masterworks) (6.9% chance)**
+* **(PvP) Dark Side 🌑🌑🌑 (- Magazines - Masterworks) (2.3% chance)**
 
   ```
   Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
   Mags    [100%]: *
-  Perks 1 [ 25%]: Killing Wind, Firmly Planted, Surplus
+  Perks 1 [  8%]: Killing Wind
+  Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
+  MWorks  [100%]: *
+  ```
+* **(PvP) Vertical/Gardener 🏔🌿🌿🌿🌟 Collector's Edition (0.0% chance)**: This set of rolls pivots around `Firmly Planted`. It means that, even on console we can opt for `Range`-boosting perks because `Firmly Planted` gives us all the `Stability` we need.
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [  8%]: Firmly Planted
+  Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) V/Gardener 🏔🌿🌿🌿 CE (- Masterworks) (0.2% chance)**
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [  8%]: Firmly Planted
+  Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
+  MWorks  [100%]: *
+  ```
+* **(PvP) V/Gardener 🏔🌿🌿🌿 (- Magazines) (0.2% chance)**
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [  8%]: Firmly Planted
+  Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) V/Gardener 🏔🌿🌿🌿 (- Magazines - Masterworks) (0.6% chance)**
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [  8%]: Firmly Planted
+  Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
+  MWorks  [100%]: *
+  ```
+* **(PvP) The Gardener 🌿🌿🌿🌟 Collector's Edition (0.1% chance)**: Same as above, using any `Range`-boosting barrel.
+
+  ```
+  Barrels [ 72%]: Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [  8%]: Firmly Planted
+  Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) Gardener 🌿🌿🌿 CE (- Magazines) (0.5% chance)**
+
+  ```
+  Barrels [ 72%]: Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [  8%]: Firmly Planted
+  Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) Gardener 🌿🌿🌿 CE (- Masterworks) (0.6% chance)**
+
+  ```
+  Barrels [ 72%]: Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [  8%]: Firmly Planted
+  Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
+  MWorks  [100%]: *
+  ```
+* **(PvP) Gardener 🌿🌿 (- Magazines - Masterworks) (2.0% chance)**
+
+  ```
+  Barrels [ 72%]: Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [  8%]: Firmly Planted
+  Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
+  MWorks  [100%]: *
+  ```
+* **(PvP) The Vertical/Hoarder 🏔📦📦📦🌟 Collector's Edition (0.0% chance)**: This set of rolls pivots around `Surplus`. It provides a roughly 25%, 13% and 8% boost depending on how many abilities are charged. You really want to be shooting for all three abilities charged at once which means either foregoing their use entirely or perhaps investing in high tiers of the respective stat (Strength, Discipline, or <class stat>) so that you can quickly recharge a single one. The tradeoff is going around with a supercharged weapon the whole match.
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [  8%]: Surplus
+  Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) V/Hoarder 🏔📦📦📦 CE (- Masterworks) (0.2% chance)**
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [  8%]: Surplus
+  Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
+  MWorks  [100%]: *
+  ```
+* **(PvP) V/Hoarder 🏔📦📦📦 (- Magazines) (0.2% chance)**
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [  8%]: Surplus
+  Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) V/Hoarder 🏔📦📦 (- Magazines - Masterworks) (0.6% chance)**
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [  8%]: Surplus
+  Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
+  MWorks  [100%]: *
+  ```
+* **(PvP) The Hoarder 📦📦📦🌟 Collector's Edition (0.1% chance)**: Same as above, using any `Range`-boosting barrel.
+
+  ```
+  Barrels [ 72%]: Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [  8%]: Firmly Planted
+  Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) Hoarder 📦📦📦 CE (- Magazines) (0.5% chance)**
+
+  ```
+  Barrels [ 72%]: Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [  8%]: Firmly Planted
+  Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvP) Hoarder 📦📦📦 CE (- Masterworks) (0.6% chance)**
+
+  ```
+  Barrels [ 72%]: Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [  8%]: Firmly Planted
+  Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
+  MWorks  [100%]: *
+  ```
+* **(PvP) The Hoarder 📦📦 (- Magazines - Masterworks) (2.0% chance)**
+
+  ```
+  Barrels [ 72%]: Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [  8%]: Firmly Planted
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [100%]: *
   ```
@@ -1916,8 +2068,17 @@ There are two new perks here to consider: Surplus and Thresh. Surplus supports a
 *For all possible perks, check out **Stars in Shadow** over on [light.gg](https://www.light.gg/db/items/2050789284/stars-in-shadow/)*
 
 
-There's not much to puzzle out here. In PvE you're going for as much `Range` as you can get with sustained damage upkeep. There are some solid perks here not in our rolls, becase you don't need this wishlist to tell you that Demolitionist is a decent perk!
+In PvE you're going for as much `Range` as you can get with sustained damage upkeep. There are some solid perks here not in our rolls, becase you don't need this wishlist to tell you that Demolitionist is a good perk 🙃
 * **(PvE) Rapid Reload ♻️♻️♻️🌟 Collector's Edition (0.1% chance)**: All Range and all damage.
+
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [ 16%]: Outlaw, Feeding Frenzy
+  Perks 2 [  8%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) Rapid Reload ♻️♻️♻️ CE (+ Magazines) (0.1% chance)**
 
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
@@ -1926,11 +2087,11 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Perks 2 [  8%]: Kill Clip
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Rapid Reload ♻️♻️♻️ CE (- Barrels) (0.2% chance)**
+* **(PvE) Rapid Reload ♻️♻️♻️ CE (- Barrels) (0.1% chance)**
 
   ```
   Barrels [100%]: *
-  Mags    [ 71%]: Accurized Rounds, Appended Mag, Extended Mag
+  Mags    [ 28%]: Accurized Rounds
   Perks 1 [ 16%]: Outlaw, Feeding Frenzy
   Perks 2 [  8%]: Kill Clip
   MWorks  [ 25%]: Range MW
@@ -1944,11 +2105,11 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Perks 2 [  8%]: Kill Clip
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Rapid Reload ♻️♻️♻️ CE (- Masterworks) (0.6% chance)**
+* **(PvE) Rapid Reload ♻️♻️♻️ CE (- Masterworks) (0.2% chance)**
 
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 71%]: Accurized Rounds, Appended Mag, Extended Mag
+  Mags    [ 28%]: Accurized Rounds
   Perks 1 [ 16%]: Outlaw, Feeding Frenzy
   Perks 2 [  8%]: Kill Clip
   MWorks  [100%]: *
@@ -1962,11 +2123,11 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Perks 2 [  8%]: Kill Clip
   MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Rapid Reload ♻️♻️ (- Barrels - Masterworks) (1.0% chance)**
+* **(PvE) Rapid Reload ♻️♻️ (- Barrels - Masterworks) (0.4% chance)**
 
   ```
   Barrels [100%]: *
-  Mags    [ 71%]: Accurized Rounds, Appended Mag, Extended Mag
+  Mags    [ 28%]: Accurized Rounds
   Perks 1 [ 16%]: Outlaw, Feeding Frenzy
   Perks 2 [  8%]: Kill Clip
   MWorks  [100%]: *
@@ -1989,23 +2150,32 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Perks 2 [  8%]: Kill Clip
   MWorks  [100%]: *
   ```
-* **(PvE) Barrier Slayer 🏆🏆🏆🌟 Collector's Edition (0.1% chance)**: In seasons where Pulse Rifles end up with Barrier mods, Genesis will proc when the shield breaks while you'll wrecking the champions with Vorpal. Other "shields" will also proc Genesis, for example "Enlightened" enemies in the Garden of Salvation raid.
+* **(PvE) Barrier Slayer 🏆🏆🏆🌟 Collector's Edition (0.1% chance)**: In seasons where Pulse Rifles end up with Barrier mods, Genesis will proc when the shield breaks while you'll wrecking the champions with Vorpal. Other shields will also proc Genesis, for example "Enlightened" enemies in the Garden of Salvation raid.
+
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [  8%]: Genesis
+  Perks 2 [ 16%]: Vorpal, Disruption Break
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) Barrier Slayer 🏆🏆🏆 CE (+ Magazines) (0.1% chance)**
 
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [ 71%]: Accurized Rounds, Alloy Magazine, Flared Magwell
   Perks 1 [  8%]: Genesis
-  Perks 2 [  8%]: Vorpal
-  MWorks  [ 50%]: Range MW, Reload MW
+  Perks 2 [ 16%]: Vorpal, Disruption Break
+  MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Barrier Slayer 🏆🏆🏆 CE (- Barrels) (0.2% chance)**
+* **(PvE) Barrier Slayer 🏆🏆🏆 CE (- Barrels) (0.1% chance)**
 
   ```
   Barrels [100%]: *
-  Mags    [ 71%]: Accurized Rounds, Alloy Magazine, Flared Magwell
+  Mags    [ 28%]: Accurized Rounds
   Perks 1 [  8%]: Genesis
-  Perks 2 [  8%]: Vorpal
-  MWorks  [ 50%]: Range MW, Reload MW
+  Perks 2 [ 16%]: Vorpal, Disruption Break
+  MWorks  [ 25%]: Range MW
   ```
 * **(PvE) Barrier Slayer 🏆🏆🏆 CE (- Magazines) (0.2% chance)**
 
@@ -2013,16 +2183,16 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [100%]: *
   Perks 1 [  8%]: Genesis
-  Perks 2 [  8%]: Vorpal
-  MWorks  [ 50%]: Range MW, Reload MW
+  Perks 2 [ 16%]: Vorpal, Disruption Break
+  MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Barrier Slayer 🏆🏆🏆 CE (- Masterworks) (0.3% chance)**
+* **(PvE) Barrier Slayer 🏆🏆🏆 CE (- Masterworks) (0.2% chance)**
 
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 71%]: Accurized Rounds, Alloy Magazine, Flared Magwell
+  Mags    [ 28%]: Accurized Rounds
   Perks 1 [  8%]: Genesis
-  Perks 2 [  8%]: Vorpal
+  Perks 2 [ 16%]: Vorpal, Disruption Break
   MWorks  [100%]: *
   ```
 * **(PvE) Barrier Slayer 🏆🏆 (- Barrels - Magazines) (0.3% chance)**
@@ -2031,34 +2201,34 @@ There's not much to puzzle out here. In PvE you're going for as much `Range` as 
   Barrels [100%]: *
   Mags    [100%]: *
   Perks 1 [  8%]: Genesis
-  Perks 2 [  8%]: Vorpal
-  MWorks  [ 50%]: Range MW, Reload MW
+  Perks 2 [ 16%]: Vorpal, Disruption Break
+  MWorks  [ 25%]: Range MW
   ```
-* **(PvE) Barrier Slayer 🏆🏆 (- Barrels - Masterworks) (0.5% chance)**
+* **(PvE) Barrier Slayer 🏆🏆 (- Barrels - Masterworks) (0.4% chance)**
 
   ```
   Barrels [100%]: *
-  Mags    [ 71%]: Accurized Rounds, Alloy Magazine, Flared Magwell
+  Mags    [ 28%]: Accurized Rounds
   Perks 1 [  8%]: Genesis
-  Perks 2 [  8%]: Vorpal
+  Perks 2 [ 16%]: Vorpal, Disruption Break
   MWorks  [100%]: *
   ```
-* **(PvE) Barrier Slayer 🏆🏆 (- Magazines - Masterworks) (0.4% chance)**
+* **(PvE) Barrier Slayer 🏆🏆 (- Magazines - Masterworks) (0.8% chance)**
 
   ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
   Mags    [100%]: *
   Perks 1 [  8%]: Genesis
-  Perks 2 [  8%]: Vorpal
+  Perks 2 [ 16%]: Vorpal, Disruption Break
   MWorks  [100%]: *
   ```
-* **(PvE) Barrier Slayer 🏆 (Baseline) (0.7% chance)**
+* **(PvE) Barrier Slayer 🏆 (Baseline) (1.4% chance)**
 
   ```
   Barrels [100%]: *
   Mags    [100%]: *
   Perks 1 [  8%]: Genesis
-  Perks 2 [  8%]: Vorpal
+  Perks 2 [ 16%]: Vorpal, Disruption Break
   MWorks  [100%]: *
   ```
 ## Steel Sybil Z-14 - PvE
