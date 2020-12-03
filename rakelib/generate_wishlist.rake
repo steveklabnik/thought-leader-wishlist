@@ -16,12 +16,7 @@ task :generate_wishlist, [:environment] do |t, args|
     wishlist.puts("title: SlifSF's Sliflist")
     wishlist.puts("description: Generated #{DateTime.now.strftime("%Y-%m-%d %H:%M:%S %:z")}")
 
-    # We'll generate our "Trash" list from here, once all the registered rolls
-    # are written to the wishlist
-    item_ids = Set.new
-
     weapons.each do |w|
-      item_ids.add(w['item_id'])
       w['groups'].each do |group|
         group['rolls'].each do |roll|
           wishlist.puts("//notes:%s / %0.1f%% chance" % [roll['name'], calculate_probability(w, roll)])
@@ -32,11 +27,6 @@ task :generate_wishlist, [:environment] do |t, args|
           write_roll(wishlist, w['item_id'], perk_ids, [], 0)
         end
       end
-    end
-
-    wishlist.puts('//notes:This roll did not match any roll in our wishlist. It could still be an amazing roll for you!')
-    item_ids.each do |item_id|
-      wishlist.puts("dimwishlist:item=-#{item_id}")
     end
   end
 end
