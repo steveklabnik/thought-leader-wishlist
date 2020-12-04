@@ -11,7 +11,9 @@ TRAITS = [
   {:key => 'perks1',      :label => 'Perks 1'},
   {:key => 'perks2',      :label => 'Perks 2'},
   {:key => 'masterworks', :label => 'MWorks '},
-]  
+]
+
+PERK_MAP = YAML.load_file('perk_ids.yml')
 
 class V1Generator
   
@@ -51,6 +53,43 @@ class V1Generator
     end
 
     thoughts.string
+  end
+
+  def generate_wishlist(roll_data)
+    wishlist = StringIO.new
+    
+    roll_data['groups'].each do |group|
+      group['rolls'].each do |roll|
+        wishlist.puts("//notes:%s / %0.1f%% chance" % [roll['name'], calculate_probability(roll_data, roll)])
+        perk_ids = []
+        %w(barrels magazines perks1 perks2 masterworks).each do |slot|
+          perk_ids << convert_to_perk_ids(roll[slot]) unless roll[slot].empty?
+        end
+        write_roll(wishlist, roll_data['item_id'], perk_ids, [], 0)
+      end
+    end
+    
+    wishlist.string
+  end
+
+  def convert_to_perk_ids(perk_names)
+    perk_names.each do |perk|
+      raise "Perk Name #{perk} not found in perk_ids.yml" unless PERK_MAP[perk] 
+    end
+    perk_names.map{|n| PERK_MAP[n]}.flatten
+  end
+  
+  def write_roll(wishlist, item_id, perk_ids, roll, row)
+    if (row == perk_ids.length-1)
+      perk_ids[row].each do |p|
+        wishlist.puts("dimwishlist:item=#{item_id}&perks=#{(roll+[p]).join(',')}")
+      end
+      return
+    end
+  
+    perk_ids[row].each do |p|
+      write_roll(wishlist, item_id, perk_ids, roll + [p], row + 1)
+    end
   end
 
 end

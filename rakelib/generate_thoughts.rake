@@ -1,20 +1,5 @@
 require 'markdown_generator'
 
-PREAMBLE = <<-PRE
-# **Welcome to the Sliflist!**
-
-To use this wishlist in DIM, copy and paste this URL in the Settings
-page under "Wish List"
-
-```
-https://raw.githubusercontent.com/rslifka/wishlist/master/wishlist.txt
-```
-
-Check out the [README](https://github.com/rslifka/wishlist/) for more info.
-
----
-PRE
-
 desc "Generate human-readable thoughts from our roll data"
 task :generate_thoughts, [:environment] do |t, args|
   toc_contents = StringIO.new
@@ -33,7 +18,20 @@ task :generate_thoughts, [:environment] do |t, args|
   end
 
   File.open(thoughts_filename(args.environment), 'w') do |thoughts|
-    thoughts.puts(PREAMBLE)
+    thoughts.puts <<-PRE
+# **Welcome to the Sliflist!**
+
+To use this wishlist in DIM, copy and paste this URL in the Settings
+page under "Wish List"
+
+```
+https://raw.githubusercontent.com/rslifka/wishlist/master/wishlist.txt
+```
+
+Check out the [README](https://github.com/rslifka/wishlist/) for more info.
+
+---
+PRE
     thoughts.puts(toc_contents.string)
     thoughts.puts("\n---\n")
     thoughts.puts(body_contents.string)

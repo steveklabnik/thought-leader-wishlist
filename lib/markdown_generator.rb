@@ -18,6 +18,11 @@ class MarkdownGenerator
     get_generator(roll_data).generate_roll(roll_data)
   end
 
+  def self.generate_wishlist(yml_file)
+    roll_data = YAML.load_file(yml_file)
+    get_generator(roll_data).generate_wishlist(roll_data)
+  end
+
   def self.get_generator(roll_data)
     version = roll_data.has_key?('syntax_version') ? roll_data['syntax_version'] : '1'
     GENERATORS[version]
