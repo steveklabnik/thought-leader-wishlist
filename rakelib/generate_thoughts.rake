@@ -17,23 +17,22 @@ PRE
 
 desc "Generate human-readable thoughts from our roll data"
 task :generate_thoughts, [:environment] do |t, args|
+  toc_contents = StringIO.new
+  body_contents = StringIO.new
+
   toc = YAML.load_file('toc.yml')
+  toc['ordering'].each do |collection|
+    toc_contents.puts("\n**#{toc['naming'][collection]}**")
+    Dir.children(File.join('wish_dsl', collection)).sort.each do |weapon|
+      toc_link = MarkdownGenerator.generate_toc_link(File.join('wish_dsl', collection, weapon))
+      toc_contents.puts(toc_link)
+      
+      roll = MarkdownGenerator.generate_roll(File.join('wish_dsl', collection, weapon))
+      body_contents.puts(roll)
+    end
+  end
 
   File.open(thoughts_filename(args.environment), 'w') do |thoughts|
-    toc_contents = StringIO.new
-    body_contents = StringIO.new
-    
-    toc['ordering'].each do |collection|
-      toc_contents.puts("\n**#{toc['naming'][collection]}**")
-      Dir.children(File.join('wish_dsl', collection)).sort.each do |weapon|
-        toc_link = MarkdownGenerator.generate_toc_link(File.join('wish_dsl', collection, weapon))
-        toc_contents.puts(toc_link)
-        
-        roll = MarkdownGenerator.generate_roll(File.join('wish_dsl', collection, weapon))
-        body_contents.puts(roll)
-      end
-    end
-
     thoughts.puts(PREAMBLE)
     thoughts.puts(toc_contents.string)
     thoughts.puts("\n---\n")
