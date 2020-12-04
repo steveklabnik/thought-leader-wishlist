@@ -79,14 +79,15 @@ groups:
         masterworks: []
       -
         <<: *ssvdark
-        name: (PvP) V/Dark Side 🏔🌒🌒🌒 CE (- Magazines - Masterworks)
+        name: (PvP) V/Dark Side 🏔🌒🌒 (- Magazines - Masterworks)
         desc: ...
         magazines: []
         masterworks: []
       - &ssdark
         name: (PvP) Dark Side 🌑🌑🌑🌟 Collector's Edition
         desc: >
-          Same as above, using any Stability-boosting barrel.
+          Same as above, using any Stability-boosting barrel, which we'll later
+          relax down to no barrel preference.
         barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
         magazines: [Steady Rounds]
         perks1: [Killing Wind]
@@ -109,14 +110,38 @@ groups:
         masterworks: []
       -
         <<: *ssdark
-        name: (PvP) Dark Side 🌑🌑🌑 (- Magazines - Masterworks)
+        name: (PvP) Dark Side 🌑🌑🌑 CE (- Barrels)
         desc: ...
+        barrels: []
+      -
+        <<: *ssdark
+        name: (PvP) Dark Side 🌑🌑 (- Barrels - Magazines)
+        desc: ...
+        barrels: []
+        magazines: []
+      -
+        <<: *ssdark
+        name: (PvP) Dark Side 🌑🌑 (- Barrels - Masterworks)
+        desc: ...
+        barrels: []
+        masterworks: []
+      -
+        <<: *ssdark
+        name: (PvP) Dark Side 🌑🌑 (- Magazines - Masterworks)
+        desc: ...
+        magazines: []
+        masterworks: []
+      -
+        <<: *ssdark
+        name: (PvP) Dark Side 🌑 (Baseline)
+        desc: ...
+        barrels: []
         magazines: []
         masterworks: []
       - &ssvgarden
         name: (PvP) Vertical/Gardener 🏔🌿🌿🌿🌟 Collector's Edition
         desc: >
-          This set of rolls pivots around `Firmly Planted`. It means that, even
+          his set of rolls pivots around `Firmly Planted`. It means that, even
           on console we can opt for `Range`-boosting perks because `Firmly
           Planted` gives us all the `Stability` we need.
         barrels: [Arrowhead Brake]
@@ -131,19 +156,20 @@ groups:
         masterworks: []
       -
         <<: *ssvgarden
-        name: (PvP) V/Gardener 🏔🌿🌿🌿 (- Magazines)
+        name: (PvP) V/Gardener 🏔🌿🌿🌿 CE (- Magazines)
         desc: ...
         magazines: []
       -
         <<: *ssvgarden
-        name: (PvP) V/Gardener 🏔🌿🌿🌿 (- Magazines - Masterworks)
+        name: (PvP) V/Gardener 🏔🌿🌿 (- Magazines - Masterworks)
         desc: ...
         magazines: []
         masterworks: []
       - &ssgarden
         name: (PvP) The Gardener 🌿🌿🌿🌟 Collector's Edition
         desc: >
-          Same as above, using any `Range`-boosting barrel.
+          Same as above, using any `Range`-boosting barrel. We'll winnow down
+          to drop the barrel requirement as well.
         barrels: [Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling]
         magazines: [Accurized Rounds]
         perks1: [Firmly Planted]
@@ -161,10 +187,34 @@ groups:
         masterworks: []
       -
         <<: *ssgarden
+        name: (PvP) Gardener 🌿🌿🌿 CE (- Barrels)
+        desc: ...
+        barrels: []
+      -
+        <<: *ssgarden
+        name: (PvP) Gardener 🌿🌿 (- Barrels - Magazines)
+        desc: ...
+        barrels: []
+        magazines: []
+      -
+        <<: *ssgarden
+        name: (PvP) Gardener 🌿🌿 (- Barrels - Masterworks)
+        desc: ...
+        barrels: []
+        masterworks: []
+      -
+        <<: *ssgarden
         name: (PvP) Gardener 🌿🌿 (- Magazines - Masterworks)
         desc: ...
         magazines: []
         masterworks: []
+      -
+        <<: *ssgarden
+        name: (PvP) Gardener 🌿 (Baseline)
+        desc: ...
+        barrels: []
+        magazines: []
+        masterworks: [] 
       - &ssvhoarder
         name: (PvP) The Vertical/Hoarder 🏔📦📦📦🌟 Collector's Edition
         desc: >
@@ -200,7 +250,8 @@ groups:
       - &sshoarder
         name: (PvP) The Hoarder 📦📦📦🌟 Collector's Edition
         desc: >
-          Same as above, using any `Range`-boosting barrel.
+          Same as above, using any `Range`-boosting barrel. We'll winnow down
+          to drop the barrel requirement as well.
         barrels: [Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling]
         magazines: [Accurized Rounds]
         perks1: [Firmly Planted]
@@ -218,10 +269,34 @@ groups:
         masterworks: []
       -
         <<: *sshoarder
-        name: (PvP) The Hoarder 📦📦 (- Magazines - Masterworks)
+        name: (PvP) Hoarder 📦📦📦 CE (- Barrels)
+        desc: ...
+        barrels: []
+      -
+        <<: *sshoarder
+        name: (PvP) Hoarder 📦📦 (- Barrels - Magazines)
+        desc: ...
+        barrels: []
+        magazines: []
+      -
+        <<: *sshoarder
+        name: (PvP) Hoarder 📦📦 (- Barrels - Masterworks)
+        desc: ...
+        barrels: []
+        masterworks: []
+      -
+        <<: *sshoarder
+        name: (PvP) Hoarder 📦📦 (- Magazines - Masterworks)
         desc: ...
         magazines: []
         masterworks: []
+      -
+        <<: *sshoarder
+        name: (PvP) Hoarder 📦 (Baseline)
+        desc: ...
+        barrels: []
+        magazines: []
+        masterworks: []         
   - 
     name: PvE
     summary: >
