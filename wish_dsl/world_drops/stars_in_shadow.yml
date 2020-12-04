@@ -254,7 +254,7 @@ groups:
           to drop the barrel requirement as well.
         barrels: [Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling]
         magazines: [Accurized Rounds]
-        perks1: [Firmly Planted]
+        perks1: [Surplus]
         perks2: [Headseeker, Moving Target, Kill Clip, Eye of the Storm]
         masterworks: [Range MW]
       -
