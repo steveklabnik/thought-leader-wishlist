@@ -65,9 +65,9 @@ task :generate_thoughts, [:environment] do |t, args|
         group['rolls'].each do |r|
           description = r['desc'].strip
           headline = if (description == '...')
-            thoughts.puts("* **%s (%0.1f%% chance)**" % [r['name'], calculate_probability(weapon, r)])
+            thoughts.puts("* **%s - %0.1f%% chance**" % [r['name'], calculate_probability(weapon, r)])
           else
-            thoughts.puts("* **%s (%0.1f%% chance)**: %s" % [r['name'], calculate_probability(weapon, r), description])
+            thoughts.puts("* **%s - %0.1f%% chance**: %s" % [r['name'], calculate_probability(weapon, r), description])
           end
           thoughts.puts(headline)
           thoughts.puts('  ```')
