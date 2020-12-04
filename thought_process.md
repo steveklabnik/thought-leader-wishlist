@@ -2105,7 +2105,7 @@ Good question! Glove mod slots are inexpensive and not contentious in PvP. If yo
   ```
   Barrels [ 72%]: Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling
   Mags    [ 28%]: Accurized Rounds
-  Perks 1 [  8%]: Firmly Planted
+  Perks 1 [  8%]: Surplus
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Range MW
   ```
@@ -2114,7 +2114,7 @@ Good question! Glove mod slots are inexpensive and not contentious in PvP. If yo
   ```
   Barrels [ 72%]: Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling
   Mags    [100%]: *
-  Perks 1 [  8%]: Firmly Planted
+  Perks 1 [  8%]: Surplus
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Range MW
   ```
@@ -2123,7 +2123,7 @@ Good question! Glove mod slots are inexpensive and not contentious in PvP. If yo
   ```
   Barrels [ 72%]: Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling
   Mags    [ 28%]: Accurized Rounds
-  Perks 1 [  8%]: Firmly Planted
+  Perks 1 [  8%]: Surplus
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [100%]: *
   ```
@@ -2132,7 +2132,7 @@ Good question! Glove mod slots are inexpensive and not contentious in PvP. If yo
   ```
   Barrels [100%]: *
   Mags    [ 28%]: Accurized Rounds
-  Perks 1 [  8%]: Firmly Planted
+  Perks 1 [  8%]: Surplus
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Range MW
   ```
@@ -2141,7 +2141,7 @@ Good question! Glove mod slots are inexpensive and not contentious in PvP. If yo
   ```
   Barrels [100%]: *
   Mags    [100%]: *
-  Perks 1 [  8%]: Firmly Planted
+  Perks 1 [  8%]: Surplus
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Range MW
   ```
@@ -2150,7 +2150,7 @@ Good question! Glove mod slots are inexpensive and not contentious in PvP. If yo
   ```
   Barrels [100%]: *
   Mags    [ 28%]: Accurized Rounds
-  Perks 1 [  8%]: Firmly Planted
+  Perks 1 [  8%]: Surplus
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [100%]: *
   ```
@@ -2159,7 +2159,7 @@ Good question! Glove mod slots are inexpensive and not contentious in PvP. If yo
   ```
   Barrels [ 72%]: Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling
   Mags    [100%]: *
-  Perks 1 [  8%]: Firmly Planted
+  Perks 1 [  8%]: Surplus
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [100%]: *
   ```
@@ -2168,7 +2168,7 @@ Good question! Glove mod slots are inexpensive and not contentious in PvP. If yo
   ```
   Barrels [100%]: *
   Mags    [100%]: *
-  Perks 1 [  8%]: Firmly Planted
+  Perks 1 [  8%]: Surplus
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [100%]: *
   ```
