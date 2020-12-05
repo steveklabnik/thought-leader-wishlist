@@ -4,8 +4,8 @@ require 'v2_generator'
 class MarkdownGenerator
 
   GENERATORS = {
-    '1' => V1Generator.new,
-    '2' => V2Generator.new
+    1 => V1Generator.new,
+    2 => V2Generator.new
   }
 
   def self.generate_toc_link(yml_file)
@@ -24,7 +24,7 @@ class MarkdownGenerator
   end
 
   def self.get_generator(roll_data)
-    version = roll_data.has_key?('syntax_version') ? roll_data['syntax_version'] : '1'
+    version = roll_data.has_key?('syntax_version') ? roll_data['syntax_version'] : 1
     GENERATORS[version]
   end
 
