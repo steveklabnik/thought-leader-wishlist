@@ -15,7 +15,7 @@ I've been playing Destiny since the Alpha with just shy of 3,300 hours played as
 
 1. **Directly**: They reviewed a weapon and shared specific insights as to why and how a particular roll could be effective.
 2. **Indirectly**: They published content about how the sandbox itself functions (i.e. how perks work, what the core attributes are)
-  
+
 I quote and link to sources per-weapon in the [Roll Guide](https://github.com/rslifka/wishlist/blob/master/thought_process.md). Go check out these Destiny scientists and the content they produce. Really amazing stuff. Every roll of every weapon was influenced in some way by their work.
 
 | Creator       | Twitter | YouTube | Twitch
@@ -30,3 +30,31 @@ I quote and link to sources per-weapon in the [Roll Guide](https://github.com/rs
 # Reference
 
 We have a [bit of a wiki going](https://github.com/rslifka/wishlist/wiki) for the type of information we find helpful when coming up with rolls. Have a look!
+
+# Contributing
+
+If you want to add some of your own rolls, you'll want to first create a fork of this repo and clone it to your local machine.
+
+The files in the `wishlist_dsl` directory are used to generate the `wishlist.txt` and `though_process.md` files.  If you create or edit edit `.yml` files you'll then need to run a `bundle exec rake` to generate new versions of those files.
+
+You can set up "Github Actions" to automatically recompile these files on every push using the `.github/workflows/ruby.yml` file.
+
+If you want to test your changes locally without pushing, you'll need to set up `rake` locally.
+
+### Setting up `rake` and `ruby` locally
+
+The wishlist uses `rake` tasks (via `ruby`) to do most of the heavy lifing.  You'll want to [install `rvm` (Ruby Version Manager)](https://rvm.io/).  Then, if you `cd` into your local repo it should prompt you to install the right version of `ruby`.
+
+Then you can install all of the required dependencies (taken from the "Build and test with Rake" action in `ruby.yml`):
+
+```
+gem install bundler
+bundle install --jobs 4 --retry 3
+```
+
+Now, every time you make a `.yml` change, you can test and recompile the changes locally with:
+
+```
+bundle exec rake
+```
+
