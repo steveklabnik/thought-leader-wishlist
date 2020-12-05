@@ -1,4 +1,4 @@
-require './lib/wishlist'
+require 'weapon'
 
 describe Weapon do
 
