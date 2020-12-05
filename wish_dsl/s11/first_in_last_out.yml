@@ -204,3 +204,30 @@ groups:
         desc: ...
         barrels: []
         masterworks: []
+      - &filoboss
+        name: (PvE) "Step Up, Boss Down" ℬ𝓞𝒮𝒮⬇️⬇️⬇️🌟 Collector's Edition
+        desc: >
+          Vorpal + Auto-Loading Holster gives you the greatest uptime in boss DPS phases.
+          Add in Assault Mag for slightly higher DPS with the increased rate-of-fire, and
+          Full Bore and a Range MW for the most range possible and you've got a stew
+          cooking!
+        barrels: [Full Bore]
+        magazines: [Assault Mag]
+        perks1: [Auto-Loading Holster]
+        perks2: [Vorpal]
+        masterworks: [Range MW]
+      - <<: *filoboss
+        name: (PvE) "Boss Down" ℬ𝓞𝒮𝒮️⬇️⬇️🌟 (+ Barrels)
+        desc: ...
+        barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+      - <<: *filoboss
+        name: (PvE) "Boss Down" ℬ𝓞𝒮𝒮️⬇️⬇️🌟 (- Masterworks)
+        desc: ...
+        barrels: [Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+        masterworks: []
+      - <<: *filoboss
+        name: (PvE) "Boss Down" ℬ𝓞𝒮𝒮️⬇️️🌟 (Baseline)
+        desc: ...
+        barrels: []
+        magazines: []
+        masterworks: []
