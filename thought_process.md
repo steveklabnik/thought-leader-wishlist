@@ -4555,6 +4555,42 @@ With this buff, they hit much harder and are totally viable in low- to mid-tier 
   Perks 2 [ 40%]: Surrounded
   MWorks  [100%]: *
   ```
+* **(PvE) "Step Up, Boss Down" ℬ𝓞𝒮𝒮⬇️⬇️⬇️🌟 Collector's Edition - 0.1% chance**: Vorpal + Auto-Loading Holster gives you the greatest uptime in boss DPS phases. Add in Assault Mag for slightly higher DPS with the increased rate-of-fire, and Full Bore and a Range MW for the most range possible and you've got a stew cooking!
+
+  ```
+  Barrels [ 22%]: Full Bore
+  Mags    [ 28%]: Assault Mag
+  Perks 1 [ 20%]: Auto-Loading Holster
+  Perks 2 [ 40%]: Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Boss Down" ℬ𝓞𝒮𝒮️⬇️⬇️🌟 (+ Barrels) - 0.4% chance**
+
+  ```
+  Barrels [ 72%]: Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 28%]: Assault Mag
+  Perks 1 [ 20%]: Auto-Loading Holster
+  Perks 2 [ 40%]: Vorpal
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Boss Down" ℬ𝓞𝒮𝒮️⬇️⬇️🌟 (- Masterworks) - 1.7% chance**
+
+  ```
+  Barrels [ 72%]: Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 28%]: Assault Mag
+  Perks 1 [ 20%]: Auto-Loading Holster
+  Perks 2 [ 40%]: Vorpal
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Boss Down" ℬ𝓞𝒮𝒮️⬇️️🌟 (Baseline) - 8.0% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Auto-Loading Holster
+  Perks 2 [ 40%]: Vorpal
+  MWorks  [100%]: *
+  ```
 ## Hollow Words - PvP
 *For all possible perks, check out **Hollow Words** over on [light.gg](https://www.light.gg/db/items/607191995/hollow-words/)*
 
