@@ -6335,107 +6335,95 @@ Otherwise we're shooing for higher Stability
   Perks 2 [ 16%]: Firing Line
   MWorks  [100%]: *
   ```
-## Seventh Seraph SI-2 - PvP
+## Seventh Seraph SI-2
 *For all possible perks, check out **Seventh Seraph SI-2** over on [light.gg](https://www.light.gg/db/items/3937866388/seventh-seraph-si-2/)*
 
-
 The SI-2 is the 2020 version of the Anonymous Autumn (Kyt: *"which is the best-in-class for lightweight sidearms"*) and is the only other randomly rolled 360 RPM Energy sidearm. Mercules is on the same page: *"It (SI-2) doesn't have great Stability or great Range. I would pick a well-rolled Anonymous Autumn over this every time."* Why do they say that? It's got basically the same stats as an Anonymous Autumn but has 33% less Range and 20% less Stability. On the plus side the SI-2 has 7% better Handling (64 > 69) 🙃
-
-Even TrueVanguard, who absolutely loves the Anonymous Autumn (with over 14,000 kills) depicts the SI-2 as situational, relying primarily on Vorpal to justify using it. Check out [his thoughts](https://www.youtube.com/watch?v=cCtP2PjAEgY).
+### Seventh Seraph SI-2 - PvP
+TrueVanguard, who absolutely loves the Anonymous Autumn (with over 14,000 kills) depicts the SI-2 as situational, relying primarily on Vorpal to justify using it. Check out [his thoughts](https://www.youtube.com/watch?v=cCtP2PjAEgY).
 
 If you are going to consider the SI-2 for PvP, a few things to keep in mind:
 * The recoil direction is 95, so no need to worry about straightening it out. I.e. the +Recoil barrels shouldn't be your first pick. Instead, focus on Range and Stability.
-* Full Auto is going to be a make-or-break perk for some, as many guardians have a love-it-or-hate-it relationsihp with single-shot sidearms. If that's your thing, know that no other perk in that column is a must-have. I find that 360s are unsuable for me without it, so I'll be picking one of these up to see how it plays with Vorpal. 
-
-On to the rolls!
-* **(PvP) Slif's "Full Auto Super Shredder" 💥Collector's Edition - 0.9% chance**: These rolls aren't super tight on the Barrel and Magazine front because they aren't going to dramatically alter the value of the overall roll. Vorpal is really the key here. Without Vorpal, you're better off using the better-rolled Anonymous Autumn as mentioned above. Otherwise we're going for +Range and +Stability wherever we can get it.
-
-  ```
+* Full Auto is going to be a make-or-break perk for some, as many guardians have a love-it-or-hate-it relationsihp with single-shot sidearms. If that's your thing, know that no other perk in that column is a must-have. I find that 360s are unsuable for me without it, so I'll be picking one of these up to see how it plays with Vorpal.
+#### **Full Auto Super Shredder**
+These rolls aren't super tight on the Barrel and Magazine front because they aren't going to dramatically alter the value of the overall roll. Vorpal is really the key here. Without Vorpal, you're better off using the better-rolled Anonymous Autumn as mentioned above. Otherwise we're going for +Range and +Stability wherever we can get it.
+```
   Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling
   Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
   Perks 1 [ 16%]: Full Auto Trigger System
   Perks 2 [ 16%]: Vorpal
   MWorks  [ 50%]: Stability MW, Range MW
-  ```
-* **(PvP) "Full Auto Super Shredder" 💥(Minus Masterworks) - 1.8% chance**: The presence or lack of the right masterwork isn't a deal-breaker.
-
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling
-  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
-  Perks 1 [ 16%]: Full Auto Trigger System
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Threat Level Super Shredder" 🧵 - 0.9% chance**: Same setup as the above, but we're swapping out Full Auto and bringing in Threat Detector.
-
-  ```
+```
+| Variant | Chance |
+|:-|-:|
+| 💥💥💥🌟 | 0.9% |
+| 💥💥💥 (-masterworks) | 1.8% |
+#### **Threat Level Super Shredder**
+Same setup as the above, but we're swapping out Full Auto and bringing in Threat Detector.
+```
   Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling
   Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
   Perks 1 [ 16%]: Threat Detector
   Perks 2 [ 16%]: Vorpal
   MWorks  [ 50%]: Stability MW, Range MW
-  ```
-* **(PvP) "Threat Level" 🧵(Minus Masterworks) - 1.8% chance**: The presence or lack of the right masterwork isn't a deal-breaker.
-
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling
-  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
-  Perks 1 [ 16%]: Threat Detector
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Basic Super Shredder" ⚙️ - 5.5% chance**: No first column perk! If you really want Vorpal on your Energy sidearm, here ya go.
-
-  ```
+```
+| Variant | Chance |
+|:-|-:|
+| 🧵🧵🧵🌟 | 0.9% |
+| 🧵🧵🧵 (-masterworks) | 1.8% |
+#### **Basic Super Shredder**
+No first column perk! If you really want Vorpal on your Energy sidearm, here ya go.
+```
   Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling
   Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
   Perks 1 [100%]: *
   Perks 2 [ 16%]: Vorpal
   MWorks  [ 50%]: Stability MW, Range MW
-  ```
-* **(PvP) "Basic Shredder" ⚙️ (Minus Masterworks) - 10.9% chance**: Same as the above without a Masterwork restriction.
-
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling
-  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Flared Magwell, Tactical Mag
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Vorpal
-  MWorks  [100%]: *
-  ```
-## Seventh Seraph SI-2 - PvE
-*For all possible perks, check out **Seventh Seraph SI-2** over on [light.gg](https://www.light.gg/db/items/3937866388/seventh-seraph-si-2/)*
-
-
+```
+| Variant | Chance |
+|:-|-:|
+| ⚙⚙⚙🌟 | 5.5% |
+| ⚙⚙⚙ (-masterworks) | 10.9% |
+### Seventh Seraph SI-2 - PvE
 Like all other Seraph weapons, the SI-2 contributes to the generation of Warmind cells in PvE. If that's not your thing, you can pretty much pass on this weapon full stop. Since it can roll with Dragonfly, it could have made beautiful music with the `Wrath of Rasputin` Warmind mod: `Solar splash damage final blows have a chance to create Warmind Cells`. Unfortunately the SI-2 is a Void weapon 👿
 
 That being said, there are a few combos that could prove interesting for the discerning collector / sidearm aficionado.
-* **(PvE) "Sparks Flying" 🎇 - 2.8% chance**: The SI-2 is the only sidearm in the game that can roll with both Demolitionist and Dragonfly. That's exciting because Demolitionist counts the Dragonfly collateral kills towards getting your grenade back. Don't forget the `Dragonfly Spec` mod from Ada-1!
-
-  ```
+#### **Sparks Flying**
+The SI-2 is the only sidearm in the game that can roll with both Demolitionist and Dragonfly. That's exciting because Demolitionist counts the Dragonfly collateral kills towards getting your grenade back. Don't forget the `Dragonfly Spec` mod from Ada-1!
+```
   Barrels [100%]: *
   Mags    [100%]: *
   Perks 1 [ 16%]: Demolitionist
   Perks 2 [ 16%]: Dragonfly
   MWorks  [100%]: *
-  ```
-* **(PvE) "Champion Slayer" 🏆 - 2.8% chance**: Sidearms are all the rage in the Season 10 Artifact, and certainly will be again at some point in the future. If you want to dump rounds in to Champions, you don't have any other options in this slot.
-
-  ```
+```
+| Variant | Chance |
+|:-|-:|
+| 🎇 | 2.8% |
+#### **Champion Slayer**
+Sidearms are all the rage in the Season 10 Artifact, and certainly will be again at some point in the future. If you want to dump rounds in to Champions, you don't have any other options in this slot.
+```
   Barrels [100%]: *
   Mags    [100%]: *
   Perks 1 [ 16%]: Full Auto Trigger System
   Perks 2 [ 16%]: Vorpal
   MWorks  [100%]: *
-  ```
-* **(PvE) "You're Trapped In Here With Me" 🏢 - 2.8% chance**: Like Grave Robber and Swashbuckler, these two perks play super well off each other. If you love sidearms, considering adding this to your collection. You'll do some serious damage during Seraph Tower events.
-
-  ```
+```
+| Variant | Chance |
+|:-|-:|
+| 🏆 | 2.8% |
+#### **You're Trapped In Here With Me**
+Like Grave Robber and Swashbuckler, these two perks play super well off each other. If you love sidearms, considering adding this to your collection. You'll do some serious damage during Seraph Tower events.
+```
   Barrels [100%]: *
   Mags    [100%]: *
   Perks 1 [ 16%]: Threat Detector
   Perks 2 [ 16%]: Surrounded
   MWorks  [100%]: *
-  ```
+```
+| Variant | Chance |
+|:-|-:|
+| 🏢 | 2.8% |
 ## Seventh Seraph VY-7 - PvP
 *For all possible perks, check out **Seventh Seraph VY-7** over on [light.gg](https://www.light.gg/db/items/766323545/seventh-seraph-vy-7/)*
 
