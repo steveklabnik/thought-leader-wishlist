@@ -6,9 +6,13 @@ PERK_MAP = YAML.load_file('perk_ids.yml')
 
 class Roll
 
-  def initialize(item_id, name, traits, perks)
+  attr_reader :name
+  attr_reader :roll_name
+
+  def initialize(item_id, fq_name, roll_name, traits, perks)
     @item_id = item_id
-    @name = name
+    @name = fq_name
+    @roll_name = roll_name
     @traits = traits
     @perks = perks
   end
@@ -18,6 +22,17 @@ class Roll
       output.puts(wishlist_comment())
       wishlist_roll_data(output)
     end.string
+  end
+
+  def probability
+    columnar_probabilities = []
+    @perks.each do |perk_name, acceptable_perks|
+      good_perks = acceptable_perks.length
+      total_perks = @traits[perk_name]['t']
+      available_slots = @traits[perk_name]['c']
+      columnar_probabilities << Probability.column_probability(good_perks, total_perks, available_slots)
+    end
+    columnar_probabilities.reduce(:*) * 100
   end
 
   def to_s
@@ -59,17 +74,6 @@ class Roll
     perk_ids[row].each do |p|
       write_roll(output, perk_ids, roll + [p], row + 1)
     end
-  end
-
-  def probability
-    columnar_probabilities = []
-    @perks.each do |perk_name, acceptable_perks|
-      good_perks = acceptable_perks.length
-      total_perks = @traits[perk_name]['t']
-      available_slots = @traits[perk_name]['c']
-      columnar_probabilities << Probability.column_probability(good_perks, total_perks, available_slots)
-    end
-    columnar_probabilities.reduce(:*) * 100
   end
 
 end

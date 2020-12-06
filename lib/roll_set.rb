@@ -1,4 +1,13 @@
+require 'probability'
 require 'roll'
+
+TRAIT_PRETTY = [
+  {:key => 'barrels',     :label => 'Barrels'},
+  {:key => 'magazines',   :label => 'Mags   '},
+  {:key => 'perks1',      :label => 'Perks 1'},
+  {:key => 'perks2',      :label => 'Perks 2'},
+  {:key => 'masterworks', :label => 'MWorks '},
+]
 
 class RollSet
 
@@ -7,6 +16,7 @@ class RollSet
     @item_id = item_id
     @traits = traits
     @name = roll_data['name']
+    @overview = roll_data['overview']
     @base_perks = roll_data['perks']['base']
     @extended_perks = roll_data['perks']['extensions']
     @variants = roll_data['variants']
@@ -21,6 +31,33 @@ class RollSet
       output.puts(r)
     end
     output.string
+  end
+
+  def generate_thoughts_txt
+    StringIO.new.tap do |output|
+      output.puts("#### **#{@name}**")
+      
+      output.puts(@overview)
+
+      output.puts('```')
+      TRAIT_PRETTY.each do |t|
+        good_perks = @base_perks[t[:key]].length
+        total_perks = @traits[t[:key]]['t']
+        available_slots = @traits[t[:key]]['c']
+
+        p = Probability.column_probability(good_perks, total_perks, available_slots)
+        
+        message = (p.to_i == 1) ? '*' : (@base_perks[t[:key]].join(', '))
+        output.puts("  #{t[:label]} [%3d%%]: #{message}" % [p * 100])
+      end
+      output.puts('```')
+      
+      output.puts('| Variant | Chance |')
+      output.puts('|:-|-:|')
+      @rolls.each do |r|
+        output.puts("| #{r.roll_name} | %0.1f%% |" % [r.probability()])
+      end
+    end.string
   end
 
   def generate_wishlist_txt
@@ -62,9 +99,9 @@ class RollSet
         perks[r].clear
       end
 
-      variant_name = "(%s) %s %s" % [@activity_name, @name, roll_name]
+      fq_name = "(%s) %s %s" % [@activity_name, @name, roll_name]
 
-      @rolls << Roll.new(@item_id, variant_name, @traits, perks)
+      @rolls << Roll.new(@item_id, fq_name, roll_name, @traits, perks)
     end
   end
 
