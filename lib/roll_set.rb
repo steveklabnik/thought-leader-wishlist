@@ -83,19 +83,19 @@ class RollSet
 
   def create_rolls
     @variants.each do |roll_name|
+      # puts "Working on variant; activity=#{@activity_name}, weapon=#{@name}, roll=#{roll_name}'"
+
       perks = Marshal.load(Marshal.dump(@base_perks))
     
-      # additions = []
-      # matches = roll_name.match(/\+(\w+)?/)
-      # additions = matches.captures if matches
-      # additions.each do |a|
-      #   perks[a].merge(@extended_perks[a])
-      # end
+      additions = roll_name.scan(/\+\w+/).map{|p| p.sub('+','')}
+      additions.each do |a|
+        perks[a] = Marshal.load(Marshal.dump(@extended_perks[a]))
+      end
 
-      removals = []
-      matches = roll_name.match(/-(\w+)?/)
-      removals = matches.captures if matches
+      removals = roll_name.scan(/-\w+/).map{|p| p.sub('-','')}
       removals.each do |r|
+        # TODO: Backfill test
+        raise "Cannot find base perk to remove '#{r}'; activity=#{@activity_name}, weapon=#{@name}, roll=#{roll_name}'" unless perks.has_key?(r)
         perks[r].clear
       end
 
