@@ -70,17 +70,6 @@ class RollSet
 
   private
 
-# GOLD MASTER
-# //notes:(PvP) Slif's "Full Auto Super Shredder" 💥Collector's Edition / 0.9% chance
-# //notes:(PvP) "Full Auto Super Shredder" 💥(Minus Masterworks) / 1.8% chance
-# //notes:(PvP) "Threat Level Super Shredder" 🧵 / 0.9% chance
-# //notes:(PvP) "Threat Level" 🧵(Minus Masterworks) / 1.8% chance
-# //notes:(PvP) "Basic Super Shredder" ⚙️ / 5.5% chance
-# //notes:(PvP) "Basic Shredder" ⚙️ (Minus Masterworks) / 10.9% chance
-# //notes:(PvE) "Sparks Flying" 🎇 / 2.8% chance
-# //notes:(PvE) "Champion Slayer" 🏆 / 2.8% chance
-# //notes:(PvE) "You're Trapped In Here With Me" 🏢 / 2.8% chance
-
   def create_rolls
     @variants.each do |roll_name|
       # puts "Working on variant; activity=#{@activity_name}, weapon=#{@name}, roll=#{roll_name}'"
