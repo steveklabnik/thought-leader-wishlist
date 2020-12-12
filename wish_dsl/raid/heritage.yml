@@ -42,10 +42,10 @@ activities:
         perks:
           base:
             barrels: [Full Bore, Corkscrew Rifling, Smallbore]
-            magazines: [Extended Mag, Assault Mag]
+            magazines: [Tactical Mag, Extended Mag, Assault Mag]
             perks1: [Reconstruction]
             perks2: [Recombination]
-            masterworks: [Range MW]
+            masterworks: [Handling MW, Range MW]
         variants:
           - 📈📈📈📈🌟 Collector's Edition
           - 📈📈📈 CE (-barrels)

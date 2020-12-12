@@ -3383,19 +3383,19 @@ Reconstruction is a new perk that currently only drops on rolls from the DSC Rai
 None of the traditional damage perks (Rampage, Kill Clip, Vorpal) are available on this gun, so our best bet for the 4th column is another new perk, Recombination.  Final blows from all "elemental" sources (so, everything that isn't this shotgun) stack up to 10x.  Each stack will add 10% for the next Heritage shot (so up to 2x damage).
 ```
   Barrels [ 58%]: Full Bore, Corkscrew Rifling, Smallbore
-  Mags    [ 52%]: Extended Mag, Assault Mag
+  Mags    [ 71%]: Tactical Mag, Extended Mag, Assault Mag
   Perks 1 [ 16%]: Reconstruction
   Perks 2 [ 16%]: Recombination
-  MWorks  [ 25%]: Range MW
+  MWorks  [ 50%]: Handling MW, Range MW
 ```
 | Variant | Chance |
 |:-|-:|
-| 📈📈📈📈🌟 Collector's Edition | 0.2% |
-| 📈📈📈 CE (-barrels) | 0.4% |
-| 📈📈📈️ CE (-magazines) | 0.4% |
-| 📈📈📈 CE (-masterworks) | 0.8% |
-| 📈📈 (-barrels, -magazines) | 0.7% |
-| 📈📈️ (-barrels, -masterworks) | 1.5% |
+| 📈📈📈📈🌟 Collector's Edition | 0.6% |
+| 📈📈📈 CE (-barrels) | 1.0% |
+| 📈📈📈️ CE (-magazines) | 0.8% |
+| 📈📈📈 CE (-masterworks) | 1.2% |
+| 📈📈 (-barrels, -magazines) | 1.4% |
+| 📈📈️ (-barrels, -masterworks) | 2.0% |
 | 📈📈️ (-magazines, -masterworks) | 1.6% |
 | 📈️ (-barrels, -magazines, -masterworks) | 2.8% |
 ### Heritage - PvP
