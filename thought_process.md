@@ -27,13 +27,8 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * Timelines' Vertex ([PvP](#timelines-vertex---pvp))
 * Truthteller ([PvP](#truthteller---pvp), [PvE](#truthteller---pve))
 
-**Iron Banner**
-* Bite of the Fox ([PvP](#bite-of-the-fox---pvp))
-* Crimil's Dagger ([PvP](#crimils-dagger---pvp), [PvE](#crimils-dagger---pve))
-* Fool's Remedy ([PvP](#fools-remedy---pvp), [PvE](#fools-remedy---pve))
-* Orewing's Maul ([PvP](#orewings-maul---pvp), [PvE](#orewings-maul---pve))
-* Swarm of the Raven ([PvE](#swarm-of-the-raven---pve))
-* Talons of the Eagle ([PvP](#talons-of-the-eagle---pvp), [PvE](#talons-of-the-eagle---pve))
+**Iron Banner (Year 4)**
+* The Steady Hand ([PvP](#the-steady-hand---pvp), [PvE](#the-steady-hand---pve))
 
 **Raids**
 * Heritage ([PvE](#heritage---pve), [PvP](#heritage---pvp))
@@ -70,6 +65,14 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * Steelfeather Repeater ([PvP](#steelfeather-repeater---pvp), [PvE](#steelfeather-repeater---pve))
 * Traveler's Judgement 5 ([PvP](#travelers-judgement-5---pvp), [PvE](#travelers-judgement-5---pve))
 * Trophy Hunter ([PvP](#trophy-hunter---pvp), [PvE](#trophy-hunter---pve))
+
+**Iron Banner (Year 3)**
+* Bite of the Fox ([PvP](#bite-of-the-fox---pvp))
+* Crimil's Dagger ([PvP](#crimils-dagger---pvp), [PvE](#crimils-dagger---pve))
+* Fool's Remedy ([PvP](#fools-remedy---pvp), [PvE](#fools-remedy---pve))
+* Orewing's Maul ([PvP](#orewings-maul---pvp), [PvE](#orewings-maul---pve))
+* Swarm of the Raven ([PvE](#swarm-of-the-raven---pve))
+* Talons of the Eagle ([PvP](#talons-of-the-eagle---pvp), [PvE](#talons-of-the-eagle---pve))
 
 ---
 ## Black Scorpion-4sr - PvP
@@ -2270,1107 +2273,98 @@ This weapon is void and works really well for Voidlocks running Nezarac's Sin.  
   Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
-## Bite of the Fox - PvP
-*For all possible perks, check out **Bite of the Fox** over on [light.gg](https://www.light.gg/db/items/3169616514/bite-of-the-fox/)*
+## The Steady Hand
+*For all possible perks, check out **The Steady Hand** over on [light.gg](https://www.light.gg/db/items/2220884262/the-steady-hand/)*
 
+The Steady Hand (TSH) is a 120 RPM "Aggressive Frame" Kinetic Hand Cannon, re-issued in Year 4 with random rolls. Prior to Season 12 in November 2020, Aggressive Frames were bumped from 110 RPM to 120 RPM as part of a [large scale Hand Cannon rework](https://www.bungie.net/en/News/Article/49676). The general consensus thus far is that TSH is terrific.
 
-Bite of the Fox is a Kinetic-slot, Aggressive Frame sniper. It's been in the Iron Banner loot pool since Season 4 and has been re-issued in Season 11. This means if you *had* a BOTF, it will hit the level cap this season, so you'll want to get a new roll to take you past Season 11.
+> *The Steady Hand is probably the most consistent legendary 120 RPM aggressive hand cannon.* - Drewsky
 
-Aggressive Frame snipers are the only ones that can one-shot every super in the Crucible. Every super has a different damage-resistance tier that affects your ability to do that however Aggressive Frames do not care about such things.
+* [Fallout - S-Tier Legendary Hand Cannon: Steady Hand GOD ROLL](https://www.youtube.com/watch?v=46F_0m3r6GE)
+* [Drewsky - The Steady Hand God Roll Is the Most Consistent Legendary Hand Cannon](https://www.youtube.com/watch?v=kmdPE7KUrlQ)
+* [DFP - THE STEADY HAND IS THE BEST 120 HAND CANNON!](https://www.youtube.com/watch?v=--Pf0Uvpprg)
+* [IFrostBolt - STEADYHAND = Run If You See This Hand Cannon](https://www.youtube.com/watch?v=4RVzmlxjq-I)
+* [The Steady Hand UPDATED Review (The God Rolls)](https://www.youtube.com/watch?v=ne0XkYP3joU)
 
-The perk pool is unchanged in the re-issue, so we have a pretty simple set of rolls we're chasing.
+What I love about these videos (and this set of perks) is that there is not absolute agreement on which roll is the best.
 
-With respect to PvE below, there's no Triple- Tap, Fourth Time's the Charm, Vorpal, etc. so I'd suggest you use something else in PvE in the Kinetic slot. If you absolutely had to have one, maybe [`Firmly Planted` + `Field Prep`]?
-* **(PvP) "Snappy Opener" 🤞🤞🤞🌟 Collector's Edition - 0.3% chance**: This series of rolls is based around Snapshot and Accuracy-increasing final-column perks. After that, we're looking for as much `Range` and `Handling` as we can get.
+Iron Banner weapons tend to shine in PvP, so we won't feature many PvE builds.
+### The Steady Hand - PvP
+With Bungie's announcement that they can now have different falloff tiers across Hand Cannons (see patch notes above) the 120s are, perhaps oddly, now able to compete with Pulse Rifles. That, plus the fact that this is a controller-centric wishlist, means we'll be favouring Stability and Aim Assist perks.
 
-  ```
-  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 20%]: Snapshot
-  Perks 2 [ 16%]: Opening Shot
-  MWorks  [ 50%]: Range MW, Handling MW
-  ```
-* **(PvP) "Snappy Opener" 🤞🤞🤞 CE (- Masterworks) - 0.7% chance**: Same as the CE, minus Masterworks.
-
-  ```
-  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 20%]: Snapshot
-  Perks 2 [ 16%]: Opening Shot
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Snappy  Opener" 🤞🤞🤞 CE (- Magazines) - 1.4% chance**: Same as the CE, minus Magazines.
-
-  ```
-  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Snapshot
-  Perks 2 [ 16%]: Opening Shot
-  MWorks  [ 50%]: Range MW, Handling MW
-  ```
-* **(PvP) "Snappy  Opener" 🤞🤞 CE (- Magazines - Masterworks) - 2.8% chance**: Same as the CE, minus Magazines and Masterworks.
-
-  ```
-  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Snapshot
-  Perks 2 [ 16%]: Opening Shot
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Snappy  Opener" 🤞 (Baseline) - 3.3% chance**: These two perks form the core of the roll.
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Snapshot
-  Perks 2 [ 16%]: Opening Shot
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Mobile Opener" 🏃‍♂️🏃‍♂️🏃‍♂️🌟 Collector's Edition - 0.3% chance**: Same as the above set of rolls, but with `Moving Target` instead of `Opening Shot`.
-
-  ```
-  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 20%]: Snapshot
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [ 50%]: Range MW, Handling MW
-  ```
-* **(PvP) "Mobile Opener" 🏃‍♂️🏃‍♂️🏃‍♂️ CE (- Masterworks) - 0.7% chance**: Same as the CE, minus Masterworks.
-
-  ```
-  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 20%]: Snapshot
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Mobile Opener" 🏃‍♂️🏃‍♂️🏃‍♂️ CE (- Magazines) - 1.4% chance**: Same as the CE, minus Magazines.
-
-  ```
-  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Snapshot
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [ 50%]: Range MW, Handling MW
-  ```
-* **(PvP) "Mobile Opener" 🏃‍♂️🏃‍♂️ CE (- Magazines - Masterworks) - 2.8% chance**: Same as the CE, minus Magazines and Masterworks.
-
-  ```
-  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Snapshot
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Mobile Opener" 🏃‍♂️ (Baseline) - 3.3% chance**: These two perks form the core of the roll.
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Snapshot
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [100%]: *
-  ```
-* **(PvP) Drewsky's "Planted Opener" 🌱🌱🌱🌟 Collector's Edition - 0.3% chance**: As suggested by Drewsky in his [Bite of the Fox Has a Unique "God Roll" to Farm For](https://www.youtube.com/watch?v=3GLfGLa-oYg) video, here's a similar set of rolls based on `Firmly Planted`.
-
-  ```
-  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Opening Shot
-  MWorks  [ 50%]: Range MW, Handling MW
-  ```
-* **(PvP) Drewsky's "Planted Opener" 🌱🌱🌱 CE (- Masterworks) - 0.7% chance**: Same as the CE, minus Masterworks.
-
-  ```
-  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Opening Shot
-  MWorks  [100%]: *
-  ```
-* **(PvP) Drewsky's "Planted Opener" 🌱🌱🌱 CE (- Magazines) - 1.4% chance**: Same as the CE, minus Magazines.
-
-  ```
-  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Opening Shot
-  MWorks  [ 50%]: Range MW, Handling MW
-  ```
-* **(PvP) Drewsky's "Planted Opener" 🌱🌱 CE (- Magazines - Masterworks) - 2.8% chance**: Same as the CE, minus Magazines and Masterworks.
-
-  ```
-  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Opening Shot
-  MWorks  [100%]: *
-  ```
-* **(PvP) Drewsky's "Planted Opener" 🌱 (Baseline) - 3.3% chance**: These two perks form the core of the roll.
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Opening Shot
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Planted Dissonance" 🤔🤔🤔🌟 Collector's Edition - 0.3% chance**: Similar to the above set of `Firmly Planted`-based rolls, but this time with `Moving Target` in the final slot. Oddly, you get the `Accuracy` benefit of `Moving Target` without actually moving.
-
-  ```
-  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [ 50%]: Range MW, Handling MW
-  ```
-* **(PvP) "Planted Dissonance" 🤔🤔🤔 CE (- Masterworks) - 0.7% chance**: Same as the CE, minus Masterworks.
-
-  ```
-  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Planted Dissonance" 🤔🤔🤔 CE (- Magazines) - 1.4% chance**: Same as the CE, minus Magazines.
-
-  ```
-  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [ 50%]: Range MW, Handling MW
-  ```
-* **(PvP) "Planted Dissonance" 🤔🤔 CE (- Magazines - Masterworks) - 2.8% chance**: Same as the CE, minus Magazines and Masterworks.
-
-  ```
-  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Planted Dissonance" 🤔 (Baseline) - 3.3% chance**: These two perks form the core of the roll.
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Moving Target
-  MWorks  [100%]: *
-  ```
-## Crimil's Dagger - PvP
-*For all possible perks, check out **Crimil's Dagger** over on [light.gg](https://www.light.gg/db/items/4292849692/crimils-dagger/)*
-
-
-Crimil's is a 110 RPM Kinetic, Aggressive Frame Hand Cannon that has been re-issued in Season 11 with a higher power cap. It features the same perk pool its always had and since 110s haven't been touched over the years dince Destiny 2's launch, it's going to be a pretty limited set of perks we're interested in.
-
-I wouldn't call 110s the meta (far from it) or really all that competitive at the moment. My guess is that new perks will appear on these to create interesting or alternative options, because the 110s hit so hard it would be tough to imagine how they could otherwise make them stronger without unbalancing them.
-
-There is one niche where they **really** shine, and that's if you want to use them for cleanup kills after zinging someone with a bow or sniper body shot. They are the only Hand Cannon archetype where a crit can OHK-cleanup in that playstyle. In terms of 1:1 duels, they punish you for missing and you will not adequately flinch your opponents compared to ARs, 150 HCs, Pulses, etc.
-* **(PvP) "Magnetic Bullets" 🧲🧲🧲🌟 Collector's Edition - 0.0% chance**: One of the rare weapons that can roll with both `Moving Target` and `Opening Shot` at the same time. The 110s have a punishing kick so after that, we're going for `Stability`.
-
-  ```
+> *You don't really need to worry about Range in my opinion so much on these hand cannons since they already have so much to begin with. Not to say it isn't valuable, but I think that it might be worth boosting other aspects of this weapon."* - Drewsky
+#### **Locked On**
+Moving Target and Iron Gaze are going to bump Target Acquisition immensely. You give up a few meters of damage falloff, and in return significantly increased accuracy.
+```
   Barrels [ 33%]: Steadyhand HCS
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 14%]: Moving Target
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Magnetic Bullets" 🧲🧲🧲 (- Masterwork) - 0.2% chance**
-
-  ```
-  Barrels [ 33%]: Steadyhand HCS
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 14%]: Moving Target
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Magnetic Bullets" 🧲🧲🧲 (- Sights) - 0.1% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 14%]: Moving Target
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Magnetic Bullets" 🧲🧲🧲 (- Magazines) - 0.2% chance**
-
-  ```
-  Barrels [ 33%]: Steadyhand HCS
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Moving Target
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Magnetic Bullets" 🧲🧲🧲 (+ Sights) - 0.1% chance**
-
-  ```
-  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 14%]: Moving Target
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Magnetic Bullets" 🧲🧲🧲 (+ Magazines) - 0.1% chance**
-
-  ```
-  Barrels [ 33%]: Steadyhand HCS
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 14%]: Moving Target
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Magnetic Bullets" 🧲🧲🧲 (+ Sights + Magazines) - 0.3% chance**
-
-  ```
-  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 14%]: Moving Target
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Magnetic Bullets" 🧲🧲 (+ Sights + Magazines - Masterworks) - 1.0% chance**
-
-  ```
-  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 14%]: Moving Target
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Magnetic Bullets" 🧲🧲 (+ Sights - Magazines - Masterworks) - 1.6% chance**
-
-  ```
-  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Moving Target
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Magnetic Bullets" 🧲 (Baseline) - 2.0% chance**: These two perks form the core of this roll and without them, you've got a slow, clunky, punishing 110 RPM HC. I mean even with them, it's still pretty slow and clunky. YMMV 🤪
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Moving Target
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Fast Action" ⏩⏩⏩🌟 Collector's Edition - 0.0% chance**: The 110s have low Handling because they're supposed to embody the "Cannon" part of "Hand Cannon". Adding Snapshot to the mix can make all the difference in how a 110 feels.
-
-  ```
-  Barrels [ 33%]: Steadyhand HCS
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 14%]: Snapshot
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Fast Action" ⏩⏩⏩ (- Masterwork) - 0.2% chance**
-
-  ```
-  Barrels [ 33%]: Steadyhand HCS
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 14%]: Snapshot
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Fast Action" ⏩⏩⏩ (- Sights) - 0.1% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 14%]: Snapshot
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Fast Action" ⏩⏩⏩ (- Magazines) - 0.2% chance**
-
-  ```
-  Barrels [ 33%]: Steadyhand HCS
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Snapshot
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Fast Action" ⏩⏩⏩ (+ Sights) - 0.1% chance**
-
-  ```
-  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 14%]: Snapshot
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Fast Action" ⏩⏩⏩ (+ Sights + Magazines) - 0.3% chance**
-
-  ```
-  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 14%]: Snapshot
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Fast Action" ⏩⏩ (+ Sights + Magazines - Masterworks) - 1.0% chance**
-
-  ```
-  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 14%]: Snapshot
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Fast Action" ⏩⏩ (+ Sights - Magazines - Masterworks) - 1.6% chance**
-
-  ```
-  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Snapshot
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Fast Action" ⏩ (Baseline) - 2.0% chance**: These two perks form the core of this roll and without them, you've got a slow, clunky, punishing 110 RPM HC. I mean even with them, it's still pretty slow and clunky. YMMV 🤪
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Snapshot
-  Perks 2 [ 14%]: Opening Shot
-  MWorks  [100%]: *
-  ```
-## Crimil's Dagger - PvE
-*For all possible perks, check out **Crimil's Dagger** over on [light.gg](https://www.light.gg/db/items/4292849692/crimils-dagger/)*
-
-
-The perk pool here is before the new good stuff started rolling out, so there's not too many surprises. The only damage-dealing perk is `Kill Clip` but we have a few ways to reload quickly.
-
-Part of the added challenge with these old weapons is that the perk pools are so large the chances of getting what you want is quite low.
-* **(PvE) "Gunslinger" 🤠🤠🤠🌟 Collector's Edition - 0.0% chance**: Fast reload and as much `Range` as we can get.
-
-  ```
-  Barrels [ 33%]: Sureshot HCS
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 14%]: Outlaw
-  Perks 2 [ 14%]: Kill Clip
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Gunslinger" 🤠🤠🤠 CE (+ Sights) - 0.1% chance**
-
-  ```
-  Barrels [ 93%]: Sureshot HCS, Crossfire HCS, Hitmark HCS, Truesight HCS
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 14%]: Outlaw
-  Perks 2 [ 14%]: Kill Clip
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Gunslinger" 🤠🤠🤠 CE (- Masterwork) - 0.5% chance**
-
-  ```
-  Barrels [ 93%]: Sureshot HCS, Crossfire HCS, Hitmark HCS, Truesight HCS
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 14%]: Outlaw
-  Perks 2 [ 14%]: Kill Clip
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Gunslinger" 🤠🤠🤠 CE (- Magazines) - 0.5% chance**
-
-  ```
-  Barrels [ 93%]: Sureshot HCS, Crossfire HCS, Hitmark HCS, Truesight HCS
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Outlaw
-  Perks 2 [ 14%]: Kill Clip
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Gunslinger" 🤠🤠🤠 CE (- Sights) - 0.1% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 14%]: Outlaw
-  Perks 2 [ 14%]: Kill Clip
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Gunslinger" 🤠🤠 CE (- Sights - Mags) - 0.5% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Outlaw
-  Perks 2 [ 14%]: Kill Clip
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Gunslinger" 🤠 (Baseline) - 2.0% chance**: Baseline combo to make this usable in PvE.
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 14%]: Outlaw
-  Perks 2 [ 14%]: Kill Clip
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Ammo Waster" 🗑🗑🗑🌟 Collector's Edition - 0.3% chance**: Replacing our need for `Outlaw` with `Drop Mag`, then as much `Range` as we can get.
-
-  ```
-  Barrels [ 33%]: Sureshot HCS
-  Mags    [ 25%]: Drop Mag
-  Perks 1 [100%]: *
-  Perks 2 [ 14%]: Kill Clip
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Ammo Waster" 🗑🗑🗑 CE (+ Sights) - 0.8% chance**
-
-  ```
-  Barrels [ 93%]: Sureshot HCS, Crossfire HCS, Hitmark HCS, Truesight HCS
-  Mags    [ 25%]: Drop Mag
-  Perks 1 [100%]: *
-  Perks 2 [ 14%]: Kill Clip
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Ammo Waster" 🗑🗑🗑 CE (- Masterwork) - 3.3% chance**
-
-  ```
-  Barrels [ 93%]: Sureshot HCS, Crossfire HCS, Hitmark HCS, Truesight HCS
-  Mags    [ 25%]: Drop Mag
-  Perks 1 [100%]: *
-  Perks 2 [ 14%]: Kill Clip
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Ammo Waster" 🗑🗑🗑 CE (- Sights) - 0.9% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 25%]: Drop Mag
-  Perks 1 [100%]: *
-  Perks 2 [ 14%]: Kill Clip
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Ammo Waster" 🗑🗑 (Baseline) - 3.6% chance**: Baseline combo to make this usable in PvE.
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 25%]: Drop Mag
-  Perks 1 [100%]: *
-  Perks 2 [ 14%]: Kill Clip
-  MWorks  [100%]: *
-  ```
-## Fool's Remedy - PvP
-*For all possible perks, check out **Fool's Remedy** over on [light.gg](https://www.light.gg/db/items/65611680/the-fools-remedy/)*
-
-
-Fool's Remedy is "SUROS Rapid-Fire" (i.e. fully automatic) 450 RPM Sidearm that has been re-issued in Season 11's Iron Banner. The Remedy is the only SUROS-RF sidearm in the game apart from `Dead Man Walking` whose power cap is the current Season (11).
-
-If you're going to chase a single weapon from Season 11 Iron Banner (thus far), the Fool's Remedy is the one to go for. People are raving about it because of how it performs at base, its available perks, and that those perks now include the new Iron Banner specific perks: `Iron Gaze` and `Iron Grip`.
-
-* Aztecross - ["Fools Remedy Review (Fantastic Sidearm)"](https://www.youtube.com/watch?v=rOqRgxg1dIA)
-* Destiny Fun Police - ["The Fools Remedy - Returning Iron Banner Sidearm"](https://www.youtube.com/watch?v=4zeeXHNls1M)
-* IFrostBolt - ["The Must Have Sidearm (Fool's Remedy)"](https://www.youtube.com/watch?v=g_6qeCktTYY)
-* MTashed - ["This Sidearm Suprised Me! The Fool's Remedy Iron Banner Sidearm"](https://www.youtube.com/watch?v=vmIhv_j7Yuo)
-* TrueVanguard - ["This New Iron Banner Sidearm is NUTS"](https://www.youtube.com/watch?v=frkRY-HSUQE)
-
-As is pleasantly becoming the norm in Season 11, it's hard to pick a single "god roll" for this sidearm. We're trending towards a lack of unequivocally "best" rolls (or even best-per-input-type) and that's going to make the Destiny sandbox a lot more interesting, especially as the first batch of weapons sunset this season.
-
-We're going to proceed with these starting from the last perk and working our way backwards. I agree with CoolGuy that the two most important perks are the final columns and you build the rest of the roll around them. Fortunately there are so many great possibilities here, you stand a good chance of landing multiple rolls!
-* **(PvP) "In my Sights" 👓👓👓🌟 Collector's Edition - 1.0% chance**: Working backwards from `Iron Gaze` (+20 AA), we're going for as much `Stability` as we can. We'd end choosing the rest of the roll similarly if we landed `Kill Clip` or `Eye of the Storm` in the final slot, so we'll combine these rolls.
-
-  ```
-  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
   Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 33%]: Moving Target, Pulse Monitor
-  Perks 2 [ 50%]: Iron Gaze, Eye of the Storm, Kill Clip
+  Perks 1 [ 16%]: Moving Target
+  Perks 2 [ 16%]: Iron Gaze
   MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "In my Sights" 👓👓👓 CE (- Magazines) - 3.9% chance**
+```
+| Variant | Chance |
+|:-|-:|
+| 🔒🔒🔒🌟 Collector's Edition | 0.1% |
+#### **What Bloom?**
 
-  ```
-  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
-  Mags    [100%]: *
-  Perks 1 [ 33%]: Moving Target, Pulse Monitor
-  Perks 2 [ 50%]: Iron Gaze, Eye of the Storm, Kill Clip
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "In my Sights" 👓👓👓 CE (- Masterworks) - 3.9% chance**
-
-  ```
-  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
+```
+  Barrels [ 33%]: Steadyhand HCS
   Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 33%]: Moving Target, Pulse Monitor
-  Perks 2 [ 50%]: Iron Gaze, Eye of the Storm, Kill Clip
-  MWorks  [100%]: *
-  ```
-* **(PvP) "In my Sights" 👓👓 CE (- Magazines - Masterworks) - 15.6% chance**
-
-  ```
-  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
-  Mags    [100%]: *
-  Perks 1 [ 33%]: Moving Target, Pulse Monitor
-  Perks 2 [ 50%]: Iron Gaze, Eye of the Storm, Kill Clip
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Sticky Fingers" 🧤🧤🧤🌟 Collector's Edition - 0.6% chance**: Working backwards from `Iron Grip` (+20 Stability), we can free up some of our other columns for non-Stability enhancing perks.
-
-  ```
-  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
-  Mags    [ 46%]: High-Caliber Rounds, Ricochet Rounds
-  Perks 1 [ 33%]: Moving Target, Pulse Monitor
+  Perks 1 [ 16%]: Moving Target
   Perks 2 [ 16%]: Iron Grip
   MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Sticky Fingers" 🧤🧤🧤 CE (- Magazines) - 1.3% chance**
-
-  ```
-  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
-  Mags    [100%]: *
-  Perks 1 [ 33%]: Moving Target, Pulse Monitor
-  Perks 2 [ 16%]: Iron Grip
+```
+| Variant | Chance |
+|:-|-:|
+| 💐💐💐🌟 Collector's Edition | 0.1% |
+#### **Demon of Sixes Street**
+This is primarily a roll for sixes where TSH can shine as a cleanup weapon with a higher chance of chaining kills. Keep in mind that a `Resilience` of `5` cancels out the Swashbuckler two-tap from full health but in sixes that's not always what you're dealing with. If you can pair this with a ranged melee (Swashbuckler x 5) you'llI wouldn't suggest this roll for Comp or Trials.
+```
+  Barrels [ 60%]: Steadyhand HCS, Fastdraw HCS
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Outlaw
+  Perks 2 [ 16%]: Swashbuckler
   MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Sticky Fingers" 🧤🧤🧤 CE (- Masterworks) - 2.4% chance**
-
-  ```
-  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
-  Mags    [ 46%]: High-Caliber Rounds, Ricochet Rounds
-  Perks 1 [ 33%]: Moving Target, Pulse Monitor
-  Perks 2 [ 16%]: Iron Grip
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Sticky Fingers" 🧤🧤 CE (- Magazines - Masterworks) - 5.2% chance**
-
-  ```
-  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
-  Mags    [100%]: *
-  Perks 1 [ 33%]: Moving Target, Pulse Monitor
-  Perks 2 [ 16%]: Iron Grip
-  MWorks  [100%]: *
-  ```
-## Fool's Remedy - PvE
-*For all possible perks, check out **Fool's Remedy** over on [light.gg](https://www.light.gg/db/items/65611680/the-fools-remedy/)*
-
-
-There's only one damage-boosting perk in the final column, so this will be a straightforward set of rolls.
-* **(PvE) "Gunslinger's Frenzy" 🤠🤠🤠🌟 Collector's Edition - 0.4% chance**: Fast reload and as much `Range` as we can get.
-
-  ```
-  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
-  Mags    [ 64%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag
-  Perks 1 [ 16%]: Feeding Frenzy
-  Perks 2 [ 16%]: Kill Clip
+```
+| Variant | Chance |
+|:-|-:|
+| 👹👹👹🌟 Collector's Edition | 0.1% |
+#### **Float Like a Butterfly**
+If you pair a Quickdraw TSH with a breach-load GL with a Quick Access Sling mod, you have a super powerful combination. Pairing it with Le Monarque has a similar effect: massive damage with an opening shot from your Energy weapon and a single shot from TSH to clean up. With Quickdraw and Snapshot, this Aggressive Frame can feel like a Lightweight.
+```
+  Barrels [ 60%]: Fastdraw HCS, Steadyhand HCS
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Quickdraw
+  Perks 2 [ 16%]: Snapshot
+  MWorks  [ 25%]: Stability MW
+```
+| Variant | Chance |
+|:-|-:|
+| 🦋🦋🦋🌟 Collector's Edition | 0.1% |
+### The Steady Hand - PvE
+Generally in PvE you're going for as much `Range` as you can get with sustained damage upkeep. If you liked [The Duke Mk. 44](https://www.light.gg/db/items/2112909414/duke-mk-44/) then TSH could be for you.
+#### **Rapid Reload**
+Without Outlaw, you're going to have to rely on Transversives, Marksman's Dodge, etc. to reload effectively in PvE. Without it, you're looking at a lot of downtime in situations where there are better alternatives. This is the case with Outlaw-based Duke rolls and people absolutely loved that sooo 🤷‍♂️
+```
+  Barrels [ 60%]: Hitmark HCS, Truesight HCS
+  Mags    [ 46%]: High-Caliber Rounds, Armor-Piercing Rounds
+  Perks 1 [ 16%]: Outlaw
+  Perks 2 [ 16%]: Swashbuckler
   MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Frenzy" 🤠🤠🤠 CE (- Barrels) - 0.4% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 64%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag
-  Perks 1 [ 16%]: Feeding Frenzy
-  Perks 2 [ 16%]: Kill Clip
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Frenzy" 🤠🤠🤠 CE (+ Magazines) - 0.5% chance**
-
-  ```
-  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
-  Mags    [ 96%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag, Appended Mag, Flared Magwell, Ricochet Rounds
-  Perks 1 [ 16%]: Feeding Frenzy
-  Perks 2 [ 16%]: Kill Clip
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Frenzy" 🤠🤠🤠 CE (- Masterworks) - 1.4% chance**
-
-  ```
-  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
-  Mags    [ 64%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag
-  Perks 1 [ 16%]: Feeding Frenzy
-  Perks 2 [ 16%]: Kill Clip
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Frenzy" 🤠🤠 CE (- Barrels - Masterworks) - 1.8% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 64%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag
-  Perks 1 [ 16%]: Feeding Frenzy
-  Perks 2 [ 16%]: Kill Clip
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Frenzy" 🤠🤠 CE (- Barrels + Magazines) - 0.7% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 96%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag, Appended Mag, Flared Magwell, Ricochet Rounds
-  Perks 1 [ 16%]: Feeding Frenzy
-  Perks 2 [ 16%]: Kill Clip
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Frenzy" 🤠🤠 CE (+ Magazines - Masterworks) - 2.1% chance**
-
-  ```
-  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
-  Mags    [ 96%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag, Appended Mag, Flared Magwell, Ricochet Rounds
-  Perks 1 [ 16%]: Feeding Frenzy
-  Perks 2 [ 16%]: Kill Clip
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Frenzy" 🤠 (Baseline) - 2.7% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 96%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag, Appended Mag, Flared Magwell, Ricochet Rounds
-  Perks 1 [ 16%]: Feeding Frenzy
-  Perks 2 [ 16%]: Kill Clip
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Running on Empty" ⛽️⛽️⛽️🌟 Collector's Edition - 0.4% chance**: This is a weird one... we're draining the mag to get the reload boost from `Alloy Magazine` so we have to watch out for other perks that might short-circuit this way of using it.
-
-  ```
-  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
-  Mags    [ 25%]: Alloy Magazine
-  Perks 1 [ 50%]: Feeding Frenzy, Moving Target, Hip-Fire Grip
-  Perks 2 [ 16%]: Kill Clip
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Running on Empty" ⛽️⛽️⛽️ CE (- Barrels) - 0.5% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 25%]: Alloy Magazine
-  Perks 1 [ 50%]: Feeding Frenzy, Moving Target, Hip-Fire Grip
-  Perks 2 [ 16%]: Kill Clip
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Running on Empty" ⛽️⛽️⛽️ CE (- Perks) - 0.8% chance**
-
-  ```
-  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
-  Mags    [ 25%]: Alloy Magazine
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Kill Clip
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Running on Empty" ⛽️⛽️⛽️ CE (- Masterworks) - 1.7% chance**
-
-  ```
-  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
-  Mags    [ 25%]: Alloy Magazine
-  Perks 1 [ 50%]: Feeding Frenzy, Moving Target, Hip-Fire Grip
-  Perks 2 [ 16%]: Kill Clip
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Running on Empty" ⛽️⛽️ CE (- Barrels - Masterworks) - 2.1% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 25%]: Alloy Magazine
-  Perks 1 [ 50%]: Feeding Frenzy, Moving Target, Hip-Fire Grip
-  Perks 2 [ 16%]: Kill Clip
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Running on Empty" ⛽️ (Baseline) - 4.2% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 25%]: Alloy Magazine
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Kill Clip
-  MWorks  [100%]: *
-  ```
-## Orewing's Maul - PvP
-*For all possible perks, check out **Orewing's Maul** over on [light.gg](https://www.light.gg/db/items/2108920981/orewings-maul/)*
-
-
-Orewing's is almost identical to the [Truthteller](#truthteller---pvp) in every way, save for a much less excellent perk pool. Truthteller has more interesting combinations, but if you're swimming in GL's from Iron Banner and really want to keep one, read on.
-
-[Destiny Fun Police](https://www.youtube.com/watch?v=gXhfIXnPTT4) (aka DFP) first popularized these back in Year 1 of Destiny 2 when he used the Fighting Lion to great affect.
-
-Like Truthteller, Orewing's is part of the "Lightweight Frame" grenade launchers (breach-loaded, single shot). Lightweight grenade launchers all have a "remote detonation" ability where they detonate when you release the trigger (or you get a direct hit). These weapons have a very high skill ceiling, allowing banked shots and shots that explode next to enemies in cover. In PvP, these weapons excel at starting engagements rather than finishing them. We want Orewing's to soften our enemies up, even if we don't get a direct hit.
-
-Let's talk perks, and why you probably want a Truthteller instead ;)
-* **Column 2**: Here you have a choice between `Spike`, `Blinding` and `Concussion` grenades. Blinding grenades flash your screen white and slowly subside whereas Concussion grenades jerk your camera dramatically, like being hit by a tether. Either Concussion or Blinding grenades are bugged because Blinding's radius is massive whereas Concussion requires a near direct hit. With such a wide radius, you can practically gaurantee that you'll be able to blind folks in PvP so I tend to suggest `Blinding`. What about `Promixity`? The proximity detonation radius is so miniscule that you may as well use `Spike` if you're that accurate. Firing at enemies in the Tribute Hall and you have to give them a buzz cut for `Proximity` to proc.
-* **Column 3**: Only one perk in this column has utility in PvP and that's `Quickdraw`.
-* **Column 4** : Only one perk in this column has utility in PvP and that's Auto-Loading Holster. `Rangefinder`, `Moving Target` and `Snapshot` don't help us at all, because you're always hip-firing. `Demolitionist` only procs on kills and we're using these to open, not to close. If you get any other perk than ALH in this slot, it will unfortunately go to waste.
-
-In the immortal words of [@tednaleid](https://github.com/tednaleid) "I'm not sure why Bungie created both of these weapons" and it's true! It's hard to see why you'd run an Orewing's over a Truthteller. Heck it's hard to see why you'd run an Orewing's at all given the two most important slots have near zero utility in PvP.
-
-Remember to pair this with the `Quick Access Sling` mod as it'll proc with every shot and let us more quickly clean up what we've started.
-* **(PvP/PvE) "Blinded by the Light" 🙈🙈🙈🌟🌟 Collector's Edition - 0.2% chance**: 
-
-  ```
-  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
-  Mags    [ 33%]: Blinding Grenades
-  Perks 1 [ 20%]: Quickdraw
-  Perks 2 [ 20%]: Auto-Loading Holster
-  MWorks  [ 20%]: Velocity MW
-  ```
-* **(PvP/PvE) "Blinded by the Light" 🙈🙈🙈🌟 Collector's Edition - 1.1% chance**: The rest of the rolls won't feature `Quickdraw`. It's fine but with `Quick Access Sling` you won't miss it.
-
-  ```
-  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
-  Mags    [ 33%]: Blinding Grenades
-  Perks 1 [100%]: *
-  Perks 2 [ 20%]: Auto-Loading Holster
-  MWorks  [ 20%]: Velocity MW
-  ```
-* **(PvP/PvE) "Blinded" 🙈🙈 CE (- Barrels) - 1.3% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 33%]: Blinding Grenades
-  Perks 1 [100%]: *
-  Perks 2 [ 20%]: Auto-Loading Holster
-  MWorks  [ 20%]: Velocity MW
-  ```
-* **(PvP/PvE) "Blinded" 🙈🙈 CE (- Masterworks) - 5.7% chance**
-
-  ```
-  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
-  Mags    [ 33%]: Blinding Grenades
-  Perks 1 [100%]: *
-  Perks 2 [ 20%]: Auto-Loading Holster
-  MWorks  [100%]: *
-  ```
-* **(PvP/PvE) "Blinded" 🙈 (Baseline) - 6.7% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 33%]: Blinding Grenades
-  Perks 1 [100%]: *
-  Perks 2 [ 20%]: Auto-Loading Holster
-  MWorks  [100%]: *
-  ```
-## Orewing's Maul - PvE
-*For all possible perks, check out **Orewing's Maul** over on [light.gg](https://www.light.gg/db/items/2108920981/orewings-maul/)*
-
-
-This section is the same as the Truthteller PvE writeup. [Have a look](#truthteller---pve) and come on back!
-
-The main difference is that the perks on Orewing's are in different columns, so we don't have as many choices.
-* **(PvE) "Welcome to the Boomtown" 💥💥💥🌟 Collector's Edition - 0.5% chance**: Maximize direct damage on larger enemies with Spike Grenades, reload perks and masterwork as you're relying on this weapon and not others.
-
-  ```
-  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
-  Mags    [ 33%]: Spike Grenades
-  Perks 1 [ 20%]: Field Prep
-  Perks 2 [ 40%]: Auto-Loading Holster, Demolitionist
-  MWorks  [ 20%]: Reload MW
-  ```
-* **(PvE) "Boomtown" 💥💥💥 (+ Masterworks) - 1.4% chance**
-
-  ```
-  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
-  Mags    [ 33%]: Spike Grenades
-  Perks 1 [ 20%]: Field Prep
-  Perks 2 [ 40%]: Auto-Loading Holster, Demolitionist
-  MWorks  [ 60%]: Reload MW, Velocity MW, Handling MW
-  ```
-* **(PvE) "Boomtown" 💥💥💥 (- Perks) - 2.3% chance**
-
-  ```
-  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
-  Mags    [ 33%]: Spike Grenades
-  Perks 1 [100%]: *
-  Perks 2 [ 40%]: Auto-Loading Holster, Demolitionist
-  MWorks  [ 20%]: Reload MW
-  ```
-* **(PvE) "Boomtown" 💥💥 (- Perks + Masterworks) - 6.9% chance**
-
-  ```
-  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
-  Mags    [ 33%]: Spike Grenades
-  Perks 1 [100%]: *
-  Perks 2 [ 40%]: Auto-Loading Holster, Demolitionist
-  MWorks  [ 60%]: Reload MW, Velocity MW, Handling MW
-  ```
-* **(PvE) "Boomtown" 💥 (Baseline) - 13.3% chance**: Spike grenades and some sort of reload perk, that's all we're looking for here.
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 33%]: Spike Grenades
-  Perks 1 [100%]: *
-  Perks 2 [ 40%]: Auto-Loading Holster, Demolitionist
-  MWorks  [100%]: *
-  ```
-## Swarm of the Raven - PvE
-*For all possible perks, check out **Swarm of the Raven** over on [light.gg](https://www.light.gg/db/items/1972985595/swarm-of-the-raven/)*
-
-
-For a moment in time, Swarm of the Raven was a legit DPS option. It's a Void Grenade Launcher and the buff from Tractor Cannon made it a beast. It's not super hot anymore, but why not secure yourself a good one just in case? Chances are without even trying you're going to get a pretty decent roll. Enjoy!
-* **(PvE) "Dive Bomb" 🦅🦅🦅🌟 Collector's Edition - 0.2% chance**: More impact damage and ammo reserves, along with bumped `Velocity`.
-
-  ```
-  Barrels [ 71%]: Quick Launch, Linear Compensator, Smart Drift Control
-  Mags    [ 25%]: Spike Grenades
-  Perks 1 [ 20%]: Field Prep
-  Perks 2 [ 25%]: Quickdraw
-  MWorks  [ 20%]: Velocity MW
-  ```
-* **(PvE) "Dive Bomb" 🦅🦅🦅 CE (- Perks) - 0.7% chance**
-
-  ```
-  Barrels [ 71%]: Quick Launch, Linear Compensator, Smart Drift Control
-  Mags    [ 25%]: Spike Grenades
-  Perks 1 [ 20%]: Field Prep
-  Perks 2 [100%]: *
-  MWorks  [ 20%]: Velocity MW
-  ```
-* **(PvE) "Dive Bomb" 🦅🦅 CE (- Masterwork) - 3.6% chance**
-
-  ```
-  Barrels [ 71%]: Quick Launch, Linear Compensator, Smart Drift Control
-  Mags    [ 25%]: Spike Grenades
-  Perks 1 [ 20%]: Field Prep
-  Perks 2 [100%]: *
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Dive Bomb" 🦅 (Baseline) - 5.0% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 25%]: Spike Grenades
-  Perks 1 [ 20%]: Field Prep
-  Perks 2 [100%]: *
-  MWorks  [100%]: *
-  ```
-## Talons of the Eagle - PvP
-*For all possible perks, check out **Talons of the Eagle** over on [light.gg](https://www.light.gg/db/items/1982711279/talons-of-the-eagle/)*
-
-
-Talons of the Eagle is a 150 RPM "High-Impact Frame" Kinetic Scout Rifle. It originally appeared wayyy back in Season 4 (aka Forsaken). It's been recently re-issued in the first Season 11 Iron Banner. As part of this re-issue, the perk pool is unchanged, so we have years' worth of knowledge about how these work and years' worth of confusion as to why Scout Rifles can roll with `Threat Detector` and `Hip-Fire Grip`.
-
-In order to beat out other long-range options in the Kinetic slot for PvP, I think you really want `Explosive Rounds` here. 150s are the slowest-firing, heaviest-hitting scouts but when you're competing against snipers and Arbalests, I think you need more flinch than they can put out at base.
-
-The general drawbacks of 150s is their low `Stability` and `Handling` so we're going to address those as a secondary focus in all in all of our rolls.
-* **(PvP) "Planting Bombs" 🌿🌿🌿💣🌟Collector's Edition - 0.0% chance**: `Firmly Planted` is terrific on long-range weapons like Pulse and Scout Rifles where you can post up in cover and peek shoot from a distance. There's also not much else terrific in that slot. Zen Moment is good, but Firmly Planted outclasses it.
-
-  ```
-  Barrels [ 22%]: Polygonal Rifling
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Explosive Rounds
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Planting Bombs" 🌿🌿🌿💣 CE (+ Barrels) - 0.2% chance**
-
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Explosive Rounds
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Planting Bombs" 🌿🌿🌿💣 CE (+ Magazines) - 0.1% chance**
-
-  ```
-  Barrels [ 22%]: Polygonal Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Explosive Rounds
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Planting Bombs" 🌿🌿🌿💣 CE (+ Barrels + Magazines) - 0.4% chance**
-
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Explosive Rounds
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Planting Bombs" 🌿🌿🌿💣 (+ Barrels - Magazines) - 0.7% chance**
-
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Explosive Rounds
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Planting Bombs" 🌿🌿💣 (+ Magazines + Barrels + Perks - Masterworks) - 1.8% chance**
-
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Explosive Rounds
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Planting Bombs" 🌿💣 (Baseline) - 3.3% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Firmly Planted
-  Perks 2 [ 16%]: Explosive Rounds
-  MWorks  [100%]: *
-  ```
-* **(PvP) "Raining Fire" 🌧🌧🌧🔥🌟Collector's Edition - 0.0% chance**: We're going to repeat the same set of rolls that we have above, minus `Firmly Planted` which is a pretty big playstyle preference that some folks are not super keen on. It's not a make-or-break here, so we're also going to feature rolls without it.
-
-  ```
-  Barrels [ 22%]: Polygonal Rifling
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 20%]: Zen Moment
-  Perks 2 [ 16%]: Explosive Rounds
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (- Perks) - 0.2% chance**
-
-  ```
-  Barrels [ 22%]: Polygonal Rifling
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Explosive Rounds
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Barrels) - 0.2% chance**
-
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 20%]: Zen Moment
-  Perks 2 [ 16%]: Explosive Rounds
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Barrels - Perks) - 0.9% chance**
-
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Explosive Rounds
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Magazines) - 0.1% chance**
-
-  ```
-  Barrels [ 22%]: Polygonal Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Zen Moment
-  Perks 2 [ 16%]: Explosive Rounds
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Magazines - Perks) - 0.6% chance**
-
-  ```
-  Barrels [ 22%]: Polygonal Rifling
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Explosive Rounds
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Barrels + Magazines) - 0.4% chance**
-
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Zen Moment
-  Perks 2 [ 16%]: Explosive Rounds
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Barrels + Magazines - Perks) - 2.2% chance**
-
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Explosive Rounds
-  MWorks  [ 25%]: Stability MW
-  ```
-* **(PvP) "Raining Fire" 🌧🌧🔥 (+ Barrles + Magazines - Perks) - 8.9% chance**
-
-  ```
-  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
-  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
-  Perks 1 [100%]: *
-  Perks 2 [ 16%]: Explosive Rounds
-  MWorks  [100%]: *
-  ```
-## Talons of the Eagle - PvE
-*For all possible perks, check out **Talons of the Eagle** over on [light.gg](https://www.light.gg/db/items/1982711279/talons-of-the-eagle/)*
-
-
-As mentioned in the PvP summary, Talons is still rocking that Season 4 perk pool, meaning we're back to our tried-and-true combinations.
-* **(PvE) "Gunslinger" 🤠🤠🤠🌟 Collector's Edition - 0.0% chance**: `Outlaw` + `Rampage`, same as it ever was! Going for the classic DPS combo with as much `Range` as we can get.
-
-  ```
-  Barrels [ 22%]: Hammer-Forged Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 20%]: Outlaw
-  Perks 2 [ 16%]: Rampage
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Gunslinger" 🤠🤠🤠 CE (+ Barrels) - 0.1% chance**
-
-  ```
-  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 20%]: Outlaw
-  Perks 2 [ 16%]: Rampage
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Gunslinger" 🤠🤠🤠 CE (- Barrels) - 0.2% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 20%]: Outlaw
-  Perks 2 [ 16%]: Rampage
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Gunslinger" 🤠🤠🤠 CE (- Magazines) - 0.5% chance**
-
-  ```
-  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Outlaw
-  Perks 2 [ 16%]: Rampage
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Gunslinger" 🤠🤠🤠 CE (- Masterwork) - 0.5% chance**
-
-  ```
-  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 20%]: Outlaw
-  Perks 2 [ 16%]: Rampage
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Gunslinger" 🤠🤠 (- Barrels - Magazines) - 0.8% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Outlaw
-  Perks 2 [ 16%]: Rampage
-  MWorks  [ 25%]: Range MW
-  ```
-* **(PvE) "Gunslinger" 🤠🤠 (- Barrels - Masterworks) - 0.8% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 25%]: Accurized Rounds
-  Perks 1 [ 20%]: Outlaw
-  Perks 2 [ 16%]: Rampage
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Gunslinger" 🤠🤠 (- Magazines - Masterworks) - 1.9% chance**
-
-  ```
-  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Outlaw
-  Perks 2 [ 16%]: Rampage
-  MWorks  [100%]: *
-  ```
-* **(PvE) "Gunslinger" 🤠 (Baseline) - 3.3% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 20%]: Outlaw
-  Perks 2 [ 16%]: Rampage
-  MWorks  [100%]: *
-  ```
+```
+| Variant | Chance |
+|:-|-:|
+| ♻️♻️♻️🌟 Collector's Edition | 0.2% |
+| ♻️♻️♻️ CE (+magazines) | 0.3% |
+| ♻️♻️♻️ CE (-barrels) | 0.3% |
+| ♻️♻️♻️ CE (+magazines, -barrels) | 0.5% |
+| ♻️♻️♻️ CE (-magazines) | 0.4% |
+| ♻️♻️♻️ CE (+magazines, -masterworks) | 1.3% |
+| ♻️♻️♻️ CE (-masterworks) | 0.8% |
+| ♻️♻️ (-barrels, -magazines) | 0.7% |
+| ♻️♻️ (-barrels, -masterworks) | 1.3% |
+| ♻️♻️ (-magazines, -masterworks) | 1.7% |
+| ♻️ (-barrels, -magazines, -masterworks) | 2.8% |
 ## Heritage
 *For all possible perks, check out **Heritage** over on [light.gg](https://www.light.gg/db/items/4248569242/heritage/)*
 
@@ -7574,5 +6568,1106 @@ CoolGuy: ["One of the best solo snipers in the game."](https://www.youtube.com/w
   Mags    [ 95%]: Appended Mag, Tactical Mag, Accurized Rounds, Alloy Magazine, Flared Magwell
   Perks 1 [ 25%]: Lead from Gold
   Perks 2 [ 50%]: Vorpal, Disruption Break
+  MWorks  [100%]: *
+  ```
+## Bite of the Fox - PvP
+*For all possible perks, check out **Bite of the Fox** over on [light.gg](https://www.light.gg/db/items/3169616514/bite-of-the-fox/)*
+
+
+Bite of the Fox is a Kinetic-slot, Aggressive Frame sniper. It's been in the Iron Banner loot pool since Season 4 and has been re-issued in Season 11. This means if you *had* a BOTF, it will hit the level cap this season, so you'll want to get a new roll to take you past Season 11.
+
+Aggressive Frame snipers are the only ones that can one-shot every super in the Crucible. Every super has a different damage-resistance tier that affects your ability to do that however Aggressive Frames do not care about such things.
+
+The perk pool is unchanged in the re-issue, so we have a pretty simple set of rolls we're chasing.
+
+With respect to PvE below, there's no Triple- Tap, Fourth Time's the Charm, Vorpal, etc. so I'd suggest you use something else in PvE in the Kinetic slot. If you absolutely had to have one, maybe [`Firmly Planted` + `Field Prep`]?
+* **(PvP) "Snappy Opener" 🤞🤞🤞🌟 Collector's Edition - 0.3% chance**: This series of rolls is based around Snapshot and Accuracy-increasing final-column perks. After that, we're looking for as much `Range` and `Handling` as we can get.
+
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **(PvP) "Snappy Opener" 🤞🤞🤞 CE (- Masterworks) - 0.7% chance**: Same as the CE, minus Masterworks.
+
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Snappy  Opener" 🤞🤞🤞 CE (- Magazines) - 1.4% chance**: Same as the CE, minus Magazines.
+
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **(PvP) "Snappy  Opener" 🤞🤞 CE (- Magazines - Masterworks) - 2.8% chance**: Same as the CE, minus Magazines and Masterworks.
+
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Snappy  Opener" 🤞 (Baseline) - 3.3% chance**: These two perks form the core of the roll.
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Mobile Opener" 🏃‍♂️🏃‍♂️🏃‍♂️🌟 Collector's Edition - 0.3% chance**: Same as the above set of rolls, but with `Moving Target` instead of `Opening Shot`.
+
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **(PvP) "Mobile Opener" 🏃‍♂️🏃‍♂️🏃‍♂️ CE (- Masterworks) - 0.7% chance**: Same as the CE, minus Masterworks.
+
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Mobile Opener" 🏃‍♂️🏃‍♂️🏃‍♂️ CE (- Magazines) - 1.4% chance**: Same as the CE, minus Magazines.
+
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **(PvP) "Mobile Opener" 🏃‍♂️🏃‍♂️ CE (- Magazines - Masterworks) - 2.8% chance**: Same as the CE, minus Magazines and Masterworks.
+
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Mobile Opener" 🏃‍♂️ (Baseline) - 3.3% chance**: These two perks form the core of the roll.
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Snapshot
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [100%]: *
+  ```
+* **(PvP) Drewsky's "Planted Opener" 🌱🌱🌱🌟 Collector's Edition - 0.3% chance**: As suggested by Drewsky in his [Bite of the Fox Has a Unique "God Roll" to Farm For](https://www.youtube.com/watch?v=3GLfGLa-oYg) video, here's a similar set of rolls based on `Firmly Planted`.
+
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **(PvP) Drewsky's "Planted Opener" 🌱🌱🌱 CE (- Masterworks) - 0.7% chance**: Same as the CE, minus Masterworks.
+
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) Drewsky's "Planted Opener" 🌱🌱🌱 CE (- Magazines) - 1.4% chance**: Same as the CE, minus Magazines.
+
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **(PvP) Drewsky's "Planted Opener" 🌱🌱 CE (- Magazines - Masterworks) - 2.8% chance**: Same as the CE, minus Magazines and Masterworks.
+
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) Drewsky's "Planted Opener" 🌱 (Baseline) - 3.3% chance**: These two perks form the core of the roll.
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Planted Dissonance" 🤔🤔🤔🌟 Collector's Edition - 0.3% chance**: Similar to the above set of `Firmly Planted`-based rolls, but this time with `Moving Target` in the final slot. Oddly, you get the `Accuracy` benefit of `Moving Target` without actually moving.
+
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **(PvP) "Planted Dissonance" 🤔🤔🤔 CE (- Masterworks) - 0.7% chance**: Same as the CE, minus Masterworks.
+
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Planted Dissonance" 🤔🤔🤔 CE (- Magazines) - 1.4% chance**: Same as the CE, minus Magazines.
+
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **(PvP) "Planted Dissonance" 🤔🤔 CE (- Magazines - Masterworks) - 2.8% chance**: Same as the CE, minus Magazines and Masterworks.
+
+  ```
+  Barrels [ 83%]: Fluted Barrel, Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Planted Dissonance" 🤔 (Baseline) - 3.3% chance**: These two perks form the core of the roll.
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Moving Target
+  MWorks  [100%]: *
+  ```
+## Crimil's Dagger - PvP
+*For all possible perks, check out **Crimil's Dagger** over on [light.gg](https://www.light.gg/db/items/4292849692/crimils-dagger/)*
+
+
+Crimil's is a 110 RPM Kinetic, Aggressive Frame Hand Cannon that has been re-issued in Season 11 with a higher power cap. It features the same perk pool its always had and since 110s haven't been touched over the years dince Destiny 2's launch, it's going to be a pretty limited set of perks we're interested in.
+
+I wouldn't call 110s the meta (far from it) or really all that competitive at the moment. My guess is that new perks will appear on these to create interesting or alternative options, because the 110s hit so hard it would be tough to imagine how they could otherwise make them stronger without unbalancing them.
+
+There is one niche where they **really** shine, and that's if you want to use them for cleanup kills after zinging someone with a bow or sniper body shot. They are the only Hand Cannon archetype where a crit can OHK-cleanup in that playstyle. In terms of 1:1 duels, they punish you for missing and you will not adequately flinch your opponents compared to ARs, 150 HCs, Pulses, etc.
+* **(PvP) "Magnetic Bullets" 🧲🧲🧲🌟 Collector's Edition - 0.0% chance**: One of the rare weapons that can roll with both `Moving Target` and `Opening Shot` at the same time. The 110s have a punishing kick so after that, we're going for `Stability`.
+
+  ```
+  Barrels [ 33%]: Steadyhand HCS
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Magnetic Bullets" 🧲🧲🧲 (- Masterwork) - 0.2% chance**
+
+  ```
+  Barrels [ 33%]: Steadyhand HCS
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Magnetic Bullets" 🧲🧲🧲 (- Sights) - 0.1% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Magnetic Bullets" 🧲🧲🧲 (- Magazines) - 0.2% chance**
+
+  ```
+  Barrels [ 33%]: Steadyhand HCS
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Magnetic Bullets" 🧲🧲🧲 (+ Sights) - 0.1% chance**
+
+  ```
+  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Magnetic Bullets" 🧲🧲🧲 (+ Magazines) - 0.1% chance**
+
+  ```
+  Barrels [ 33%]: Steadyhand HCS
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Magnetic Bullets" 🧲🧲🧲 (+ Sights + Magazines) - 0.3% chance**
+
+  ```
+  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Magnetic Bullets" 🧲🧲 (+ Sights + Magazines - Masterworks) - 1.0% chance**
+
+  ```
+  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Magnetic Bullets" 🧲🧲 (+ Sights - Magazines - Masterworks) - 1.6% chance**
+
+  ```
+  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Magnetic Bullets" 🧲 (Baseline) - 2.0% chance**: These two perks form the core of this roll and without them, you've got a slow, clunky, punishing 110 RPM HC. I mean even with them, it's still pretty slow and clunky. YMMV 🤪
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Moving Target
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Fast Action" ⏩⏩⏩🌟 Collector's Edition - 0.0% chance**: The 110s have low Handling because they're supposed to embody the "Cannon" part of "Hand Cannon". Adding Snapshot to the mix can make all the difference in how a 110 feels.
+
+  ```
+  Barrels [ 33%]: Steadyhand HCS
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 14%]: Snapshot
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Fast Action" ⏩⏩⏩ (- Masterwork) - 0.2% chance**
+
+  ```
+  Barrels [ 33%]: Steadyhand HCS
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 14%]: Snapshot
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Fast Action" ⏩⏩⏩ (- Sights) - 0.1% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 14%]: Snapshot
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Fast Action" ⏩⏩⏩ (- Magazines) - 0.2% chance**
+
+  ```
+  Barrels [ 33%]: Steadyhand HCS
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Snapshot
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Fast Action" ⏩⏩⏩ (+ Sights) - 0.1% chance**
+
+  ```
+  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 14%]: Snapshot
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Fast Action" ⏩⏩⏩ (+ Sights + Magazines) - 0.3% chance**
+
+  ```
+  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 14%]: Snapshot
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Fast Action" ⏩⏩ (+ Sights + Magazines - Masterworks) - 1.0% chance**
+
+  ```
+  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 14%]: Snapshot
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Fast Action" ⏩⏩ (+ Sights - Magazines - Masterworks) - 1.6% chance**
+
+  ```
+  Barrels [ 80%]: Steadyhand HCS, Fastdraw HCS, Truesight HCS
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Snapshot
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Fast Action" ⏩ (Baseline) - 2.0% chance**: These two perks form the core of this roll and without them, you've got a slow, clunky, punishing 110 RPM HC. I mean even with them, it's still pretty slow and clunky. YMMV 🤪
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Snapshot
+  Perks 2 [ 14%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+## Crimil's Dagger - PvE
+*For all possible perks, check out **Crimil's Dagger** over on [light.gg](https://www.light.gg/db/items/4292849692/crimils-dagger/)*
+
+
+The perk pool here is before the new good stuff started rolling out, so there's not too many surprises. The only damage-dealing perk is `Kill Clip` but we have a few ways to reload quickly.
+
+Part of the added challenge with these old weapons is that the perk pools are so large the chances of getting what you want is quite low.
+* **(PvE) "Gunslinger" 🤠🤠🤠🌟 Collector's Edition - 0.0% chance**: Fast reload and as much `Range` as we can get.
+
+  ```
+  Barrels [ 33%]: Sureshot HCS
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 14%]: Outlaw
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Gunslinger" 🤠🤠🤠 CE (+ Sights) - 0.1% chance**
+
+  ```
+  Barrels [ 93%]: Sureshot HCS, Crossfire HCS, Hitmark HCS, Truesight HCS
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 14%]: Outlaw
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Gunslinger" 🤠🤠🤠 CE (- Masterwork) - 0.5% chance**
+
+  ```
+  Barrels [ 93%]: Sureshot HCS, Crossfire HCS, Hitmark HCS, Truesight HCS
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 14%]: Outlaw
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Gunslinger" 🤠🤠🤠 CE (- Magazines) - 0.5% chance**
+
+  ```
+  Barrels [ 93%]: Sureshot HCS, Crossfire HCS, Hitmark HCS, Truesight HCS
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Outlaw
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Gunslinger" 🤠🤠🤠 CE (- Sights) - 0.1% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 14%]: Outlaw
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Gunslinger" 🤠🤠 CE (- Sights - Mags) - 0.5% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Outlaw
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Gunslinger" 🤠 (Baseline) - 2.0% chance**: Baseline combo to make this usable in PvE.
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 14%]: Outlaw
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Ammo Waster" 🗑🗑🗑🌟 Collector's Edition - 0.3% chance**: Replacing our need for `Outlaw` with `Drop Mag`, then as much `Range` as we can get.
+
+  ```
+  Barrels [ 33%]: Sureshot HCS
+  Mags    [ 25%]: Drop Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Ammo Waster" 🗑🗑🗑 CE (+ Sights) - 0.8% chance**
+
+  ```
+  Barrels [ 93%]: Sureshot HCS, Crossfire HCS, Hitmark HCS, Truesight HCS
+  Mags    [ 25%]: Drop Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Ammo Waster" 🗑🗑🗑 CE (- Masterwork) - 3.3% chance**
+
+  ```
+  Barrels [ 93%]: Sureshot HCS, Crossfire HCS, Hitmark HCS, Truesight HCS
+  Mags    [ 25%]: Drop Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Ammo Waster" 🗑🗑🗑 CE (- Sights) - 0.9% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Drop Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Ammo Waster" 🗑🗑 (Baseline) - 3.6% chance**: Baseline combo to make this usable in PvE.
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Drop Mag
+  Perks 1 [100%]: *
+  Perks 2 [ 14%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+## Fool's Remedy - PvP
+*For all possible perks, check out **Fool's Remedy** over on [light.gg](https://www.light.gg/db/items/65611680/the-fools-remedy/)*
+
+
+Fool's Remedy is "SUROS Rapid-Fire" (i.e. fully automatic) 450 RPM Sidearm that has been re-issued in Season 11's Iron Banner. The Remedy is the only SUROS-RF sidearm in the game apart from `Dead Man Walking` whose power cap is the current Season (11).
+
+If you're going to chase a single weapon from Season 11 Iron Banner (thus far), the Fool's Remedy is the one to go for. People are raving about it because of how it performs at base, its available perks, and that those perks now include the new Iron Banner specific perks: `Iron Gaze` and `Iron Grip`.
+
+* Aztecross - ["Fools Remedy Review (Fantastic Sidearm)"](https://www.youtube.com/watch?v=rOqRgxg1dIA)
+* Destiny Fun Police - ["The Fools Remedy - Returning Iron Banner Sidearm"](https://www.youtube.com/watch?v=4zeeXHNls1M)
+* IFrostBolt - ["The Must Have Sidearm (Fool's Remedy)"](https://www.youtube.com/watch?v=g_6qeCktTYY)
+* MTashed - ["This Sidearm Suprised Me! The Fool's Remedy Iron Banner Sidearm"](https://www.youtube.com/watch?v=vmIhv_j7Yuo)
+* TrueVanguard - ["This New Iron Banner Sidearm is NUTS"](https://www.youtube.com/watch?v=frkRY-HSUQE)
+
+As is pleasantly becoming the norm in Season 11, it's hard to pick a single "god roll" for this sidearm. We're trending towards a lack of unequivocally "best" rolls (or even best-per-input-type) and that's going to make the Destiny sandbox a lot more interesting, especially as the first batch of weapons sunset this season.
+
+We're going to proceed with these starting from the last perk and working our way backwards. I agree with CoolGuy that the two most important perks are the final columns and you build the rest of the roll around them. Fortunately there are so many great possibilities here, you stand a good chance of landing multiple rolls!
+* **(PvP) "In my Sights" 👓👓👓🌟 Collector's Edition - 1.0% chance**: Working backwards from `Iron Gaze` (+20 AA), we're going for as much `Stability` as we can. We'd end choosing the rest of the roll similarly if we landed `Kill Clip` or `Eye of the Storm` in the final slot, so we'll combine these rolls.
+
+  ```
+  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 33%]: Moving Target, Pulse Monitor
+  Perks 2 [ 50%]: Iron Gaze, Eye of the Storm, Kill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "In my Sights" 👓👓👓 CE (- Magazines) - 3.9% chance**
+
+  ```
+  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Moving Target, Pulse Monitor
+  Perks 2 [ 50%]: Iron Gaze, Eye of the Storm, Kill Clip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "In my Sights" 👓👓👓 CE (- Masterworks) - 3.9% chance**
+
+  ```
+  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 33%]: Moving Target, Pulse Monitor
+  Perks 2 [ 50%]: Iron Gaze, Eye of the Storm, Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) "In my Sights" 👓👓 CE (- Magazines - Masterworks) - 15.6% chance**
+
+  ```
+  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Moving Target, Pulse Monitor
+  Perks 2 [ 50%]: Iron Gaze, Eye of the Storm, Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Sticky Fingers" 🧤🧤🧤🌟 Collector's Edition - 0.6% chance**: Working backwards from `Iron Grip` (+20 Stability), we can free up some of our other columns for non-Stability enhancing perks.
+
+  ```
+  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
+  Mags    [ 46%]: High-Caliber Rounds, Ricochet Rounds
+  Perks 1 [ 33%]: Moving Target, Pulse Monitor
+  Perks 2 [ 16%]: Iron Grip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Sticky Fingers" 🧤🧤🧤 CE (- Magazines) - 1.3% chance**
+
+  ```
+  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Moving Target, Pulse Monitor
+  Perks 2 [ 16%]: Iron Grip
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Sticky Fingers" 🧤🧤🧤 CE (- Masterworks) - 2.4% chance**
+
+  ```
+  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
+  Mags    [ 46%]: High-Caliber Rounds, Ricochet Rounds
+  Perks 1 [ 33%]: Moving Target, Pulse Monitor
+  Perks 2 [ 16%]: Iron Grip
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Sticky Fingers" 🧤🧤 CE (- Magazines - Masterworks) - 5.2% chance**
+
+  ```
+  Barrels [ 93%]: Control SAS, Quickdot SAS, Shortspec SAS, Tactic SAS
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Moving Target, Pulse Monitor
+  Perks 2 [ 16%]: Iron Grip
+  MWorks  [100%]: *
+  ```
+## Fool's Remedy - PvE
+*For all possible perks, check out **Fool's Remedy** over on [light.gg](https://www.light.gg/db/items/65611680/the-fools-remedy/)*
+
+
+There's only one damage-boosting perk in the final column, so this will be a straightforward set of rolls.
+* **(PvE) "Gunslinger's Frenzy" 🤠🤠🤠🌟 Collector's Edition - 0.4% chance**: Fast reload and as much `Range` as we can get.
+
+  ```
+  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
+  Mags    [ 64%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Frenzy" 🤠🤠🤠 CE (- Barrels) - 0.4% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 64%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Frenzy" 🤠🤠🤠 CE (+ Magazines) - 0.5% chance**
+
+  ```
+  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
+  Mags    [ 96%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag, Appended Mag, Flared Magwell, Ricochet Rounds
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Frenzy" 🤠🤠🤠 CE (- Masterworks) - 1.4% chance**
+
+  ```
+  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
+  Mags    [ 64%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Frenzy" 🤠🤠 CE (- Barrels - Masterworks) - 1.8% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 64%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Frenzy" 🤠🤠 CE (- Barrels + Magazines) - 0.7% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 96%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag, Appended Mag, Flared Magwell, Ricochet Rounds
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Frenzy" 🤠🤠 CE (+ Magazines - Masterworks) - 2.1% chance**
+
+  ```
+  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
+  Mags    [ 96%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag, Appended Mag, Flared Magwell, Ricochet Rounds
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Frenzy" 🤠 (Baseline) - 2.7% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 96%]: High-Caliber Rounds, Armor-Piercing Rounds, Light Mag, Appended Mag, Flared Magwell, Ricochet Rounds
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Running on Empty" ⛽️⛽️⛽️🌟 Collector's Edition - 0.4% chance**: This is a weird one... we're draining the mag to get the reload boost from `Alloy Magazine` so we have to watch out for other perks that might short-circuit this way of using it.
+
+  ```
+  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
+  Mags    [ 25%]: Alloy Magazine
+  Perks 1 [ 50%]: Feeding Frenzy, Moving Target, Hip-Fire Grip
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Running on Empty" ⛽️⛽️⛽️ CE (- Barrels) - 0.5% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Alloy Magazine
+  Perks 1 [ 50%]: Feeding Frenzy, Moving Target, Hip-Fire Grip
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Running on Empty" ⛽️⛽️⛽️ CE (- Perks) - 0.8% chance**
+
+  ```
+  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
+  Mags    [ 25%]: Alloy Magazine
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Running on Empty" ⛽️⛽️⛽️ CE (- Masterworks) - 1.7% chance**
+
+  ```
+  Barrels [ 80%]: Target SAS, Tactic SAS, Shortspec SAS
+  Mags    [ 25%]: Alloy Magazine
+  Perks 1 [ 50%]: Feeding Frenzy, Moving Target, Hip-Fire Grip
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Running on Empty" ⛽️⛽️ CE (- Barrels - Masterworks) - 2.1% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Alloy Magazine
+  Perks 1 [ 50%]: Feeding Frenzy, Moving Target, Hip-Fire Grip
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Running on Empty" ⛽️ (Baseline) - 4.2% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Alloy Magazine
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+## Orewing's Maul - PvP
+*For all possible perks, check out **Orewing's Maul** over on [light.gg](https://www.light.gg/db/items/2108920981/orewings-maul/)*
+
+
+Orewing's is almost identical to the [Truthteller](#truthteller---pvp) in every way, save for a much less excellent perk pool. Truthteller has more interesting combinations, but if you're swimming in GL's from Iron Banner and really want to keep one, read on.
+
+[Destiny Fun Police](https://www.youtube.com/watch?v=gXhfIXnPTT4) (aka DFP) first popularized these back in Year 1 of Destiny 2 when he used the Fighting Lion to great affect.
+
+Like Truthteller, Orewing's is part of the "Lightweight Frame" grenade launchers (breach-loaded, single shot). Lightweight grenade launchers all have a "remote detonation" ability where they detonate when you release the trigger (or you get a direct hit). These weapons have a very high skill ceiling, allowing banked shots and shots that explode next to enemies in cover. In PvP, these weapons excel at starting engagements rather than finishing them. We want Orewing's to soften our enemies up, even if we don't get a direct hit.
+
+Let's talk perks, and why you probably want a Truthteller instead ;)
+* **Column 2**: Here you have a choice between `Spike`, `Blinding` and `Concussion` grenades. Blinding grenades flash your screen white and slowly subside whereas Concussion grenades jerk your camera dramatically, like being hit by a tether. Either Concussion or Blinding grenades are bugged because Blinding's radius is massive whereas Concussion requires a near direct hit. With such a wide radius, you can practically gaurantee that you'll be able to blind folks in PvP so I tend to suggest `Blinding`. What about `Promixity`? The proximity detonation radius is so miniscule that you may as well use `Spike` if you're that accurate. Firing at enemies in the Tribute Hall and you have to give them a buzz cut for `Proximity` to proc.
+* **Column 3**: Only one perk in this column has utility in PvP and that's `Quickdraw`.
+* **Column 4** : Only one perk in this column has utility in PvP and that's Auto-Loading Holster. `Rangefinder`, `Moving Target` and `Snapshot` don't help us at all, because you're always hip-firing. `Demolitionist` only procs on kills and we're using these to open, not to close. If you get any other perk than ALH in this slot, it will unfortunately go to waste.
+
+In the immortal words of [@tednaleid](https://github.com/tednaleid) "I'm not sure why Bungie created both of these weapons" and it's true! It's hard to see why you'd run an Orewing's over a Truthteller. Heck it's hard to see why you'd run an Orewing's at all given the two most important slots have near zero utility in PvP.
+
+Remember to pair this with the `Quick Access Sling` mod as it'll proc with every shot and let us more quickly clean up what we've started.
+* **(PvP/PvE) "Blinded by the Light" 🙈🙈🙈🌟🌟 Collector's Edition - 0.2% chance**: 
+
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Blinding Grenades
+  Perks 1 [ 20%]: Quickdraw
+  Perks 2 [ 20%]: Auto-Loading Holster
+  MWorks  [ 20%]: Velocity MW
+  ```
+* **(PvP/PvE) "Blinded by the Light" 🙈🙈🙈🌟 Collector's Edition - 1.1% chance**: The rest of the rolls won't feature `Quickdraw`. It's fine but with `Quick Access Sling` you won't miss it.
+
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Blinding Grenades
+  Perks 1 [100%]: *
+  Perks 2 [ 20%]: Auto-Loading Holster
+  MWorks  [ 20%]: Velocity MW
+  ```
+* **(PvP/PvE) "Blinded" 🙈🙈 CE (- Barrels) - 1.3% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 33%]: Blinding Grenades
+  Perks 1 [100%]: *
+  Perks 2 [ 20%]: Auto-Loading Holster
+  MWorks  [ 20%]: Velocity MW
+  ```
+* **(PvP/PvE) "Blinded" 🙈🙈 CE (- Masterworks) - 5.7% chance**
+
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Blinding Grenades
+  Perks 1 [100%]: *
+  Perks 2 [ 20%]: Auto-Loading Holster
+  MWorks  [100%]: *
+  ```
+* **(PvP/PvE) "Blinded" 🙈 (Baseline) - 6.7% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 33%]: Blinding Grenades
+  Perks 1 [100%]: *
+  Perks 2 [ 20%]: Auto-Loading Holster
+  MWorks  [100%]: *
+  ```
+## Orewing's Maul - PvE
+*For all possible perks, check out **Orewing's Maul** over on [light.gg](https://www.light.gg/db/items/2108920981/orewings-maul/)*
+
+
+This section is the same as the Truthteller PvE writeup. [Have a look](#truthteller---pve) and come on back!
+
+The main difference is that the perks on Orewing's are in different columns, so we don't have as many choices.
+* **(PvE) "Welcome to the Boomtown" 💥💥💥🌟 Collector's Edition - 0.5% chance**: Maximize direct damage on larger enemies with Spike Grenades, reload perks and masterwork as you're relying on this weapon and not others.
+
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Spike Grenades
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 40%]: Auto-Loading Holster, Demolitionist
+  MWorks  [ 20%]: Reload MW
+  ```
+* **(PvE) "Boomtown" 💥💥💥 (+ Masterworks) - 1.4% chance**
+
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Spike Grenades
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 40%]: Auto-Loading Holster, Demolitionist
+  MWorks  [ 60%]: Reload MW, Velocity MW, Handling MW
+  ```
+* **(PvE) "Boomtown" 💥💥💥 (- Perks) - 2.3% chance**
+
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Spike Grenades
+  Perks 1 [100%]: *
+  Perks 2 [ 40%]: Auto-Loading Holster, Demolitionist
+  MWorks  [ 20%]: Reload MW
+  ```
+* **(PvE) "Boomtown" 💥💥 (- Perks + Masterworks) - 6.9% chance**
+
+  ```
+  Barrels [ 85%]: Quick Launch, Smart Drift Control, Linear Compensator, Hard Launch
+  Mags    [ 33%]: Spike Grenades
+  Perks 1 [100%]: *
+  Perks 2 [ 40%]: Auto-Loading Holster, Demolitionist
+  MWorks  [ 60%]: Reload MW, Velocity MW, Handling MW
+  ```
+* **(PvE) "Boomtown" 💥 (Baseline) - 13.3% chance**: Spike grenades and some sort of reload perk, that's all we're looking for here.
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 33%]: Spike Grenades
+  Perks 1 [100%]: *
+  Perks 2 [ 40%]: Auto-Loading Holster, Demolitionist
+  MWorks  [100%]: *
+  ```
+## Swarm of the Raven - PvE
+*For all possible perks, check out **Swarm of the Raven** over on [light.gg](https://www.light.gg/db/items/1972985595/swarm-of-the-raven/)*
+
+
+For a moment in time, Swarm of the Raven was a legit DPS option. It's a Void Grenade Launcher and the buff from Tractor Cannon made it a beast. It's not super hot anymore, but why not secure yourself a good one just in case? Chances are without even trying you're going to get a pretty decent roll. Enjoy!
+* **(PvE) "Dive Bomb" 🦅🦅🦅🌟 Collector's Edition - 0.2% chance**: More impact damage and ammo reserves, along with bumped `Velocity`.
+
+  ```
+  Barrels [ 71%]: Quick Launch, Linear Compensator, Smart Drift Control
+  Mags    [ 25%]: Spike Grenades
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 25%]: Quickdraw
+  MWorks  [ 20%]: Velocity MW
+  ```
+* **(PvE) "Dive Bomb" 🦅🦅🦅 CE (- Perks) - 0.7% chance**
+
+  ```
+  Barrels [ 71%]: Quick Launch, Linear Compensator, Smart Drift Control
+  Mags    [ 25%]: Spike Grenades
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [100%]: *
+  MWorks  [ 20%]: Velocity MW
+  ```
+* **(PvE) "Dive Bomb" 🦅🦅 CE (- Masterwork) - 3.6% chance**
+
+  ```
+  Barrels [ 71%]: Quick Launch, Linear Compensator, Smart Drift Control
+  Mags    [ 25%]: Spike Grenades
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Dive Bomb" 🦅 (Baseline) - 5.0% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Spike Grenades
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+  ```
+## Talons of the Eagle - PvP
+*For all possible perks, check out **Talons of the Eagle** over on [light.gg](https://www.light.gg/db/items/1982711279/talons-of-the-eagle/)*
+
+
+Talons of the Eagle is a 150 RPM "High-Impact Frame" Kinetic Scout Rifle. It originally appeared wayyy back in Season 4 (aka Forsaken). It's been recently re-issued in the first Season 11 Iron Banner. As part of this re-issue, the perk pool is unchanged, so we have years' worth of knowledge about how these work and years' worth of confusion as to why Scout Rifles can roll with `Threat Detector` and `Hip-Fire Grip`.
+
+In order to beat out other long-range options in the Kinetic slot for PvP, I think you really want `Explosive Rounds` here. 150s are the slowest-firing, heaviest-hitting scouts but when you're competing against snipers and Arbalests, I think you need more flinch than they can put out at base.
+
+The general drawbacks of 150s is their low `Stability` and `Handling` so we're going to address those as a secondary focus in all in all of our rolls.
+* **(PvP) "Planting Bombs" 🌿🌿🌿💣🌟Collector's Edition - 0.0% chance**: `Firmly Planted` is terrific on long-range weapons like Pulse and Scout Rifles where you can post up in cover and peek shoot from a distance. There's also not much else terrific in that slot. Zen Moment is good, but Firmly Planted outclasses it.
+
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Planting Bombs" 🌿🌿🌿💣 CE (+ Barrels) - 0.2% chance**
+
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Planting Bombs" 🌿🌿🌿💣 CE (+ Magazines) - 0.1% chance**
+
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Planting Bombs" 🌿🌿🌿💣 CE (+ Barrels + Magazines) - 0.4% chance**
+
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Planting Bombs" 🌿🌿🌿💣 (+ Barrels - Magazines) - 0.7% chance**
+
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Planting Bombs" 🌿🌿💣 (+ Magazines + Barrels + Perks - Masterworks) - 1.8% chance**
+
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Planting Bombs" 🌿💣 (Baseline) - 3.3% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Firmly Planted
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Raining Fire" 🌧🌧🌧🔥🌟Collector's Edition - 0.0% chance**: We're going to repeat the same set of rolls that we have above, minus `Firmly Planted` which is a pretty big playstyle preference that some folks are not super keen on. It's not a make-or-break here, so we're also going to feature rolls without it.
+
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Zen Moment
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (- Perks) - 0.2% chance**
+
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Barrels) - 0.2% chance**
+
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Zen Moment
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Barrels - Perks) - 0.9% chance**
+
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Magazines) - 0.1% chance**
+
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 20%]: Zen Moment
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Magazines - Perks) - 0.6% chance**
+
+  ```
+  Barrels [ 22%]: Polygonal Rifling
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Barrels + Magazines) - 0.4% chance**
+
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [ 20%]: Zen Moment
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Raining Fire" 🌧🌧🌧🔥 CE (+ Barrels + Magazines - Perks) - 2.2% chance**
+
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvP) "Raining Fire" 🌧🌧🔥 (+ Barrles + Magazines - Perks) - 8.9% chance**
+
+  ```
+  Barrels [ 83%]: Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Arrowhead Brake
+  Mags    [ 64%]: Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Explosive Rounds
+  MWorks  [100%]: *
+  ```
+## Talons of the Eagle - PvE
+*For all possible perks, check out **Talons of the Eagle** over on [light.gg](https://www.light.gg/db/items/1982711279/talons-of-the-eagle/)*
+
+
+As mentioned in the PvP summary, Talons is still rocking that Season 4 perk pool, meaning we're back to our tried-and-true combinations.
+* **(PvE) "Gunslinger" 🤠🤠🤠🌟 Collector's Edition - 0.0% chance**: `Outlaw` + `Rampage`, same as it ever was! Going for the classic DPS combo with as much `Range` as we can get.
+
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Outlaw
+  Perks 2 [ 16%]: Rampage
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Gunslinger" 🤠🤠🤠 CE (+ Barrels) - 0.1% chance**
+
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Outlaw
+  Perks 2 [ 16%]: Rampage
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Gunslinger" 🤠🤠🤠 CE (- Barrels) - 0.2% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Outlaw
+  Perks 2 [ 16%]: Rampage
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Gunslinger" 🤠🤠🤠 CE (- Magazines) - 0.5% chance**
+
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Outlaw
+  Perks 2 [ 16%]: Rampage
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Gunslinger" 🤠🤠🤠 CE (- Masterwork) - 0.5% chance**
+
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Outlaw
+  Perks 2 [ 16%]: Rampage
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Gunslinger" 🤠🤠 (- Barrels - Magazines) - 0.8% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Outlaw
+  Perks 2 [ 16%]: Rampage
+  MWorks  [ 25%]: Range MW
+  ```
+* **(PvE) "Gunslinger" 🤠🤠 (- Barrels - Masterworks) - 0.8% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Accurized Rounds
+  Perks 1 [ 20%]: Outlaw
+  Perks 2 [ 16%]: Rampage
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Gunslinger" 🤠🤠 (- Magazines - Masterworks) - 1.9% chance**
+
+  ```
+  Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Outlaw
+  Perks 2 [ 16%]: Rampage
+  MWorks  [100%]: *
+  ```
+* **(PvE) "Gunslinger" 🤠 (Baseline) - 3.3% chance**
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Outlaw
+  Perks 2 [ 16%]: Rampage
   MWorks  [100%]: *
   ```
