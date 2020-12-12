@@ -35,6 +35,9 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * Swarm of the Raven ([PvE](#swarm-of-the-raven---pve))
 * Talons of the Eagle ([PvP](#talons-of-the-eagle---pvp), [PvE](#talons-of-the-eagle---pve))
 
+**Raids**
+* Heritage ([PvE](#heritage---pve), [PvP](#heritage---pvp))
+
 **Season 11 - Season of Arrivals (Concluded)**
 * Berenger's Memory ([PvE](#berengers-memory---pve))
 * Cold Denial ([PvP](#cold-denial---pvp), [PvE](#cold-denial---pve))
@@ -3368,6 +3371,55 @@ As mentioned in the PvP summary, Talons is still rocking that Season 4 perk pool
   Perks 2 [ 16%]: Rampage
   MWorks  [100%]: *
   ```
+## Heritage
+*For all possible perks, check out **Heritage** over on [light.gg](https://www.light.gg/db/items/4248569242/heritage/)*
+
+Heritage is a kinetic "precision frame" (slug) shotgun that can drop from the 2nd and 3rd encounters of the Deep Stone Crypt raid.  After the initial drop, you have a chance of getting additional rolls from the raid's secret chests.
+As of Season 12, it is the only legendary kinetic slug shotgun that is viable in leveled content.
+### Heritage - PvE
+Slug shotguns currently enable some of the highest DPS in the game, and are the meta-loadout for boss DPS in a number of encounters, including the final boss of the raid.
+#### **Re-Re-Re-Re-Combo Breaker!**
+Reconstruction is a new perk that currently only drops on rolls from the DSC Raid.  Every 4 seconds it loads 10% of the base magazine from reserves into the gun, and it maxes out at 2x the normal magazine size.  It starts at a base of 6 (12) but with Extended Mag and the Backup Mag mod you can get up to 8 (16) shots without reloading!
+None of the traditional damage perks (Rampage, Kill Clip, Vorpal) are available on this gun, so our best bet for the 4th column is another new perk, Recombination.  Final blows from all "elemental" sources (so, everything that isn't this shotgun) stack up to 10x.  Each stack will add 10% for the next Heritage shot (so up to 2x damage).
+```
+  Barrels [ 58%]: Full Bore, Corkscrew Rifling, Smallbore
+  Mags    [ 52%]: Extended Mag, Assault Mag
+  Perks 1 [ 16%]: Reconstruction
+  Perks 2 [ 16%]: Recombination
+  MWorks  [ 25%]: Range MW
+```
+| Variant | Chance |
+|:-|-:|
+| 📈📈📈📈🌟 Collector's Edition | 0.2% |
+| 📈📈📈 CE (-barrels) | 0.4% |
+| 📈📈📈️ CE (-magazines) | 0.4% |
+| 📈📈📈 CE (-masterworks) | 0.8% |
+| 📈📈 (-barrels, -magazines) | 0.7% |
+| 📈📈️ (-barrels, -masterworks) | 1.5% |
+| 📈📈️ (-magazines, -masterworks) | 1.6% |
+| 📈️ (-barrels, -magazines, -masterworks) | 2.8% |
+### Heritage - PvP
+Heritage has the highest aim assist of any slug shotgun.  [Drewsky](https://www.youtube.com/watch?v=XUGZIasUu9o) says "this weapon is really comparable to The Chaperone."
+The base one hit kill range is 10.5 meters, you can increase that up to 11.9m with Killing Wind and Slideshot active.
+#### **Killing Slide**
+All Range and all damage.
+```
+  Barrels [ 58%]: Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 16%]: Killing Wind
+  MWorks  [ 25%]: Handling MW
+```
+| Variant | Chance |
+|:-|-:|
+| 🎢🎢🎢🎢️🌟 Collector's Edition | 0.1% |
+| 🎢🎢🎢 CE (-barrels) | 0.2% |
+| 🎢🎢🎢️ CE (-magazines) | 0.4% |
+| 🎢🎢🎢 CE (-masterworks) | 0.5% |
+| 🎢🎢 (-barrels, -magazines) | 0.7% |
+| 🎢🎢️ (-barrels, -masterworks) | 0.8% |
+| 🎢🎢️ (-magazines, -masterworks) | 1.6% |
+| 🎢️ (-barrels, -magazines, -masterworks) | 2.8% |
 ## Berenger's Memory - PvE
 *For all possible perks, check out **Berenger's Memory** over on [light.gg](https://www.light.gg/db/items/407621213/berengers-memory/)*
 
