@@ -1,0 +1,168 @@
+syntax_version: 2
+name: The Steady Hand
+item_id: 2220884262
+lightgg: https://www.light.gg/db/items/2220884262/the-steady-hand/
+traits:
+  barrels:     {t: 6, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  The Steady Hand (TSH) is a 120 RPM "Aggressive Frame" Kinetic Hand Cannon,
+  re-issued in Year 4 with random rolls. Prior to Season 12 in November 2020,
+  Aggressive Frames were bumped from 110 RPM to 120 RPM as part of a
+  [large scale Hand Cannon rework](https://www.bungie.net/en/News/Article/49676).
+  The general consensus thus far is that TSH is terrific.
+
+  
+  > *The Steady Hand is probably the most consistent legendary 120 RPM aggressive
+  hand cannon.* - Drewsky
+
+
+  * [Fallout - S-Tier Legendary Hand Cannon: Steady Hand GOD ROLL](https://www.youtube.com/watch?v=46F_0m3r6GE)
+  
+  * [Drewsky - The Steady Hand God Roll Is the Most Consistent Legendary Hand Cannon](https://www.youtube.com/watch?v=kmdPE7KUrlQ)
+  
+  * [DFP - THE STEADY HAND IS THE BEST 120 HAND CANNON!](https://www.youtube.com/watch?v=--Pf0Uvpprg)
+
+  * [IFrostBolt - STEADYHAND = Run If You See This Hand Cannon](https://www.youtube.com/watch?v=4RVzmlxjq-I)
+  
+  * [The Steady Hand UPDATED Review (The God Rolls)](https://www.youtube.com/watch?v=ne0XkYP3joU)
+
+
+  What I love about these videos (and this set of perks) is that there is not
+  absolute agreement on which roll is the best.
+  
+  
+  Iron Banner weapons tend to shine in PvP, so we won't feature many PvE
+  builds.
+activities:
+  - 
+    name: PvP
+    overview: >
+      With Bungie's announcement that they can now have different falloff tiers
+      across Hand Cannons (see patch notes above) the 120s are, perhaps oddly,
+      now able to compete with Pulse Rifles. That, plus the fact that this is a
+      controller-centric wishlist, means we'll be favouring Stability and Aim
+      Assist perks.
+
+
+      > *You don't really need to worry about Range in my opinion so much on
+      these hand cannons since they already have so much to begin with. Not to
+      say it isn't valuable, but I think that it might be worth boosting other
+      aspects of this weapon."* - Drewsky
+    roll_sets:
+      - 
+        name: Locked On 
+        overview: >
+          Moving Target and Iron Gaze are going to bump Target Acquisition
+          immensely. You give up a few meters of damage falloff, and in return
+          significantly increased accuracy.
+        perks:
+          base:
+            barrels: [Steadyhand HCS]
+            magazines: [Ricochet Rounds]
+            perks1: [Moving Target]
+            perks2: [Iron Gaze]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Steadyhand HCS, Fastdraw HCS, Truesight HCS]
+            magazines: [Ricochet Rounds, Flared Magwell]
+        variants:
+          - 🔒🔒🔒🌟 Collector's Edition
+      - 
+        name: What Bloom? 
+        overview: >
+           
+        perks:
+          base:
+            barrels: [Steadyhand HCS]
+            magazines: [Ricochet Rounds]
+            perks1: [Moving Target]
+            perks2: [Iron Grip]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Steadyhand HCS, Fastdraw HCS, Truesight HCS]
+            magazines: [Ricochet Rounds, Flared Magwell]
+        variants:
+          - 💐💐💐🌟 Collector's Edition
+      - 
+        name: Demon of Sixes Street
+        overview: >
+          This is primarily a roll for sixes where TSH can shine as a cleanup
+          weapon with a higher chance of chaining kills. Keep in mind that a
+          `Resilience` of `5` cancels out the Swashbuckler two-tap from full
+          health but in sixes that's not always what you're dealing with. If you
+          can pair this with a ranged melee (Swashbuckler x 5) you'llI
+          wouldn't suggest this roll for Comp or Trials.
+        perks:
+          base:
+            barrels: [Steadyhand HCS, Fastdraw HCS]
+            magazines: [Ricochet Rounds]
+            perks1: [Outlaw]
+            perks2: [Swashbuckler]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Steadyhand HCS, Fastdraw HCS, Truesight HCS]
+            magazines: [Ricochet Rounds, Flared Magwell]
+        variants:
+          - 👹👹👹🌟 Collector's Edition
+      - 
+        name: Float Like a Butterfly
+        overview: >
+          If you pair a Quickdraw TSH with a breach-load GL with a Quick Access
+          Sling mod, you have a super powerful combination. Pairing it with Le
+          Monarque has a similar effect: massive damage with an opening shot from
+          your Energy weapon and a single shot from TSH to clean up. With
+          Quickdraw and Snapshot, this Aggressive Frame can feel like a
+          Lightweight.
+        perks:
+          base:
+            barrels: [Fastdraw HCS, Steadyhand HCS]
+            magazines: [Ricochet Rounds]
+            perks1: [Quickdraw]
+            perks2: [Snapshot]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Fastdraw HCS, Steadyhand HCS, Truesight HCS]
+            magazines: [Ricochet Rounds, Flared Magwell]
+        variants:
+          - 🦋🦋🦋🌟 Collector's Edition
+  - 
+    name: PvE
+    overview: >
+      Generally in PvE you're going for as much `Range` as you can get with
+      sustained damage upkeep. If you liked
+      [The Duke Mk. 44](https://www.light.gg/db/items/2112909414/duke-mk-44/)
+      then TSH could be for you.
+    roll_sets:
+      -
+        name: Rapid Reload
+        overview: >
+          Without Outlaw, you're going to have to rely on Transversives,
+          Marksman's Dodge, etc. to reload effectively in PvE. Without it,
+          you're looking at a lot of downtime in situations where there are
+          better alternatives. This is the case with Outlaw-based Duke rolls
+          and people absolutely loved that sooo 🤷‍♂️
+        perks:
+          base:
+            barrels: [Hitmark HCS, Truesight HCS]
+            magazines: [High-Caliber Rounds, Armor-Piercing Rounds]
+            perks1: [Outlaw]
+            perks2: [Swashbuckler]
+            masterworks: [Range MW]
+          extensions:
+            magazines: [High-Caliber Rounds, Armor-Piercing Rounds, Light Mag, Ricochet Rounds]
+        variants:
+          - ♻️♻️♻️🌟 Collector's Edition
+          - ♻️♻️♻️ CE (+magazines)
+          - ♻️♻️♻️ CE (-barrels)
+          - ♻️♻️♻️ CE (+magazines, -barrels)
+          - ♻️♻️♻️ CE (-magazines)
+          - ♻️♻️♻️ CE (+magazines, -masterworks)
+          - ♻️♻️♻️ CE (-masterworks)
+          - ♻️♻️ (-barrels, -magazines)
+          - ♻️♻️ (-barrels, -masterworks)
+          - ♻️♻️ (-magazines, -masterworks)
+          - ♻️ (-barrels, -magazines, -masterworks)

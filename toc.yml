@@ -1,16 +1,19 @@
 ordering:
   # - s12
   - world_drops
-  - iron_banner
+  - iron_banner_y4
   - raid
   - s11
   - s10
   - s9
+  - iron_banner
 naming:
   s9: Season 9 - Season of the Dawn (Concluded)
   s10: Season 10 - Season of the Worthy (Concluded)
   s11: Season 11 - Season of Arrivals (Concluded) 
-  # s12: Season 12 - Season of the Hunt (November 2019 - February 2021)
+  # s12: Season 12 - Season of the Hunt (November 2020 - February 2021)
   world_drops: World Drops
   iron_banner: Iron Banner
   raid: Raids
+  iron_banner: Iron Banner (Year 3)
+  iron_banner_y4: Iron Banner (Year 4)
