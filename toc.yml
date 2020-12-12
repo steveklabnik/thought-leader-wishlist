@@ -2,6 +2,7 @@ ordering:
   # - s12
   - world_drops
   - iron_banner
+  - raid
   - s11
   - s10
   - s9
@@ -12,3 +13,4 @@ naming:
   # s12: Season 12 - Season of the Hunt (November 2019 - February 2021)
   world_drops: World Drops
   iron_banner: Iron Banner
+  raid: Raids
