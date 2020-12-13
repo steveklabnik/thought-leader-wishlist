@@ -2296,7 +2296,7 @@ With Bungie's announcement that they can now have different falloff tiers across
 #### **Locked On**
 Moving Target and Iron Gaze are going to bump Target Acquisition immensely. You give up a few meters of damage falloff, and in return significantly increased accuracy.
 ```
-  Barrels [ 33%]: Steadyhand HCS
+  Barrels [ 60%]: Steadyhand HCS, Fastdraw HCS
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [ 16%]: Moving Target
   Perks 2 [ 16%]: Iron Gaze
@@ -2305,18 +2305,19 @@ Moving Target and Iron Gaze are going to bump Target Acquisition immensely. You 
 | Variant | Chance |
 |:-|-:|
 | 🔒🔒🔒🌟 Collector's Edition | 0.1% |
-#### **What Bloom?**
-
-```
-  Barrels [ 33%]: Steadyhand HCS
-  Mags    [ 25%]: Ricochet Rounds
-  Perks 1 [ 16%]: Moving Target
-  Perks 2 [ 16%]: Iron Grip
-  MWorks  [ 25%]: Stability MW
-```
-| Variant | Chance |
-|:-|-:|
-| 💐💐💐🌟 Collector's Edition | 0.1% |
+| 🔒🔒🔒 CE (+barrels) | 0.1% |
+| 🔒🔒🔒 CE (+magazines) | 0.2% |
+| 🔒🔒🔒 CE (-barrels) | 0.2% |
+| 🔒🔒🔒 CE (-magazines) | 0.4% |
+| 🔒🔒🔒 CE (-masterworks) | 0.4% |
+| 🔒🔒 (-barrels, +magazines) | 0.3% |
+| 🔒🔒 (+barrels, -magazines) | 0.6% |
+| 🔒🔒 (-barrels, -magazines) | 0.7% |
+| 🔒🔒 (-barrels, +magazines, -masterworks) | 1.3% |
+| 🔒🔒 (+barrels, -magazines, -masterworks) | 2.2% |
+| 🔒🔒 (-barrels, -masterworks) | 0.7% |
+| 🔒🔒 (-magazines, -masterworks) | 1.7% |
+| 🔒 (-barrels, -magazines, -masterworks) | 2.8% |
 #### **Demon of Sixes Street**
 This is primarily a roll for sixes where TSH can shine as a cleanup weapon with a higher chance of chaining kills. Keep in mind that a `Resilience` of `5` cancels out the Swashbuckler two-tap from full health but in sixes that's not always what you're dealing with. If you can pair this with a ranged melee (Swashbuckler x 5) you'llI wouldn't suggest this roll for Comp or Trials.
 ```
@@ -2329,6 +2330,19 @@ This is primarily a roll for sixes where TSH can shine as a cleanup weapon with 
 | Variant | Chance |
 |:-|-:|
 | 👹👹👹🌟 Collector's Edition | 0.1% |
+| 👹👹👹 CE (+barrels) | 0.1% |
+| 👹👹👹 CE (+magazines) | 0.2% |
+| 👹👹👹 CE (-barrels) | 0.2% |
+| 👹👹👹 CE (-magazines) | 0.4% |
+| 👹👹👹 CE (-masterworks) | 0.4% |
+| 👹👹 (-barrels, +magazines) | 0.3% |
+| 👹👹 (+barrels, -magazines) | 0.6% |
+| 👹👹 (-barrels, -magazines) | 0.7% |
+| 👹👹 (-barrels, +magazines, -masterworks) | 1.3% |
+| 👹👹 (+barrels, -magazines, -masterworks) | 2.2% |
+| 👹👹 (-barrels, -masterworks) | 0.7% |
+| 👹👹 (-magazines, -masterworks) | 1.7% |
+| 👹 (-barrels, -magazines, -masterworks) | 2.8% |
 #### **Float Like a Butterfly**
 If you pair a Quickdraw TSH with a breach-load GL with a Quick Access Sling mod, you have a super powerful combination. Pairing it with Le Monarque has a similar effect: massive damage with an opening shot from your Energy weapon and a single shot from TSH to clean up. With Quickdraw and Snapshot, this Aggressive Frame can feel like a Lightweight.
 ```
@@ -2341,6 +2355,44 @@ If you pair a Quickdraw TSH with a breach-load GL with a Quick Access Sling mod,
 | Variant | Chance |
 |:-|-:|
 | 🦋🦋🦋🌟 Collector's Edition | 0.1% |
+| 🦋🦋🦋 CE (+barrels) | 0.1% |
+| 🦋🦋🦋 CE (+magazines) | 0.2% |
+| 🦋🦋🦋 CE (-barrels) | 0.2% |
+| 🦋🦋🦋 CE (-magazines) | 0.4% |
+| 🦋🦋🦋 CE (-masterworks) | 0.4% |
+| 🦋🦋 (-barrels, +magazines) | 0.3% |
+| 🦋🦋 (+barrels, -magazines) | 0.6% |
+| 🦋🦋 (-barrels, -magazines) | 0.7% |
+| 🦋🦋 (-barrels, +magazines, -masterworks) | 1.3% |
+| 🦋🦋 (+barrels, -magazines, -masterworks) | 2.2% |
+| 🦋🦋 (-barrels, -masterworks) | 0.7% |
+| 🦋🦋 (-magazines, -masterworks) | 1.7% |
+| 🦋 (-barrels, -magazines, -masterworks) | 2.8% |
+#### **Workhorse**
+Many phenomenal perks in column three and column four. As Fallout mentions in his review, you'd be kinda happy to get any of them.
+```
+  Barrels [ 60%]: Fastdraw HCS, Steadyhand HCS
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 50%]: Killing Wind, Quickdraw, Moving Target
+  Perks 2 [ 50%]: Wellspring, Snapshot, Iron Grip
+  MWorks  [ 25%]: Stability MW
+```
+| Variant | Chance |
+|:-|-:|
+| 🐴🐴🐴🌟 Collector's Edition | 0.9% |
+| 🐴🐴🐴 CE (+barrels) | 1.2% |
+| 🐴🐴🐴 CE (+magazines) | 1.7% |
+| 🐴🐴🐴 CE (-barrels) | 1.6% |
+| 🐴🐴🐴 CE (-magazines) | 3.8% |
+| 🐴🐴🐴 CE (-masterworks) | 3.8% |
+| 🐴🐴 (-barrels, +magazines) | 2.9% |
+| 🐴🐴 (+barrels, -magazines) | 5.0% |
+| 🐴🐴 (-barrels, -magazines) | 6.2% |
+| 🐴🐴 (-barrels, +magazines, -masterworks) | 11.6% |
+| 🐴🐴 (+barrels, -magazines, -masterworks) | 20.0% |
+| 🐴🐴 (-barrels, -masterworks) | 6.2% |
+| 🐴🐴 (-magazines, -masterworks) | 15.0% |
+| 🐴 (-barrels, -magazines, -masterworks) | 25.0% |
 ### The Steady Hand - PvE
 Generally in PvE you're going for as much `Range` as you can get with sustained damage upkeep. If you liked [The Duke Mk. 44](https://www.light.gg/db/items/2112909414/duke-mk-44/) then TSH could be for you.
 #### **Rapid Reload**
