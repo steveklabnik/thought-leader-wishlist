@@ -61,7 +61,7 @@ activities:
           significantly increased accuracy.
         perks:
           base:
-            barrels: [Steadyhand HCS]
+            barrels: [Steadyhand HCS, Fastdraw HCS]
             magazines: [Ricochet Rounds]
             perks1: [Moving Target]
             perks2: [Iron Gaze]
@@ -71,22 +71,19 @@ activities:
             magazines: [Ricochet Rounds, Flared Magwell]
         variants:
           - 🔒🔒🔒🌟 Collector's Edition
-      - 
-        name: What Bloom? 
-        overview: >
-           
-        perks:
-          base:
-            barrels: [Steadyhand HCS]
-            magazines: [Ricochet Rounds]
-            perks1: [Moving Target]
-            perks2: [Iron Grip]
-            masterworks: [Stability MW]
-          extensions:
-            barrels: [Steadyhand HCS, Fastdraw HCS, Truesight HCS]
-            magazines: [Ricochet Rounds, Flared Magwell]
-        variants:
-          - 💐💐💐🌟 Collector's Edition
+          - 🔒🔒🔒 CE (+barrels)
+          - 🔒🔒🔒 CE (+magazines)
+          - 🔒🔒🔒 CE (-barrels)
+          - 🔒🔒🔒 CE (-magazines)
+          - 🔒🔒🔒 CE (-masterworks)
+          - 🔒🔒 (-barrels, +magazines)
+          - 🔒🔒 (+barrels, -magazines)
+          - 🔒🔒 (-barrels, -magazines)
+          - 🔒🔒 (-barrels, +magazines, -masterworks)
+          - 🔒🔒 (+barrels, -magazines, -masterworks)
+          - 🔒🔒 (-barrels, -masterworks)
+          - 🔒🔒 (-magazines, -masterworks)
+          - 🔒 (-barrels, -magazines, -masterworks)          
       - 
         name: Demon of Sixes Street
         overview: >
@@ -108,6 +105,19 @@ activities:
             magazines: [Ricochet Rounds, Flared Magwell]
         variants:
           - 👹👹👹🌟 Collector's Edition
+          - 👹👹👹 CE (+barrels)
+          - 👹👹👹 CE (+magazines)
+          - 👹👹👹 CE (-barrels)
+          - 👹👹👹 CE (-magazines)
+          - 👹👹👹 CE (-masterworks)
+          - 👹👹 (-barrels, +magazines)
+          - 👹👹 (+barrels, -magazines)
+          - 👹👹 (-barrels, -magazines)
+          - 👹👹 (-barrels, +magazines, -masterworks)
+          - 👹👹 (+barrels, -magazines, -masterworks)
+          - 👹👹 (-barrels, -masterworks)
+          - 👹👹 (-magazines, -masterworks)
+          - 👹 (-barrels, -magazines, -masterworks)          
       - 
         name: Float Like a Butterfly
         overview: >
@@ -129,6 +139,49 @@ activities:
             magazines: [Ricochet Rounds, Flared Magwell]
         variants:
           - 🦋🦋🦋🌟 Collector's Edition
+          - 🦋🦋🦋 CE (+barrels)
+          - 🦋🦋🦋 CE (+magazines)
+          - 🦋🦋🦋 CE (-barrels)
+          - 🦋🦋🦋 CE (-magazines)
+          - 🦋🦋🦋 CE (-masterworks)
+          - 🦋🦋 (-barrels, +magazines)
+          - 🦋🦋 (+barrels, -magazines)
+          - 🦋🦋 (-barrels, -magazines)
+          - 🦋🦋 (-barrels, +magazines, -masterworks)
+          - 🦋🦋 (+barrels, -magazines, -masterworks)
+          - 🦋🦋 (-barrels, -masterworks)
+          - 🦋🦋 (-magazines, -masterworks)
+          - 🦋 (-barrels, -magazines, -masterworks)          
+      - 
+        name: Workhorse
+        overview: >
+          Many phenomenal perks in column three and column four. As Fallout
+          mentions in his review, you'd be kinda happy to get any of them.
+        perks:
+          base:
+            barrels: [Fastdraw HCS, Steadyhand HCS]
+            magazines: [Ricochet Rounds]
+            perks1: [Killing Wind, Quickdraw, Moving Target]
+            perks2: [Wellspring, Snapshot, Iron Grip]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Fastdraw HCS, Steadyhand HCS, Truesight HCS]
+            magazines: [Ricochet Rounds, Flared Magwell]
+        variants:
+          - 🐴🐴🐴🌟 Collector's Edition
+          - 🐴🐴🐴 CE (+barrels)
+          - 🐴🐴🐴 CE (+magazines)
+          - 🐴🐴🐴 CE (-barrels)
+          - 🐴🐴🐴 CE (-magazines)
+          - 🐴🐴🐴 CE (-masterworks)
+          - 🐴🐴 (-barrels, +magazines)
+          - 🐴🐴 (+barrels, -magazines)
+          - 🐴🐴 (-barrels, -magazines)
+          - 🐴🐴 (-barrels, +magazines, -masterworks)
+          - 🐴🐴 (+barrels, -magazines, -masterworks)
+          - 🐴🐴 (-barrels, -masterworks)
+          - 🐴🐴 (-magazines, -masterworks)
+          - 🐴 (-barrels, -magazines, -masterworks)
   - 
     name: PvE
     overview: >
