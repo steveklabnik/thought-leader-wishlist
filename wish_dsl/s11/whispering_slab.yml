@@ -1,47 +1,48 @@
+syntax_version: 2
 name: Whispering Slab
 item_id: 211938782
 lightgg: https://www.light.gg/db/items/211938782/whispering-slab/
-slots:
+traits:
   barrels:     {t: 7, c: 2}
   magazines:   {t: 6, c: 2}
   perks1:      {t: 6, c: 1}
   perks2:      {t: 6, c: 2}
   masterworks: {t: 5, c: 1}
-groups: 
+overview: >
+  **🌟💥🎉 BOW HYPE TIME 🌟💥🎉 BOW HYPE TIME 🌟💥🎉 BOW HYPE TIME 🌟💥🎉**
+
+
+  Remember when we all thought Wish-Ender would break the Crucible because
+  you could see through walls? That's the last time I thought bows might
+  break the sandbox, or really even ever thought about using bows in PvP
+  at all. Did you even know you can see through walls with Wish-Ender? I
+  digress...
+
+
+  Many months ago, I saved a post by
+  [/u/TheGuiltySpark117](https://www.reddit.com/user/TheGuiltySpark117) in
+  the off chance I ever wanted to give bows a real shot in PvP. Over that
+  time I've read and re-read it, every time I'm trying to figure out if I
+  have a good bow roll. *I strongy suggest you check this out; it's
+  phenomenal!*
+
+
+  [An In-Depth Guide to Using a Bow in Competitive PvP (Console or PC)](https://www.reddit.com/r/CruciblePlaybook/comments/hjvoka/an_indepth_guide_to_using_a_bow_in_competitive/)
+
+
+  I reached out to TheGuiltySpark117 who graciously wrote up thoughts and
+  rolls for Whispering Slab. All of the content that follows is courtesy of
+  TheGuiltySpark117. Plese head over to the
+  [latest edition](https://www.reddit.com/r/CruciblePlaybook/comments/fkgm0k/an_indepth_guide_to_using_a_bow_in_competitive/)
+  of the guide and show your appreciation.
+
+
+  > I have two possible loadouts that I would consider a god roll for pvp. I
+  don’t see a loadout for whispering slab that would be great for PvE, however.
+activities: 
   - 
     name: PvP
-    summary: >
-      **🌟💥🎉 BOW HYPE TIME 🌟💥🎉 BOW HYPE TIME 🌟💥🎉 BOW HYPE TIME 🌟💥🎉**
-
-
-      Remember when we all thought Wish-Ender would break the Crucible because
-      you could see through walls? That's the last time I thought bows might
-      break the sandbox, or really even ever thought about using bows in PvP
-      at all. Did you even know you can see through walls with Wish-Ender? I
-      digress...
-
-
-      Many months ago, I saved a post by
-      [/u/TheGuiltySpark117](https://www.reddit.com/user/TheGuiltySpark117) in
-      the off chance I ever wanted to give bows a real shot in PvP. Over that
-      time I've read and re-read it, every time I'm trying to figure out if I
-      have a good bow roll. *I strongy suggest you check this out; it's
-      phenomenal!*
-
-
-      [An In-Depth Guide to Using a Bow in Competitive PvP (Console or PC)](https://www.reddit.com/r/CruciblePlaybook/comments/hjvoka/an_indepth_guide_to_using_a_bow_in_competitive/)
-
-
-      I reached out to TheGuiltySpark117 who graciously wrote up thoughts and
-      rolls for Whispering Slab. All of the content that follows is courtesy of
-      TheGuiltySpark117. Plese head over to the
-      [latest edition](https://www.reddit.com/r/CruciblePlaybook/comments/fkgm0k/an_indepth_guide_to_using_a_bow_in_competitive/)
-      of the guide and show your appreciation.
-
-      > I have two possible loadouts that I would consider a god roll for pvp. I
-      don’t see a loadout for whispering slab that would be great for PvE, however.
-
-
+    overview: >
       > You might’ve noticed that these aren’t specialized to the two types of
       playstyles I mention in my post. I did this on purpose because there are a
       much larger amount of players who aren’t bow mains, and care less about
@@ -54,10 +55,10 @@ groups:
       > There are two versions of this bow that I would consider a god roll
       depending on two different play styles: one being `Aggressive`, and the
       other being more `Reserved`.
-    rolls:
-      - &wsaggro
-        name: (PvP) GuiltySpark's Aggro Slab 😡😡😡🌟 Collector's Edition 
-        desc: >
+    roll_sets:
+      -
+        name: GuiltySpark's Aggro Slab
+        overview: >
           Here's a breakdown of what we're going for:
           
 
@@ -81,49 +82,28 @@ groups:
               plays in 1v2/3 or more scenarios.
             * `Accuracy Masterwork`: This helps conteract the reduction in
               accuracy that Elastic string has, making the bow feel a little
-              more reliable when shooting.
-        barrels: [Elastic String]
-        magazines: [Fiberglass Arrow Shaft]
-        perks1: [Killing Wind]
-        perks2: [Unrelenting]
-        masterworks: [Accuracy MW]
+              more reliable when shooting.        
+        perks:
+          base:
+            barrels: [Elastic String]
+            magazines: [Fiberglass Arrow Shaft]
+            perks1: [Killing Wind]
+            perks2: [Unrelenting]
+            masterworks: [Accuracy MW]
+          extensions:
+            barrels: [Elastic String, Polymer String]
+            magazines: [Fiberglass Arrow Shaft, Straight Fletching]
+            masterworks: [Accuracy MW, Draw Time MW]
+        variants:
+          - 😡😡😡🌟 Collector's Edition
+          - 😡😡😡 CE (+barrels)
+          - 😡😡😡 CE (+magazines)
+          - 😡😡😡 CE (+masterworks)
+          - 😡😡 (+barrels, +magazines, +masterworks)
+          - 😡 (-barrels, -magazines, +masterworks)
       -
-        <<: *wsaggro
-        name: (PvP) GuiltySpark's Aggro Slab 😡😡😡 CE (Relaxed Bowstrings)
-        desc: >
-          Widening acceptable Bowstrings.
-        barrels: [Elastic String, Polymer String]
-      -
-        <<: *wsaggro
-        name: (PvP) GuiltySpark's Aggro Slab 😡😡😡 CE (Relaxed Arrows)
-        desc: >
-          Widening acceptable Arrows.
-        magazines: [Fiberglass Arrow Shaft, Straight Fletching]
-      -
-        <<: *wsaggro
-        name: (PvP) GuiltySpark's Aggro Slab 😡😡😡 CE (Relaxed Masterwork)
-        desc: >
-          Widening acceptable Masterworks.
-        masterworks: [Accuracy MW, Draw Time MW]
-      -
-        <<: *wsaggro
-        name: (PvP) GuiltySpark's Aggro Slab 😡😡 CE (Fully Relaxed)
-        desc: >
-          Widening both Bowstrings, Arrows and Masterworks.
-        barrels: [Elastic String, Polymer String]
-        magazines: [Fiberglass Arrow Shaft, Straight Fletching]
-        masterworks: [Accuracy MW, Draw Time MW]
-      -
-        <<: *wsaggro
-        name: (PvP) GuiltySpark's Aggro Slab 😡 (Baseline)
-        desc: >
-          These form the core value of the roll.
-        barrels: []
-        magazines: []
-        masterworks: [Accuracy MW, Draw Time MW, Handling MW]
-      - &wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐🌟 Collector's Edition 
-        desc: >
+        name: GuiltySpark's Reserved Slab
+        overview: >
           The objective of this loadout is to max it's Accuracy as high as it
           can go, so that the player can use it at longer distances and not feel
           forced to engage at closer ranges.
@@ -138,71 +118,27 @@ groups:
               the head, making the bow more reliable at longer distances.
             * `Accuracy Masterwork`: Again, going for as high of an Accuracy
               stat as we can.
-        barrels: [High Tension String]
-        magazines: [Fiberglass Arrow Shaft]
-        perks1: [Archer's Tempo]
-        perks2: [Opening Shot]
-        masterworks: [Accuracy MW]
-      -
-        <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (+ Bowstrings)
-        desc: ...
-        barrels: [High Tension String, Polymer String]
-      -
-        <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (+ Arrows)
-        desc: ...
-        magazines: [Fiberglass Arrow Shaft, Straight Fletching]
-      -
-        <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (+ Masterworks)
-        desc: ...
-        masterworks: [Accuracy MW, Draw Time MW]
-      -
-        <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (+ Bowstrings + Arrows + Masterworks)
-        desc: ...
-        barrels: [High Tension String, Polymer String]
-        magazines: [Fiberglass Arrow Shaft, Straight Fletching]
-        masterworks: [Accuracy MW, Draw Time MW]
-      -
-        <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (- Bowstrings)
-        desc: ...
-        barrels: []
-      -
-        <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (- Arrows)
-        desc: ...
-        magazines: []
-      -
-        <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (- Masterworks)
-        desc: ...
-        masterworks: []
-      -
-        <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐 CE (- Bowstrings - Arrows)
-        desc: ...
-        barrels: []
-        magazines: []
-      -
-        <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐 CE (- Bowstrings - Masterworks)
-        desc: ...
-        barrels: []
-        masterworks: []
-      -
-        <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐🧐 CE (- Arrows - Masterworks)
-        desc: ...
-        magazines: []
-        masterworks: []
-      -
-        <<: *wschill
-        name: (PvP) GuiltySpark's Reserved Slab 🧐 (Baseline)
-        desc: >
-          These form the core value of the roll.
-        barrels: []
-        magazines: []
-        masterworks: []
+        perks:
+          base:
+            barrels: [High Tension String]
+            magazines: [Fiberglass Arrow Shaft]
+            perks1: [Archer's Tempo]
+            perks2: [Opening Shot]
+            masterworks: [Accuracy MW]
+          extensions:
+            barrels: [High Tension String, Polymer String]
+            magazines: [Fiberglass Arrow Shaft, Straight Fletching]
+            masterworks: [Accuracy MW, Draw Time MW]
+        variants:
+          - 🧐🧐🧐🌟 Collector's Edition
+          - 🧐🧐🧐 CE (+barrels)
+          - 🧐🧐🧐 CE (+magazines)
+          - 🧐🧐🧐 CE (+masterworks)
+          - 🧐🧐 (+barrels, +magazines, +masterworks)
+          - 🧐🧐🧐 CE (-barrels)
+          - 🧐🧐🧐 CE (-magazines)
+          - 🧐🧐🧐 CE (-masterworks)
+          - 🧐🧐 (-barrels, -magazines)
+          - 🧐🧐 (-barrels, -masterworks)
+          - 🧐🧐 (-magazines, -masterworks)
+          - 🧐 (-barrels, -magazines, -masterworks)
