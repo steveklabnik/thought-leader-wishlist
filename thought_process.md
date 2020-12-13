@@ -5241,9 +5241,8 @@ Fortunately the perk set is very small and chances are you'll get the roll you'r
   Perks 2 [ 40%]: Flash Counter
   MWorks  [100%]: *
   ```
-## Whispering Slab - PvP
+## Whispering Slab
 *For all possible perks, check out **Whispering Slab** over on [light.gg](https://www.light.gg/db/items/211938782/whispering-slab/)*
-
 
 **🌟💥🎉 BOW HYPE TIME 🌟💥🎉 BOW HYPE TIME 🌟💥🎉 BOW HYPE TIME 🌟💥🎉**
 
@@ -5254,12 +5253,14 @@ Many months ago, I saved a post by [/u/TheGuiltySpark117](https://www.reddit.com
 [An In-Depth Guide to Using a Bow in Competitive PvP (Console or PC)](https://www.reddit.com/r/CruciblePlaybook/comments/hjvoka/an_indepth_guide_to_using_a_bow_in_competitive/)
 
 I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls for Whispering Slab. All of the content that follows is courtesy of TheGuiltySpark117. Plese head over to the [latest edition](https://www.reddit.com/r/CruciblePlaybook/comments/fkgm0k/an_indepth_guide_to_using_a_bow_in_competitive/) of the guide and show your appreciation.
-> I have two possible loadouts that I would consider a god roll for pvp. I don’t see a loadout for whispering slab that would be great for PvE, however.
 
+> I have two possible loadouts that I would consider a god roll for pvp. I don’t see a loadout for whispering slab that would be great for PvE, however.
+### Whispering Slab - PvP
 > You might’ve noticed that these aren’t specialized to the two types of playstyles I mention in my post. I did this on purpose because there are a much larger amount of players who aren’t bow mains, and care less about that kind of thing. These two are the best generalized god rolls that are tailored to the perspective of the majority. Both loadouts, however, are something that even I as a bow main in the crucible would be interested in acquiring.
 
 > There are two versions of this bow that I would consider a god roll depending on two different play styles: one being `Aggressive`, and the other being more `Reserved`.
-* **(PvP) GuiltySpark's Aggro Slab 😡😡😡🌟 Collector's Edition - 0.1% chance**: Here's a breakdown of what we're going for:
+#### **GuiltySpark's Aggro Slab**
+Here's a breakdown of what we're going for:
 
 
   * `Elastic String`: Sacrifices accuracy to increase draw speed,
@@ -5282,61 +5283,24 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
     plays in 1v2/3 or more scenarios.
   * `Accuracy Masterwork`: This helps conteract the reduction in
     accuracy that Elastic string has, making the bow feel a little
-    more reliable when shooting.
-
-  ```
+    more reliable when shooting.        
+```
   Barrels [ 28%]: Elastic String
   Mags    [ 33%]: Fiberglass Arrow Shaft
   Perks 1 [ 16%]: Killing Wind
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 20%]: Accuracy MW
-  ```
-* **(PvP) GuiltySpark's Aggro Slab 😡😡😡 CE (Relaxed Bowstrings) - 0.2% chance**: Widening acceptable Bowstrings.
-
-  ```
-  Barrels [ 52%]: Elastic String, Polymer String
-  Mags    [ 33%]: Fiberglass Arrow Shaft
-  Perks 1 [ 16%]: Killing Wind
-  Perks 2 [ 33%]: Unrelenting
-  MWorks  [ 20%]: Accuracy MW
-  ```
-* **(PvP) GuiltySpark's Aggro Slab 😡😡😡 CE (Relaxed Arrows) - 0.2% chance**: Widening acceptable Arrows.
-
-  ```
-  Barrels [ 28%]: Elastic String
-  Mags    [ 60%]: Fiberglass Arrow Shaft, Straight Fletching
-  Perks 1 [ 16%]: Killing Wind
-  Perks 2 [ 33%]: Unrelenting
-  MWorks  [ 20%]: Accuracy MW
-  ```
-* **(PvP) GuiltySpark's Aggro Slab 😡😡😡 CE (Relaxed Masterwork) - 0.2% chance**: Widening acceptable Masterworks.
-
-  ```
-  Barrels [ 28%]: Elastic String
-  Mags    [ 33%]: Fiberglass Arrow Shaft
-  Perks 1 [ 16%]: Killing Wind
-  Perks 2 [ 33%]: Unrelenting
-  MWorks  [ 40%]: Accuracy MW, Draw Time MW
-  ```
-* **(PvP) GuiltySpark's Aggro Slab 😡😡 CE (Fully Relaxed) - 0.7% chance**: Widening both Bowstrings, Arrows and Masterworks.
-
-  ```
-  Barrels [ 52%]: Elastic String, Polymer String
-  Mags    [ 60%]: Fiberglass Arrow Shaft, Straight Fletching
-  Perks 1 [ 16%]: Killing Wind
-  Perks 2 [ 33%]: Unrelenting
-  MWorks  [ 40%]: Accuracy MW, Draw Time MW
-  ```
-* **(PvP) GuiltySpark's Aggro Slab 😡 (Baseline) - 3.3% chance**: These form the core value of the roll.
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 16%]: Killing Wind
-  Perks 2 [ 33%]: Unrelenting
-  MWorks  [ 60%]: Accuracy MW, Draw Time MW, Handling MW
-  ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐🌟 Collector's Edition - 0.1% chance**: The objective of this loadout is to max it's Accuracy as high as it can go, so that the player can use it at longer distances and not feel forced to engage at closer ranges.
+```
+| Variant | Chance |
+|:-|-:|
+| 😡😡😡🌟 Collector's Edition | 0.1% |
+| 😡😡😡 CE (+barrels) | 0.2% |
+| 😡😡😡 CE (+magazines) | 0.2% |
+| 😡😡😡 CE (+masterworks) | 0.2% |
+| 😡😡 (+barrels, +magazines, +masterworks) | 0.7% |
+| 😡 (-barrels, -magazines, +masterworks) | 2.2% |
+#### **GuiltySpark's Reserved Slab**
+The objective of this loadout is to max it's Accuracy as high as it can go, so that the player can use it at longer distances and not feel forced to engage at closer ranges.
 
   * `High Tension String`: We're going for max accuracy with this
     loadout.
@@ -5348,113 +5312,27 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
     the head, making the bow more reliable at longer distances.
   * `Accuracy Masterwork`: Again, going for as high of an Accuracy
     stat as we can.
-
-  ```
+```
   Barrels [ 28%]: High Tension String
   Mags    [ 33%]: Fiberglass Arrow Shaft
   Perks 1 [ 16%]: Archer's Tempo
   Perks 2 [ 33%]: Opening Shot
   MWorks  [ 20%]: Accuracy MW
-  ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (+ Bowstrings) - 0.2% chance**
-
-  ```
-  Barrels [ 52%]: High Tension String, Polymer String
-  Mags    [ 33%]: Fiberglass Arrow Shaft
-  Perks 1 [ 16%]: Archer's Tempo
-  Perks 2 [ 33%]: Opening Shot
-  MWorks  [ 20%]: Accuracy MW
-  ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (+ Arrows) - 0.2% chance**
-
-  ```
-  Barrels [ 28%]: High Tension String
-  Mags    [ 60%]: Fiberglass Arrow Shaft, Straight Fletching
-  Perks 1 [ 16%]: Archer's Tempo
-  Perks 2 [ 33%]: Opening Shot
-  MWorks  [ 20%]: Accuracy MW
-  ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (+ Masterworks) - 0.2% chance**
-
-  ```
-  Barrels [ 28%]: High Tension String
-  Mags    [ 33%]: Fiberglass Arrow Shaft
-  Perks 1 [ 16%]: Archer's Tempo
-  Perks 2 [ 33%]: Opening Shot
-  MWorks  [ 40%]: Accuracy MW, Draw Time MW
-  ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (+ Bowstrings + Arrows + Masterworks) - 0.7% chance**
-
-  ```
-  Barrels [ 52%]: High Tension String, Polymer String
-  Mags    [ 60%]: Fiberglass Arrow Shaft, Straight Fletching
-  Perks 1 [ 16%]: Archer's Tempo
-  Perks 2 [ 33%]: Opening Shot
-  MWorks  [ 40%]: Accuracy MW, Draw Time MW
-  ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (- Bowstrings) - 0.4% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 33%]: Fiberglass Arrow Shaft
-  Perks 1 [ 16%]: Archer's Tempo
-  Perks 2 [ 33%]: Opening Shot
-  MWorks  [ 20%]: Accuracy MW
-  ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (- Arrows) - 0.3% chance**
-
-  ```
-  Barrels [ 28%]: High Tension String
-  Mags    [100%]: *
-  Perks 1 [ 16%]: Archer's Tempo
-  Perks 2 [ 33%]: Opening Shot
-  MWorks  [ 20%]: Accuracy MW
-  ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐🧐 CE (- Masterworks) - 0.5% chance**
-
-  ```
-  Barrels [ 28%]: High Tension String
-  Mags    [ 33%]: Fiberglass Arrow Shaft
-  Perks 1 [ 16%]: Archer's Tempo
-  Perks 2 [ 33%]: Opening Shot
-  MWorks  [100%]: *
-  ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐 CE (- Bowstrings - Arrows) - 1.1% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 16%]: Archer's Tempo
-  Perks 2 [ 33%]: Opening Shot
-  MWorks  [ 20%]: Accuracy MW
-  ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐 CE (- Bowstrings - Masterworks) - 1.9% chance**
-
-  ```
-  Barrels [100%]: *
-  Mags    [ 33%]: Fiberglass Arrow Shaft
-  Perks 1 [ 16%]: Archer's Tempo
-  Perks 2 [ 33%]: Opening Shot
-  MWorks  [100%]: *
-  ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐🧐 CE (- Arrows - Masterworks) - 1.6% chance**
-
-  ```
-  Barrels [ 28%]: High Tension String
-  Mags    [100%]: *
-  Perks 1 [ 16%]: Archer's Tempo
-  Perks 2 [ 33%]: Opening Shot
-  MWorks  [100%]: *
-  ```
-* **(PvP) GuiltySpark's Reserved Slab 🧐 (Baseline) - 5.6% chance**: These form the core value of the roll.
-
-  ```
-  Barrels [100%]: *
-  Mags    [100%]: *
-  Perks 1 [ 16%]: Archer's Tempo
-  Perks 2 [ 33%]: Opening Shot
-  MWorks  [100%]: *
-  ```
+```
+| Variant | Chance |
+|:-|-:|
+| 🧐🧐🧐🌟 Collector's Edition | 0.1% |
+| 🧐🧐🧐 CE (+barrels) | 0.2% |
+| 🧐🧐🧐 CE (+magazines) | 0.2% |
+| 🧐🧐🧐 CE (+masterworks) | 0.2% |
+| 🧐🧐 (+barrels, +magazines, +masterworks) | 0.7% |
+| 🧐🧐🧐 CE (-barrels) | 0.4% |
+| 🧐🧐🧐 CE (-magazines) | 0.3% |
+| 🧐🧐🧐 CE (-masterworks) | 0.5% |
+| 🧐🧐 (-barrels, -magazines) | 1.1% |
+| 🧐🧐 (-barrels, -masterworks) | 1.9% |
+| 🧐🧐 (-magazines, -masterworks) | 1.6% |
+| 🧐 (-barrels, -magazines, -masterworks) | 5.6% |
 ## Seventh Seraph Carbine - PvP
 *For all possible perks, check out **Seventh Seraph Carbine** over on [light.gg](https://www.light.gg/db/items/1561006927/seventh-seraph-carbine/)*
 
