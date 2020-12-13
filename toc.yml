@@ -1,12 +1,11 @@
 ordering:
   # - s12
   - world_drops
-  - iron_banner_y4
+  - iron_banner
   - raid
   - s11
   - s10
   - s9
-  - iron_banner
 naming:
   s9: Season 9 - Season of the Dawn (Concluded)
   s10: Season 10 - Season of the Worthy (Concluded)
@@ -15,5 +14,4 @@ naming:
   world_drops: World Drops
   iron_banner: Iron Banner
   raid: Raids
-  iron_banner: Iron Banner (Year 3)
-  iron_banner_y4: Iron Banner (Year 4)
+  iron_banner: Iron Banner
