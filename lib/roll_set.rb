@@ -52,10 +52,11 @@ class RollSet
       end
       output.puts('```')
       
-      output.puts('| Variant | Chance |')
-      output.puts('|:-|-:|')
+      output.puts('| Variant | Chance | 1 in ? |')
+      output.puts('|:-|-:|-:|')
       @rolls.each do |r|
-        output.puts("| #{r.roll_name} | %0.2f%% |" % [r.probability()])
+        odds = 1 / r.probability() * 100
+        output.puts("| #{r.roll_name} | %0.2f%% | %d |" % [r.probability(), odds])
       end
     end.string
   end
