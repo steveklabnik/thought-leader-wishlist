@@ -78,10 +78,13 @@ activities:
           - 🥶🥶🥶📦🌟 Collector's Edition
           - 🥶🥶🥶📦 CE (+barrels)
           - 🥶🥶🥶📦 CE (+magazines)
-          - 🥶🥶📦 (+barrels, +magazines)
-          - 🥶🥶📦 (-barrels)
-          - 🥶🥶📦 (-magazines)
-          - 🥶🥶📦 (-masterworks)
+          - 🥶🥶🥶📦 CE (-barrels)
+          - 🥶🥶🥶📦 CE (-magazines)
+          - 🥶🥶🥶📦 CE (-masterworks)
+          - 🥶🥶🥶📦 CE (+barrels, +magazines)
+          - 🥶🥶📦 (+barrels, -magazines)
+          - 🥶🥶📦 (+barrels, -masterworks)
+          - 🥶🥶📦 (+magazines, -masterworks)
       -
         name: Ice to See You/Dynamic Sway
         overview: >
@@ -101,10 +104,13 @@ activities:
           - 🥶🥶🥶🕺🌟 Collector's Edition
           - 🥶🥶🥶🕺 CE (+barrels)
           - 🥶🥶🥶🕺 CE (+magazines)
-          - 🥶🥶🕺 (+barrels, +magazines)
-          - 🥶🥶🕺 (-barrels)
-          - 🥶🥶🕺 (-magazines)
-          - 🥶🥶🕺 (-masterworks)
+          - 🥶🥶🥶🕺 CE (-barrels)
+          - 🥶🥶🥶🕺 CE (-magazines)
+          - 🥶🥶🥶🕺 CE (-masterworks)
+          - 🥶🥶🥶🕺 CE (+barrels, +magazines)
+          - 🥶🥶🕺 (+barrels, -magazines)
+          - 🥶🥶🕺 (+barrels, -masterworks)
+          - 🥶🥶🕺 (+magazines, -masterworks)
   - 
     name: PvE
     overview: >
