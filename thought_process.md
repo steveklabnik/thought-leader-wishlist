@@ -11,6 +11,9 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 
 ---
 
+**Season 12 - Season of the Hunt (November 2020 - February 2021)**
+* Cold Front ([PvP](#cold-front---pvp), [PvE](#cold-front---pve))
+
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
 * BrayTech Werewolf ([PvP](#braytech-werewolf---pvp), [PvE](#braytech-werewolf---pve))
@@ -73,6 +76,123 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * Trophy Hunter ([PvP](#trophy-hunter---pvp), [PvE](#trophy-hunter---pve))
 
 ---
+## Cold Front
+*For all possible perks, check out **Cold Front** over on [light.gg](https://www.light.gg/db/items/1506719573/cold-front/)*
+
+Cold Front is a 750 RPM Aggressive Frame ("High damage, high recoil") Kinetic Submachine Gun, first introduced long ago during the Season 9 Dawning event. It's back once again with a whole new set of perks from Year 4. If you want to see the old perks, here's a still from [Aztec's review](https://youtu.be/ZK1JPaCASnQ?t=166) in 2019.
+
+[Cold Front Is Back & BETTER Than Ever! (Best Destiny 2 Primary?)](https://www.youtube.com/watch?v=CG3C1TDUzA8) - Ehroar
+
+> *I believe it's one of the best primaries in the game for PvE* -- Ehroar, Dec. 2020
+
+[IF YOU HAVENT GOT THIS SMG, YOU NEED IT, Cold Front Dawning SMG God Roll Guide](https://www.youtube.com/watch?v=9sFhMUMMttk) - Blyatnid 
+
+> *I have a reason to believe this is the new best primary in the game, full stop* -- Blyatnid, Dec. 2020
+
+Ehroar and co. are excited because Cold Front can roll with the new damage-boosting perk `One for All` which we'll get to down in the PvE section below.
+
+They're each referring to PvE above, so Crucible dwellers don't get your hopes up too high! It's still the same nearly-lowest-Stability-in-the-game Cold Front that it was last year, though the new version does have a few tricks up its sleeve...
+### Cold Front - PvP
+If you remember the Cold Front from last year, you'll recall its Stability is one of the lowest in the game at `16`. Technically that's "better" than Hard Truth's `15` though not by much. This is less of an issue on PC than Console, though it's still an issue. However, this time around we have two new tools at our disposal: `Surplus` and `Dynamic Sway Reduction`.
+
+You'll notice I didn't include any final column perks. Rampage doesn't meaningfully realistically alter the TTK and Thresh adds so little to your super that it's not worth calling out as the Collector's Edition. Whatever you get in that final column is fine.
+#### **Ice to See You/Surplus**
+Cold Front needs a lot of help in the Stability department, which is the entire focus of this roll. At best, you'll be able to get Stability up from `16` to `48` plus the benefits coming from Surplus. This puts you at or above base Stability on the vaunted Antiope-D and other Precision Frame SMGs. The Recoil is `92` so be sure to throw on a Counterbalance mod if you don't end up with a +Recoil barrel.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Surplus
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+```
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🥶🥶🥶📦🌟 Collector's Edition | 0.28% | 359 |
+| 🥶🥶🥶📦 CE (+barrels) | 1.04% | 96 |
+| 🥶🥶🥶📦 CE (+magazines) | 0.71% | 140 |
+| 🥶🥶📦 (+barrels, +magazines) | 2.68% | 37 |
+| 🥶🥶📦 (-barrels) | 1.25% | 80 |
+| 🥶🥶📦 (-magazines) | 1.11% | 89 |
+| 🥶🥶📦 (-masterworks) | 1.11% | 89 |
+#### **Ice to See You/Dynamic Sway**
+Same as the above, swapping DSR in for Surplus. These rolls are otherwise identical but Surplus is so much better than DSR I wanted to call it out 😀
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Dynamic Sway Reduction
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+```
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🥶🥶🥶🕺🌟 Collector's Edition | 0.28% | 359 |
+| 🥶🥶🥶🕺 CE (+barrels) | 1.04% | 96 |
+| 🥶🥶🥶🕺 CE (+magazines) | 0.71% | 140 |
+| 🥶🥶🕺 (+barrels, +magazines) | 2.68% | 37 |
+| 🥶🥶🕺 (-barrels) | 1.25% | 80 |
+| 🥶🥶🕺 (-magazines) | 1.11% | 89 |
+| 🥶🥶🕺 (-masterworks) | 1.11% | 89 |
+### Cold Front - PvE
+With the addition of `Surplus` and `One for All` to the Cold Front perk pool, we're looking at a strong contender for one of the best kinetic weapons of all time. `Surplus` improves Stability and Reload (two big Cold Front drawbacks) and `One for All` provides a tremendous damage boost and leaves your mod slot free for Minor, Major or Boss Spec.
+
+***`Dragonfly` is going to be replaced by `Swashbuckler` so when you see `Dragonfly` below, you know what it means. The wishlist will be updated after Destiny is updated.***
+#### **Blizzard**
+While `Surplus` will be boosting Stability, the Stability is so low and difficult to manage on console that we'll continue to crave it as a backstop for when we're at lower tiers of `Surplus` benefits.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Extended Mag
+  Perks 1 [ 20%]: Surplus
+  Perks 2 [ 16%]: One for All
+  MWorks  [ 25%]: Stability MW
+```
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🌨🌨🌨📦🌟 Collector's Edition | 0.05% | 2160 |
+| 🌨🌨🌨📦 CE (+barrels) | 0.17% | 575 |
+| 🌨🌨🌨📦 CE (+magazines) | 0.09% | 1163 |
+| 🌨🌨🌨📦 CE (+barrels, +magazines) | 0.32% | 310 |
+| 🌨🌨🌨📦 (-barrels) | 0.21% | 480 |
+| 🌨🌨🌨📦 (-magazines) | 0.19% | 540 |
+| 🌨🌨🌨📦 (-masterworks) | 0.19% | 540 |
+| 🌨🌨📦 (-barrels, -magazines, -masterworks) | 3.33% | 30 |
+#### **Snowstorm**
+Same as the above, swapping `Dynamic Sway Reduction` in for `Surplus`.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Extended Mag
+  Perks 1 [ 20%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: One for All
+  MWorks  [ 25%]: Stability MW
+```
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ❄️❄️❄️🌟 Collector's Edition | 0.05% | 2160 |
+| ❄️❄️❄️📦 CE (+barrels) | 0.17% | 575 |
+| ❄️❄️❄️📦 CE (+magazines) | 0.09% | 1163 |
+| ❄️❄️❄️📦 CE (+barrels, +magazines) | 0.32% | 310 |
+| ❄️❄️❄️📦 (-barrels) | 0.21% | 480 |
+| ❄️❄️❄️📦 (-magazines) | 0.19% | 540 |
+| ❄️❄️❄️📦 (-masterworks) | 0.19% | 540 |
+| ❄️❄️📦 (-barrels, -magazines, -masterworks) | 3.33% | 30 |
+#### **Light Dusting**
+We'll take any combination of a handful of perks in the final columns for a super solid roll (recall that Dragonfly is being replaced by Swashbuckler shortly).
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Extended Mag
+  Perks 1 [ 40%]: Surplus, Dynamic Sway Reduction
+  Perks 2 [ 50%]: Dragonfly, Rampage, Surrounded
+  MWorks  [ 25%]: Stability MW
+```
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ☃️☃️☃️🌟 Collector's Edition | 0.28% | 359 |
+| ☃️☃️☃️📦 CE (+barrels) | 1.04% | 96 |
+| ☃️☃️☃️📦 CE (+magazines) | 0.52% | 193 |
+| ☃️☃️☃️📦 CE (+barrels, +magazines) | 1.93% | 51 |
+| ☃️☃️☃️📦 (-barrels) | 1.25% | 80 |
+| ☃️☃️☃️📦 (-magazines) | 1.11% | 89 |
+| ☃️☃️☃️📦 (-masterworks) | 1.11% | 89 |
+| ☃️☃️📦 (-barrels, -magazines, -masterworks) | 20.00% | 5 |
 ## Black Scorpion-4sr - PvP
 *For all possible perks, check out **Black Scorpion-4sr** over on [light.gg](https://www.light.gg/db/items/525750263/black-scorpion-4sr/)*
 
@@ -1838,13 +1958,13 @@ This set of rolls is all about maxing out Recoil, and keeps `Arrowhead Brake` co
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Stability MW
 ```
-| Variant | Chance |
-|:-|-:|
-| 🏔🌒🌒🌒🌟 Collector's Edition | 0.0% |
-| 🏔🌒🌒🌒 CE (+magazines) | 0.1% |
-| 🏔🌒🌒🌒 CE (-magazines) | 0.2% |
-| 🏔🌒🌒🌒 CE (-masterworks) | 0.2% |
-| 🏔🌒🌒 (-magazines, -masterworks) | 0.6% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🏔🌒🌒🌒🌟 Collector's Edition | 0.04% | 2268 |
+| 🏔🌒🌒🌒 CE (+magazines) | 0.11% | 907 |
+| 🏔🌒🌒🌒 CE (-magazines) | 0.15% | 648 |
+| 🏔🌒🌒🌒 CE (-masterworks) | 0.18% | 567 |
+| 🏔🌒🌒 (-magazines, -masterworks) | 0.62% | 162 |
 #### **Dark Side**
 Same as above, using any Stability-boosting barrel, which we'll later relax down to no barrel preference.
 ```
@@ -1854,17 +1974,17 @@ Same as above, using any Stability-boosting barrel, which we'll later relax down
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Stability MW
 ```
-| Variant | Chance |
-|:-|-:|
-| 🌑🌑🌑🌟 Collector's Edition | 0.2% |
-| 🌑🌑🌑 CE (+magazines) | 0.4% |
-| 🌑🌑🌑 CE (-magazines) | 0.6% |
-| 🌑🌑🌑 CE (-masterworks) | 0.7% |
-| 🌑🌑🌑 CE (-barrels) | 0.2% |
-| 🌑🌑 (-barrels, -magazines) | 0.7% |
-| 🌑🌑 (-barrels, -masterworks) | 0.8% |
-| 🌑🌑 (-magazines, -masterworks) | 2.3% |
-| 🌑 (-barrels, -magazines, -masterworks) | 2.8% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🌑🌑🌑🌟 Collector's Edition | 0.17% | 604 |
+| 🌑🌑🌑 CE (+magazines) | 0.41% | 241 |
+| 🌑🌑🌑 CE (-magazines) | 0.58% | 172 |
+| 🌑🌑🌑 CE (-masterworks) | 0.66% | 151 |
+| 🌑🌑🌑 CE (-barrels) | 0.20% | 504 |
+| 🌑🌑 (-barrels, -magazines) | 0.69% | 144 |
+| 🌑🌑 (-barrels, -masterworks) | 0.79% | 126 |
+| 🌑🌑 (-magazines, -masterworks) | 2.31% | 43 |
+| 🌑 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 #### **Vertical/Gardener**
 This set of rolls pivots around `Firmly Planted`. It means that, even on console we can opt for `Range`-boosting perks because `Firmly Planted` gives us all the `Stability` we need.
 ```
@@ -1874,12 +1994,12 @@ This set of rolls pivots around `Firmly Planted`. It means that, even on console
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Range MW
 ```
-| Variant | Chance |
-|:-|-:|
-| 🏔🌿🌿🌿🌟 Collector's Edition | 0.0% |
-| 🏔🌿🌿🌿 CE (-masterworks) | 0.2% |
-| 🏔🌿🌿🌿 CE (-magazines) | 0.2% |
-| 🏔🌿🌿 (-magazines, -masterworks) | 0.6% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🏔🌿🌿🌿🌟 Collector's Edition | 0.04% | 2268 |
+| 🏔🌿🌿🌿 CE (-masterworks) | 0.18% | 567 |
+| 🏔🌿🌿🌿 CE (-magazines) | 0.15% | 648 |
+| 🏔🌿🌿 (-magazines, -masterworks) | 0.62% | 162 |
 #### **The Gardener**
 Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the barrel requirement as well.
 ```
@@ -1889,16 +2009,16 @@ Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the 
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Range MW
 ```
-| Variant | Chance |
-|:-|-:|
-| 🌿🌿🌿🌟 Collector's Edition | 0.1% |
-| 🌿🌿🌿 CE (-magazines) | 0.5% |
-| 🌿🌿🌿 CE (-masterworks) | 0.6% |
-| 🌿🌿🌿 CE (-barrels) | 0.2% |
-| 🌿🌿 (-barrels, -magazines) | 0.7% |
-| 🌿🌿 (-barrels, -masterworks) | 0.8% |
-| 🌿🌿 (-magazines, -masterworks) | 2.0% |
-| 🌿 (-barrels, -magazines, -masterworks) | 2.8% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🌿🌿🌿🌟 Collector's Edition | 0.14% | 697 |
+| 🌿🌿🌿 CE (-magazines) | 0.50% | 199 |
+| 🌿🌿🌿 CE (-masterworks) | 0.57% | 174 |
+| 🌿🌿🌿 CE (-barrels) | 0.20% | 504 |
+| 🌿🌿 (-barrels, -magazines) | 0.69% | 144 |
+| 🌿🌿 (-barrels, -masterworks) | 0.79% | 126 |
+| 🌿🌿 (-magazines, -masterworks) | 2.01% | 49 |
+| 🌿 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 #### **The Vertical/Hoarder**
 This set of rolls pivots around `Surplus`. It provides a roughly 25%, 13% and 8% boost depending on how many abilities are charged. You really want to be shooting for all three abilities charged at once which means either foregoing their use entirely or perhaps investing in high tiers of the respective stat (Strength, Discipline, or <class stat>) so that you can quickly recharge a single one. The tradeoff is going around with a supercharged weapon the whole match.
 ```
@@ -1908,12 +2028,12 @@ This set of rolls pivots around `Surplus`. It provides a roughly 25%, 13% and 8%
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Range MW
 ```
-| Variant | Chance |
-|:-|-:|
-| 🏔📦📦📦🌟 Collector's Edition | 0.0% |
-| 🏔📦📦📦 CE (-masterworks) | 0.2% |
-| 🏔📦📦📦 (-magazines) | 0.2% |
-| 🏔📦📦 (-magazines -masterworks) | 0.6% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🏔📦📦📦🌟 Collector's Edition | 0.04% | 2268 |
+| 🏔📦📦📦 CE (-masterworks) | 0.18% | 567 |
+| 🏔📦📦📦 (-magazines) | 0.15% | 648 |
+| 🏔📦📦 (-magazines -masterworks) | 0.62% | 162 |
 #### **The Hoarder**
 Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the barrel requirement as well.
 ```
@@ -1923,16 +2043,16 @@ Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the 
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Range MW
 ```
-| Variant | Chance |
-|:-|-:|
-| 📦📦📦🌟 Collector's Edition | 0.1% |
-| 📦📦📦 CE (-magazines) | 0.5% |
-| 📦📦📦 CE (-masterworks) | 0.6% |
-| 📦📦📦 CE (-barrels) | 0.2% |
-| 📦📦 (-barrels, -magazines) | 0.7% |
-| 📦📦 (-barrels, -masterworks) | 0.8% |
-| 📦📦 (-magazines, -masterworks) | 2.0% |
-| 📦 (-barrels, -magazines, -masterworks) | 2.8% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 📦📦📦🌟 Collector's Edition | 0.14% | 697 |
+| 📦📦📦 CE (-magazines) | 0.50% | 199 |
+| 📦📦📦 CE (-masterworks) | 0.57% | 174 |
+| 📦📦📦 CE (-barrels) | 0.20% | 504 |
+| 📦📦 (-barrels, -magazines) | 0.69% | 144 |
+| 📦📦 (-barrels, -masterworks) | 0.79% | 126 |
+| 📦📦 (-magazines, -masterworks) | 2.01% | 49 |
+| 📦 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 ### Stars in Shadow - PvE
 In PvE you're going for as much `Range` as you can get with sustained damage upkeep. There are some solid perks here not in our rolls, becase you don't need this wishlist to tell you that Demolitionist is a good perk 🙃
 #### **Rapid Reload**
@@ -1944,17 +2064,17 @@ All Range and all damage.
   Perks 2 [  8%]: Kill Clip
   MWorks  [ 25%]: Range MW
 ```
-| Variant | Chance |
-|:-|-:|
-| ♻️♻️♻️🌟 Collector's Edition | 0.1% |
-| ♻️♻️♻️ CE (+magazines) | 0.1% |
-| ♻️♻️♻️ CE (-barrels) | 0.1% |
-| ♻️♻️♻️ CE (-magazines) | 0.2% |
-| ♻️♻️♻️ CE (-masterworks) | 0.2% |
-| ♻️♻️ (-barrels, -magazines) | 0.3% |
-| ♻️♻️ (-barrels, -masterworks) | 0.4% |
-| ♻️♻️ (-magazines, -masterworks) | 0.8% |
-| ♻️ (-barrels, -magazines, -masterworks) | 1.4% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ♻️♻️♻️🌟 Collector's Edition | 0.06% | 1728 |
+| ♻️♻️♻️ CE (+magazines) | 0.14% | 691 |
+| ♻️♻️♻️ CE (-barrels) | 0.10% | 1008 |
+| ♻️♻️♻️ CE (-magazines) | 0.20% | 493 |
+| ♻️♻️♻️ CE (-masterworks) | 0.23% | 432 |
+| ♻️♻️ (-barrels, -magazines) | 0.35% | 288 |
+| ♻️♻️ (-barrels, -masterworks) | 0.40% | 252 |
+| ♻️♻️ (-magazines, -masterworks) | 0.81% | 123 |
+| ♻️ (-barrels, -magazines, -masterworks) | 1.39% | 72 |
 #### **Barrier Slayer**
 In seasons where Pulse Rifles end up with Barrier mods, Genesis will proc when the shield breaks while you'll wrecking the champions with Vorpal. Other shields will also proc Genesis, for example "Enlightened" enemies in the Garden of Salvation raid.
 ```
@@ -1964,17 +2084,17 @@ In seasons where Pulse Rifles end up with Barrier mods, Genesis will proc when t
   Perks 2 [ 16%]: Vorpal, Disruption Break
   MWorks  [ 25%]: Range MW
 ```
-| Variant | Chance |
-|:-|-:|
-| 🏆🏆🏆🌟 Collector's Edition | 0.1% |
-| 🏆🏆🏆 CE (+magazines) | 0.1% |
-| 🏆🏆🏆 CE (-barrels) | 0.1% |
-| 🏆🏆🏆 CE (-magazines) | 0.2% |
-| 🏆🏆🏆 CE (-masterworks) | 0.2% |
-| 🏆🏆 (-barrels, -magazines) | 0.3% |
-| 🏆🏆 (-barrels, -masterworks) | 0.4% |
-| 🏆🏆 (-magazines, -masterworks) | 0.8% |
-| 🏆 (-barrels, -magazines, -masterworks) | 1.4% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🏆🏆🏆🌟 Collector's Edition | 0.06% | 1728 |
+| 🏆🏆🏆 CE (+magazines) | 0.14% | 691 |
+| 🏆🏆🏆 CE (-barrels) | 0.10% | 1008 |
+| 🏆🏆🏆 CE (-magazines) | 0.20% | 493 |
+| 🏆🏆🏆 CE (-masterworks) | 0.23% | 432 |
+| 🏆🏆 (-barrels, -magazines) | 0.35% | 288 |
+| 🏆🏆 (-barrels, -masterworks) | 0.40% | 252 |
+| 🏆🏆 (-magazines, -masterworks) | 0.81% | 123 |
+| 🏆 (-barrels, -magazines, -masterworks) | 1.39% | 72 |
 ## Steel Sybil Z-14 - PvE
 *For all possible perks, check out **Steel Sybil Z-14** over on [light.gg](https://www.light.gg/db/items/4230993599/steel-sybil-z-14/)*
 
@@ -3121,22 +3241,22 @@ Moving Target and Iron Gaze are going to bump Target Acquisition immensely. You 
   Perks 2 [ 16%]: Iron Gaze
   MWorks  [ 25%]: Stability MW
 ```
-| Variant | Chance |
-|:-|-:|
-| 🔒🔒🔒🌟 Collector's Edition | 0.1% |
-| 🔒🔒🔒 CE (+barrels) | 0.1% |
-| 🔒🔒🔒 CE (+magazines) | 0.2% |
-| 🔒🔒🔒 CE (-barrels) | 0.2% |
-| 🔒🔒🔒 CE (-magazines) | 0.4% |
-| 🔒🔒🔒 CE (-masterworks) | 0.4% |
-| 🔒🔒 (-barrels, +magazines) | 0.3% |
-| 🔒🔒 (+barrels, -magazines) | 0.6% |
-| 🔒🔒 (-barrels, -magazines) | 0.7% |
-| 🔒🔒 (-barrels, +magazines, -masterworks) | 1.3% |
-| 🔒🔒 (+barrels, -magazines, -masterworks) | 2.2% |
-| 🔒🔒 (-barrels, -masterworks) | 0.7% |
-| 🔒🔒 (-magazines, -masterworks) | 1.7% |
-| 🔒 (-barrels, -magazines, -masterworks) | 2.8% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🔒🔒🔒🌟 Collector's Edition | 0.10% | 960 |
+| 🔒🔒🔒 CE (+barrels) | 0.14% | 720 |
+| 🔒🔒🔒 CE (+magazines) | 0.19% | 516 |
+| 🔒🔒🔒 CE (-barrels) | 0.17% | 576 |
+| 🔒🔒🔒 CE (-magazines) | 0.42% | 240 |
+| 🔒🔒🔒 CE (-masterworks) | 0.42% | 240 |
+| 🔒🔒 (-barrels, +magazines) | 0.32% | 310 |
+| 🔒🔒 (+barrels, -magazines) | 0.56% | 180 |
+| 🔒🔒 (-barrels, -magazines) | 0.69% | 144 |
+| 🔒🔒 (-barrels, +magazines, -masterworks) | 1.29% | 77 |
+| 🔒🔒 (+barrels, -magazines, -masterworks) | 2.22% | 45 |
+| 🔒🔒 (-barrels, -masterworks) | 0.69% | 144 |
+| 🔒🔒 (-magazines, -masterworks) | 1.67% | 60 |
+| 🔒 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 #### **Demon of Sixes Street**
 This is primarily a roll for sixes where TSH can shine as a cleanup weapon with a higher chance of chaining kills. Keep in mind that a `Resilience` of `5` cancels out the Swashbuckler two-tap from full health but in sixes that's not always what you're dealing with. If you can pair this with a ranged melee (Swashbuckler x 5) you'llI wouldn't suggest this roll for Comp or Trials.
 ```
@@ -3146,22 +3266,22 @@ This is primarily a roll for sixes where TSH can shine as a cleanup weapon with 
   Perks 2 [ 16%]: Swashbuckler
   MWorks  [ 25%]: Stability MW
 ```
-| Variant | Chance |
-|:-|-:|
-| 👹👹👹🌟 Collector's Edition | 0.1% |
-| 👹👹👹 CE (+barrels) | 0.1% |
-| 👹👹👹 CE (+magazines) | 0.2% |
-| 👹👹👹 CE (-barrels) | 0.2% |
-| 👹👹👹 CE (-magazines) | 0.4% |
-| 👹👹👹 CE (-masterworks) | 0.4% |
-| 👹👹 (-barrels, +magazines) | 0.3% |
-| 👹👹 (+barrels, -magazines) | 0.6% |
-| 👹👹 (-barrels, -magazines) | 0.7% |
-| 👹👹 (-barrels, +magazines, -masterworks) | 1.3% |
-| 👹👹 (+barrels, -magazines, -masterworks) | 2.2% |
-| 👹👹 (-barrels, -masterworks) | 0.7% |
-| 👹👹 (-magazines, -masterworks) | 1.7% |
-| 👹 (-barrels, -magazines, -masterworks) | 2.8% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 👹👹👹🌟 Collector's Edition | 0.10% | 960 |
+| 👹👹👹 CE (+barrels) | 0.14% | 720 |
+| 👹👹👹 CE (+magazines) | 0.19% | 516 |
+| 👹👹👹 CE (-barrels) | 0.17% | 576 |
+| 👹👹👹 CE (-magazines) | 0.42% | 240 |
+| 👹👹👹 CE (-masterworks) | 0.42% | 240 |
+| 👹👹 (-barrels, +magazines) | 0.32% | 310 |
+| 👹👹 (+barrels, -magazines) | 0.56% | 180 |
+| 👹👹 (-barrels, -magazines) | 0.69% | 144 |
+| 👹👹 (-barrels, +magazines, -masterworks) | 1.29% | 77 |
+| 👹👹 (+barrels, -magazines, -masterworks) | 2.22% | 45 |
+| 👹👹 (-barrels, -masterworks) | 0.69% | 144 |
+| 👹👹 (-magazines, -masterworks) | 1.67% | 60 |
+| 👹 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 #### **Float Like a Butterfly**
 If you pair a Quickdraw TSH with a breach-load GL with a Quick Access Sling mod, you have a super powerful combination. Pairing it with Le Monarque has a similar effect: massive damage with an opening shot from your Energy weapon and a single shot from TSH to clean up. With Quickdraw and Snapshot, this Aggressive Frame can feel like a Lightweight.
 ```
@@ -3171,22 +3291,22 @@ If you pair a Quickdraw TSH with a breach-load GL with a Quick Access Sling mod,
   Perks 2 [ 16%]: Snapshot
   MWorks  [ 25%]: Stability MW
 ```
-| Variant | Chance |
-|:-|-:|
-| 🦋🦋🦋🌟 Collector's Edition | 0.1% |
-| 🦋🦋🦋 CE (+barrels) | 0.1% |
-| 🦋🦋🦋 CE (+magazines) | 0.2% |
-| 🦋🦋🦋 CE (-barrels) | 0.2% |
-| 🦋🦋🦋 CE (-magazines) | 0.4% |
-| 🦋🦋🦋 CE (-masterworks) | 0.4% |
-| 🦋🦋 (-barrels, +magazines) | 0.3% |
-| 🦋🦋 (+barrels, -magazines) | 0.6% |
-| 🦋🦋 (-barrels, -magazines) | 0.7% |
-| 🦋🦋 (-barrels, +magazines, -masterworks) | 1.3% |
-| 🦋🦋 (+barrels, -magazines, -masterworks) | 2.2% |
-| 🦋🦋 (-barrels, -masterworks) | 0.7% |
-| 🦋🦋 (-magazines, -masterworks) | 1.7% |
-| 🦋 (-barrels, -magazines, -masterworks) | 2.8% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🦋🦋🦋🌟 Collector's Edition | 0.10% | 960 |
+| 🦋🦋🦋 CE (+barrels) | 0.14% | 720 |
+| 🦋🦋🦋 CE (+magazines) | 0.19% | 516 |
+| 🦋🦋🦋 CE (-barrels) | 0.17% | 576 |
+| 🦋🦋🦋 CE (-magazines) | 0.42% | 240 |
+| 🦋🦋🦋 CE (-masterworks) | 0.42% | 240 |
+| 🦋🦋 (-barrels, +magazines) | 0.32% | 310 |
+| 🦋🦋 (+barrels, -magazines) | 0.56% | 180 |
+| 🦋🦋 (-barrels, -magazines) | 0.69% | 144 |
+| 🦋🦋 (-barrels, +magazines, -masterworks) | 1.29% | 77 |
+| 🦋🦋 (+barrels, -magazines, -masterworks) | 2.22% | 45 |
+| 🦋🦋 (-barrels, -masterworks) | 0.69% | 144 |
+| 🦋🦋 (-magazines, -masterworks) | 1.67% | 60 |
+| 🦋 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 #### **Workhorse**
 Many phenomenal perks in column three and column four. As Fallout mentions in his review, you'd be kinda happy to get any of them.
 ```
@@ -3196,22 +3316,22 @@ Many phenomenal perks in column three and column four. As Fallout mentions in hi
   Perks 2 [ 50%]: Wellspring, Snapshot, Iron Grip
   MWorks  [ 25%]: Stability MW
 ```
-| Variant | Chance |
-|:-|-:|
-| 🐴🐴🐴🌟 Collector's Edition | 0.9% |
-| 🐴🐴🐴 CE (+barrels) | 1.2% |
-| 🐴🐴🐴 CE (+magazines) | 1.7% |
-| 🐴🐴🐴 CE (-barrels) | 1.6% |
-| 🐴🐴🐴 CE (-magazines) | 3.8% |
-| 🐴🐴🐴 CE (-masterworks) | 3.8% |
-| 🐴🐴 (-barrels, +magazines) | 2.9% |
-| 🐴🐴 (+barrels, -magazines) | 5.0% |
-| 🐴🐴 (-barrels, -magazines) | 6.2% |
-| 🐴🐴 (-barrels, +magazines, -masterworks) | 11.6% |
-| 🐴🐴 (+barrels, -magazines, -masterworks) | 20.0% |
-| 🐴🐴 (-barrels, -masterworks) | 6.2% |
-| 🐴🐴 (-magazines, -masterworks) | 15.0% |
-| 🐴 (-barrels, -magazines, -masterworks) | 25.0% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🐴🐴🐴🌟 Collector's Edition | 0.94% | 106 |
+| 🐴🐴🐴 CE (+barrels) | 1.25% | 80 |
+| 🐴🐴🐴 CE (+magazines) | 1.74% | 57 |
+| 🐴🐴🐴 CE (-barrels) | 1.56% | 64 |
+| 🐴🐴🐴 CE (-magazines) | 3.75% | 26 |
+| 🐴🐴🐴 CE (-masterworks) | 3.75% | 26 |
+| 🐴🐴 (-barrels, +magazines) | 2.90% | 34 |
+| 🐴🐴 (+barrels, -magazines) | 5.00% | 20 |
+| 🐴🐴 (-barrels, -magazines) | 6.25% | 16 |
+| 🐴🐴 (-barrels, +magazines, -masterworks) | 11.61% | 8 |
+| 🐴🐴 (+barrels, -magazines, -masterworks) | 20.00% | 5 |
+| 🐴🐴 (-barrels, -masterworks) | 6.25% | 16 |
+| 🐴🐴 (-magazines, -masterworks) | 15.00% | 6 |
+| 🐴 (-barrels, -magazines, -masterworks) | 25.00% | 4 |
 ### The Steady Hand - PvE
 Generally in PvE you're going for as much `Range` as you can get with sustained damage upkeep. If you liked [The Duke Mk. 44](https://www.light.gg/db/items/2112909414/duke-mk-44/) then TSH could be for you.
 #### **Rapid Reload**
@@ -3223,19 +3343,19 @@ Without Outlaw, you're going to have to rely on Transversives, Marksman's Dodge,
   Perks 2 [ 16%]: Swashbuckler
   MWorks  [ 25%]: Range MW
 ```
-| Variant | Chance |
-|:-|-:|
-| ♻️♻️♻️🌟 Collector's Edition | 0.2% |
-| ♻️♻️♻️ CE (+magazines) | 0.3% |
-| ♻️♻️♻️ CE (-barrels) | 0.3% |
-| ♻️♻️♻️ CE (+magazines, -barrels) | 0.5% |
-| ♻️♻️♻️ CE (-magazines) | 0.4% |
-| ♻️♻️♻️ CE (+magazines, -masterworks) | 1.3% |
-| ♻️♻️♻️ CE (-masterworks) | 0.8% |
-| ♻️♻️ (-barrels, -magazines) | 0.7% |
-| ♻️♻️ (-barrels, -masterworks) | 1.3% |
-| ♻️♻️ (-magazines, -masterworks) | 1.7% |
-| ♻️ (-barrels, -magazines, -masterworks) | 2.8% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ♻️♻️♻️🌟 Collector's Edition | 0.19% | 516 |
+| ♻️♻️♻️ CE (+magazines) | 0.33% | 305 |
+| ♻️♻️♻️ CE (-barrels) | 0.32% | 310 |
+| ♻️♻️♻️ CE (+magazines, -barrels) | 0.55% | 183 |
+| ♻️♻️♻️ CE (-magazines) | 0.42% | 240 |
+| ♻️♻️♻️ CE (+magazines, -masterworks) | 1.31% | 76 |
+| ♻️♻️♻️ CE (-masterworks) | 0.77% | 129 |
+| ♻️♻️ (-barrels, -magazines) | 0.69% | 144 |
+| ♻️♻️ (-barrels, -masterworks) | 1.29% | 77 |
+| ♻️♻️ (-magazines, -masterworks) | 1.67% | 60 |
+| ♻️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 ## Swarm of the Raven - PvE
 *For all possible perks, check out **Swarm of the Raven** over on [light.gg](https://www.light.gg/db/items/1972985595/swarm-of-the-raven/)*
 
@@ -3533,16 +3653,16 @@ None of the traditional damage perks (Rampage, Kill Clip, Vorpal) are available 
   Perks 2 [ 16%]: Recombination
   MWorks  [ 50%]: Handling MW, Range MW
 ```
-| Variant | Chance |
-|:-|-:|
-| 📈📈📈📈🌟 Collector's Edition | 0.6% |
-| 📈📈📈 CE (-barrels) | 1.0% |
-| 📈📈📈️ CE (-magazines) | 0.8% |
-| 📈📈📈 CE (-masterworks) | 1.2% |
-| 📈📈 (-barrels, -magazines) | 1.4% |
-| 📈📈️ (-barrels, -masterworks) | 2.0% |
-| 📈📈️ (-magazines, -masterworks) | 1.6% |
-| 📈️ (-barrels, -magazines, -masterworks) | 2.8% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 📈📈📈📈🌟 Collector's Edition | 0.58% | 172 |
+| 📈📈📈 CE (-barrels) | 0.99% | 100 |
+| 📈📈📈️ CE (-magazines) | 0.81% | 123 |
+| 📈📈📈 CE (-masterworks) | 1.16% | 86 |
+| 📈📈 (-barrels, -magazines) | 1.39% | 72 |
+| 📈📈️ (-barrels, -masterworks) | 1.98% | 50 |
+| 📈📈️ (-magazines, -masterworks) | 1.62% | 61 |
+| 📈️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 ### Heritage - PvP
 Heritage has the highest aim assist of any slug shotgun.  [Drewsky](https://www.youtube.com/watch?v=XUGZIasUu9o) says "this weapon is really comparable to The Chaperone."
 The base one hit kill range is 10.5 meters, you can increase that up to 11.9m with Killing Wind and Slideshot active.
@@ -3555,16 +3675,16 @@ All Range and all damage.
   Perks 2 [ 16%]: Killing Wind
   MWorks  [ 25%]: Handling MW
 ```
-| Variant | Chance |
-|:-|-:|
-| 🎢🎢🎢🎢️🌟 Collector's Edition | 0.1% |
-| 🎢🎢🎢 CE (-barrels) | 0.2% |
-| 🎢🎢🎢️ CE (-magazines) | 0.4% |
-| 🎢🎢🎢 CE (-masterworks) | 0.5% |
-| 🎢🎢 (-barrels, -magazines) | 0.7% |
-| 🎢🎢️ (-barrels, -masterworks) | 0.8% |
-| 🎢🎢️ (-magazines, -masterworks) | 1.6% |
-| 🎢️ (-barrels, -magazines, -masterworks) | 2.8% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🎢🎢🎢🎢️🌟 Collector's Edition | 0.12% | 864 |
+| 🎢🎢🎢 CE (-barrels) | 0.20% | 504 |
+| 🎢🎢🎢️ CE (-magazines) | 0.41% | 246 |
+| 🎢🎢🎢 CE (-masterworks) | 0.46% | 216 |
+| 🎢🎢 (-barrels, -magazines) | 0.69% | 144 |
+| 🎢🎢️ (-barrels, -masterworks) | 0.79% | 126 |
+| 🎢🎢️ (-magazines, -masterworks) | 1.62% | 61 |
+| 🎢️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 ## Berenger's Memory - PvE
 *For all possible perks, check out **Berenger's Memory** over on [light.gg](https://www.light.gg/db/items/407621213/berengers-memory/)*
 
@@ -5291,14 +5411,14 @@ Here's a breakdown of what we're going for:
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 20%]: Accuracy MW
 ```
-| Variant | Chance |
-|:-|-:|
-| 😡😡😡🌟 Collector's Edition | 0.1% |
-| 😡😡😡 CE (+barrels) | 0.2% |
-| 😡😡😡 CE (+magazines) | 0.2% |
-| 😡😡😡 CE (+masterworks) | 0.2% |
-| 😡😡 (+barrels, +magazines, +masterworks) | 0.7% |
-| 😡 (-barrels, -magazines, +masterworks) | 2.2% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 😡😡😡🌟 Collector's Edition | 0.11% | 944 |
+| 😡😡😡 CE (+barrels) | 0.19% | 515 |
+| 😡😡😡 CE (+magazines) | 0.19% | 525 |
+| 😡😡😡 CE (+masterworks) | 0.21% | 472 |
+| 😡😡 (+barrels, +magazines, +masterworks) | 0.70% | 143 |
+| 😡 (-barrels, -magazines, +masterworks) | 2.22% | 44 |
 #### **GuiltySpark's Reserved Slab**
 The objective of this loadout is to max it's Accuracy as high as it can go, so that the player can use it at longer distances and not feel forced to engage at closer ranges.
 
@@ -5319,20 +5439,20 @@ The objective of this loadout is to max it's Accuracy as high as it can go, so t
   Perks 2 [ 33%]: Opening Shot
   MWorks  [ 20%]: Accuracy MW
 ```
-| Variant | Chance |
-|:-|-:|
-| 🧐🧐🧐🌟 Collector's Edition | 0.1% |
-| 🧐🧐🧐 CE (+barrels) | 0.2% |
-| 🧐🧐🧐 CE (+magazines) | 0.2% |
-| 🧐🧐🧐 CE (+masterworks) | 0.2% |
-| 🧐🧐 (+barrels, +magazines, +masterworks) | 0.7% |
-| 🧐🧐🧐 CE (-barrels) | 0.4% |
-| 🧐🧐🧐 CE (-magazines) | 0.3% |
-| 🧐🧐🧐 CE (-masterworks) | 0.5% |
-| 🧐🧐 (-barrels, -magazines) | 1.1% |
-| 🧐🧐 (-barrels, -masterworks) | 1.9% |
-| 🧐🧐 (-magazines, -masterworks) | 1.6% |
-| 🧐 (-barrels, -magazines, -masterworks) | 5.6% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🧐🧐🧐🌟 Collector's Edition | 0.11% | 944 |
+| 🧐🧐🧐 CE (+barrels) | 0.19% | 515 |
+| 🧐🧐🧐 CE (+magazines) | 0.19% | 525 |
+| 🧐🧐🧐 CE (+masterworks) | 0.21% | 472 |
+| 🧐🧐 (+barrels, +magazines, +masterworks) | 0.70% | 143 |
+| 🧐🧐🧐 CE (-barrels) | 0.37% | 270 |
+| 🧐🧐🧐 CE (-magazines) | 0.32% | 315 |
+| 🧐🧐🧐 CE (-masterworks) | 0.53% | 189 |
+| 🧐🧐 (-barrels, -magazines) | 1.11% | 89 |
+| 🧐🧐 (-barrels, -masterworks) | 1.85% | 54 |
+| 🧐🧐 (-magazines, -masterworks) | 1.59% | 63 |
+| 🧐 (-barrels, -magazines, -masterworks) | 5.56% | 18 |
 ## Seventh Seraph Carbine - PvP
 *For all possible perks, check out **Seventh Seraph Carbine** over on [light.gg](https://www.light.gg/db/items/1561006927/seventh-seraph-carbine/)*
 
@@ -6061,10 +6181,10 @@ These rolls aren't super tight on the Barrel and Magazine front because they are
   Perks 2 [ 16%]: Vorpal
   MWorks  [ 50%]: Stability MW, Range MW
 ```
-| Variant | Chance |
-|:-|-:|
-| 💥💥💥🌟 | 0.9% |
-| 💥💥💥 (-masterworks) | 1.8% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 💥💥💥🌟 | 0.91% | 109 |
+| 💥💥💥 (-masterworks) | 1.82% | 54 |
 #### **Threat Level Super Shredder**
 Same setup as the above, but we're swapping out Full Auto and bringing in Threat Detector.
 ```
@@ -6074,10 +6194,10 @@ Same setup as the above, but we're swapping out Full Auto and bringing in Threat
   Perks 2 [ 16%]: Vorpal
   MWorks  [ 50%]: Stability MW, Range MW
 ```
-| Variant | Chance |
-|:-|-:|
-| 🧵🧵🧵🌟 | 0.9% |
-| 🧵🧵🧵 (-masterworks) | 1.8% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🧵🧵🧵🌟 | 0.91% | 109 |
+| 🧵🧵🧵 (-masterworks) | 1.82% | 54 |
 #### **Basic Super Shredder**
 No first column perk! If you really want Vorpal on your Energy sidearm, here ya go.
 ```
@@ -6087,10 +6207,10 @@ No first column perk! If you really want Vorpal on your Energy sidearm, here ya 
   Perks 2 [ 16%]: Vorpal
   MWorks  [ 50%]: Stability MW, Range MW
 ```
-| Variant | Chance |
-|:-|-:|
-| ⚙⚙⚙🌟 | 5.5% |
-| ⚙⚙⚙ (-masterworks) | 10.9% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ⚙⚙⚙🌟 | 5.46% | 18 |
+| ⚙⚙⚙ (-masterworks) | 10.91% | 9 |
 ### Seventh Seraph SI-2 - PvE
 Like all other Seraph weapons, the SI-2 contributes to the generation of Warmind cells in PvE. If that's not your thing, you can pretty much pass on this weapon full stop. Since it can roll with Dragonfly, it could have made beautiful music with the `Wrath of Rasputin` Warmind mod: `Solar splash damage final blows have a chance to create Warmind Cells`. Unfortunately the SI-2 is a Void weapon 👿
 
@@ -6104,9 +6224,9 @@ The SI-2 is the only sidearm in the game that can roll with both Demolitionist a
   Perks 2 [ 16%]: Dragonfly
   MWorks  [100%]: *
 ```
-| Variant | Chance |
-|:-|-:|
-| 🎇 | 2.8% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🎇 | 2.78% | 36 |
 #### **Champion Slayer**
 Sidearms are all the rage in the Season 10 Artifact, and certainly will be again at some point in the future. If you want to dump rounds in to Champions, you don't have any other options in this slot.
 ```
@@ -6116,9 +6236,9 @@ Sidearms are all the rage in the Season 10 Artifact, and certainly will be again
   Perks 2 [ 16%]: Vorpal
   MWorks  [100%]: *
 ```
-| Variant | Chance |
-|:-|-:|
-| 🏆 | 2.8% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🏆 | 2.78% | 36 |
 #### **You're Trapped In Here With Me**
 Like Grave Robber and Swashbuckler, these two perks play super well off each other. If you love sidearms, considering adding this to your collection. You'll do some serious damage during Seraph Tower events.
 ```
@@ -6128,9 +6248,9 @@ Like Grave Robber and Swashbuckler, these two perks play super well off each oth
   Perks 2 [ 16%]: Surrounded
   MWorks  [100%]: *
 ```
-| Variant | Chance |
-|:-|-:|
-| 🏢 | 2.8% |
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🏢 | 2.78% | 36 |
 ## Seventh Seraph VY-7 - PvP
 *For all possible perks, check out **Seventh Seraph VY-7** over on [light.gg](https://www.light.gg/db/items/766323545/seventh-seraph-vy-7/)*
 
