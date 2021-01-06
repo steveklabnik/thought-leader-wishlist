@@ -110,10 +110,13 @@ Cold Front needs a lot of help in the Stability department, which is the entire 
 | 🥶🥶🥶📦🌟 Collector's Edition | 0.28% | 359 |
 | 🥶🥶🥶📦 CE (+barrels) | 1.04% | 96 |
 | 🥶🥶🥶📦 CE (+magazines) | 0.71% | 140 |
-| 🥶🥶📦 (+barrels, +magazines) | 2.68% | 37 |
-| 🥶🥶📦 (-barrels) | 1.25% | 80 |
-| 🥶🥶📦 (-magazines) | 1.11% | 89 |
-| 🥶🥶📦 (-masterworks) | 1.11% | 89 |
+| 🥶🥶🥶📦 CE (-barrels) | 1.25% | 80 |
+| 🥶🥶🥶📦 CE (-magazines) | 1.11% | 89 |
+| 🥶🥶🥶📦 CE (-masterworks) | 1.11% | 89 |
+| 🥶🥶🥶📦 CE (+barrels, +magazines) | 2.68% | 37 |
+| 🥶🥶📦 (+barrels, -magazines) | 4.17% | 24 |
+| 🥶🥶📦 (+barrels, -masterworks) | 4.17% | 24 |
+| 🥶🥶📦 (+magazines, -masterworks) | 2.86% | 35 |
 #### **Ice to See You/Dynamic Sway**
 Same as the above, swapping DSR in for Surplus. These rolls are otherwise identical but Surplus is so much better than DSR I wanted to call it out 😀
 ```
@@ -128,10 +131,13 @@ Same as the above, swapping DSR in for Surplus. These rolls are otherwise identi
 | 🥶🥶🥶🕺🌟 Collector's Edition | 0.28% | 359 |
 | 🥶🥶🥶🕺 CE (+barrels) | 1.04% | 96 |
 | 🥶🥶🥶🕺 CE (+magazines) | 0.71% | 140 |
-| 🥶🥶🕺 (+barrels, +magazines) | 2.68% | 37 |
-| 🥶🥶🕺 (-barrels) | 1.25% | 80 |
-| 🥶🥶🕺 (-magazines) | 1.11% | 89 |
-| 🥶🥶🕺 (-masterworks) | 1.11% | 89 |
+| 🥶🥶🥶🕺 CE (-barrels) | 1.25% | 80 |
+| 🥶🥶🥶🕺 CE (-magazines) | 1.11% | 89 |
+| 🥶🥶🥶🕺 CE (-masterworks) | 1.11% | 89 |
+| 🥶🥶🥶🕺 CE (+barrels, +magazines) | 2.68% | 37 |
+| 🥶🥶🕺 (+barrels, -magazines) | 4.17% | 24 |
+| 🥶🥶🕺 (+barrels, -masterworks) | 4.17% | 24 |
+| 🥶🥶🕺 (+magazines, -masterworks) | 2.86% | 35 |
 ### Cold Front - PvE
 With the addition of `Surplus` and `One for All` to the Cold Front perk pool, we're looking at a strong contender for one of the best kinetic weapons of all time. `Surplus` improves Stability and Reload (two big Cold Front drawbacks) and `One for All` provides a tremendous damage boost and leaves your mod slot free for Minor, Major or Boss Spec.
 
