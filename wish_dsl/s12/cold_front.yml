@@ -29,27 +29,108 @@ overview: >
   > *I have a reason to believe this is the new best primary in the game, full stop* -- Blyatnid, Dec. 2020
 
 
-  Ehroar and co. are excited because Cold Front can roll with the new
-  damage-boosting perk `One for All` which we'll get to down in the PvE section
-  below.
+  Ehroar and co. are excited for a couple of reasons. First, Cold Front has an
+  (obviously) higher rate of fire than its 600 RPM counterpart without being
+  all that much different stat-wise (save for Stability of course). It can also 
+  roll with the new damage-boosting perk `One for All` which we'll get to down
+  in the PvE section below.
 
 
-  They're each referring to PvE above, so Crucible dwellers don't get your hopes
-  up too high! It's still the same nearly-lowest-Stability-in-the-game Cold
-  Front that it was last year, though the new version does have a few tricks up
-  its sleeve...
-activities: 
+  If you remember the Cold Front from last year, you'll recall its
+  Stability is one of the lowest in the game at `16`. Technically that's
+  "better" than Hard Truth's `15` though not by much. This is less of an
+  issue on PC than Console, though it's still an issue. However, this time
+  around we have two new tools at our disposal: `Surplus` and `Dynamic Sway
+  Reduction`.
+activities:
+  - 
+    name: PvP/PvE Double Duty
+    overview: >
+      The cornerstones of both PvE and PvP are `Surplus` and `Dynamic Sway
+      Reduction`. The best PvE and PvP rolls center around having one of these
+      perks in column three. If you end up with a "PvE roll" that also happens
+      to have super high Stability, then you've got the Holy Grail of Cold
+      Front rolls. Congrats! For an explanation of these rolls, please read
+      further down towards the specific PvE and PvP sections.
+
+
+      These rolls are floored at `36` Stability (before `Surplus`) since that's
+      the base Stability of other similar SMGS (e.g. Ikelos).
+
+      
+      *Yes, these rolls are all based on quotes from the great
+      [Dr. Victor Fries](https://www.imdb.com/title/tt0118688/characters/nm0000216#quotes).*
+    roll_sets:
+      - 
+        name: "Endless Winter"
+        overview: >
+          `Surplus` + `One for All` + all the `Stability` you can get.
+        perks:
+          base:
+                                             # BASE 16
+            barrels: [Chambered Compensator] # +5 - +10 (at least 5)
+            magazines: [Steady Rounds]       # +5 - +15 (at least 5)
+            perks1: [Surplus]
+            perks2: [One for All]
+            masterworks: [Stability MW]      # +10
+          extensions:
+            barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+            magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+        variants:
+          - 🥶🥶🥶🌟 Collector's Edition 
+          - 🥶🥶🥶 CE (+barrels)         
+          - 🥶🥶🥶 CE (+magazines)       
+          - 🥶🥶🥶 CE (-masterworks)     
+          - 🥶🥶 (-barrels) 
+          - 🥶🥶 (-magazines) 
+          - 🥶🥶 (+barrels, -masterworks) 
+      - 
+        name: "Everything Freezes!"
+        overview: >
+          Same as the above, replacing `Surplus` with `Dynamic Sway Reduction`.
+        perks:
+          base:
+            barrels: [Chambered Compensator]
+            magazines: [Steady Rounds]
+            perks1: [Dynamic Sway Reduction]
+            perks2: [One for All]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+            magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+        variants:
+          - 🥶🥶🥶🌟 Collector's Edition 
+          - 🥶🥶🥶 CE (+barrels)         
+          - 🥶🥶🥶 CE (+magazines)       
+          - 🥶🥶🥶 CE (-masterworks)     
+          - 🥶🥶 (-barrels) 
+          - 🥶🥶 (-magazines) 
+          - 🥶🥶 (+barrels, -masterworks) 
+      - 
+        name: "Let's Kick Some Ice!"
+        overview: >
+          Same as the above, but we'll take any damage perk.
+        perks:
+          base:
+            barrels: [Chambered Compensator]
+            magazines: [Steady Rounds]
+            perks1: [Surplus, Dynamic Sway Reduction]
+            perks2: [Dragonfly, Rampage, Surrounded]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+            magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+        variants:
+          - 🧊🧊🧊🌟 Collector's Edition 
+          - 🧊🧊🧊 CE (+barrels)         
+          - 🧊🧊🧊 CE (+magazines)       
+          - 🧊🧊🧊 CE (-masterworks)     
+          - 🧊🧊 (-barrels) 
+          - 🧊🧊 (-magazines) 
+          - 🧊🧊 (+barrels, -masterworks) 
   - 
     name: PvP
     overview: >
-      If you remember the Cold Front from last year, you'll recall its
-      Stability is one of the lowest in the game at `16`. Technically that's
-      "better" than Hard Truth's `15` though not by much. This is less of an
-      issue on PC than Console, though it's still an issue. However, this time
-      around we have two new tools at our disposal: `Surplus` and `Dynamic Sway
-      Reduction`.
-
-
       You'll notice I didn't include any final column perks. Rampage doesn't
       meaningfully realistically alter the TTK and Thresh adds so little to
       your super that it's not worth calling out as the Collector's Edition.
@@ -60,8 +141,8 @@ activities:
         overview: >
           Cold Front needs a lot of help in the Stability department, which is
           the entire focus of this roll. At best, you'll be able to get
-          Stability up from `16` to `48` plus the benefits coming from Surplus.
-          This puts you at or above base Stability on the vaunted Antiope-D and
+          Stability up from `16` to `51` plus the benefits coming from Surplus.
+          This puts you way above the base Stability on the vaunted Antiope-D and
           other Precision Frame SMGs. The Recoil is `92` so be sure to throw on
           a Counterbalance mod if you don't end up with a +Recoil barrel.
         perks: 
@@ -79,12 +160,12 @@ activities:
           - 🥶🥶🥶📦 CE (+barrels)
           - 🥶🥶🥶📦 CE (+magazines)
           - 🥶🥶🥶📦 CE (-barrels)
-          - 🥶🥶🥶📦 CE (-magazines)
           - 🥶🥶🥶📦 CE (-masterworks)
+          - 🥶🥶🥶📦 CE (-magazines)
           - 🥶🥶🥶📦 CE (+barrels, +magazines)
-          - 🥶🥶📦 (+barrels, -magazines)
           - 🥶🥶📦 (+barrels, -masterworks)
-          - 🥶🥶📦 (+magazines, -masterworks)
+          - 🥶📦 (+barrels, -magazines) 
+          - 🥶📦 (+magazines, -masterworks)
       -
         name: Ice to See You/Dynamic Sway
         overview: >
@@ -105,12 +186,12 @@ activities:
           - 🥶🥶🥶🕺 CE (+barrels)
           - 🥶🥶🥶🕺 CE (+magazines)
           - 🥶🥶🥶🕺 CE (-barrels)
-          - 🥶🥶🥶🕺 CE (-magazines)
           - 🥶🥶🥶🕺 CE (-masterworks)
+          - 🥶🥶🥶🕺 CE (-magazines)
           - 🥶🥶🥶🕺 CE (+barrels, +magazines)
-          - 🥶🥶🕺 (+barrels, -magazines)
           - 🥶🥶🕺 (+barrels, -masterworks)
-          - 🥶🥶🕺 (+magazines, -masterworks)
+          - 🥶🕺 (+barrels, -magazines)
+          - 🥶🕺 (+magazines, -masterworks)
   - 
     name: PvE
     overview: >
