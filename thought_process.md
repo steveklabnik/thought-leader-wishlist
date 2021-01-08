@@ -12,7 +12,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 ---
 
 **Season 12 - Season of the Hunt (November 2020 - February 2021)**
-* Cold Front ([PvP](#cold-front---pvp), [PvE](#cold-front---pve))
+* Cold Front ([PvP/PvE Double Duty](#cold-front---pvppve-double-duty), [PvP](#cold-front---pvp), [PvE](#cold-front---pve))
 
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
@@ -89,15 +89,73 @@ Cold Front is a 750 RPM Aggressive Frame ("High damage, high recoil") Kinetic Su
 
 > *I have a reason to believe this is the new best primary in the game, full stop* -- Blyatnid, Dec. 2020
 
-Ehroar and co. are excited because Cold Front can roll with the new damage-boosting perk `One for All` which we'll get to down in the PvE section below.
+Ehroar and co. are excited for a couple of reasons. First, Cold Front has an (obviously) higher rate of fire than its 600 RPM counterpart without being all that much different stat-wise (save for Stability of course). It can also  roll with the new damage-boosting perk `One for All` which we'll get to down in the PvE section below.
 
-They're each referring to PvE above, so Crucible dwellers don't get your hopes up too high! It's still the same nearly-lowest-Stability-in-the-game Cold Front that it was last year, though the new version does have a few tricks up its sleeve...
-### Cold Front - PvP
 If you remember the Cold Front from last year, you'll recall its Stability is one of the lowest in the game at `16`. Technically that's "better" than Hard Truth's `15` though not by much. This is less of an issue on PC than Console, though it's still an issue. However, this time around we have two new tools at our disposal: `Surplus` and `Dynamic Sway Reduction`.
+### Cold Front - PvP/PvE Double Duty
+The cornerstones of both PvE and PvP are `Surplus` and `Dynamic Sway Reduction`. The best PvE and PvP rolls center around having one of these perks in column three. If you end up with a "PvE roll" that also happens to have super high Stability, then you've got the Holy Grail of Cold Front rolls. Congrats! For an explanation of these rolls, please read further down towards the specific PvE and PvP sections.
 
+These rolls are floored at `36` Stability (before `Surplus`) since that's the base Stability of other similar SMGS (e.g. Ikelos).
+
+*Yes, these rolls are all based on quotes from the great [Dr. Victor Fries](https://www.imdb.com/title/tt0118688/characters/nm0000216#quotes).*
+#### **Endless Winter**
+`Surplus` + `One for All` + all the `Stability` you can get.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Surplus
+  Perks 2 [ 16%]: One for All
+  MWorks  [ 25%]: Stability MW
+```
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🥶🥶🥶🌟 Collector's Edition | 0.05% | 2160 |
+| 🥶🥶🥶 CE (+barrels) | 0.17% | 575 |
+| 🥶🥶🥶 CE (+magazines) | 0.12% | 840 |
+| 🥶🥶🥶 CE (-masterworks) | 0.19% | 540 |
+| 🥶🥶 (-barrels) | 0.21% | 480 |
+| 🥶🥶 (-magazines) | 0.19% | 540 |
+| 🥶🥶 (+barrels, -masterworks) | 0.69% | 143 |
+#### **Everything Freezes!**
+Same as the above, replacing `Surplus` with `Dynamic Sway Reduction`.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: One for All
+  MWorks  [ 25%]: Stability MW
+```
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🥶🥶🥶🌟 Collector's Edition | 0.05% | 2160 |
+| 🥶🥶🥶 CE (+barrels) | 0.17% | 575 |
+| 🥶🥶🥶 CE (+magazines) | 0.12% | 840 |
+| 🥶🥶🥶 CE (-masterworks) | 0.19% | 540 |
+| 🥶🥶 (-barrels) | 0.21% | 480 |
+| 🥶🥶 (-magazines) | 0.19% | 540 |
+| 🥶🥶 (+barrels, -masterworks) | 0.69% | 143 |
+#### **Let's Kick Some Ice!**
+Same as the above, but we'll take any damage perk.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 40%]: Surplus, Dynamic Sway Reduction
+  Perks 2 [ 50%]: Dragonfly, Rampage, Surrounded
+  MWorks  [ 25%]: Stability MW
+```
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🧊🧊🧊🌟 Collector's Edition | 0.28% | 359 |
+| 🧊🧊🧊 CE (+barrels) | 1.04% | 96 |
+| 🧊🧊🧊 CE (+magazines) | 0.71% | 140 |
+| 🧊🧊🧊 CE (-masterworks) | 1.11% | 89 |
+| 🧊🧊 (-barrels) | 1.25% | 80 |
+| 🧊🧊 (-magazines) | 1.11% | 89 |
+| 🧊🧊 (+barrels, -masterworks) | 4.17% | 24 |
+### Cold Front - PvP
 You'll notice I didn't include any final column perks. Rampage doesn't meaningfully realistically alter the TTK and Thresh adds so little to your super that it's not worth calling out as the Collector's Edition. Whatever you get in that final column is fine.
 #### **Ice to See You/Surplus**
-Cold Front needs a lot of help in the Stability department, which is the entire focus of this roll. At best, you'll be able to get Stability up from `16` to `48` plus the benefits coming from Surplus. This puts you at or above base Stability on the vaunted Antiope-D and other Precision Frame SMGs. The Recoil is `92` so be sure to throw on a Counterbalance mod if you don't end up with a +Recoil barrel.
+Cold Front needs a lot of help in the Stability department, which is the entire focus of this roll. At best, you'll be able to get Stability up from `16` to `51` plus the benefits coming from Surplus. This puts you way above the base Stability on the vaunted Antiope-D and other Precision Frame SMGs. The Recoil is `92` so be sure to throw on a Counterbalance mod if you don't end up with a +Recoil barrel.
 ```
   Barrels [ 22%]: Chambered Compensator
   Mags    [ 25%]: Steady Rounds
@@ -111,12 +169,12 @@ Cold Front needs a lot of help in the Stability department, which is the entire 
 | 🥶🥶🥶📦 CE (+barrels) | 1.04% | 96 |
 | 🥶🥶🥶📦 CE (+magazines) | 0.71% | 140 |
 | 🥶🥶🥶📦 CE (-barrels) | 1.25% | 80 |
-| 🥶🥶🥶📦 CE (-magazines) | 1.11% | 89 |
 | 🥶🥶🥶📦 CE (-masterworks) | 1.11% | 89 |
+| 🥶🥶🥶📦 CE (-magazines) | 1.11% | 89 |
 | 🥶🥶🥶📦 CE (+barrels, +magazines) | 2.68% | 37 |
-| 🥶🥶📦 (+barrels, -magazines) | 4.17% | 24 |
 | 🥶🥶📦 (+barrels, -masterworks) | 4.17% | 24 |
-| 🥶🥶📦 (+magazines, -masterworks) | 2.86% | 35 |
+| 🥶📦 (+barrels, -magazines) | 4.17% | 24 |
+| 🥶📦 (+magazines, -masterworks) | 2.86% | 35 |
 #### **Ice to See You/Dynamic Sway**
 Same as the above, swapping DSR in for Surplus. These rolls are otherwise identical but Surplus is so much better than DSR I wanted to call it out 😀
 ```
@@ -132,12 +190,12 @@ Same as the above, swapping DSR in for Surplus. These rolls are otherwise identi
 | 🥶🥶🥶🕺 CE (+barrels) | 1.04% | 96 |
 | 🥶🥶🥶🕺 CE (+magazines) | 0.71% | 140 |
 | 🥶🥶🥶🕺 CE (-barrels) | 1.25% | 80 |
-| 🥶🥶🥶🕺 CE (-magazines) | 1.11% | 89 |
 | 🥶🥶🥶🕺 CE (-masterworks) | 1.11% | 89 |
+| 🥶🥶🥶🕺 CE (-magazines) | 1.11% | 89 |
 | 🥶🥶🥶🕺 CE (+barrels, +magazines) | 2.68% | 37 |
-| 🥶🥶🕺 (+barrels, -magazines) | 4.17% | 24 |
 | 🥶🥶🕺 (+barrels, -masterworks) | 4.17% | 24 |
-| 🥶🥶🕺 (+magazines, -masterworks) | 2.86% | 35 |
+| 🥶🕺 (+barrels, -magazines) | 4.17% | 24 |
+| 🥶🕺 (+magazines, -masterworks) | 2.86% | 35 |
 ### Cold Front - PvE
 With the addition of `Surplus` and `One for All` to the Cold Front perk pool, we're looking at a strong contender for one of the best kinetic weapons of all time. `Surplus` improves Stability and Reload (two big Cold Front drawbacks) and `One for All` provides a tremendous damage boost and leaves your mod slot free for Minor, Major or Boss Spec.
 
