@@ -1,7 +1,8 @@
 @import "{{ site.theme }}";
 
-.main-content {
-  h1 {
-   color: #ff0000;
- }
+.wrapper {
+  max-width: 800px;
+  section {
+    max-width: 800px;
+  }
 }

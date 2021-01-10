@@ -4,8 +4,8 @@ def wishlist_filename(environment)
 end
 
 def thoughts_filename(environment)
-  return 'thought_process.dev.md' if (environment == 'development')
-  'thought_process.md'
+  return 'docs/index.dev.md' if (environment == 'development')
+  'docs/index.md'
 end
 
 def factorial(n)
