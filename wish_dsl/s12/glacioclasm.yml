@@ -1,0 +1,169 @@
+syntax_version: 2
+name: Glacioclasm
+item_id: 1030895163
+lightgg: https://www.light.gg/db/items/1030895163/glacioclasm/
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 5, c: 1}
+overview: >
+  The Glacioclasm is a High-Impact Frame Fusion Rifle released for the first
+  time in The Dawning, 2020 (Y4 S12). Implicit in the High-Impact frames are
+  that you gain accuracy while crouched: "more accurate when stationary and
+  aiming down sights".
+
+  
+  Here are some highlights called out from
+  [CoolGuy's review](https://www.youtube.com/watch?v=TcKyglpE5UI):
+
+    * Base 1.6 Zoom, versus 1.5 on all other Fusions
+    * Best Handling and Stability of all High-Impact Frames
+    * Base Range of `67`, "Already at the cap; you don't need any more. It's
+    near perfect for the Range that fusions have right now [after the range
+    compression nerf]."
+
+  From
+  [Fallout's Review](https://www.youtube.com/watch?v=s7URG6BUl_Q),
+  the difference between a "low range" (67) and "high range" (89) setup is that
+  you gain a single meter before falloff, from 17-18m. That's likely why CoolGuy
+  and Fallout suggest investing in Stability.
+activities:
+  - 
+    name: PvP
+    overview: >
+      As mentioned above, the Glacioclasm's base stats are some of the best
+      ever for a High-Impact frame. Because of this, we can narrow our focus on
+      perks and go for some amazing rolls in a post-Erentil world. This is a
+      controller wishlist and so these rolls will primarily focus on
+      `Stability` (which is probably also fine for M&K but apparently M&K
+      players aren't into Fusions as much?)
+
+
+      I
+      [put together a chart](https://github.com/rslifka/wishlist/wiki/Weapon-Focus-Fusion-Rifles)
+      from Fallout's video above and after some helpful Guardians let me voop
+      'em in a private match.
+    roll_sets:
+      -
+        name: Accelerated Four-Bolter
+        overview: >
+          This roll is based around the combination of `Accelerated Coils` and
+          `High-Impact Reserves`. This will allow you to four-bolt Guardians at
+          `9` Resilience with two in the mag (i.e. when you spawn in). I have
+          no Resilience statistics, but checked across three games last night
+          and most people were `2`-`3` with a few around `5`. If you happen to
+          get `Chambered Compensator` be sure to throw on a Counterbalance mod
+          to hit `Recoil:100`.
+        perks: 
+          base: 
+            barrels: [Arrowhead Brake, Chambered Compensator]
+            magazines: [Accelerated Coils]
+            perks1: [Surplus]
+            perks2: [High-Impact Reserves]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+            perks1: [Surplus, Slideshot, Under Pressure, Killing Wind]
+            masterworks: [Stability MW, Range MW, Handling MW, Reload MW]
+        variants:
+          - 🐇🐇🐇🌟 Collector's Edition
+          - 🐇🐇🐇 CE (+barrels)
+          - 🐇🐇🐇 CE (+perks1)
+          - 🐇🐇🐇 CE (+masterworks)
+          - 🐇🐇 (+barrels, +perks1)
+          - 🐇🐇 (+barrels, +masterworks)
+          - 🐇🐇 (+perks1, +masterworks)
+          - 🐇 (+barrels, +perks1, +masterworks)
+      -
+        name: Stable Four-Bolter
+        overview: >
+          Similar to the above, swapping in `Particle Repeater` to replace
+          `Accelerated Coils`, but still centering around `High-Impact
+          Reserves`. Because the Charge Time is slower you can now four-bolt
+          Guardians at any `Resilience` value.
+        perks: 
+          base: 
+            barrels: [Arrowhead Brake, Chambered Compensator]
+            magazines: [Particle Repeater]
+            perks1: [Surplus]
+            perks2: [High-Impact Reserves]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+            magazines: [Particle Repeater, Projection Fuse]
+            perks1: [Surplus, Slideshot, Under Pressure, Killing Wind]
+            masterworks: [Stability MW, Range MW, Handling MW, Reload MW]
+        variants:
+          - 🐴🐴⚡️🌟 Collector's Edition
+          - 🐴🐴⚡️ CE (+barrels)
+          - 🐴🐴⚡️ CE (+magazines)
+          - 🐴🐴⚡️ CE (+perks1)
+          - 🐴🐴⚡️ CE (+masterworks)
+          - 🐴🐴 (+barrels, +magazines)
+          - 🐴🐴 (+barrels, +perks1)
+          - 🐴🐴 (+barrels, +masterworks)
+          - 🐴🐴 (+magazines, +perks1)
+          - 🐴🐴 (+magazines, +masterworks)
+          - 🐴🐴 (+perks1, +masterworks)
+          - ⚡️ (+barrels, +perks1, +masterworks)
+      -
+        name: Slow and Steady Four-Bolter
+        overview: >
+          This roll is based around `Liquid Coils`, which allows you to
+          four-bolt Guardians at `9` Resilience. The introduction of `Liquid
+          Coils` opens this roll up quite a bit. You won't find a `Charge Time`
+          Masterwork here because it would drop the roll down to `6` Resilience.
+        perks: 
+          base: 
+            barrels: [Arrowhead Brake, Chambered Compensator]
+            magazines: [Liquid Coils]
+            perks1: [Surplus]
+            perks2: [Demolitionist, Auto-Loading Holster]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+            perks1: [Surplus, Slideshot, Under Pressure, Killing Wind]
+            masterworks: [Stability MW, Range MW, Handling MW, Reload MW]
+        variants:
+          - 🐢🐢🐢🌟 Collector's Edition
+          - 🐢🐢🐢 CE (+barrels)
+          - 🐢🐢🐢 CE (+perks1)
+          - 🐢🐢🐢 CE (+masterworks)
+          - 🐢🐢 (+barrels, +perks1)
+          - 🐢🐢 (+barrels, +masterworks)
+          - 🐢🐢 (+perks1, +masterworks)
+          - 🐢🐢 (-perks2)
+          - 🐢 (+barrels, +perks1, +masterworks)
+      -
+        name: Workhorse
+        overview: >
+          The base stats on Glacioclasm are rock solid are terrific. This roll
+          captures the remainder of good rolls that do not include Coil-
+          modifying magazines and/or High-Impact Reserves.
+        perks: 
+          base: 
+            barrels: [Arrowhead Brake, Chambered Compensator]
+            magazines: [Particle Repeater]
+            perks1: [Surplus]
+            perks2: [Demolitionist, Auto-Loading Holster]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+            magazines: [Particle Repeater, Projection Fuse]
+            perks1: [Surplus, Slideshot, Under Pressure, Killing Wind]
+            masterworks: [Stability MW, Range MW, Handling MW, Reload MW]
+        variants:
+          - 🐴🐴🐴🌟 Collector's Edition
+          - 🐴🐴🐴 CE (+barrels)
+          - 🐴🐴🐴 CE (+magazines)
+          - 🐴🐴🐴 CE (+perks1)
+          - 🐴🐴🐴 CE (+masterworks)
+          - 🐴🐴 (+barrels, +magazines)
+          - 🐴🐴 (+barrels, +perks1)
+          - 🐴🐴 (+barrels, +masterworks)
+          - 🐴🐴 (+magazines, +perks1)
+          - 🐴🐴 (+magazines, +masterworks)
+          - 🐴🐴 (+perks1, +masterworks)
+          - 🐴 (+barrels, +perks1, +masterworks)
