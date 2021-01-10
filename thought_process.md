@@ -331,14 +331,14 @@ There is a unique situation among rolls here that's super interesting. If you ha
 |:-|-:|-:|
 | ☕️☕️☕️🌟 Collector's Edition | 0.08% | 1296 |
 | ☕️☕️☕️ CE (+barrels) | 0.17% | 589 |
-| ☕️☕️☕️ CE (+magazines) | 0.14% | 719 |
+| ☕️☕️☕️ CE (+magazines) | 0.19% | 540 |
 | ☕️☕️☕️ CE (+perks1) | 0.31% | 324 |
-| ☕️☕️ (+barrels, +magazines) | 0.31% | 327 |
+| ☕️☕️ (+barrels, +magazines) | 0.41% | 245 |
 | ☕️☕️ (+barrels, +perks1) | 0.68% | 147 |
-| ☕️☕️ (+magazines, +perks1) | 0.56% | 179 |
+| ☕️☕️ (+magazines, +perks1) | 0.74% | 135 |
 | ☕️☕️ (-perks1) | 0.46% | 216 |
 | ☕️☕️ (+barrels, -perks1) | 1.02% | 98 |
-| ☕️☕️ (+magazines, -perks1) | 0.83% | 120 |
+| ☕️☕️ (+magazines, -perks1) | 1.11% | 89 |
 #### **Slow and Steady Four-Bolter**
 This roll is based around `Liquid Coils`, which allows you to four-bolt Guardians at `9` Resilience. The introduction of `Liquid Coils` opens this roll up quite a bit. You won't find a `Charge Time` Masterwork here because it would drop the roll down to `6` Resilience.
 ```
