@@ -5,13 +5,14 @@ class V2Generator
   def generate_toc_link(roll_data)
     activities = roll_data['activities']
     weapon_name = roll_data['name']
-    
+    weapon_link = weapon_name.downcase.gsub(/'/,'').gsub(/\//,'').gsub(/,/,'').gsub(/\./,'').gsub(/\W/,'-')
+
     activity_links = activities.map do |a|
       activity_name = a['name']
       link = "#{weapon_name.downcase} - #{activity_name.downcase}".gsub(/'/,'').gsub(/\//,'').gsub(/,/,'').gsub(/\./,'').gsub(/\W/,'-')
       "[#{activity_name}](##{link})"
     end
-    "* #{weapon_name} (#{activity_links.join(', ')})"
+    "* [#{weapon_name}](##{weapon_link}) (#{activity_links.join(', ')})"
   end
 
   def generate_roll(roll_data)
