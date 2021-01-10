@@ -306,17 +306,17 @@ Similar to the above, swapping in `Particle Repeater` to replace `Accelerated Co
 ```
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🐴🐴⚡️🌟 Collector's Edition | 0.08% | 1296 |
-| 🐴🐴⚡️ CE (+barrels) | 0.17% | 589 |
-| 🐴🐴⚡️ CE (+magazines) | 0.14% | 719 |
-| 🐴🐴⚡️ CE (+perks1) | 0.31% | 324 |
-| 🐴🐴⚡️ CE (+masterworks) | 0.31% | 324 |
-| 🐴🐴 (+barrels, +magazines) | 0.31% | 327 |
-| 🐴🐴 (+barrels, +perks1) | 0.68% | 147 |
-| 🐴🐴 (+barrels, +masterworks) | 0.68% | 147 |
-| 🐴🐴 (+magazines, +perks1) | 0.56% | 179 |
-| 🐴🐴 (+magazines, +masterworks) | 0.56% | 179 |
-| 🐴🐴 (+perks1, +masterworks) | 1.23% | 81 |
+| ⚡️⚡️⚡️🌟 Collector's Edition | 0.08% | 1296 |
+| ⚡️⚡️⚡️ CE (+barrels) | 0.17% | 589 |
+| ⚡️⚡️⚡️ CE (+magazines) | 0.14% | 719 |
+| ⚡️⚡️⚡️ CE (+perks1) | 0.31% | 324 |
+| ⚡️⚡️⚡️ CE (+masterworks) | 0.31% | 324 |
+| ⚡️⚡️ (+barrels, +magazines) | 0.31% | 327 |
+| ⚡️⚡️ (+barrels, +perks1) | 0.68% | 147 |
+| ⚡️⚡️ (+barrels, +masterworks) | 0.68% | 147 |
+| ⚡️⚡️ (+magazines, +perks1) | 0.56% | 179 |
+| ⚡️⚡️ (+magazines, +masterworks) | 0.56% | 179 |
+| ⚡️⚡️ (+perks1, +masterworks) | 1.23% | 81 |
 | ⚡️ (+barrels, +perks1, +masterworks) | 2.72% | 36 |
 #### **Slow and Steady Four-Bolter**
 This roll is based around `Liquid Coils`, which allows you to four-bolt Guardians at `9` Resilience. The introduction of `Liquid Coils` opens this roll up quite a bit. You won't find a `Charge Time` Masterwork here because it would drop the roll down to `6` Resilience.
