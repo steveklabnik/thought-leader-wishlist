@@ -201,3 +201,5 @@ activities:
           - 🐴🐴 (+perks1, -perks2)
           - 🐴🐴 (+perks1, -masterworks)
           - 🐴🐴 (-perks2, -masterworks)
+          - 🐴🐴 (-perks1, -masterworks)
+          - 🐴 (+magazines, +perks1, -perks2)
