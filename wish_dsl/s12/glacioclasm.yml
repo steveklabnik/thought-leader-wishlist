@@ -181,7 +181,7 @@ activities:
             perks2: [Demolitionist, Auto-Loading Holster]
             masterworks: [Stability MW]
           extensions:
-            barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+            barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling]
             magazines: [Particle Repeater, Projection Fuse]
             perks1: [Surplus, Slideshot, Under Pressure, Killing Wind]
         variants:
