@@ -13,6 +13,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 
 **Season 12 - Season of the Hunt (November 2020 - February 2021)**
 * Cold Front ([PvP/PvE Double Duty](#cold-front---pvppve-double-duty), [PvP](#cold-front---pvp), [PvE](#cold-front---pve))
+* Glacioclasm ([PvP](#glacioclasm---pvp))
 
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
@@ -257,6 +258,109 @@ We'll take any combination of a handful of perks in the final columns for a supe
 | ☃️☃️☃️📦 (-magazines) | 1.11% | 89 |
 | ☃️☃️☃️📦 (-masterworks) | 1.11% | 89 |
 | ☃️☃️📦 (-barrels, -magazines, -masterworks) | 20.00% | 5 |
+## Glacioclasm
+*For all possible perks, check out **Glacioclasm** over on [light.gg](https://www.light.gg/db/items/1030895163/glacioclasm/)*
+
+The Glacioclasm is a High-Impact Frame Fusion Rifle released for the first time in The Dawning, 2020 (Y4 S12). Implicit in the High-Impact frames are that you gain accuracy while crouched: "more accurate when stationary and aiming down sights".
+
+Here are some highlights called out from [CoolGuy's review](https://www.youtube.com/watch?v=TcKyglpE5UI):
+
+  * Base 1.6 Zoom, versus 1.5 on all other Fusions
+  * Best Handling and Stability of all High-Impact Frames
+  * Base Range of `67`, "Already at the cap; you don't need any more. It's
+  near perfect for the Range that fusions have right now [after the range
+  compression nerf]."
+
+From [Fallout's Review](https://www.youtube.com/watch?v=s7URG6BUl_Q), the difference between a "low range" (67) and "high range" (89) setup is that you gain a single meter before falloff, from 17-18m. That's likely why CoolGuy and Fallout suggest investing in Stability.
+### Glacioclasm - PvP
+As mentioned above, the Glacioclasm's base stats are some of the best ever for a High-Impact frame. Because of this, we can narrow our focus on perks and go for some amazing rolls in a post-Erentil world. This is a controller wishlist and so these rolls will primarily focus on `Stability` (which is probably also fine for M&K but apparently M&K players aren't into Fusions as much?)
+
+I [put together a chart](https://github.com/rslifka/wishlist/wiki/Weapon-Focus-Fusion-Rifles) from Fallout's video above and after some helpful Guardians let me voop 'em in a private match.
+#### **Accelerated Four-Bolter**
+This roll is based around the combination of `Accelerated Coils` and `High-Impact Reserves`. This will allow you to four-bolt Guardians at `9` Resilience with two in the mag (i.e. when you spawn in). I have no Resilience statistics, but checked across three games last night and most people were `2`-`3` with a few around `5`. If you happen to get `Chambered Compensator` be sure to throw on a Counterbalance mod to hit `Recoil:100`.
+```
+  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
+  Mags    [ 33%]: Accelerated Coils
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 16%]: High-Impact Reserves
+  MWorks  [ 20%]: Stability MW
+```
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🐇🐇🐇🌟 Collector's Edition | 0.08% | 1296 |
+| 🐇🐇🐇 CE (+barrels) | 0.17% | 589 |
+| 🐇🐇🐇 CE (+perks1) | 0.31% | 324 |
+| 🐇🐇🐇 CE (+masterworks) | 0.31% | 324 |
+| 🐇🐇 (+barrels, +perks1) | 0.68% | 147 |
+| 🐇🐇 (+barrels, +masterworks) | 0.68% | 147 |
+| 🐇🐇 (+perks1, +masterworks) | 1.23% | 81 |
+| 🐇 (+barrels, +perks1, +masterworks) | 2.72% | 36 |
+#### **Stable Four-Bolter**
+Similar to the above, swapping in `Particle Repeater` to replace `Accelerated Coils`, but still centering around `High-Impact Reserves`. Because the Charge Time is slower you can now four-bolt Guardians at any `Resilience` value.
+```
+  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
+  Mags    [ 33%]: Particle Repeater
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 16%]: High-Impact Reserves
+  MWorks  [ 20%]: Stability MW
+```
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🐴🐴⚡️🌟 Collector's Edition | 0.08% | 1296 |
+| 🐴🐴⚡️ CE (+barrels) | 0.17% | 589 |
+| 🐴🐴⚡️ CE (+magazines) | 0.14% | 719 |
+| 🐴🐴⚡️ CE (+perks1) | 0.31% | 324 |
+| 🐴🐴⚡️ CE (+masterworks) | 0.31% | 324 |
+| 🐴🐴 (+barrels, +magazines) | 0.31% | 327 |
+| 🐴🐴 (+barrels, +perks1) | 0.68% | 147 |
+| 🐴🐴 (+barrels, +masterworks) | 0.68% | 147 |
+| 🐴🐴 (+magazines, +perks1) | 0.56% | 179 |
+| 🐴🐴 (+magazines, +masterworks) | 0.56% | 179 |
+| 🐴🐴 (+perks1, +masterworks) | 1.23% | 81 |
+| ⚡️ (+barrels, +perks1, +masterworks) | 2.72% | 36 |
+#### **Slow and Steady Four-Bolter**
+This roll is based around `Liquid Coils`, which allows you to four-bolt Guardians at `9` Resilience. The introduction of `Liquid Coils` opens this roll up quite a bit. You won't find a `Charge Time` Masterwork here because it would drop the roll down to `6` Resilience.
+```
+  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
+  Mags    [ 33%]: Liquid Coils
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 33%]: Demolitionist, Auto-Loading Holster
+  MWorks  [ 20%]: Stability MW
+```
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🐢🐢🐢🌟 Collector's Edition | 0.15% | 648 |
+| 🐢🐢🐢 CE (+barrels) | 0.34% | 294 |
+| 🐢🐢🐢 CE (+perks1) | 0.62% | 162 |
+| 🐢🐢🐢 CE (+masterworks) | 0.62% | 162 |
+| 🐢🐢 (+barrels, +perks1) | 1.36% | 73 |
+| 🐢🐢 (+barrels, +masterworks) | 1.36% | 73 |
+| 🐢🐢 (+perks1, +masterworks) | 2.47% | 40 |
+| 🐢🐢 (-perks2) | 0.46% | 216 |
+| 🐢 (+barrels, +perks1, +masterworks) | 5.43% | 18 |
+#### **Workhorse**
+The base stats on Glacioclasm are rock solid are terrific. This roll captures the remainder of good rolls that do not include Coil- modifying magazines and/or High-Impact Reserves.
+```
+  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
+  Mags    [ 33%]: Particle Repeater
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 33%]: Demolitionist, Auto-Loading Holster
+  MWorks  [ 20%]: Stability MW
+```
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🐴🐴🐴🌟 Collector's Edition | 0.15% | 648 |
+| 🐴🐴🐴 CE (+barrels) | 0.34% | 294 |
+| 🐴🐴🐴 CE (+magazines) | 0.28% | 359 |
+| 🐴🐴🐴 CE (+perks1) | 0.62% | 162 |
+| 🐴🐴🐴 CE (+masterworks) | 0.62% | 162 |
+| 🐴🐴 (+barrels, +magazines) | 0.61% | 163 |
+| 🐴🐴 (+barrels, +perks1) | 1.36% | 73 |
+| 🐴🐴 (+barrels, +masterworks) | 1.36% | 73 |
+| 🐴🐴 (+magazines, +perks1) | 1.11% | 89 |
+| 🐴🐴 (+magazines, +masterworks) | 1.11% | 89 |
+| 🐴🐴 (+perks1, +masterworks) | 2.47% | 40 |
+| 🐴 (+barrels, +perks1, +masterworks) | 5.43% | 18 |
 ## Black Scorpion-4sr - PvP
 *For all possible perks, check out **Black Scorpion-4sr** over on [light.gg](https://www.light.gg/db/items/525750263/black-scorpion-4sr/)*
 
