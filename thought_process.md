@@ -336,6 +336,9 @@ There is a unique situation among rolls here that's super interesting. If you ha
 | ☕️☕️ (+barrels, +magazines) | 0.31% | 327 |
 | ☕️☕️ (+barrels, +perks1) | 0.68% | 147 |
 | ☕️☕️ (+magazines, +perks1) | 0.56% | 179 |
+| ☕️☕️ (-perks1) | 0.46% | 216 |
+| ☕️☕️ (+barrels, -perks1) | 1.02% | 98 |
+| ☕️☕️ (+magazines, -perks1) | 0.83% | 120 |
 #### **Slow and Steady Four-Bolter**
 This roll is based around `Liquid Coils`, which allows you to four-bolt Guardians at `9` Resilience. The introduction of `Liquid Coils` opens this roll up quite a bit. You won't find a `Charge Time` Masterwork here because it would drop the roll down to `6` Resilience.
 ```
