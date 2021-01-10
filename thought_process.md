@@ -371,15 +371,15 @@ The base stats on Glacioclasm are rock solid are terrific. This roll captures th
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🐴🐴🐴🌟 Collector's Edition | 0.15% | 648 |
-| 🐴🐴🐴 CE (+barrels) | 0.34% | 294 |
+| 🐴🐴🐴 CE (+barrels) | 0.36% | 277 |
 | 🐴🐴🐴 CE (+magazines) | 0.28% | 359 |
 | 🐴🐴🐴 CE (+perks1) | 0.62% | 162 |
 | 🐴🐴🐴 CE (-perks2) | 0.46% | 216 |
 | 🐴🐴🐴 CE (-masterworks) | 0.77% | 129 |
-| 🐴🐴 (+barrels, +magazines) | 0.61% | 163 |
-| 🐴🐴 (+barrels, +perks1) | 1.36% | 73 |
-| 🐴🐴 (+barrels, -perks2) | 1.02% | 98 |
-| 🐴🐴 (+barrels, -masterworks) | 1.70% | 58 |
+| 🐴🐴 (+barrels, +magazines) | 0.65% | 154 |
+| 🐴🐴 (+barrels, +perks1) | 1.44% | 69 |
+| 🐴🐴 (+barrels, -perks2) | 1.08% | 92 |
+| 🐴🐴 (+barrels, -masterworks) | 1.80% | 55 |
 | 🐴🐴 (+magazines, +perks1) | 1.11% | 89 |
 | 🐴🐴 (+magazines, -perks2) | 0.83% | 120 |
 | 🐴🐴 (+magazines, -masterworks) | 1.39% | 72 |
