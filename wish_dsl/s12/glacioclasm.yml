@@ -109,6 +109,34 @@ activities:
           - ⚡️⚡️ (+perks1, +masterworks)
           - ⚡️ (+barrels, +perks1, +masterworks)
       -
+        name: Jittery Four-Bolter
+        overview: >
+          There is a unique situation among rolls here that's super interesting.
+          If you have a `Charge Time` Masterwork and `High-Impact Reserves` it
+          means you can four-bolt Guardians at `6` Resilience with two in the
+          mag. That's actually a downgrade from not having a `Charge Time`
+          Masterwork... but(!) you get an upgrade with one in the mag in that
+          you can now four-bolt Guardians with **any** Resilience.
+        perks: 
+          base: 
+            barrels: [Arrowhead Brake, Chambered Compensator]
+            magazines: [Particle Repeater]
+            perks1: [Surplus]
+            perks2: [High-Impact Reserves]
+            masterworks: [Charge MW]
+          extensions:
+            barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+            magazines: [Particle Repeater, Projection Fuse]
+            perks1: [Surplus, Slideshot, Under Pressure, Killing Wind]
+        variants:
+          - ☕️☕️☕️🌟 Collector's Edition
+          - ☕️☕️☕️ CE (+barrels)
+          - ☕️☕️☕️ CE (+magazines)
+          - ☕️☕️☕️ CE (+perks1)
+          - ☕️☕️ (+barrels, +magazines)
+          - ☕️☕️ (+barrels, +perks1)
+          - ☕️☕️ (+magazines, +perks1)
+      -
         name: Slow and Steady Four-Bolter
         overview: >
           This roll is based around `Liquid Coils`, which allows you to
