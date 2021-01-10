@@ -386,6 +386,8 @@ The base stats on Glacioclasm are rock solid are terrific. This roll captures th
 | 🐴🐴 (+perks1, -perks2) | 1.85% | 54 |
 | 🐴🐴 (+perks1, -masterworks) | 3.09% | 32 |
 | 🐴🐴 (-perks2, -masterworks) | 2.31% | 43 |
+| 🐴🐴 (-perks1, -masterworks) | 4.63% | 21 |
+| 🐴 (+magazines, +perks1, -perks2) | 3.33% | 30 |
 ## Black Scorpion-4sr - PvP
 *For all possible perks, check out **Black Scorpion-4sr** over on [light.gg](https://www.light.gg/db/items/525750263/black-scorpion-4sr/)*
 
