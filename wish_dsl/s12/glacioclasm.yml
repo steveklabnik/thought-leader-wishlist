@@ -126,7 +126,7 @@ activities:
             masterworks: [Charge MW]
           extensions:
             barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
-            magazines: [Particle Repeater, Projection Fuse]
+            magazines: [Particle Repeater, Projection Fuse, Enhanced Battery]
             perks1: [Surplus, Slideshot, Under Pressure, Killing Wind]
         variants:
           - ☕️☕️☕️🌟 Collector's Edition
