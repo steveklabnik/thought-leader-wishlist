@@ -12,8 +12,8 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 ---
 
 **Season 12 - Season of the Hunt (November 2020 - February 2021)**
-* Cold Front ([PvP/PvE Double Duty](#cold-front---pvppve-double-duty), [PvP](#cold-front---pvp), [PvE](#cold-front---pve))
-* Glacioclasm ([PvP](#glacioclasm---pvp))
+* [Cold Front](#cold-front) ([PvP/PvE Double Duty](#cold-front---pvppve-double-duty), [PvP](#cold-front---pvp), [PvE](#cold-front---pve))
+* [Glacioclasm](#glacioclasm) ([PvP](#glacioclasm---pvp))
 
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
@@ -26,7 +26,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * Last Perdition ([PvP](#last-perdition---pvp), [PvE](#last-perdition---pve))
 * Night Watch ([PvP](#night-watch---pvp), [PvE](#night-watch---pve))
 * Outrageous Fortune ([PvE](#outrageous-fortune---pve))
-* Stars in Shadow ([PvP](#stars-in-shadow---pvp), [PvE](#stars-in-shadow---pve))
+* [Stars in Shadow](#stars-in-shadow) ([PvP](#stars-in-shadow---pvp), [PvE](#stars-in-shadow---pve))
 * Steel Sybil Z-14 ([PvE](#steel-sybil-z-14---pve))
 * Timelines' Vertex ([PvP](#timelines-vertex---pvp))
 * Truthteller ([PvP](#truthteller---pvp), [PvE](#truthteller---pve))
@@ -36,12 +36,12 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * Crimil's Dagger ([PvP](#crimils-dagger---pvp), [PvE](#crimils-dagger---pve))
 * Fool's Remedy ([PvP](#fools-remedy---pvp), [PvE](#fools-remedy---pve))
 * Orewing's Maul ([PvP](#orewings-maul---pvp), [PvE](#orewings-maul---pve))
-* The Steady Hand ([PvP](#the-steady-hand---pvp), [PvE](#the-steady-hand---pve))
+* [The Steady Hand](#the-steady-hand) ([PvP](#the-steady-hand---pvp), [PvE](#the-steady-hand---pve))
 * Swarm of the Raven ([PvE](#swarm-of-the-raven---pve))
 * Talons of the Eagle ([PvP](#talons-of-the-eagle---pvp), [PvE](#talons-of-the-eagle---pve))
 
 **Raids**
-* Heritage ([PvE](#heritage---pve), [PvP](#heritage---pvp))
+* [Heritage](#heritage) ([PvE](#heritage---pve), [PvP](#heritage---pvp))
 
 **Season 11 - Season of Arrivals (Concluded)**
 * Berenger's Memory ([PvE](#berengers-memory---pve))
@@ -53,14 +53,14 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * IKELOS_SMG_V1.0.2 ([PvP](#ikelos_smg_v102---pvp), [PvE](#ikelos_smg_v102---pve))
 * IKELOS_SR_V1.0.2 ([PvP](#ikelos_sr_v102---pvp), [PvE](#ikelos_sr_v102---pve))
 * Temptation's Hook ([PvE](#temptations-hook---pve))
-* Whispering Slab ([PvP](#whispering-slab---pvp))
+* [Whispering Slab](#whispering-slab) ([PvP](#whispering-slab---pvp))
 
 **Season 10 - Season of the Worthy (Concluded)**
 * Seventh Seraph Carbine ([PvP](#seventh-seraph-carbine---pvp), [PvE](#seventh-seraph-carbine---pve))
 * Seventh Seraph CQC-12 ([PvP](#seventh-seraph-cqc-12---pvp), [PvE](#seventh-seraph-cqc-12---pve))
 * Seventh Seraph Officer Revolver ([PvP](#seventh-seraph-officer-revolver---pvp), [PvE](#seventh-seraph-officer-revolver---pve))
 * Seventh Seraph SAW ([PvP](#seventh-seraph-saw---pvp), [PvE](#seventh-seraph-saw---pve))
-* Seventh Seraph SI-2 ([PvP](#seventh-seraph-si-2---pvp), [PvE](#seventh-seraph-si-2---pve))
+* [Seventh Seraph SI-2](#seventh-seraph-si-2) ([PvP](#seventh-seraph-si-2---pvp), [PvE](#seventh-seraph-si-2---pve))
 * Seventh Seraph VY-7 ([PvP](#seventh-seraph-vy-7---pvp), [PvE](#seventh-seraph-vy-7---pve))
 
 **Season 9 - Season of the Dawn (Concluded)**
