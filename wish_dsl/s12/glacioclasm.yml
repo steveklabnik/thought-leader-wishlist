@@ -136,6 +136,9 @@ activities:
           - ☕️☕️ (+barrels, +magazines)
           - ☕️☕️ (+barrels, +perks1)
           - ☕️☕️ (+magazines, +perks1)
+          - ☕️☕️ (-perks1)
+          - ☕️☕️ (+barrels, -perks1)
+          - ☕️☕️ (+magazines, -perks1)
       -
         name: Slow and Steady Four-Bolter
         overview: >
