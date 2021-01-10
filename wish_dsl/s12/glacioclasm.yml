@@ -96,17 +96,17 @@ activities:
             perks1: [Surplus, Slideshot, Under Pressure, Killing Wind]
             masterworks: [Stability MW, Range MW, Handling MW, Reload MW]
         variants:
-          - 🐴🐴⚡️🌟 Collector's Edition
-          - 🐴🐴⚡️ CE (+barrels)
-          - 🐴🐴⚡️ CE (+magazines)
-          - 🐴🐴⚡️ CE (+perks1)
-          - 🐴🐴⚡️ CE (+masterworks)
-          - 🐴🐴 (+barrels, +magazines)
-          - 🐴🐴 (+barrels, +perks1)
-          - 🐴🐴 (+barrels, +masterworks)
-          - 🐴🐴 (+magazines, +perks1)
-          - 🐴🐴 (+magazines, +masterworks)
-          - 🐴🐴 (+perks1, +masterworks)
+          - ⚡️⚡️⚡️🌟 Collector's Edition
+          - ⚡️⚡️⚡️ CE (+barrels)
+          - ⚡️⚡️⚡️ CE (+magazines)
+          - ⚡️⚡️⚡️ CE (+perks1)
+          - ⚡️⚡️⚡️ CE (+masterworks)
+          - ⚡️⚡️ (+barrels, +magazines)
+          - ⚡️⚡️ (+barrels, +perks1)
+          - ⚡️⚡️ (+barrels, +masterworks)
+          - ⚡️⚡️ (+magazines, +perks1)
+          - ⚡️⚡️ (+magazines, +masterworks)
+          - ⚡️⚡️ (+perks1, +masterworks)
           - ⚡️ (+barrels, +perks1, +masterworks)
       -
         name: Slow and Steady Four-Bolter
