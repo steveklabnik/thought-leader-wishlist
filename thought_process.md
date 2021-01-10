@@ -374,14 +374,18 @@ The base stats on Glacioclasm are rock solid are terrific. This roll captures th
 | 🐴🐴🐴 CE (+barrels) | 0.34% | 294 |
 | 🐴🐴🐴 CE (+magazines) | 0.28% | 359 |
 | 🐴🐴🐴 CE (+perks1) | 0.62% | 162 |
-| 🐴🐴🐴 CE (+masterworks) | 0.62% | 162 |
+| 🐴🐴🐴 CE (-perks2) | 0.46% | 216 |
+| 🐴🐴🐴 CE (-masterworks) | 0.77% | 129 |
 | 🐴🐴 (+barrels, +magazines) | 0.61% | 163 |
 | 🐴🐴 (+barrels, +perks1) | 1.36% | 73 |
-| 🐴🐴 (+barrels, +masterworks) | 1.36% | 73 |
+| 🐴🐴 (+barrels, -perks2) | 1.02% | 98 |
+| 🐴🐴 (+barrels, -masterworks) | 1.70% | 58 |
 | 🐴🐴 (+magazines, +perks1) | 1.11% | 89 |
-| 🐴🐴 (+magazines, +masterworks) | 1.11% | 89 |
-| 🐴🐴 (+perks1, +masterworks) | 2.47% | 40 |
-| 🐴 (+barrels, +perks1, +masterworks) | 5.43% | 18 |
+| 🐴🐴 (+magazines, -perks2) | 0.83% | 120 |
+| 🐴🐴 (+magazines, -masterworks) | 1.39% | 72 |
+| 🐴🐴 (+perks1, -perks2) | 1.85% | 54 |
+| 🐴🐴 (+perks1, -masterworks) | 3.09% | 32 |
+| 🐴🐴 (-perks2, -masterworks) | 2.31% | 43 |
 ## Black Scorpion-4sr - PvP
 *For all possible perks, check out **Black Scorpion-4sr** over on [light.gg](https://www.light.gg/db/items/525750263/black-scorpion-4sr/)*
 
