@@ -1,1 +1,0 @@
-The roll guide [has moved](https://rslifka.github.io/wishlist/).
