@@ -22,13 +22,13 @@ class V2Generator
 
     StringIO.new.tap do |output|
 
-      output.puts("## #{weapon_name}")
+      output.puts("# #{weapon_name}")
       output.puts("*For all possible perks, check out **#{weapon_name}** over on [light.gg](#{lightgg_link})*")
       output.puts
       output.puts(overview)
 
       roll_data['activities'].each do |a|
-        output.puts("### #{weapon_name} - #{a['name']}")
+        output.puts("## #{weapon_name} - #{a['name']}")
         output.puts(a['overview'])
         a['roll_sets'].each do |rs_data|
           rs = RollSet.new(a['name'], roll_data['item_id'], roll_data['traits'], rs_data)
