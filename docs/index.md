@@ -97,7 +97,7 @@ The cornerstones of both PvE and PvP are `Surplus` and `Dynamic Sway Reduction`.
 These rolls are floored at `36` Stability (before `Surplus`) since that's the base Stability of other similar SMGS (e.g. Ikelos).
 
 *Yes, these rolls are all based on quotes from the great [Dr. Victor Fries](https://www.imdb.com/title/tt0118688/characters/nm0000216#quotes).*
-### **Endless Winter**
+### Roll: **Endless Winter**
 `Surplus` + `One for All` + all the `Stability` you can get.
 ```
   Barrels [ 22%]: Chambered Compensator
@@ -109,15 +109,15 @@ These rolls are floored at `36` Stability (before `Surplus`) since that's the ba
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🥶🥶🥶🌟 Collector's Edition | 0.05% | 2160 |
-| 🥶🥶🥶 CE (+barrels) | 0.17% | 575 |
-| 🥶🥶🥶 CE (+magazines) | 0.12% | 840 |
-| 🥶🥶🥶 CE (-masterworks) | 0.19% | 540 |
-| 🥶🥶 (-barrels) | 0.21% | 480 |
-| 🥶🥶 (-magazines) | 0.19% | 540 |
-| 🥶🥶 (+barrels, -masterworks) | 0.69% | 143 |
+| 🥶🥶🥶🌟 Collector's Edition | 0.05% | 2160 <br>Line Two<br>Line Three|
+| 🥶🥶🥶 CE (+barrels) | 0.17% | 575 <br>Line Two<br>Line Three|
+| 🥶🥶🥶 CE (+magazines) | 0.12% | 840 <br>Line Two<br>Line Three|
+| 🥶🥶🥶 CE (-masterworks) | 0.19% | 540 <br>Line Two<br>Line Three|
+| 🥶🥶 (-barrels) | 0.21% | 480 <br>Line Two<br>Line Three|
+| 🥶🥶 (-magazines) | 0.19% | 540 <br>Line Two<br>Line Three|
+| 🥶🥶 (+barrels, -masterworks) | 0.69% | 143 <br>Line Two<br>Line Three|
 
-### **Everything Freezes!**
+### Roll: **Everything Freezes!**
 Same as the above, replacing `Surplus` with `Dynamic Sway Reduction`.
 ```
   Barrels [ 22%]: Chambered Compensator
@@ -129,15 +129,15 @@ Same as the above, replacing `Surplus` with `Dynamic Sway Reduction`.
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🥶🥶🥶🌟 Collector's Edition | 0.05% | 2160 |
-| 🥶🥶🥶 CE (+barrels) | 0.17% | 575 |
-| 🥶🥶🥶 CE (+magazines) | 0.12% | 840 |
-| 🥶🥶🥶 CE (-masterworks) | 0.19% | 540 |
-| 🥶🥶 (-barrels) | 0.21% | 480 |
-| 🥶🥶 (-magazines) | 0.19% | 540 |
-| 🥶🥶 (+barrels, -masterworks) | 0.69% | 143 |
+| 🥶🥶🥶🌟 Collector's Edition | 0.05% | 2160 <br>Line Two<br>Line Three|
+| 🥶🥶🥶 CE (+barrels) | 0.17% | 575 <br>Line Two<br>Line Three|
+| 🥶🥶🥶 CE (+magazines) | 0.12% | 840 <br>Line Two<br>Line Three|
+| 🥶🥶🥶 CE (-masterworks) | 0.19% | 540 <br>Line Two<br>Line Three|
+| 🥶🥶 (-barrels) | 0.21% | 480 <br>Line Two<br>Line Three|
+| 🥶🥶 (-magazines) | 0.19% | 540 <br>Line Two<br>Line Three|
+| 🥶🥶 (+barrels, -masterworks) | 0.69% | 143 <br>Line Two<br>Line Three|
 
-### **Let's Kick Some Ice!**
+### Roll: **Let's Kick Some Ice!**
 Same as the above, but we'll take any damage perk.
 ```
   Barrels [ 22%]: Chambered Compensator
@@ -149,17 +149,17 @@ Same as the above, but we'll take any damage perk.
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🧊🧊🧊🌟 Collector's Edition | 0.28% | 359 |
-| 🧊🧊🧊 CE (+barrels) | 1.04% | 96 |
-| 🧊🧊🧊 CE (+magazines) | 0.71% | 140 |
-| 🧊🧊🧊 CE (-masterworks) | 1.11% | 89 |
-| 🧊🧊 (-barrels) | 1.25% | 80 |
-| 🧊🧊 (-magazines) | 1.11% | 89 |
-| 🧊🧊 (+barrels, -masterworks) | 4.17% | 24 |
+| 🧊🧊🧊🌟 Collector's Edition | 0.28% | 359 <br>Line Two<br>Line Three|
+| 🧊🧊🧊 CE (+barrels) | 1.04% | 96 <br>Line Two<br>Line Three|
+| 🧊🧊🧊 CE (+magazines) | 0.71% | 140 <br>Line Two<br>Line Three|
+| 🧊🧊🧊 CE (-masterworks) | 1.11% | 89 <br>Line Two<br>Line Three|
+| 🧊🧊 (-barrels) | 1.25% | 80 <br>Line Two<br>Line Three|
+| 🧊🧊 (-magazines) | 1.11% | 89 <br>Line Two<br>Line Three|
+| 🧊🧊 (+barrels, -masterworks) | 4.17% | 24 <br>Line Two<br>Line Three|
 
 ## Cold Front - PvP
 You'll notice I didn't include any final column perks. Rampage doesn't meaningfully realistically alter the TTK and Thresh adds so little to your super that it's not worth calling out as the Collector's Edition. Whatever you get in that final column is fine.
-### **Ice to See You/Surplus**
+### Roll: **Ice to See You/Surplus**
 Cold Front needs a lot of help in the Stability department, which is the entire focus of this roll. At best, you'll be able to get Stability up from `16` to `51` plus the benefits coming from Surplus. This puts you way above the base Stability on the vaunted Antiope-D and other Precision Frame SMGs. The Recoil is `92` so be sure to throw on a Counterbalance mod if you don't end up with a +Recoil barrel.
 ```
   Barrels [ 22%]: Chambered Compensator
@@ -171,18 +171,18 @@ Cold Front needs a lot of help in the Stability department, which is the entire 
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🥶🥶🥶📦🌟 Collector's Edition | 0.28% | 359 |
-| 🥶🥶🥶📦 CE (+barrels) | 1.04% | 96 |
-| 🥶🥶🥶📦 CE (+magazines) | 0.71% | 140 |
-| 🥶🥶🥶📦 CE (-barrels) | 1.25% | 80 |
-| 🥶🥶🥶📦 CE (-masterworks) | 1.11% | 89 |
-| 🥶🥶🥶📦 CE (-magazines) | 1.11% | 89 |
-| 🥶🥶🥶📦 CE (+barrels, +magazines) | 2.68% | 37 |
-| 🥶🥶📦 (+barrels, -masterworks) | 4.17% | 24 |
-| 🥶📦 (+barrels, -magazines) | 4.17% | 24 |
-| 🥶📦 (+magazines, -masterworks) | 2.86% | 35 |
+| 🥶🥶🥶📦🌟 Collector's Edition | 0.28% | 359 <br>Line Two<br>Line Three|
+| 🥶🥶🥶📦 CE (+barrels) | 1.04% | 96 <br>Line Two<br>Line Three|
+| 🥶🥶🥶📦 CE (+magazines) | 0.71% | 140 <br>Line Two<br>Line Three|
+| 🥶🥶🥶📦 CE (-barrels) | 1.25% | 80 <br>Line Two<br>Line Three|
+| 🥶🥶🥶📦 CE (-masterworks) | 1.11% | 89 <br>Line Two<br>Line Three|
+| 🥶🥶🥶📦 CE (-magazines) | 1.11% | 89 <br>Line Two<br>Line Three|
+| 🥶🥶🥶📦 CE (+barrels, +magazines) | 2.68% | 37 <br>Line Two<br>Line Three|
+| 🥶🥶📦 (+barrels, -masterworks) | 4.17% | 24 <br>Line Two<br>Line Three|
+| 🥶📦 (+barrels, -magazines) | 4.17% | 24 <br>Line Two<br>Line Three|
+| 🥶📦 (+magazines, -masterworks) | 2.86% | 35 <br>Line Two<br>Line Three|
 
-### **Ice to See You/Dynamic Sway**
+### Roll: **Ice to See You/Dynamic Sway**
 Same as the above, swapping DSR in for Surplus. These rolls are otherwise identical but Surplus is so much better than DSR I wanted to call it out 😀
 ```
   Barrels [ 22%]: Chambered Compensator
@@ -194,22 +194,22 @@ Same as the above, swapping DSR in for Surplus. These rolls are otherwise identi
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🥶🥶🥶🕺🌟 Collector's Edition | 0.28% | 359 |
-| 🥶🥶🥶🕺 CE (+barrels) | 1.04% | 96 |
-| 🥶🥶🥶🕺 CE (+magazines) | 0.71% | 140 |
-| 🥶🥶🥶🕺 CE (-barrels) | 1.25% | 80 |
-| 🥶🥶🥶🕺 CE (-masterworks) | 1.11% | 89 |
-| 🥶🥶🥶🕺 CE (-magazines) | 1.11% | 89 |
-| 🥶🥶🥶🕺 CE (+barrels, +magazines) | 2.68% | 37 |
-| 🥶🥶🕺 (+barrels, -masterworks) | 4.17% | 24 |
-| 🥶🕺 (+barrels, -magazines) | 4.17% | 24 |
-| 🥶🕺 (+magazines, -masterworks) | 2.86% | 35 |
+| 🥶🥶🥶🕺🌟 Collector's Edition | 0.28% | 359 <br>Line Two<br>Line Three|
+| 🥶🥶🥶🕺 CE (+barrels) | 1.04% | 96 <br>Line Two<br>Line Three|
+| 🥶🥶🥶🕺 CE (+magazines) | 0.71% | 140 <br>Line Two<br>Line Three|
+| 🥶🥶🥶🕺 CE (-barrels) | 1.25% | 80 <br>Line Two<br>Line Three|
+| 🥶🥶🥶🕺 CE (-masterworks) | 1.11% | 89 <br>Line Two<br>Line Three|
+| 🥶🥶🥶🕺 CE (-magazines) | 1.11% | 89 <br>Line Two<br>Line Three|
+| 🥶🥶🥶🕺 CE (+barrels, +magazines) | 2.68% | 37 <br>Line Two<br>Line Three|
+| 🥶🥶🕺 (+barrels, -masterworks) | 4.17% | 24 <br>Line Two<br>Line Three|
+| 🥶🕺 (+barrels, -magazines) | 4.17% | 24 <br>Line Two<br>Line Three|
+| 🥶🕺 (+magazines, -masterworks) | 2.86% | 35 <br>Line Two<br>Line Three|
 
 ## Cold Front - PvE
 With the addition of `Surplus` and `One for All` to the Cold Front perk pool, we're looking at a strong contender for one of the best kinetic weapons of all time. `Surplus` improves Stability and Reload (two big Cold Front drawbacks) and `One for All` provides a tremendous damage boost and leaves your mod slot free for Minor, Major or Boss Spec.
 
 ***`Dragonfly` is going to be replaced by `Swashbuckler` so when you see `Dragonfly` below, you know what it means. The wishlist will be updated after Destiny is updated.***
-### **Blizzard**
+### Roll: **Blizzard**
 While `Surplus` will be boosting Stability, the Stability is so low and difficult to manage on console that we'll continue to crave it as a backstop for when we're at lower tiers of `Surplus` benefits.
 ```
   Barrels [ 22%]: Chambered Compensator
@@ -221,16 +221,16 @@ While `Surplus` will be boosting Stability, the Stability is so low and difficul
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🌨🌨🌨📦🌟 Collector's Edition | 0.05% | 2160 |
-| 🌨🌨🌨📦 CE (+barrels) | 0.17% | 575 |
-| 🌨🌨🌨📦 CE (+magazines) | 0.09% | 1163 |
-| 🌨🌨🌨📦 CE (+barrels, +magazines) | 0.32% | 310 |
-| 🌨🌨🌨📦 (-barrels) | 0.21% | 480 |
-| 🌨🌨🌨📦 (-magazines) | 0.19% | 540 |
-| 🌨🌨🌨📦 (-masterworks) | 0.19% | 540 |
-| 🌨🌨📦 (-barrels, -magazines, -masterworks) | 3.33% | 30 |
+| 🌨🌨🌨📦🌟 Collector's Edition | 0.05% | 2160 <br>Line Two<br>Line Three|
+| 🌨🌨🌨📦 CE (+barrels) | 0.17% | 575 <br>Line Two<br>Line Three|
+| 🌨🌨🌨📦 CE (+magazines) | 0.09% | 1163 <br>Line Two<br>Line Three|
+| 🌨🌨🌨📦 CE (+barrels, +magazines) | 0.32% | 310 <br>Line Two<br>Line Three|
+| 🌨🌨🌨📦 (-barrels) | 0.21% | 480 <br>Line Two<br>Line Three|
+| 🌨🌨🌨📦 (-magazines) | 0.19% | 540 <br>Line Two<br>Line Three|
+| 🌨🌨🌨📦 (-masterworks) | 0.19% | 540 <br>Line Two<br>Line Three|
+| 🌨🌨📦 (-barrels, -magazines, -masterworks) | 3.33% | 30 <br>Line Two<br>Line Three|
 
-### **Snowstorm**
+### Roll: **Snowstorm**
 Same as the above, swapping `Dynamic Sway Reduction` in for `Surplus`.
 ```
   Barrels [ 22%]: Chambered Compensator
@@ -242,16 +242,16 @@ Same as the above, swapping `Dynamic Sway Reduction` in for `Surplus`.
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| ❄️❄️❄️🌟 Collector's Edition | 0.05% | 2160 |
-| ❄️❄️❄️📦 CE (+barrels) | 0.17% | 575 |
-| ❄️❄️❄️📦 CE (+magazines) | 0.09% | 1163 |
-| ❄️❄️❄️📦 CE (+barrels, +magazines) | 0.32% | 310 |
-| ❄️❄️❄️📦 (-barrels) | 0.21% | 480 |
-| ❄️❄️❄️📦 (-magazines) | 0.19% | 540 |
-| ❄️❄️❄️📦 (-masterworks) | 0.19% | 540 |
-| ❄️❄️📦 (-barrels, -magazines, -masterworks) | 3.33% | 30 |
+| ❄️❄️❄️🌟 Collector's Edition | 0.05% | 2160 <br>Line Two<br>Line Three|
+| ❄️❄️❄️📦 CE (+barrels) | 0.17% | 575 <br>Line Two<br>Line Three|
+| ❄️❄️❄️📦 CE (+magazines) | 0.09% | 1163 <br>Line Two<br>Line Three|
+| ❄️❄️❄️📦 CE (+barrels, +magazines) | 0.32% | 310 <br>Line Two<br>Line Three|
+| ❄️❄️❄️📦 (-barrels) | 0.21% | 480 <br>Line Two<br>Line Three|
+| ❄️❄️❄️📦 (-magazines) | 0.19% | 540 <br>Line Two<br>Line Three|
+| ❄️❄️❄️📦 (-masterworks) | 0.19% | 540 <br>Line Two<br>Line Three|
+| ❄️❄️📦 (-barrels, -magazines, -masterworks) | 3.33% | 30 <br>Line Two<br>Line Three|
 
-### **Light Dusting**
+### Roll: **Light Dusting**
 We'll take any combination of a handful of perks in the final columns for a super solid roll (recall that Dragonfly is being replaced by Swashbuckler shortly).
 ```
   Barrels [ 22%]: Chambered Compensator
@@ -263,14 +263,14 @@ We'll take any combination of a handful of perks in the final columns for a supe
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| ☃️☃️☃️🌟 Collector's Edition | 0.28% | 359 |
-| ☃️☃️☃️📦 CE (+barrels) | 1.04% | 96 |
-| ☃️☃️☃️📦 CE (+magazines) | 0.52% | 193 |
-| ☃️☃️☃️📦 CE (+barrels, +magazines) | 1.93% | 51 |
-| ☃️☃️☃️📦 (-barrels) | 1.25% | 80 |
-| ☃️☃️☃️📦 (-magazines) | 1.11% | 89 |
-| ☃️☃️☃️📦 (-masterworks) | 1.11% | 89 |
-| ☃️☃️📦 (-barrels, -magazines, -masterworks) | 20.00% | 5 |
+| ☃️☃️☃️🌟 Collector's Edition | 0.28% | 359 <br>Line Two<br>Line Three|
+| ☃️☃️☃️📦 CE (+barrels) | 1.04% | 96 <br>Line Two<br>Line Three|
+| ☃️☃️☃️📦 CE (+magazines) | 0.52% | 193 <br>Line Two<br>Line Three|
+| ☃️☃️☃️📦 CE (+barrels, +magazines) | 1.93% | 51 <br>Line Two<br>Line Three|
+| ☃️☃️☃️📦 (-barrels) | 1.25% | 80 <br>Line Two<br>Line Three|
+| ☃️☃️☃️📦 (-magazines) | 1.11% | 89 <br>Line Two<br>Line Three|
+| ☃️☃️☃️📦 (-masterworks) | 1.11% | 89 <br>Line Two<br>Line Three|
+| ☃️☃️📦 (-barrels, -magazines, -masterworks) | 20.00% | 5 <br>Line Two<br>Line Three|
 
 # Glacioclasm
 *For all possible perks, check out **Glacioclasm** over on [light.gg](https://www.light.gg/db/items/1030895163/glacioclasm/)*
@@ -290,7 +290,7 @@ From [Fallout's Review](https://www.youtube.com/watch?v=s7URG6BUl_Q), the differ
 As mentioned above, the Glacioclasm's base stats are some of the best ever for a High-Impact frame. Because of this, we can narrow our focus on perks and go for some amazing rolls in a post-Erentil world. This is a controller wishlist and so these rolls will primarily focus on `Stability` (which is probably also fine for M&K but apparently M&K players aren't into Fusions as much?)
 
 I [put together a chart](https://github.com/rslifka/wishlist/wiki/Weapon-Focus-Fusion-Rifles) from Fallout's video above and after some helpful Guardians let me voop 'em in a private match.
-### **Accelerated Four-Bolter**
+### Roll: **Accelerated Four-Bolter**
 This roll is based around the combination of `Accelerated Coils` and `High-Impact Reserves`. This will allow you to four-bolt Guardians at `9` Resilience with two in the mag (i.e. when you spawn in). I have no Resilience statistics, but checked across three games last night and most people were `2`-`3` with a few around `5`. If you happen to get `Chambered Compensator` be sure to throw on a Counterbalance mod to hit `Recoil:100`.
 ```
   Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
@@ -302,16 +302,16 @@ This roll is based around the combination of `Accelerated Coils` and `High-Impac
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🐇🐇🐇🌟 Collector's Edition | 0.08% | 1296 |
-| 🐇🐇🐇 CE (+barrels) | 0.17% | 589 |
-| 🐇🐇🐇 CE (+perks1) | 0.31% | 324 |
-| 🐇🐇🐇 CE (+masterworks) | 0.31% | 324 |
-| 🐇🐇 (+barrels, +perks1) | 0.68% | 147 |
-| 🐇🐇 (+barrels, +masterworks) | 0.68% | 147 |
-| 🐇🐇 (+perks1, +masterworks) | 1.23% | 81 |
-| 🐇 (+barrels, +perks1, +masterworks) | 2.72% | 36 |
+| 🐇🐇🐇🌟 Collector's Edition | 0.08% | 1296 <br>Line Two<br>Line Three|
+| 🐇🐇🐇 CE (+barrels) | 0.17% | 589 <br>Line Two<br>Line Three|
+| 🐇🐇🐇 CE (+perks1) | 0.31% | 324 <br>Line Two<br>Line Three|
+| 🐇🐇🐇 CE (+masterworks) | 0.31% | 324 <br>Line Two<br>Line Three|
+| 🐇🐇 (+barrels, +perks1) | 0.68% | 147 <br>Line Two<br>Line Three|
+| 🐇🐇 (+barrels, +masterworks) | 0.68% | 147 <br>Line Two<br>Line Three|
+| 🐇🐇 (+perks1, +masterworks) | 1.23% | 81 <br>Line Two<br>Line Three|
+| 🐇 (+barrels, +perks1, +masterworks) | 2.72% | 36 <br>Line Two<br>Line Three|
 
-### **Stable Four-Bolter**
+### Roll: **Stable Four-Bolter**
 Similar to the above, swapping in `Particle Repeater` to replace `Accelerated Coils`, but still centering around `High-Impact Reserves`. Because the Charge Time is slower you can now four-bolt Guardians at any `Resilience` value.
 ```
   Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
@@ -323,20 +323,20 @@ Similar to the above, swapping in `Particle Repeater` to replace `Accelerated Co
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| ⚡️⚡️⚡️🌟 Collector's Edition | 0.08% | 1296 |
-| ⚡️⚡️⚡️ CE (+barrels) | 0.17% | 589 |
-| ⚡️⚡️⚡️ CE (+magazines) | 0.14% | 719 |
-| ⚡️⚡️⚡️ CE (+perks1) | 0.31% | 324 |
-| ⚡️⚡️⚡️ CE (+masterworks) | 0.31% | 324 |
-| ⚡️⚡️ (+barrels, +magazines) | 0.31% | 327 |
-| ⚡️⚡️ (+barrels, +perks1) | 0.68% | 147 |
-| ⚡️⚡️ (+barrels, +masterworks) | 0.68% | 147 |
-| ⚡️⚡️ (+magazines, +perks1) | 0.56% | 179 |
-| ⚡️⚡️ (+magazines, +masterworks) | 0.56% | 179 |
-| ⚡️⚡️ (+perks1, +masterworks) | 1.23% | 81 |
-| ⚡️ (+barrels, +perks1, +masterworks) | 2.72% | 36 |
+| ⚡️⚡️⚡️🌟 Collector's Edition | 0.08% | 1296 <br>Line Two<br>Line Three|
+| ⚡️⚡️⚡️ CE (+barrels) | 0.17% | 589 <br>Line Two<br>Line Three|
+| ⚡️⚡️⚡️ CE (+magazines) | 0.14% | 719 <br>Line Two<br>Line Three|
+| ⚡️⚡️⚡️ CE (+perks1) | 0.31% | 324 <br>Line Two<br>Line Three|
+| ⚡️⚡️⚡️ CE (+masterworks) | 0.31% | 324 <br>Line Two<br>Line Three|
+| ⚡️⚡️ (+barrels, +magazines) | 0.31% | 327 <br>Line Two<br>Line Three|
+| ⚡️⚡️ (+barrels, +perks1) | 0.68% | 147 <br>Line Two<br>Line Three|
+| ⚡️⚡️ (+barrels, +masterworks) | 0.68% | 147 <br>Line Two<br>Line Three|
+| ⚡️⚡️ (+magazines, +perks1) | 0.56% | 179 <br>Line Two<br>Line Three|
+| ⚡️⚡️ (+magazines, +masterworks) | 0.56% | 179 <br>Line Two<br>Line Three|
+| ⚡️⚡️ (+perks1, +masterworks) | 1.23% | 81 <br>Line Two<br>Line Three|
+| ⚡️ (+barrels, +perks1, +masterworks) | 2.72% | 36 <br>Line Two<br>Line Three|
 
-### **Jittery Four-Bolter**
+### Roll: **Jittery Four-Bolter**
 There is a unique situation among rolls here that's super interesting. If you have a `Charge Time` Masterwork and `High-Impact Reserves` it means you can four-bolt Guardians at `6` Resilience with two in the mag. That's actually a downgrade from not having a `Charge Time` Masterwork... but(!) you get an upgrade with one in the mag in that you can now four-bolt Guardians with **any** Resilience.
 ```
   Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
@@ -348,18 +348,18 @@ There is a unique situation among rolls here that's super interesting. If you ha
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| ☕️☕️☕️🌟 Collector's Edition | 0.08% | 1296 |
-| ☕️☕️☕️ CE (+barrels) | 0.17% | 589 |
-| ☕️☕️☕️ CE (+magazines) | 0.19% | 540 |
-| ☕️☕️☕️ CE (+perks1) | 0.31% | 324 |
-| ☕️☕️ (+barrels, +magazines) | 0.41% | 245 |
-| ☕️☕️ (+barrels, +perks1) | 0.68% | 147 |
-| ☕️☕️ (+magazines, +perks1) | 0.74% | 135 |
-| ☕️☕️ (-perks1) | 0.46% | 216 |
-| ☕️☕️ (+barrels, -perks1) | 1.02% | 98 |
-| ☕️☕️ (+magazines, -perks1) | 1.11% | 89 |
+| ☕️☕️☕️🌟 Collector's Edition | 0.08% | 1296 <br>Line Two<br>Line Three|
+| ☕️☕️☕️ CE (+barrels) | 0.17% | 589 <br>Line Two<br>Line Three|
+| ☕️☕️☕️ CE (+magazines) | 0.19% | 540 <br>Line Two<br>Line Three|
+| ☕️☕️☕️ CE (+perks1) | 0.31% | 324 <br>Line Two<br>Line Three|
+| ☕️☕️ (+barrels, +magazines) | 0.41% | 245 <br>Line Two<br>Line Three|
+| ☕️☕️ (+barrels, +perks1) | 0.68% | 147 <br>Line Two<br>Line Three|
+| ☕️☕️ (+magazines, +perks1) | 0.74% | 135 <br>Line Two<br>Line Three|
+| ☕️☕️ (-perks1) | 0.46% | 216 <br>Line Two<br>Line Three|
+| ☕️☕️ (+barrels, -perks1) | 1.02% | 98 <br>Line Two<br>Line Three|
+| ☕️☕️ (+magazines, -perks1) | 1.11% | 89 <br>Line Two<br>Line Three|
 
-### **Slow and Steady Four-Bolter**
+### Roll: **Slow and Steady Four-Bolter**
 This roll is based around `Liquid Coils`, which allows you to four-bolt Guardians at `9` Resilience. The introduction of `Liquid Coils` opens this roll up quite a bit. You won't find a `Charge Time` Masterwork here because it would drop the roll down to `6` Resilience.
 ```
   Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
@@ -371,17 +371,17 @@ This roll is based around `Liquid Coils`, which allows you to four-bolt Guardian
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🐢🐢🐢🌟 Collector's Edition | 0.15% | 648 |
-| 🐢🐢🐢 CE (+barrels) | 0.34% | 294 |
-| 🐢🐢🐢 CE (+perks1) | 0.62% | 162 |
-| 🐢🐢🐢 CE (+masterworks) | 0.62% | 162 |
-| 🐢🐢 (+barrels, +perks1) | 1.36% | 73 |
-| 🐢🐢 (+barrels, +masterworks) | 1.36% | 73 |
-| 🐢🐢 (+perks1, +masterworks) | 2.47% | 40 |
-| 🐢🐢 (-perks2) | 0.46% | 216 |
-| 🐢 (+barrels, +perks1, +masterworks) | 5.43% | 18 |
+| 🐢🐢🐢🌟 Collector's Edition | 0.15% | 648 <br>Line Two<br>Line Three|
+| 🐢🐢🐢 CE (+barrels) | 0.34% | 294 <br>Line Two<br>Line Three|
+| 🐢🐢🐢 CE (+perks1) | 0.62% | 162 <br>Line Two<br>Line Three|
+| 🐢🐢🐢 CE (+masterworks) | 0.62% | 162 <br>Line Two<br>Line Three|
+| 🐢🐢 (+barrels, +perks1) | 1.36% | 73 <br>Line Two<br>Line Three|
+| 🐢🐢 (+barrels, +masterworks) | 1.36% | 73 <br>Line Two<br>Line Three|
+| 🐢🐢 (+perks1, +masterworks) | 2.47% | 40 <br>Line Two<br>Line Three|
+| 🐢🐢 (-perks2) | 0.46% | 216 <br>Line Two<br>Line Three|
+| 🐢 (+barrels, +perks1, +masterworks) | 5.43% | 18 <br>Line Two<br>Line Three|
 
-### **Workhorse**
+### Roll: **Workhorse**
 The base stats on Glacioclasm are rock solid are terrific. This roll captures the remainder of good rolls that do not include Coil- modifying magazines and/or High-Impact Reserves.
 ```
   Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
@@ -393,25 +393,25 @@ The base stats on Glacioclasm are rock solid are terrific. This roll captures th
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🐴🐴🐴🌟 Collector's Edition | 0.15% | 648 |
-| 🐴🐴🐴 CE (+barrels) | 0.36% | 277 |
-| 🐴🐴🐴 CE (+magazines) | 0.28% | 359 |
-| 🐴🐴🐴 CE (+perks1) | 0.62% | 162 |
-| 🐴🐴🐴 CE (-perks2) | 0.46% | 216 |
-| 🐴🐴🐴 CE (-masterworks) | 0.77% | 129 |
-| 🐴🐴 (+barrels, +magazines) | 0.65% | 154 |
-| 🐴🐴 (+barrels, +perks1) | 1.44% | 69 |
-| 🐴🐴 (+barrels, -perks2) | 1.08% | 92 |
-| 🐴🐴 (+barrels, -masterworks) | 1.80% | 55 |
-| 🐴🐴 (+magazines, +perks1) | 1.11% | 89 |
-| 🐴🐴 (+magazines, -perks2) | 0.83% | 120 |
-| 🐴🐴 (+magazines, -masterworks) | 1.39% | 72 |
-| 🐴🐴 (+perks1, -perks2) | 1.85% | 54 |
-| 🐴🐴 (+perks1, -masterworks) | 3.09% | 32 |
-| 🐴🐴 (-perks2, -masterworks) | 2.31% | 43 |
-| 🐴🐴 (-perks1, -masterworks) | 4.63% | 21 |
-| 🐴 (+barrels, +perks1, -perks2) | 4.32% | 23 |
-| 🐴 (+magazines, +perks1, -perks2) | 3.33% | 30 |
+| 🐴🐴🐴🌟 Collector's Edition | 0.15% | 648 <br>Line Two<br>Line Three|
+| 🐴🐴🐴 CE (+barrels) | 0.36% | 277 <br>Line Two<br>Line Three|
+| 🐴🐴🐴 CE (+magazines) | 0.28% | 359 <br>Line Two<br>Line Three|
+| 🐴🐴🐴 CE (+perks1) | 0.62% | 162 <br>Line Two<br>Line Three|
+| 🐴🐴🐴 CE (-perks2) | 0.46% | 216 <br>Line Two<br>Line Three|
+| 🐴🐴🐴 CE (-masterworks) | 0.77% | 129 <br>Line Two<br>Line Three|
+| 🐴🐴 (+barrels, +magazines) | 0.65% | 154 <br>Line Two<br>Line Three|
+| 🐴🐴 (+barrels, +perks1) | 1.44% | 69 <br>Line Two<br>Line Three|
+| 🐴🐴 (+barrels, -perks2) | 1.08% | 92 <br>Line Two<br>Line Three|
+| 🐴🐴 (+barrels, -masterworks) | 1.80% | 55 <br>Line Two<br>Line Three|
+| 🐴🐴 (+magazines, +perks1) | 1.11% | 89 <br>Line Two<br>Line Three|
+| 🐴🐴 (+magazines, -perks2) | 0.83% | 120 <br>Line Two<br>Line Three|
+| 🐴🐴 (+magazines, -masterworks) | 1.39% | 72 <br>Line Two<br>Line Three|
+| 🐴🐴 (+perks1, -perks2) | 1.85% | 54 <br>Line Two<br>Line Three|
+| 🐴🐴 (+perks1, -masterworks) | 3.09% | 32 <br>Line Two<br>Line Three|
+| 🐴🐴 (-perks2, -masterworks) | 2.31% | 43 <br>Line Two<br>Line Three|
+| 🐴🐴 (-perks1, -masterworks) | 4.63% | 21 <br>Line Two<br>Line Three|
+| 🐴 (+barrels, +perks1, -perks2) | 4.32% | 23 <br>Line Two<br>Line Three|
+| 🐴 (+magazines, +perks1, -perks2) | 3.33% | 30 <br>Line Two<br>Line Three|
 
 ## Black Scorpion-4sr - PvP
 *For all possible perks, check out **Black Scorpion-4sr** over on [light.gg](https://www.light.gg/db/items/525750263/black-scorpion-4sr/)*
@@ -2169,7 +2169,7 @@ These rolls are going to be similar to those we captured in our coverage of [Col
 ***"Why don't you have any Outlaw or Feeding Frenzy PvP rolls?"***
 
 Good question! Glove mod slots are inexpensive and not contentious in PvP. If you want much faster reload, throw on a two-Energy Pulse Rifle Reload mod. Feeding Frenzy was changed to provide a noticeable benefit after three successive kills, so I no longer recommend it for PvP.
-### **Vertical/Dark Side**
+### Roll: **Vertical/Dark Side**
 This set of rolls is all about maxing out Recoil, and keeps `Arrowhead Brake` constant as our barrel. You have the option of achieving `100` Recoil by slotting in a Counterbalance mod. If not, go nuts with your nearly perfectly vertical `94`. `Killing Wind` is S-tier and you'd be happy to get any of the final column perks.
 ```
   Barrels [ 22%]: Arrowhead Brake
@@ -2181,13 +2181,13 @@ This set of rolls is all about maxing out Recoil, and keeps `Arrowhead Brake` co
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🏔🌒🌒🌒🌟 Collector's Edition | 0.04% | 2268 |
-| 🏔🌒🌒🌒 CE (+magazines) | 0.11% | 907 |
-| 🏔🌒🌒🌒 CE (-magazines) | 0.15% | 648 |
-| 🏔🌒🌒🌒 CE (-masterworks) | 0.18% | 567 |
-| 🏔🌒🌒 (-magazines, -masterworks) | 0.62% | 162 |
+| 🏔🌒🌒🌒🌟 Collector's Edition | 0.04% | 2268 <br>Line Two<br>Line Three|
+| 🏔🌒🌒🌒 CE (+magazines) | 0.11% | 907 <br>Line Two<br>Line Three|
+| 🏔🌒🌒🌒 CE (-magazines) | 0.15% | 648 <br>Line Two<br>Line Three|
+| 🏔🌒🌒🌒 CE (-masterworks) | 0.18% | 567 <br>Line Two<br>Line Three|
+| 🏔🌒🌒 (-magazines, -masterworks) | 0.62% | 162 <br>Line Two<br>Line Three|
 
-### **Dark Side**
+### Roll: **Dark Side**
 Same as above, using any Stability-boosting barrel, which we'll later relax down to no barrel preference.
 ```
   Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
@@ -2199,17 +2199,17 @@ Same as above, using any Stability-boosting barrel, which we'll later relax down
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🌑🌑🌑🌟 Collector's Edition | 0.17% | 604 |
-| 🌑🌑🌑 CE (+magazines) | 0.41% | 241 |
-| 🌑🌑🌑 CE (-magazines) | 0.58% | 172 |
-| 🌑🌑🌑 CE (-masterworks) | 0.66% | 151 |
-| 🌑🌑🌑 CE (-barrels) | 0.20% | 504 |
-| 🌑🌑 (-barrels, -magazines) | 0.69% | 144 |
-| 🌑🌑 (-barrels, -masterworks) | 0.79% | 126 |
-| 🌑🌑 (-magazines, -masterworks) | 2.31% | 43 |
-| 🌑 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🌑🌑🌑🌟 Collector's Edition | 0.17% | 604 <br>Line Two<br>Line Three|
+| 🌑🌑🌑 CE (+magazines) | 0.41% | 241 <br>Line Two<br>Line Three|
+| 🌑🌑🌑 CE (-magazines) | 0.58% | 172 <br>Line Two<br>Line Three|
+| 🌑🌑🌑 CE (-masterworks) | 0.66% | 151 <br>Line Two<br>Line Three|
+| 🌑🌑🌑 CE (-barrels) | 0.20% | 504 <br>Line Two<br>Line Three|
+| 🌑🌑 (-barrels, -magazines) | 0.69% | 144 <br>Line Two<br>Line Three|
+| 🌑🌑 (-barrels, -masterworks) | 0.79% | 126 <br>Line Two<br>Line Three|
+| 🌑🌑 (-magazines, -masterworks) | 2.31% | 43 <br>Line Two<br>Line Three|
+| 🌑 (-barrels, -magazines, -masterworks) | 2.78% | 36 <br>Line Two<br>Line Three|
 
-### **Vertical/Gardener**
+### Roll: **Vertical/Gardener**
 This set of rolls pivots around `Firmly Planted`. It means that, even on console we can opt for `Range`-boosting perks because `Firmly Planted` gives us all the `Stability` we need.
 ```
   Barrels [ 22%]: Arrowhead Brake
@@ -2221,12 +2221,12 @@ This set of rolls pivots around `Firmly Planted`. It means that, even on console
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🏔🌿🌿🌿🌟 Collector's Edition | 0.04% | 2268 |
-| 🏔🌿🌿🌿 CE (-masterworks) | 0.18% | 567 |
-| 🏔🌿🌿🌿 CE (-magazines) | 0.15% | 648 |
-| 🏔🌿🌿 (-magazines, -masterworks) | 0.62% | 162 |
+| 🏔🌿🌿🌿🌟 Collector's Edition | 0.04% | 2268 <br>Line Two<br>Line Three|
+| 🏔🌿🌿🌿 CE (-masterworks) | 0.18% | 567 <br>Line Two<br>Line Three|
+| 🏔🌿🌿🌿 CE (-magazines) | 0.15% | 648 <br>Line Two<br>Line Three|
+| 🏔🌿🌿 (-magazines, -masterworks) | 0.62% | 162 <br>Line Two<br>Line Three|
 
-### **The Gardener**
+### Roll: **The Gardener**
 Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the barrel requirement as well.
 ```
   Barrels [ 72%]: Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling
@@ -2238,16 +2238,16 @@ Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the 
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🌿🌿🌿🌟 Collector's Edition | 0.14% | 697 |
-| 🌿🌿🌿 CE (-magazines) | 0.50% | 199 |
-| 🌿🌿🌿 CE (-masterworks) | 0.57% | 174 |
-| 🌿🌿🌿 CE (-barrels) | 0.20% | 504 |
-| 🌿🌿 (-barrels, -magazines) | 0.69% | 144 |
-| 🌿🌿 (-barrels, -masterworks) | 0.79% | 126 |
-| 🌿🌿 (-magazines, -masterworks) | 2.01% | 49 |
-| 🌿 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🌿🌿🌿🌟 Collector's Edition | 0.14% | 697 <br>Line Two<br>Line Three|
+| 🌿🌿🌿 CE (-magazines) | 0.50% | 199 <br>Line Two<br>Line Three|
+| 🌿🌿🌿 CE (-masterworks) | 0.57% | 174 <br>Line Two<br>Line Three|
+| 🌿🌿🌿 CE (-barrels) | 0.20% | 504 <br>Line Two<br>Line Three|
+| 🌿🌿 (-barrels, -magazines) | 0.69% | 144 <br>Line Two<br>Line Three|
+| 🌿🌿 (-barrels, -masterworks) | 0.79% | 126 <br>Line Two<br>Line Three|
+| 🌿🌿 (-magazines, -masterworks) | 2.01% | 49 <br>Line Two<br>Line Three|
+| 🌿 (-barrels, -magazines, -masterworks) | 2.78% | 36 <br>Line Two<br>Line Three|
 
-### **The Vertical/Hoarder**
+### Roll: **The Vertical/Hoarder**
 This set of rolls pivots around `Surplus`. It provides a roughly 25%, 13% and 8% boost depending on how many abilities are charged. You really want to be shooting for all three abilities charged at once which means either foregoing their use entirely or perhaps investing in high tiers of the respective stat (Strength, Discipline, or <class stat>) so that you can quickly recharge a single one. The tradeoff is going around with a supercharged weapon the whole match.
 ```
   Barrels [ 22%]: Arrowhead Brake
@@ -2259,12 +2259,12 @@ This set of rolls pivots around `Surplus`. It provides a roughly 25%, 13% and 8%
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🏔📦📦📦🌟 Collector's Edition | 0.04% | 2268 |
-| 🏔📦📦📦 CE (-masterworks) | 0.18% | 567 |
-| 🏔📦📦📦 (-magazines) | 0.15% | 648 |
-| 🏔📦📦 (-magazines -masterworks) | 0.62% | 162 |
+| 🏔📦📦📦🌟 Collector's Edition | 0.04% | 2268 <br>Line Two<br>Line Three|
+| 🏔📦📦📦 CE (-masterworks) | 0.18% | 567 <br>Line Two<br>Line Three|
+| 🏔📦📦📦 (-magazines) | 0.15% | 648 <br>Line Two<br>Line Three|
+| 🏔📦📦 (-magazines -masterworks) | 0.62% | 162 <br>Line Two<br>Line Three|
 
-### **The Hoarder**
+### Roll: **The Hoarder**
 Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the barrel requirement as well.
 ```
   Barrels [ 72%]: Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling
@@ -2276,18 +2276,18 @@ Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the 
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 📦📦📦🌟 Collector's Edition | 0.14% | 697 |
-| 📦📦📦 CE (-magazines) | 0.50% | 199 |
-| 📦📦📦 CE (-masterworks) | 0.57% | 174 |
-| 📦📦📦 CE (-barrels) | 0.20% | 504 |
-| 📦📦 (-barrels, -magazines) | 0.69% | 144 |
-| 📦📦 (-barrels, -masterworks) | 0.79% | 126 |
-| 📦📦 (-magazines, -masterworks) | 2.01% | 49 |
-| 📦 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 📦📦📦🌟 Collector's Edition | 0.14% | 697 <br>Line Two<br>Line Three|
+| 📦📦📦 CE (-magazines) | 0.50% | 199 <br>Line Two<br>Line Three|
+| 📦📦📦 CE (-masterworks) | 0.57% | 174 <br>Line Two<br>Line Three|
+| 📦📦📦 CE (-barrels) | 0.20% | 504 <br>Line Two<br>Line Three|
+| 📦📦 (-barrels, -magazines) | 0.69% | 144 <br>Line Two<br>Line Three|
+| 📦📦 (-barrels, -masterworks) | 0.79% | 126 <br>Line Two<br>Line Three|
+| 📦📦 (-magazines, -masterworks) | 2.01% | 49 <br>Line Two<br>Line Three|
+| 📦 (-barrels, -magazines, -masterworks) | 2.78% | 36 <br>Line Two<br>Line Three|
 
 ## Stars in Shadow - PvE
 In PvE you're going for as much `Range` as you can get with sustained damage upkeep. There are some solid perks here not in our rolls, becase you don't need this wishlist to tell you that Demolitionist is a good perk 🙃
-### **Rapid Reload**
+### Roll: **Rapid Reload**
 All Range and all damage.
 ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
@@ -2299,17 +2299,17 @@ All Range and all damage.
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| ♻️♻️♻️🌟 Collector's Edition | 0.06% | 1728 |
-| ♻️♻️♻️ CE (+magazines) | 0.14% | 691 |
-| ♻️♻️♻️ CE (-barrels) | 0.10% | 1008 |
-| ♻️♻️♻️ CE (-magazines) | 0.20% | 493 |
-| ♻️♻️♻️ CE (-masterworks) | 0.23% | 432 |
-| ♻️♻️ (-barrels, -magazines) | 0.35% | 288 |
-| ♻️♻️ (-barrels, -masterworks) | 0.40% | 252 |
-| ♻️♻️ (-magazines, -masterworks) | 0.81% | 123 |
-| ♻️ (-barrels, -magazines, -masterworks) | 1.39% | 72 |
+| ♻️♻️♻️🌟 Collector's Edition | 0.06% | 1728 <br>Line Two<br>Line Three|
+| ♻️♻️♻️ CE (+magazines) | 0.14% | 691 <br>Line Two<br>Line Three|
+| ♻️♻️♻️ CE (-barrels) | 0.10% | 1008 <br>Line Two<br>Line Three|
+| ♻️♻️♻️ CE (-magazines) | 0.20% | 493 <br>Line Two<br>Line Three|
+| ♻️♻️♻️ CE (-masterworks) | 0.23% | 432 <br>Line Two<br>Line Three|
+| ♻️♻️ (-barrels, -magazines) | 0.35% | 288 <br>Line Two<br>Line Three|
+| ♻️♻️ (-barrels, -masterworks) | 0.40% | 252 <br>Line Two<br>Line Three|
+| ♻️♻️ (-magazines, -masterworks) | 0.81% | 123 <br>Line Two<br>Line Three|
+| ♻️ (-barrels, -magazines, -masterworks) | 1.39% | 72 <br>Line Two<br>Line Three|
 
-### **Barrier Slayer**
+### Roll: **Barrier Slayer**
 In seasons where Pulse Rifles end up with Barrier mods, Genesis will proc when the shield breaks while you'll wrecking the champions with Vorpal. Other shields will also proc Genesis, for example "Enlightened" enemies in the Garden of Salvation raid.
 ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
@@ -2321,15 +2321,15 @@ In seasons where Pulse Rifles end up with Barrier mods, Genesis will proc when t
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🏆🏆🏆🌟 Collector's Edition | 0.06% | 1728 |
-| 🏆🏆🏆 CE (+magazines) | 0.14% | 691 |
-| 🏆🏆🏆 CE (-barrels) | 0.10% | 1008 |
-| 🏆🏆🏆 CE (-magazines) | 0.20% | 493 |
-| 🏆🏆🏆 CE (-masterworks) | 0.23% | 432 |
-| 🏆🏆 (-barrels, -magazines) | 0.35% | 288 |
-| 🏆🏆 (-barrels, -masterworks) | 0.40% | 252 |
-| 🏆🏆 (-magazines, -masterworks) | 0.81% | 123 |
-| 🏆 (-barrels, -magazines, -masterworks) | 1.39% | 72 |
+| 🏆🏆🏆🌟 Collector's Edition | 0.06% | 1728 <br>Line Two<br>Line Three|
+| 🏆🏆🏆 CE (+magazines) | 0.14% | 691 <br>Line Two<br>Line Three|
+| 🏆🏆🏆 CE (-barrels) | 0.10% | 1008 <br>Line Two<br>Line Three|
+| 🏆🏆🏆 CE (-magazines) | 0.20% | 493 <br>Line Two<br>Line Three|
+| 🏆🏆🏆 CE (-masterworks) | 0.23% | 432 <br>Line Two<br>Line Three|
+| 🏆🏆 (-barrels, -magazines) | 0.35% | 288 <br>Line Two<br>Line Three|
+| 🏆🏆 (-barrels, -masterworks) | 0.40% | 252 <br>Line Two<br>Line Three|
+| 🏆🏆 (-magazines, -masterworks) | 0.81% | 123 <br>Line Two<br>Line Three|
+| 🏆 (-barrels, -magazines, -masterworks) | 1.39% | 72 <br>Line Two<br>Line Three|
 
 ## Steel Sybil Z-14 - PvE
 *For all possible perks, check out **Steel Sybil Z-14** over on [light.gg](https://www.light.gg/db/items/4230993599/steel-sybil-z-14/)*
@@ -3468,7 +3468,7 @@ Iron Banner weapons tend to shine in PvP, so we won't feature many PvE builds.
 With Bungie's announcement that they can now have different falloff tiers across Hand Cannons (see patch notes above) the 120s are, perhaps oddly, now able to compete with Pulse Rifles. That, plus the fact that this is a controller-centric wishlist, means we'll be favouring Stability and Aim Assist perks.
 
 > *You don't really need to worry about Range in my opinion so much on these hand cannons since they already have so much to begin with. Not to say it isn't valuable, but I think that it might be worth boosting other aspects of this weapon."* - Drewsky
-### **Locked On**
+### Roll: **Locked On**
 Moving Target and Iron Gaze are going to bump Target Acquisition immensely. You give up a few meters of damage falloff, and in return significantly increased accuracy.
 ```
   Barrels [ 60%]: Steadyhand HCS, Fastdraw HCS
@@ -3480,22 +3480,22 @@ Moving Target and Iron Gaze are going to bump Target Acquisition immensely. You 
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🔒🔒🔒🌟 Collector's Edition | 0.10% | 960 |
-| 🔒🔒🔒 CE (+barrels) | 0.14% | 720 |
-| 🔒🔒🔒 CE (+magazines) | 0.19% | 516 |
-| 🔒🔒🔒 CE (-barrels) | 0.17% | 576 |
-| 🔒🔒🔒 CE (-magazines) | 0.42% | 240 |
-| 🔒🔒🔒 CE (-masterworks) | 0.42% | 240 |
-| 🔒🔒 (-barrels, +magazines) | 0.32% | 310 |
-| 🔒🔒 (+barrels, -magazines) | 0.56% | 180 |
-| 🔒🔒 (-barrels, -magazines) | 0.69% | 144 |
-| 🔒🔒 (-barrels, +magazines, -masterworks) | 1.29% | 77 |
-| 🔒🔒 (+barrels, -magazines, -masterworks) | 2.22% | 45 |
-| 🔒🔒 (-barrels, -masterworks) | 0.69% | 144 |
-| 🔒🔒 (-magazines, -masterworks) | 1.67% | 60 |
-| 🔒 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🔒🔒🔒🌟 Collector's Edition | 0.10% | 960 <br>Line Two<br>Line Three|
+| 🔒🔒🔒 CE (+barrels) | 0.14% | 720 <br>Line Two<br>Line Three|
+| 🔒🔒🔒 CE (+magazines) | 0.19% | 516 <br>Line Two<br>Line Three|
+| 🔒🔒🔒 CE (-barrels) | 0.17% | 576 <br>Line Two<br>Line Three|
+| 🔒🔒🔒 CE (-magazines) | 0.42% | 240 <br>Line Two<br>Line Three|
+| 🔒🔒🔒 CE (-masterworks) | 0.42% | 240 <br>Line Two<br>Line Three|
+| 🔒🔒 (-barrels, +magazines) | 0.32% | 310 <br>Line Two<br>Line Three|
+| 🔒🔒 (+barrels, -magazines) | 0.56% | 180 <br>Line Two<br>Line Three|
+| 🔒🔒 (-barrels, -magazines) | 0.69% | 144 <br>Line Two<br>Line Three|
+| 🔒🔒 (-barrels, +magazines, -masterworks) | 1.29% | 77 <br>Line Two<br>Line Three|
+| 🔒🔒 (+barrels, -magazines, -masterworks) | 2.22% | 45 <br>Line Two<br>Line Three|
+| 🔒🔒 (-barrels, -masterworks) | 0.69% | 144 <br>Line Two<br>Line Three|
+| 🔒🔒 (-magazines, -masterworks) | 1.67% | 60 <br>Line Two<br>Line Three|
+| 🔒 (-barrels, -magazines, -masterworks) | 2.78% | 36 <br>Line Two<br>Line Three|
 
-### **Demon of Sixes Street**
+### Roll: **Demon of Sixes Street**
 This is primarily a roll for sixes where TSH can shine as a cleanup weapon with a higher chance of chaining kills. Keep in mind that a `Resilience` of `5` cancels out the Swashbuckler two-tap from full health but in sixes that's not always what you're dealing with. If you can pair this with a ranged melee (Swashbuckler x 5) you'llI wouldn't suggest this roll for Comp or Trials.
 ```
   Barrels [ 60%]: Steadyhand HCS, Fastdraw HCS
@@ -3507,22 +3507,22 @@ This is primarily a roll for sixes where TSH can shine as a cleanup weapon with 
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👹👹👹🌟 Collector's Edition | 0.10% | 960 |
-| 👹👹👹 CE (+barrels) | 0.14% | 720 |
-| 👹👹👹 CE (+magazines) | 0.19% | 516 |
-| 👹👹👹 CE (-barrels) | 0.17% | 576 |
-| 👹👹👹 CE (-magazines) | 0.42% | 240 |
-| 👹👹👹 CE (-masterworks) | 0.42% | 240 |
-| 👹👹 (-barrels, +magazines) | 0.32% | 310 |
-| 👹👹 (+barrels, -magazines) | 0.56% | 180 |
-| 👹👹 (-barrels, -magazines) | 0.69% | 144 |
-| 👹👹 (-barrels, +magazines, -masterworks) | 1.29% | 77 |
-| 👹👹 (+barrels, -magazines, -masterworks) | 2.22% | 45 |
-| 👹👹 (-barrels, -masterworks) | 0.69% | 144 |
-| 👹👹 (-magazines, -masterworks) | 1.67% | 60 |
-| 👹 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 👹👹👹🌟 Collector's Edition | 0.10% | 960 <br>Line Two<br>Line Three|
+| 👹👹👹 CE (+barrels) | 0.14% | 720 <br>Line Two<br>Line Three|
+| 👹👹👹 CE (+magazines) | 0.19% | 516 <br>Line Two<br>Line Three|
+| 👹👹👹 CE (-barrels) | 0.17% | 576 <br>Line Two<br>Line Three|
+| 👹👹👹 CE (-magazines) | 0.42% | 240 <br>Line Two<br>Line Three|
+| 👹👹👹 CE (-masterworks) | 0.42% | 240 <br>Line Two<br>Line Three|
+| 👹👹 (-barrels, +magazines) | 0.32% | 310 <br>Line Two<br>Line Three|
+| 👹👹 (+barrels, -magazines) | 0.56% | 180 <br>Line Two<br>Line Three|
+| 👹👹 (-barrels, -magazines) | 0.69% | 144 <br>Line Two<br>Line Three|
+| 👹👹 (-barrels, +magazines, -masterworks) | 1.29% | 77 <br>Line Two<br>Line Three|
+| 👹👹 (+barrels, -magazines, -masterworks) | 2.22% | 45 <br>Line Two<br>Line Three|
+| 👹👹 (-barrels, -masterworks) | 0.69% | 144 <br>Line Two<br>Line Three|
+| 👹👹 (-magazines, -masterworks) | 1.67% | 60 <br>Line Two<br>Line Three|
+| 👹 (-barrels, -magazines, -masterworks) | 2.78% | 36 <br>Line Two<br>Line Three|
 
-### **Float Like a Butterfly**
+### Roll: **Float Like a Butterfly**
 If you pair a Quickdraw TSH with a breach-load GL with a Quick Access Sling mod, you have a super powerful combination. Pairing it with Le Monarque has a similar effect: massive damage with an opening shot from your Energy weapon and a single shot from TSH to clean up. With Quickdraw and Snapshot, this Aggressive Frame can feel like a Lightweight.
 ```
   Barrels [ 60%]: Fastdraw HCS, Steadyhand HCS
@@ -3534,22 +3534,22 @@ If you pair a Quickdraw TSH with a breach-load GL with a Quick Access Sling mod,
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🦋🦋🦋🌟 Collector's Edition | 0.10% | 960 |
-| 🦋🦋🦋 CE (+barrels) | 0.14% | 720 |
-| 🦋🦋🦋 CE (+magazines) | 0.19% | 516 |
-| 🦋🦋🦋 CE (-barrels) | 0.17% | 576 |
-| 🦋🦋🦋 CE (-magazines) | 0.42% | 240 |
-| 🦋🦋🦋 CE (-masterworks) | 0.42% | 240 |
-| 🦋🦋 (-barrels, +magazines) | 0.32% | 310 |
-| 🦋🦋 (+barrels, -magazines) | 0.56% | 180 |
-| 🦋🦋 (-barrels, -magazines) | 0.69% | 144 |
-| 🦋🦋 (-barrels, +magazines, -masterworks) | 1.29% | 77 |
-| 🦋🦋 (+barrels, -magazines, -masterworks) | 2.22% | 45 |
-| 🦋🦋 (-barrels, -masterworks) | 0.69% | 144 |
-| 🦋🦋 (-magazines, -masterworks) | 1.67% | 60 |
-| 🦋 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🦋🦋🦋🌟 Collector's Edition | 0.10% | 960 <br>Line Two<br>Line Three|
+| 🦋🦋🦋 CE (+barrels) | 0.14% | 720 <br>Line Two<br>Line Three|
+| 🦋🦋🦋 CE (+magazines) | 0.19% | 516 <br>Line Two<br>Line Three|
+| 🦋🦋🦋 CE (-barrels) | 0.17% | 576 <br>Line Two<br>Line Three|
+| 🦋🦋🦋 CE (-magazines) | 0.42% | 240 <br>Line Two<br>Line Three|
+| 🦋🦋🦋 CE (-masterworks) | 0.42% | 240 <br>Line Two<br>Line Three|
+| 🦋🦋 (-barrels, +magazines) | 0.32% | 310 <br>Line Two<br>Line Three|
+| 🦋🦋 (+barrels, -magazines) | 0.56% | 180 <br>Line Two<br>Line Three|
+| 🦋🦋 (-barrels, -magazines) | 0.69% | 144 <br>Line Two<br>Line Three|
+| 🦋🦋 (-barrels, +magazines, -masterworks) | 1.29% | 77 <br>Line Two<br>Line Three|
+| 🦋🦋 (+barrels, -magazines, -masterworks) | 2.22% | 45 <br>Line Two<br>Line Three|
+| 🦋🦋 (-barrels, -masterworks) | 0.69% | 144 <br>Line Two<br>Line Three|
+| 🦋🦋 (-magazines, -masterworks) | 1.67% | 60 <br>Line Two<br>Line Three|
+| 🦋 (-barrels, -magazines, -masterworks) | 2.78% | 36 <br>Line Two<br>Line Three|
 
-### **Workhorse**
+### Roll: **Workhorse**
 Many phenomenal perks in column three and column four. As Fallout mentions in his review, you'd be kinda happy to get any of them.
 ```
   Barrels [ 60%]: Fastdraw HCS, Steadyhand HCS
@@ -3561,24 +3561,24 @@ Many phenomenal perks in column three and column four. As Fallout mentions in hi
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🐴🐴🐴🌟 Collector's Edition | 0.94% | 106 |
-| 🐴🐴🐴 CE (+barrels) | 1.25% | 80 |
-| 🐴🐴🐴 CE (+magazines) | 1.74% | 57 |
-| 🐴🐴🐴 CE (-barrels) | 1.56% | 64 |
-| 🐴🐴🐴 CE (-magazines) | 3.75% | 26 |
-| 🐴🐴🐴 CE (-masterworks) | 3.75% | 26 |
-| 🐴🐴 (-barrels, +magazines) | 2.90% | 34 |
-| 🐴🐴 (+barrels, -magazines) | 5.00% | 20 |
-| 🐴🐴 (-barrels, -magazines) | 6.25% | 16 |
-| 🐴🐴 (-barrels, +magazines, -masterworks) | 11.61% | 8 |
-| 🐴🐴 (+barrels, -magazines, -masterworks) | 20.00% | 5 |
-| 🐴🐴 (-barrels, -masterworks) | 6.25% | 16 |
-| 🐴🐴 (-magazines, -masterworks) | 15.00% | 6 |
-| 🐴 (-barrels, -magazines, -masterworks) | 25.00% | 4 |
+| 🐴🐴🐴🌟 Collector's Edition | 0.94% | 106 <br>Line Two<br>Line Three|
+| 🐴🐴🐴 CE (+barrels) | 1.25% | 80 <br>Line Two<br>Line Three|
+| 🐴🐴🐴 CE (+magazines) | 1.74% | 57 <br>Line Two<br>Line Three|
+| 🐴🐴🐴 CE (-barrels) | 1.56% | 64 <br>Line Two<br>Line Three|
+| 🐴🐴🐴 CE (-magazines) | 3.75% | 26 <br>Line Two<br>Line Three|
+| 🐴🐴🐴 CE (-masterworks) | 3.75% | 26 <br>Line Two<br>Line Three|
+| 🐴🐴 (-barrels, +magazines) | 2.90% | 34 <br>Line Two<br>Line Three|
+| 🐴🐴 (+barrels, -magazines) | 5.00% | 20 <br>Line Two<br>Line Three|
+| 🐴🐴 (-barrels, -magazines) | 6.25% | 16 <br>Line Two<br>Line Three|
+| 🐴🐴 (-barrels, +magazines, -masterworks) | 11.61% | 8 <br>Line Two<br>Line Three|
+| 🐴🐴 (+barrels, -magazines, -masterworks) | 20.00% | 5 <br>Line Two<br>Line Three|
+| 🐴🐴 (-barrels, -masterworks) | 6.25% | 16 <br>Line Two<br>Line Three|
+| 🐴🐴 (-magazines, -masterworks) | 15.00% | 6 <br>Line Two<br>Line Three|
+| 🐴 (-barrels, -magazines, -masterworks) | 25.00% | 4 <br>Line Two<br>Line Three|
 
 ## The Steady Hand - PvE
 Generally in PvE you're going for as much `Range` as you can get with sustained damage upkeep. If you liked [The Duke Mk. 44](https://www.light.gg/db/items/2112909414/duke-mk-44/) then TSH could be for you.
-### **Rapid Reload**
+### Roll: **Rapid Reload**
 Without Outlaw, you're going to have to rely on Transversives, Marksman's Dodge, etc. to reload effectively in PvE. Without it, you're looking at a lot of downtime in situations where there are better alternatives. This is the case with Outlaw-based Duke rolls and people absolutely loved that sooo 🤷‍♂️
 ```
   Barrels [ 60%]: Hitmark HCS, Truesight HCS
@@ -3590,17 +3590,17 @@ Without Outlaw, you're going to have to rely on Transversives, Marksman's Dodge,
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| ♻️♻️♻️🌟 Collector's Edition | 0.19% | 516 |
-| ♻️♻️♻️ CE (+magazines) | 0.33% | 305 |
-| ♻️♻️♻️ CE (-barrels) | 0.32% | 310 |
-| ♻️♻️♻️ CE (+magazines, -barrels) | 0.55% | 183 |
-| ♻️♻️♻️ CE (-magazines) | 0.42% | 240 |
-| ♻️♻️♻️ CE (+magazines, -masterworks) | 1.31% | 76 |
-| ♻️♻️♻️ CE (-masterworks) | 0.77% | 129 |
-| ♻️♻️ (-barrels, -magazines) | 0.69% | 144 |
-| ♻️♻️ (-barrels, -masterworks) | 1.29% | 77 |
-| ♻️♻️ (-magazines, -masterworks) | 1.67% | 60 |
-| ♻️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| ♻️♻️♻️🌟 Collector's Edition | 0.19% | 516 <br>Line Two<br>Line Three|
+| ♻️♻️♻️ CE (+magazines) | 0.33% | 305 <br>Line Two<br>Line Three|
+| ♻️♻️♻️ CE (-barrels) | 0.32% | 310 <br>Line Two<br>Line Three|
+| ♻️♻️♻️ CE (+magazines, -barrels) | 0.55% | 183 <br>Line Two<br>Line Three|
+| ♻️♻️♻️ CE (-magazines) | 0.42% | 240 <br>Line Two<br>Line Three|
+| ♻️♻️♻️ CE (+magazines, -masterworks) | 1.31% | 76 <br>Line Two<br>Line Three|
+| ♻️♻️♻️ CE (-masterworks) | 0.77% | 129 <br>Line Two<br>Line Three|
+| ♻️♻️ (-barrels, -magazines) | 0.69% | 144 <br>Line Two<br>Line Three|
+| ♻️♻️ (-barrels, -masterworks) | 1.29% | 77 <br>Line Two<br>Line Three|
+| ♻️♻️ (-magazines, -masterworks) | 1.67% | 60 <br>Line Two<br>Line Three|
+| ♻️ (-barrels, -magazines, -masterworks) | 2.78% | 36 <br>Line Two<br>Line Three|
 
 ## Swarm of the Raven - PvE
 *For all possible perks, check out **Swarm of the Raven** over on [light.gg](https://www.light.gg/db/items/1972985595/swarm-of-the-raven/)*
@@ -3889,7 +3889,7 @@ Heritage is a kinetic "precision frame" (slug) shotgun that can drop from the 2n
 As of Season 12, it is the only legendary kinetic slug shotgun that is viable in leveled content.
 ## Heritage - PvE
 Slug shotguns currently enable some of the highest DPS in the game, and are the meta-loadout for boss DPS in a number of encounters, including the final boss of the raid.
-### **Re-Re-Re-Re-Combo Breaker!**
+### Roll: **Re-Re-Re-Re-Combo Breaker!**
 Reconstruction is a new perk that currently only drops on rolls from the DSC Raid.  Every 4 seconds it loads 10% of the base magazine from reserves into the gun, and it maxes out at 2x the normal magazine size.  It starts at a base of 6 (12) but with Extended Mag and the Backup Mag mod you can get up to 8 (16) shots without reloading!
 None of the traditional damage perks (Rampage, Kill Clip, Vorpal) are available on this gun, so our best bet for the 4th column is another new perk, Recombination.  Final blows from all "elemental" sources (so, everything that isn't this shotgun) stack up to 10x.  Each stack will add 10% for the next Heritage shot (so up to 2x damage).
 ```
@@ -3902,19 +3902,19 @@ None of the traditional damage perks (Rampage, Kill Clip, Vorpal) are available 
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 📈📈📈📈🌟 Collector's Edition | 0.58% | 172 |
-| 📈📈📈 CE (-barrels) | 0.99% | 100 |
-| 📈📈📈️ CE (-magazines) | 0.81% | 123 |
-| 📈📈📈 CE (-masterworks) | 1.16% | 86 |
-| 📈📈 (-barrels, -magazines) | 1.39% | 72 |
-| 📈📈️ (-barrels, -masterworks) | 1.98% | 50 |
-| 📈📈️ (-magazines, -masterworks) | 1.62% | 61 |
-| 📈️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 📈📈📈📈🌟 Collector's Edition | 0.58% | 172 <br>Line Two<br>Line Three|
+| 📈📈📈 CE (-barrels) | 0.99% | 100 <br>Line Two<br>Line Three|
+| 📈📈📈️ CE (-magazines) | 0.81% | 123 <br>Line Two<br>Line Three|
+| 📈📈📈 CE (-masterworks) | 1.16% | 86 <br>Line Two<br>Line Three|
+| 📈📈 (-barrels, -magazines) | 1.39% | 72 <br>Line Two<br>Line Three|
+| 📈📈️ (-barrels, -masterworks) | 1.98% | 50 <br>Line Two<br>Line Three|
+| 📈📈️ (-magazines, -masterworks) | 1.62% | 61 <br>Line Two<br>Line Three|
+| 📈️ (-barrels, -magazines, -masterworks) | 2.78% | 36 <br>Line Two<br>Line Three|
 
 ## Heritage - PvP
 Heritage has the highest aim assist of any slug shotgun.  [Drewsky](https://www.youtube.com/watch?v=XUGZIasUu9o) says "this weapon is really comparable to The Chaperone."
 The base one hit kill range is 10.5 meters, you can increase that up to 11.9m with Killing Wind and Slideshot active.
-### **Killing Slide**
+### Roll: **Killing Slide**
 All Range and all damage.
 ```
   Barrels [ 58%]: Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
@@ -3926,14 +3926,14 @@ All Range and all damage.
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🎢🎢🎢🎢️🌟 Collector's Edition | 0.12% | 864 |
-| 🎢🎢🎢 CE (-barrels) | 0.20% | 504 |
-| 🎢🎢🎢️ CE (-magazines) | 0.41% | 246 |
-| 🎢🎢🎢 CE (-masterworks) | 0.46% | 216 |
-| 🎢🎢 (-barrels, -magazines) | 0.69% | 144 |
-| 🎢🎢️ (-barrels, -masterworks) | 0.79% | 126 |
-| 🎢🎢️ (-magazines, -masterworks) | 1.62% | 61 |
-| 🎢️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+| 🎢🎢🎢🎢️🌟 Collector's Edition | 0.12% | 864 <br>Line Two<br>Line Three|
+| 🎢🎢🎢 CE (-barrels) | 0.20% | 504 <br>Line Two<br>Line Three|
+| 🎢🎢🎢️ CE (-magazines) | 0.41% | 246 <br>Line Two<br>Line Three|
+| 🎢🎢🎢 CE (-masterworks) | 0.46% | 216 <br>Line Two<br>Line Three|
+| 🎢🎢 (-barrels, -magazines) | 0.69% | 144 <br>Line Two<br>Line Three|
+| 🎢🎢️ (-barrels, -masterworks) | 0.79% | 126 <br>Line Two<br>Line Three|
+| 🎢🎢️ (-magazines, -masterworks) | 1.62% | 61 <br>Line Two<br>Line Three|
+| 🎢️ (-barrels, -magazines, -masterworks) | 2.78% | 36 <br>Line Two<br>Line Three|
 
 ## Berenger's Memory - PvE
 *For all possible perks, check out **Berenger's Memory** over on [light.gg](https://www.light.gg/db/items/407621213/berengers-memory/)*
@@ -5629,7 +5629,7 @@ I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls fo
 > You might’ve noticed that these aren’t specialized to the two types of playstyles I mention in my post. I did this on purpose because there are a much larger amount of players who aren’t bow mains, and care less about that kind of thing. These two are the best generalized god rolls that are tailored to the perspective of the majority. Both loadouts, however, are something that even I as a bow main in the crucible would be interested in acquiring.
 
 > There are two versions of this bow that I would consider a god roll depending on two different play styles: one being `Aggressive`, and the other being more `Reserved`.
-### **GuiltySpark's Aggro Slab**
+### Roll: **GuiltySpark's Aggro Slab**
 Here's a breakdown of what we're going for:
 
 
@@ -5664,14 +5664,14 @@ Here's a breakdown of what we're going for:
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 😡😡😡🌟 Collector's Edition | 0.11% | 944 |
-| 😡😡😡 CE (+barrels) | 0.19% | 515 |
-| 😡😡😡 CE (+magazines) | 0.19% | 525 |
-| 😡😡😡 CE (+masterworks) | 0.21% | 472 |
-| 😡😡 (+barrels, +magazines, +masterworks) | 0.70% | 143 |
-| 😡 (-barrels, -magazines, +masterworks) | 2.22% | 44 |
+| 😡😡😡🌟 Collector's Edition | 0.11% | 944 <br>Line Two<br>Line Three|
+| 😡😡😡 CE (+barrels) | 0.19% | 515 <br>Line Two<br>Line Three|
+| 😡😡😡 CE (+magazines) | 0.19% | 525 <br>Line Two<br>Line Three|
+| 😡😡😡 CE (+masterworks) | 0.21% | 472 <br>Line Two<br>Line Three|
+| 😡😡 (+barrels, +magazines, +masterworks) | 0.70% | 143 <br>Line Two<br>Line Three|
+| 😡 (-barrels, -magazines, +masterworks) | 2.22% | 44 <br>Line Two<br>Line Three|
 
-### **GuiltySpark's Reserved Slab**
+### Roll: **GuiltySpark's Reserved Slab**
 The objective of this loadout is to max it's Accuracy as high as it can go, so that the player can use it at longer distances and not feel forced to engage at closer ranges.
 
   * `High Tension String`: We're going for max accuracy with this
@@ -5694,18 +5694,18 @@ The objective of this loadout is to max it's Accuracy as high as it can go, so t
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🧐🧐🧐🌟 Collector's Edition | 0.11% | 944 |
-| 🧐🧐🧐 CE (+barrels) | 0.19% | 515 |
-| 🧐🧐🧐 CE (+magazines) | 0.19% | 525 |
-| 🧐🧐🧐 CE (+masterworks) | 0.21% | 472 |
-| 🧐🧐 (+barrels, +magazines, +masterworks) | 0.70% | 143 |
-| 🧐🧐🧐 CE (-barrels) | 0.37% | 270 |
-| 🧐🧐🧐 CE (-magazines) | 0.32% | 315 |
-| 🧐🧐🧐 CE (-masterworks) | 0.53% | 189 |
-| 🧐🧐 (-barrels, -magazines) | 1.11% | 89 |
-| 🧐🧐 (-barrels, -masterworks) | 1.85% | 54 |
-| 🧐🧐 (-magazines, -masterworks) | 1.59% | 63 |
-| 🧐 (-barrels, -magazines, -masterworks) | 5.56% | 18 |
+| 🧐🧐🧐🌟 Collector's Edition | 0.11% | 944 <br>Line Two<br>Line Three|
+| 🧐🧐🧐 CE (+barrels) | 0.19% | 515 <br>Line Two<br>Line Three|
+| 🧐🧐🧐 CE (+magazines) | 0.19% | 525 <br>Line Two<br>Line Three|
+| 🧐🧐🧐 CE (+masterworks) | 0.21% | 472 <br>Line Two<br>Line Three|
+| 🧐🧐 (+barrels, +magazines, +masterworks) | 0.70% | 143 <br>Line Two<br>Line Three|
+| 🧐🧐🧐 CE (-barrels) | 0.37% | 270 <br>Line Two<br>Line Three|
+| 🧐🧐🧐 CE (-magazines) | 0.32% | 315 <br>Line Two<br>Line Three|
+| 🧐🧐🧐 CE (-masterworks) | 0.53% | 189 <br>Line Two<br>Line Three|
+| 🧐🧐 (-barrels, -magazines) | 1.11% | 89 <br>Line Two<br>Line Three|
+| 🧐🧐 (-barrels, -masterworks) | 1.85% | 54 <br>Line Two<br>Line Three|
+| 🧐🧐 (-magazines, -masterworks) | 1.59% | 63 <br>Line Two<br>Line Three|
+| 🧐 (-barrels, -magazines, -masterworks) | 5.56% | 18 <br>Line Two<br>Line Three|
 
 ## Seventh Seraph Carbine - PvP
 *For all possible perks, check out **Seventh Seraph Carbine** over on [light.gg](https://www.light.gg/db/items/1561006927/seventh-seraph-carbine/)*
@@ -6426,7 +6426,7 @@ TrueVanguard, who absolutely loves the Anonymous Autumn (with over 14,000 kills)
 If you are going to consider the SI-2 for PvP, a few things to keep in mind:
 * The recoil direction is 95, so no need to worry about straightening it out. I.e. the +Recoil barrels shouldn't be your first pick. Instead, focus on Range and Stability.
 * Full Auto is going to be a make-or-break perk for some, as many guardians have a love-it-or-hate-it relationsihp with single-shot sidearms. If that's your thing, know that no other perk in that column is a must-have. I find that 360s are unsuable for me without it, so I'll be picking one of these up to see how it plays with Vorpal.
-### **Full Auto Super Shredder**
+### Roll: **Full Auto Super Shredder**
 These rolls aren't super tight on the Barrel and Magazine front because they aren't going to dramatically alter the value of the overall roll. Vorpal is really the key here. Without Vorpal, you're better off using the better-rolled Anonymous Autumn as mentioned above. Otherwise we're going for +Range and +Stability wherever we can get it.
 ```
   Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling
@@ -6438,10 +6438,10 @@ These rolls aren't super tight on the Barrel and Magazine front because they are
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 💥💥💥🌟 | 0.91% | 109 |
-| 💥💥💥 (-masterworks) | 1.82% | 54 |
+| 💥💥💥🌟 | 0.91% | 109 <br>Line Two<br>Line Three|
+| 💥💥💥 (-masterworks) | 1.82% | 54 <br>Line Two<br>Line Three|
 
-### **Threat Level Super Shredder**
+### Roll: **Threat Level Super Shredder**
 Same setup as the above, but we're swapping out Full Auto and bringing in Threat Detector.
 ```
   Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling
@@ -6453,10 +6453,10 @@ Same setup as the above, but we're swapping out Full Auto and bringing in Threat
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🧵🧵🧵🌟 | 0.91% | 109 |
-| 🧵🧵🧵 (-masterworks) | 1.82% | 54 |
+| 🧵🧵🧵🌟 | 0.91% | 109 <br>Line Two<br>Line Three|
+| 🧵🧵🧵 (-masterworks) | 1.82% | 54 <br>Line Two<br>Line Three|
 
-### **Basic Super Shredder**
+### Roll: **Basic Super Shredder**
 No first column perk! If you really want Vorpal on your Energy sidearm, here ya go.
 ```
   Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling
@@ -6468,14 +6468,14 @@ No first column perk! If you really want Vorpal on your Energy sidearm, here ya 
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| ⚙⚙⚙🌟 | 5.46% | 18 |
-| ⚙⚙⚙ (-masterworks) | 10.91% | 9 |
+| ⚙⚙⚙🌟 | 5.46% | 18 <br>Line Two<br>Line Three|
+| ⚙⚙⚙ (-masterworks) | 10.91% | 9 <br>Line Two<br>Line Three|
 
 ## Seventh Seraph SI-2 - PvE
 Like all other Seraph weapons, the SI-2 contributes to the generation of Warmind cells in PvE. If that's not your thing, you can pretty much pass on this weapon full stop. Since it can roll with Dragonfly, it could have made beautiful music with the `Wrath of Rasputin` Warmind mod: `Solar splash damage final blows have a chance to create Warmind Cells`. Unfortunately the SI-2 is a Void weapon 👿
 
 That being said, there are a few combos that could prove interesting for the discerning collector / sidearm aficionado.
-### **Sparks Flying**
+### Roll: **Sparks Flying**
 The SI-2 is the only sidearm in the game that can roll with both Demolitionist and Dragonfly. That's exciting because Demolitionist counts the Dragonfly collateral kills towards getting your grenade back. Don't forget the `Dragonfly Spec` mod from Ada-1!
 ```
   Barrels [100%]: *
@@ -6487,9 +6487,9 @@ The SI-2 is the only sidearm in the game that can roll with both Demolitionist a
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🎇 | 2.78% | 36 |
+| 🎇 | 2.78% | 36 <br>Line Two<br>Line Three|
 
-### **Champion Slayer**
+### Roll: **Champion Slayer**
 Sidearms are all the rage in the Season 10 Artifact, and certainly will be again at some point in the future. If you want to dump rounds in to Champions, you don't have any other options in this slot.
 ```
   Barrels [100%]: *
@@ -6501,9 +6501,9 @@ Sidearms are all the rage in the Season 10 Artifact, and certainly will be again
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🏆 | 2.78% | 36 |
+| 🏆 | 2.78% | 36 <br>Line Two<br>Line Three|
 
-### **You're Trapped In Here With Me**
+### Roll: **You're Trapped In Here With Me**
 Like Grave Robber and Swashbuckler, these two perks play super well off each other. If you love sidearms, considering adding this to your collection. You'll do some serious damage during Seraph Tower events.
 ```
   Barrels [100%]: *
@@ -6515,7 +6515,7 @@ Like Grave Robber and Swashbuckler, these two perks play super well off each oth
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🏢 | 2.78% | 36 |
+| 🏢 | 2.78% | 36 <br>Line Two<br>Line Three|
 
 ## Seventh Seraph VY-7 - PvP
 *For all possible perks, check out **Seventh Seraph VY-7** over on [light.gg](https://www.light.gg/db/items/766323545/seventh-seraph-vy-7/)*
