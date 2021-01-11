@@ -17,6 +17,12 @@ a:hover {
  color: #5dbafb;
 }
 
+blockquote {
+  border-left: 3px solid;
+  margin-left: 15px;
+  padding-left: 10px;
+}
+
 // Add breathing room to our content
 .wrapper {
   max-width: 1000px;
