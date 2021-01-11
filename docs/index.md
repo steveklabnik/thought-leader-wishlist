@@ -1,5 +1,3 @@
-# **Welcome to the Sliflist!**
-
 To use this wishlist in DIM, copy and paste this URL in the Settings
 page under "Wish List"
 
