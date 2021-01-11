@@ -60,7 +60,7 @@ class RollSet
       output.puts('|:-|-:|-:|')
       @rolls.each do |r|
         odds = 1 / r.probability() * 100
-        output.puts("| #{r.roll_name} | %0.2f%% | %d <br>Line Two<br>Line Three|" % [r.probability(), odds])
+        output.puts("| #{r.roll_name} | %0.2f%% | %d |" % [r.probability(), odds])
       end
 
       # When rendering into GitHub Pages via Kramdown, you need an extra line before
