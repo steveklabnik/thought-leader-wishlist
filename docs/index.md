@@ -106,6 +106,7 @@ These rolls are floored at `36` Stability (before `Surplus`) since that's the ba
   Perks 2 [ 16%]: One for All
   MWorks  [ 25%]: Stability MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🥶🥶🥶🌟 Collector's Edition | 0.05% | 2160 |
@@ -124,6 +125,7 @@ Same as the above, replacing `Surplus` with `Dynamic Sway Reduction`.
   Perks 2 [ 16%]: One for All
   MWorks  [ 25%]: Stability MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🥶🥶🥶🌟 Collector's Edition | 0.05% | 2160 |
@@ -142,6 +144,7 @@ Same as the above, but we'll take any damage perk.
   Perks 2 [ 50%]: Dragonfly, Rampage, Surrounded
   MWorks  [ 25%]: Stability MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🧊🧊🧊🌟 Collector's Edition | 0.28% | 359 |
@@ -162,6 +165,7 @@ Cold Front needs a lot of help in the Stability department, which is the entire 
   Perks 2 [100%]: *
   MWorks  [ 25%]: Stability MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🥶🥶🥶📦🌟 Collector's Edition | 0.28% | 359 |
@@ -183,6 +187,7 @@ Same as the above, swapping DSR in for Surplus. These rolls are otherwise identi
   Perks 2 [100%]: *
   MWorks  [ 25%]: Stability MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🥶🥶🥶🕺🌟 Collector's Edition | 0.28% | 359 |
@@ -208,6 +213,7 @@ While `Surplus` will be boosting Stability, the Stability is so low and difficul
   Perks 2 [ 16%]: One for All
   MWorks  [ 25%]: Stability MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🌨🌨🌨📦🌟 Collector's Edition | 0.05% | 2160 |
@@ -227,6 +233,7 @@ Same as the above, swapping `Dynamic Sway Reduction` in for `Surplus`.
   Perks 2 [ 16%]: One for All
   MWorks  [ 25%]: Stability MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | ❄️❄️❄️🌟 Collector's Edition | 0.05% | 2160 |
@@ -246,6 +253,7 @@ We'll take any combination of a handful of perks in the final columns for a supe
   Perks 2 [ 50%]: Dragonfly, Rampage, Surrounded
   MWorks  [ 25%]: Stability MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | ☃️☃️☃️🌟 Collector's Edition | 0.28% | 359 |
@@ -283,6 +291,7 @@ This roll is based around the combination of `Accelerated Coils` and `High-Impac
   Perks 2 [ 16%]: High-Impact Reserves
   MWorks  [ 20%]: Stability MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🐇🐇🐇🌟 Collector's Edition | 0.08% | 1296 |
@@ -302,6 +311,7 @@ Similar to the above, swapping in `Particle Repeater` to replace `Accelerated Co
   Perks 2 [ 16%]: High-Impact Reserves
   MWorks  [ 20%]: Stability MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | ⚡️⚡️⚡️🌟 Collector's Edition | 0.08% | 1296 |
@@ -325,6 +335,7 @@ There is a unique situation among rolls here that's super interesting. If you ha
   Perks 2 [ 16%]: High-Impact Reserves
   MWorks  [ 20%]: Charge MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | ☕️☕️☕️🌟 Collector's Edition | 0.08% | 1296 |
@@ -346,6 +357,7 @@ This roll is based around `Liquid Coils`, which allows you to four-bolt Guardian
   Perks 2 [ 33%]: Demolitionist, Auto-Loading Holster
   MWorks  [ 20%]: Stability MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🐢🐢🐢🌟 Collector's Edition | 0.15% | 648 |
@@ -366,6 +378,7 @@ The base stats on Glacioclasm are rock solid are terrific. This roll captures th
   Perks 2 [ 33%]: Demolitionist, Auto-Loading Holster
   MWorks  [ 20%]: Stability MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🐴🐴🐴🌟 Collector's Edition | 0.15% | 648 |
@@ -2152,6 +2165,7 @@ This set of rolls is all about maxing out Recoil, and keeps `Arrowhead Brake` co
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Stability MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🏔🌒🌒🌒🌟 Collector's Edition | 0.04% | 2268 |
@@ -2168,6 +2182,7 @@ Same as above, using any Stability-boosting barrel, which we'll later relax down
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Stability MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🌑🌑🌑🌟 Collector's Edition | 0.17% | 604 |
@@ -2188,6 +2203,7 @@ This set of rolls pivots around `Firmly Planted`. It means that, even on console
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Range MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🏔🌿🌿🌿🌟 Collector's Edition | 0.04% | 2268 |
@@ -2203,6 +2219,7 @@ Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the 
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Range MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🌿🌿🌿🌟 Collector's Edition | 0.14% | 697 |
@@ -2222,6 +2239,7 @@ This set of rolls pivots around `Surplus`. It provides a roughly 25%, 13% and 8%
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Range MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🏔📦📦📦🌟 Collector's Edition | 0.04% | 2268 |
@@ -2237,6 +2255,7 @@ Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the 
   Perks 2 [ 33%]: Headseeker, Moving Target, Kill Clip, Eye of the Storm
   MWorks  [ 25%]: Range MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 📦📦📦🌟 Collector's Edition | 0.14% | 697 |
@@ -2258,6 +2277,7 @@ All Range and all damage.
   Perks 2 [  8%]: Kill Clip
   MWorks  [ 25%]: Range MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | ♻️♻️♻️🌟 Collector's Edition | 0.06% | 1728 |
@@ -2278,6 +2298,7 @@ In seasons where Pulse Rifles end up with Barrier mods, Genesis will proc when t
   Perks 2 [ 16%]: Vorpal, Disruption Break
   MWorks  [ 25%]: Range MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🏆🏆🏆🌟 Collector's Edition | 0.06% | 1728 |
@@ -3435,6 +3456,7 @@ Moving Target and Iron Gaze are going to bump Target Acquisition immensely. You 
   Perks 2 [ 16%]: Iron Gaze
   MWorks  [ 25%]: Stability MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🔒🔒🔒🌟 Collector's Edition | 0.10% | 960 |
@@ -3460,6 +3482,7 @@ This is primarily a roll for sixes where TSH can shine as a cleanup weapon with 
   Perks 2 [ 16%]: Swashbuckler
   MWorks  [ 25%]: Stability MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 👹👹👹🌟 Collector's Edition | 0.10% | 960 |
@@ -3485,6 +3508,7 @@ If you pair a Quickdraw TSH with a breach-load GL with a Quick Access Sling mod,
   Perks 2 [ 16%]: Snapshot
   MWorks  [ 25%]: Stability MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🦋🦋🦋🌟 Collector's Edition | 0.10% | 960 |
@@ -3510,6 +3534,7 @@ Many phenomenal perks in column three and column four. As Fallout mentions in hi
   Perks 2 [ 50%]: Wellspring, Snapshot, Iron Grip
   MWorks  [ 25%]: Stability MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🐴🐴🐴🌟 Collector's Edition | 0.94% | 106 |
@@ -3537,6 +3562,7 @@ Without Outlaw, you're going to have to rely on Transversives, Marksman's Dodge,
   Perks 2 [ 16%]: Swashbuckler
   MWorks  [ 25%]: Range MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | ♻️♻️♻️🌟 Collector's Edition | 0.19% | 516 |
@@ -3847,6 +3873,7 @@ None of the traditional damage perks (Rampage, Kill Clip, Vorpal) are available 
   Perks 2 [ 16%]: Recombination
   MWorks  [ 50%]: Handling MW, Range MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 📈📈📈📈🌟 Collector's Edition | 0.58% | 172 |
@@ -3869,6 +3896,7 @@ All Range and all damage.
   Perks 2 [ 16%]: Killing Wind
   MWorks  [ 25%]: Handling MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🎢🎢🎢🎢️🌟 Collector's Edition | 0.12% | 864 |
@@ -5605,6 +5633,7 @@ Here's a breakdown of what we're going for:
   Perks 2 [ 33%]: Unrelenting
   MWorks  [ 20%]: Accuracy MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 😡😡😡🌟 Collector's Edition | 0.11% | 944 |
@@ -5633,6 +5662,7 @@ The objective of this loadout is to max it's Accuracy as high as it can go, so t
   Perks 2 [ 33%]: Opening Shot
   MWorks  [ 20%]: Accuracy MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🧐🧐🧐🌟 Collector's Edition | 0.11% | 944 |
@@ -6375,6 +6405,7 @@ These rolls aren't super tight on the Barrel and Magazine front because they are
   Perks 2 [ 16%]: Vorpal
   MWorks  [ 50%]: Stability MW, Range MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 💥💥💥🌟 | 0.91% | 109 |
@@ -6388,6 +6419,7 @@ Same setup as the above, but we're swapping out Full Auto and bringing in Threat
   Perks 2 [ 16%]: Vorpal
   MWorks  [ 50%]: Stability MW, Range MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🧵🧵🧵🌟 | 0.91% | 109 |
@@ -6401,6 +6433,7 @@ No first column perk! If you really want Vorpal on your Energy sidearm, here ya 
   Perks 2 [ 16%]: Vorpal
   MWorks  [ 50%]: Stability MW, Range MW
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | ⚙⚙⚙🌟 | 5.46% | 18 |
@@ -6418,6 +6451,7 @@ The SI-2 is the only sidearm in the game that can roll with both Demolitionist a
   Perks 2 [ 16%]: Dragonfly
   MWorks  [100%]: *
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🎇 | 2.78% | 36 |
@@ -6430,6 +6464,7 @@ Sidearms are all the rage in the Season 10 Artifact, and certainly will be again
   Perks 2 [ 16%]: Vorpal
   MWorks  [100%]: *
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🏆 | 2.78% | 36 |
@@ -6442,6 +6477,7 @@ Like Grave Robber and Swashbuckler, these two perks play super well off each oth
   Perks 2 [ 16%]: Surrounded
   MWorks  [100%]: *
 ```
+
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🏢 | 2.78% | 36 |
