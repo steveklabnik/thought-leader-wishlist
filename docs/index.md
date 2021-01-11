@@ -110,7 +110,7 @@ These rolls are floored at `36` Stability (before `Surplus`) since that's the ba
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🥶🥶🥶🌟 Collector's Edition | 0.05% | 2160 |
-| 🥶🥶🥶 CE (+barrels) | 0.17% | 575 <br> Next Line <br> Third Line|
+| 🥶🥶🥶 CE (+barrels) | 0.17% | 575 |
 | 🥶🥶🥶 CE (+magazines) | 0.12% | 840 |
 | 🥶🥶🥶 CE (-masterworks) | 0.19% | 540 |
 | 🥶🥶 (-barrels) | 0.21% | 480 |
