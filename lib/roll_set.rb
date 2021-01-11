@@ -52,6 +52,10 @@ class RollSet
       end
       output.puts('```')
       
+      # When rendering into GitHub Pages via Kramdown, you need an extra line before
+      # the table for it to be recognized.
+      output.puts
+      
       output.puts('| Variant | Chance | 1 in ? |')
       output.puts('|:-|-:|-:|')
       @rolls.each do |r|
