@@ -75,7 +75,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * Trophy Hunter ([PvP](#trophy-hunter---pvp), [PvE](#trophy-hunter---pve))
 
 ---
-## Cold Front
+# Cold Front
 *For all possible perks, check out **Cold Front** over on [light.gg](https://www.light.gg/db/items/1506719573/cold-front/)*
 
 Cold Front is a 750 RPM Aggressive Frame ("High damage, high recoil") Kinetic Submachine Gun, first introduced long ago during the Season 9 Dawning event. It's back once again with a whole new set of perks from Year 4. If you want to see the old perks, here's a still from [Aztec's review](https://youtu.be/ZK1JPaCASnQ?t=166) in 2019.
@@ -91,13 +91,13 @@ Cold Front is a 750 RPM Aggressive Frame ("High damage, high recoil") Kinetic Su
 Ehroar and co. are excited for a couple of reasons. First, Cold Front has an (obviously) higher rate of fire than its 600 RPM counterpart without being all that much different stat-wise (save for Stability of course). It can also  roll with the new damage-boosting perk `One for All` which we'll get to down in the PvE section below.
 
 If you remember the Cold Front from last year, you'll recall its Stability is one of the lowest in the game at `16`. Technically that's "better" than Hard Truth's `15` though not by much. This is less of an issue on PC than Console, though it's still an issue. However, this time around we have two new tools at our disposal: `Surplus` and `Dynamic Sway Reduction`.
-### Cold Front - PvP/PvE Double Duty
+## Cold Front - PvP/PvE Double Duty
 The cornerstones of both PvE and PvP are `Surplus` and `Dynamic Sway Reduction`. The best PvE and PvP rolls center around having one of these perks in column three. If you end up with a "PvE roll" that also happens to have super high Stability, then you've got the Holy Grail of Cold Front rolls. Congrats! For an explanation of these rolls, please read further down towards the specific PvE and PvP sections.
 
 These rolls are floored at `36` Stability (before `Surplus`) since that's the base Stability of other similar SMGS (e.g. Ikelos).
 
 *Yes, these rolls are all based on quotes from the great [Dr. Victor Fries](https://www.imdb.com/title/tt0118688/characters/nm0000216#quotes).*
-#### **Endless Winter**
+### **Endless Winter**
 `Surplus` + `One for All` + all the `Stability` you can get.
 ```
   Barrels [ 22%]: Chambered Compensator
@@ -117,7 +117,7 @@ These rolls are floored at `36` Stability (before `Surplus`) since that's the ba
 | 🥶🥶 (-magazines) | 0.19% | 540 |
 | 🥶🥶 (+barrels, -masterworks) | 0.69% | 143 |
 
-#### **Everything Freezes!**
+### **Everything Freezes!**
 Same as the above, replacing `Surplus` with `Dynamic Sway Reduction`.
 ```
   Barrels [ 22%]: Chambered Compensator
@@ -137,7 +137,7 @@ Same as the above, replacing `Surplus` with `Dynamic Sway Reduction`.
 | 🥶🥶 (-magazines) | 0.19% | 540 |
 | 🥶🥶 (+barrels, -masterworks) | 0.69% | 143 |
 
-#### **Let's Kick Some Ice!**
+### **Let's Kick Some Ice!**
 Same as the above, but we'll take any damage perk.
 ```
   Barrels [ 22%]: Chambered Compensator
@@ -157,9 +157,9 @@ Same as the above, but we'll take any damage perk.
 | 🧊🧊 (-magazines) | 1.11% | 89 |
 | 🧊🧊 (+barrels, -masterworks) | 4.17% | 24 |
 
-### Cold Front - PvP
+## Cold Front - PvP
 You'll notice I didn't include any final column perks. Rampage doesn't meaningfully realistically alter the TTK and Thresh adds so little to your super that it's not worth calling out as the Collector's Edition. Whatever you get in that final column is fine.
-#### **Ice to See You/Surplus**
+### **Ice to See You/Surplus**
 Cold Front needs a lot of help in the Stability department, which is the entire focus of this roll. At best, you'll be able to get Stability up from `16` to `51` plus the benefits coming from Surplus. This puts you way above the base Stability on the vaunted Antiope-D and other Precision Frame SMGs. The Recoil is `92` so be sure to throw on a Counterbalance mod if you don't end up with a +Recoil barrel.
 ```
   Barrels [ 22%]: Chambered Compensator
@@ -182,7 +182,7 @@ Cold Front needs a lot of help in the Stability department, which is the entire 
 | 🥶📦 (+barrels, -magazines) | 4.17% | 24 |
 | 🥶📦 (+magazines, -masterworks) | 2.86% | 35 |
 
-#### **Ice to See You/Dynamic Sway**
+### **Ice to See You/Dynamic Sway**
 Same as the above, swapping DSR in for Surplus. These rolls are otherwise identical but Surplus is so much better than DSR I wanted to call it out 😀
 ```
   Barrels [ 22%]: Chambered Compensator
@@ -205,11 +205,11 @@ Same as the above, swapping DSR in for Surplus. These rolls are otherwise identi
 | 🥶🕺 (+barrels, -magazines) | 4.17% | 24 |
 | 🥶🕺 (+magazines, -masterworks) | 2.86% | 35 |
 
-### Cold Front - PvE
+## Cold Front - PvE
 With the addition of `Surplus` and `One for All` to the Cold Front perk pool, we're looking at a strong contender for one of the best kinetic weapons of all time. `Surplus` improves Stability and Reload (two big Cold Front drawbacks) and `One for All` provides a tremendous damage boost and leaves your mod slot free for Minor, Major or Boss Spec.
 
 ***`Dragonfly` is going to be replaced by `Swashbuckler` so when you see `Dragonfly` below, you know what it means. The wishlist will be updated after Destiny is updated.***
-#### **Blizzard**
+### **Blizzard**
 While `Surplus` will be boosting Stability, the Stability is so low and difficult to manage on console that we'll continue to crave it as a backstop for when we're at lower tiers of `Surplus` benefits.
 ```
   Barrels [ 22%]: Chambered Compensator
@@ -230,7 +230,7 @@ While `Surplus` will be boosting Stability, the Stability is so low and difficul
 | 🌨🌨🌨📦 (-masterworks) | 0.19% | 540 |
 | 🌨🌨📦 (-barrels, -magazines, -masterworks) | 3.33% | 30 |
 
-#### **Snowstorm**
+### **Snowstorm**
 Same as the above, swapping `Dynamic Sway Reduction` in for `Surplus`.
 ```
   Barrels [ 22%]: Chambered Compensator
@@ -251,7 +251,7 @@ Same as the above, swapping `Dynamic Sway Reduction` in for `Surplus`.
 | ❄️❄️❄️📦 (-masterworks) | 0.19% | 540 |
 | ❄️❄️📦 (-barrels, -magazines, -masterworks) | 3.33% | 30 |
 
-#### **Light Dusting**
+### **Light Dusting**
 We'll take any combination of a handful of perks in the final columns for a super solid roll (recall that Dragonfly is being replaced by Swashbuckler shortly).
 ```
   Barrels [ 22%]: Chambered Compensator
@@ -272,7 +272,7 @@ We'll take any combination of a handful of perks in the final columns for a supe
 | ☃️☃️☃️📦 (-masterworks) | 1.11% | 89 |
 | ☃️☃️📦 (-barrels, -magazines, -masterworks) | 20.00% | 5 |
 
-## Glacioclasm
+# Glacioclasm
 *For all possible perks, check out **Glacioclasm** over on [light.gg](https://www.light.gg/db/items/1030895163/glacioclasm/)*
 
 The Glacioclasm is a High-Impact Frame Fusion Rifle released for the first time in The Dawning, 2020 (Y4 S12). Implicit in the High-Impact frames are that you gain accuracy while crouched: "more accurate when stationary and aiming down sights".
@@ -286,11 +286,11 @@ Here are some highlights called out from [CoolGuy's review](https://www.youtube.
   compression nerf]."
 
 From [Fallout's Review](https://www.youtube.com/watch?v=s7URG6BUl_Q), the difference between a "low range" (67) and "high range" (89) setup is that you gain a single meter before falloff, from 17-18m. That's likely why CoolGuy and Fallout suggest investing in Stability.
-### Glacioclasm - PvP
+## Glacioclasm - PvP
 As mentioned above, the Glacioclasm's base stats are some of the best ever for a High-Impact frame. Because of this, we can narrow our focus on perks and go for some amazing rolls in a post-Erentil world. This is a controller wishlist and so these rolls will primarily focus on `Stability` (which is probably also fine for M&K but apparently M&K players aren't into Fusions as much?)
 
 I [put together a chart](https://github.com/rslifka/wishlist/wiki/Weapon-Focus-Fusion-Rifles) from Fallout's video above and after some helpful Guardians let me voop 'em in a private match.
-#### **Accelerated Four-Bolter**
+### **Accelerated Four-Bolter**
 This roll is based around the combination of `Accelerated Coils` and `High-Impact Reserves`. This will allow you to four-bolt Guardians at `9` Resilience with two in the mag (i.e. when you spawn in). I have no Resilience statistics, but checked across three games last night and most people were `2`-`3` with a few around `5`. If you happen to get `Chambered Compensator` be sure to throw on a Counterbalance mod to hit `Recoil:100`.
 ```
   Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
@@ -311,7 +311,7 @@ This roll is based around the combination of `Accelerated Coils` and `High-Impac
 | 🐇🐇 (+perks1, +masterworks) | 1.23% | 81 |
 | 🐇 (+barrels, +perks1, +masterworks) | 2.72% | 36 |
 
-#### **Stable Four-Bolter**
+### **Stable Four-Bolter**
 Similar to the above, swapping in `Particle Repeater` to replace `Accelerated Coils`, but still centering around `High-Impact Reserves`. Because the Charge Time is slower you can now four-bolt Guardians at any `Resilience` value.
 ```
   Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
@@ -336,7 +336,7 @@ Similar to the above, swapping in `Particle Repeater` to replace `Accelerated Co
 | ⚡️⚡️ (+perks1, +masterworks) | 1.23% | 81 |
 | ⚡️ (+barrels, +perks1, +masterworks) | 2.72% | 36 |
 
-#### **Jittery Four-Bolter**
+### **Jittery Four-Bolter**
 There is a unique situation among rolls here that's super interesting. If you have a `Charge Time` Masterwork and `High-Impact Reserves` it means you can four-bolt Guardians at `6` Resilience with two in the mag. That's actually a downgrade from not having a `Charge Time` Masterwork... but(!) you get an upgrade with one in the mag in that you can now four-bolt Guardians with **any** Resilience.
 ```
   Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
@@ -359,7 +359,7 @@ There is a unique situation among rolls here that's super interesting. If you ha
 | ☕️☕️ (+barrels, -perks1) | 1.02% | 98 |
 | ☕️☕️ (+magazines, -perks1) | 1.11% | 89 |
 
-#### **Slow and Steady Four-Bolter**
+### **Slow and Steady Four-Bolter**
 This roll is based around `Liquid Coils`, which allows you to four-bolt Guardians at `9` Resilience. The introduction of `Liquid Coils` opens this roll up quite a bit. You won't find a `Charge Time` Masterwork here because it would drop the roll down to `6` Resilience.
 ```
   Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
@@ -381,7 +381,7 @@ This roll is based around `Liquid Coils`, which allows you to four-bolt Guardian
 | 🐢🐢 (-perks2) | 0.46% | 216 |
 | 🐢 (+barrels, +perks1, +masterworks) | 5.43% | 18 |
 
-#### **Workhorse**
+### **Workhorse**
 The base stats on Glacioclasm are rock solid are terrific. This roll captures the remainder of good rolls that do not include Coil- modifying magazines and/or High-Impact Reserves.
 ```
   Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
@@ -2155,7 +2155,7 @@ It's one of the small number of Power weapons in the World Drop loot pool. You'r
   Perks 2 [100%]: *
   MWorks  [100%]: *
   ```
-## Stars in Shadow
+# Stars in Shadow
 *For all possible perks, check out **Stars in Shadow** over on [light.gg](https://www.light.gg/db/items/2050789284/stars-in-shadow/)*
 
 Stars in Shadow is a 340 RPM "High-Impact Frame" Energy Pulse Rifle introduced in Destiny 2 Year 4 (Beyond Light). See [how it compares](https://www.light.gg/db/items/compare/?h=B6PI-k;BIfK-Z;BFN60K;) to the existing High-Impacts that lit up in Season 11. It's a Crucible drop and if you're an avid PvP player, you'll be swimming in these rolls in no time. It's a solid Pulse Rifle with good base stats, a clean sight and a great feel. I'm sure you'll see more coverage in the coming weeks as people settle in to Beyond Light and Season 12.
@@ -2163,13 +2163,13 @@ Stars in Shadow is a 340 RPM "High-Impact Frame" Energy Pulse Rifle introduced i
 ***"Why are the odds for these rolls so low?"*** The final two columns typically have four to six perks in them. In the case of Stars in Shadow, they each have twelve.
 
 ***"Why don't you have any rolls with Thresh?"*** Thresh doesn't seem to be all that game-changing (1-3% Super bonus on kill) and doesn't synergize with other perks, so we're skipping it.
-### Stars in Shadow - PvP
+## Stars in Shadow - PvP
 These rolls are going to be similar to those we captured in our coverage of [Cold Denial](#cold-denial---pvp) as it's a comparable 340 RPM.
 
 ***"Why don't you have any Outlaw or Feeding Frenzy PvP rolls?"***
 
 Good question! Glove mod slots are inexpensive and not contentious in PvP. If you want much faster reload, throw on a two-Energy Pulse Rifle Reload mod. Feeding Frenzy was changed to provide a noticeable benefit after three successive kills, so I no longer recommend it for PvP.
-#### **Vertical/Dark Side**
+### **Vertical/Dark Side**
 This set of rolls is all about maxing out Recoil, and keeps `Arrowhead Brake` constant as our barrel. You have the option of achieving `100` Recoil by slotting in a Counterbalance mod. If not, go nuts with your nearly perfectly vertical `94`. `Killing Wind` is S-tier and you'd be happy to get any of the final column perks.
 ```
   Barrels [ 22%]: Arrowhead Brake
@@ -2187,7 +2187,7 @@ This set of rolls is all about maxing out Recoil, and keeps `Arrowhead Brake` co
 | 🏔🌒🌒🌒 CE (-masterworks) | 0.18% | 567 |
 | 🏔🌒🌒 (-magazines, -masterworks) | 0.62% | 162 |
 
-#### **Dark Side**
+### **Dark Side**
 Same as above, using any Stability-boosting barrel, which we'll later relax down to no barrel preference.
 ```
   Barrels [ 83%]: Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling
@@ -2209,7 +2209,7 @@ Same as above, using any Stability-boosting barrel, which we'll later relax down
 | 🌑🌑 (-magazines, -masterworks) | 2.31% | 43 |
 | 🌑 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 
-#### **Vertical/Gardener**
+### **Vertical/Gardener**
 This set of rolls pivots around `Firmly Planted`. It means that, even on console we can opt for `Range`-boosting perks because `Firmly Planted` gives us all the `Stability` we need.
 ```
   Barrels [ 22%]: Arrowhead Brake
@@ -2226,7 +2226,7 @@ This set of rolls pivots around `Firmly Planted`. It means that, even on console
 | 🏔🌿🌿🌿 CE (-magazines) | 0.15% | 648 |
 | 🏔🌿🌿 (-magazines, -masterworks) | 0.62% | 162 |
 
-#### **The Gardener**
+### **The Gardener**
 Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the barrel requirement as well.
 ```
   Barrels [ 72%]: Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling
@@ -2247,7 +2247,7 @@ Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the 
 | 🌿🌿 (-magazines, -masterworks) | 2.01% | 49 |
 | 🌿 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 
-#### **The Vertical/Hoarder**
+### **The Vertical/Hoarder**
 This set of rolls pivots around `Surplus`. It provides a roughly 25%, 13% and 8% boost depending on how many abilities are charged. You really want to be shooting for all three abilities charged at once which means either foregoing their use entirely or perhaps investing in high tiers of the respective stat (Strength, Discipline, or <class stat>) so that you can quickly recharge a single one. The tradeoff is going around with a supercharged weapon the whole match.
 ```
   Barrels [ 22%]: Arrowhead Brake
@@ -2264,7 +2264,7 @@ This set of rolls pivots around `Surplus`. It provides a roughly 25%, 13% and 8%
 | 🏔📦📦📦 (-magazines) | 0.15% | 648 |
 | 🏔📦📦 (-magazines -masterworks) | 0.62% | 162 |
 
-#### **The Hoarder**
+### **The Hoarder**
 Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the barrel requirement as well.
 ```
   Barrels [ 72%]: Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling
@@ -2285,9 +2285,9 @@ Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the 
 | 📦📦 (-magazines, -masterworks) | 2.01% | 49 |
 | 📦 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 
-### Stars in Shadow - PvE
+## Stars in Shadow - PvE
 In PvE you're going for as much `Range` as you can get with sustained damage upkeep. There are some solid perks here not in our rolls, becase you don't need this wishlist to tell you that Demolitionist is a good perk 🙃
-#### **Rapid Reload**
+### **Rapid Reload**
 All Range and all damage.
 ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
@@ -2309,7 +2309,7 @@ All Range and all damage.
 | ♻️♻️ (-magazines, -masterworks) | 0.81% | 123 |
 | ♻️ (-barrels, -magazines, -masterworks) | 1.39% | 72 |
 
-#### **Barrier Slayer**
+### **Barrier Slayer**
 In seasons where Pulse Rifles end up with Barrier mods, Genesis will proc when the shield breaks while you'll wrecking the champions with Vorpal. Other shields will also proc Genesis, for example "Enlightened" enemies in the Garden of Salvation raid.
 ```
   Barrels [ 58%]: Hammer-Forged Rifling, Smallbore, Corkscrew Rifling
@@ -3448,7 +3448,7 @@ The main difference is that the perks on Orewing's are in different columns, so 
   Perks 2 [ 40%]: Auto-Loading Holster, Demolitionist
   MWorks  [100%]: *
   ```
-## The Steady Hand
+# The Steady Hand
 *For all possible perks, check out **The Steady Hand** over on [light.gg](https://www.light.gg/db/items/2220884262/the-steady-hand/)*
 
 The Steady Hand (TSH) is a 120 RPM "Aggressive Frame" Kinetic Hand Cannon, re-issued in Year 4 with random rolls. Prior to Season 12 in November 2020, Aggressive Frames were bumped from 110 RPM to 120 RPM as part of a [large scale Hand Cannon rework](https://www.bungie.net/en/News/Article/49676). The general consensus thus far is that TSH is terrific.
@@ -3464,11 +3464,11 @@ The Steady Hand (TSH) is a 120 RPM "Aggressive Frame" Kinetic Hand Cannon, re-is
 What I love about these videos (and this set of perks) is that there is not absolute agreement on which roll is the best.
 
 Iron Banner weapons tend to shine in PvP, so we won't feature many PvE builds.
-### The Steady Hand - PvP
+## The Steady Hand - PvP
 With Bungie's announcement that they can now have different falloff tiers across Hand Cannons (see patch notes above) the 120s are, perhaps oddly, now able to compete with Pulse Rifles. That, plus the fact that this is a controller-centric wishlist, means we'll be favouring Stability and Aim Assist perks.
 
 > *You don't really need to worry about Range in my opinion so much on these hand cannons since they already have so much to begin with. Not to say it isn't valuable, but I think that it might be worth boosting other aspects of this weapon."* - Drewsky
-#### **Locked On**
+### **Locked On**
 Moving Target and Iron Gaze are going to bump Target Acquisition immensely. You give up a few meters of damage falloff, and in return significantly increased accuracy.
 ```
   Barrels [ 60%]: Steadyhand HCS, Fastdraw HCS
@@ -3495,7 +3495,7 @@ Moving Target and Iron Gaze are going to bump Target Acquisition immensely. You 
 | 🔒🔒 (-magazines, -masterworks) | 1.67% | 60 |
 | 🔒 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 
-#### **Demon of Sixes Street**
+### **Demon of Sixes Street**
 This is primarily a roll for sixes where TSH can shine as a cleanup weapon with a higher chance of chaining kills. Keep in mind that a `Resilience` of `5` cancels out the Swashbuckler two-tap from full health but in sixes that's not always what you're dealing with. If you can pair this with a ranged melee (Swashbuckler x 5) you'llI wouldn't suggest this roll for Comp or Trials.
 ```
   Barrels [ 60%]: Steadyhand HCS, Fastdraw HCS
@@ -3522,7 +3522,7 @@ This is primarily a roll for sixes where TSH can shine as a cleanup weapon with 
 | 👹👹 (-magazines, -masterworks) | 1.67% | 60 |
 | 👹 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 
-#### **Float Like a Butterfly**
+### **Float Like a Butterfly**
 If you pair a Quickdraw TSH with a breach-load GL with a Quick Access Sling mod, you have a super powerful combination. Pairing it with Le Monarque has a similar effect: massive damage with an opening shot from your Energy weapon and a single shot from TSH to clean up. With Quickdraw and Snapshot, this Aggressive Frame can feel like a Lightweight.
 ```
   Barrels [ 60%]: Fastdraw HCS, Steadyhand HCS
@@ -3549,7 +3549,7 @@ If you pair a Quickdraw TSH with a breach-load GL with a Quick Access Sling mod,
 | 🦋🦋 (-magazines, -masterworks) | 1.67% | 60 |
 | 🦋 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 
-#### **Workhorse**
+### **Workhorse**
 Many phenomenal perks in column three and column four. As Fallout mentions in his review, you'd be kinda happy to get any of them.
 ```
   Barrels [ 60%]: Fastdraw HCS, Steadyhand HCS
@@ -3576,9 +3576,9 @@ Many phenomenal perks in column three and column four. As Fallout mentions in hi
 | 🐴🐴 (-magazines, -masterworks) | 15.00% | 6 |
 | 🐴 (-barrels, -magazines, -masterworks) | 25.00% | 4 |
 
-### The Steady Hand - PvE
+## The Steady Hand - PvE
 Generally in PvE you're going for as much `Range` as you can get with sustained damage upkeep. If you liked [The Duke Mk. 44](https://www.light.gg/db/items/2112909414/duke-mk-44/) then TSH could be for you.
-#### **Rapid Reload**
+### **Rapid Reload**
 Without Outlaw, you're going to have to rely on Transversives, Marksman's Dodge, etc. to reload effectively in PvE. Without it, you're looking at a lot of downtime in situations where there are better alternatives. This is the case with Outlaw-based Duke rolls and people absolutely loved that sooo 🤷‍♂️
 ```
   Barrels [ 60%]: Hitmark HCS, Truesight HCS
@@ -3882,14 +3882,14 @@ As mentioned in the PvP summary, Talons is still rocking that Season 4 perk pool
   Perks 2 [ 16%]: Rampage
   MWorks  [100%]: *
   ```
-## Heritage
+# Heritage
 *For all possible perks, check out **Heritage** over on [light.gg](https://www.light.gg/db/items/4248569242/heritage/)*
 
 Heritage is a kinetic "precision frame" (slug) shotgun that can drop from the 2nd and 3rd encounters of the Deep Stone Crypt raid.  After the initial drop, you have a chance of getting additional rolls from the raid's secret chests.
 As of Season 12, it is the only legendary kinetic slug shotgun that is viable in leveled content.
-### Heritage - PvE
+## Heritage - PvE
 Slug shotguns currently enable some of the highest DPS in the game, and are the meta-loadout for boss DPS in a number of encounters, including the final boss of the raid.
-#### **Re-Re-Re-Re-Combo Breaker!**
+### **Re-Re-Re-Re-Combo Breaker!**
 Reconstruction is a new perk that currently only drops on rolls from the DSC Raid.  Every 4 seconds it loads 10% of the base magazine from reserves into the gun, and it maxes out at 2x the normal magazine size.  It starts at a base of 6 (12) but with Extended Mag and the Backup Mag mod you can get up to 8 (16) shots without reloading!
 None of the traditional damage perks (Rampage, Kill Clip, Vorpal) are available on this gun, so our best bet for the 4th column is another new perk, Recombination.  Final blows from all "elemental" sources (so, everything that isn't this shotgun) stack up to 10x.  Each stack will add 10% for the next Heritage shot (so up to 2x damage).
 ```
@@ -3911,10 +3911,10 @@ None of the traditional damage perks (Rampage, Kill Clip, Vorpal) are available 
 | 📈📈️ (-magazines, -masterworks) | 1.62% | 61 |
 | 📈️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 
-### Heritage - PvP
+## Heritage - PvP
 Heritage has the highest aim assist of any slug shotgun.  [Drewsky](https://www.youtube.com/watch?v=XUGZIasUu9o) says "this weapon is really comparable to The Chaperone."
 The base one hit kill range is 10.5 meters, you can increase that up to 11.9m with Killing Wind and Slideshot active.
-#### **Killing Slide**
+### **Killing Slide**
 All Range and all damage.
 ```
   Barrels [ 58%]: Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
@@ -5611,7 +5611,7 @@ Fortunately the perk set is very small and chances are you'll get the roll you'r
   Perks 2 [ 40%]: Flash Counter
   MWorks  [100%]: *
   ```
-## Whispering Slab
+# Whispering Slab
 *For all possible perks, check out **Whispering Slab** over on [light.gg](https://www.light.gg/db/items/211938782/whispering-slab/)*
 
 **🌟💥🎉 BOW HYPE TIME 🌟💥🎉 BOW HYPE TIME 🌟💥🎉 BOW HYPE TIME 🌟💥🎉**
@@ -5625,11 +5625,11 @@ Many months ago, I saved a post by [/u/TheGuiltySpark117](https://www.reddit.com
 I reached out to TheGuiltySpark117 who graciously wrote up thoughts and rolls for Whispering Slab. All of the content that follows is courtesy of TheGuiltySpark117. Plese head over to the [latest edition](https://www.reddit.com/r/CruciblePlaybook/comments/fkgm0k/an_indepth_guide_to_using_a_bow_in_competitive/) of the guide and show your appreciation.
 
 > I have two possible loadouts that I would consider a god roll for pvp. I don’t see a loadout for whispering slab that would be great for PvE, however.
-### Whispering Slab - PvP
+## Whispering Slab - PvP
 > You might’ve noticed that these aren’t specialized to the two types of playstyles I mention in my post. I did this on purpose because there are a much larger amount of players who aren’t bow mains, and care less about that kind of thing. These two are the best generalized god rolls that are tailored to the perspective of the majority. Both loadouts, however, are something that even I as a bow main in the crucible would be interested in acquiring.
 
 > There are two versions of this bow that I would consider a god roll depending on two different play styles: one being `Aggressive`, and the other being more `Reserved`.
-#### **GuiltySpark's Aggro Slab**
+### **GuiltySpark's Aggro Slab**
 Here's a breakdown of what we're going for:
 
 
@@ -5671,7 +5671,7 @@ Here's a breakdown of what we're going for:
 | 😡😡 (+barrels, +magazines, +masterworks) | 0.70% | 143 |
 | 😡 (-barrels, -magazines, +masterworks) | 2.22% | 44 |
 
-#### **GuiltySpark's Reserved Slab**
+### **GuiltySpark's Reserved Slab**
 The objective of this loadout is to max it's Accuracy as high as it can go, so that the player can use it at longer distances and not feel forced to engage at closer ranges.
 
   * `High Tension String`: We're going for max accuracy with this
@@ -6416,17 +6416,17 @@ Otherwise we're shooing for higher Stability
   Perks 2 [ 16%]: Firing Line
   MWorks  [100%]: *
   ```
-## Seventh Seraph SI-2
+# Seventh Seraph SI-2
 *For all possible perks, check out **Seventh Seraph SI-2** over on [light.gg](https://www.light.gg/db/items/3937866388/seventh-seraph-si-2/)*
 
 The SI-2 is the 2020 version of the Anonymous Autumn (Kyt: *"which is the best-in-class for lightweight sidearms"*) and is the only other randomly rolled 360 RPM Energy sidearm. Mercules is on the same page: *"It (SI-2) doesn't have great Stability or great Range. I would pick a well-rolled Anonymous Autumn over this every time."* Why do they say that? It's got basically the same stats as an Anonymous Autumn but has 33% less Range and 20% less Stability. On the plus side the SI-2 has 7% better Handling (64 > 69) 🙃
-### Seventh Seraph SI-2 - PvP
+## Seventh Seraph SI-2 - PvP
 TrueVanguard, who absolutely loves the Anonymous Autumn (with over 14,000 kills) depicts the SI-2 as situational, relying primarily on Vorpal to justify using it. Check out [his thoughts](https://www.youtube.com/watch?v=cCtP2PjAEgY).
 
 If you are going to consider the SI-2 for PvP, a few things to keep in mind:
 * The recoil direction is 95, so no need to worry about straightening it out. I.e. the +Recoil barrels shouldn't be your first pick. Instead, focus on Range and Stability.
 * Full Auto is going to be a make-or-break perk for some, as many guardians have a love-it-or-hate-it relationsihp with single-shot sidearms. If that's your thing, know that no other perk in that column is a must-have. I find that 360s are unsuable for me without it, so I'll be picking one of these up to see how it plays with Vorpal.
-#### **Full Auto Super Shredder**
+### **Full Auto Super Shredder**
 These rolls aren't super tight on the Barrel and Magazine front because they aren't going to dramatically alter the value of the overall roll. Vorpal is really the key here. Without Vorpal, you're better off using the better-rolled Anonymous Autumn as mentioned above. Otherwise we're going for +Range and +Stability wherever we can get it.
 ```
   Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling
@@ -6441,7 +6441,7 @@ These rolls aren't super tight on the Barrel and Magazine front because they are
 | 💥💥💥🌟 | 0.91% | 109 |
 | 💥💥💥 (-masterworks) | 1.82% | 54 |
 
-#### **Threat Level Super Shredder**
+### **Threat Level Super Shredder**
 Same setup as the above, but we're swapping out Full Auto and bringing in Threat Detector.
 ```
   Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling
@@ -6456,7 +6456,7 @@ Same setup as the above, but we're swapping out Full Auto and bringing in Threat
 | 🧵🧵🧵🌟 | 0.91% | 109 |
 | 🧵🧵🧵 (-masterworks) | 1.82% | 54 |
 
-#### **Basic Super Shredder**
+### **Basic Super Shredder**
 No first column perk! If you really want Vorpal on your Energy sidearm, here ya go.
 ```
   Barrels [ 83%]: Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling
@@ -6471,11 +6471,11 @@ No first column perk! If you really want Vorpal on your Energy sidearm, here ya 
 | ⚙⚙⚙🌟 | 5.46% | 18 |
 | ⚙⚙⚙ (-masterworks) | 10.91% | 9 |
 
-### Seventh Seraph SI-2 - PvE
+## Seventh Seraph SI-2 - PvE
 Like all other Seraph weapons, the SI-2 contributes to the generation of Warmind cells in PvE. If that's not your thing, you can pretty much pass on this weapon full stop. Since it can roll with Dragonfly, it could have made beautiful music with the `Wrath of Rasputin` Warmind mod: `Solar splash damage final blows have a chance to create Warmind Cells`. Unfortunately the SI-2 is a Void weapon 👿
 
 That being said, there are a few combos that could prove interesting for the discerning collector / sidearm aficionado.
-#### **Sparks Flying**
+### **Sparks Flying**
 The SI-2 is the only sidearm in the game that can roll with both Demolitionist and Dragonfly. That's exciting because Demolitionist counts the Dragonfly collateral kills towards getting your grenade back. Don't forget the `Dragonfly Spec` mod from Ada-1!
 ```
   Barrels [100%]: *
@@ -6489,7 +6489,7 @@ The SI-2 is the only sidearm in the game that can roll with both Demolitionist a
 |:-|-:|-:|
 | 🎇 | 2.78% | 36 |
 
-#### **Champion Slayer**
+### **Champion Slayer**
 Sidearms are all the rage in the Season 10 Artifact, and certainly will be again at some point in the future. If you want to dump rounds in to Champions, you don't have any other options in this slot.
 ```
   Barrels [100%]: *
@@ -6503,7 +6503,7 @@ Sidearms are all the rage in the Season 10 Artifact, and certainly will be again
 |:-|-:|-:|
 | 🏆 | 2.78% | 36 |
 
-#### **You're Trapped In Here With Me**
+### **You're Trapped In Here With Me**
 Like Grave Robber and Swashbuckler, these two perks play super well off each other. If you love sidearms, considering adding this to your collection. You'll do some serious damage during Seraph Tower events.
 ```
   Barrels [100%]: *
