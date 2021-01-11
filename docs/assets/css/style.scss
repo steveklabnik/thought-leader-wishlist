@@ -5,6 +5,7 @@
 // Match up with Bungie's background for the Beyond Light release
 body {
  background: #181c25; 
+ color: #f5f5f5;
 }
 
 // Match up with Bungie's theme
@@ -26,6 +27,11 @@ section {
   margin-top: unset;
   // We need a little more breathing room
   max-width: 1000px;
+}
+
+section #title p {
+  color: unset;
+  font-family: unset;
 }
 
 // Use the standard bullet instead of the chevron
@@ -50,6 +56,10 @@ pre {
   border-radius: 3px;
   box-shadow: unset;
   padding: 12px 2px;
+}
+
+pre code {
+  padding: 0 0 0 13px;
 }
 
 // Variant tables are sometimes multiline; push everything upwards
