@@ -26,3 +26,8 @@ code {
   margin: 0 2px;
   padding: 4p 0;
 }
+
+// Variant tables are sometimes multiline; push everything upwards
+td {
+  vertical-align: top;
+}
