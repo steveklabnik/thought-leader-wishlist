@@ -19,8 +19,6 @@ task :generate_thoughts, [:environment] do |t, args|
 
   File.open(thoughts_filename(args.environment), 'w') do |thoughts|
     thoughts.puts <<-PRE
-# **Welcome to the Sliflist!**
-
 To use this wishlist in DIM, copy and paste this URL in the Settings
 page under "Wish List"
 
