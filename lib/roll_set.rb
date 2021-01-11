@@ -35,7 +35,7 @@ class RollSet
 
   def generate_thoughts_txt
     StringIO.new.tap do |output|
-      output.puts("### **#{@name}**")
+      output.puts("### Roll: **#{@name}**")
       
       output.puts(@overview)
 
