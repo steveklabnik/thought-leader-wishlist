@@ -116,6 +116,7 @@ These rolls are floored at `36` Stability (before `Surplus`) since that's the ba
 | 🥶🥶 (-barrels) | 0.21% | 480 |
 | 🥶🥶 (-magazines) | 0.19% | 540 |
 | 🥶🥶 (+barrels, -masterworks) | 0.69% | 143 |
+
 #### **Everything Freezes!**
 Same as the above, replacing `Surplus` with `Dynamic Sway Reduction`.
 ```
@@ -135,6 +136,7 @@ Same as the above, replacing `Surplus` with `Dynamic Sway Reduction`.
 | 🥶🥶 (-barrels) | 0.21% | 480 |
 | 🥶🥶 (-magazines) | 0.19% | 540 |
 | 🥶🥶 (+barrels, -masterworks) | 0.69% | 143 |
+
 #### **Let's Kick Some Ice!**
 Same as the above, but we'll take any damage perk.
 ```
@@ -154,6 +156,7 @@ Same as the above, but we'll take any damage perk.
 | 🧊🧊 (-barrels) | 1.25% | 80 |
 | 🧊🧊 (-magazines) | 1.11% | 89 |
 | 🧊🧊 (+barrels, -masterworks) | 4.17% | 24 |
+
 ### Cold Front - PvP
 You'll notice I didn't include any final column perks. Rampage doesn't meaningfully realistically alter the TTK and Thresh adds so little to your super that it's not worth calling out as the Collector's Edition. Whatever you get in that final column is fine.
 #### **Ice to See You/Surplus**
@@ -178,6 +181,7 @@ Cold Front needs a lot of help in the Stability department, which is the entire 
 | 🥶🥶📦 (+barrels, -masterworks) | 4.17% | 24 |
 | 🥶📦 (+barrels, -magazines) | 4.17% | 24 |
 | 🥶📦 (+magazines, -masterworks) | 2.86% | 35 |
+
 #### **Ice to See You/Dynamic Sway**
 Same as the above, swapping DSR in for Surplus. These rolls are otherwise identical but Surplus is so much better than DSR I wanted to call it out 😀
 ```
@@ -200,6 +204,7 @@ Same as the above, swapping DSR in for Surplus. These rolls are otherwise identi
 | 🥶🥶🕺 (+barrels, -masterworks) | 4.17% | 24 |
 | 🥶🕺 (+barrels, -magazines) | 4.17% | 24 |
 | 🥶🕺 (+magazines, -masterworks) | 2.86% | 35 |
+
 ### Cold Front - PvE
 With the addition of `Surplus` and `One for All` to the Cold Front perk pool, we're looking at a strong contender for one of the best kinetic weapons of all time. `Surplus` improves Stability and Reload (two big Cold Front drawbacks) and `One for All` provides a tremendous damage boost and leaves your mod slot free for Minor, Major or Boss Spec.
 
@@ -224,6 +229,7 @@ While `Surplus` will be boosting Stability, the Stability is so low and difficul
 | 🌨🌨🌨📦 (-magazines) | 0.19% | 540 |
 | 🌨🌨🌨📦 (-masterworks) | 0.19% | 540 |
 | 🌨🌨📦 (-barrels, -magazines, -masterworks) | 3.33% | 30 |
+
 #### **Snowstorm**
 Same as the above, swapping `Dynamic Sway Reduction` in for `Surplus`.
 ```
@@ -244,6 +250,7 @@ Same as the above, swapping `Dynamic Sway Reduction` in for `Surplus`.
 | ❄️❄️❄️📦 (-magazines) | 0.19% | 540 |
 | ❄️❄️❄️📦 (-masterworks) | 0.19% | 540 |
 | ❄️❄️📦 (-barrels, -magazines, -masterworks) | 3.33% | 30 |
+
 #### **Light Dusting**
 We'll take any combination of a handful of perks in the final columns for a super solid roll (recall that Dragonfly is being replaced by Swashbuckler shortly).
 ```
@@ -264,6 +271,7 @@ We'll take any combination of a handful of perks in the final columns for a supe
 | ☃️☃️☃️📦 (-magazines) | 1.11% | 89 |
 | ☃️☃️☃️📦 (-masterworks) | 1.11% | 89 |
 | ☃️☃️📦 (-barrels, -magazines, -masterworks) | 20.00% | 5 |
+
 ## Glacioclasm
 *For all possible perks, check out **Glacioclasm** over on [light.gg](https://www.light.gg/db/items/1030895163/glacioclasm/)*
 
@@ -302,6 +310,7 @@ This roll is based around the combination of `Accelerated Coils` and `High-Impac
 | 🐇🐇 (+barrels, +masterworks) | 0.68% | 147 |
 | 🐇🐇 (+perks1, +masterworks) | 1.23% | 81 |
 | 🐇 (+barrels, +perks1, +masterworks) | 2.72% | 36 |
+
 #### **Stable Four-Bolter**
 Similar to the above, swapping in `Particle Repeater` to replace `Accelerated Coils`, but still centering around `High-Impact Reserves`. Because the Charge Time is slower you can now four-bolt Guardians at any `Resilience` value.
 ```
@@ -326,6 +335,7 @@ Similar to the above, swapping in `Particle Repeater` to replace `Accelerated Co
 | ⚡️⚡️ (+magazines, +masterworks) | 0.56% | 179 |
 | ⚡️⚡️ (+perks1, +masterworks) | 1.23% | 81 |
 | ⚡️ (+barrels, +perks1, +masterworks) | 2.72% | 36 |
+
 #### **Jittery Four-Bolter**
 There is a unique situation among rolls here that's super interesting. If you have a `Charge Time` Masterwork and `High-Impact Reserves` it means you can four-bolt Guardians at `6` Resilience with two in the mag. That's actually a downgrade from not having a `Charge Time` Masterwork... but(!) you get an upgrade with one in the mag in that you can now four-bolt Guardians with **any** Resilience.
 ```
@@ -348,6 +358,7 @@ There is a unique situation among rolls here that's super interesting. If you ha
 | ☕️☕️ (-perks1) | 0.46% | 216 |
 | ☕️☕️ (+barrels, -perks1) | 1.02% | 98 |
 | ☕️☕️ (+magazines, -perks1) | 1.11% | 89 |
+
 #### **Slow and Steady Four-Bolter**
 This roll is based around `Liquid Coils`, which allows you to four-bolt Guardians at `9` Resilience. The introduction of `Liquid Coils` opens this roll up quite a bit. You won't find a `Charge Time` Masterwork here because it would drop the roll down to `6` Resilience.
 ```
@@ -369,6 +380,7 @@ This roll is based around `Liquid Coils`, which allows you to four-bolt Guardian
 | 🐢🐢 (+perks1, +masterworks) | 2.47% | 40 |
 | 🐢🐢 (-perks2) | 0.46% | 216 |
 | 🐢 (+barrels, +perks1, +masterworks) | 5.43% | 18 |
+
 #### **Workhorse**
 The base stats on Glacioclasm are rock solid are terrific. This roll captures the remainder of good rolls that do not include Coil- modifying magazines and/or High-Impact Reserves.
 ```
@@ -400,6 +412,7 @@ The base stats on Glacioclasm are rock solid are terrific. This roll captures th
 | 🐴🐴 (-perks1, -masterworks) | 4.63% | 21 |
 | 🐴 (+barrels, +perks1, -perks2) | 4.32% | 23 |
 | 🐴 (+magazines, +perks1, -perks2) | 3.33% | 30 |
+
 ## Black Scorpion-4sr - PvP
 *For all possible perks, check out **Black Scorpion-4sr** over on [light.gg](https://www.light.gg/db/items/525750263/black-scorpion-4sr/)*
 
@@ -2173,6 +2186,7 @@ This set of rolls is all about maxing out Recoil, and keeps `Arrowhead Brake` co
 | 🏔🌒🌒🌒 CE (-magazines) | 0.15% | 648 |
 | 🏔🌒🌒🌒 CE (-masterworks) | 0.18% | 567 |
 | 🏔🌒🌒 (-magazines, -masterworks) | 0.62% | 162 |
+
 #### **Dark Side**
 Same as above, using any Stability-boosting barrel, which we'll later relax down to no barrel preference.
 ```
@@ -2194,6 +2208,7 @@ Same as above, using any Stability-boosting barrel, which we'll later relax down
 | 🌑🌑 (-barrels, -masterworks) | 0.79% | 126 |
 | 🌑🌑 (-magazines, -masterworks) | 2.31% | 43 |
 | 🌑 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+
 #### **Vertical/Gardener**
 This set of rolls pivots around `Firmly Planted`. It means that, even on console we can opt for `Range`-boosting perks because `Firmly Planted` gives us all the `Stability` we need.
 ```
@@ -2210,6 +2225,7 @@ This set of rolls pivots around `Firmly Planted`. It means that, even on console
 | 🏔🌿🌿🌿 CE (-masterworks) | 0.18% | 567 |
 | 🏔🌿🌿🌿 CE (-magazines) | 0.15% | 648 |
 | 🏔🌿🌿 (-magazines, -masterworks) | 0.62% | 162 |
+
 #### **The Gardener**
 Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the barrel requirement as well.
 ```
@@ -2230,6 +2246,7 @@ Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the 
 | 🌿🌿 (-barrels, -masterworks) | 0.79% | 126 |
 | 🌿🌿 (-magazines, -masterworks) | 2.01% | 49 |
 | 🌿 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+
 #### **The Vertical/Hoarder**
 This set of rolls pivots around `Surplus`. It provides a roughly 25%, 13% and 8% boost depending on how many abilities are charged. You really want to be shooting for all three abilities charged at once which means either foregoing their use entirely or perhaps investing in high tiers of the respective stat (Strength, Discipline, or <class stat>) so that you can quickly recharge a single one. The tradeoff is going around with a supercharged weapon the whole match.
 ```
@@ -2246,6 +2263,7 @@ This set of rolls pivots around `Surplus`. It provides a roughly 25%, 13% and 8%
 | 🏔📦📦📦 CE (-masterworks) | 0.18% | 567 |
 | 🏔📦📦📦 (-magazines) | 0.15% | 648 |
 | 🏔📦📦 (-magazines -masterworks) | 0.62% | 162 |
+
 #### **The Hoarder**
 Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the barrel requirement as well.
 ```
@@ -2266,6 +2284,7 @@ Same as above, using any `Range`-boosting barrel. We'll winnow down to drop the 
 | 📦📦 (-barrels, -masterworks) | 0.79% | 126 |
 | 📦📦 (-magazines, -masterworks) | 2.01% | 49 |
 | 📦 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+
 ### Stars in Shadow - PvE
 In PvE you're going for as much `Range` as you can get with sustained damage upkeep. There are some solid perks here not in our rolls, becase you don't need this wishlist to tell you that Demolitionist is a good perk 🙃
 #### **Rapid Reload**
@@ -2289,6 +2308,7 @@ All Range and all damage.
 | ♻️♻️ (-barrels, -masterworks) | 0.40% | 252 |
 | ♻️♻️ (-magazines, -masterworks) | 0.81% | 123 |
 | ♻️ (-barrels, -magazines, -masterworks) | 1.39% | 72 |
+
 #### **Barrier Slayer**
 In seasons where Pulse Rifles end up with Barrier mods, Genesis will proc when the shield breaks while you'll wrecking the champions with Vorpal. Other shields will also proc Genesis, for example "Enlightened" enemies in the Garden of Salvation raid.
 ```
@@ -2310,6 +2330,7 @@ In seasons where Pulse Rifles end up with Barrier mods, Genesis will proc when t
 | 🏆🏆 (-barrels, -masterworks) | 0.40% | 252 |
 | 🏆🏆 (-magazines, -masterworks) | 0.81% | 123 |
 | 🏆 (-barrels, -magazines, -masterworks) | 1.39% | 72 |
+
 ## Steel Sybil Z-14 - PvE
 *For all possible perks, check out **Steel Sybil Z-14** over on [light.gg](https://www.light.gg/db/items/4230993599/steel-sybil-z-14/)*
 
@@ -3473,6 +3494,7 @@ Moving Target and Iron Gaze are going to bump Target Acquisition immensely. You 
 | 🔒🔒 (-barrels, -masterworks) | 0.69% | 144 |
 | 🔒🔒 (-magazines, -masterworks) | 1.67% | 60 |
 | 🔒 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+
 #### **Demon of Sixes Street**
 This is primarily a roll for sixes where TSH can shine as a cleanup weapon with a higher chance of chaining kills. Keep in mind that a `Resilience` of `5` cancels out the Swashbuckler two-tap from full health but in sixes that's not always what you're dealing with. If you can pair this with a ranged melee (Swashbuckler x 5) you'llI wouldn't suggest this roll for Comp or Trials.
 ```
@@ -3499,6 +3521,7 @@ This is primarily a roll for sixes where TSH can shine as a cleanup weapon with 
 | 👹👹 (-barrels, -masterworks) | 0.69% | 144 |
 | 👹👹 (-magazines, -masterworks) | 1.67% | 60 |
 | 👹 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+
 #### **Float Like a Butterfly**
 If you pair a Quickdraw TSH with a breach-load GL with a Quick Access Sling mod, you have a super powerful combination. Pairing it with Le Monarque has a similar effect: massive damage with an opening shot from your Energy weapon and a single shot from TSH to clean up. With Quickdraw and Snapshot, this Aggressive Frame can feel like a Lightweight.
 ```
@@ -3525,6 +3548,7 @@ If you pair a Quickdraw TSH with a breach-load GL with a Quick Access Sling mod,
 | 🦋🦋 (-barrels, -masterworks) | 0.69% | 144 |
 | 🦋🦋 (-magazines, -masterworks) | 1.67% | 60 |
 | 🦋 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+
 #### **Workhorse**
 Many phenomenal perks in column three and column four. As Fallout mentions in his review, you'd be kinda happy to get any of them.
 ```
@@ -3551,6 +3575,7 @@ Many phenomenal perks in column three and column four. As Fallout mentions in hi
 | 🐴🐴 (-barrels, -masterworks) | 6.25% | 16 |
 | 🐴🐴 (-magazines, -masterworks) | 15.00% | 6 |
 | 🐴 (-barrels, -magazines, -masterworks) | 25.00% | 4 |
+
 ### The Steady Hand - PvE
 Generally in PvE you're going for as much `Range` as you can get with sustained damage upkeep. If you liked [The Duke Mk. 44](https://www.light.gg/db/items/2112909414/duke-mk-44/) then TSH could be for you.
 #### **Rapid Reload**
@@ -3576,6 +3601,7 @@ Without Outlaw, you're going to have to rely on Transversives, Marksman's Dodge,
 | ♻️♻️ (-barrels, -masterworks) | 1.29% | 77 |
 | ♻️♻️ (-magazines, -masterworks) | 1.67% | 60 |
 | ♻️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+
 ## Swarm of the Raven - PvE
 *For all possible perks, check out **Swarm of the Raven** over on [light.gg](https://www.light.gg/db/items/1972985595/swarm-of-the-raven/)*
 
@@ -3884,6 +3910,7 @@ None of the traditional damage perks (Rampage, Kill Clip, Vorpal) are available 
 | 📈📈️ (-barrels, -masterworks) | 1.98% | 50 |
 | 📈📈️ (-magazines, -masterworks) | 1.62% | 61 |
 | 📈️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+
 ### Heritage - PvP
 Heritage has the highest aim assist of any slug shotgun.  [Drewsky](https://www.youtube.com/watch?v=XUGZIasUu9o) says "this weapon is really comparable to The Chaperone."
 The base one hit kill range is 10.5 meters, you can increase that up to 11.9m with Killing Wind and Slideshot active.
@@ -3907,6 +3934,7 @@ All Range and all damage.
 | 🎢🎢️ (-barrels, -masterworks) | 0.79% | 126 |
 | 🎢🎢️ (-magazines, -masterworks) | 1.62% | 61 |
 | 🎢️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+
 ## Berenger's Memory - PvE
 *For all possible perks, check out **Berenger's Memory** over on [light.gg](https://www.light.gg/db/items/407621213/berengers-memory/)*
 
@@ -5642,6 +5670,7 @@ Here's a breakdown of what we're going for:
 | 😡😡😡 CE (+masterworks) | 0.21% | 472 |
 | 😡😡 (+barrels, +magazines, +masterworks) | 0.70% | 143 |
 | 😡 (-barrels, -magazines, +masterworks) | 2.22% | 44 |
+
 #### **GuiltySpark's Reserved Slab**
 The objective of this loadout is to max it's Accuracy as high as it can go, so that the player can use it at longer distances and not feel forced to engage at closer ranges.
 
@@ -5677,6 +5706,7 @@ The objective of this loadout is to max it's Accuracy as high as it can go, so t
 | 🧐🧐 (-barrels, -masterworks) | 1.85% | 54 |
 | 🧐🧐 (-magazines, -masterworks) | 1.59% | 63 |
 | 🧐 (-barrels, -magazines, -masterworks) | 5.56% | 18 |
+
 ## Seventh Seraph Carbine - PvP
 *For all possible perks, check out **Seventh Seraph Carbine** over on [light.gg](https://www.light.gg/db/items/1561006927/seventh-seraph-carbine/)*
 
@@ -6410,6 +6440,7 @@ These rolls aren't super tight on the Barrel and Magazine front because they are
 |:-|-:|-:|
 | 💥💥💥🌟 | 0.91% | 109 |
 | 💥💥💥 (-masterworks) | 1.82% | 54 |
+
 #### **Threat Level Super Shredder**
 Same setup as the above, but we're swapping out Full Auto and bringing in Threat Detector.
 ```
@@ -6424,6 +6455,7 @@ Same setup as the above, but we're swapping out Full Auto and bringing in Threat
 |:-|-:|-:|
 | 🧵🧵🧵🌟 | 0.91% | 109 |
 | 🧵🧵🧵 (-masterworks) | 1.82% | 54 |
+
 #### **Basic Super Shredder**
 No first column perk! If you really want Vorpal on your Energy sidearm, here ya go.
 ```
@@ -6438,6 +6470,7 @@ No first column perk! If you really want Vorpal on your Energy sidearm, here ya 
 |:-|-:|-:|
 | ⚙⚙⚙🌟 | 5.46% | 18 |
 | ⚙⚙⚙ (-masterworks) | 10.91% | 9 |
+
 ### Seventh Seraph SI-2 - PvE
 Like all other Seraph weapons, the SI-2 contributes to the generation of Warmind cells in PvE. If that's not your thing, you can pretty much pass on this weapon full stop. Since it can roll with Dragonfly, it could have made beautiful music with the `Wrath of Rasputin` Warmind mod: `Solar splash damage final blows have a chance to create Warmind Cells`. Unfortunately the SI-2 is a Void weapon 👿
 
@@ -6455,6 +6488,7 @@ The SI-2 is the only sidearm in the game that can roll with both Demolitionist a
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🎇 | 2.78% | 36 |
+
 #### **Champion Slayer**
 Sidearms are all the rage in the Season 10 Artifact, and certainly will be again at some point in the future. If you want to dump rounds in to Champions, you don't have any other options in this slot.
 ```
@@ -6468,6 +6502,7 @@ Sidearms are all the rage in the Season 10 Artifact, and certainly will be again
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🏆 | 2.78% | 36 |
+
 #### **You're Trapped In Here With Me**
 Like Grave Robber and Swashbuckler, these two perks play super well off each other. If you love sidearms, considering adding this to your collection. You'll do some serious damage during Seraph Tower events.
 ```
@@ -6481,6 +6516,7 @@ Like Grave Robber and Swashbuckler, these two perks play super well off each oth
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 🏢 | 2.78% | 36 |
+
 ## Seventh Seraph VY-7 - PvP
 *For all possible perks, check out **Seventh Seraph VY-7** over on [light.gg](https://www.light.gg/db/items/766323545/seventh-seraph-vy-7/)*
 
