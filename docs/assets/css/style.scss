@@ -2,10 +2,16 @@
 ---
 @import "{{ site.theme }}";
 
+// Add breathing room to our content
 .wrapper {
-  max-width: 800px;
+  max-width: 1000px;
 }
 
 section {
-  max-width: 800px;
+  max-width: 1000px;
+}
+
+// Use the standard bullet instead of the chevron
+ul {
+  list-style-image: unset;
 }
