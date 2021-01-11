@@ -8,6 +8,9 @@
 }
 
 section {
+  // Flush with the top of the page
+  margin-top: unset;
+  // We need a little more breathing room
   max-width: 1000px;
 }
 
