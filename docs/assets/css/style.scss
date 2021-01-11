@@ -2,6 +2,11 @@
 ---
 @import "{{ site.theme }}";
 
+// Match up with Bungie's background for the Beyond Light release
+body {
+ background: #181c25; 
+}
+
 // Add breathing room to our content
 .wrapper {
   max-width: 1000px;
