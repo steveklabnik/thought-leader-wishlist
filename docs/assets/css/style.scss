@@ -15,3 +15,8 @@ section {
 ul {
   list-style-image: unset;
 }
+
+// Constrain the layout so the roll information is near the name
+table {
+  width: 50%;
+}
