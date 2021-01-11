@@ -30,6 +30,14 @@ code {
   padding: 4p 0;
 }
 
+// Ease up on code block decoration
+pre {
+  border: unset;
+  border-radius: 3px;
+  box-shadow: unset;
+  padding: 12px 2px;
+}
+
 // Variant tables are sometimes multiline; push everything upwards
 td {
   vertical-align: top;
