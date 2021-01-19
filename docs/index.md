@@ -3890,6 +3890,12 @@ The Forward Path is a 600 RPM (Adaptive Frame) Kinetic Auto Rifle, brought back 
 ## The Forward Path - PvP
 The Forward Path, perhaps unsurprisingly given where it drops, is an absolute bear in PvP. 600 RPM ARs dominated the S11 meta and even though they were slightly reined in, they're still phenomenal. It has terrific base stats including the highest Aim Assist (71) of any Adaptive AR and is just an all-around terrific weapon.
 
+A few interesting videos to consider:
+
+* [Incoming Top-Tier Weapons! Prepare for GOD ROLLS](https://www.youtube.com/watch?v=yizqbKsTbVY) - Fallout Plays
+* [The Forward Path best perk combinations: It's GOOD!](https://www.youtube.com/watch?v=FnjCwCvf1UY) - CoolGuy
+* [The Forward Path Review (97 Aim Assist & Iron Gaze/Grip Review)](https://www.youtube.com/watch?v=YMkJn9r6OC0) - Aztecross
+
 TFP rolls with sights, not barrels, meaning that the appearance and effective range can be materially modified by your choice here.
 
 * **25m**: Hitmark, Cleanshot
