@@ -9,14 +9,12 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 
 ---
 
-**Season 12 - Season of the Hunt (November 2020 - February 2021)**
-* [Cold Front](#cold-front) ([PvP/PvE Double Duty](#cold-front---pvppve-double-duty), [PvP](#cold-front---pvp), [PvE](#cold-front---pve))
-* [Glacioclasm](#glacioclasm) ([PvP](#glacioclasm---pvp))
-
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
 * BrayTech Werewolf ([PvP](#braytech-werewolf---pvp), [PvE](#braytech-werewolf---pve))
 * Bygones ([PvP](#bygones---pvp), [PvE](#bygones---pve))
+* [Cold Front](#cold-front) ([PvP/PvE Double Duty](#cold-front---pvppve-double-duty), [PvP](#cold-front---pvp), [PvE](#cold-front---pve))
+* [Glacioclasm](#glacioclasm) ([PvP](#glacioclasm---pvp))
 * Gnawing Hunger ([PvP](#gnawing-hunger---pvp), [PvE](#gnawing-hunger---pve))
 * Honor's Edge ([PvE](#honors-edge---pve))
 * Interference VI ([PvE](#interference-vi---pve))
@@ -76,344 +74,6 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * Trophy Hunter ([PvP](#trophy-hunter---pvp), [PvE](#trophy-hunter---pve))
 
 ---
-# Cold Front
-*For all possible perks, check out **Cold Front** over on [light.gg](https://www.light.gg/db/items/1506719573/cold-front/)*
-
-Cold Front is a 750 RPM Aggressive Frame ("High damage, high recoil") Kinetic Submachine Gun, first introduced long ago during the Season 9 Dawning event. It's back once again with a whole new set of perks from Year 4. If you want to see the old perks, here's a still from [Aztec's review](https://youtu.be/ZK1JPaCASnQ?t=166) in 2019.
-
-[Cold Front Is Back & BETTER Than Ever! (Best Destiny 2 Primary?)](https://www.youtube.com/watch?v=CG3C1TDUzA8) - Ehroar
-
-> *I believe it's one of the best primaries in the game for PvE* -- Ehroar, Dec. 2020
-
-[IF YOU HAVENT GOT THIS SMG, YOU NEED IT, Cold Front Dawning SMG God Roll Guide](https://www.youtube.com/watch?v=9sFhMUMMttk) - Blyatnid 
-
-> *I have a reason to believe this is the new best primary in the game, full stop* -- Blyatnid, Dec. 2020
-
-Ehroar and co. are excited for a couple of reasons. First, Cold Front has an (obviously) higher rate of fire than its 600 RPM counterpart without being all that much different stat-wise (save for Stability of course). It can also  roll with the new damage-boosting perk `One for All` which we'll get to down in the PvE section below.
-
-If you remember the Cold Front from last year, you'll recall its Stability is one of the lowest in the game at `16`. Technically that's "better" than Hard Truth's `15` though not by much. This is less of an issue on PC than Console, though it's still an issue. However, this time around we have two new tools at our disposal: `Surplus` and `Dynamic Sway Reduction`.
-## Cold Front - PvP/PvE Double Duty
-The cornerstones of both PvE and PvP are `Surplus` and `Dynamic Sway Reduction`. The best PvE and PvP rolls center around having one of these perks in column three. If you end up with a "PvE roll" that also happens to have super high Stability, then you've got the Holy Grail of Cold Front rolls. Congrats! For an explanation of these rolls, please read further down towards the specific PvE and PvP sections.
-
-These rolls are floored at `36` Stability (before `Surplus`) since that's the base Stability of other similar SMGS (e.g. Ikelos).
-
-*Yes, these rolls are all based on quotes from the great [Dr. Victor Fries](https://www.imdb.com/title/tt0118688/characters/nm0000216#quotes).*
-### Roll: **Endless Winter**
-`Surplus` + `One for All` + all the `Stability` you can get.
-```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 20%]: Surplus
-  Perks 2 [ 16%]: One for All
-  MWorks  [ 25%]: Stability MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| 🥶🥶🥶🌟 Collector's Edition | 0.05% | 2160 |
-| 🥶🥶🥶 CE (+barrels) | 0.17% | 575 |
-| 🥶🥶🥶 CE (+magazines) | 0.12% | 840 |
-| 🥶🥶🥶 CE (-masterworks) | 0.19% | 540 |
-| 🥶🥶 (-barrels) | 0.21% | 480 |
-| 🥶🥶 (-magazines) | 0.19% | 540 |
-| 🥶🥶 (+barrels, -masterworks) | 0.69% | 143 |
-
-### Roll: **Everything Freezes!**
-Same as the above, replacing `Surplus` with `Dynamic Sway Reduction`.
-```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [ 16%]: One for All
-  MWorks  [ 25%]: Stability MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| 🥶🥶🥶🌟 Collector's Edition | 0.05% | 2160 |
-| 🥶🥶🥶 CE (+barrels) | 0.17% | 575 |
-| 🥶🥶🥶 CE (+magazines) | 0.12% | 840 |
-| 🥶🥶🥶 CE (-masterworks) | 0.19% | 540 |
-| 🥶🥶 (-barrels) | 0.21% | 480 |
-| 🥶🥶 (-magazines) | 0.19% | 540 |
-| 🥶🥶 (+barrels, -masterworks) | 0.69% | 143 |
-
-### Roll: **Let's Kick Some Ice!**
-Same as the above, but we'll take any damage perk.
-```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 40%]: Surplus, Dynamic Sway Reduction
-  Perks 2 [ 50%]: Dragonfly, Rampage, Surrounded
-  MWorks  [ 25%]: Stability MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| 🧊🧊🧊🌟 Collector's Edition | 0.28% | 359 |
-| 🧊🧊🧊 CE (+barrels) | 1.04% | 96 |
-| 🧊🧊🧊 CE (+magazines) | 0.71% | 140 |
-| 🧊🧊🧊 CE (-masterworks) | 1.11% | 89 |
-| 🧊🧊 (-barrels) | 1.25% | 80 |
-| 🧊🧊 (-magazines) | 1.11% | 89 |
-| 🧊🧊 (+barrels, -masterworks) | 4.17% | 24 |
-
-## Cold Front - PvP
-You'll notice I didn't include any final column perks. Rampage doesn't meaningfully realistically alter the TTK and Thresh adds so little to your super that it's not worth calling out as the Collector's Edition. Whatever you get in that final column is fine.
-### Roll: **Ice to See You/Surplus**
-Cold Front needs a lot of help in the Stability department, which is the entire focus of this roll. At best, you'll be able to get Stability up from `16` to `51` plus the benefits coming from Surplus. This puts you way above the base Stability on the vaunted Antiope-D and other Precision Frame SMGs. The Recoil is `92` so be sure to throw on a Counterbalance mod if you don't end up with a +Recoil barrel.
-```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 20%]: Surplus
-  Perks 2 [100%]: *
-  MWorks  [ 25%]: Stability MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| 🥶🥶🥶📦🌟 Collector's Edition | 0.28% | 359 |
-| 🥶🥶🥶📦 CE (+barrels) | 1.04% | 96 |
-| 🥶🥶🥶📦 CE (+magazines) | 0.71% | 140 |
-| 🥶🥶🥶📦 CE (-barrels) | 1.25% | 80 |
-| 🥶🥶🥶📦 CE (-masterworks) | 1.11% | 89 |
-| 🥶🥶🥶📦 CE (-magazines) | 1.11% | 89 |
-| 🥶🥶🥶📦 CE (+barrels, +magazines) | 2.68% | 37 |
-| 🥶🥶📦 (+barrels, -masterworks) | 4.17% | 24 |
-| 🥶📦 (+barrels, -magazines) | 4.17% | 24 |
-| 🥶📦 (+magazines, -masterworks) | 2.86% | 35 |
-
-### Roll: **Ice to See You/Dynamic Sway**
-Same as the above, swapping DSR in for Surplus. These rolls are otherwise identical but Surplus is so much better than DSR I wanted to call it out 😀
-```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [100%]: *
-  MWorks  [ 25%]: Stability MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| 🥶🥶🥶🕺🌟 Collector's Edition | 0.28% | 359 |
-| 🥶🥶🥶🕺 CE (+barrels) | 1.04% | 96 |
-| 🥶🥶🥶🕺 CE (+magazines) | 0.71% | 140 |
-| 🥶🥶🥶🕺 CE (-barrels) | 1.25% | 80 |
-| 🥶🥶🥶🕺 CE (-masterworks) | 1.11% | 89 |
-| 🥶🥶🥶🕺 CE (-magazines) | 1.11% | 89 |
-| 🥶🥶🥶🕺 CE (+barrels, +magazines) | 2.68% | 37 |
-| 🥶🥶🕺 (+barrels, -masterworks) | 4.17% | 24 |
-| 🥶🕺 (+barrels, -magazines) | 4.17% | 24 |
-| 🥶🕺 (+magazines, -masterworks) | 2.86% | 35 |
-
-## Cold Front - PvE
-With the addition of `Surplus` and `One for All` to the Cold Front perk pool, we're looking at a strong contender for one of the best kinetic weapons of all time. `Surplus` improves Stability and Reload (two big Cold Front drawbacks) and `One for All` provides a tremendous damage boost and leaves your mod slot free for Minor, Major or Boss Spec.
-
-***`Dragonfly` is going to be replaced by `Swashbuckler` so when you see `Dragonfly` below, you know what it means. The wishlist will be updated after Destiny is updated.***
-### Roll: **Blizzard**
-While `Surplus` will be boosting Stability, the Stability is so low and difficult to manage on console that we'll continue to crave it as a backstop for when we're at lower tiers of `Surplus` benefits.
-```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 25%]: Extended Mag
-  Perks 1 [ 20%]: Surplus
-  Perks 2 [ 16%]: One for All
-  MWorks  [ 25%]: Stability MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| 🌨🌨🌨📦🌟 Collector's Edition | 0.05% | 2160 |
-| 🌨🌨🌨📦 CE (+barrels) | 0.17% | 575 |
-| 🌨🌨🌨📦 CE (+magazines) | 0.09% | 1163 |
-| 🌨🌨🌨📦 CE (+barrels, +magazines) | 0.32% | 310 |
-| 🌨🌨🌨📦 (-barrels) | 0.21% | 480 |
-| 🌨🌨🌨📦 (-magazines) | 0.19% | 540 |
-| 🌨🌨🌨📦 (-masterworks) | 0.19% | 540 |
-| 🌨🌨📦 (-barrels, -magazines, -masterworks) | 3.33% | 30 |
-
-### Roll: **Snowstorm**
-Same as the above, swapping `Dynamic Sway Reduction` in for `Surplus`.
-```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 25%]: Extended Mag
-  Perks 1 [ 20%]: Dynamic Sway Reduction
-  Perks 2 [ 16%]: One for All
-  MWorks  [ 25%]: Stability MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| ❄️❄️❄️🌟 Collector's Edition | 0.05% | 2160 |
-| ❄️❄️❄️📦 CE (+barrels) | 0.17% | 575 |
-| ❄️❄️❄️📦 CE (+magazines) | 0.09% | 1163 |
-| ❄️❄️❄️📦 CE (+barrels, +magazines) | 0.32% | 310 |
-| ❄️❄️❄️📦 (-barrels) | 0.21% | 480 |
-| ❄️❄️❄️📦 (-magazines) | 0.19% | 540 |
-| ❄️❄️❄️📦 (-masterworks) | 0.19% | 540 |
-| ❄️❄️📦 (-barrels, -magazines, -masterworks) | 3.33% | 30 |
-
-### Roll: **Light Dusting**
-We'll take any combination of a handful of perks in the final columns for a super solid roll (recall that Dragonfly is being replaced by Swashbuckler shortly).
-```
-  Barrels [ 22%]: Chambered Compensator
-  Mags    [ 25%]: Extended Mag
-  Perks 1 [ 40%]: Surplus, Dynamic Sway Reduction
-  Perks 2 [ 50%]: Dragonfly, Rampage, Surrounded
-  MWorks  [ 25%]: Stability MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| ☃️☃️☃️🌟 Collector's Edition | 0.28% | 359 |
-| ☃️☃️☃️📦 CE (+barrels) | 1.04% | 96 |
-| ☃️☃️☃️📦 CE (+magazines) | 0.52% | 193 |
-| ☃️☃️☃️📦 CE (+barrels, +magazines) | 1.93% | 51 |
-| ☃️☃️☃️📦 (-barrels) | 1.25% | 80 |
-| ☃️☃️☃️📦 (-magazines) | 1.11% | 89 |
-| ☃️☃️☃️📦 (-masterworks) | 1.11% | 89 |
-| ☃️☃️📦 (-barrels, -magazines, -masterworks) | 20.00% | 5 |
-
-# Glacioclasm
-*For all possible perks, check out **Glacioclasm** over on [light.gg](https://www.light.gg/db/items/1030895163/glacioclasm/)*
-
-The Glacioclasm is a High-Impact Frame Fusion Rifle released for the first time in The Dawning, 2020 (Y4 S12). Implicit in the High-Impact frames are that you gain accuracy while crouched: "more accurate when stationary and aiming down sights".
-
-Here are some highlights called out from [CoolGuy's review](https://www.youtube.com/watch?v=TcKyglpE5UI):
-
-  * Base 1.6 Zoom, versus 1.5 on all other Fusions
-  * Best Handling and Stability of all High-Impact Frames
-  * Base Range of `67`, "Already at the cap; you don't need any more. It's
-  near perfect for the Range that fusions have right now [after the range
-  compression nerf]."
-
-From [Fallout's Review](https://www.youtube.com/watch?v=s7URG6BUl_Q), the difference between a "low range" (67) and "high range" (89) setup is that you gain a single meter before falloff, from 17-18m. That's likely why CoolGuy and Fallout suggest investing in Stability.
-## Glacioclasm - PvP
-As mentioned above, the Glacioclasm's base stats are some of the best ever for a High-Impact frame. Because of this, we can narrow our focus on perks and go for some amazing rolls in a post-Erentil world. This is a controller wishlist and so these rolls will primarily focus on `Stability` (which is probably also fine for M&K but apparently M&K players aren't into Fusions as much?)
-
-I [put together a chart](https://github.com/rslifka/wishlist/wiki/Weapon-Focus-Fusion-Rifles) from Fallout's video above and after some helpful Guardians let me voop 'em in a private match.
-### Roll: **Accelerated Four-Bolter**
-This roll is based around the combination of `Accelerated Coils` and `High-Impact Reserves`. This will allow you to four-bolt Guardians at `9` Resilience with two in the mag (i.e. when you spawn in). I have no Resilience statistics, but checked across three games last night and most people were `2`-`3` with a few around `5`. If you happen to get `Chambered Compensator` be sure to throw on a Counterbalance mod to hit `Recoil:100`.
-```
-  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
-  Mags    [ 33%]: Accelerated Coils
-  Perks 1 [ 16%]: Surplus
-  Perks 2 [ 16%]: High-Impact Reserves
-  MWorks  [ 20%]: Stability MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| 🐇🐇🐇🌟 Collector's Edition | 0.08% | 1296 |
-| 🐇🐇🐇 CE (+barrels) | 0.17% | 589 |
-| 🐇🐇🐇 CE (+perks1) | 0.31% | 324 |
-| 🐇🐇🐇 CE (+masterworks) | 0.31% | 324 |
-| 🐇🐇 (+barrels, +perks1) | 0.68% | 147 |
-| 🐇🐇 (+barrels, +masterworks) | 0.68% | 147 |
-| 🐇🐇 (+perks1, +masterworks) | 1.23% | 81 |
-| 🐇 (+barrels, +perks1, +masterworks) | 2.72% | 36 |
-
-### Roll: **Stable Four-Bolter**
-Similar to the above, swapping in `Particle Repeater` to replace `Accelerated Coils`, but still centering around `High-Impact Reserves`. Because the Charge Time is slower you can now four-bolt Guardians at any `Resilience` value.
-```
-  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
-  Mags    [ 33%]: Particle Repeater
-  Perks 1 [ 16%]: Surplus
-  Perks 2 [ 16%]: High-Impact Reserves
-  MWorks  [ 20%]: Stability MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| ⚡️⚡️⚡️🌟 Collector's Edition | 0.08% | 1296 |
-| ⚡️⚡️⚡️ CE (+barrels) | 0.17% | 589 |
-| ⚡️⚡️⚡️ CE (+magazines) | 0.14% | 719 |
-| ⚡️⚡️⚡️ CE (+perks1) | 0.31% | 324 |
-| ⚡️⚡️⚡️ CE (+masterworks) | 0.31% | 324 |
-| ⚡️⚡️ (+barrels, +magazines) | 0.31% | 327 |
-| ⚡️⚡️ (+barrels, +perks1) | 0.68% | 147 |
-| ⚡️⚡️ (+barrels, +masterworks) | 0.68% | 147 |
-| ⚡️⚡️ (+magazines, +perks1) | 0.56% | 179 |
-| ⚡️⚡️ (+magazines, +masterworks) | 0.56% | 179 |
-| ⚡️⚡️ (+perks1, +masterworks) | 1.23% | 81 |
-| ⚡️ (+barrels, +perks1, +masterworks) | 2.72% | 36 |
-
-### Roll: **Jittery Four-Bolter**
-There is a unique situation among rolls here that's super interesting. If you have a `Charge Time` Masterwork and `High-Impact Reserves` it means you can four-bolt Guardians at `6` Resilience with two in the mag. That's actually a downgrade from not having a `Charge Time` Masterwork... but(!) you get an upgrade with one in the mag in that you can now four-bolt Guardians with **any** Resilience.
-```
-  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
-  Mags    [ 33%]: Particle Repeater
-  Perks 1 [ 16%]: Surplus
-  Perks 2 [ 16%]: High-Impact Reserves
-  MWorks  [ 20%]: Charge MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| ☕️☕️☕️🌟 Collector's Edition | 0.08% | 1296 |
-| ☕️☕️☕️ CE (+barrels) | 0.17% | 589 |
-| ☕️☕️☕️ CE (+magazines) | 0.19% | 540 |
-| ☕️☕️☕️ CE (+perks1) | 0.31% | 324 |
-| ☕️☕️ (+barrels, +magazines) | 0.41% | 245 |
-| ☕️☕️ (+barrels, +perks1) | 0.68% | 147 |
-| ☕️☕️ (+magazines, +perks1) | 0.74% | 135 |
-| ☕️☕️ (-perks1) | 0.46% | 216 |
-| ☕️☕️ (+barrels, -perks1) | 1.02% | 98 |
-| ☕️☕️ (+magazines, -perks1) | 1.11% | 89 |
-
-### Roll: **Slow and Steady Four-Bolter**
-This roll is based around `Liquid Coils`, which allows you to four-bolt Guardians at `9` Resilience. The introduction of `Liquid Coils` opens this roll up quite a bit. You won't find a `Charge Time` Masterwork here because it would drop the roll down to `6` Resilience.
-```
-  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
-  Mags    [ 33%]: Liquid Coils
-  Perks 1 [ 16%]: Surplus
-  Perks 2 [ 33%]: Demolitionist, Auto-Loading Holster
-  MWorks  [ 20%]: Stability MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| 🐢🐢🐢🌟 Collector's Edition | 0.15% | 648 |
-| 🐢🐢🐢 CE (+barrels) | 0.34% | 294 |
-| 🐢🐢🐢 CE (+perks1) | 0.62% | 162 |
-| 🐢🐢🐢 CE (+masterworks) | 0.62% | 162 |
-| 🐢🐢 (+barrels, +perks1) | 1.36% | 73 |
-| 🐢🐢 (+barrels, +masterworks) | 1.36% | 73 |
-| 🐢🐢 (+perks1, +masterworks) | 2.47% | 40 |
-| 🐢🐢 (-perks2) | 0.46% | 216 |
-| 🐢 (+barrels, +perks1, +masterworks) | 5.43% | 18 |
-
-### Roll: **Workhorse**
-The base stats on Glacioclasm are rock solid are terrific. This roll captures the remainder of good rolls that do not include Coil- modifying magazines and/or High-Impact Reserves.
-```
-  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
-  Mags    [ 33%]: Particle Repeater
-  Perks 1 [ 16%]: Surplus
-  Perks 2 [ 33%]: Demolitionist, Auto-Loading Holster
-  MWorks  [ 20%]: Stability MW
-```
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| 🐴🐴🐴🌟 Collector's Edition | 0.15% | 648 |
-| 🐴🐴🐴 CE (+barrels) | 0.36% | 277 |
-| 🐴🐴🐴 CE (+magazines) | 0.28% | 359 |
-| 🐴🐴🐴 CE (+perks1) | 0.62% | 162 |
-| 🐴🐴🐴 CE (-perks2) | 0.46% | 216 |
-| 🐴🐴🐴 CE (-masterworks) | 0.77% | 129 |
-| 🐴🐴 (+barrels, +magazines) | 0.65% | 154 |
-| 🐴🐴 (+barrels, +perks1) | 1.44% | 69 |
-| 🐴🐴 (+barrels, -perks2) | 1.08% | 92 |
-| 🐴🐴 (+barrels, -masterworks) | 1.80% | 55 |
-| 🐴🐴 (+magazines, +perks1) | 1.11% | 89 |
-| 🐴🐴 (+magazines, -perks2) | 0.83% | 120 |
-| 🐴🐴 (+magazines, -masterworks) | 1.39% | 72 |
-| 🐴🐴 (+perks1, -perks2) | 1.85% | 54 |
-| 🐴🐴 (+perks1, -masterworks) | 3.09% | 32 |
-| 🐴🐴 (-perks2, -masterworks) | 2.31% | 43 |
-| 🐴🐴 (-perks1, -masterworks) | 4.63% | 21 |
-| 🐴 (+barrels, +perks1, -perks2) | 4.32% | 23 |
-| 🐴 (+magazines, +perks1, -perks2) | 3.33% | 30 |
-
 ## Black Scorpion-4sr - PvP
 *For all possible perks, check out **Black Scorpion-4sr** over on [light.gg](https://www.light.gg/db/items/525750263/black-scorpion-4sr/)*
 
@@ -1070,6 +730,344 @@ We're going for sustained DPS and maximum range. Stability is already high enoug
   Perks 2 [ 20%]: Outlaw
   MWorks  [100%]: *
   ```
+# Cold Front
+*For all possible perks, check out **Cold Front** over on [light.gg](https://www.light.gg/db/items/1506719573/cold-front/)*
+
+Cold Front is a 750 RPM Aggressive Frame ("High damage, high recoil") Kinetic Submachine Gun, first introduced long ago during the Season 9 Dawning event. It's back once again with a whole new set of perks from Year 4. If you want to see the old perks, here's a still from [Aztec's review](https://youtu.be/ZK1JPaCASnQ?t=166) in 2019.
+
+[Cold Front Is Back & BETTER Than Ever! (Best Destiny 2 Primary?)](https://www.youtube.com/watch?v=CG3C1TDUzA8) - Ehroar
+
+> *I believe it's one of the best primaries in the game for PvE* -- Ehroar, Dec. 2020
+
+[IF YOU HAVENT GOT THIS SMG, YOU NEED IT, Cold Front Dawning SMG God Roll Guide](https://www.youtube.com/watch?v=9sFhMUMMttk) - Blyatnid 
+
+> *I have a reason to believe this is the new best primary in the game, full stop* -- Blyatnid, Dec. 2020
+
+Ehroar and co. are excited for a couple of reasons. First, Cold Front has an (obviously) higher rate of fire than its 600 RPM counterpart without being all that much different stat-wise (save for Stability of course). It can also  roll with the new damage-boosting perk `One for All` which we'll get to down in the PvE section below.
+
+If you remember the Cold Front from last year, you'll recall its Stability is one of the lowest in the game at `16`. Technically that's "better" than Hard Truth's `15` though not by much. This is less of an issue on PC than Console, though it's still an issue. However, this time around we have two new tools at our disposal: `Surplus` and `Dynamic Sway Reduction`.
+## Cold Front - PvP/PvE Double Duty
+The cornerstones of both PvE and PvP are `Surplus` and `Dynamic Sway Reduction`. The best PvE and PvP rolls center around having one of these perks in column three. If you end up with a "PvE roll" that also happens to have super high Stability, then you've got the Holy Grail of Cold Front rolls. Congrats! For an explanation of these rolls, please read further down towards the specific PvE and PvP sections.
+
+These rolls are floored at `36` Stability (before `Surplus`) since that's the base Stability of other similar SMGS (e.g. Ikelos).
+
+*Yes, these rolls are all based on quotes from the great [Dr. Victor Fries](https://www.imdb.com/title/tt0118688/characters/nm0000216#quotes).*
+### Roll: **Endless Winter**
+`Surplus` + `One for All` + all the `Stability` you can get.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Surplus
+  Perks 2 [ 16%]: One for All
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🥶🥶🥶🌟 Collector's Edition | 0.05% | 2160 |
+| 🥶🥶🥶 CE (+barrels) | 0.17% | 575 |
+| 🥶🥶🥶 CE (+magazines) | 0.12% | 840 |
+| 🥶🥶🥶 CE (-masterworks) | 0.19% | 540 |
+| 🥶🥶 (-barrels) | 0.21% | 480 |
+| 🥶🥶 (-magazines) | 0.19% | 540 |
+| 🥶🥶 (+barrels, -masterworks) | 0.69% | 143 |
+
+### Roll: **Everything Freezes!**
+Same as the above, replacing `Surplus` with `Dynamic Sway Reduction`.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: One for All
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🥶🥶🥶🌟 Collector's Edition | 0.05% | 2160 |
+| 🥶🥶🥶 CE (+barrels) | 0.17% | 575 |
+| 🥶🥶🥶 CE (+magazines) | 0.12% | 840 |
+| 🥶🥶🥶 CE (-masterworks) | 0.19% | 540 |
+| 🥶🥶 (-barrels) | 0.21% | 480 |
+| 🥶🥶 (-magazines) | 0.19% | 540 |
+| 🥶🥶 (+barrels, -masterworks) | 0.69% | 143 |
+
+### Roll: **Let's Kick Some Ice!**
+Same as the above, but we'll take any damage perk.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 40%]: Surplus, Dynamic Sway Reduction
+  Perks 2 [ 50%]: Dragonfly, Rampage, Surrounded
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🧊🧊🧊🌟 Collector's Edition | 0.28% | 359 |
+| 🧊🧊🧊 CE (+barrels) | 1.04% | 96 |
+| 🧊🧊🧊 CE (+magazines) | 0.71% | 140 |
+| 🧊🧊🧊 CE (-masterworks) | 1.11% | 89 |
+| 🧊🧊 (-barrels) | 1.25% | 80 |
+| 🧊🧊 (-magazines) | 1.11% | 89 |
+| 🧊🧊 (+barrels, -masterworks) | 4.17% | 24 |
+
+## Cold Front - PvP
+You'll notice I didn't include any final column perks. Rampage doesn't meaningfully realistically alter the TTK and Thresh adds so little to your super that it's not worth calling out as the Collector's Edition. Whatever you get in that final column is fine.
+### Roll: **Ice to See You/Surplus**
+Cold Front needs a lot of help in the Stability department, which is the entire focus of this roll. At best, you'll be able to get Stability up from `16` to `51` plus the benefits coming from Surplus. This puts you way above the base Stability on the vaunted Antiope-D and other Precision Frame SMGs. The Recoil is `92` so be sure to throw on a Counterbalance mod if you don't end up with a +Recoil barrel.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Surplus
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🥶🥶🥶📦🌟 Collector's Edition | 0.28% | 359 |
+| 🥶🥶🥶📦 CE (+barrels) | 1.04% | 96 |
+| 🥶🥶🥶📦 CE (+magazines) | 0.71% | 140 |
+| 🥶🥶🥶📦 CE (-barrels) | 1.25% | 80 |
+| 🥶🥶🥶📦 CE (-masterworks) | 1.11% | 89 |
+| 🥶🥶🥶📦 CE (-magazines) | 1.11% | 89 |
+| 🥶🥶🥶📦 CE (+barrels, +magazines) | 2.68% | 37 |
+| 🥶🥶📦 (+barrels, -masterworks) | 4.17% | 24 |
+| 🥶📦 (+barrels, -magazines) | 4.17% | 24 |
+| 🥶📦 (+magazines, -masterworks) | 2.86% | 35 |
+
+### Roll: **Ice to See You/Dynamic Sway**
+Same as the above, swapping DSR in for Surplus. These rolls are otherwise identical but Surplus is so much better than DSR I wanted to call it out 😀
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Steady Rounds
+  Perks 1 [ 20%]: Dynamic Sway Reduction
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🥶🥶🥶🕺🌟 Collector's Edition | 0.28% | 359 |
+| 🥶🥶🥶🕺 CE (+barrels) | 1.04% | 96 |
+| 🥶🥶🥶🕺 CE (+magazines) | 0.71% | 140 |
+| 🥶🥶🥶🕺 CE (-barrels) | 1.25% | 80 |
+| 🥶🥶🥶🕺 CE (-masterworks) | 1.11% | 89 |
+| 🥶🥶🥶🕺 CE (-magazines) | 1.11% | 89 |
+| 🥶🥶🥶🕺 CE (+barrels, +magazines) | 2.68% | 37 |
+| 🥶🥶🕺 (+barrels, -masterworks) | 4.17% | 24 |
+| 🥶🕺 (+barrels, -magazines) | 4.17% | 24 |
+| 🥶🕺 (+magazines, -masterworks) | 2.86% | 35 |
+
+## Cold Front - PvE
+With the addition of `Surplus` and `One for All` to the Cold Front perk pool, we're looking at a strong contender for one of the best kinetic weapons of all time. `Surplus` improves Stability and Reload (two big Cold Front drawbacks) and `One for All` provides a tremendous damage boost and leaves your mod slot free for Minor, Major or Boss Spec.
+
+***`Dragonfly` is going to be replaced by `Swashbuckler` so when you see `Dragonfly` below, you know what it means. The wishlist will be updated after Destiny is updated.***
+### Roll: **Blizzard**
+While `Surplus` will be boosting Stability, the Stability is so low and difficult to manage on console that we'll continue to crave it as a backstop for when we're at lower tiers of `Surplus` benefits.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Extended Mag
+  Perks 1 [ 20%]: Surplus
+  Perks 2 [ 16%]: One for All
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🌨🌨🌨📦🌟 Collector's Edition | 0.05% | 2160 |
+| 🌨🌨🌨📦 CE (+barrels) | 0.17% | 575 |
+| 🌨🌨🌨📦 CE (+magazines) | 0.09% | 1163 |
+| 🌨🌨🌨📦 CE (+barrels, +magazines) | 0.32% | 310 |
+| 🌨🌨🌨📦 (-barrels) | 0.21% | 480 |
+| 🌨🌨🌨📦 (-magazines) | 0.19% | 540 |
+| 🌨🌨🌨📦 (-masterworks) | 0.19% | 540 |
+| 🌨🌨📦 (-barrels, -magazines, -masterworks) | 3.33% | 30 |
+
+### Roll: **Snowstorm**
+Same as the above, swapping `Dynamic Sway Reduction` in for `Surplus`.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Extended Mag
+  Perks 1 [ 20%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: One for All
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ❄️❄️❄️🌟 Collector's Edition | 0.05% | 2160 |
+| ❄️❄️❄️📦 CE (+barrels) | 0.17% | 575 |
+| ❄️❄️❄️📦 CE (+magazines) | 0.09% | 1163 |
+| ❄️❄️❄️📦 CE (+barrels, +magazines) | 0.32% | 310 |
+| ❄️❄️❄️📦 (-barrels) | 0.21% | 480 |
+| ❄️❄️❄️📦 (-magazines) | 0.19% | 540 |
+| ❄️❄️❄️📦 (-masterworks) | 0.19% | 540 |
+| ❄️❄️📦 (-barrels, -magazines, -masterworks) | 3.33% | 30 |
+
+### Roll: **Light Dusting**
+We'll take any combination of a handful of perks in the final columns for a super solid roll (recall that Dragonfly is being replaced by Swashbuckler shortly).
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 25%]: Extended Mag
+  Perks 1 [ 40%]: Surplus, Dynamic Sway Reduction
+  Perks 2 [ 50%]: Dragonfly, Rampage, Surrounded
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ☃️☃️☃️🌟 Collector's Edition | 0.28% | 359 |
+| ☃️☃️☃️📦 CE (+barrels) | 1.04% | 96 |
+| ☃️☃️☃️📦 CE (+magazines) | 0.52% | 193 |
+| ☃️☃️☃️📦 CE (+barrels, +magazines) | 1.93% | 51 |
+| ☃️☃️☃️📦 (-barrels) | 1.25% | 80 |
+| ☃️☃️☃️📦 (-magazines) | 1.11% | 89 |
+| ☃️☃️☃️📦 (-masterworks) | 1.11% | 89 |
+| ☃️☃️📦 (-barrels, -magazines, -masterworks) | 20.00% | 5 |
+
+# Glacioclasm
+*For all possible perks, check out **Glacioclasm** over on [light.gg](https://www.light.gg/db/items/1030895163/glacioclasm/)*
+
+The Glacioclasm is a High-Impact Frame Fusion Rifle released for the first time in The Dawning, 2020 (Y4 S12). Implicit in the High-Impact frames are that you gain accuracy while crouched: "more accurate when stationary and aiming down sights".
+
+Here are some highlights called out from [CoolGuy's review](https://www.youtube.com/watch?v=TcKyglpE5UI):
+
+  * Base 1.6 Zoom, versus 1.5 on all other Fusions
+  * Best Handling and Stability of all High-Impact Frames
+  * Base Range of `67`, "Already at the cap; you don't need any more. It's
+  near perfect for the Range that fusions have right now [after the range
+  compression nerf]."
+
+From [Fallout's Review](https://www.youtube.com/watch?v=s7URG6BUl_Q), the difference between a "low range" (67) and "high range" (89) setup is that you gain a single meter before falloff, from 17-18m. That's likely why CoolGuy and Fallout suggest investing in Stability.
+## Glacioclasm - PvP
+As mentioned above, the Glacioclasm's base stats are some of the best ever for a High-Impact frame. Because of this, we can narrow our focus on perks and go for some amazing rolls in a post-Erentil world. This is a controller wishlist and so these rolls will primarily focus on `Stability` (which is probably also fine for M&K but apparently M&K players aren't into Fusions as much?)
+
+I [put together a chart](https://github.com/rslifka/wishlist/wiki/Weapon-Focus-Fusion-Rifles) from Fallout's video above and after some helpful Guardians let me voop 'em in a private match.
+### Roll: **Accelerated Four-Bolter**
+This roll is based around the combination of `Accelerated Coils` and `High-Impact Reserves`. This will allow you to four-bolt Guardians at `9` Resilience with two in the mag (i.e. when you spawn in). I have no Resilience statistics, but checked across three games last night and most people were `2`-`3` with a few around `5`. If you happen to get `Chambered Compensator` be sure to throw on a Counterbalance mod to hit `Recoil:100`.
+```
+  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
+  Mags    [ 33%]: Accelerated Coils
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 16%]: High-Impact Reserves
+  MWorks  [ 20%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🐇🐇🐇🌟 Collector's Edition | 0.08% | 1296 |
+| 🐇🐇🐇 CE (+barrels) | 0.17% | 589 |
+| 🐇🐇🐇 CE (+perks1) | 0.31% | 324 |
+| 🐇🐇🐇 CE (+masterworks) | 0.31% | 324 |
+| 🐇🐇 (+barrels, +perks1) | 0.68% | 147 |
+| 🐇🐇 (+barrels, +masterworks) | 0.68% | 147 |
+| 🐇🐇 (+perks1, +masterworks) | 1.23% | 81 |
+| 🐇 (+barrels, +perks1, +masterworks) | 2.72% | 36 |
+
+### Roll: **Stable Four-Bolter**
+Similar to the above, swapping in `Particle Repeater` to replace `Accelerated Coils`, but still centering around `High-Impact Reserves`. Because the Charge Time is slower you can now four-bolt Guardians at any `Resilience` value.
+```
+  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
+  Mags    [ 33%]: Particle Repeater
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 16%]: High-Impact Reserves
+  MWorks  [ 20%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ⚡️⚡️⚡️🌟 Collector's Edition | 0.08% | 1296 |
+| ⚡️⚡️⚡️ CE (+barrels) | 0.17% | 589 |
+| ⚡️⚡️⚡️ CE (+magazines) | 0.14% | 719 |
+| ⚡️⚡️⚡️ CE (+perks1) | 0.31% | 324 |
+| ⚡️⚡️⚡️ CE (+masterworks) | 0.31% | 324 |
+| ⚡️⚡️ (+barrels, +magazines) | 0.31% | 327 |
+| ⚡️⚡️ (+barrels, +perks1) | 0.68% | 147 |
+| ⚡️⚡️ (+barrels, +masterworks) | 0.68% | 147 |
+| ⚡️⚡️ (+magazines, +perks1) | 0.56% | 179 |
+| ⚡️⚡️ (+magazines, +masterworks) | 0.56% | 179 |
+| ⚡️⚡️ (+perks1, +masterworks) | 1.23% | 81 |
+| ⚡️ (+barrels, +perks1, +masterworks) | 2.72% | 36 |
+
+### Roll: **Jittery Four-Bolter**
+There is a unique situation among rolls here that's super interesting. If you have a `Charge Time` Masterwork and `High-Impact Reserves` it means you can four-bolt Guardians at `6` Resilience with two in the mag. That's actually a downgrade from not having a `Charge Time` Masterwork... but(!) you get an upgrade with one in the mag in that you can now four-bolt Guardians with **any** Resilience.
+```
+  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
+  Mags    [ 33%]: Particle Repeater
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 16%]: High-Impact Reserves
+  MWorks  [ 20%]: Charge MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ☕️☕️☕️🌟 Collector's Edition | 0.08% | 1296 |
+| ☕️☕️☕️ CE (+barrels) | 0.17% | 589 |
+| ☕️☕️☕️ CE (+magazines) | 0.19% | 540 |
+| ☕️☕️☕️ CE (+perks1) | 0.31% | 324 |
+| ☕️☕️ (+barrels, +magazines) | 0.41% | 245 |
+| ☕️☕️ (+barrels, +perks1) | 0.68% | 147 |
+| ☕️☕️ (+magazines, +perks1) | 0.74% | 135 |
+| ☕️☕️ (-perks1) | 0.46% | 216 |
+| ☕️☕️ (+barrels, -perks1) | 1.02% | 98 |
+| ☕️☕️ (+magazines, -perks1) | 1.11% | 89 |
+
+### Roll: **Slow and Steady Four-Bolter**
+This roll is based around `Liquid Coils`, which allows you to four-bolt Guardians at `9` Resilience. The introduction of `Liquid Coils` opens this roll up quite a bit. You won't find a `Charge Time` Masterwork here because it would drop the roll down to `6` Resilience.
+```
+  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
+  Mags    [ 33%]: Liquid Coils
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 33%]: Demolitionist, Auto-Loading Holster
+  MWorks  [ 20%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🐢🐢🐢🌟 Collector's Edition | 0.15% | 648 |
+| 🐢🐢🐢 CE (+barrels) | 0.34% | 294 |
+| 🐢🐢🐢 CE (+perks1) | 0.62% | 162 |
+| 🐢🐢🐢 CE (+masterworks) | 0.62% | 162 |
+| 🐢🐢 (+barrels, +perks1) | 1.36% | 73 |
+| 🐢🐢 (+barrels, +masterworks) | 1.36% | 73 |
+| 🐢🐢 (+perks1, +masterworks) | 2.47% | 40 |
+| 🐢🐢 (-perks2) | 0.46% | 216 |
+| 🐢 (+barrels, +perks1, +masterworks) | 5.43% | 18 |
+
+### Roll: **Workhorse**
+The base stats on Glacioclasm are rock solid are terrific. This roll captures the remainder of good rolls that do not include Coil- modifying magazines and/or High-Impact Reserves.
+```
+  Barrels [ 41%]: Arrowhead Brake, Chambered Compensator
+  Mags    [ 33%]: Particle Repeater
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 33%]: Demolitionist, Auto-Loading Holster
+  MWorks  [ 20%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🐴🐴🐴🌟 Collector's Edition | 0.15% | 648 |
+| 🐴🐴🐴 CE (+barrels) | 0.36% | 277 |
+| 🐴🐴🐴 CE (+magazines) | 0.28% | 359 |
+| 🐴🐴🐴 CE (+perks1) | 0.62% | 162 |
+| 🐴🐴🐴 CE (-perks2) | 0.46% | 216 |
+| 🐴🐴🐴 CE (-masterworks) | 0.77% | 129 |
+| 🐴🐴 (+barrels, +magazines) | 0.65% | 154 |
+| 🐴🐴 (+barrels, +perks1) | 1.44% | 69 |
+| 🐴🐴 (+barrels, -perks2) | 1.08% | 92 |
+| 🐴🐴 (+barrels, -masterworks) | 1.80% | 55 |
+| 🐴🐴 (+magazines, +perks1) | 1.11% | 89 |
+| 🐴🐴 (+magazines, -perks2) | 0.83% | 120 |
+| 🐴🐴 (+magazines, -masterworks) | 1.39% | 72 |
+| 🐴🐴 (+perks1, -perks2) | 1.85% | 54 |
+| 🐴🐴 (+perks1, -masterworks) | 3.09% | 32 |
+| 🐴🐴 (-perks2, -masterworks) | 2.31% | 43 |
+| 🐴🐴 (-perks1, -masterworks) | 4.63% | 21 |
+| 🐴 (+barrels, +perks1, -perks2) | 4.32% | 23 |
+| 🐴 (+magazines, +perks1, -perks2) | 3.33% | 30 |
+
 ## Gnawing Hunger - PvP
 *For all possible perks, check out **Gnawing Hunger** over on [light.gg](https://www.light.gg/db/items/821154603/gnawing-hunger/)*
 
