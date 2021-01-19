@@ -37,6 +37,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * [The Steady Hand](#the-steady-hand) ([PvP](#the-steady-hand---pvp), [PvE](#the-steady-hand---pve))
 * Swarm of the Raven ([PvE](#swarm-of-the-raven---pve))
 * Talons of the Eagle ([PvP](#talons-of-the-eagle---pvp), [PvE](#talons-of-the-eagle---pve))
+* [The Forward Path](#the-forward-path) ([PvP](#the-forward-path---pvp), [PvE](#the-forward-path---pve))
 
 **Raids**
 * [Heritage](#heritage) ([PvE](#heritage---pve), [PvP](#heritage---pvp))
@@ -3882,6 +3883,136 @@ As mentioned in the PvP summary, Talons is still rocking that Season 4 perk pool
   Perks 2 [ 16%]: Rampage
   MWorks  [100%]: *
   ```
+# The Forward Path
+*For all possible perks, check out **The Forward Path** over on [light.gg](https://www.light.gg/db/items/1690783811/the-forward-path/)*
+
+The Forward Path is a 600 RPM (Adaptive Frame) Kinetic Auto Rifle, brought back to us in Season 11 Iron Banner. It was in the first batch of IB weapons that featured the new Iron Gaze and Iron Grip perks. 
+## The Forward Path - PvP
+The Forward Path, perhaps unsurprisingly given where it drops, is an absolute bear in PvP. 600 RPM ARs dominated the S11 meta and even though they were slightly reined in, they're still phenomenal. It has terrific base stats including the highest Aim Assist (71) of any Adaptive AR and is just an all-around terrific weapon.
+
+TFP rolls with sights, not barrels, meaning that the appearance and effective range can be materially modified by your choice here.
+
+* **25m**: Hitmark, Cleanshot
+* **28m**: Red-Dot Micro, Red Dot 2 MOA
+* **39m**: Rifle Scope ST, Rifle Scope SSF. One sticking point for some on these long-range scopes is the muzzle flash. The constrained view combined with muzzle flash can make target acquisition difficult. *"When you get down to 20m, tracking targets becomes an issue."* ([Aztecross](https://youtu.be/YMkJn9r6OC0?t=324))
+### Roll: **Chasing Stability**
+`Tap the Trigger` starts you off stable and `Dynamic Sway Reduction` keeps you stable. `Iron Grip` is a crazy boost to `Stability`.
+```
+  Barrels [ 60%]: Red Dot Micro, Red Dot 2 MOA
+  Mags    [ 28%]: Steady Rounds
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 33%]: Tap the Trigger, Iron Grip
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🏃‍♂️🏃‍♂️🏃‍♂️🌟 Collector's Edition | 0.24% | 420 |
+| 🏃‍♂️🏃‍♂️🏃‍♂️ CE (+barrels) | 0.37% | 270 |
+| 🏃‍♂️🏃‍♂️🏃‍♂️ CE (+magazines) | 0.60% | 168 |
+| 🏃‍♂️🏃‍♂️🏃‍♂️ CE (-masterworks) | 0.95% | 105 |
+| 🏃‍♂️🏃‍♂️🏃‍♂️ CE (+barrels, +magazines) | 0.93% | 108 |
+| 🏃‍♂️🏃‍♂️🏃‍♂️ CE (-magazines) | 0.83% | 120 |
+| 🏃‍♂️🏃‍♂️ (+barrels, -masterworks) | 1.48% | 67 |
+| 🏃‍♂️🏃‍♂️ (+magazines, -masterworks) | 2.38% | 42 |
+| 🏃‍♂️🏃‍♂️ (-magazines, -masterworks) | 3.33% | 30 |
+| 🏃‍♂️ (+barrels, +magazines, -masterworks) | 3.70% | 27 |
+
+### Roll: **Knock 'em Down**
+Don't underestimate the effect of MKC. Here's how it plays out:
+* Base: 9 shots (8C, 1B) - 0.8s TTK // 14B 1.3s
+* MKCx1: 7 shots (7C, 0B) - 0.6s TTK // 12B 1.1s
+
+That's a pretty solid little boost; definitely spicy in sixes.
+```
+  Barrels [ 60%]: Red Dot Micro, Red Dot 2 MOA
+  Mags    [ 28%]: Steady Rounds
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: Multikill Clip
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🎳🎳🎳🌟 Collector's Edition | 0.12% | 840 |
+| 🎳🎳🎳 CE (+barrels) | 0.19% | 540 |
+| 🎳🎳🎳 CE (+magazines) | 0.30% | 336 |
+| 🎳🎳🎳 CE (-masterworks) | 0.48% | 210 |
+| 🎳🎳🎳 CE (+barrels, +magazines) | 0.46% | 216 |
+| 🎳🎳🎳 CE (-magazines) | 0.42% | 240 |
+| 🎳🎳 (+barrels, -masterworks) | 0.74% | 135 |
+| 🎳🎳 (+magazines, -masterworks) | 1.19% | 84 |
+| 🎳🎳 (-magazines, -masterworks) | 1.67% | 60 |
+| 🎳 (+barrels, +magazines, -masterworks) | 1.85% | 54 |
+
+### Roll: **CoolGuy's Hybrid AR/SMG**
+Since damage falloff happens at 20m, you want these super zoomed out scopes and all the `Stability` and `Handling` we can get. We're only going to accept low-zoom scopes because you can only use this as close range and long-zoom scope won't have any use (and works against you).
+```
+  Barrels [ 60%]: Cleanshot IS, Hitmark IS
+  Mags    [ 28%]: Steady Rounds
+  Perks 1 [ 16%]: Dynamic Sway Reduction
+  Perks 2 [ 16%]: Iron Gaze
+  MWorks  [ 25%]: Handling MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 😎😎😎🌟 Collector's Edition | 0.12% | 840 |
+| 😎😎😎 CE (+barrels) | 0.19% | 540 |
+| 😎😎😎 CE (+magazines) | 0.30% | 336 |
+| 😎😎😎 CE (-masterworks) | 0.48% | 210 |
+| 😎😎😎 CE (+barrels, +magazines) | 0.46% | 216 |
+| 😎😎😎 CE (-magazines) | 0.42% | 240 |
+| 😎😎 (+barrels, -masterworks) | 0.74% | 135 |
+| 😎😎 (+magazines, -masterworks) | 1.19% | 84 |
+| 😎 (+barrels, +magazines, -masterworks) | 1.85% | 54 |
+
+## The Forward Path - PvE
+If you're looking at The Forward Path from the perspective of a PvE player, you'll find a standard set of perks from seasons past. As Year 4 rolls on and more Kinetic weapons appear with sweet new perks like Surplus, Wellspring and One for All, TFP will find trouble shining. These are some workhorse rolls that will hold up until that point.
+### Roll: **Robbin' and Bucklin'**
+Classic combo here. Grave Robber creates ammo to reload the mag and that melee kill will activate Swashbuckler x5.
+```
+  Barrels [ 60%]: Red Dot Micro, Red Dot 2 MOA
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [ 16%]: Grave Robber
+  Perks 2 [ 16%]: Swashbuckler
+  MWorks  [ 25%]: Range MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🦹‍♂️🦹‍♂️🦹‍♂️🌟 Collector's Edition | 0.12% | 840 |
+| 🦹‍♂️🦹‍♂️🦹‍♂️ CE (+barrels) | 0.19% | 540 |
+| 🦹‍♂️🦹‍♂️🦹‍♂️ CE (+magazines) | 0.36% | 280 |
+| 🦹‍♂️🦹‍♂️🦹‍♂️ CE (+barrels, +magazines) | 0.56% | 180 |
+| 🦹‍♂️🦹‍♂️🦹‍♂️ CE (-masterworks) | 0.48% | 210 |
+| 🦹‍♂️🦹‍♂️ (+barrels, -masterworks) | 0.74% | 135 |
+| 🦹‍♂️🦹‍♂️ (+magazines, -masterworks) | 1.43% | 70 |
+| 🦹‍♂️🦹‍♂️ (+barrels, +magazines, -masterworks) | 2.22% | 45 |
+| 🦹‍♂️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+
+### Roll: **Ragin', Clippin' and Bucklin'**
+While Feeding Frenzy was slightly nerfed, it's still a terrific perk, activating (and stackin) on any kill. With two kills, you're at Outlaw level and with three kills you're beyond Outlaw.
+```
+  Barrels [ 60%]: Red Dot Micro, Red Dot 2 MOA
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 33%]: Multikill Clip, Swashbuckler
+  MWorks  [ 25%]: Range MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 😡😡😡🌟 Collector's Edition | 0.24% | 420 |
+| 😡😡😡 CE (+barrels) | 0.37% | 270 |
+| 😡😡😡 CE (+magazines) | 0.71% | 140 |
+| 😡😡😡 CE (+barrels, +magazines) | 1.11% | 90 |
+| 😡😡😡 CE (-masterworks) | 0.95% | 105 |
+| 😡😡 (+barrels, -masterworks) | 1.48% | 67 |
+| 😡😡 (+magazines, -masterworks) | 2.86% | 35 |
+| 😡😡 (+barrels, +magazines, -masterworks) | 4.44% | 22 |
+| 😡 (-barrels, -magazines, -masterworks) | 5.56% | 18 |
+
 # Heritage
 *For all possible perks, check out **Heritage** over on [light.gg](https://www.light.gg/db/items/4248569242/heritage/)*
 
