@@ -16,6 +16,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * [Cold Front](#cold-front) ([PvP/PvE Double Duty](#cold-front---pvppve-double-duty), [PvP](#cold-front---pvp), [PvE](#cold-front---pve))
 * [Glacioclasm](#glacioclasm) ([PvP](#glacioclasm---pvp))
 * Gnawing Hunger ([PvP](#gnawing-hunger---pvp), [PvE](#gnawing-hunger---pve))
+* [Hawkmoon](#hawkmoon) ([PvP](#hawkmoon---pvp))
 * Honor's Edge ([PvE](#honors-edge---pve))
 * Interference VI ([PvE](#interference-vi---pve))
 * Jian 7 Rifle ([PvP](#jian-7-rifle---pvp))
@@ -1500,6 +1501,102 @@ If that's off the table, then classic combos will carry the day here - reload pe
   Perks 2 [ 70%]: Multikill Clip, Kill Clip
   MWorks  [100%]: *
   ```
+# Hawkmoon
+*For all possible perks, check out **Hawkmoon** over on [light.gg](https://www.light.gg/db/items/3856705927/hawkmoon/)*
+
+Hawkmoon is a 140 RPM Exotic Hand Cannon, re-issued from Destiny 1 featuring random rolls! The base stats are terrific and it's hard to argue that any single roll is "bad" per se, but there are certainly some rolls that are more desireable than others from a min/max'ers perspective.
+
+If you haven't already **complete the catalyst**! Completing it grants you the masterwork:
+> "Increased magazine size. Grants increased handling, reload and weapon range based on the number of stacks of Paracausal Charge."
+
+I'm going to be using video reviews from a few folks in choosing which rolls to share.
+
+
+  * Aztecross - [Hawkmoon RE-review (Which Perk is the Best? My Opinion)](https://www.youtube.com/watch?v=xhkQ0ZBplh0)
+  * CammyCakes - [Hawkmoon's FINAL Form | Best Rolls!!!](https://www.youtube.com/watch?v=txVe9oMUshU)
+  * Drewsky - [The Hawkmoon God Roll Isn't What I Expected](https://www.youtube.com/watch?v=K4nBwU6opJk)
+  * Fallout - [DON’T Run This Perk on Hawkmoon! The True GOD ROLL](https://www.youtube.com/watch?v=jCgo41bYjAo)
+
+
+From Drewsky's, here are some effective ranges:
+
+
+  | Perks          | Range |
+  |----------------|-------|
+  | Corkscrew | 31.2m      |
+  | Smallbore  |   31.5m   |
+  | Hammer-Forged    |   31.5m   |
+  | Full Bore   |   32.5m   |
+  | Smallbore + Rangefinder   | 34.2m |
+  | Hammer-Forged + Rangefinder  |   34.5m   |
+  | Hammer-Forged + Killing Wind (Active)   |   35m   |
+  | Full Bore + Rangefinder  |   35.5m (est.)  |
+
+
+There aren't any PvE rolls featured below. Watching Hawkmoon w/Paracausal x7 chunk down enemies is truly rewarding (as is hearing CAWWW!). There are no perks or combinations of perks that make a roll more or less effective in PvE beyond whatever personal preference adds consistency for you. There's an argument to be made that the answer to that question is "Use PvP rolls which are all about adding consistency" 🙃
+## Hawkmoon - PvP
+(see above)
+### Roll: **Drewsky's No. 1 Choice**
+The effect to which Combat Grip straights out recoil will surprise you. [Have a look!](https://youtu.be/K4nBwU6opJk?t=386) All around Range and Stability benefits from the combo of Smallbore Rangefinder make this a terrific roll.
+```
+  Barrels [ 11%]: Smallbore
+  Mags    [100%]: *
+  Perks 1 [ 11%]: Rangefinder
+  Perks 2 [ 20%]: Combat Grip
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🌕🌕🌕🌟 Collector's Edition | 0.25% | 405 |
+| 🌕🌕🌕 CE (+barrels) | 0.49% | 202 |
+| 🌕🌕🌕 CE (+perks1) | 0.74% | 135 |
+| 🌕🌕 (+barrels, +perks1) | 1.48% | 67 |
+
+### Roll: **Drewsky's Alternate Route**
+Same as the above roll except significanly less `Handling`. "It's a half step behind the best roll."
+```
+  Barrels [ 11%]: Extended Barrel
+  Mags    [100%]: *
+  Perks 1 [ 11%]: Rangefinder
+  Perks 2 [ 20%]: Heavy Grip
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🌓🌓🌓🌟 Collector's Edition | 0.25% | 405 |
+| 🌓🌓🌓 CE (+perks1) | 0.74% | 135 |
+
+### Roll: **CammyCakes' Pick**
+The catalyst does nothing for Stability, so you want as much as you can get. This roll will out-range any 140 RPM Hand Cannon currently in the game.
+```
+  Barrels [ 11%]: Hammer-Forged Rifling
+  Mags    [100%]: *
+  Perks 1 [ 11%]: Eye of the Storm
+  Perks 2 [ 20%]: Heavy Grip
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🧁🧁🧁🌟 Collector's Edition | 0.25% | 405 |
+
+### Roll: **Fallout's Pick**
+Pretty straightforward set of suggestions here. Avoid Moving Target because you can get the same bonus from just throwing a Hand Cannon AA mod on your helmet.
+```
+  Barrels [ 11%]: Smallbore
+  Mags    [100%]: *
+  Perks 1 [ 44%]: Rangefinder, Eye of the Storm, Killing Wind, Opening Shot
+  Perks 2 [ 40%]: Smooth Grip, Heavy Grip
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 💣💣💣🌟 Collector's Edition | 1.98% | 50 |
+| 💣💣💣 CE (+barrels) | 5.93% | 16 |
+
 ## Honor's Edge - PvE
 *For all possible perks, check out **Honor's Edge** over on [light.gg](https://www.light.gg/db/items/2857348871/honors-edge/)*
 
