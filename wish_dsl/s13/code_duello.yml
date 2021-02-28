@@ -3,8 +3,8 @@ name: Code Duello
 item_id: 2496242052
 lightgg: https://www.light.gg/db/items/2496242052/code-duello/
 traits:
-  barrels:     {t: 6, c: 1}
-  magazines:   {t: 5, c: 1}
+  barrels:     {t: 6, c: 2}
+  magazines:   {t: 5, c: 2}
   perks1:      {t: 5, c: 1}
   perks2:      {t: 6, c: 1}
   masterworks: {t: 5, c: 1}
