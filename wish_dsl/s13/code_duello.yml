@@ -22,11 +22,21 @@ overview: >
   Yes, you can finally get rid of the curated `Bad Omens` with `Impact Casing`
   you've been holding on to for ages 😉 A decent roll below is going to now
   outclass that because of the new final-column damage perks! 💥
+
+
+  Finally, definitely check out [Rustopholis]. He does super deep dives on
+  Rocket Launchers, including a few that were super helpful in understanding
+  how some of the new perks worked.
+
+
+  * [Best Legendary Rocket Launchers, Code Duello Build, Perks, Guides](https://www.youtube.com/watch?v=ckCLJ0yVhZM)
+  
+  * [Best Legendary Rocket Launcher Perks PART 2 KNOW THE DATA](https://www.youtube.com/watch?v=RXnNIV7y05M)
 activities:
   - 
     name: PvP
     overview: >
-      Fallout (of course!) has 
+      Fallout has 
       [a guide](https://www.youtube.com/watch?v=4iQSmF67Exk)
       hitting on `Blast Radius` and `Cluster Bombs` configuration for PvP and
       PvE. Of course, this was before the change was made that moved more of
@@ -44,7 +54,7 @@ activities:
           in your grasp.
         perks: 
           base: 
-            barrels: [Quick Launch, Smart Drift Control, Linear Compensator]
+            barrels: [Quick Launch, Smart Drift Control]
             magazines: [High-Velocity Rounds]
             perks1: [Impulse Amplifier]
             perks2: [Cluster Bomb]
@@ -71,7 +81,9 @@ activities:
           With `Lasting Impression` it's possible to stick a rocket, switch
           to another weapon and debuff the stickee (e.g. Divinity). With Auto-
           Loading Holster, by the time you switch back to Code Duello, it
-          should be reloaded. Rinse and repeat! 
+          should be reloaded. Rinse and repeat! Be forewarned however, this is
+          a super niche roll and not at all a run-and-gun RL. It's more for
+          grins on what type of "chess" you can play with an RL in Destiny.
         perks: 
           base: 
             barrels: [Quick Launch, Smart Drift Control, Countermass]
@@ -89,22 +101,47 @@ activities:
           - 📺📺 CE (-magazines, -masterworks)
           - 📺 CE (-barrels, -magazines, -masterworks)
       -
+        name: Eternal Sunshine
+        overview: >
+          This goes great with Warmind-cell builds for constantly clearing
+          adds. Via Rustopholis above, note that Field Prep only checks to see
+          if you're crouched at the *start* of the reload animation, not
+          throughout.
+        perks: 
+          base: 
+            barrels: [Quick Launch, Smart Drift Control, Countermass]
+            magazines: [Alloy Casing]
+            perks1: [Field Prep, Impulse Amplifier]
+            perks2: [Frenzy]
+            masterworks: [Handling MW]
+        variants:
+          - ☀️☀️☀️🌟 Collector's Edition
+          - ☀️☀️☀️ CE (-barrels)
+          - ☀️☀️☀ CE (-magazines)
+          - ☀️☀️☀️ CE (-masterworks)
+          - ☀️☀️ (-barrels, -magazines)
+          - ☀️☀️ (-barrels, -masterworks)
+          - ☀️☀️ (-magazines, -masterworks)
+          - ☀️ (-barrels, -magazines, -masterworks)
+      -
         name: Last Stand
         overview: >
           This is your standard "stand behind cover / in a well and chuck
           rockets at the boss" roll. Whether or not you value `Frenzy` over
           `Lasting Impression` will depend on the encounter. The barrels and
-          masterworks are gravy.
+          masterworks are mostly focused on adding Handling and are gravy
+          (but solid if you get them!).
         perks: 
           base: 
             barrels: [Quick Launch, Smart Drift Control, Countermass]
             magazines: [Impact Casing]
             perks1: [Field Prep]
             perks2: [Lasting Impression, Frenzy]
-            masterworks: [Reload MW, Handling MW]
+            masterworks: [Handling MW]
         variants:
           - 🚩🚩🚩🌟 Collector's Edition
           - 🚩🚩🚩 CE (-barrels)
+          - 🚩🚩🚩 CE (-magazines)
           - 🚩🚩🚩 CE (-masterworks)
           - 🚩🚩🚩 CE (-barrels, -masterworks)
           - 🚩🚩 CE (-magazines)
