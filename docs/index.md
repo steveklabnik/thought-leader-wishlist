@@ -9,6 +9,9 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 
 ---
 
+**Season 13 - Season of the Chosen (December 2020 - May 2021)**
+* [Code Duello](#code-duello) ([PvP](#code-duello---pvp), [PvE](#code-duello---pve))
+
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
 * BrayTech Werewolf ([PvP](#braytech-werewolf---pvp), [PvE](#braytech-werewolf---pve))
@@ -75,6 +78,81 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * Trophy Hunter ([PvP](#trophy-hunter---pvp), [PvE](#trophy-hunter---pve))
 
 ---
+# Code Duello
+*For all possible perks, check out **Code Duello** over on [light.gg](https://www.light.gg/db/items/2496242052/code-duello/)*
+
+Code Duello is the Season 13 Rocket Launcher. You can pick it up from chests in the Battlegrounds playlists and Umbral Engrams. It features a handful of the new S13 perks including `Impulse Amplifier`, `Frenzy` and `Lasting Impression`. Ehroar put together a [solid video review](https://www.youtube.com/watch?v=mcgBIemy83E) comparing them and offering some suggestions for interesting rolls. You're going to be drowning in these by the end of Season 13 and with the new damage perks, these are worth picking up!
+
+Yes, you can finally get rid of the curated `Bad Omens` with `Impact Casing` you've been holding on to for ages 😉 A decent roll below is going to now outclass that because of the new final-column damage perks! 💥
+## Code Duello - PvP
+Fallout (of course!) has  [a guide](https://www.youtube.com/watch?v=4iQSmF67Exk) hitting on `Blast Radius` and `Cluster Bombs` configuration for PvP and PvE. Of course, this was before the change was made that moved more of the damage away from the clusters. That being said, the overall thrust of the video still holds for PvP. For PvE with the release of the new damage perks, `Cluster Bombs` is no longer your pick (see below). 
+### Roll: **Rain Fire**
+First we start with a super high default `Blast Radius` of `95`. Then we sprinkle on some `Cluster Bomb` action and you've already got a great chance of splashing down on packs of Guardians. Add in high `Velocity` and improved `Handling` and you've got a snappy air raid in your grasp.
+```
+  Barrels [ 50%]: Quick Launch, Smart Drift Control, Linear Compensator
+  Mags    [ 20%]: High-Velocity Rounds
+  Perks 1 [ 20%]: Impulse Amplifier
+  Perks 2 [ 16%]: Cluster Bomb
+  MWorks  [ 20%]: Handling MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ☂️☂️☂️🌟 Collector's Edition | 0.07% | 1499 |
+| ☂️☂️☂️ (-barrels) | 0.13% | 749 |
+| ☂️☂️☂️ (-magazines) | 0.33% | 299 |
+| ☂️☂️☂️ (-masterworks) | 0.33% | 299 |
+| ☂️☂️ (-barrels, -magazines) | 0.67% | 149 |
+| ☂️☂️ (-barrels, -masterworks) | 0.67% | 149 |
+| ☂️☂️ (-magazines, -masterworks) | 1.67% | 60 |
+| ☂️ (-barrels, -magazines, -masterworks) | 3.33% | 30 |
+
+## Code Duello - PvE
+Code Duello has some terrific new perks for dishing out major damage in a flexible way, one of which is incredibly interesting for folks soloing tough content. 
+### Roll: **One-Guardian Show**
+With `Lasting Impression` it's possible to stick a rocket, switch to another weapon and debuff the stickee (e.g. Divinity). With Auto- Loading Holster, by the time you switch back to Code Duello, it should be reloaded. Rinse and repeat! 
+```
+  Barrels [ 50%]: Quick Launch, Smart Drift Control, Countermass
+  Mags    [ 20%]: Impact Casing
+  Perks 1 [ 20%]: Auto-Loading Holster
+  Perks 2 [ 16%]: Lasting Impression
+  MWorks  [ 40%]: Reload MW, Handling MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 📺📺📺🌟 Collector's Edition | 0.13% | 749 |
+| 📺📺📺 CE (-barrels) | 0.27% | 374 |
+| 📺📺📺 CE (-masterworks) | 0.33% | 299 |
+| 📺📺📺 CE (-barrels, -masterworks) | 0.67% | 149 |
+| 📺📺 CE (-magazines) | 0.67% | 149 |
+| 📺📺 CE (-magazines, -barrels) | 1.33% | 74 |
+| 📺📺 CE (-magazines, -masterworks) | 1.67% | 60 |
+| 📺 CE (-barrels, -magazines, -masterworks) | 3.33% | 30 |
+
+### Roll: **Last Stand**
+This is your standard "stand behind cover / in a well and chuck rockets at the boss" roll. Whether or not you value `Frenzy` over `Lasting Impression` will depend on the encounter. The barrels and masterworks are gravy.
+```
+  Barrels [ 50%]: Quick Launch, Smart Drift Control, Countermass
+  Mags    [ 20%]: Impact Casing
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 33%]: Lasting Impression, Frenzy
+  MWorks  [ 40%]: Reload MW, Handling MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🚩🚩🚩🌟 Collector's Edition | 0.27% | 374 |
+| 🚩🚩🚩 CE (-barrels) | 0.53% | 187 |
+| 🚩🚩🚩 CE (-masterworks) | 0.67% | 149 |
+| 🚩🚩🚩 CE (-barrels, -masterworks) | 1.33% | 74 |
+| 🚩🚩 CE (-magazines) | 1.33% | 74 |
+| 🚩🚩 CE (-magazines, -barrels) | 2.67% | 37 |
+| 🚩🚩 CE (-magazines, -masterworks) | 3.33% | 30 |
+| 🚩🚩 CE (-perks1) | 1.33% | 74 |
+| 🚩🚩 CE (-perks1, -barrels) | 2.67% | 37 |
+| 🚩🚩 CE (-perks1, -masterworks) | 3.33% | 30 |
+
 ## Black Scorpion-4sr - PvP
 *For all possible perks, check out **Black Scorpion-4sr** over on [light.gg](https://www.light.gg/db/items/525750263/black-scorpion-4sr/)*
 
