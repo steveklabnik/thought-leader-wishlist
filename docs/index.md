@@ -11,6 +11,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 
 **Season 13 - Season of the Chosen (December 2020 - May 2021)**
 * [Code Duello](#code-duello) ([PvP](#code-duello---pvp), [PvE](#code-duello---pve))
+* [Imperial Needle](#imperial-needle) ([PvP](#imperial-needle---pvp))
 
 **World Drops**
 * Black Scorpion-4sr ([PvP](#black-scorpion-4sr---pvp))
@@ -179,6 +180,63 @@ This is your standard "stand behind cover / in a well and chuck rockets at the b
 | 🚩🚩 CE (-perks1) | 2.13% | 46 |
 | 🚩🚩 CE (-perks1, -barrels) | 2.67% | 37 |
 | 🚩🚩 CE (-perks1, -masterworks) | 10.67% | 9 |
+
+# Imperial Needle
+*For all possible perks, check out **Imperial Needle** over on [light.gg](https://www.light.gg/db/items/3460122497/imperial-needle/)*
+
+The Needle is a Lightweight Frame, Void Bow, part of the S13 family of seasonal weapons. It can roll with many of the new perks including `Frenzy` and `Impulse Amplifier`. It's otherwise [quite similar](https://www.light.gg/db/items/compare/?h=DOPUeB;Moe3e) to the Whispering Slab in terms of base stats.
+
+As per usual, I suggest checking out these amazing posts:
+
+* [A Bow Guide](https://www.reddit.com/r/CrucibleSherpa/comments/kx1ew8/a_bow_guide/) - [/u/kfairns](https://www.reddit.com/user/kfairns/)
+* [An In-Depth Guide to Using a Bow in Competitive PvP (Console or PC)](https://www.reddit.com/r/CruciblePlaybook/comments/hjvoka/an_indepth_guide_to_using_a_bow_in_competitive/) - [/u/TheGuiltySpark117](https://www.reddit.com/user/TheGuiltySpark117/)
+
+The new perks don't change the suggested PvP rolls from Whispering Slab, so these rolls will be straight reproductions from what we previously covered when S11 dropped; [Whispering Slab - S11](https://rslifka.github.io/wishlist/#whispering-slab).
+## Imperial Needle - PvP
+
+### Roll: **GuiltySpark's Aggro Needle**
+(copied from [Whispering Slab](https://rslifka.github.io/wishlist/#whispering-slab))   
+```
+  Barrels [ 28%]: Elastic String
+  Mags    [ 33%]: Fiberglass Arrow Shaft
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 20%]: Accuracy MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 😡😡😡🌟 Collector's Edition | 0.05% | 1889 |
+| 😡😡😡 CE (+barrels) | 0.10% | 1030 |
+| 😡😡😡 CE (+magazines) | 0.10% | 1050 |
+| 😡😡😡 CE (+masterworks) | 0.11% | 944 |
+| 😡😡 (+barrels, +magazines, +masterworks) | 0.35% | 286 |
+| 😡 (-barrels, -magazines, +masterworks) | 1.11% | 89 |
+
+### Roll: **GuiltySpark's Reserved Needle**
+(copied from [Whispering Slab](https://rslifka.github.io/wishlist/#whispering-slab))   
+```
+  Barrels [ 28%]: High Tension String
+  Mags    [ 33%]: Fiberglass Arrow Shaft
+  Perks 1 [ 16%]: Archer's Tempo
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 20%]: Accuracy MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🧐🧐🧐🌟 Collector's Edition | 0.05% | 1889 |
+| 🧐🧐🧐 CE (+barrels) | 0.10% | 1030 |
+| 🧐🧐🧐 CE (+magazines) | 0.10% | 1050 |
+| 🧐🧐🧐 CE (+masterworks) | 0.11% | 944 |
+| 🧐🧐 (+barrels, +magazines, +masterworks) | 0.35% | 286 |
+| 🧐🧐🧐 CE (-barrels) | 0.19% | 540 |
+| 🧐🧐🧐 CE (-magazines) | 0.16% | 630 |
+| 🧐🧐🧐 CE (-masterworks) | 0.26% | 378 |
+| 🧐🧐 (-barrels, -magazines) | 0.56% | 179 |
+| 🧐🧐 (-barrels, -masterworks) | 0.93% | 108 |
+| 🧐🧐 (-magazines, -masterworks) | 0.79% | 126 |
+| 🧐 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 
 ## Black Scorpion-4sr - PvP
 *For all possible perks, check out **Black Scorpion-4sr** over on [light.gg](https://www.light.gg/db/items/525750263/black-scorpion-4sr/)*
