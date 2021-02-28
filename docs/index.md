@@ -84,13 +84,18 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 Code Duello is the Season 13 Rocket Launcher. You can pick it up from chests in the Battlegrounds playlists and Umbral Engrams. It features a handful of the new S13 perks including `Impulse Amplifier`, `Frenzy` and `Lasting Impression`. Ehroar put together a [solid video review](https://www.youtube.com/watch?v=mcgBIemy83E) comparing them and offering some suggestions for interesting rolls. You're going to be drowning in these by the end of Season 13 and with the new damage perks, these are worth picking up!
 
 Yes, you can finally get rid of the curated `Bad Omens` with `Impact Casing` you've been holding on to for ages 😉 A decent roll below is going to now outclass that because of the new final-column damage perks! 💥
+
+Finally, definitely check out [Rustopholis]. He does super deep dives on Rocket Launchers, including a few that were super helpful in understanding how some of the new perks worked.
+
+* [Best Legendary Rocket Launchers, Code Duello Build, Perks, Guides](https://www.youtube.com/watch?v=ckCLJ0yVhZM)
+* [Best Legendary Rocket Launcher Perks PART 2 KNOW THE DATA](https://www.youtube.com/watch?v=RXnNIV7y05M)
 ## Code Duello - PvP
-Fallout (of course!) has  [a guide](https://www.youtube.com/watch?v=4iQSmF67Exk) hitting on `Blast Radius` and `Cluster Bombs` configuration for PvP and PvE. Of course, this was before the change was made that moved more of the damage away from the clusters. That being said, the overall thrust of the video still holds for PvP. For PvE with the release of the new damage perks, `Cluster Bombs` is no longer your pick (see below). 
+Fallout has  [a guide](https://www.youtube.com/watch?v=4iQSmF67Exk) hitting on `Blast Radius` and `Cluster Bombs` configuration for PvP and PvE. Of course, this was before the change was made that moved more of the damage away from the clusters. That being said, the overall thrust of the video still holds for PvP. For PvE with the release of the new damage perks, `Cluster Bombs` is no longer your pick (see below). 
 ### Roll: **Rain Fire**
 First we start with a super high default `Blast Radius` of `95`. Then we sprinkle on some `Cluster Bomb` action and you've already got a great chance of splashing down on packs of Guardians. Add in high `Velocity` and improved `Handling` and you've got a snappy air raid in your grasp.
 ```
-  Barrels [ 50%]: Quick Launch, Smart Drift Control, Linear Compensator
-  Mags    [ 20%]: High-Velocity Rounds
+  Barrels [ 60%]: Quick Launch, Smart Drift Control
+  Mags    [ 40%]: High-Velocity Rounds
   Perks 1 [ 20%]: Impulse Amplifier
   Perks 2 [ 16%]: Cluster Bomb
   MWorks  [ 20%]: Handling MW
@@ -98,22 +103,22 @@ First we start with a super high default `Blast Radius` of `95`. Then we sprinkl
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| ☂️☂️☂️🌟 Collector's Edition | 0.07% | 1499 |
-| ☂️☂️☂️ (-barrels) | 0.13% | 749 |
-| ☂️☂️☂️ (-magazines) | 0.33% | 299 |
-| ☂️☂️☂️ (-masterworks) | 0.33% | 299 |
+| ☂️☂️☂️🌟 Collector's Edition | 0.16% | 625 |
+| ☂️☂️☂️ (-barrels) | 0.27% | 374 |
+| ☂️☂️☂️ (-magazines) | 0.40% | 250 |
+| ☂️☂️☂️ (-masterworks) | 0.80% | 125 |
 | ☂️☂️ (-barrels, -magazines) | 0.67% | 149 |
-| ☂️☂️ (-barrels, -masterworks) | 0.67% | 149 |
-| ☂️☂️ (-magazines, -masterworks) | 1.67% | 60 |
+| ☂️☂️ (-barrels, -masterworks) | 1.33% | 74 |
+| ☂️☂️ (-magazines, -masterworks) | 2.00% | 50 |
 | ☂️ (-barrels, -magazines, -masterworks) | 3.33% | 30 |
 
 ## Code Duello - PvE
 Code Duello has some terrific new perks for dishing out major damage in a flexible way, one of which is incredibly interesting for folks soloing tough content. 
 ### Roll: **One-Guardian Show**
-With `Lasting Impression` it's possible to stick a rocket, switch to another weapon and debuff the stickee (e.g. Divinity). With Auto- Loading Holster, by the time you switch back to Code Duello, it should be reloaded. Rinse and repeat! 
+With `Lasting Impression` it's possible to stick a rocket, switch to another weapon and debuff the stickee (e.g. Divinity). With Auto- Loading Holster, by the time you switch back to Code Duello, it should be reloaded. Rinse and repeat! Be forewarned however, this is a super niche roll and not at all a run-and-gun RL. It's more for grins on what type of "chess" you can play with an RL in Destiny.
 ```
-  Barrels [ 50%]: Quick Launch, Smart Drift Control, Countermass
-  Mags    [ 20%]: Impact Casing
+  Barrels [ 80%]: Quick Launch, Smart Drift Control, Countermass
+  Mags    [ 40%]: Impact Casing
   Perks 1 [ 20%]: Auto-Loading Holster
   Perks 2 [ 16%]: Lasting Impression
   MWorks  [ 40%]: Reload MW, Handling MW
@@ -121,37 +126,59 @@ With `Lasting Impression` it's possible to stick a rocket, switch to another wea
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 📺📺📺🌟 Collector's Edition | 0.13% | 749 |
-| 📺📺📺 CE (-barrels) | 0.27% | 374 |
-| 📺📺📺 CE (-masterworks) | 0.33% | 299 |
-| 📺📺📺 CE (-barrels, -masterworks) | 0.67% | 149 |
-| 📺📺 CE (-magazines) | 0.67% | 149 |
+| 📺📺📺🌟 Collector's Edition | 0.43% | 234 |
+| 📺📺📺 CE (-barrels) | 0.53% | 187 |
+| 📺📺📺 CE (-masterworks) | 1.07% | 93 |
+| 📺📺📺 CE (-barrels, -masterworks) | 1.33% | 74 |
+| 📺📺 CE (-magazines) | 1.07% | 93 |
 | 📺📺 CE (-magazines, -barrels) | 1.33% | 74 |
-| 📺📺 CE (-magazines, -masterworks) | 1.67% | 60 |
+| 📺📺 CE (-magazines, -masterworks) | 2.67% | 37 |
 | 📺 CE (-barrels, -magazines, -masterworks) | 3.33% | 30 |
 
-### Roll: **Last Stand**
-This is your standard "stand behind cover / in a well and chuck rockets at the boss" roll. Whether or not you value `Frenzy` over `Lasting Impression` will depend on the encounter. The barrels and masterworks are gravy.
+### Roll: **Eternal Sunshine**
+This goes great with Warmind-cell builds for constantly clearing adds. Via Rustopholis above, note that Field Prep only checks to see if you're crouched at the *start* of the reload animation, not throughout.
 ```
-  Barrels [ 50%]: Quick Launch, Smart Drift Control, Countermass
-  Mags    [ 20%]: Impact Casing
-  Perks 1 [ 20%]: Field Prep
-  Perks 2 [ 33%]: Lasting Impression, Frenzy
-  MWorks  [ 40%]: Reload MW, Handling MW
+  Barrels [ 80%]: Quick Launch, Smart Drift Control, Countermass
+  Mags    [ 40%]: Alloy Casing
+  Perks 1 [ 40%]: Field Prep, Impulse Amplifier
+  Perks 2 [ 16%]: Frenzy
+  MWorks  [ 20%]: Handling MW
 ```
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🚩🚩🚩🌟 Collector's Edition | 0.27% | 374 |
+| ☀️☀️☀️🌟 Collector's Edition | 0.43% | 234 |
+| ☀️☀️☀️ CE (-barrels) | 0.53% | 187 |
+| ☀️☀️☀ CE (-magazines) | 1.07% | 93 |
+| ☀️☀️☀️ CE (-masterworks) | 2.13% | 46 |
+| ☀️☀️ (-barrels, -magazines) | 1.33% | 74 |
+| ☀️☀️ (-barrels, -masterworks) | 2.67% | 37 |
+| ☀️☀️ (-magazines, -masterworks) | 5.33% | 18 |
+| ☀️ (-barrels, -magazines, -masterworks) | 6.67% | 15 |
+
+### Roll: **Last Stand**
+This is your standard "stand behind cover / in a well and chuck rockets at the boss" roll. Whether or not you value `Frenzy` over `Lasting Impression` will depend on the encounter. The barrels and masterworks are mostly focused on adding Handling and are gravy (but solid if you get them!).
+```
+  Barrels [ 80%]: Quick Launch, Smart Drift Control, Countermass
+  Mags    [ 40%]: Impact Casing
+  Perks 1 [ 20%]: Field Prep
+  Perks 2 [ 33%]: Lasting Impression, Frenzy
+  MWorks  [ 20%]: Handling MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🚩🚩🚩🌟 Collector's Edition | 0.43% | 234 |
 | 🚩🚩🚩 CE (-barrels) | 0.53% | 187 |
-| 🚩🚩🚩 CE (-masterworks) | 0.67% | 149 |
-| 🚩🚩🚩 CE (-barrels, -masterworks) | 1.33% | 74 |
-| 🚩🚩 CE (-magazines) | 1.33% | 74 |
-| 🚩🚩 CE (-magazines, -barrels) | 2.67% | 37 |
-| 🚩🚩 CE (-magazines, -masterworks) | 3.33% | 30 |
-| 🚩🚩 CE (-perks1) | 1.33% | 74 |
+| 🚩🚩🚩 CE (-magazines) | 1.07% | 93 |
+| 🚩🚩🚩 CE (-masterworks) | 2.13% | 46 |
+| 🚩🚩🚩 CE (-barrels, -masterworks) | 2.67% | 37 |
+| 🚩🚩 CE (-magazines) | 1.07% | 93 |
+| 🚩🚩 CE (-magazines, -barrels) | 1.33% | 74 |
+| 🚩🚩 CE (-magazines, -masterworks) | 5.33% | 18 |
+| 🚩🚩 CE (-perks1) | 2.13% | 46 |
 | 🚩🚩 CE (-perks1, -barrels) | 2.67% | 37 |
-| 🚩🚩 CE (-perks1, -masterworks) | 3.33% | 30 |
+| 🚩🚩 CE (-perks1, -masterworks) | 10.67% | 9 |
 
 ## Black Scorpion-4sr - PvP
 *For all possible perks, check out **Black Scorpion-4sr** over on [light.gg](https://www.light.gg/db/items/525750263/black-scorpion-4sr/)*
