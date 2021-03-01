@@ -1,0 +1,172 @@
+syntax_version: 2
+name: Extraordinary Rendition
+item_id: 1097616550
+lightgg: https://www.light.gg/db/items/1097616550/extraordinary-rendition/
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  Extraordinary Rendition is a 750 RPM Kinetic Submachine Gun; part of the S13
+  weapon set. Both perks and stats are
+  [virtually identical](https://www.light.gg/db/items/compare/?h=BBbEym;BZzrdV)
+  to the Cold Front, available only during the 2020 Dawning, so we'll be able
+  to rely on the work we did there for these rolls 🎉🎉🎉 Ehroar covers the
+  [Extraordinary Rendition](https://www.youtube.com/watch?v=SplO6sE1Nxg)
+  in depth.
+activities:
+  - 
+    name: PvP/PvE
+    overview: >
+      The cornerstone of both PvE and PvP are `Surplus`. If you end up with a
+      "PvE roll" that also happens to have super high Stability, then you've
+      got the Holy Grail. Congrats! For an explanation of these rolls, please
+      read further down towards the specific PvE and PvP sections.
+    roll_sets:
+      - 
+        name: An Absolutely Extraordinary Rendition
+        overview: >
+          The best of everything.
+        perks:
+          base:
+            barrels: [Chambered Compensator]
+            magazines: [Steady Rounds]      
+            perks1: [Surplus]
+            perks2: [One for All, Frenzy]
+            masterworks: [Stability MW]     
+          extensions:
+            barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+            magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+        variants:
+          - 🏆🏆🏆🌟 Collector's Edition 
+          - 🏆🏆🏆 CE (+barrels)         
+          - 🏆🏆🏆 CE (+magazines)       
+          - 🏆🏆🏆 CE (-masterworks)     
+          - 🏆🏆 (-barrels) 
+          - 🏆🏆 (-magazines) 
+          - 🏆🏆 (+barrels, -masterworks) 
+  - 
+    name: PvP
+    overview: >
+      EA needs a lot of help in the Stability department, which is the
+      entire focus of these two rolls. At best, you'll be able to get Stability
+      up from `17` to `52` plus the benefits coming from Surplus and Tap
+      the Trigger. This puts you way above the base Stability on the
+      vaunted Antiope-D and other Precision Frame SMGs. The Recoil is `97`
+      so YMMV on whether or not a Counterbalance mod is required (I
+      suggest an Icarus Mod otherwise).
+    roll_sets:
+      -
+        name: A Perfect Rendition
+        overview: >
+
+        perks: 
+          base: 
+            barrels: [Chambered Compensator]
+            magazines: [Steady Rounds]
+            perks1: [Surplus]
+            perks2: [Tap the Trigger]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+            magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+        variants:
+          - 🌄🌄🌄🌟 Collector's Edition
+          - 🌄🌄🌄 CE (+barrels)
+          - 🌄🌄🌄 CE (+magazines)
+          - 🌄🌄🌄 CE (-barrels)
+          - 🌄🌄🌄 CE (-masterworks)
+          - 🌄🌄🌄 CE (-magazines)
+          - 🌄🌄🌄 CE (+barrels, +magazines)
+          - 🌄🌄 (+barrels, -masterworks)
+          - 🌄 (+barrels, -magazines) 
+          - 🌄 (+magazines, -masterworks)
+      -
+        name: A (Mostly) Perfect Rendition
+        overview: >
+          Same as the above, minus `Tap the Trigger`. Stability is so
+          solid without it that we still have a very good PvP roll.
+        perks: 
+          base: 
+            barrels: [Chambered Compensator]
+            magazines: [Steady Rounds]
+            perks1: [Surplus]
+            perks2: []
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+            magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+        variants:
+          - 🌃🌃🌃🌟 Collector's Edition
+          - 🌃🌃🌃 CE (+barrels)
+          - 🌃🌃🌃 CE (+magazines)
+          - 🌃🌃🌃 CE (-barrels)
+          - 🌃🌃🌃 CE (-masterworks)
+          - 🌃🌃🌃 CE (-magazines)
+          - 🌃🌃🌃 CE (+barrels, +magazines)
+          - 🌃🌃 (+barrels, -masterworks)
+          - 🌃 (+barrels, -magazines) 
+          - 🌃 (+magazines, -masterworks)          
+  - 
+    name: PvE
+    overview: >
+      With `Surplus`, `One for All` and `Frenzy` in the EA perk
+      pool, we're looking at a strong contender for one of the best kinetic
+      weapons of all time (second only to the Ikelos SMG). `Surplus` improves
+      Stability and Reload and `One for All` and `Frenzy` provide a tremendous
+      damage boost and leaves your mod slot free for Minor, Major or Boss Spec.
+    roll_sets:
+      -
+        name: A Beautiful Rendition
+        overview: >
+          This is going to be immensely helpful in **high tier content** where you
+          aren't able to proc damage perks off of kills. While `Surplus` will be
+          boosting Stability, the Stability is so low and difficult to manage on
+          console that we'll continue to crave it as a backstop for when we're at
+          lower tiers of `Surplus` benefits.
+        perks:
+          base:
+            barrels: [Chambered Compensator]
+            magazines: [Extended Mag]
+            perks1: [Surplus]
+            perks2: [One for All, Frenzy]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+            magazines: [Extended Mag, Appended Mag]
+        variants:
+          - 🖼🖼🖼🌟 Collector's Edition
+          - 🖼🖼🖼 CE (+barrels)
+          - 🖼🖼🖼 CE (+magazines)
+          - 🖼🖼🖼 CE (+barrels, +magazines)
+          - 🖼🖼🖼 (-barrels)
+          - 🖼🖼🖼 (-magazines)
+          - 🖼🖼🖼 (-masterworks)
+          - 🖼🖼 (-barrels, -magazines, -masterworks)
+      -
+        name: A (Mostly) Beautiful Rendition
+        overview: >
+          Similar to the above but we'll take some extended perks that make this
+          a fun go-to for low- to mid-tier content.
+        perks:
+          base:
+            barrels: [Chambered Compensator]
+            magazines: [Extended Mag]
+            perks1: [Surplus, Overflow]
+            perks2: [Frenzy, Multikill Clip, Rampage]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+            magazines: [Extended Mag, Appended Mag]
+        variants:
+          - 🆗🆗🆗🌟 Collector's Edition
+          - 🆗🆗🆗 CE (+barrels)
+          - 🆗🆗🆗 CE (+magazines)
+          - 🆗🆗🆗 CE (+barrels, +magazines)
+          - 🆗🆗🆗 (-barrels)
+          - 🆗🆗🆗 (-magazines)
+          - 🆗🆗🆗 (-masterworks)
+          - 🆗🆗 (-barrels, -magazines, -masterworks)
+
