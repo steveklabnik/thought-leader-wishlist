@@ -11,6 +11,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 
 **Season 13 - Season of the Chosen (December 2020 - May 2021)**
 * [Code Duello](#code-duello) ([PvP](#code-duello---pvp), [PvE](#code-duello---pve))
+* [Extraordinary Rendition](#extraordinary-rendition) ([PvP/PvE](#extraordinary-rendition---pvppve), [PvP](#extraordinary-rendition---pvp), [PvE](#extraordinary-rendition---pve))
 * [Imperial Needle](#imperial-needle) ([PvP](#imperial-needle---pvp))
 
 **World Drops**
@@ -180,6 +181,124 @@ This is your standard "stand behind cover / in a well and chuck rockets at the b
 | 🚩🚩 CE (-perks1) | 2.13% | 46 |
 | 🚩🚩 CE (-perks1, -barrels) | 2.67% | 37 |
 | 🚩🚩 CE (-perks1, -masterworks) | 10.67% | 9 |
+
+# Extraordinary Rendition
+*For all possible perks, check out **Extraordinary Rendition** over on [light.gg](https://www.light.gg/db/items/1097616550/extraordinary-rendition/)*
+
+Extraordinary Rendition is a 750 RPM Kinetic Submachine Gun; part of the S13 weapon set. Both perks and stats are [virtually identical](https://www.light.gg/db/items/compare/?h=BBbEym;BZzrdV) to the Cold Front, available only during the 2020 Dawning, so we'll be able to rely on the work we did there for these rolls 🎉🎉🎉 Ehroar covers the [Extraordinary Rendition](https://www.youtube.com/watch?v=SplO6sE1Nxg) in depth.
+## Extraordinary Rendition - PvP/PvE
+The cornerstone of both PvE and PvP are `Surplus`. If you end up with a "PvE roll" that also happens to have super high Stability, then you've got the Holy Grail. Congrats! For an explanation of these rolls, please read further down towards the specific PvE and PvP sections.
+### Roll: **An Absolutely Extraordinary Rendition**
+The best of everything.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 28%]: Steady Rounds
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 33%]: One for All, Frenzy
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🏆🏆🏆🌟 Collector's Edition | 0.09% | 1134 |
+| 🏆🏆🏆 CE (+barrels) | 0.33% | 302 |
+| 🏆🏆🏆 CE (+magazines) | 0.22% | 453 |
+| 🏆🏆🏆 CE (-masterworks) | 0.35% | 283 |
+| 🏆🏆 (-barrels) | 0.40% | 252 |
+| 🏆🏆 (-magazines) | 0.31% | 324 |
+| 🏆🏆 (+barrels, -masterworks) | 1.32% | 75 |
+
+## Extraordinary Rendition - PvP
+EA needs a lot of help in the Stability department, which is the entire focus of these two rolls. At best, you'll be able to get Stability up from `17` to `52` plus the benefits coming from Surplus and Tap the Trigger. This puts you way above the base Stability on the vaunted Antiope-D and other Precision Frame SMGs. The Recoil is `97` so YMMV on whether or not a Counterbalance mod is required (I suggest an Icarus Mod otherwise).
+### Roll: **A Perfect Rendition**
+
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 28%]: Steady Rounds
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 16%]: Tap the Trigger
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🌄🌄🌄🌟 Collector's Edition | 0.04% | 2268 |
+| 🌄🌄🌄 CE (+barrels) | 0.17% | 604 |
+| 🌄🌄🌄 CE (+magazines) | 0.11% | 907 |
+| 🌄🌄🌄 CE (-barrels) | 0.20% | 504 |
+| 🌄🌄🌄 CE (-masterworks) | 0.18% | 567 |
+| 🌄🌄🌄 CE (-magazines) | 0.15% | 648 |
+| 🌄🌄🌄 CE (+barrels, +magazines) | 0.41% | 241 |
+| 🌄🌄 (+barrels, -masterworks) | 0.66% | 151 |
+| 🌄 (+barrels, -magazines) | 0.58% | 172 |
+| 🌄 (+magazines, -masterworks) | 0.44% | 226 |
+
+### Roll: **A (Mostly) Perfect Rendition**
+Same as the above, minus `Tap the Trigger`. Stability is so solid without it that we still have a very good PvP roll.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 28%]: Steady Rounds
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [100%]: *
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🌃🌃🌃🌟 Collector's Edition | 0.26% | 378 |
+| 🌃🌃🌃 CE (+barrels) | 0.99% | 100 |
+| 🌃🌃🌃 CE (+magazines) | 0.66% | 151 |
+| 🌃🌃🌃 CE (-barrels) | 1.19% | 84 |
+| 🌃🌃🌃 CE (-masterworks) | 1.06% | 94 |
+| 🌃🌃🌃 CE (-magazines) | 0.93% | 108 |
+| 🌃🌃🌃 CE (+barrels, +magazines) | 2.48% | 40 |
+| 🌃🌃 (+barrels, -masterworks) | 3.97% | 25 |
+| 🌃 (+barrels, -magazines) | 3.47% | 28 |
+| 🌃 (+magazines, -masterworks) | 2.65% | 37 |
+
+## Extraordinary Rendition - PvE
+With `Surplus`, `One for All` and `Frenzy` in the EA perk pool, we're looking at a strong contender for one of the best kinetic weapons of all time (second only to the Ikelos SMG). `Surplus` improves Stability and Reload and `One for All` and `Frenzy` provide a tremendous damage boost and leaves your mod slot free for Minor, Major or Boss Spec.
+### Roll: **A Beautiful Rendition**
+This is going to be immensely helpful in **high tier content** where you aren't able to proc damage perks off of kills. While `Surplus` will be boosting Stability, the Stability is so low and difficult to manage on console that we'll continue to crave it as a backstop for when we're at lower tiers of `Surplus` benefits.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 28%]: Extended Mag
+  Perks 1 [ 16%]: Surplus
+  Perks 2 [ 33%]: One for All, Frenzy
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🖼🖼🖼🌟 Collector's Edition | 0.09% | 1134 |
+| 🖼🖼🖼 CE (+barrels) | 0.33% | 302 |
+| 🖼🖼🖼 CE (+magazines) | 0.16% | 618 |
+| 🖼🖼🖼 CE (+barrels, +magazines) | 0.61% | 164 |
+| 🖼🖼🖼 (-barrels) | 0.40% | 252 |
+| 🖼🖼🖼 (-magazines) | 0.31% | 324 |
+| 🖼🖼🖼 (-masterworks) | 0.35% | 283 |
+| 🖼🖼 (-barrels, -magazines, -masterworks) | 5.56% | 18 |
+
+### Roll: **A (Mostly) Beautiful Rendition**
+Similar to the above but we'll take some extended perks that make this a fun go-to for low- to mid-tier content.
+```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 28%]: Extended Mag
+  Perks 1 [ 33%]: Surplus, Overflow
+  Perks 2 [ 50%]: Frenzy, Multikill Clip, Rampage
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🆗🆗🆗🌟 Collector's Edition | 0.26% | 378 |
+| 🆗🆗🆗 CE (+barrels) | 0.99% | 100 |
+| 🆗🆗🆗 CE (+magazines) | 0.49% | 206 |
+| 🆗🆗🆗 CE (+barrels, +magazines) | 1.82% | 54 |
+| 🆗🆗🆗 (-barrels) | 1.19% | 84 |
+| 🆗🆗🆗 (-magazines) | 0.93% | 108 |
+| 🆗🆗🆗 (-masterworks) | 1.06% | 94 |
+| 🆗🆗 (-barrels, -magazines, -masterworks) | 16.67% | 6 |
 
 # Imperial Needle
 *For all possible perks, check out **Imperial Needle** over on [light.gg](https://www.light.gg/db/items/3460122497/imperial-needle/)*
