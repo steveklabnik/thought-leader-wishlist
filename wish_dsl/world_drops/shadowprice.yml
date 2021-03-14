@@ -1,0 +1,177 @@
+syntax_version: 2
+name: Shadow Price
+item_id: 2633186522
+lightgg: https://www.light.gg/db/items/2633186522/shadow-price/
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  Shadow Price is a 450 RPM Precision Frame, Arc Energy Auto Rifle, offered
+  as a Nightfall-exclusive reward beginning in Season 13. It's the only 450 RPM
+  Auto Rifle dropping apart from the Kinetic Seventh Seraph Carbine;
+  [compare them](https://www.light.gg/db/items/compare/?h=Cc8zza;BdCxNP)
+  over on light.gg. Shadow Price has by far the better perk pool (One for All,
+  Surplus, Feeding Frenzy...) whereas the Carbine can create Warmind Cells,
+  which alone is a reason to use it.
+activities:
+  - 
+    name: PvP
+    overview: >
+      450s haven't been great in PvP since the first year of Destiny 2. 600 RPMs
+      like the Gnawing Hunger and Summoner still reign supreme, and will continue
+      to do so until 450s are buffed. What makes the Shadow
+      Price even less desirable for PvP is the lack of PvP perks that AR users
+      would find interesting in either column. No Dynamic Sway, Tap the Trigger,
+      etc. which makes sense since it's a reward for a PvE activity. Once the
+      Grandmaster NFs appear and Adept mods are accessible, perhaps Adept
+      Counterbalance, Stability, etc. could make it more desireable. Really
+      though, until they're buffed, 450 RPMs may be frustrating to deploy against
+      meta weapons.
+    roll_sets:
+      -
+        name: Crushing Darkness
+        overview: >
+          With either Arrowhead Brake or Chambered Compensator + Counterbalance,
+          you can hit `100` Recoil. Everythign else is this roll is about
+          maximzing Stability. The final column doesn't
+          have any must-have perks; anything there is gravy. With at least two
+          abilities active, Surplus is going to grant a noticeable improvement to
+          Stability, Handling and Reload giving this roll a snappy, almost
+          Lightweight-Frame feel.
+        perks: 
+          base: 
+            barrels: [Chambered Compensator, Arrowhead Brake]
+            magazines: [Steady Rounds]
+            perks1: [Surplus]
+            perks2: []
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Chambered Compensator, Arrowhead Brake, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+            magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+        variants:
+          - 🌌🌌🌌🌟 Collector's Edition
+          - 🌌🌌🌌 CE (+barrels)
+          - 🌌🌌🌌 CE (+magazines)
+          - 🌌🌌 (+barrels, -masterworks)
+          - 🌌🌌 (+barrels, -magazines)
+          - 🌌🌌 (+magazines, -masterworks)
+          - 🌌🌌 (-barrels)
+          - 🌌🌌 (-masterworks)
+          - 🌌🌌 (-magazines)
+      -
+        name: Momentous Night
+        overview: >
+          Similar to the above roll; swapping in Killing Wind instead of
+          Surplus.
+        perks: 
+          base: 
+            barrels: [Chambered Compensator, Arrowhead Brake]
+            magazines: [Steady Rounds]
+            perks1: [Killing Wind]
+            perks2: []
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Chambered Compensator, Arrowhead Brake, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+            magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+        variants:
+          - 🎇🎇🎇🌟 Collector's Edition
+          - 🎇🎇🎇 CE (+barrels)
+          - 🎇🎇🎇 CE (+magazines)
+          - 🎇🎇 (+barrels, -masterworks)
+          - 🎇🎇 (+barrels, -magazines)
+          - 🎇🎇 (+magazines, -masterworks)
+          - 🎇🎇 (-barrels)
+          - 🎇🎇 (-masterworks)
+          - 🎇🎇 (-magazines)
+  -
+    name: PvE
+    overview: >
+      450s (and ARs in general) are in a tough spot for PvE.
+      [Ehroar demonstrates](https://www.youtube.com/watch?v=Yeyr60J8K6A)
+      this comprehensively: they have a confusing damage profile compared to
+      other alternatives in that slot. If Shadow Price were a kinetic, perhaps
+      less so, but the Energy slot is so loaded with great weapons that it's
+      hard to imagine this being your top choice in its current state. That
+      being said, frame buffs are always a thing and 450s seem long overdue
+      for one!
+    roll_sets:
+      -
+        name: Overflowing Darkness (Aztec's Pick)
+        overview: >
+          One for All is a 33% damage boost after tagging three targets. Pair it
+          with Overflow you've got a deep mag to burn down while OFA is active.
+          If you want this to feel like a laser, Arrowhead Brake is your pick in
+          the first column, taking the Recoil from 79 to 100. It also boosts
+          Handling by nearly 20%, which you'll notice on ready, stow and aiming.
+          See
+          [Aztec's Review](https://www.youtube.com/watch?v=6QEKwveuh8M).
+        perks:
+          base:
+            barrels: [Arrowhead Brake]
+            magazines: [Tactical Mag, Alloy Magazine, Flared Magwell]
+            perks1: [Overflow]
+            perks2: [One for All]
+            masterworks: [Stability MW, Reload MW]
+          extensions:
+            barrels: [Arrowhead Brake, Smallbore, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Chambered Compensator]
+        variants:
+          - ⬛️⬛️⬛️🌟 Collector's Edition
+          - ⬛️⬛️⬛️ CE (+barrels)
+          - ⬛️⬛️⬛️ CE (-masterworks)
+          - ⬛️⬛️ (-magazines)
+          - ⬛️⬛️ (+barrels, -magazines)
+          - ⬛️⬛️ (+barrels, -masterworks)
+      -
+        name: Feeding Darkness (Ehroar's Pick)
+        overview: >
+          One for All is a 33% damage boost after tagging three targets.
+          Eventually you'll need to reload and once you hit FFx2, you're golden.
+          If you want this to feel like a laser, Arrowhead Brake is your pick in
+          the first column, taking the Recoil from 79 to 100. It also boosts
+          Handling by nearly 20%, which you'll notice on ready, stow and aiming.
+          See
+          [Ehroar's Review](https://www.youtube.com/watch?v=Yeyr60J8K6A).
+        perks:
+          base:
+            barrels: [Arrowhead Brake]
+            magazines: [Extended Mag]
+            perks1: [Feeding Frenzy]
+            perks2: [One for All]
+            masterworks: [Stability MW, Reload MW]
+          extensions:
+            barrels: [Arrowhead Brake, Smallbore, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Chambered Compensator]
+            magazines: [Extended Mag, Appended Mag, Tactical Mag, Flared Magwell]
+        variants:
+          - 🌌🌌🌌🌟 Collector's Edition
+          - 🌌🌌🌌 CE (+barrels)
+          - 🌌🌌🌌 CE (+magazines)
+          - 🌌🌌🌌 CE (-masterworks)
+          - 🌌🌌 (-magazines)
+          - 🌌🌌 (+barrels, -magazines)
+          - 🌌🌌 (+barrels, -masterworks)
+      -
+        name: Sparks in the Night
+        overview: >
+          On full-auto weapons, Dragonfly can be tough to proc. 450s are right
+          in that sweet spot where at medium-to-longer ranges, getting Dragonfly
+          to proc regularly is a real possibility. To help with that, we're
+          going to go for better Recoil and Stability with the rest of the roll.
+        perks:
+          base:
+            barrels: [Arrowhead Brake]
+            magazines: [Tactical Mag, Flared Magwell]
+            perks1: [Surplus]
+            perks2: [Dragonfly]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Arrowhead Brake, Smallbore, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Chambered Compensator]
+        variants:
+          - ✨✨✨🌟 Collector's Edition
+          - ✨✨✨ CE (+barrels)
+          - ✨✨✨ CE (-masterworks)
+          - ✨✨ (-magazines)
+          - ✨✨ (+barrels, -magazines)
+          - ✨✨ (+barrels, -masterworks)          
