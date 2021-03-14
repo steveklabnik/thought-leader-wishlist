@@ -51,16 +51,17 @@ activities:
             masterworks: [Stability MW]
           extensions:
             barrels: [Chambered Compensator, Arrowhead Brake, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
-            magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+            magazines: [Steady Rounds, Tactical Mag, Flared Magwell, Accurized Rounds]
         variants:
           - 🌌🌌🌌🌟 Collector's Edition
           - 🌌🌌🌌 CE (+barrels)
           - 🌌🌌🌌 CE (+magazines)
           - 🌌🌌🌌 (-masterworks)
+          - 🌌🌌 (-barrels)
+          - 🌌🌌 (-magazines)
           - 🌌🌌 (+barrels, +magazines)
           - 🌌🌌 (+barrels, -masterworks)
           - 🌌🌌 (+magazines, -masterworks)
-          - 🌌 (+barrels, +magazines, -masterworks)
       -
         name: Momentous Night
         overview: >
@@ -75,16 +76,17 @@ activities:
             masterworks: [Stability MW]
           extensions:
             barrels: [Chambered Compensator, Arrowhead Brake, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
-            magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+            magazines: [Steady Rounds, Tactical Mag, Flared Magwell, Accurized Rounds]
         variants:
           - 🎇🎇🎇🌟 Collector's Edition
           - 🎇🎇🎇 CE (+barrels)
           - 🎇🎇🎇 CE (+magazines)
           - 🎇🎇🎇 (-masterworks)
+          - 🎇🎇 (-barrels)
+          - 🎇🎇 (-magazines)
           - 🎇🎇 (+barrels, +magazines)
           - 🎇🎇 (+barrels, -masterworks)
           - 🎇🎇 (+magazines, -masterworks)
-          - 🎇 (+barrels, +magazines, -masterworks)
 
   -
     name: PvE
