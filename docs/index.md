@@ -2561,6 +2561,7 @@ With either Arrowhead Brake or Chambered Compensator + Counterbalance, you can h
 | 🌌🌌 (+barrels, +magazines) | 3.00% | 33 |
 | 🌌🌌 (+barrels, -masterworks) | 3.82% | 26 |
 | 🌌🌌 (+magazines, -masterworks) | 5.46% | 18 |
+| 🌌 (+barrels, +magazines, -masterworks) | 12.00% | 8 |
 
 ### Shadow Price / PvP / Roll / **"Momentous Night"**
 Similar to the above roll; swapping in Killing Wind instead of Surplus.
@@ -2583,6 +2584,7 @@ Similar to the above roll; swapping in Killing Wind instead of Surplus.
 | 🎇🎇 (+barrels, +magazines) | 3.00% | 33 |
 | 🎇🎇 (+barrels, -masterworks) | 3.82% | 26 |
 | 🎇🎇 (+magazines, -masterworks) | 5.46% | 18 |
+| 🎇 (+barrels, +magazines, -masterworks) | 12.00% | 8 |
 
 ### Shadow Price / PvE / Overview
 450s (and ARs in general) are in a tough spot for PvE. [Ehroar demonstrates](https://www.youtube.com/watch?v=Yeyr60J8K6A) this comprehensively: they have a confusing damage profile compared to other alternatives in that slot. If Shadow Price were a kinetic, perhaps less so, but the Energy slot is so loaded with great weapons that it's hard to imagine this being your top choice in its current state. That being said, frame buffs are always a thing and 450s seem long overdue for one!
@@ -2590,7 +2592,7 @@ Similar to the above roll; swapping in Killing Wind instead of Surplus.
 One for All is a 33% damage boost after tagging three targets. Pair it with Overflow you've got a deep mag to burn down while OFA is active. If you want this to feel like a laser, Arrowhead Brake is your pick in the first column, taking the Recoil from 79 to 100. It also boosts Handling by nearly 20%, which you'll notice on ready, stow and aiming. See [Aztec's Review](https://www.youtube.com/watch?v=6QEKwveuh8M).
 ```
   Barrels [ 22%]: Arrowhead Brake
-  Mags    [ 64%]: Tactical Mag, Alloy Magazine, Flared Magwell
+  Mags    [ 78%]: Tactical Mag, Alloy Magazine, Flared Magwell, Accurized Rounds
   Perks 1 [ 16%]: Overflow
   Perks 2 [ 16%]: One for All
   MWorks  [ 50%]: Stability MW, Reload MW
@@ -2598,18 +2600,20 @@ One for All is a 33% damage boost after tagging three targets. Pair it with Over
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| ⬛️⬛️⬛️🌟 Collector's Edition | 0.20% | 504 |
-| ⬛️⬛️⬛️ CE (+barrels) | 0.82% | 122 |
-| ⬛️⬛️⬛️ CE (-masterworks) | 0.40% | 252 |
-| ⬛️⬛️ (-magazines) | 0.31% | 324 |
+| ⬛️⬛️⬛️🌟 Collector's Edition | 0.24% | 412 |
+| ⬛️⬛️⬛️ CE (+barrels) | 1.00% | 99 |
+| ⬛️⬛️⬛️ CE (-masterworks) | 0.49% | 206 |
+| ⬛️⬛️⬛️ (-magazines) | 0.31% | 324 |
 | ⬛️⬛️ (+barrels, -magazines) | 1.27% | 78 |
-| ⬛️⬛️ (+barrels, -masterworks) | 1.64% | 61 |
+| ⬛️⬛️ (+barrels, -masterworks) | 2.00% | 49 |
+| ⬛️⬛️ (-magazines, -masterworks) | 0.62% | 162 |
+| ⬛️ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 
 ### Shadow Price / PvE / Roll / **"Feeding Darkness (Ehroar's Pick)"**
 One for All is a 33% damage boost after tagging three targets. Eventually you'll need to reload and once you hit FFx2, you're golden. If you want this to feel like a laser, Arrowhead Brake is your pick in the first column, taking the Recoil from 79 to 100. It also boosts Handling by nearly 20%, which you'll notice on ready, stow and aiming. See [Ehroar's Review](https://www.youtube.com/watch?v=Yeyr60J8K6A).
 ```
   Barrels [ 22%]: Arrowhead Brake
-  Mags    [ 25%]: Extended Mag
+  Mags    [ 89%]: Extended Mag, Appended Mag, Tactical Mag, Flared Magwell, Accurized Rounds
   Perks 1 [ 16%]: Feeding Frenzy
   Perks 2 [ 16%]: One for All
   MWorks  [ 50%]: Stability MW, Reload MW
@@ -2617,19 +2621,20 @@ One for All is a 33% damage boost after tagging three targets. Eventually you'll
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🌌🌌🌌🌟 Collector's Edition | 0.08% | 1296 |
-| 🌌🌌🌌 CE (+barrels) | 0.32% | 314 |
-| 🌌🌌🌌 CE (+magazines) | 0.24% | 412 |
-| 🌌🌌🌌 CE (-masterworks) | 0.15% | 648 |
-| 🌌🌌 (-magazines) | 0.31% | 324 |
+| 🌌🌌🌌🌟 Collector's Edition | 0.28% | 362 |
+| 🌌🌌🌌 CE (+barrels) | 1.14% | 87 |
+| 🌌🌌🌌 CE (-masterworks) | 0.55% | 181 |
+| 🌌🌌🌌 (-magazines) | 0.31% | 324 |
 | 🌌🌌 (+barrels, -magazines) | 1.27% | 78 |
-| 🌌🌌 (+barrels, -masterworks) | 0.64% | 157 |
+| 🌌🌌 (+barrels, -masterworks) | 2.27% | 43 |
+| 🌌🌌 (-magazines, -masterworks) | 0.62% | 162 |
+| 🌌 (-barrels, -magazines, -masterworks) | 2.78% | 36 |
 
-### Shadow Price / PvE / Roll / **"Sparks in the Night"**
+### Shadow Price / PvE / Roll / **"Steady Sparks in the Night"**
 On full-auto weapons, Dragonfly can be tough to proc. 450s are right in that sweet spot where at medium-to-longer ranges, getting Dragonfly to proc regularly is a real possibility. To help with that, we're going to go for better Recoil and Stability with the rest of the roll.
 ```
   Barrels [ 22%]: Arrowhead Brake
-  Mags    [ 46%]: Tactical Mag, Flared Magwell
+  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Tactical Mag, Flared Magwell
   Perks 1 [ 16%]: Surplus
   Perks 2 [ 16%]: Dragonfly
   MWorks  [ 25%]: Stability MW
@@ -2637,12 +2642,34 @@ On full-auto weapons, Dragonfly can be tough to proc. 450s are right in that swe
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| ✨✨✨🌟 Collector's Edition | 0.07% | 1395 |
-| ✨✨✨ CE (+barrels) | 0.30% | 338 |
-| ✨✨✨ CE (-masterworks) | 0.29% | 348 |
-| ✨✨ (-magazines) | 0.15% | 648 |
+| ✨✨✨🌟 Collector's Edition | 0.12% | 824 |
+| ✨✨✨ CE (+barrels) | 0.50% | 199 |
+| ✨✨✨ CE (-masterworks) | 0.49% | 206 |
+| ✨✨✨ (-magazines) | 0.15% | 648 |
 | ✨✨ (+barrels, -magazines) | 0.64% | 157 |
-| ✨✨ (+barrels, -masterworks) | 1.18% | 84 |
+| ✨✨ (+barrels, -masterworks) | 2.00% | 49 |
+| ✨✨ (-magazines, -masterworks) | 0.62% | 162 |
+| ✨ (-barrels, -magazines, -masterworks) | 2.78% | 36 |
+
+### Shadow Price / PvE / Roll / **"Sparks in the Night"**
+Same as the above, except we'll take any perks in the third column.
+```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 78%]: Accurized Rounds, Steady Rounds, Tactical Mag, Flared Magwell
+  Perks 1 [100%]: *
+  Perks 2 [ 16%]: Dragonfly
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🌃🌃🌃🌟 Collector's Edition | 0.73% | 137 |
+| 🌃🌃🌃 CE (+barrels) | 3.00% | 33 |
+| 🌃🌃🌃 CE (-masterworks) | 2.91% | 34 |
+| 🌃🌃🌃 (-magazines) | 0.93% | 108 |
+| 🌃🌃 (+barrels, -magazines) | 3.82% | 26 |
+| 🌃🌃 (+barrels, -masterworks) | 12.00% | 8 |
+| 🌃🌃 (-magazines, -masterworks) | 3.70% | 27 |
 
 # Stars in Shadow
 *For all possible perks, check out **Stars in Shadow** over on [light.gg](https://www.light.gg/db/items/2050789284/stars-in-shadow/)*
