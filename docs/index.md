@@ -2554,12 +2554,13 @@ With either Arrowhead Brake or Chambered Compensator + Counterbalance, you can h
 |:-|-:|-:|
 | 🌌🌌🌌🌟 Collector's Edition | 0.43% | 230 |
 | 🌌🌌🌌 CE (+barrels) | 0.95% | 104 |
-| 🌌🌌🌌 CE (+magazines) | 1.12% | 89 |
+| 🌌🌌🌌 CE (+magazines) | 1.36% | 73 |
 | 🌌🌌🌌 (-masterworks) | 1.74% | 57 |
-| 🌌🌌 (+barrels, +magazines) | 2.46% | 40 |
+| 🌌🌌 (-barrels) | 1.04% | 96 |
+| 🌌🌌 (-magazines) | 1.74% | 57 |
+| 🌌🌌 (+barrels, +magazines) | 3.00% | 33 |
 | 🌌🌌 (+barrels, -masterworks) | 3.82% | 26 |
-| 🌌🌌 (+magazines, -masterworks) | 4.46% | 22 |
-| 🌌 (+barrels, +magazines, -masterworks) | 9.82% | 10 |
+| 🌌🌌 (+magazines, -masterworks) | 5.46% | 18 |
 
 ### Shadow Price / PvP / Roll / **"Momentous Night"**
 Similar to the above roll; swapping in Killing Wind instead of Surplus.
@@ -2575,12 +2576,13 @@ Similar to the above roll; swapping in Killing Wind instead of Surplus.
 |:-|-:|-:|
 | 🎇🎇🎇🌟 Collector's Edition | 0.43% | 230 |
 | 🎇🎇🎇 CE (+barrels) | 0.95% | 104 |
-| 🎇🎇🎇 CE (+magazines) | 1.12% | 89 |
+| 🎇🎇🎇 CE (+magazines) | 1.36% | 73 |
 | 🎇🎇🎇 (-masterworks) | 1.74% | 57 |
-| 🎇🎇 (+barrels, +magazines) | 2.46% | 40 |
+| 🎇🎇 (-barrels) | 1.04% | 96 |
+| 🎇🎇 (-magazines) | 1.74% | 57 |
+| 🎇🎇 (+barrels, +magazines) | 3.00% | 33 |
 | 🎇🎇 (+barrels, -masterworks) | 3.82% | 26 |
-| 🎇🎇 (+magazines, -masterworks) | 4.46% | 22 |
-| 🎇 (+barrels, +magazines, -masterworks) | 9.82% | 10 |
+| 🎇🎇 (+magazines, -masterworks) | 5.46% | 18 |
 
 ### Shadow Price / PvE / Overview
 450s (and ARs in general) are in a tough spot for PvE. [Ehroar demonstrates](https://www.youtube.com/watch?v=Yeyr60J8K6A) this comprehensively: they have a confusing damage profile compared to other alternatives in that slot. If Shadow Price were a kinetic, perhaps less so, but the Energy slot is so loaded with great weapons that it's hard to imagine this being your top choice in its current state. That being said, frame buffs are always a thing and 450s seem long overdue for one!
