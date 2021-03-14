@@ -28,10 +28,10 @@ class V2Generator
       output.puts(overview)
 
       roll_data['activities'].each do |a|
-        output.puts("## #{weapon_name} - #{a['name']}")
+        output.puts("### #{weapon_name} / #{a['name']} / Overview")
         output.puts(a['overview'])
         a['roll_sets'].each do |rs_data|
-          rs = RollSet.new(a['name'], roll_data['item_id'], roll_data['traits'], rs_data)
+          rs = RollSet.new(weapon_name, a['name'], roll_data['item_id'], roll_data['traits'], rs_data)
           output.puts(rs.generate_thoughts_txt())
         end
       end
@@ -43,7 +43,7 @@ class V2Generator
     StringIO.new.tap do |output|
       roll_data['activities'].each do |a|
         a['roll_sets'].each do |rs_data|
-          rs = RollSet.new(a['name'], roll_data['item_id'], roll_data['traits'], rs_data)
+          rs = RollSet.new('', a['name'], roll_data['item_id'], roll_data['traits'], rs_data)
           output.puts(rs.generate_wishlist_txt())
         end
       end

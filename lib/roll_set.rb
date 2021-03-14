@@ -11,7 +11,8 @@ TRAIT_PRETTY = [
 
 class RollSet
 
-  def initialize(activity_name, item_id, traits, roll_data)
+  def initialize(weapon_name, activity_name, item_id, traits, roll_data)
+    @weapon_name = weapon_name
     @activity_name = activity_name
     @item_id = item_id
     @traits = traits
@@ -35,7 +36,7 @@ class RollSet
 
   def generate_thoughts_txt
     StringIO.new.tap do |output|
-      output.puts("### Roll: **#{@name}**")
+      output.puts("### #{@weapon_name} / #{@activity_name} / Roll / **\"#{@name}\"**")
       
       output.puts(@overview)
 

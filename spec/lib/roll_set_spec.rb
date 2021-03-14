@@ -2,7 +2,7 @@ require 'roll_set'
 
 describe RollSet do
   subject {
-    RollSet.new('PvP', 2050789284, traits, roll_data)
+    RollSet.new('Shadow Price', 'PvP', 2050789284, traits, roll_data)
   }
 
   let(:traits)    {
