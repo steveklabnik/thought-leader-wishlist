@@ -62,6 +62,7 @@ activities:
           - 🌌🌌 (+barrels, +magazines)
           - 🌌🌌 (+barrels, -masterworks)
           - 🌌🌌 (+magazines, -masterworks)
+          - 🌌 (+barrels, +magazines, -masterworks)
       -
         name: Momentous Night
         overview: >
@@ -87,7 +88,7 @@ activities:
           - 🎇🎇 (+barrels, +magazines)
           - 🎇🎇 (+barrels, -masterworks)
           - 🎇🎇 (+magazines, -masterworks)
-
+          - 🎇 (+barrels, +magazines, -masterworks)
   -
     name: PvE
     overview: >
