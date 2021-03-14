@@ -5,7 +5,7 @@ lightgg: https://www.light.gg/db/items/2633186522/shadow-price/
 traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 8, c: 2}
-  perks1:      {t: 5, c: 1}
+  perks1:      {t: 6, c: 1}
   perks2:      {t: 6, c: 1}
   masterworks: {t: 4, c: 1}
 overview: >
@@ -37,10 +37,11 @@ activities:
           With either Arrowhead Brake or Chambered Compensator + Counterbalance,
           you can hit `100` Recoil. Everythign else is this roll is about
           maximzing Stability. The final column doesn't
-          have any must-have perks; anything there is gravy. With at least two
-          abilities active, Surplus is going to grant a noticeable improvement to
-          Stability, Handling and Reload giving this roll a snappy, almost
-          Lightweight-Frame feel.
+          have any must-have perks; anything there is gravy. Sure Swashbuckler
+          would be nice to have, but it doesn't complete a picture, so I've left
+          the final column empty. With at least two abilities active, Surplus is
+          going to grant a noticeable improvement to Stability, Handling and
+          Reload speed giving this roll a snappy, almost Lightweight-Frame feel.
         perks: 
           base: 
             barrels: [Chambered Compensator, Arrowhead Brake]
@@ -55,12 +56,11 @@ activities:
           - 🌌🌌🌌🌟 Collector's Edition
           - 🌌🌌🌌 CE (+barrels)
           - 🌌🌌🌌 CE (+magazines)
+          - 🌌🌌🌌 (-masterworks)
+          - 🌌🌌 (+barrels, +magazines)
           - 🌌🌌 (+barrels, -masterworks)
-          - 🌌🌌 (+barrels, -magazines)
           - 🌌🌌 (+magazines, -masterworks)
-          - 🌌🌌 (-barrels)
-          - 🌌🌌 (-masterworks)
-          - 🌌🌌 (-magazines)
+          - 🌌 (+barrels, +magazines, -masterworks)
       -
         name: Momentous Night
         overview: >
@@ -80,12 +80,12 @@ activities:
           - 🎇🎇🎇🌟 Collector's Edition
           - 🎇🎇🎇 CE (+barrels)
           - 🎇🎇🎇 CE (+magazines)
+          - 🎇🎇🎇 (-masterworks)
+          - 🎇🎇 (+barrels, +magazines)
           - 🎇🎇 (+barrels, -masterworks)
-          - 🎇🎇 (+barrels, -magazines)
           - 🎇🎇 (+magazines, -masterworks)
-          - 🎇🎇 (-barrels)
-          - 🎇🎇 (-masterworks)
-          - 🎇🎇 (-magazines)
+          - 🎇 (+barrels, +magazines, -masterworks)
+
   -
     name: PvE
     overview: >
