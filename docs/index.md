@@ -2541,48 +2541,46 @@ Shadow Price is a 450 RPM Precision Frame, Arc Energy Auto Rifle, offered as a N
 ### Shadow Price / PvP / Overview
 450s haven't been great in PvP since the first year of Destiny 2. 600 RPMs like the Gnawing Hunger and Summoner still reign supreme, and will continue to do so until 450s are buffed. What makes the Shadow Price even less desirable for PvP is the lack of PvP perks that AR users would find interesting in either column. No Dynamic Sway, Tap the Trigger, etc. which makes sense since it's a reward for a PvE activity. Once the Grandmaster NFs appear and Adept mods are accessible, perhaps Adept Counterbalance, Stability, etc. could make it more desireable. Really though, until they're buffed, 450 RPMs may be frustrating to deploy against meta weapons.
 ### Shadow Price / PvP / Roll / **"Crushing Darkness"**
-With either Arrowhead Brake or Chambered Compensator + Counterbalance, you can hit `100` Recoil. Everythign else is this roll is about maximzing Stability. The final column doesn't have any must-have perks; anything there is gravy. With at least two abilities active, Surplus is going to grant a noticeable improvement to Stability, Handling and Reload giving this roll a snappy, almost Lightweight-Frame feel.
+With either Arrowhead Brake or Chambered Compensator + Counterbalance, you can hit `100` Recoil. Everythign else is this roll is about maximzing Stability. The final column doesn't have any must-have perks; anything there is gravy. Sure Swashbuckler would be nice to have, but it doesn't complete a picture, so I've left the final column empty. With at least two abilities active, Surplus is going to grant a noticeable improvement to Stability, Handling and Reload speed giving this roll a snappy, almost Lightweight-Frame feel.
 ```
   Barrels [ 41%]: Chambered Compensator, Arrowhead Brake
   Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 20%]: Surplus
+  Perks 1 [ 16%]: Surplus
   Perks 2 [100%]: *
   MWorks  [ 25%]: Stability MW
 ```
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🌌🌌🌌🌟 Collector's Edition | 0.52% | 192 |
-| 🌌🌌🌌 CE (+barrels) | 1.15% | 87 |
-| 🌌🌌🌌 CE (+magazines) | 1.34% | 74 |
-| 🌌🌌 (+barrels, -masterworks) | 4.58% | 21 |
-| 🌌🌌 (+barrels, -magazines) | 4.58% | 21 |
-| 🌌🌌 (+magazines, -masterworks) | 5.36% | 18 |
-| 🌌🌌 (-barrels) | 1.25% | 80 |
-| 🌌🌌 (-masterworks) | 2.08% | 48 |
-| 🌌🌌 (-magazines) | 2.08% | 48 |
+| 🌌🌌🌌🌟 Collector's Edition | 0.43% | 230 |
+| 🌌🌌🌌 CE (+barrels) | 0.95% | 104 |
+| 🌌🌌🌌 CE (+magazines) | 1.12% | 89 |
+| 🌌🌌🌌 (-masterworks) | 1.74% | 57 |
+| 🌌🌌 (+barrels, +magazines) | 2.46% | 40 |
+| 🌌🌌 (+barrels, -masterworks) | 3.82% | 26 |
+| 🌌🌌 (+magazines, -masterworks) | 4.46% | 22 |
+| 🌌 (+barrels, +magazines, -masterworks) | 9.82% | 10 |
 
 ### Shadow Price / PvP / Roll / **"Momentous Night"**
 Similar to the above roll; swapping in Killing Wind instead of Surplus.
 ```
   Barrels [ 41%]: Chambered Compensator, Arrowhead Brake
   Mags    [ 25%]: Steady Rounds
-  Perks 1 [ 20%]: Killing Wind
+  Perks 1 [ 16%]: Killing Wind
   Perks 2 [100%]: *
   MWorks  [ 25%]: Stability MW
 ```
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🎇🎇🎇🌟 Collector's Edition | 0.52% | 192 |
-| 🎇🎇🎇 CE (+barrels) | 1.15% | 87 |
-| 🎇🎇🎇 CE (+magazines) | 1.34% | 74 |
-| 🎇🎇 (+barrels, -masterworks) | 4.58% | 21 |
-| 🎇🎇 (+barrels, -magazines) | 4.58% | 21 |
-| 🎇🎇 (+magazines, -masterworks) | 5.36% | 18 |
-| 🎇🎇 (-barrels) | 1.25% | 80 |
-| 🎇🎇 (-masterworks) | 2.08% | 48 |
-| 🎇🎇 (-magazines) | 2.08% | 48 |
+| 🎇🎇🎇🌟 Collector's Edition | 0.43% | 230 |
+| 🎇🎇🎇 CE (+barrels) | 0.95% | 104 |
+| 🎇🎇🎇 CE (+magazines) | 1.12% | 89 |
+| 🎇🎇🎇 (-masterworks) | 1.74% | 57 |
+| 🎇🎇 (+barrels, +magazines) | 2.46% | 40 |
+| 🎇🎇 (+barrels, -masterworks) | 3.82% | 26 |
+| 🎇🎇 (+magazines, -masterworks) | 4.46% | 22 |
+| 🎇 (+barrels, +magazines, -masterworks) | 9.82% | 10 |
 
 ### Shadow Price / PvE / Overview
 450s (and ARs in general) are in a tough spot for PvE. [Ehroar demonstrates](https://www.youtube.com/watch?v=Yeyr60J8K6A) this comprehensively: they have a confusing damage profile compared to other alternatives in that slot. If Shadow Price were a kinetic, perhaps less so, but the Energy slot is so loaded with great weapons that it's hard to imagine this being your top choice in its current state. That being said, frame buffs are always a thing and 450s seem long overdue for one!
@@ -2591,58 +2589,58 @@ One for All is a 33% damage boost after tagging three targets. Pair it with Over
 ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 64%]: Tactical Mag, Alloy Magazine, Flared Magwell
-  Perks 1 [ 20%]: Overflow
+  Perks 1 [ 16%]: Overflow
   Perks 2 [ 16%]: One for All
   MWorks  [ 50%]: Stability MW, Reload MW
 ```
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| ⬛️⬛️⬛️🌟 Collector's Edition | 0.24% | 420 |
-| ⬛️⬛️⬛️ CE (+barrels) | 0.98% | 101 |
-| ⬛️⬛️⬛️ CE (-masterworks) | 0.48% | 210 |
-| ⬛️⬛️ (-magazines) | 0.37% | 270 |
-| ⬛️⬛️ (+barrels, -magazines) | 1.53% | 65 |
-| ⬛️⬛️ (+barrels, -masterworks) | 1.96% | 50 |
+| ⬛️⬛️⬛️🌟 Collector's Edition | 0.20% | 504 |
+| ⬛️⬛️⬛️ CE (+barrels) | 0.82% | 122 |
+| ⬛️⬛️⬛️ CE (-masterworks) | 0.40% | 252 |
+| ⬛️⬛️ (-magazines) | 0.31% | 324 |
+| ⬛️⬛️ (+barrels, -magazines) | 1.27% | 78 |
+| ⬛️⬛️ (+barrels, -masterworks) | 1.64% | 61 |
 
 ### Shadow Price / PvE / Roll / **"Feeding Darkness (Ehroar's Pick)"**
 One for All is a 33% damage boost after tagging three targets. Eventually you'll need to reload and once you hit FFx2, you're golden. If you want this to feel like a laser, Arrowhead Brake is your pick in the first column, taking the Recoil from 79 to 100. It also boosts Handling by nearly 20%, which you'll notice on ready, stow and aiming. See [Ehroar's Review](https://www.youtube.com/watch?v=Yeyr60J8K6A).
 ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 25%]: Extended Mag
-  Perks 1 [ 20%]: Feeding Frenzy
+  Perks 1 [ 16%]: Feeding Frenzy
   Perks 2 [ 16%]: One for All
   MWorks  [ 50%]: Stability MW, Reload MW
 ```
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 🌌🌌🌌🌟 Collector's Edition | 0.09% | 1080 |
-| 🌌🌌🌌 CE (+barrels) | 0.38% | 261 |
-| 🌌🌌🌌 CE (+magazines) | 0.29% | 343 |
-| 🌌🌌🌌 CE (-masterworks) | 0.19% | 540 |
-| 🌌🌌 (-magazines) | 0.37% | 270 |
-| 🌌🌌 (+barrels, -magazines) | 1.53% | 65 |
-| 🌌🌌 (+barrels, -masterworks) | 0.76% | 130 |
+| 🌌🌌🌌🌟 Collector's Edition | 0.08% | 1296 |
+| 🌌🌌🌌 CE (+barrels) | 0.32% | 314 |
+| 🌌🌌🌌 CE (+magazines) | 0.24% | 412 |
+| 🌌🌌🌌 CE (-masterworks) | 0.15% | 648 |
+| 🌌🌌 (-magazines) | 0.31% | 324 |
+| 🌌🌌 (+barrels, -magazines) | 1.27% | 78 |
+| 🌌🌌 (+barrels, -masterworks) | 0.64% | 157 |
 
 ### Shadow Price / PvE / Roll / **"Sparks in the Night"**
 On full-auto weapons, Dragonfly can be tough to proc. 450s are right in that sweet spot where at medium-to-longer ranges, getting Dragonfly to proc regularly is a real possibility. To help with that, we're going to go for better Recoil and Stability with the rest of the roll.
 ```
   Barrels [ 22%]: Arrowhead Brake
   Mags    [ 46%]: Tactical Mag, Flared Magwell
-  Perks 1 [ 20%]: Surplus
+  Perks 1 [ 16%]: Surplus
   Perks 2 [ 16%]: Dragonfly
   MWorks  [ 25%]: Stability MW
 ```
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| ✨✨✨🌟 Collector's Edition | 0.09% | 1163 |
-| ✨✨✨ CE (+barrels) | 0.35% | 281 |
-| ✨✨✨ CE (-masterworks) | 0.34% | 290 |
-| ✨✨ (-magazines) | 0.19% | 540 |
-| ✨✨ (+barrels, -magazines) | 0.76% | 130 |
-| ✨✨ (+barrels, -masterworks) | 1.42% | 70 |
+| ✨✨✨🌟 Collector's Edition | 0.07% | 1395 |
+| ✨✨✨ CE (+barrels) | 0.30% | 338 |
+| ✨✨✨ CE (-masterworks) | 0.29% | 348 |
+| ✨✨ (-magazines) | 0.15% | 648 |
+| ✨✨ (+barrels, -magazines) | 0.64% | 157 |
+| ✨✨ (+barrels, -masterworks) | 1.18% | 84 |
 
 # Stars in Shadow
 *For all possible perks, check out **Stars in Shadow** over on [light.gg](https://www.light.gg/db/items/2050789284/stars-in-shadow/)*
