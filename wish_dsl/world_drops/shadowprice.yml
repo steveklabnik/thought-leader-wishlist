@@ -114,7 +114,7 @@ activities:
         perks:
           base:
             barrels: [Arrowhead Brake]
-            magazines: [Tactical Mag, Alloy Magazine, Flared Magwell]
+            magazines: [Tactical Mag, Alloy Magazine, Flared Magwell, Accurized Rounds]
             perks1: [Overflow]
             perks2: [One for All]
             masterworks: [Stability MW, Reload MW]
@@ -124,9 +124,11 @@ activities:
           - ⬛️⬛️⬛️🌟 Collector's Edition
           - ⬛️⬛️⬛️ CE (+barrels)
           - ⬛️⬛️⬛️ CE (-masterworks)
-          - ⬛️⬛️ (-magazines)
+          - ⬛️⬛️⬛️ (-magazines)
           - ⬛️⬛️ (+barrels, -magazines)
           - ⬛️⬛️ (+barrels, -masterworks)
+          - ⬛️⬛️ (-magazines, -masterworks)
+          - ⬛️ (-barrels, -magazines, -masterworks)
       -
         name: Feeding Darkness (Ehroar's Pick)
         overview: >
@@ -140,23 +142,23 @@ activities:
         perks:
           base:
             barrels: [Arrowhead Brake]
-            magazines: [Extended Mag]
+            magazines: [Extended Mag, Appended Mag, Tactical Mag, Flared Magwell, Accurized Rounds]
             perks1: [Feeding Frenzy]
             perks2: [One for All]
             masterworks: [Stability MW, Reload MW]
           extensions:
             barrels: [Arrowhead Brake, Smallbore, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Chambered Compensator]
-            magazines: [Extended Mag, Appended Mag, Tactical Mag, Flared Magwell]
         variants:
           - 🌌🌌🌌🌟 Collector's Edition
           - 🌌🌌🌌 CE (+barrels)
-          - 🌌🌌🌌 CE (+magazines)
           - 🌌🌌🌌 CE (-masterworks)
-          - 🌌🌌 (-magazines)
+          - 🌌🌌🌌 (-magazines)
           - 🌌🌌 (+barrels, -magazines)
           - 🌌🌌 (+barrels, -masterworks)
+          - 🌌🌌 (-magazines, -masterworks)
+          - 🌌 (-barrels, -magazines, -masterworks)
       -
-        name: Sparks in the Night
+        name: Steady Sparks in the Night
         overview: >
           On full-auto weapons, Dragonfly can be tough to proc. 450s are right
           in that sweet spot where at medium-to-longer ranges, getting Dragonfly
@@ -165,7 +167,7 @@ activities:
         perks:
           base:
             barrels: [Arrowhead Brake]
-            magazines: [Tactical Mag, Flared Magwell]
+            magazines: [Accurized Rounds, Steady Rounds, Tactical Mag, Flared Magwell]
             perks1: [Surplus]
             perks2: [Dragonfly]
             masterworks: [Stability MW]
@@ -175,6 +177,29 @@ activities:
           - ✨✨✨🌟 Collector's Edition
           - ✨✨✨ CE (+barrels)
           - ✨✨✨ CE (-masterworks)
-          - ✨✨ (-magazines)
+          - ✨✨✨ (-magazines)
           - ✨✨ (+barrels, -magazines)
-          - ✨✨ (+barrels, -masterworks)          
+          - ✨✨ (+barrels, -masterworks)
+          - ✨✨ (-magazines, -masterworks)
+          - ✨ (-barrels, -magazines, -masterworks)
+      -
+        name: Sparks in the Night
+        overview: >
+          Same as the above, except we'll take any perks in the third column.
+        perks:
+          base:
+            barrels: [Arrowhead Brake]
+            magazines: [Accurized Rounds, Steady Rounds, Tactical Mag, Flared Magwell]
+            perks1: []
+            perks2: [Dragonfly]
+            masterworks: [Stability MW]
+          extensions:
+            barrels: [Arrowhead Brake, Smallbore, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Chambered Compensator]
+        variants:
+          - 🌃🌃🌃🌟 Collector's Edition
+          - 🌃🌃🌃 CE (+barrels)
+          - 🌃🌃🌃 CE (-masterworks)
+          - 🌃🌃🌃 (-magazines)
+          - 🌃🌃 (+barrels, -magazines)
+          - 🌃🌃 (+barrels, -masterworks)
+          - 🌃🌃 (-magazines, -masterworks)
