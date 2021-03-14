@@ -16,7 +16,7 @@ describe V2Generator do
         ]
       }
     }
-    let(:toc_markdown) { "* [Seventh Seraph SI-2](#seventh-seraph-si-2) ([PvP](#seventh-seraph-si-2---pvp), [PvE](#seventh-seraph-si-2---pve))" }
+    let(:toc_markdown) { "* [Seventh Seraph SI-2](#seventh-seraph-si-2) ([PvP](#seventh-seraph-si-2--pvp--Overview), [PvE](#seventh-seraph-si-2--pve--Overview))" }
 
     it 'generates table of contents links for all roll groups' do
       expect(subject.generate_toc_link(roll_data)).to eq(toc_markdown)
