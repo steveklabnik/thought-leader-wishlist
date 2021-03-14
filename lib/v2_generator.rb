@@ -9,7 +9,7 @@ class V2Generator
 
     activity_links = activities.map do |a|
       activity_name = a['name']
-      link = "#{weapon_name.downcase} - #{activity_name.downcase}".gsub(/'/,'').gsub(/\//,'').gsub(/,/,'').gsub(/\./,'').gsub(/\W/,'-')
+      link = "#{weapon_name.downcase} / #{activity_name.downcase} / Overview".gsub(/'/,'').gsub(/\//,'').gsub(/,/,'').gsub(/\./,'').gsub(/\W/,'-')
       "[#{activity_name}](##{link})"
     end
     "* [#{weapon_name}](##{weapon_link}) (#{activity_links.join(', ')})"
