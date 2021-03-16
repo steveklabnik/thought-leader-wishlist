@@ -19,6 +19,7 @@ Check out the [README](https://github.com/rslifka/wishlist/) for more info.
 * BrayTech Werewolf ([PvP](#braytech-werewolf---pvp), [PvE](#braytech-werewolf---pve))
 * Bygones ([PvP](#bygones---pvp), [PvE](#bygones---pve))
 * [Cold Front](#cold-front) ([PvP/PvE Double Duty](#cold-front--pvppve-double-duty--Overview), [PvP](#cold-front--pvp--Overview), [PvE](#cold-front--pve--Overview))
+* [Dire Promise](#dire-promise) ([PvP](#dire-promise--pvp--Overview), [PvE](#dire-promise--pve--Overview))
 * [Glacioclasm](#glacioclasm) ([PvP](#glacioclasm--pvp--Overview))
 * Gnawing Hunger ([PvP](#gnawing-hunger---pvp), [PvE](#gnawing-hunger---pve))
 * [Hawkmoon](#hawkmoon) ([PvP](#hawkmoon--pvp--Overview))
@@ -1210,6 +1211,62 @@ We'll take any combination of a handful of perks in the final columns for a supe
 | ☃️☃️☃️📦 (-magazines) | 1.11% | 89 |
 | ☃️☃️☃️📦 (-masterworks) | 1.11% | 89 |
 | ☃️☃️📦 (-barrels, -magazines, -masterworks) | 20.00% | 5 |
+
+# Dire Promise
+*For all possible perks, check out **Dire Promise** over on [light.gg](https://www.light.gg/db/items/2742838701/dire-promise/)*
+
+The Dire Promise is a 140 RPM Hand Cannon that was re-issued all the way back in Season 10 and much has changed. Sunsetting was introduced and then rolled back, 150 RPM HCs were collapsed into the 140 RPM frames and 110 RPMs were upgraded to 120 RPM, turning them into abosolute PvP monsters.
+
+Here we are in Season 13 and it's March 2021. Today, there are only two 140 RPM HCs in the game - Dire Promise (Kinetic) and Palindrome (Energy, Nightfall-Exclusive). Sounds crazy right? Check out [this saved search onlight.gg](https://www.light.gg/db/new-items/season/13/new-weapons/?page=1&f=5(13;12;11;10),9(6),4(5),29:0:140(4284893193)) if you need convincing 😉
+### Dire Promise / PvP / Overview
+With the collapse of 150s > 140s and 110s > 120s, the 140 RPM subtype needs a bit of help. It doesn't have the range of the 120s or the  flinch factor and ease of use of the 180s. Dire Promise is also on the perk pool of Season 10. You have a middling subtype on an old perk pool; what's not to like? 🙃
+### Dire Promise / PvP / Roll / **"Promises Made and Kept"**
+140s crave Stability. They won't be helped as much by Range as they are by what Stability gives you: an AA cone that resets more quickly than it would otherwise and less kick to correct for.
+```
+  Barrels [ 16%]: Steadyhand HCS
+  Mags    [ 12%]: Ricochet Rounds
+  Perks 1 [ 40%]: Opening Shot, Snapshot
+  Perks 2 [ 20%]: Rangefinder
+  MWorks  [ 25%]: Stability MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🙏🙏🙏🌟 Collector's Edition | 0.04% | 2399 |
+| 🙏🙏🙏 CE (+barrels) | 0.17% | 599 |
+| 🙏🙏🙏 CE (+magazines) | 0.08% | 1199 |
+| 🙏🙏🙏 CE (+barrels, +magazines) | 0.33% | 299 |
+| 🙏🙏🙏 CE (-masterworks) | 0.17% | 599 |
+| 🙏🙏🙏 CE (-magazines) | 0.33% | 299 |
+| 🙏🙏 (+barrels, -magazines) | 1.33% | 74 |
+| 🙏🙏 (+barrels, -masterworks) | 0.67% | 149 |
+| 🙏🙏 (+magazines, -masterworks) | 0.33% | 299 |
+| 🙏 (-barrels, -magazines, -masterworks) | 8.00% | 12 |
+
+### Dire Promise / PvE / Overview
+Dire Promise is hampered in PvE by having only the old perk pool available. It's likely not your choice for high(er) tier PvE content because of that.
+### Dire Promise / PvE / Roll / **"Trustworthy"**
+Relying on old reliable perk pairings, this will do work for you in low to mid tier PvE content.
+```
+  Barrels [ 16%]: Sureshot HCS
+  Mags    [ 12%]: High-Caliber Rounds
+  Perks 1 [ 40%]: Overflow, Triple Tap
+  Perks 2 [ 20%]: Swashbuckler
+  MWorks  [ 25%]: Range MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 🤝🤝🤝🌟 Collector's Edition | 0.04% | 2399 |
+| 🤝🤝🤝 CE (+barrels) | 0.17% | 599 |
+| 🤝🤝🤝 CE (+magazines) | 0.17% | 599 |
+| 🤝🤝🤝 CE (+barrels, +magazines) | 0.67% | 149 |
+| 🤝🤝🤝 CE (-masterworks) | 0.17% | 599 |
+| 🤝🤝🤝 CE (-magazines) | 0.33% | 299 |
+| 🤝🤝 (+barrels, -magazines) | 1.33% | 74 |
+| 🤝🤝 (+barrels, -masterworks) | 0.67% | 149 |
+| 🤝🤝 (+magazines, -masterworks) | 0.67% | 149 |
+| 🤝 (-barrels, -magazines, -masterworks) | 8.00% | 12 |
 
 # Glacioclasm
 *For all possible perks, check out **Glacioclasm** over on [light.gg](https://www.light.gg/db/items/1030895163/glacioclasm/)*
