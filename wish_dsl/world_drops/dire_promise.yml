@@ -9,18 +9,11 @@ traits:
   perks2:      {t: 5, c: 1}
   masterworks: {t: 4, c: 1}
 overview: >
-  The Dire Promise is a 140 RPM
-  Hand Cannon that was re-issued all the way back in Season 10 and much has
-  changed. Sunsetting was introduced and then rolled back, 150 RPM HCs were
-  collapsed into the 140 RPM frames and 110 RPMs were upgraded to 120 RPM,
-  turning them into abosolute PvP monsters.
-  
-
-  Here we are in Season 13 and it's March 2021. Today, there are only two 140
-  RPM HCs in the game - Dire Promise (Kinetic) and Palindrome (Energy,
-  Nightfall-Exclusive). Sounds crazy right? Check out
-  [this saved search onlight.gg](https://www.light.gg/db/new-items/season/13/new-weapons/?page=1&f=5(13;12;11;10),9(6),4(5),29:0:140(4284893193))
-  if you need convincing 😉
+  The Dire Promise is a 140 RPM Hand Cannon that was re-issued all the way back
+  in Season 10 and much has changed. Sunsetting was introduced and then rolled
+  back, 150 RPM HCs were collapsed into the 140 RPM frames and 110 RPMs were
+  upgraded to 120 RPM, turning them into absolute PvP monsters. 140s are middle-
+  of-the-pack but still pack a decent punch.
 activities:
   - 
     name: PvP
