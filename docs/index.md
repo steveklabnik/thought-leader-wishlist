@@ -1215,9 +1215,7 @@ We'll take any combination of a handful of perks in the final columns for a supe
 # Dire Promise
 *For all possible perks, check out **Dire Promise** over on [light.gg](https://www.light.gg/db/items/2742838701/dire-promise/)*
 
-The Dire Promise is a 140 RPM Hand Cannon that was re-issued all the way back in Season 10 and much has changed. Sunsetting was introduced and then rolled back, 150 RPM HCs were collapsed into the 140 RPM frames and 110 RPMs were upgraded to 120 RPM, turning them into abosolute PvP monsters.
-
-Here we are in Season 13 and it's March 2021. Today, there are only two 140 RPM HCs in the game - Dire Promise (Kinetic) and Palindrome (Energy, Nightfall-Exclusive). Sounds crazy right? Check out [this saved search onlight.gg](https://www.light.gg/db/new-items/season/13/new-weapons/?page=1&f=5(13;12;11;10),9(6),4(5),29:0:140(4284893193)) if you need convincing 😉
+The Dire Promise is a 140 RPM Hand Cannon that was re-issued all the way back in Season 10 and much has changed. Sunsetting was introduced and then rolled back, 150 RPM HCs were collapsed into the 140 RPM frames and 110 RPMs were upgraded to 120 RPM, turning them into absolute PvP monsters. 140s are middle- of-the-pack but still pack a decent punch.
 ### Dire Promise / PvP / Overview
 With the collapse of 150s > 140s and 110s > 120s, the 140 RPM subtype needs a bit of help. It doesn't have the range of the 120s or the  flinch factor and ease of use of the 180s. Dire Promise is also on the perk pool of Season 10. You have a middling subtype on an old perk pool; what's not to like? 🙃
 ### Dire Promise / PvP / Roll / **"Promises Made and Kept"**
