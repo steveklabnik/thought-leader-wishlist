@@ -8,8 +8,10 @@ combined with a "here's my own personal rolls" list makes a lot of sense, and
 they don't have to be in one list anymore! This means that anyone can take
 these rolls and import them into their own wishlists if they want to.
 
+You can view all of the rolls here: [https://steveklabnik.github.io/thought-leader-wishlist/](https://steveklabnik.github.io/thought-leader-wishlist/)
+
 You can import the list into DIM via this URL:
 
 ```
-https://raw.githubusercontent.com/steveklabnik/thought-leader-wishlist/master/wishlist.txt
+https://raw.githubusercontent.com/steveklabnik/thought-leader-wishlist/main/wishlist.txt
 ```

@@ -23,10 +23,10 @@ To use this wishlist in DIM, copy and paste this URL in the Settings
 page under "Wish List"
 
 ```
-https://raw.githubusercontent.com/rslifka/wishlist/master/wishlist.txt
+https://raw.githubusercontent.com/steveklabnik/thought-leader-wishlist/main/wishlist.txt
 ```
 
-Check out the [README](https://github.com/rslifka/wishlist/) for more info.
+Check out the [README](https://github.com/steveklabnik/thought-leader-wishlist/) for more info.
 
 ---
 PRE
