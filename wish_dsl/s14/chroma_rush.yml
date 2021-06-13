@@ -1,0 +1,71 @@
+name: Chroma Rush
+item_id: 1119734784
+lightgg: https://www.light.gg/db/items/1119734784/chroma-rush/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: Aztecross
+    summary: >
+      These rolls are based on
+      [Aztecross'](https://www.youtube.com/watch?v=s92DDAxOJTY) review.
+    rolls:
+      - &crnewnasty
+        name: (PvP) "The New Nasty"
+        desc: >
+          He can't decide which of these two rolls is better!
+        barrels: []
+        magazines: []
+        perks1: [Tunnel Vision]
+        perks2: [Kill Clip]
+        masterworks: []
+      - &crnewnasty2
+        name: (PvP) "The New Nasty"
+        desc: >
+          He can't decide which of these two rolls is better!
+        barrels: []
+        magazines: []
+        perks1: [Heating Up]
+        perks2: [Rampage]
+        masterworks: []
+      - &croldreliable
+        name: (PvP) "Old Reliable"
+        desc: >
+          This perk combo is good, but classic. The newer perks are more
+          exciting, due to being newer. That doesn't make this a bad roll!
+        barrels: []
+        magazines: []
+        perks1: [Dynamic Sway]
+        perks2: [Tap the Trigger]
+        masterworks: []
+      - &crpvegod
+        name: (PvE) "God roll"
+        desc: >
+          The roll he's chasing.
+        barrels: []
+        magazines: [Appended Mag]
+        perks1: [Subsistence]
+        perks2: [Rampage]
+        masterworks: []
+      - &crpvebasic
+        name: (PvE) "Basic roll"
+        desc: >
+          Some decent perk options.
+        barrels: []
+        magazines: []
+        perks1: [Subsistence, Feeding Frenzy]
+        perks2: [Wellspring, Kill Clip, Adrenaline Junkie]
+        masterworks: []
+      - &crlol
+        name: (PvE) "lol"
+        desc: >
+          A roll I happen to have, just to try and see if this works
+        barrels: [Arrowhead Brake]
+        magazines: [Accurized Rounds]
+        perks1: [Dynamic Sway Reduction]
+        perks2: [Kill Clip]
+        masterworks: [Stability]
