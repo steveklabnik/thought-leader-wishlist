@@ -9,7 +9,7 @@ task :generate_wishlist, [:environment] do |t, args|
   
   File.open(wishlist_filename(args.environment), 'w') do |wishlist|
     wishlist.puts <<-PREAMBLE
-title: SlifSF's Sliflist
+title: Destiny Thought Leader Wishlist
 description: Generated #{DateTime.now.strftime("%Y-%m-%d %H:%M:%S %:z")}
 PREAMBLE
     wishlist.puts(output_list.string)
