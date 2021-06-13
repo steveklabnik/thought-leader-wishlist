@@ -60,12 +60,3 @@ groups:
         perks1: [Subsistence, Feeding Frenzy]
         perks2: [Wellspring, Kill Clip, Adrenaline Junkie]
         masterworks: []
-      - &crlol
-        name: (PvE) "lol"
-        desc: >
-          A roll I happen to have, just to try and see if this works
-        barrels: [Arrowhead Brake]
-        magazines: [Accurized Rounds]
-        perks1: [Dynamic Sway Reduction]
-        perks2: [Kill Clip]
-        masterworks: [Stability MW]
