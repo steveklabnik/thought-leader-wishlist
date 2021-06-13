@@ -35,7 +35,7 @@ groups:
           Any of these perks are good, Full Choke is the best barrel.
         barrels: [Full Choke]
         magazines: [Tactical Mag, Accurized Rounds, Light Mag, Assault Mag]
-        perks1: [Quickdraw, Firmly Planted, Hipfire Grip]
+        perks1: [Quickdraw, Firmly Planted, Hip-Fire Grip]
         perks2: [Iron Reach, Killing Wind, Vorpal Weapon, Demolitionist, Swashbuckler]
         masterworks: []
       - 
