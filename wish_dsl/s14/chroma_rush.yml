@@ -39,7 +39,7 @@ groups:
           exciting, due to being newer. That doesn't make this a bad roll!
         barrels: []
         magazines: []
-        perks1: [Dynamic Sway]
+        perks1: [Dynamic Sway Reduction]
         perks2: [Tap the Trigger]
         masterworks: []
       - &crpvegod
