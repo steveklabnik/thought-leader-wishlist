@@ -1,0 +1,46 @@
+name: Riiswalker
+item_id:108221785 
+lightgg: https://www.light.gg/db/items/108221785/riiswalker/
+slots:
+  barrels:     {t: 6, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: Ascendant Nomad
+    summary: >
+      These rolls are based on
+      [Ascendant Nomad's review](https://www.youtube.com/watch?v=y4stTH6i6Sc).
+    rolls:
+      - &riispvpgod
+        name: (PvP) "96 Range Roll" - Ascendant Nomad
+        desc: >
+          It has 96 range! A shotgun!
+        barrels: [Rifled Barrel]
+        magazines: [Accurized Rounds]
+        perks1: [Quickdraw]
+        perks2: [Iron Reach]
+        masterworks: [Range MW]
+      - 
+        <<: *riispvpgod
+        name: (PvP) "96 Range Roll" - Ascendant Nomad (- Masterworks)
+        desc: >
+          God roll, minus Masterworks.
+        masterworks: []
+      - &riispvpgood
+        name: (PvP) "Good stuff" - Ascendant Nomad
+        desc: >
+          Any of these perks are good, Full Choke is the best barrel.
+        barrels: [Full Choke]
+        magazines: [Tactical Mag, Accurized Rounds, Light Mag, Assault Mag]
+        perks1: [Quickdraw, Firmly Planted, Hipfire Grip]
+        perks2: [Iron Reach, Killing Wind, Vorpal Weapon, Demolitionist, Swashbuckler]
+        masterworks: []
+      - 
+        <<: *riispvpgood
+        name: (PvP) "Good stuff" - Ascendant Nomad (Any barrel)
+        desc: >
+          Any barrel is fine.
+        barrels: []
