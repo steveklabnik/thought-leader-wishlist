@@ -1,0 +1,33 @@
+name: Vision of Confluence
+item_id: 3186018373 
+lightgg: https://www.light.gg/db/items/3186018373/vision-of-confluence/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: IFrostBolt
+    summary: >
+      These rolls are based on
+      [IFrostBolt's review](https://www.youtube.com/watch?v=jEusU5Y7czE).
+    rolls:
+      - &vcpersonal
+        name: (PvP) "Personal Roll" - IFrostBolt
+        desc: >
+          "Killing Wind makes this a three-tap machine. ... feels like MIDA
+          Multi-tool."
+
+        barrels: [Extended Barrel]
+        magazines: [Ricochet Rounds]
+        perks1: [Killing Wind]
+        perks2: [Kill Clip]
+        masterworks: [Reload MW]
+      - 
+        <<: *vcpersonal
+        name: (PvP) "Personal Roll" - IFrostBolt (- Masterwork)
+        desc: >
+          Personal roll, minus Masterworks.
+        masterworks: []
