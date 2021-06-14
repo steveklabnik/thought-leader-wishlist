@@ -1,0 +1,48 @@
+name: Corrective Measure
+item_id: 471518543 
+lightgg: https://www.light.gg/db/items/471518543/corrective-measure/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: Ehroar
+    summary: >
+      These rolls are based on
+      [Ehroar's review](https://www.youtube.com/watch?v=navEfNqoV_E).
+
+      With 100 Discipline and Demolitionist, you can get your grenade back with
+      only eight kills from this weapon. Throw your grenade, reload machine gun,
+      repeat.
+    rolls:
+      - &cmgodroll
+        name: (PvE) "Best Machine Gun in the Game" - Ehroar
+        desc: >
+          Ehroar loves this machine gun, because it works well for both
+          Voidwalker and warmind cells, making it a "bridge between the two."
+        barrels: []
+        magazines: []
+        perks1: [Demolitionist]
+        perks2: [Firefly]
+        masterworks: []
+      - &cmadds
+        name: (PvE) "Basic Add Clear" - Ehroar
+        desc: >
+          An add killing machine. Good with any build.
+        barrels: []
+        magazines: []
+        perks1: [Subsistence]
+        perks2: [One for All]
+        masterworks: []
+      - &cmaddsvoid
+        name: (PvE) "Basic Add Clear" - Ehroar
+        desc: >
+          An add killing machine. Good with Voidwalker and Nezarec's Sin.
+        barrels: []
+        magazines: []
+        perks1: [Subsistence]
+        perks2: [Adrenaline Junkie]
+        masterworks: []
