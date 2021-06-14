@@ -1,0 +1,33 @@
+name: Fatebringer
+item_id: 2171478765
+lightgg: https://www.light.gg/db/items/2171478765/fatebringer/
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: Fallout
+    summary: >
+      These rolls are based on
+      [Fallout's review](https://www.youtube.com/watch?v=n2bLA3wkBBE).
+    rolls:
+      - &fpve
+        name: PVE Roll - Fallout
+        desc: >
+          "Cut out all the bullcrap, you want Firefly. Make the room go boom and get those GD warmind cells". He also likes Frenzy but has a strong preference for Firefly.
+        barrels: []
+        magazines: [Extended Mag] 
+        perks1: [Rewind Rounds, Explosive Payload, Thresh]
+        perks2: [Firefly]
+        masterworks: [Reload MW, Handling MW]
+      - &fpvp
+        name: PVP Roll - Fallout
+        desc: >
+          "Activate Kill Clip and cut through people with no problem. You know you want to."
+        barrels: [Hammer-Forged Rifling, Smallbore]
+        magazines: [Accurized Rounds] 
+        perks1: [Killing Wind, Tunnel Vision, Explosive Payload]
+        perks2: [Kill Clip]
+        masterworks: [Range MW, Handling MW]
