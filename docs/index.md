@@ -17,6 +17,7 @@ Check out the [README](https://github.com/steveklabnik/thought-leader-wishlist/)
 
 **Vault of Glass**
 * Corrective Measure ([Ehroar](#corrective-measure---ehroar))
+* Fatebringer ([Fallout](#fatebringer---fallout))
 * Vision of Confluence ([IFrostBolt](#vision-of-confluence---ifrostbolt))
 
 ---
@@ -143,6 +144,29 @@ With 100 Discipline and Demolitionist, you can get your grenade back with only e
   Perks 1 [ 16%]: Subsistence
   Perks 2 [ 16%]: Adrenaline Junkie
   MWorks  [100%]: *
+  ```
+## Fatebringer - Fallout
+*For all possible perks, check out **Fatebringer** over on [light.gg](https://www.light.gg/db/items/2171478765/fatebringer/)*
+
+
+These rolls are based on [Fallout's review](https://www.youtube.com/watch?v=n2bLA3wkBBE).
+* **PVE Roll - Fallout - 1.2% chance**: "Cut out all the bullcrap, you want Firefly. Make the room go boom and get those GD warmind cells". He also likes Frenzy but has a strong preference for Firefly.
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 28%]: Extended Mag
+  Perks 1 [ 50%]: Rewind Rounds, Explosive Payload, Thresh
+  Perks 2 [ 16%]: Firefly
+  MWorks  [ 50%]: Reload MW, Handling MW
+  ```
+* **PVP Roll - Fallout - 0.5% chance**: "Activate Kill Clip and cut through people with no problem. You know you want to."
+
+  ```
+  Barrels [ 41%]: Hammer-Forged Rifling, Smallbore
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [ 50%]: Killing Wind, Tunnel Vision, Explosive Payload
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 50%]: Range MW, Handling MW
   ```
 ## Vision of Confluence - IFrostBolt
 *For all possible perks, check out **Vision of Confluence** over on [light.gg](https://www.light.gg/db/items/3186018373/vision-of-confluence/)*
