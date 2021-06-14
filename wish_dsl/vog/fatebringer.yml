@@ -1,6 +1,7 @@
 name: Fatebringer
 item_id: 2171478765
 lightgg: https://www.light.gg/db/items/2171478765/fatebringer/
+slots:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 7, c: 2}
   perks1:      {t: 6, c: 1}
