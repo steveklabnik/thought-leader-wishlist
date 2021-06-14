@@ -1,0 +1,46 @@
+name: Plug One.1
+item_id: 1289000550 
+lightgg: https://www.light.gg/db/items/1289000550/plug-one1/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: Aztecross
+    summary: >
+      These rolls are based on
+      [Aztecross'](https://www.youtube.com/watch?v=914VLJqcVOI) review.
+    rolls:
+      - &p1pvp
+        name: (PvP) "The God Roll" - Aztecross
+        desc: >
+          Kickstart is "by far the best trait for fusion rifles in pvp."
+
+          Barrel is dedicated to improving stats. Stability is becoming more
+          important on fusion rifles.
+        barrels: [Smallbore, Polygonal Rifling, Hammer Forged Rifling, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
+        magazines: [Liquid Coils]
+        perks1: [Under Pressure]
+        perks2: [Kickstart]
+        masterworks: []
+      - &p1pvegod
+        name: (PvE) "The God Roll" - Aztecross
+        desc: >
+          lol
+        barrels: [Smallbore, Polygonal Rifling, Hammer Forged Rifling, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
+        magazines: [Liquid Coils]
+        perks1: [Feeding Frenzy]
+        perks2: [Reservoir Burst]
+        masterworks: []
+      - &p1pve
+        name: (PvE) "The Decent Roll" - Aztecross
+        desc: >
+          Cornered and Adrenaline Junkie are not as good as Reservoir Burst, but is still good!
+        barrels: [Smallbore, Polygonal Rifling, Hammer Forged Rifling, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
+        magazines: [Liquid Coils]
+        perks1: [Feeding Frenzy]
+        perks2: [Cornered, Adrenaline Junkie]
+        masterworks: []
