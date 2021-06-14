@@ -21,7 +21,7 @@ groups:
 
           Barrel is dedicated to improving stats. Stability is becoming more
           important on fusion rifles.
-        barrels: [Smallbore, Polygonal Rifling, Hammer Forged Rifling, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
+        barrels: [Smallbore, Polygonal Rifling, Hammer-Forged Rifling, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
         magazines: [Liquid Coils]
         perks1: [Under Pressure]
         perks2: [Kickstart]
@@ -30,7 +30,7 @@ groups:
         name: (PvE) "The God Roll" - Aztecross
         desc: >
           lol
-        barrels: [Smallbore, Polygonal Rifling, Hammer Forged Rifling, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
+        barrels: [Smallbore, Polygonal Rifling, Hammer-Forged Rifling, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
         magazines: [Liquid Coils]
         perks1: [Feeding Frenzy]
         perks2: [Reservoir Burst]
@@ -39,7 +39,7 @@ groups:
         name: (PvE) "The Decent Roll" - Aztecross
         desc: >
           Cornered and Adrenaline Junkie are not as good as Reservoir Burst, but is still good!
-        barrels: [Smallbore, Polygonal Rifling, Hammer Forged Rifling, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
+        barrels: [Smallbore, Polygonal Rifling, Hammer-Forged Rifling, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
         magazines: [Liquid Coils]
         perks1: [Feeding Frenzy]
         perks2: [Cornered, Adrenaline Junkie]
