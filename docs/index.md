@@ -11,6 +11,7 @@ Check out the [README](https://github.com/steveklabnik/thought-leader-wishlist/)
 
 **Season 14 - Season of the Splicer (May 11, 2021 - August 24, 2021)**
 * Chroma Rush ([Aztecross](#chroma-rush---aztecross))
+* Plug One.1 ([Aztecross](#plug-one1---aztecross))
 
 **Iron Banner**
 * Riiswalker ([Ascendant Nomad](#riiswalker---ascendant-nomad))
@@ -69,6 +70,39 @@ These rolls are based on [Aztecross'](https://www.youtube.com/watch?v=s92DDAxOJT
   Mags    [100%]: *
   Perks 1 [ 33%]: Subsistence, Feeding Frenzy
   Perks 2 [ 50%]: Wellspring, Kill Clip, Adrenaline Junkie
+  MWorks  [100%]: *
+  ```
+## Plug One.1 - Aztecross
+*For all possible perks, check out **Plug One.1** over on [light.gg](https://www.light.gg/db/items/1289000550/plug-one1/)*
+
+
+These rolls are based on [Aztecross'](https://www.youtube.com/watch?v=914VLJqcVOI) review.
+* **(PvP) "The God Roll" - Aztecross - 0.8% chance**: Kickstart is "by far the best trait for fusion rifles in pvp."
+Barrel is dedicated to improving stats. Stability is becoming more important on fusion rifles.
+
+  ```
+  Barrels [ 91%]: Smallbore, Polygonal Rifling, Hammer-Forged Rifling, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
+  Mags    [ 33%]: Liquid Coils
+  Perks 1 [ 16%]: Under Pressure
+  Perks 2 [ 16%]: Kickstart
+  MWorks  [100%]: *
+  ```
+* **(PvE) "The God Roll" - Aztecross - 0.8% chance**: lol
+
+  ```
+  Barrels [ 91%]: Smallbore, Polygonal Rifling, Hammer-Forged Rifling, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
+  Mags    [ 33%]: Liquid Coils
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Reservoir Burst
+  MWorks  [100%]: *
+  ```
+* **(PvE) "The Decent Roll" - Aztecross - 1.7% chance**: Cornered and Adrenaline Junkie are not as good as Reservoir Burst, but is still good!
+
+  ```
+  Barrels [ 91%]: Smallbore, Polygonal Rifling, Hammer-Forged Rifling, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
+  Mags    [ 33%]: Liquid Coils
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 33%]: Cornered, Adrenaline Junkie
   MWorks  [100%]: *
   ```
 ## Riiswalker - Ascendant Nomad
