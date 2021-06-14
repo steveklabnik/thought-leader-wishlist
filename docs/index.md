@@ -17,6 +17,7 @@ Check out the [README](https://github.com/steveklabnik/thought-leader-wishlist/)
 
 **Vault of Glass**
 * Corrective Measure ([Ehroar](#corrective-measure---ehroar))
+* Vision of Confluence ([IFrostBolt](#vision-of-confluence---ifrostbolt))
 
 ---
 ## Chroma Rush - Aztecross
@@ -141,5 +142,28 @@ With 100 Discipline and Demolitionist, you can get your grenade back with only e
   Mags    [100%]: *
   Perks 1 [ 16%]: Subsistence
   Perks 2 [ 16%]: Adrenaline Junkie
+  MWorks  [100%]: *
+  ```
+## Vision of Confluence - IFrostBolt
+*For all possible perks, check out **Vision of Confluence** over on [light.gg](https://www.light.gg/db/items/3186018373/vision-of-confluence/)*
+
+
+These rolls are based on [IFrostBolt's review](https://www.youtube.com/watch?v=jEusU5Y7czE).
+* **(PvP) "Personal Roll" - IFrostBolt - 0.0% chance**: "Killing Wind makes this a three-tap machine. ... feels like MIDA Multi-tool."
+
+  ```
+  Barrels [ 22%]: Extended Barrel
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [ 25%]: Reload MW
+  ```
+* **(PvP) "Personal Roll" - IFrostBolt (- Masterwork) - 0.2% chance**: Personal roll, minus Masterworks.
+
+  ```
+  Barrels [ 22%]: Extended Barrel
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Killing Wind
+  Perks 2 [ 16%]: Kill Clip
   MWorks  [100%]: *
   ```
