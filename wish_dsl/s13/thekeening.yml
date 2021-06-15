@@ -1,0 +1,48 @@
+name: The Keening
+item_id: 409551876
+lightgg: https://www.light.gg/db/items/409551876/the-keening/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 12, c: 1}
+  perks2:      {t: 12, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: True Vanguard
+    summary: >
+      These rolls are based on
+      [True Vanguard's review](https://www.youtube.com/watch?v=2QAbg15vb20).
+
+      He mentions that there are a ton of viable options. There's so many
+      possible perk combinations here. There are also a few bad perks, but
+      you should think about combinations more deeply.
+    rolls:
+      - &keeningduel
+        name: (PvP) "The Dueler" - True Vanguard
+        desc: >
+          An extremely consistent weapon.
+        barrels: []
+        magazines: [Ricochet Rounds]
+        perks1: [Moving Target]
+        perks2: [Zen Moment]
+        masterworks: [Stability MW]
+      - &keeningduelnomw
+        name: (PvP) "The Dueler" - True Vanguard (- Masterwork)
+        desc: >
+          The Dueler with no masterwork.
+        barrels: []
+        magazines: [Ricochet Rounds]
+        perks1: [Moving Target]
+        perks2: [Zen Moment]
+        masterworks: []
+      - &keeningdevour
+        name: (PvP) "The Devour Roll" - True Vanguard
+        desc: >
+          To be played with a Devour Warlock.
+
+          Slap a Backup Mag mod on this, ammo for days.
+        barrels: []
+        magazines: []
+        perks1: [Pulse Monitor]
+        perks2: [Multikill Clip]
