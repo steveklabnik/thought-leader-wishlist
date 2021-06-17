@@ -37,7 +37,7 @@ groups:
         barrels: []
         magazines: []
         perks1: [Slideshot]
-        perks2: [High Impact Reserves]
+        perks2: [High-Impact Reserves]
         masterworks: []
       - &bd3
         name: (PvP) "The Basics" - Aztecross
