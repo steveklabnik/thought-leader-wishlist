@@ -22,6 +22,7 @@ Check out the [README](https://github.com/steveklabnik/thought-leader-wishlist/)
 
 **Season 14 - Season of the Splicer (May 11, 2021 - August 24, 2021)**
 * Chroma Rush ([Aztecross](#chroma-rush---aztecross), [Jarv](#chroma-rush---jarv))
+* Gridskipper ([Fallout](#gridskipper---fallout))
 * Plug One.1 ([Aztecross](#plug-one1---aztecross))
 
 **Season 13 - Season of the Chosen (February 19, 2021 - May 11, 2021)**
@@ -295,6 +296,87 @@ These rolls are based on [Jarv's review](https://www.youtube.com/watch?v=hSpiadR
   Mags    [100%]: *
   Perks 1 [ 16%]: Subsistence
   Perks 2 [ 16%]: Rampage
+  MWorks  [100%]: *
+  ```
+## Gridskipper - Fallout
+*For all possible perks, check out **Gridskipper** over on [light.gg](https://www.light.gg/db/items/1621558458/gridskipper/)*
+
+
+These rolls are based on [Fallout's review](https://www.youtube.com/watch?v=QEy8DlsW4jE).
+If you're on m&k, you should care about range, and if you're on controller, you should care about range and stability.
+* **(PvP) "The Most Slept On Pulse" - Fallout - 4.9% chance**: A lot of this is up to preference, any of this stuff is good.
+
+  ```
+  Barrels [ 58%]: Arrowhead Brake, Hammer-Forged Rifling, Smallbore
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 66%]: Killing Wind, Moving Target, Heating Up, Tunnel Vision
+  Perks 2 [ 50%]: Thresh, Adrenaline Junkie, Multikill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Neutral Game God Roll" - Fallout (recoil) - 2.3% chance**: Amazing Neutral game. If you're struggling with recoil, this is the roll for you.
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 46%]: Ricochet Rounds, High-Caliber Rounds
+  Perks 1 [ 66%]: Killing Wind, Moving Target, Heating Up, Tunnel Vision
+  Perks 2 [ 33%]: Thresh, Snapshot Sights
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Neutral Game God Roll" - Fallout (controller) - 1.2% chance**: Amazing Neutral game. Perks selected leaning towards controller.
+
+  ```
+  Barrels [ 22%]: Smallbore
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 66%]: Killing Wind, Moving Target, Heating Up, Tunnel Vision
+  Perks 2 [ 33%]: Thresh, Snapshot Sights
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Neutral Game God Roll" - Fallout (mouse and keyboard) - 1.2% chance**: Amazing Neutral game. Perks selected leaning towards m&k.
+
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: High-Caliber Rounds
+  Perks 1 [ 66%]: Killing Wind, Moving Target, Heating Up, Tunnel Vision
+  Perks 2 [ 33%]: Thresh, Snapshot Sights
+  MWorks  [100%]: *
+  ```
+* **(PvP) "High-Ceiling Frag Out God Roll" - Fallout - 0.8% chance**: "Aka 'if you get the right perks to activate, the other team better run and hide.'"
+
+  ```
+  Barrels [ 58%]: Arrowhead Brake, Hammer-Forged Rifling, Smallbore
+  Mags    [ 46%]: Ricochet Rounds, High-Caliber Rounds
+  Perks 1 [ 16%]: Tunnel Vision
+  Perks 2 [ 16%]: Multikill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) "High-Ceiling Frag Out God Roll" - Fallout (recoil) - 0.3% chance**: "Aka 'if you get the right perks to activate, the other team better run and hide.'"
+If you're struggling with recoil, this is the roll for you.
+
+  ```
+  Barrels [ 22%]: Arrowhead Brake
+  Mags    [ 46%]: Ricochet Rounds, High-Caliber Rounds
+  Perks 1 [ 16%]: Tunnel Vision
+  Perks 2 [ 16%]: Multikill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) "High-Ceiling Frag Out God Roll" - Fallout (controller) - 0.2% chance**: "Aka 'if you get the right perks to activate, the other team better run and hide.'"
+Perks selected leaning towards controller.
+
+  ```
+  Barrels [ 22%]: Smallbore
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Tunnel Vision
+  Perks 2 [ 16%]: Multikill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvP) "High-Ceiling Frag Out God Roll" - Fallout (mouse and keyboard) - 0.2% chance**: "Aka 'if you get the right perks to activate, the other team better run and hide.'"
+Perks selected leaning towards m&k.
+
+  ```
+  Barrels [ 22%]: Hammer-Forged Rifling
+  Mags    [ 25%]: High-Caliber Rounds
+  Perks 1 [ 16%]: Tunnel Vision
+  Perks 2 [ 16%]: Multikill Clip
   MWorks  [100%]: *
   ```
 ## Plug One.1 - Aztecross
