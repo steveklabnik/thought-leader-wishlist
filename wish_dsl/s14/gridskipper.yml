@@ -1,0 +1,105 @@
+name: Gridskipper
+item_id: 1621558458
+lightgg: https://www.light.gg/db/items/1621558458/gridskipper/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: Fallout
+    summary: >
+      These rolls are based on
+      [Fallout's review](https://www.youtube.com/watch?v=QEy8DlsW4jE).
+      
+      If you're on m&k, you should care about range, and if you're on controller,
+      you should care about range and stability.
+    rolls:
+      - &gs
+        name: (PvP) "The Most Slept On Pulse" - Fallout
+        
+        desc: >
+          A lot of this is up to preference, any of this stuff is good.
+        barrels: [Arrowhead Brake, Hammer-Forged Rifling, Smallbore]
+        magazines: [Ricochet Rounds]
+        perks1: [Killing Wind, Moving Target, Heating Up, Tunnel Vision]
+        perks2: [Thresh, Adrenaline Junkie, Multikill Clip]
+        masterworks: []
+      - &gs1recoil
+        name: (PvP) "Neutral Game God Roll" - Fallout (recoil)
+        
+        desc: >
+          Amazing Neutral game. If you're struggling with recoil, this is the roll for you.
+        barrels: [Arrowhead Brake]
+        magazines: [Ricochet Rounds, High-Caliber Rounds]
+        perks1: [Killing Wind, Moving Target, Heating Up, Tunnel Vision]
+        perks2: [Thresh, Snapshot Sights]
+        masterworks: []
+      - &gs1c
+        name: (PvP) "Neutral Game God Roll" - Fallout (controller)
+        
+        desc: >
+          Amazing Neutral game. Perks selected leaning towards controller.
+        barrels: [Smallbore]
+        magazines: [Ricochet Rounds]
+        perks1: [Killing Wind, Moving Target, Heating Up, Tunnel Vision]
+        perks2: [Thresh, Snapshot Sights]
+        masterworks: []
+      - &gs1mk
+        name: (PvP) "Neutral Game God Roll" - Fallout (mouse and keyboard)
+        
+        desc: >
+          Amazing Neutral game. Perks selected leaning towards m&k.
+        barrels: [Hammer-Forged Rifling]
+        magazines: [High-Caliber Rounds]
+        perks1: [Killing Wind, Moving Target, Heating Up, Tunnel Vision]
+        perks2: [Thresh, Snapshot Sights]
+        masterworks: []
+      - &gs2
+        name: (PvP) "High-Ceiling Frag Out God Roll" - Fallout
+        
+        desc: >
+          "Aka 'if you get the right perks to activate, the other team better run and hide.'"
+        barrels: [Arrowhead Brake, Hammer-Forged Rifling, Smallbore]
+        magazines: [Ricochet Rounds, High-Caliber Rounds]
+        perks1: [Tunnel Vision]
+        perks2: [Multikill Clip]
+        masterworks: []
+      - &gs2recoil
+        name: (PvP) "High-Ceiling Frag Out God Roll" - Fallout (recoil)
+        
+        desc: >
+          "Aka 'if you get the right perks to activate, the other team better run and hide.'"
+
+          If you're struggling with recoil, this is the roll for you.
+        barrels: [Arrowhead Brake]
+        magazines: [Ricochet Rounds, High-Caliber Rounds]
+        perks1: [Tunnel Vision]
+        perks2: [Multikill Clip]
+        masterworks: []
+      - &gs2c
+        name: (PvP) "High-Ceiling Frag Out God Roll" - Fallout (controller)
+        
+        desc: >
+          "Aka 'if you get the right perks to activate, the other team better run and hide.'"
+
+          Perks selected leaning towards controller.
+        barrels: [Smallbore]
+        magazines: [Ricochet Rounds]
+        perks1: [Tunnel Vision]
+        perks2: [Multikill Clip]
+        masterworks: []
+      - &gs2mk
+        name: (PvP) "High-Ceiling Frag Out God Roll" - Fallout (mouse and keyboard)
+        
+        desc: >
+          "Aka 'if you get the right perks to activate, the other team better run and hide.'"
+
+          Perks selected leaning towards m&k.
+        barrels: [Hammer-Forged Rifling]
+        magazines: [High-Caliber Rounds]
+        perks1: [Tunnel Vision]
+        perks2: [Multikill Clip]
+        masterworks: []
