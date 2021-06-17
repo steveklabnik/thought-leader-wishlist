@@ -1,0 +1,68 @@
+name: Bottom Dollar
+item_id: 1046651176 
+lightgg: https://www.light.gg/db/items/1046651176/bottom-dollar/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 12, c: 1}
+  perks2:      {t: 12, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: Aztecross
+    summary: >
+      These rolls are based on
+      [Aztecross' review](https://www.youtube.com/watch?v=pUa5FB0220c).
+
+      He mentions that there are a ton of viable options. There's so many
+      possible perk combinations here. There are also a few bad perks, but
+      you should think about combinations more deeply.
+    rolls:
+      - &bd1
+        name: (PvP) "Consistency" - Aztecross
+        desc: >
+          An extremely consistent weapon.
+        barrels: []
+        magazines: []
+        perks1: [Surplus]
+        perks2: [Explosive Payload]
+        masterworks: []
+      - &bd2
+        name: (PvP) "Two-tap City" - Aztecross
+        desc: >
+          Two tap! 0.5 second TTK. Shoot all but the last two bullets and go to town!
+          Kill someone, and then slide. You get two bullets back!
+
+          "This is the roll I'll bring into [trials]."
+        barrels: []
+        magazines: []
+        perks1: [Slideshot]
+        perks2: [High Impact Reserves]
+        masterworks: []
+      - &bd3
+        name: (PvP) "The Basics" - Aztecross
+        desc: >
+          It's straightforward, but it's good.
+        barrels: []
+        magazines: []
+        perks1: [Surplus]
+        perks2: [Rampage]
+        masterworks: []
+      - &bd4
+        name: (PvP) "The Scout Rifle" - Aztecross
+        desc: >
+          An out-there roll. Use your hand cannon like a scout rifle.
+        barrels: []
+        magazines: []
+        perks1: [Rangefinder]
+        perks2: [Opening Shot]
+        masterworks: []
+      - &bd5
+        name: (PvP) "The Chain Killer" - Aztecross
+        desc: >
+          Refresh your buff by reloading after kills. Better than Kill Clip.
+        barrels: []
+        magazines: []
+        perks1: [Surplus, Rapid Hit]
+        perks2: [Multikill Clip]
+        masterworks: []
