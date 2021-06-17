@@ -25,6 +25,7 @@ Check out the [README](https://github.com/steveklabnik/thought-leader-wishlist/)
 * Plug One.1 ([Aztecross](#plug-one1---aztecross))
 
 **Season 13 - Season of the Chosen (February 19, 2021 - May 11, 2021)**
+* Bottom Dollar ([Aztecross](#bottom-dollar---aztecross))
 * The Keening ([True Vanguard](#the-keening---true-vanguard))
 
 **Season 11 - Season of Arrivals (June 9, 2020 - November 10, 2020)**
@@ -327,6 +328,58 @@ Barrel is dedicated to improving stats. Stability is becoming more important on 
   Mags    [ 33%]: Liquid Coils
   Perks 1 [ 16%]: Feeding Frenzy
   Perks 2 [ 33%]: Cornered, Adrenaline Junkie
+  MWorks  [100%]: *
+  ```
+## Bottom Dollar - Aztecross
+*For all possible perks, check out **Bottom Dollar** over on [light.gg](https://www.light.gg/db/items/1046651176/bottom-dollar/)*
+
+
+These rolls are based on [Aztecross' review](https://www.youtube.com/watch?v=pUa5FB0220c).
+He mentions that there are a ton of viable options. There's so many possible perk combinations here. There are also a few bad perks, but you should think about combinations more deeply.
+* **(PvP) "Consistency" - Aztecross - 0.7% chance**: An extremely consistent weapon.
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [  8%]: Surplus
+  Perks 2 [  8%]: Explosive Payload
+  MWorks  [100%]: *
+  ```
+* **(PvP) "Two-tap City" - Aztecross - 0.7% chance**: Two tap! 0.5 second TTK. Shoot all but the last two bullets and go to town! Kill someone, and then slide. You get two bullets back!
+"This is the roll I'll bring into [trials]."
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [  8%]: Slideshot
+  Perks 2 [  8%]: High-Impact Reserves
+  MWorks  [100%]: *
+  ```
+* **(PvP) "The Basics" - Aztecross - 0.7% chance**: It's straightforward, but it's good.
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [  8%]: Surplus
+  Perks 2 [  8%]: Rampage
+  MWorks  [100%]: *
+  ```
+* **(PvP) "The Scout Rifle" - Aztecross - 0.7% chance**: An out-there roll. Use your hand cannon like a scout rifle.
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [  8%]: Rangefinder
+  Perks 2 [  8%]: Opening Shot
+  MWorks  [100%]: *
+  ```
+* **(PvP) "The Chain Killer" - Aztecross - 1.4% chance**: Refresh your buff by reloading after kills. Better than Kill Clip.
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Surplus, Rapid Hit
+  Perks 2 [  8%]: Multikill Clip
   MWorks  [100%]: *
   ```
 ## The Keening - True Vanguard
