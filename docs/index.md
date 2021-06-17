@@ -14,15 +14,24 @@ Check out the [README](https://github.com/steveklabnik/thought-leader-wishlist/)
 
 **Vault of Glass**
 * Corrective Measure ([Ehroar](#corrective-measure---ehroar))
-* Fatebringer ([Fallout](#fatebringer---fallout))
-* Vision of Confluence ([IFrostBolt](#vision-of-confluence---ifrostbolt))
+* Fatebringer ([Fallout](#fatebringer---fallout), [Jarv](#fatebringer---jarv))
+* Vision of Confluence ([IFrostBolt](#vision-of-confluence---ifrostbolt), [Jarv](#vision-of-confluence---jarv))
+
+**Deep Stone Crypt**
+* Succession ([Jarv](#succession---jarv))
 
 **Season 14 - Season of the Splicer (May 11, 2021 - August 24, 2021)**
-* Chroma Rush ([Aztecross](#chroma-rush---aztecross))
+* Chroma Rush ([Aztecross](#chroma-rush---aztecross), [Jarv](#chroma-rush---jarv))
 * Plug One.1 ([Aztecross](#plug-one1---aztecross))
 
 **Season 13 - Season of the Chosen (February 19, 2021 - May 11, 2021)**
 * The Keening ([True Vanguard](#the-keening---true-vanguard))
+
+**Season 11 - Season of Arrivals (June 9, 2020 - November 10, 2020)**
+* IKELOS_SMG_V1.0.2 ([Jarv](#ikelos_smg_v102---jarv))
+
+**Season 10 - Season of the Worthy (March 10, 2020 - June 9, 2020)**
+* Seventh Seraph VY-7 ([Jarv](#seventh-seraph-vy-7---jarv))
 
 ---
 ## Riiswalker - Ascendant Nomad
@@ -113,6 +122,15 @@ These rolls are based on [Fallout's review](https://www.youtube.com/watch?v=n2bL
   Perks 2 [ 16%]: Firefly
   MWorks  [ 50%]: Reload MW, Handling MW
   ```
+* **PVE Roll - Fallout (- Masterworks) - 2.4% chance**: Fallout's PVE roll without masterworks.
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 28%]: Extended Mag
+  Perks 1 [ 50%]: Rewind Rounds, Explosive Payload, Thresh
+  Perks 2 [ 16%]: Firefly
+  MWorks  [100%]: *
+  ```
 * **PVP Roll - Fallout - 0.5% chance**: "Activate Kill Clip and cut through people with no problem. You know you want to."
 
   ```
@@ -121,6 +139,29 @@ These rolls are based on [Fallout's review](https://www.youtube.com/watch?v=n2bL
   Perks 1 [ 50%]: Killing Wind, Tunnel Vision, Explosive Payload
   Perks 2 [ 16%]: Kill Clip
   MWorks  [ 50%]: Range MW, Handling MW
+  ```
+* **PVP Roll - Fallout - 1.0% chance**: Fallout's PVP roll without masterworks.
+
+  ```
+  Barrels [ 41%]: Hammer-Forged Rifling, Smallbore
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [ 50%]: Killing Wind, Tunnel Vision, Explosive Payload
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+## Fatebringer - Jarv
+*For all possible perks, check out **Fatebringer** over on [light.gg](https://www.light.gg/db/items/2171478765/fatebringer/)*
+
+
+These rolls are based on [Jarv's review](https://www.youtube.com/watch?v=hSpiadRhJwM).
+* **PVE Roll - Jarv - 11.1% chance**: Solid perks, in any combination.
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 33%]: Rewind Rounds, Explosive Payload
+  Perks 2 [ 33%]: Frenzy, Firefly
+  MWorks  [100%]: *
   ```
 ## Vision of Confluence - IFrostBolt
 *For all possible perks, check out **Vision of Confluence** over on [light.gg](https://www.light.gg/db/items/3186018373/vision-of-confluence/)*
@@ -143,6 +184,43 @@ These rolls are based on [IFrostBolt's review](https://www.youtube.com/watch?v=j
   Mags    [ 25%]: Ricochet Rounds
   Perks 1 [ 16%]: Killing Wind
   Perks 2 [ 16%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+## Vision of Confluence - Jarv
+*For all possible perks, check out **Vision of Confluence** over on [light.gg](https://www.light.gg/db/items/3186018373/vision-of-confluence/)*
+
+
+These rolls are based on [Jarv's review](https://www.youtube.com/watch?v=hSpiadRhJwM).
+* **PVE Popular Community Roll - Jarv - 0.7% chance**: An absolutely beastly scout rifle.
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Rewind Rounds
+  Perks 2 [ 16%]: Firefly
+  MWorks  [100%]: *
+  ```
+* **PVE Popular Community Roll - Jarv - 2.8% chance**: A personal favorite that is underrated.
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Wellspring
+  Perks 2 [ 16%]: Thresh
+  MWorks  [100%]: *
+  ```
+## Succession - Jarv
+*For all possible perks, check out **Succession** over on [light.gg](https://www.light.gg/db/items/2990047042/succession/)*
+
+
+These rolls are based on [Jarv's review](https://www.youtube.com/watch?v=hSpiadRhJwM).
+* **(PvE) God Roll - Jarv - 1.1% chance**: "I rarely take this off."
+
+  ```
+  Barrels [100%]: *
+  Mags    [ 40%]: Extended Mag
+  Perks 1 [ 16%]: Reconstruction
+  Perks 2 [ 16%]: Vorpal Weapon
   MWorks  [100%]: *
   ```
 ## Chroma Rush - Aztecross
@@ -193,6 +271,29 @@ These rolls are based on [Aztecross'](https://www.youtube.com/watch?v=s92DDAxOJT
   Mags    [100%]: *
   Perks 1 [ 33%]: Subsistence, Feeding Frenzy
   Perks 2 [ 50%]: Wellspring, Kill Clip, Adrenaline Junkie
+  MWorks  [100%]: *
+  ```
+## Chroma Rush - Jarv
+*For all possible perks, check out **Chroma Rush** over on [light.gg](https://www.light.gg/db/items/1119734784/chroma-rush/)*
+
+
+These rolls are based on [Jarv's review](https://www.youtube.com/watch?v=hSpiadRhJwM).
+* **(PvP) God Roll - Jarv - 2.8% chance**: Much better than people initially thought.
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 16%]: Kill Clip
+  MWorks  [100%]: *
+  ```
+* **(PvE) God Roll - Jarv - 2.8% chance**: Much better than people initially thought.
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 16%]: Subsistence
+  Perks 2 [ 16%]: Rampage
   MWorks  [100%]: *
   ```
 ## Plug One.1 - Aztecross
@@ -260,5 +361,33 @@ Slap a Backup Mag mod on this, ammo for days.
   Mags    [100%]: *
   Perks 1 [  8%]: Pulse Monitor
   Perks 2 [  8%]: Multikill Clip
+  MWorks  [100%]: *
+  ```
+## IKELOS_SMG_V1.0.2 - Jarv
+*For all possible perks, check out **IKELOS_SMG_V1.0.2** over on [light.gg](https://www.light.gg/db/items/2222560548/ikelos-smg-v102/)*
+
+
+These rolls are based on [Jarv's review](https://www.youtube.com/watch?v=hSpiadRhJwM).
+* **(PvE) God Roll - Jarv - 4.0% chance**: A fantastic weapon; Jarv slightly prefers the Seventh Seraphy VY-7 over this.
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 20%]: Threat Detector
+  Perks 2 [ 20%]: Surrounded
+  MWorks  [100%]: *
+  ```
+## Seventh Seraph VY-7 - Jarv
+*For all possible perks, check out **Seventh Seraph VY-7** over on [light.gg](https://www.light.gg/db/items/766323545/seventh-seraph-vy-7/)*
+
+
+These rolls are based on [Jarv's review](https://www.youtube.com/watch?v=hSpiadRhJwM).
+* **(PvE) God Roll - Jarv - 6.2% chance**: A fantastic weapon; Jarv slightly prefers this over the Ikelos SMG.
+
+  ```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [ 25%]: Ambitious Assassin
+  Perks 2 [ 25%]: Dragonfly
   MWorks  [100%]: *
   ```
