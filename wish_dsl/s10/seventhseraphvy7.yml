@@ -1,0 +1,25 @@
+name: Seventh Seraph VY-7
+item_id: 766323545
+lightgg: https://www.light.gg/db/items/766323545/seventh-seraph-vy-7/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 4, c: 1}
+  perks2:      {t: 4, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: Jarv
+    summary: >
+      These rolls are based on
+      [Jarv's review](https://www.youtube.com/watch?v=hSpiadRhJwM).
+    rolls:
+      - &ssvy7
+        name: (PvE) God Roll - Jarv
+        desc: >
+          A fantastic weapon; Jarv slightly prefers this over the Ikelos SMG.
+        barrels: []
+        magazines: []
+        perks1: [Ambitious Assassin]
+        perks2: [Dragonfly]
+        masterworks: []

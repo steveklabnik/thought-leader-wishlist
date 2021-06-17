@@ -60,3 +60,27 @@ groups:
         perks1: [Subsistence, Feeding Frenzy]
         perks2: [Wellspring, Kill Clip, Adrenaline Junkie]
         masterworks: []
+  - 
+    name: Jarv
+    summary: >
+      These rolls are based on
+      [Jarv's review](https://www.youtube.com/watch?v=hSpiadRhJwM).
+    rolls:
+      - &chromarushpvp
+        name: (PvP) God Roll - Jarv
+        desc: >
+          Much better than people initially thought.
+        barrels: []
+        magazines: []
+        perks1: [Feeding Frenzy]
+        perks2: [Kill Clip]
+        masterworks: []
+      - &chromarushpve
+        name: (PvE) God Roll - Jarv
+        desc: >
+          Much better than people initially thought.
+        barrels: []
+        magazines: []
+        perks1: [Subsistence]
+        perks2: [Rampage]
+        masterworks: []

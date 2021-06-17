@@ -31,3 +31,27 @@ groups:
         desc: >
           Personal roll, minus Masterworks.
         masterworks: []
+  - 
+    name: Jarv
+    summary: >
+      These rolls are based on
+      [Jarv's review](https://www.youtube.com/watch?v=hSpiadRhJwM).
+    rolls:
+      - &pvecommunity
+        name: PVE Popular Community Roll - Jarv
+        desc: >
+          An absolutely beastly scout rifle.
+        barrels: []
+        magazines: [Ricochet Rounds] 
+        perks1: [Rewind Rounds]
+        perks2: [Firefly]
+        masterworks: []
+      - &pve
+        name: PVE Popular Community Roll - Jarv
+        desc: >
+          A personal favorite that is underrated.
+        barrels: []
+        magazines: [] 
+        perks1: [Wellspring]
+        perks2: [Thresh]
+        masterworks: []

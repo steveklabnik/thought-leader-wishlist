@@ -23,6 +23,15 @@ groups:
         perks1: [Rewind Rounds, Explosive Payload, Thresh]
         perks2: [Firefly]
         masterworks: [Reload MW, Handling MW]
+      - &fpvenomw
+        name: PVE Roll - Fallout (- Masterworks)
+        desc: >
+          Fallout's PVE roll without masterworks.
+        barrels: []
+        magazines: [Extended Mag] 
+        perks1: [Rewind Rounds, Explosive Payload, Thresh]
+        perks2: [Firefly]
+        masterworks: []
       - &fpvp
         name: PVP Roll - Fallout
         desc: >
@@ -32,3 +41,27 @@ groups:
         perks1: [Killing Wind, Tunnel Vision, Explosive Payload]
         perks2: [Kill Clip]
         masterworks: [Range MW, Handling MW]
+      - &fpvpnomw
+        name: PVP Roll - Fallout
+        desc: >
+          Fallout's PVP roll without masterworks.
+        barrels: [Hammer-Forged Rifling, Smallbore]
+        magazines: [Accurized Rounds] 
+        perks1: [Killing Wind, Tunnel Vision, Explosive Payload]
+        perks2: [Kill Clip]
+        masterworks: []
+  - 
+    name: Jarv
+    summary: >
+      These rolls are based on
+      [Jarv's review](https://www.youtube.com/watch?v=hSpiadRhJwM).
+    rolls:
+      - &pve
+        name: PVE Roll - Jarv
+        desc: >
+          Solid perks, in any combination.
+        barrels: []
+        magazines: [] 
+        perks1: [Rewind Rounds, Explosive Payload]
+        perks2: [Frenzy, Firefly]
+        masterworks: []

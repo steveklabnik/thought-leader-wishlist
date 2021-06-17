@@ -1,0 +1,25 @@
+name: IKELOS_SMG_V1.0.2
+item_id: 2222560548
+lightgg: https://www.light.gg/db/items/2222560548/ikelos-smg-v102/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 5, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: Jarv
+    summary: >
+      These rolls are based on
+      [Jarv's review](https://www.youtube.com/watch?v=hSpiadRhJwM).
+    rolls:
+      - &ismg
+        name: (PvE) God Roll - Jarv
+        desc: >
+          A fantastic weapon; Jarv slightly prefers the Seventh Seraphy VY-7 over this.
+        barrels: []
+        magazines: []
+        perks1: [Threat Detector]
+        perks2: [Surrounded]
+        masterworks: []

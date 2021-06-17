@@ -1,0 +1,25 @@
+name: Succession
+item_id: 2990047042
+lightgg: https://www.light.gg/db/items/2990047042/succession/
+slots:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 5, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+groups:  
+  - 
+    name: Jarv
+    summary: >
+      These rolls are based on
+      [Jarv's review](https://www.youtube.com/watch?v=hSpiadRhJwM).
+    rolls:
+      - &ismg
+        name: (PvE) God Roll - Jarv
+        desc: >
+          "I rarely take this off."
+        barrels: []
+        magazines: [Extended Mag]
+        perks1: [Reconstruction]
+        perks2: [Vorpal Weapon]
+        masterworks: []

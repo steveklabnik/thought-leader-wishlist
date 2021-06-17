@@ -1,10 +1,16 @@
 ordering:
   - iron_banner
   - vog
+  - dsc
   - s14
   - s13
+  - s11
+  - s10
 naming:
   iron_banner: Iron Banner
   vog: Vault of Glass
+  dsc: Deep Stone Crypt
   s14: Season 14 - Season of the Splicer (May 11, 2021 - August 24, 2021)
   s13: Season 13 - Season of the Chosen (February 19, 2021 - May 11, 2021)
+  s11: Season 11 - Season of Arrivals (June 9, 2020 - November 10, 2020)
+  s10: Season 10 - Season of the Worthy (March 10, 2020 - June 9, 2020)
