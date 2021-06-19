@@ -1,0 +1,47 @@
+syntax_version: 2
+name: Ignition Code
+item_id: 304659313
+traits:
+  barrels:     {t: 7, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  The only non-sunset kinetic GL that has blinding grenades.
+
+  No auto-loading, but slideshot can emulate it sorta. Slide after you shoot,
+  then switch.
+activities:
+  - 
+    name: Ehroar
+    overview: >
+      These rolls are based on [Ehrorar's review](https://www.youtube.com/watch?v=pk53lvImHRU).
+    roll_sets:
+      -
+        name: Single Target Damage
+        overview: >
+          Spike Grenades and Vorpal help do great damage against a single target.
+        perks: 
+          base: 
+            barrels: []
+            magazines: [Spike Grenades]
+            perks1: [Slideshot]
+            perks2: [Vorpal Weapon]
+            masterworks: []
+        variants:
+          - God Roll
+      -
+        name: Ad Clear
+        overview: >
+          Blinding grenades makes groups of enemies not able to shoot you,
+          and Danger Zone upgrades that to entire rooms.
+        perks: 
+          base: 
+            barrels: []
+            magazines: [Blinding Grenades]
+            perks1: [Slideshot]
+            perks2: [Danger Zone]
+            masterworks: []
+        variants:
+          - God Roll
