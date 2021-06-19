@@ -23,6 +23,7 @@ Check out the [README](https://github.com/steveklabnik/thought-leader-wishlist/)
 **Season 14 - Season of the Splicer (May 11, 2021 - August 24, 2021)**
 * Chroma Rush ([Aztecross](#chroma-rush---aztecross), [Jarv](#chroma-rush---jarv))
 * Gridskipper ([Fallout](#gridskipper---fallout))
+* [Ignition Code](#ignition-code) ([Ehroar](#ignition-code--ehroar--Overview))
 * Plug One.1 ([Aztecross](#plug-one1---aztecross))
 
 **Season 13 - Season of the Chosen (February 19, 2021 - May 11, 2021)**
@@ -379,6 +380,41 @@ Perks selected leaning towards m&k.
   Perks 2 [ 16%]: Multikill Clip
   MWorks  [100%]: *
   ```
+# Ignition Code
+*For all possible perks, check out **Ignition Code** over on [light.gg]()*
+
+The only non-sunset kinetic GL that has blinding grenades.
+No auto-loading, but slideshot can emulate it sorta. Slide after you shoot, then switch.
+### Ignition Code / Ehroar / Overview
+These rolls are based on [Ehrorar's review](https://www.youtube.com/watch?v=pk53lvImHRU).
+### Ignition Code / Ehroar / Roll / **"Single Target Damage"**
+Spike Grenades and Vorpal help do great damage against a single target.
+```
+  Barrels [100%]: *
+  Mags    [ 33%]: Spike Grenades
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 16%]: Vorpal Weapon
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| God Roll | 0.93% | 108 |
+
+### Ignition Code / Ehroar / Roll / **"Ad Clear"**
+Blinding grenades makes groups of enemies not able to shoot you, and Danger Zone upgrades that to entire rooms.
+```
+  Barrels [100%]: *
+  Mags    [ 33%]: Blinding Grenades
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 16%]: Danger Zone
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| God Roll | 0.93% | 108 |
+
 ## Plug One.1 - Aztecross
 *For all possible perks, check out **Plug One.1** over on [light.gg](https://www.light.gg/db/items/1289000550/plug-one1/)*
 

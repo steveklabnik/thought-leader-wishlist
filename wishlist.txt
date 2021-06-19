@@ -1,5 +1,5 @@
 title: Destiny Thought Leader Wishlist
-description: Generated 2021-06-17 16:08:07 +00:00
+description: Generated 2021-06-19 16:25:03 +00:00
 //notes:(PvE) God Roll - Jarv / 1.1% chance
 dimwishlist:item=2990047042&perks=2420895100,1523832109,1546637391
 //notes:(PvP) "96 Range Roll" - Ascendant Nomad / 0.1% chance
@@ -274,6 +274,10 @@ dimwishlist:item=1621558458&perks=839105230,1561002382,2946784966,2458213969
 dimwishlist:item=1621558458&perks=1482024992,1885400500,2946784966,2458213969
 //notes:(PvP) "High-Ceiling Frag Out God Roll" - Fallout (mouse and keyboard) / 0.2% chance
 dimwishlist:item=1621558458&perks=3250034553,1561002382,2946784966,2458213969
+//notes:(Ehroar) Single Target Damage God Roll / 0.9% chance
+dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391
+//notes:(Ehroar) Ad Clear God Roll / 0.9% chance
+dimwishlist:item=304659313&perks=3032599245,3161816588,960810156
 //notes:(PvP) "The God Roll" - Aztecross / 0.8% chance
 dimwishlist:item=1289000550&perks=1482024992,1687452232,1645158859,1754714824
 dimwishlist:item=1289000550&perks=1392496348,1687452232,1645158859,1754714824
