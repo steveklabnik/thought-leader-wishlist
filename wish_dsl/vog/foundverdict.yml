@@ -1,0 +1,71 @@
+syntax_version: 2
+name: Found Verdict
+item_id: 3197270240
+traits:
+  barrels:     {t: 6, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  raid shotgun
+activities:
+  - 
+    name: Aztecross
+    overview: >
+      These rolls are based on [Aztecross' review](https://www.youtube.com/watch?v=pk53lvImHRU).
+    roll_sets:
+      -
+        name: Super Nasty
+        overview: >
+          Just classic really good shotgun stuff.
+        perks: 
+          base: 
+            barrels: [Full Choke]
+            magazines: [Accurized Rounds]
+            perks1: [Slideshot]
+            perks2: [Opening Shot]
+            masterworks: []
+        variants:
+          - God Roll
+      -
+        name: Les' Roll
+        overview: >
+          Killing Wind on this roll. If you've got good range, you probably
+          don't need half of what Opening Shot is giving you.
+        perks: 
+          base: 
+            barrels: [Rifled Barrel]
+            magazines: [Accurized Rounds]
+            perks1: [Slideshot]
+            perks2: [Killing Wind]
+            masterworks: []
+        variants:
+          - God Roll
+      -
+        name: Range roll
+        overview: >
+          Super range.
+        perks: 
+          base: 
+            barrels: [Rifled Barrel]
+            magazines: [Accurized Rounds]
+            perks1: [Slideshot]
+            perks2: [Opening Shot]
+            masterworks: [Range MW]
+        variants:
+          - God Roll
+      -
+        name: Vorpal
+        overview: >
+          Vorpal can't one-shot someone in a super, but you can probably
+          shoot and then punch someone in a super.
+        perks: 
+          base: 
+            barrels: [Rifled Barrel]
+            magazines: [Assault Mag]
+            perks1: [Slideshot]
+            perks2: [Vorpal Weapon]
+            masterworks: []
+        variants:
+          - God Roll
