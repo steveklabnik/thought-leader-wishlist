@@ -15,6 +15,7 @@ Check out the [README](https://github.com/steveklabnik/thought-leader-wishlist/)
 **Vault of Glass**
 * Corrective Measure ([Ehroar](#corrective-measure---ehroar))
 * Fatebringer ([Fallout](#fatebringer---fallout), [Jarv](#fatebringer---jarv))
+* [Found Verdict](#found-verdict) ([Aztecross](#found-verdict--aztecross--Overview))
 * Vision of Confluence ([IFrostBolt](#vision-of-confluence---ifrostbolt), [Jarv](#vision-of-confluence---jarv))
 
 **Deep Stone Crypt**
@@ -166,6 +167,68 @@ These rolls are based on [Jarv's review](https://www.youtube.com/watch?v=hSpiadR
   Perks 2 [ 33%]: Frenzy, Firefly
   MWorks  [100%]: *
   ```
+# Found Verdict
+*For all possible perks, check out **Found Verdict** over on [light.gg]()*
+
+raid shotgun
+### Found Verdict / Aztecross / Overview
+These rolls are based on [Aztecross' review](https://www.youtube.com/watch?v=pk53lvImHRU).
+### Found Verdict / Aztecross / Roll / **"Super Nasty"**
+Just classic really good shotgun stuff.
+```
+  Barrels [ 33%]: Full Choke
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| God Roll | 0.26% | 378 |
+
+### Found Verdict / Aztecross / Roll / **"Les' Roll"**
+Killing Wind on this roll. If you've got good range, you probably don't need half of what Opening Shot is giving you.
+```
+  Barrels [ 33%]: Rifled Barrel
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 16%]: Killing Wind
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| God Roll | 0.26% | 378 |
+
+### Found Verdict / Aztecross / Roll / **"Range roll"**
+Super range.
+```
+  Barrels [ 33%]: Rifled Barrel
+  Mags    [ 28%]: Accurized Rounds
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 16%]: Opening Shot
+  MWorks  [ 25%]: Range MW
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| God Roll | 0.07% | 1512 |
+
+### Found Verdict / Aztecross / Roll / **"Vorpal"**
+Vorpal can't one-shot someone in a super, but you can probably shoot and then punch someone in a super.
+```
+  Barrels [ 33%]: Rifled Barrel
+  Mags    [ 28%]: Assault Mag
+  Perks 1 [ 16%]: Slideshot
+  Perks 2 [ 16%]: Vorpal Weapon
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| God Roll | 0.26% | 378 |
+
 ## Vision of Confluence - IFrostBolt
 *For all possible perks, check out **Vision of Confluence** over on [light.gg](https://www.light.gg/db/items/3186018373/vision-of-confluence/)*
 
