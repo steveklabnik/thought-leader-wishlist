@@ -25,7 +25,7 @@ Check out the [README](https://github.com/steveklabnik/thought-leader-wishlist/)
 * Chroma Rush ([Aztecross](#chroma-rush---aztecross), [Jarv](#chroma-rush---jarv))
 * Gridskipper ([Fallout](#gridskipper---fallout))
 * [Ignition Code](#ignition-code) ([Ehroar](#ignition-code--ehroar--Overview))
-* Plug One.1 ([Aztecross](#plug-one1---aztecross))
+* Plug One.1 ([Aztecross](#plug-one1---aztecross), [Fallout](#plug-one1---fallout))
 
 **Season 13 - Season of the Chosen (February 19, 2021 - May 11, 2021)**
 * Bottom Dollar ([Aztecross](#bottom-dollar---aztecross))
@@ -508,6 +508,40 @@ Barrel is dedicated to improving stats. Stability is becoming more important on 
   Barrels [ 91%]: Smallbore, Polygonal Rifling, Hammer-Forged Rifling, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling
   Mags    [ 33%]: Liquid Coils
   Perks 1 [ 16%]: Feeding Frenzy
+  Perks 2 [ 33%]: Cornered, Adrenaline Junkie
+  MWorks  [100%]: *
+  ```
+## Plug One.1 - Fallout
+*For all possible perks, check out **Plug One.1** over on [light.gg](https://www.light.gg/db/items/1289000550/plug-one1/)*
+
+
+These rolls are based on [Fallout's review](https://www.youtube.com/watch?v=vRvLO1iPB_A).
+Stability matters most on fusion rifles in PvP, because you want to kill in one charge, and you need to hit as many bolts as possible to do that.
+* **(PvP) "The Good Stuff" - Fallout - 16.7% chance**: Decent perks.
+
+  ```
+  Barrels [ 83%]: Corkscrew Rifling, Polygonal Rifling, Smallbore, Chambered Compensator, Arrowhead Brake
+  Mags    [ 60%]: Particle Repeater, Liquid Coils
+  Perks 1 [ 50%]: Killing Wind, Heating Up, Under Pressure
+  Perks 2 [ 66%]: Thresh, Adrenaline Junkie, Kickstart, Cornered
+  MWorks  [100%]: *
+  ```
+* **(PvP) "The God Roll" - Fallout - 0.2% chance**: If you get an adept one, Adept Charge Time is good. Adept Stability is also good.
+
+  ```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 33%]: Liquid Coils
+  Perks 1 [ 16%]: Under Pressure
+  Perks 2 [ 50%]: Cornered, Adrenaline Junkie, Kickstart
+  MWorks  [ 25%]: Stability MW
+  ```
+* **(PvE) "One-phase Atheon" - Fallout - 0.4% chance**: Maybe better than Null Composure?
+Use an Adept Charge Time mod.
+
+  ```
+  Barrels [ 22%]: Chambered Compensator
+  Mags    [ 33%]: Accelerated Coils
+  Perks 1 [ 16%]: Under Pressure
   Perks 2 [ 33%]: Cornered, Adrenaline Junkie
   MWorks  [100%]: *
   ```
