@@ -44,3 +44,42 @@ groups:
         perks1: [Feeding Frenzy]
         perks2: [Cornered, Adrenaline Junkie]
         masterworks: []
+  - 
+    name: Fallout
+    summary: >
+      These rolls are based on
+      [Fallout's review](https://www.youtube.com/watch?v=vRvLO1iPB_A).
+
+      Stability matters most on fusion rifles in PvP, because you want to kill
+      in one charge, and you need to hit as many bolts as possible to do that.
+    rolls:
+      - &p1pvpgoodstuff
+        name: (PvP) "The Good Stuff" - Fallout
+        desc: >
+          Decent perks.
+        barrels: [Corkscrew Rifling, Polygonal Rifling, Smallbore, Chambered Compensator, Arrowhead Brake]
+        magazines: [Particle Repeater, Liquid Coils]
+        perks1: [Killing Wind, Heating Up, Under Pressure]
+        perks2: [Thresh, Adrenaline Junkie, Kickstart, Cornered]
+        masterworks: []
+      - &p1pvpgod
+        name: (PvP) "The God Roll" - Fallout
+        desc: >
+          If you get an adept one, Adept Charge Time is good. Adept Stability
+          is also good.
+        barrels: [Chambered Compensator]
+        magazines: [Liquid Coils]
+        perks1: [Under Pressure]
+        perks2: [Cornered, Adrenaline Junkie, Kickstart]
+        masterworks: [Stability MW]
+      - &p1pve
+        name: (PvE) "One-phase Atheon" - Fallout
+        desc: >
+          Maybe better than Null Composure?
+
+          Use an Adept Charge Time mod.
+        barrels: [Chambered Compensator]
+        magazines: [Accelerated Coils]
+        perks1: [Under Pressure]
+        perks2: [Cornered, Adrenaline Junkie]
+        masterworks: []
