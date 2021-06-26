@@ -21,7 +21,7 @@ activities:
           Just some good perks.
         perks: 
           base: 
-            barrels: [Smallbore, Corkscrew Rifling, Arrowhead Brake, Fullbore]
+            barrels: [Smallbore, Corkscrew Rifling, Arrowhead Brake, Full Bore]
             magazines: [Ricochet Rounds]
             perks1: [Surplus, Feeding Frenzy]
             perks2: [Frenzy, Rampage, Swashbuckler]
@@ -34,7 +34,7 @@ activities:
           Extended Mag + Overflow gets you a *lot* of bullets.
         perks: 
           base: 
-            barrels: [Smallbore, Corkscrew Rifling, Arrowhead Brake, Fullbore]
+            barrels: [Smallbore, Corkscrew Rifling, Arrowhead Brake, Full Bore]
             magazines: [Extended Mag]
             perks1: [Overflow]
             perks2: [Frenzy, Rampage, Swashbuckler]
@@ -47,7 +47,7 @@ activities:
           A very reliable roll.
         perks: 
           base: 
-            barrels: [Smallbore, Corkscrew Rifling, Arrowhead Brake, Fullbore]
+            barrels: [Smallbore, Corkscrew Rifling, Arrowhead Brake, Full Bore]
             magazines: [Ricochet Rounds, Extended Mag]
             perks1: [Dynamic Sway Reduction]
             perks2: [Tap the Trigger]
@@ -60,7 +60,7 @@ activities:
           This roll focuses on damage perks rather than consistency perks.
         perks: 
           base: 
-            barrels: [Smallbore, Corkscrew Rifling, Arrowhead Brake, Fullbore]
+            barrels: [Smallbore, Corkscrew Rifling, Arrowhead Brake, Full Bore]
             magazines: [Ricochet Rounds, Extended Mag]
             perks1: [Rangefinder, Surplus, Tunnel Vision]
             perks2: [Rampage]
