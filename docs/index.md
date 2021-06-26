@@ -22,6 +22,7 @@ Check out the [README](https://github.com/steveklabnik/thought-leader-wishlist/)
 * Succession ([Jarv](#succession---jarv))
 
 **Season 14 - Season of the Splicer (May 11, 2021 - August 24, 2021)**
+* [Borrowed Time](#borrowed-time) ([Marshix](#borrowed-time--marshix--Overview), [Aztecross](#borrowed-time--aztecross--Overview))
 * Chroma Rush ([Aztecross](#chroma-rush---aztecross), [Jarv](#chroma-rush---jarv))
 * Gridskipper ([Fallout](#gridskipper---fallout))
 * [Ignition Code](#ignition-code) ([Ehroar](#ignition-code--ehroar--Overview))
@@ -289,6 +290,127 @@ These rolls are based on [Jarv's review](https://www.youtube.com/watch?v=hSpiadR
   Perks 2 [ 16%]: Vorpal Weapon
   MWorks  [100%]: *
   ```
+# Borrowed Time
+*For all possible perks, check out **Borrowed Time** over on [light.gg]()*
+
+The only solar SMG of its archetype.
+### Borrowed Time / Marshix / Overview
+These rolls are based on [Marshix's review](https://www.youtube.com/watch?v=K3VuBCJ-2kY).
+### Borrowed Time / Marshix / Roll / **"PvE God Roll"**
+Just some good perks.
+```
+  Barrels [ 72%]: Smallbore, Corkscrew Rifling, Arrowhead Brake, Full Bore
+  Mags    [ 25%]: Ricochet Rounds
+  Perks 1 [ 16%]: Surplus, Feeding Frenzy
+  Perks 2 [ 25%]: Frenzy, Rampage, Swashbuckler
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| God Roll | 0.75% | 132 |
+
+### Borrowed Time / Marshix / Roll / **"PvE God Roll (52 in the mag)"**
+Extended Mag + Overflow gets you a *lot* of bullets.
+```
+  Barrels [ 72%]: Smallbore, Corkscrew Rifling, Arrowhead Brake, Full Bore
+  Mags    [ 25%]: Extended Mag
+  Perks 1 [  8%]: Overflow
+  Perks 2 [ 25%]: Frenzy, Rampage, Swashbuckler
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| God Roll | 0.38% | 265 |
+
+### Borrowed Time / Marshix / Roll / **"PvP God Roll"**
+A very reliable roll.
+```
+  Barrels [ 72%]: Smallbore, Corkscrew Rifling, Arrowhead Brake, Full Bore
+  Mags    [ 46%]: Ricochet Rounds, Extended Mag
+  Perks 1 [  8%]: Dynamic Sway Reduction
+  Perks 2 [  8%]: Tap the Trigger
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| God Roll | 0.23% | 429 |
+
+### Borrowed Time / Marshix / Roll / **"PvP God Roll (Alternate)"**
+This roll focuses on damage perks rather than consistency perks.
+```
+  Barrels [ 72%]: Smallbore, Corkscrew Rifling, Arrowhead Brake, Full Bore
+  Mags    [ 46%]: Ricochet Rounds, Extended Mag
+  Perks 1 [ 25%]: Rangefinder, Surplus, Tunnel Vision
+  Perks 2 [  8%]: Rampage
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| God Roll | 0.70% | 143 |
+
+### Borrowed Time / Aztecross / Overview
+These rolls are based on [Aztecross' review](https://www.youtube.com/watch?v=eHAD-4e5ml4&t=2598s).
+This review was before the season was live, and so is speculative.
+### Borrowed Time / Aztecross / Roll / **"PvP God Roll"**
+"Hell yeah!"
+```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [  8%]: Dynamic Sway Reduction
+  Perks 2 [  8%]: Tap the Trigger
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| God Roll | 0.69% | 144 |
+
+### Borrowed Time / Aztecross / Roll / **"PvP God Roll (stability)"**
+Buffs stability slightly more than the other god roll.
+```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [  8%]: Surplus
+  Perks 2 [  8%]: Tap the Trigger
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| God Roll | 0.69% | 144 |
+
+### Borrowed Time / Aztecross / Roll / **"PvP God Roll (zoom)"**
+Rangefinder is good.
+```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [  8%]: Rangefinder
+  Perks 2 [  8%]: Tap the Trigger
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| God Roll | 0.69% | 144 |
+
+### Borrowed Time / Aztecross / Roll / **"PvP Good Perks"**
+"There's a variety of good things here"
+```
+  Barrels [100%]: *
+  Mags    [100%]: *
+  Perks 1 [100%]: *
+  Perks 2 [ 33%]: Adrenaline Junkie, Frenzy, Demolitionist, One for All
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| Good Perks | 33.33% | 3 |
+
 ## Chroma Rush - Aztecross
 *For all possible perks, check out **Chroma Rush** over on [light.gg](https://www.light.gg/db/items/1119734784/chroma-rush/)*
 

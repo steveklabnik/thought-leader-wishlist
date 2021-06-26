@@ -1,5 +1,5 @@
 title: Destiny Thought Leader Wishlist
-description: Generated 2021-06-21 19:24:54 +00:00
+description: Generated 2021-06-26 05:48:37 +00:00
 //notes:(PvE) God Roll - Jarv / 1.1% chance
 dimwishlist:item=2990047042&perks=2420895100,1523832109,1546637391
 //notes:(PvP) "96 Range Roll" - Ascendant Nomad / 0.1% chance
@@ -169,6 +169,89 @@ dimwishlist:item=409551876&perks=1885400500,588594999,2387244414,2942552113
 dimwishlist:item=409551876&perks=1885400500,588594999,2387244414
 //notes:(PvP) "The Devour Roll" - True Vanguard / 0.7% chance
 dimwishlist:item=409551876&perks=972757866,2458213969
+//notes:(Marshix) PvE God Roll God Roll / 0.8% chance
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=1482024992,1885400500,3436462433,4104185692
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=1482024992,1885400500,3436462433,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=1482024992,1885400500,3436462433,4082225868
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=1482024992,1885400500,2779035018,4104185692
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=1482024992,1885400500,2779035018,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=1482024992,1885400500,2779035018,4082225868
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4090651448,1885400500,3436462433,4104185692
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4090651448,1885400500,3436462433,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4090651448,1885400500,3436462433,4082225868
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4090651448,1885400500,2779035018,4104185692
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4090651448,1885400500,2779035018,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4090651448,1885400500,2779035018,4082225868
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=839105230,1885400500,3436462433,4104185692
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=839105230,1885400500,3436462433,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=839105230,1885400500,3436462433,4082225868
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=839105230,1885400500,2779035018,4104185692
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=839105230,1885400500,2779035018,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=839105230,1885400500,2779035018,4082225868
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=202670084,1885400500,3436462433,4104185692
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=202670084,1885400500,3436462433,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=202670084,1885400500,3436462433,4082225868
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=202670084,1885400500,2779035018,4104185692
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=202670084,1885400500,2779035018,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=202670084,1885400500,2779035018,4082225868
+//notes:(Marshix) PvE God Roll (52 in the mag) God Roll / 0.4% chance
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=1482024992,2420895100,3643424744,4104185692
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=1482024992,2420895100,3643424744,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=1482024992,2420895100,3643424744,4082225868
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4090651448,2420895100,3643424744,4104185692
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4090651448,2420895100,3643424744,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4090651448,2420895100,3643424744,4082225868
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=839105230,2420895100,3643424744,4104185692
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=839105230,2420895100,3643424744,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=839105230,2420895100,3643424744,4082225868
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=202670084,2420895100,3643424744,4104185692
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=202670084,2420895100,3643424744,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=202670084,2420895100,3643424744,4082225868
+//notes:(Marshix) PvP God Roll God Roll / 0.2% chance
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=1482024992,1885400500,1359896290,1890422124
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=1482024992,2420895100,1359896290,1890422124
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4090651448,1885400500,1359896290,1890422124
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4090651448,2420895100,1359896290,1890422124
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=839105230,1885400500,1359896290,1890422124
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=839105230,2420895100,1359896290,1890422124
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=202670084,1885400500,1359896290,1890422124
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=202670084,2420895100,1359896290,1890422124
+//notes:(Marshix) PvP God Roll (Alternate) God Roll / 0.7% chance
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=1482024992,1885400500,2846385770,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=1482024992,1885400500,3436462433,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=1482024992,1885400500,2946784966,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=1482024992,2420895100,2846385770,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=1482024992,2420895100,3436462433,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=1482024992,2420895100,2946784966,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4090651448,1885400500,2846385770,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4090651448,1885400500,3436462433,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4090651448,1885400500,2946784966,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4090651448,2420895100,2846385770,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4090651448,2420895100,3436462433,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4090651448,2420895100,2946784966,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=839105230,1885400500,2846385770,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=839105230,1885400500,3436462433,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=839105230,1885400500,2946784966,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=839105230,2420895100,2846385770,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=839105230,2420895100,3436462433,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=839105230,2420895100,2946784966,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=202670084,1885400500,2846385770,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=202670084,1885400500,3436462433,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=202670084,1885400500,2946784966,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=202670084,2420895100,2846385770,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=202670084,2420895100,3436462433,3425386926
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=202670084,2420895100,2946784966,3425386926
+//notes:(Aztecross) PvP God Roll God Roll / 0.7% chance
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=1359896290,1890422124
+//notes:(Aztecross) PvP God Roll (stability) God Roll / 0.7% chance
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=3436462433,1890422124
+//notes:(Aztecross) PvP God Roll (zoom) God Roll / 0.7% chance
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=2846385770,1890422124
+//notes:(Aztecross) PvP Good Perks Good Perks / 33.3% chance
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=11612903
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4104185692
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=3523296417
+dimwishlist:item=https://www.light.gg/db/items/875848769/borrowed-time/&perks=4049631843
 //notes:(PvP) "The New Nasty" - Aztecross / 2.8% chance
 dimwishlist:item=1119734784&perks=2946784966,1015611457
 //notes:(PvP) "The New Nasty" - Aztecross / 2.8% chance
