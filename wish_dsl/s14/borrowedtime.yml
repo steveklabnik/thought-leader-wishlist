@@ -1,0 +1,128 @@
+syntax_version: 2
+name: Borrowed Time
+item_id: https://www.light.gg/db/items/875848769/borrowed-time/
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 12, c: 1}
+  perks2:      {t: 12, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  The only solar SMG of its archetype.
+activities:
+  - 
+    name: Marshix
+    overview: >
+      These rolls are based on [Marshix's review](https://www.youtube.com/watch?v=K3VuBCJ-2kY).
+    roll_sets:
+      -
+        name: PvE God Roll
+        overview: >
+          Just some good perks.
+        perks: 
+          base: 
+            barrels: [Smallbore, Corkscrew Rifling, Arrowhead Brake, Fullbore]
+            magazines: [Ricochet Rounds]
+            perks1: [Surplus, Feeding Frenzy]
+            perks2: [Frenzy, Rampage, Swashbuckler]
+            masterworks: []
+        variants:
+          - God Roll
+      -
+        name: PvE God Roll (52 in the mag)
+        overview: >
+          Extended Mag + Overflow gets you a *lot* of bullets.
+        perks: 
+          base: 
+            barrels: [Smallbore, Corkscrew Rifling, Arrowhead Brake, Fullbore]
+            magazines: [Extended Mag]
+            perks1: [Overflow]
+            perks2: [Frenzy, Rampage, Swashbuckler]
+            masterworks: []
+        variants:
+          - God Roll
+      -
+        name: PvP God Roll
+        overview: >
+          A very reliable roll.
+        perks: 
+          base: 
+            barrels: [Smallbore, Corkscrew Rifling, Arrowhead Brake, Fullbore]
+            magazines: [Ricochet Rounds, Extended Mag]
+            perks1: [Dynamic Sway Reduction]
+            perks2: [Tap the Trigger]
+            masterworks: []
+        variants:
+          - God Roll
+      -
+        name: PvP God Roll (Alternate)
+        overview: >
+          This roll focuses on damage perks rather than consistency perks.
+        perks: 
+          base: 
+            barrels: [Smallbore, Corkscrew Rifling, Arrowhead Brake, Fullbore]
+            magazines: [Ricochet Rounds, Extended Mag]
+            perks1: [Rangefinder, Surplus, Tunnel Vision]
+            perks2: [Rampage]
+            masterworks: []
+        variants:
+          - God Roll
+  - 
+    name: Aztecross
+    overview: >
+      These rolls are based on [Aztecross' review](https://www.youtube.com/watch?v=eHAD-4e5ml4&t=2598s).
+
+      This review was before the season was live, and so is speculative.
+    roll_sets:
+      -
+        name: PvP God Roll
+        overview: >
+          "Hell yeah!"
+        perks: 
+          base: 
+            barrels: []
+            magazines: []
+            perks1: [Dynamic Sway Reduction]
+            perks2: [Tap the Trigger]
+            masterworks: []
+        variants:
+          - God Roll
+      -
+        name: PvP God Roll (stability)
+        overview: >
+          Buffs stability slightly more than the other god roll.
+        perks: 
+          base: 
+            barrels: []
+            magazines: []
+            perks1: [Surplus]
+            perks2: [Tap the Trigger]
+            masterworks: []
+        variants:
+          - God Roll
+      -
+        name: PvP God Roll (zoom)
+        overview: >
+          Rangefinder is good.
+        perks: 
+          base: 
+            barrels: []
+            magazines: []
+            perks1: [Rangefinder]
+            perks2: [Tap the Trigger]
+            masterworks: []
+        variants:
+          - God Roll
+      -
+        name: PvP Good Perks
+        overview: >
+          "There's a variety of good things here"
+        perks: 
+          base: 
+            barrels: []
+            magazines: []
+            perks1: []
+            perks2: [Adrenaline Junkie, Frenzy, Demolitionist, One for All]
+            masterworks: []
+        variants:
+          - Good Perks
