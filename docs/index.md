@@ -27,6 +27,7 @@ Check out the [README](https://github.com/steveklabnik/thought-leader-wishlist/)
 * Gridskipper ([Fallout](#gridskipper---fallout))
 * [Ignition Code](#ignition-code) ([Ehroar](#ignition-code--ehroar--Overview))
 * Plug One.1 ([Aztecross](#plug-one1---aztecross), [Fallout](#plug-one1---fallout))
+* [Sojourner's Tale](#sojourners-tale) ([Ehroar](#sojourners-tale--ehroar--Overview))
 
 **Season 13 - Season of the Chosen (February 19, 2021 - May 11, 2021)**
 * Bottom Dollar ([Aztecross](#bottom-dollar---aztecross))
@@ -667,6 +668,73 @@ Use an Adept Charge Time mod.
   Perks 2 [ 33%]: Cornered, Adrenaline Junkie
   MWorks  [100%]: *
   ```
+# Sojourner's Tale
+*For all possible perks, check out **Sojourner's Tale** over on [light.gg]()*
+
+A decent replacement for First In, Last Out that is farmable in Season 14, now that FILO is in the world loot pool and hard to farm. Both FILO and Sojourner's Tale are slug shotguns used for boss DPS in the Taniks fight in Deep Stone Crypt, as well as the Templar and Atheon fights in Vault of Glass.
+### Sojourner's Tale / Ehroar / Overview
+These rolls are based on [Ehroar's review](https://www.youtube.com/watch?v=hBgKZmknK2Y).
+These two weapons are complimentary; this one has higher highs, but is less consistent than FILO is. Its perks are more situational, but are likely to be able to be procc'd during most fights where FILO is used as well.
+If you don't have a FILO God Roll, then you should absolutely farm this weapon. If you do, you still may want to for that extra little oomph.
+### Sojourner's Tale / Ehroar / Roll / **"PvE God Roll (Almost FILO)"**
+The same roll you can get on First In, Last Out, but with Frenzy instead of Vorpal Weapon.
+Vorpal adds 15% damage against bosses, and doesn't need to be procc'd. Frenzy also gives the 15%, but you need to be "in combat" to proc. That being said, you don't need it *out* to activate it, and so it's very likely that by the time you're doing boss DPS, it will have activated, and so these two rolls are effectively the same in many cases.
+```
+  Barrels [100%]: *
+  Mags    [ 28%]: Assault Mag
+  Perks 1 [ 16%]: Auto-Loading Holster
+  Perks 2 [ 16%]: Frenzy
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| God Roll | 0.79% | 126 |
+
+### Sojourner's Tale / Ehroar / Roll / **"PvE God Roll (Surrounded)"**
+You need Surrounded Spec to make this work.
+It is a 30% buff, which is the second-highest possible, but significantly higher than Frenzy. FILO can roll with Surrounded too, but it is very unlikely that you have one lying around, though check your vault!
+Surrounded wasn't really considered for FILO at the time because no fights where you'd use it would proc Surrounded, but both boss fights in Vault of Glass are very likely to, and so it's much better there than in other raids.
+```
+  Barrels [100%]: *
+  Mags    [ 28%]: Assault Mag
+  Perks 1 [ 16%]: Auto-Loading Holster
+  Perks 2 [ 16%]: Surrounded
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| God Roll | 0.79% | 126 |
+
+### Sojourner's Tale / Ehroar / Roll / **"Throw More Grenades"**
+The highest damage increasing perk, but also the most situational. You can get up to three stacks, and it lasts for ten seconds. Each stack is 11%. So if you can get two grenade kills within ten seconds of a boss DPS phase, you can theoretically do more damage, but this is *very* situational.
+```
+  Barrels [100%]: *
+  Mags    [ 28%]: Assault Mag
+  Perks 1 [ 16%]: Auto-Loading Holster
+  Perks 2 [ 16%]: Adrenaline Junkie
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| God Roll | 0.79% | 126 |
+
+### Sojourner's Tale / Ehroar / Roll / **"Good Roll"**
+Not the best, but still a good slug shotgun for boss DPS.
+```
+  Barrels [100%]: *
+  Mags    [ 28%]: Assault Mag
+  Perks 1 [ 16%]: Auto-Loading Holster
+  Perks 2 [100%]: *
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| God Roll | 4.76% | 21 |
+
 ## Bottom Dollar - Aztecross
 *For all possible perks, check out **Bottom Dollar** over on [light.gg](https://www.light.gg/db/items/1046651176/bottom-dollar/)*
 
