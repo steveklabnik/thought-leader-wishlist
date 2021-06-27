@@ -1,0 +1,37 @@
+syntax_version: 2
+name: First In, Last Out
+item_id: 3616586446
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 5, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  First In, Last Out, affectionately referred to as "FILO," is a slug
+  shotgun used for boss DPS in the Taniks fight in Deep Stone Crypt, as well as
+  the Templar and Atheon fights in Vault of Glass.
+
+  I am writing this summary during Season 14, and at this point, FILO is in the
+  world loot pool, and hard to get. You may consider trying to get a Sojourner's
+  Tale instead; FILO is more consistent than it is, but basically impossible to
+  farm, and Sojourner's Tale has higher possible DPS.
+activities:
+  - 
+    name: PvE
+    overview: >
+      The gold standard in Boss DPS.
+    roll_sets:
+      -
+        name: Boss DPS God Roll
+        overview: >
+          The Legend. Pairs nicely with Heritage to melt raid bosses.
+        perks: 
+          base: 
+            barrels: []
+            magazines: [Assault Mag]
+            perks1: [Auto-Loading Holster]
+            perks2: [Vorpal Weapon]
+            masterworks: []
+        variants:
+          - God Roll
