@@ -34,6 +34,7 @@ Check out the [README](https://github.com/steveklabnik/thought-leader-wishlist/)
 * The Keening ([True Vanguard](#the-keening---true-vanguard))
 
 **Season 11 - Season of Arrivals (June 9, 2020 - November 10, 2020)**
+* [First In, Last Out](#first-in-last-out) ([PvE](#first-in-last-out--pve--Overview))
 * IKELOS_SMG_V1.0.2 ([Jarv](#ikelos_smg_v102---jarv))
 
 **Season 10 - Season of the Worthy (March 10, 2020 - June 9, 2020)**
@@ -821,6 +822,27 @@ Slap a Backup Mag mod on this, ammo for days.
   Perks 2 [  8%]: Multikill Clip
   MWorks  [100%]: *
   ```
+# First In, Last Out
+*For all possible perks, check out **First In, Last Out** over on [light.gg]()*
+
+First In, Last Out, affectionately referred to as "FILO," is a slug shotgun used for boss DPS in the Taniks fight in Deep Stone Crypt, as well as the Templar and Atheon fights in Vault of Glass.
+I am writing this summary during Season 14, and at this point, FILO is in the world loot pool, and hard to get. You may consider trying to get a Sojourner's Tale instead; FILO is more consistent than it is, but basically impossible to farm, and Sojourner's Tale has higher possible DPS.
+### First In, Last Out / PvE / Overview
+The gold standard in Boss DPS.
+### First In, Last Out / PvE / Roll / **"Boss DPS God Roll"**
+The Legend. Pairs nicely with Heritage to melt raid bosses.
+```
+  Barrels [100%]: *
+  Mags    [ 28%]: Assault Mag
+  Perks 1 [ 20%]: Auto-Loading Holster
+  Perks 2 [ 20%]: Vorpal Weapon
+  MWorks  [100%]: *
+```
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| God Roll | 1.14% | 87 |
+
 ## IKELOS_SMG_V1.0.2 - Jarv
 *For all possible perks, check out **IKELOS_SMG_V1.0.2** over on [light.gg](https://www.light.gg/db/items/2222560548/ikelos-smg-v102/)*
 
