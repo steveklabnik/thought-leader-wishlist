@@ -1,6 +1,6 @@
 syntax_version: 2
 name: Borrowed Time
-item_id: https://www.light.gg/db/items/875848769/borrowed-time/
+item_id: 875848769
 traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 8, c: 2}
